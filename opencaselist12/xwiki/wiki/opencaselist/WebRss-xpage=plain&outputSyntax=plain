@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>RSS feed for document changes</title>
+    <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/</link>
+    <description>RSS feed for document changes</description>
+    <language>en</language>
+    <copyright />
+    <dc:creator>XWiki</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:rights />
+    <image>
+      <title>XWiki Logo</title>
+      <url>http://opencaselist.paperlessdebate.com/xwiki/skins/colibri/logo.png</url>
+      <link>http://opencaselist.paperlessdebate.com</link>
+      <description>XWiki Logo</description>
+    </image>
+    <item>
+      <title>XWiki WatchList Notification Rules Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/WatchListClass?language=</link>
+      <description>Version 1.79 edited by superadmin on Sun Aug 18 16:02:17 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 23:02:17 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/WatchListClass?language=</guid>
+      <dc:creator>superadmin</dc:creator>
+      <dc:date>2013-08-18T23:02:17Z</dc:date>
+    </item>
+    <item>
+      <title>Entry Sheet</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/EntrySheet?language=en</link>
+      <description>Version 30.1 edited by Administrator on Sun Aug 18 13:00:49 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 20:00:49 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/EntrySheet?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T20:00:49Z</dc:date>
+    </item>
+    <item>
+      <title>Team Sheet</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamSheet?language=en</link>
+      <description>Version 7.1 edited by Administrator on Sun Aug 18 12:57:44 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:57:44 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamSheet?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:57:44Z</dc:date>
+    </item>
+    <item>
+      <title>WebPreferences</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WebPreferences?language=en</link>
+      <description>Version 2.3 edited by Administrator on Sun Aug 18 12:56:13 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:56:13 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WebPreferences?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:56:13Z</dc:date>
+    </item>
+    <item>
+      <title>Annotations configuration panel</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/AnnotationCode/AnnotationConfig?language=</link>
+      <description>Version 1.2 edited by Administrator on Sun Aug 18 12:51:37 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:51:37 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/AnnotationCode/AnnotationConfig?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:51:37Z</dc:date>
+    </item>
+    <item>
+      <title>Skin</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/DefaultSkin?language=</link>
+      <description>Version 3.1 edited by Administrator on Sun Aug 18 12:44:42 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:44:42 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/DefaultSkin?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:44:42Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Skin Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/XWikiSkins?language=</link>
+      <description>Version 2.5 edited by Administrator on Sun Aug 18 12:39:41 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:39:41 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/XWikiSkins?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:39:41Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Preferences</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/XWikiPreferences?language=en</link>
+      <description>Version 185.1 edited by Administrator on Sun Aug 18 12:35:34 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:35:34 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/XWiki/XWikiPreferences?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:35:34Z</dc:date>
+    </item>
+    <item>
+      <title>Quick Links Panel</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Panels/QuickLinks?language=</link>
+      <description>Version 9.1 edited by Administrator on Sun Aug 18 12:31:33 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:31:33 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Panels/QuickLinks?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:31:33Z</dc:date>
+    </item>
+    <item>
+      <title>openCaselist 2012-2013</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/?language=</link>
+      <description>Version 21.1 edited by Administrator on Sun Aug 18 12:22:58 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 19:22:58 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T19:22:58Z</dc:date>
+    </item>
+    <item>
+      <title>WikiDiffGroovy</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WikiDiffGroovy?language=</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:11 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:11 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WikiDiffGroovy?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:11Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Advanced Administration Tools</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/?language=</link>
+      <description>Version 6.1 edited by superadmin on Sun Aug 18 08:11:11 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:11 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:11Z</dc:date>
+    </item>
+    <item>
+      <title>Wiki Diff</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WikiDiff?language=</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:11 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:11 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/WikiDiff?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:11Z</dc:date>
+    </item>
+    <item>
+      <title>Space Used</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/UsedSpace?language=</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:10 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:10 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/UsedSpace?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:10Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Advanced Administration Install</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/ToolsInstall?language=</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:10 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:10 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/ToolsInstall?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:10Z</dc:date>
+    </item>
+    <item>
+      <title>Team Template</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamTemplate?language=en</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:09 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:09 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamTemplate?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:09Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Advanced Administration Tools</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/Tools?language=</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:09 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:09 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/Tools?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:09Z</dc:date>
+    </item>
+    <item>
+      <title>TeamPageTemplate</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamPageTemplate?language=en</link>
+      <description>Version 7.1 edited by superadmin on Sun Aug 18 08:11:08 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:08 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamPageTemplate?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:08Z</dc:date>
+    </item>
+    <item>
+      <title>Team Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamClass?language=en</link>
+      <description>Version 5.1 edited by superadmin on Sun Aug 18 08:11:08 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:08 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/TeamClass?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:08Z</dc:date>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/Team?language=en</link>
+      <description>Version 6.1 edited by superadmin on Sun Aug 18 08:11:07 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 15:11:07 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/opencaselist/Admin/Team?language=en</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2013-08-18T15:11:07Z</dc:date>
+    </item>
+  </channel>
+</rss>

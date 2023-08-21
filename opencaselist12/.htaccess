@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?opencaselist12.paperlessdebate.com$ [NC]
+RewriteCond %{REQUEST_URI} !^/xwiki/wiki/opencaselist/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /xwiki/wiki/opencaselist/$1
+RewriteCond %{HTTP_HOST} ^(www.)?opencaselist12.paperlessdebate.com$ [NC]
+RewriteRule ^(/)?$ xwiki/wiki/opencaselist/index.htm [L]
+

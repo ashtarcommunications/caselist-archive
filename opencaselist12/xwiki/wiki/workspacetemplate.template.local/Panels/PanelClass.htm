@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                                    <title>Panel Class (Panels.PanelClass) - XWiki</title>
+                <meta http-equiv="Content-Script-Type" content="text/javascript" />
+                        <meta http-equiv="imagetoolbar" content="no"/>
+                      <link rel="alternate" type="application/x-wiki" title="Edit" href="/xwiki/wiki/workspacetemplate.template.local/edit/Panels/PanelClass" />
+                    <link rel="canonical" href="/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass" />
+                            <meta name="document" content="Panels.PanelClass"/>
+    <meta name="wiki" content="workspacetemplate"/>
+    <meta name="space" content="Panels"/>
+    <meta name="page" content="PanelClass"/>
+    <meta name="version" content="1.1"/>
+    <meta name="restURL" content="/xwiki/rest/wikis/workspacetemplate/spaces/Panels/pages/PanelClass"/>
+    <meta name="form_token" content="1aykknXsFKv6hJvF4AWUjw"/>
+                <meta name="gwt:property" content="locale=en" />
+                <meta name="revisit-after" content="7 days" />
+<meta name="description" content="Panel Class" />
+<meta name="keywords" content="wiki" />
+<meta name="distribution" content="GLOBAL" />
+<meta name="rating" content="General" />
+<meta name="author" content="Administrator" />
+<meta http-equiv="reply-to" content="" />
+<meta name="language" content="en" />
+<link rel="alternate" type="application/rss+xml" title="Wiki Feed RSS" href="/xwiki/wiki/workspacetemplate.template.local/WebRss?xpage=rdf" />
+<link rel="alternate" type="application/rss+xml" title="Blog RSS Feed" href="/xwiki/wiki/workspacetemplate.template.local/Blog/GlobalBlogRss?xpage=plain" />
+
+                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+<link href="../skin/skins/colibri/style.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/skins/colibri/style.css?colorTheme=ColorThemes.DefaultColorTheme" rel="stylesheet" type="text/css" media="all" />
+<link href="../skin/skins/colibri/print.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/skins/colibri/print.css?colorTheme=ColorThemes.DefaultColorTheme" rel="stylesheet" type="text/css" media="print" />
+        <!--[if IE]>
+  <link href="../skin/skins/colibri/ie-all.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/skins/colibri/ie%2Dall.css?colorTheme=ColorThemes.DefaultColorTheme" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+  <link href="../skin/skins/colibri/ie-6.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/skins/colibri/ie%2D6.css?colorTheme=ColorThemes.DefaultColorTheme" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!-- com.xpn.xwiki.plugin.skinx.CssResourceSkinExtensionPlugin -->
+<link rel='stylesheet' type='text/css' href="../ssx/AnnotationCode/Settings-language=en.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/ssx/AnnotationCode/Settings?language=en"/><link rel='stylesheet' type='text/css' href="../ssx/AnnotationCode/Style-language=en.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/ssx/AnnotationCode/Style?language=en"/><link rel='stylesheet' type='text/css' href="../ssx/XWiki/WorkspaceStyle-language=en.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/ssx/XWiki/WorkspaceStyle?language=en"/><link rel='stylesheet' type='text/css' href="../ssx/XWiki/SharePage-language=en.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/ssx/XWiki/SharePage?language=en"/>
+<link rel='stylesheet' type='text/css' href="../skin/resources/js/xwiki/widgets/modalPopup.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/widgets/modalPopup.css?colorTheme=ColorThemes.DefaultColorTheme"/><link rel='stylesheet' type='text/css' href="../skin/resources/js/xwiki/widgets/jumpToPage.css-language=en.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/widgets/jumpToPage.css?language=en"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/widgets/confirmationBox.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/confirmationBox.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/widgets/notification.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/notification.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/search/searchSuggest.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/search/searchSuggest.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/viewers/tags.css-colorTheme=ColorThemes.DefaultColorTheme.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/viewers/tags.css?colorTheme=ColorThemes.DefaultColorTheme"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/viewers/comments.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/viewers/comments.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/widgets/upload.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/upload.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/js/xwiki/viewers/attachments.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/viewers/attachments.css"/><link rel='stylesheet' type='text/css' href="../skin/resources/uicomponents/pagination/pagination.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/pagination/pagination.css"/>
+
+    
+    <link href="../skin/resources/uicomponents/suggest/suggest.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/suggest/suggest.css" rel="stylesheet" type="text/css" />
+<link href="../skin/resources/js/xwiki/lightbox/lightbox.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/lightbox/lightbox.css" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+  <link href="../skin/resources/js/xwiki/lightbox/lightboxIE.css" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/lightbox/lightboxIE.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                      
+   
+  <script type="text/javascript" src="../../../resources/js/prototype/prototype.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="../skin/resources/js/xwiki/xwiki.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/xwiki.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+XWiki.webapppath = "xwiki/";
+XWiki.servletpath = "wiki/workspacetemplate.template.local/";
+XWiki.contextPath = "/xwiki";
+XWiki.mainWiki = "xwiki";
+XWiki.currentWiki = "workspacetemplate";
+XWiki.currentSpace = "Panels";
+XWiki.currentPage = "PanelClass";
+XWiki.editor = "";
+XWiki.viewer = "";
+XWiki.contextaction = "view";
+XWiki.docisnew = false;
+XWiki.docsyntax = "xwiki/2.0";
+XWiki.docvariant = "";
+XWiki.blacklistedSpaces = [ "Import","Panels","Scheduler","Stats","XAppClasses","XAppSheets","XAppTemplates","XWiki","WatchCode","WatchSheets","XApp","WatchAdmin","Watch","ColorThemes","AnnotationCode" ];
+XWiki.hasEdit = false;
+XWiki.hasProgramming = false;
+XWiki.hasBackupPackImportRights = false;
+window.docviewurl = "/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass";
+window.docediturl = "/xwiki/wiki/workspacetemplate.template.local/edit/Panels/PanelClass";
+window.docsaveurl = "/xwiki/wiki/workspacetemplate.template.local/save/Panels/PanelClass";
+window.docgeturl = "/xwiki/wiki/workspacetemplate.template.local/get/Panels/PanelClass";
+// ]]>
+</script>
+<!-- com.xpn.xwiki.plugin.skinx.JsResourceSkinExtensionPlugin -->
+<script type='text/javascript' src="../skin/resources/js/scriptaculous/effects.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/scriptaculous/effects.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/js/xwiki/widgets/modalPopup.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/widgets/modalPopup.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/js/xwiki/widgets/jumpToPage.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/widgets/jumpToPage.js" defer='defer'></script>
+<script type='text/javascript' src="../../../resources/uicomponents/model/entityReference.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/uicomponents/model/entityReference.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/widgets/confirmationBox.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/confirmationBox.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/widgets/confirmedAjaxRequest.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/confirmedAjaxRequest.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/widgets/notification.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/notification.js" defer='defer'></script>
+<script type='text/javascript' src="../../../resources/uicomponents/widgets/list/xlist.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/uicomponents/widgets/list/xlist.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/suggest/suggest.js-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/suggest/suggest.js?language=en" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/search/searchSuggest.js-h=-837671017.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/search/searchSuggest.js?h=-837671017" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/viewers/tags.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/viewers/tags.js" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/viewers/comments.js-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/viewers/comments.js?language=en" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/uicomponents/widgets/upload.js-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/uicomponents/widgets/upload.js?language=en" defer='defer'></script>
+<script type='text/javascript' src="../skin/resources/js/xwiki/viewers/attachments.js-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/skin/resources/js/xwiki/viewers/attachments.js?language=en" defer='defer'></script>
+
+<script type='text/javascript' src="../jsx/AnnotationCode/Settings-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/jsx/AnnotationCode/Settings?language=en" defer='defer'></script>
+<script type='text/javascript' src="../jsx/AnnotationCode/Script-language=en.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/jsx/AnnotationCode/Script?language=en" defer='defer'></script>
+
+<script type="text/javascript" src="../../../resources/js/xwiki/compatibility.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/js/xwiki/compatibility.js" defer="defer"></script>
+<script type="text/javascript" src="../../../resources/js/xwiki/markerScript.js" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/js/xwiki/markerScript.js" defer="defer"></script>
+
+  </head>
+  <body id="body" class="wiki-workspacetemplate space-Panels viewbody hideleft">
+<div id="xwikimaincontainer">
+<div id="xwikimaincontainerinner">
+
+  <div id="menuview">
+    <div id="mainmenu" class="layoutsubsection actionmenu">
+<div class="gradientfilterIE"></div>
+<div class="componentcontainer">
+<strong id="xwikimenutitle" class="hidden">General Actions:</strong>
+<div class="rightmenu">
+            </div>
+<div class="leftmenu">
+        <div id="tmWiki" class="tmWiki topmenuentry dropdownmenuentry  hasIcon" onmouseover="showsubmenu(this);" onmouseout="hidesubmenu(this);">
+<span class="tme-extensible">
+      <span class="tmetype">Workspace: </span><a class="tme hastype" href="../index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/"><strong>workspacetemplate</strong></a>
+    <span class="menuarrow">&#9660;</span><span class="hidden menucolon">: </span>
+</span><span class="submenu hidden">
+              <span class="submenuitem "><a href="../AllDocs.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/AllDocs" id="tmWikiDocumentIndex" class="tmWikiDocumentIndex">Document Index</a></span>
+      </span></div>
+<div class="topmenuentry"><span class="separator">&raquo;</span></div>
+  <div id="tmSpace" class="tmSpace topmenuentry dropdownmenuentry  hasIcon" onmouseover="showsubmenu(this);" onmouseout="hidesubmenu(this);">
+<span class="tme-extensible">
+      <span class="tmetype">Space: </span><a class="tme hastype" href="index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/"><strong>Panels</strong></a>
+    <span class="menuarrow">&#9660;</span><span class="hidden menucolon">: </span>
+</span><span class="submenu hidden">
+              <span class="submenuitem "><a href="../SpaceIndex-space=Panels" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/SpaceIndex?space=Panels" id="tmSpaceDocumentIndex" class="tmSpaceDocumentIndex">Document Index</a></span>
+      </span></div>
+<div class="topmenuentry"><span class="separator">&raquo;</span></div>
+  <div id="tmPage" class="tmPage topmenuentry hasIcon">
+      <span class="tmetype">Page: </span><a class="tme hastype" href="PanelClass.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass"><strong>PanelClass</strong></a>
+  </div>
+</div>
+</div>
+</div>
+
+  </div>
+ <div id="headerglobal" class="layoutsection">
+<div class="minwidthb"></div>
+  <div id="company">
+  <div id="companylogo">
+    <a href="../index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/" title="Home" rel="home">
+    <img src="../../../skins/colibri/logo.png" tppabs="http://opencaselist.paperlessdebate.com/xwiki/skins/colibri/logo.png" alt="Wiki Logo"/>
+    </a>
+  </div>   </div>   <div id="globallinks">
+	
+	
+                                            </div>   <div class="clearfloats"></div>
+</div> 
+
+<div class="contenthideleft" id="contentcontainer">
+<div id="contentcontainerinner">
+<div class="leftsidecolumns">
+  <div id="contentcolumn"> 
+          <div class="main layoutsubsection">
+      <div id="contentmenu" class="actionmenu">
+    <div class="gradientfilterIE"></div>
+<div class="componentcontainer">
+
+</div>
+    </div>
+    <div id="mainContentArea">
+  
+   <div id="hierarchy">
+                                                      <a href="../index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/">workspacetemplate</a> <span class='separator'>&#187;</span> <a href="../XWiki/index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/XWiki/">XWiki Space</a> <span class='separator'>&#187;</span> <a href="../XWiki/XWikiClasses.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/XWiki/XWikiClasses">Data types</a> <span class='separator'>&#187;</span> <span class='current'>Panel Class</span>
+                            </div>
+
+          
+<div id="document-title"><h1>Panel Class</h1></div>
+
+                        <div id="document-info">
+    <div class="xdocLastModification">       Last modified by <span class="wikilink"><a href="../../../bin/XWiki/Admin.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/bin/XWiki/Admin">Administrator</a></span> on 2009/09/08 17:00
+    </div>
+    <div>
+                      <span id="commentsshortcut"><a href="PanelClass-viewer=comments" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=comments">Comments</a> <span class="itemCount">(0)</span></span>
+               <span class="separator">&#183;</span>         <span id="attachmentsshortcut"><a href="PanelClass-viewer=attachments" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=attachments">Attachments</a> <span class="itemCount">(0)</span></span>
+               <span class="separator">&#183;</span>         <span id="historyshortcut"><a href="PanelClass-viewer=history" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=history">History</a></span>
+               <span class="separator">&#183;</span>         <span id="informationshortcut"><a href="PanelClass-viewer=information" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=information">Information</a></span>
+          </div>
+    <div class="clearfloats"></div>
+  </div>
+
+<div id="xwikicontent">
+<h1 id="HClassproperties" class="wikigeneratedheader"><span>Class properties</span></h1><ul><li>Name (name: String)</li><li>Panel type (type: Static List)</li><li>Description (description: TextArea)</li><li>Content (content: TextArea)</li><li>Category (category: Static List)</li><li><em>You can use the class editor to <a href="../edit/Panels/PanelClass-editor=class" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/edit/Panels/PanelClass?editor=class">add or modify the class properties</a>.</em></li></ul><h1 id="HCreateanewdocument" class="wikigeneratedheader"><span>Create a new document</span></h1><div class="wikimodel-emptyline"></div><form action="" id="newdoc" method="post">
+<div>
+<input name="form_token" type="hidden" value="1aykknXsFKv6hJvF4AWUjw"></input>
+<input name="parent" type="hidden" value="Panels.PanelClass"></input>
+<input name="template" type="hidden" value="Panels.PanelTemplate"></input>
+<input name="sheet" type="hidden" value="1"></input>
+<label for="spaceName">Space: </label><input id="spaceName" name="spaceName" size="8" type="text" value="Main"></input>
+<label for="docName">Document: </label><input class="withTip" id="docName" name="docName" type="text" value="Document name"></input>         
+<span class="buttonwrapper"><input class="button" type="submit" value="Create this document"></input></span>
+</div>
+</form><h1 id="HExistingdocuments" class="wikigeneratedheader"><span>Existing documents</span></h1><ul><li><span class="wikilink"><a href="DocumentInformation.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/DocumentInformation"><span class="wikigeneratedlinkcontent">DocumentInformation</span></a></span></li><li><span class="wikilink"><a href="../Blog/CategoriesPanel" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/CategoriesPanel"><span class="wikigeneratedlinkcontent">CategoriesPanel</span></a></span></li><li><span class="wikilink"><a href="QuickLinks.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/QuickLinks"><span class="wikigeneratedlinkcontent">QuickLinks</span></a></span></li><li><span class="wikilink"><a href="../Blog/RecentPostsPanel" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/RecentPostsPanel"><span class="wikigeneratedlinkcontent">RecentPostsPanel</span></a></span></li><li><span class="wikilink"><a href="RightsTips.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/RightsTips"><span class="wikigeneratedlinkcontent">RightsTips</span></a></span></li><li><span class="wikilink"><a href="SyntaxHelp.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/SyntaxHelp"><span class="wikigeneratedlinkcontent">SyntaxHelp</span></a></span></li><li><span class="wikilink"><a href="SpaceDocs.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/SpaceDocs"><span class="wikigeneratedlinkcontent">SpaceDocs</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/UserWikisIsOwnerWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/UserWikisIsOwnerWidget"><span class="wikigeneratedlinkcontent">UserWikisIsOwnerWidget</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/UserWikisIsUserWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/UserWikisIsUserWidget"><span class="wikigeneratedlinkcontent">UserWikisIsUserWidget</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/LastCreatedWikisWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/LastCreatedWikisWidget"><span class="wikigeneratedlinkcontent">LastCreatedWikisWidget</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001955." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/CurrentMonthActivity"><span class="wikigeneratedlinkcontent">CurrentMonthActivity</span></a></span></li><li><span class="wikilink"><a href="IncludedDocuments.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/IncludedDocuments"><span class="wikigeneratedlinkcontent">IncludedDocuments</span></a></span></li><li><span class="wikilink"><a href="AddClassProperty.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/AddClassProperty"><span class="wikigeneratedlinkcontent">AddClassProperty</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001956." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostViewedPages"><span class="wikigeneratedlinkcontent">MostViewedPages</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001957." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/BestReferrers"><span class="wikigeneratedlinkcontent">BestReferrers</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001958." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostReferredPages"><span class="wikigeneratedlinkcontent">MostReferredPages</span></a></span></li><li><span class="wikilink"><a href="Shortcuts.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Shortcuts"><span class="wikigeneratedlinkcontent">Shortcuts</span></a></span></li><li><span class="wikilink"><a href="AddObject.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/AddObject"><span class="wikigeneratedlinkcontent">AddObject</span></a></span></li><li><span class="wikilink"><a href="RecentlyVisited.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/RecentlyVisited"><span class="wikigeneratedlinkcontent">RecentlyVisited</span></a></span></li><li><span class="wikilink"><a href="EditTranslations.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/EditTranslations"><span class="wikigeneratedlinkcontent">EditTranslations</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/MyLastWikiModificationsWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/MyLastWikiModificationsWidget"><span class="wikigeneratedlinkcontent">MyLastWikiModificationsWidget</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001959." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/CurrentYearActivity"><span class="wikigeneratedlinkcontent">CurrentYearActivity</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/LastWikiModificationsWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/LastWikiModificationsWidget"><span class="wikigeneratedlinkcontent">LastWikiModificationsWidget</span></a></span></li><li><span class="wikilink"><a href="../Blog/ArchivePanel" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/ArchivePanel"><span class="wikigeneratedlinkcontent">ArchivePanel</span></a></span></li><li><span class="wikilink"><a href="Recently+Modified.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Recently+Modified"><span class="wikigeneratedlinkcontent">Recently Modified</span></a></span></li><li><span class="wikilink"><a href="Navigation.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Navigation"><span class="wikigeneratedlinkcontent">Navigation</span></a></span></li><li><span class="wikilink"><a href="MyRecentModifications.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/MyRecentModifications"><span class="wikigeneratedlinkcontent">MyRecentModifications</span></a></span></li><li><span class="wikilink"><a href="ObjectEditorWelcome" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/ObjectEditorWelcome"><span class="wikigeneratedlinkcontent">ObjectEditorWelcome</span></a></span></li><li><span class="wikilink"><a href="EditModes.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/EditModes"><span class="wikigeneratedlinkcontent">EditModes</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001960." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostViewedSpaces"><span class="wikigeneratedlinkcontent">MostViewedSpaces</span></a></span></li><li><span class="wikilink"><a href="Spaces.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Spaces"><span class="wikigeneratedlinkcontent">Spaces</span></a></span></li><li><span class="wikilink"><a href="../WikiCode/UserWikisIsAdminWidget.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WikiCode/UserWikisIsAdminWidget"><span class="wikigeneratedlinkcontent">UserWikisIsAdminWidget</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001961." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/AllTimeActivity"><span class="wikigeneratedlinkcontent">AllTimeActivity</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001962." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostEditedPages"><span class="wikigeneratedlinkcontent">MostEditedPages</span></a></span></li><li><span class="wikilink"><a href="TagCloud.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/TagCloud"><span class="wikigeneratedlinkcontent">TagCloud</span></a></span></li><li><span class="wikilink"><a href="Backlinks.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Backlinks"><span class="wikigeneratedlinkcontent">Backlinks</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001963." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostActiveContributors"><span class="wikigeneratedlinkcontent">MostActiveContributors</span></a></span></li><li><span class="wikilink"><a href="Members.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Members"><span class="wikigeneratedlinkcontent">Members</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001964." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/LeastActiveContributors"><span class="wikigeneratedlinkcontent">LeastActiveContributors</span></a></span></li><li><span class="wikilink"><a href="OrphanedPages.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/OrphanedPages"><span class="wikigeneratedlinkcontent">OrphanedPages</span></a></span></li><li><span class="wikilink"><a href="RightsHelp.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/RightsHelp"><span class="wikigeneratedlinkcontent">RightsHelp</span></a></span></li><li><span class="wikilink"><a href="WorkspaceInformationPanel.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/WorkspaceInformationPanel"><span class="wikigeneratedlinkcontent">WorkspaceInformationPanel</span></a></span></li><li><span class="wikilink"><a href="RightsEditorWelcome" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/RightsEditorWelcome"><span class="wikigeneratedlinkcontent">RightsEditorWelcome</span></a></span></li><li><span class="wikilink"><a href="Search.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Search"><span class="wikigeneratedlinkcontent">Search</span></a></span></li><li><span class="wikilink"><a href="../Blog/UnpublishedPanel" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/UnpublishedPanel"><span class="wikigeneratedlinkcontent">UnpublishedPanel</span></a></span></li><li><span class="wikilink"><a href="ClassSwitcher.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/ClassSwitcher"><span class="wikigeneratedlinkcontent">ClassSwitcher</span></a></span></li><li><span class="wikilink"><a href="Recently+Created.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Recently+Created"><span class="wikigeneratedlinkcontent">Recently Created</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001965." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/CurrentWeekActivity"><span class="wikigeneratedlinkcontent">CurrentWeekActivity</span></a></span></li><li><span class="wikilink"><a href="Welcome.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/Welcome"><span class="wikigeneratedlinkcontent">Welcome</span></a></span></li><li><span class="wikilink"><a href="NewPage.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/NewPage"><span class="wikigeneratedlinkcontent">NewPage</span></a></span></li><li><span class="wikilink"><a href="../login/XWiki/fi001966." tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Stats/MostEditedSpaces"><span class="wikigeneratedlinkcontent">MostEditedSpaces</span></a></span></li></ul><h1 id="HTheclasssheets" class="wikigeneratedheader"><span>The class sheets</span></h1><div class="wikimodel-emptyline"></div><div class="box infomessage">The <em>Sheet</em> allows to control the presentation of documents of this data type. You can use the default presentation, which enumerates all the available fields, or you can design your own presentation. You can also choose different presentations for the viewing and for the editing modes.</div><div class="box warningmessage">The sheet is not bound to the class so it won't be applied automatically when a document that has an object of this class is displayed. <a href="fi001869.url($xredirect)}&form_token=1aykknxsfkv6hjvf4awujw" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?bindSheet=workspacetemplate%3APanels.PanelSheet&xredirect=$%7Bescapetool.url($xredirect)%7D&form_token=1aykknXsFKv6hJvF4AWUjw">Bind the sheet to the class »</a>.</div><p><span class="wikilink"><a href="PanelSheet.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelSheet">View the sheet document (Panels.PanelSheet) »</a></span></p><h1 id="HTheclasstemplate" class="wikigeneratedheader"><span>The class template</span></h1><div class="box infomessage">The <em>Template</em> is the document used as the model for documents of this data type. It contains an instance of your <em>Class</em>.</div><p><span class="wikilink"><a href="PanelTemplate.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelTemplate">View the template document (Panels.PanelTemplate) »</a></span></p><p>&nbsp;</p>
+</div>
+
+
+    <div class="clearfloats"></div>
+  </div>      <div id="xdocFooter">
+  
+       <div class="doc-tags" id="xdocTags">
+        Tags:
+        </div>
+  
+  <div id="xdocAuthors">
+    <div class="xdocCreation">       Created by <span class="wikilink"><a href="../../../bin/XWiki/Admin.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/bin/XWiki/Admin">Administrator</a></span> on 2009/09/08 17:00<br/>
+          </div>
+  </div>
+</div>
+<div id="xwikidata" class="layoutsubsection">
+      
+    
+              
+    
+    
+    
+                          <div id="docextraanchors" class="invisible">
+<span id="Commentsanchor">&nbsp;</span><span id="Attachmentsanchor">&nbsp;</span><span id="Historyanchor">&nbsp;</span><span id="Informationanchor">&nbsp;</span></div>
+  <div id="xwikidatacontents">
+    <div class="floatcontainer" id="docExtraTabs">
+      <ul class="xwikitabbar" id="docExtrasTabsUl">
+                  <li id="Commentstab">
+            <a id="Commentslink" href="PanelClass-viewer=comments" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=comments">
+              Comments  <span class="itemCount">(0)</span>             </a>
+          </li>
+                  <li id="Attachmentstab">
+            <a id="Attachmentslink" href="PanelClass-viewer=attachments" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=attachments">
+              Attachments  <span class="itemCount">(0)</span>             </a>
+          </li>
+                  <li id="Historytab">
+            <a id="Historylink" href="PanelClass-viewer=history" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=history">
+              History             </a>
+          </li>
+                  <li id="Informationtab">
+            <a id="Informationlink" href="PanelClass-viewer=information" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/PanelClass?viewer=information">
+              Information             </a>
+          </li>
+              </ul>
+    </div>
+                <div id="docextrapanes">
+              <div id="Commentspane" class="hidden empty"></div>
+              <div id="Attachmentspane" class="hidden empty"></div>
+              <div id="Historypane" class="hidden empty"></div>
+              <div id="Informationpane" class="hidden empty"></div>
+          </div>
+                <script type="text/javascript">
+      var hashviewer = self.document.location.hash.substring(1);
+                                                var extraInit = function(){ XWiki.displayDocExtra("Comments", "commentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/commentsinline.vm*/, false) };
+                if (hashviewer == "Comments") {
+          var extraInit = function(){ XWiki.displayDocExtra("Comments", "commentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/commentsinline.vm*/, true) };
+        }
+                                if ($("Commentslink") != null) {
+          $("Commentslink").href="#Comments";
+          Event.observe($("Commentslink"), "click", function(){ XWiki.displayDocExtra("Comments", "commentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/commentsinline.vm*/, false); }, false);
+        }
+                                if ($("tmShowComments") != null) {
+          $("tmShowComments").href="#Comments";
+          Event.observe($("tmShowComments"), "click", function(){ XWiki.displayDocExtra("Comments", "commentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/commentsinline.vm*/, true); }, false);
+        }
+                                if ($("commentsshortcut") != null) {
+          $("commentsshortcut").down('a').href="#comments";
+          Event.observe($("commentsshortcut"), "click", function(){ XWiki.displayDocExtra("Comments", "commentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/commentsinline.vm*/, true); }, false);
+        }
+                                                                              if (hashviewer == "Attachments") {
+          var extraInit = function(){ XWiki.displayDocExtra("Attachments", "attachmentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/attachmentsinline.vm*/, true) };
+        }
+                                if ($("Attachmentslink") != null) {
+          $("Attachmentslink").href="#Attachments";
+          Event.observe($("Attachmentslink"), "click", function(){ XWiki.displayDocExtra("Attachments", "attachmentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/attachmentsinline.vm*/, false); }, false);
+        }
+                                if ($("tmShowAttachments") != null) {
+          $("tmShowAttachments").href="#Attachments";
+          Event.observe($("tmShowAttachments"), "click", function(){ XWiki.displayDocExtra("Attachments", "attachmentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/attachmentsinline.vm*/, true); }, false);
+        }
+                                if ($("attachmentsshortcut") != null) {
+          $("attachmentsshortcut").down('a').href="#attachments";
+          Event.observe($("attachmentsshortcut"), "click", function(){ XWiki.displayDocExtra("Attachments", "attachmentsinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/attachmentsinline.vm*/, true); }, false);
+        }
+                                                                              if (hashviewer == "History") {
+          var extraInit = function(){ XWiki.displayDocExtra("History", "historyinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/historyinline.vm*/, true) };
+        }
+                                if ($("Historylink") != null) {
+          $("Historylink").href="#History";
+          Event.observe($("Historylink"), "click", function(){ XWiki.displayDocExtra("History", "historyinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/historyinline.vm*/, false); }, false);
+        }
+                                if ($("tmShowHistory") != null) {
+          $("tmShowHistory").href="#History";
+          Event.observe($("tmShowHistory"), "click", function(){ XWiki.displayDocExtra("History", "historyinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/historyinline.vm*/, true); }, false);
+        }
+                                if ($("historyshortcut") != null) {
+          $("historyshortcut").down('a').href="#history";
+          Event.observe($("historyshortcut"), "click", function(){ XWiki.displayDocExtra("History", "historyinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/historyinline.vm*/, true); }, false);
+        }
+                                                                              if (hashviewer == "Information") {
+          var extraInit = function(){ XWiki.displayDocExtra("Information", "informationinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/informationinline.vm*/, true) };
+        }
+                                if ($("Informationlink") != null) {
+          $("Informationlink").href="#Information";
+          Event.observe($("Informationlink"), "click", function(){ XWiki.displayDocExtra("Information", "informationinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/informationinline.vm*/, false); }, false);
+        }
+                                if ($("tmShowInformation") != null) {
+          $("tmShowInformation").href="#Information";
+          Event.observe($("tmShowInformation"), "click", function(){ XWiki.displayDocExtra("Information", "informationinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/informationinline.vm*/, true); }, false);
+        }
+                                if ($("informationshortcut") != null) {
+          $("informationshortcut").down('a').href="#information";
+          Event.observe($("informationshortcut"), "click", function(){ XWiki.displayDocExtra("Information", "informationinline.vm"/*tpa=http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Panels/informationinline.vm*/, true); }, false);
+        }
+                                            document.observe("dom:loaded", extraInit, false);
+    </script>
+  </div> </div>  
+    </div>      </div>
+  </div><div id="rightPanels" class="panels right">
+            <div class="panel expanded WorkspaceInformationPanel"><h1 class="xwikipaneltitle">Workspace information</h1><div class="xwikipanelcontents"><div class="box errormessage">The current wiki is not a workspace.</div></div></div>
+                  <div class="panel expanded QuickLinks"><h1 class="xwikipaneltitle">Quick Links</h1><div class="xwikipanelcontents"><ul><li><span class="wikilink"><a href="../Dashboard/index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Dashboard/">Dashboard</a></span> <span class="wikiinternallink"><a href="../WebRss-xpage=plain&outputSyntax=plain" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/WebRss?xpage=plain"><img src="../../../resources/icons/xwiki/rss-medium.png" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/icons/xwiki/rss%2Dmedium.png" alt="(RSS)" title="RSS feed for wiki updates" class="icon rss"/></a></span></li><li><span class="wikilink"><a href="../AllDocs.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/AllDocs">Document Index</a></span></li><li><span class="wikilink"><a href="../UserDirectory.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/UserDirectory">User Directory</a></span></li><li><span class="wikilink"><a href="../Blog/index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/">Blog</a></span> <span class="wikiinternallink"><a href="../Blog/GlobalBlogRss-xpage=plain" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Blog/GlobalBlogRss?xpage=plain"><img src="../../../resources/icons/xwiki/rss-medium.png" tppabs="http://opencaselist.paperlessdebate.com/xwiki/resources/icons/xwiki/rss%2Dmedium.png" alt="(RSS)" title="RSS feed for blog posts" class="icon rss"/></a></span></li><li><span class="wikilink"><a href="../Sandbox/index.htm" tppabs="http://opencaselist.paperlessdebate.com/xwiki/wiki/workspacetemplate.template.local/Sandbox/">Sandbox</a></span></li></ul></div></div>
+                  
+      </div>
+
+<div class="clearfloats"></div>
+  </div></div><div id="footerglobal" class="layoutsection">
+<div class="minwidth"></div>
+<hr/>
+  <div id="xwikilicence">This wiki is licensed under a <a rel="license" href="../../../../../creativecommons.org/licenses/by/2.0/index.htm" tppabs="http://creativecommons.org/licenses/by/2.0/">Creative Commons 2.0</a> license</div>
+          <div id="xwikiplatformversion">XWiki Enterprise 4.2 - <a onclick="openURL('../../../../../enterprise.xwiki.org/xwiki/bin/view/Main/Documentation'/*tpa=http://enterprise.xwiki.org/xwiki/bin/view/Main/Documentation*/, '_blank'); return false;" href="../../../../../www.xwiki.org/xwiki/bin/view/Main/Documentation" tppabs="http://www.xwiki.org/xwiki/bin/view/Main/Documentation">Documentation</a></div>
+<hr/>
+</div>
+
+</div></div></body>
+</html>

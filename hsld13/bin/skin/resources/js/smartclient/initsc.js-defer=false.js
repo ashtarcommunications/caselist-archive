@@ -1,0 +1,1 @@
+window.isc_useSimpleNames=false;window.isomorphicDir="/resources/js/smartclient/";

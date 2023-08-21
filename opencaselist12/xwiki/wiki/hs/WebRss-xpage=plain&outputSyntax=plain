@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>RSS feed for document changes</title>
+    <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/</link>
+    <description>RSS feed for document changes</description>
+    <language>en</language>
+    <copyright />
+    <dc:creator>XWiki</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:rights />
+    <image>
+      <title>XWiki Logo</title>
+      <url>http://opencaselist.paperlessdebate.com/xwiki/skins/colibri/logo.png</url>
+      <link>http://opencaselist.paperlessdebate.com</link>
+      <description>XWiki Logo</description>
+    </image>
+    <item>
+      <title>XWiki WatchList Notification Rules Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/WatchListClass?language=</link>
+      <description>Version 1.45 edited by superadmin on Sun Aug 18 16:12:40 PDT 2013</description>
+      <pubDate>Sun, 18 Aug 2013 23:12:40 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/WatchListClass?language=</guid>
+      <dc:creator>superadmin</dc:creator>
+      <dc:date>2013-08-18T23:12:40Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Preferences</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiPreferences?language=</link>
+      <description>Version 9.1 edited by Administrator on Wed Oct 17 23:33:25 PDT 2012</description>
+      <pubDate>Thu, 18 Oct 2012 06:33:25 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiPreferences?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-10-18T06:33:25Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Comment Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiComments?language=</link>
+      <description>Version 2.1 edited by superadmin on Wed Oct 17 23:22:51 PDT 2012</description>
+      <pubDate>Thu, 18 Oct 2012 06:22:51 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiComments?language=</guid>
+      <dc:creator>superadmin</dc:creator>
+      <dc:date>2012-10-18T06:22:51Z</dc:date>
+    </item>
+    <item>
+      <title>XWiki Skin Class</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiSkins?language=</link>
+      <description>Version 2.1 edited by Administrator on Wed Oct 17 23:22:42 PDT 2012</description>
+      <pubDate>Thu, 18 Oct 2012 06:22:42 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiSkins?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-10-18T06:22:42Z</dc:date>
+    </item>
+    <item>
+      <title>XWikiServerClass</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClass?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:46 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:46 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClass?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>Space WikiResources</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:46 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:46 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>XWikiServerClassSheet</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClassSheet?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:46 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:46 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClassSheet?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>XWikiServerClassTemplate</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClassTemplate?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:46 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:46 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/XWiki/XWikiServerClassTemplate?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>WebPreferences</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/WebPreferences?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:46 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:46 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/WebPreferences?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</link>
+      <description>Version 1.1 edited by Administrator on Thu Sep 27 19:26:45 PDT 2012</description>
+      <pubDate>Fri, 28 Sep 2012 02:26:45 GMT</pubDate>
+      <guid isPermaLink="false">http://opencaselist.paperlessdebate.com/xwiki/wiki/hs/WikiResources/Translations?language=</guid>
+      <dc:creator>Administrator</dc:creator>
+      <dc:date>2012-09-28T02:26:45Z</dc:date>
+    </item>
+  </channel>
+</rss>

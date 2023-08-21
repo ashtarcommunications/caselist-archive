@@ -1,0 +1,4 @@
+<?php
+header("Location: http://opencaselist11.paperlessdebate.com/xwiki/wiki/opencaselist11/index.htm");
+exit();
+?>

@@ -1,0 +1,1 @@
+document.observe("xwiki:dom:loaded",function(){var a=$("classname");if(typeof(a)!="undefined"){a.observe("change",function(){var b=this.options[[this.selectedIndex]].value;if(b!="-"){window.self.location=b}}.bindAsEventListener(a));a.up("form").down("input[[type='submit']]").hide()}});

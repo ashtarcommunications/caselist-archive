@@ -1,0 +1,1 @@
+window.onload=function(){var b=document.getElementsByTagName("a");for(i=0;i<b.length;i++){if(b[i].hostname===location.hostname){if(b[i].href.match(/^https?:\/\/.+\.(exe|zip|msi|dmg|txt|cfg|gz|pl|pdf|docx|doc|docm|dot|dotx|dotm|rtf)$/i)){b[i].setAttribute("target","_blank");b[i].onclick=function(){ga("send","event","Downloads","Click",this.getAttribute("href"))}}}}};
