@@ -1,0 +1,126 @@
+[[toc]]
+=EU Asteroids CP= 
+==1NC== 
+Text: The European Space Agency should substantially increase its funding of project Don Quijote.
+
+The Counterplan solves more instances of asteroid detection and deflection and uncertainty with deflection mass, while avoiding the net benefit
+Plait 8-17-11 (Phil, Ph.D. in astronomy from the University of Virginia, ten years working on Hubble Space Telescope and six more working on astronomy education, “Europeans are taking the asteroid threat seriously”, [[http://blogs.discovermagazine.com/badastronomy/2011/08/17/europeans-are-taking-the-asteroid-threat-seriously/%29TJL|http://blogs.discovermagazine.com/badastronomy/2011/08/17/europeans-are-taking-the-asteroid-threat-seriously/)TJL]]
+<span style="font-family: Cambria; font-size: 16px;">I’ve been scratching my head... on this the better.</span>
+
+
+The Asteroid threat is global-the problem should be addressed with international institutions and coordination
+
+<span style="font-size: 14.6667px;">SHAPIRO et al 2010 (IRWIN I. Harvard-Smithsonian Center for Astrophysics, Chair FAITH VILAS, MMT Observatory at Mt. Hopkins, Arizona, Vice Chair MICHAEL A’HEARN, University of Maryland, College Park, Vice Chair ANDREW F. CHENG, Johns Hopkins University Applied Physics Laboratory FRANK CULBERTSON, JR., Orbital Sciences Corporation DAVID C. JEWITT, University of California, Los Angeles STEPHEN MACKWELL, Lunar and Planetary Institute H. MELOSH, Purdue University JOSEPH H. ROTHENBERG, Universal Space Network, Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies Space Studies Board Aeronautics and Space Engineering Board Division on Engineering and Physical Sciences, The National Academic Press</span><span style="color: #000000; font-size: 14.6667px; text-decoration: none;">[[http://www.fas.harvard.edu/%7Eplanets/sstewart/reprints/other/4_NEOReportDefending%20Planet%20Earth%20Prepub%202010.pdf|http://www.fas.harvard.edu/~planets/sstewart/reprints/other/4_NEOReportDefending%20Planet%20Earth%20Prepub%202010.pdf]]</span><span style="font-size: 14.6667px;">)</span>
+
+<span style="font-family: Cambria; font-size: 16px;">Responding effectively to</span>...<span style="font-family: Cambria; font-size: 16px;"> dealing with the NEO hazard</span><span style="font-family: Cambria; font-size: 10.6667px;">.</span>
+
+
+We’ll pre-empt your theory args---In the case of NEOs – policymakers must consider interaction with international agents in weighing the benefits of policy.
+
+Crowther, 2009(Richard, Ph.D. Science and Technology Facilities Council (STFC), Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, UK Journal of Cosmology, 2009, Vol 2, pages 411-418. Cosmology, October 31, 2009 Near Earth Object (NEO) Impact Threat: An International Policy Response)
+
+<span style="font-family: Cambria; font-size: 16px;">In addition to the probability of</span>...<span style="font-size: 16px;">performing specific roles.</span>
+
+
+=Code of Conduct CP= 
+
+==[[#Code of Conduct CP-1NC]]1NC== 
+
+**<span style="font-family: 'Helvetica Neue',serif;">The United States federal government should offer a Code of Conduct to all space-faring nations that prohibits harmful interference against man-made space objects and reduces practices that contribute to the weaponization of space, including (insert specific weapons mentioned in the plan text or cross ex). The United States federal government should harden current space assets. The United States federal government should create enforcement mechanisms and transparency and verification measures for every country that agrees to the Code of Conduct.</span>**
+
+
+
+**<span style="font-family: 'Helvetica Neue',serif;">Code of conduct solves conflict --- creates cooperation</span>**
+
+Krepon 8<span style="font-size: 10.6667px;">(Michael Krepon is the co-founder of Stimson, and director of the South Asia and Space Security programs, writer/editor of 13 books and over 350 articles, MA from Johns Hopkins in International Studies, BA from Franklin and Marshall College, “SPACE AS A STRATEGIC ASSET TWILIGHT WAR: THE FOLLY OF U.S. SPACE DOMINANCE, AND THE POLITICS OF SPACE SECURITY: STRATEGIC RESTRAINT AND THE PURSUIT OF NATIONAL INTERESTS,” The Non-Proliferation Review, November 1, 2008, Vol. 15 No. 3, 549-554)</span>
+
+Johnson-Freese …violate treaty provisions.
+
+
+
+**<span style="font-family: 'Helvetica Neue',serif;">Unilateral weaponization will cause arms races and nuclear war --- cooperation solves</span>**
+
+Blank et al. 8<span style="font-size: 10.6667px;">(Stephen Blank – Prof. at the US Army War College, Ethan Burger – adjunct prof at the Georgetown Law Center, Eugene Kolesnikov – Netherland Consultant, “Russia Profile Weekly Experts Panel: A New Arms Race?” </span><span style="font-size: 10.6667px; text-decoration: none;">[[http://www.russiaprofile.org/page.php?pageid=Experts%27+Panel&articleid=a1221842130#1|http://www.russiaprofile.org/page.php?pageid=Experts'+Panel&articleid=a1221842130#1]]</span><span style="font-size: 10.6667px;">)</span>
+
+What is Russia’s …<span style="font-size: 16px; text-decoration: none;">to justify politically</span><span style="font-size: 16px;">. </span>
+
+**<span style="font-family: 'Helvetica Neue',serif;">Hardening satellites is a better alternative to space weaponization - solves the threat of ASAT attacks</span>**
+
+__<span style="font-size: 16px;">Hui, 6</span>__<span style="font-size: 16px;"> (Zhang, Research Associate @ the Project on Managing the Atom of the Belfer Center @ Harvard, “ Space Weaponization And Space Security: A Chinese Perspective ,” Spring, </span><span style="font-size: 16px; text-decoration: none;">[[http://www.wsichina.org/attach/CS2_3.pdf]]</span><span style="font-size: 16px;">)</span>
+
+Some Measures … evade a hostile attack.21
+
+
+
+=[[#Tax Incentives CP]]Tax Incentives CP= 
+
+==[[#Tax Incentives CP-SPS 1NC]]SPS 1NC== 
+
+
+
+**Counterplan solves SPS**
+
+**SHSG, 2011**
+
+[Solar High Study Group, a think tank dedicated to space based solar power, “Solar High: Energy for the 21st Century”, March, [[http://solarhigh.org/resources/16KwordBrief.pdf]],]
+
+
+
+__Serious studies of ...__ __satellite development programs.__
+
+
+=Near Space CP= 
+
+==[[#Near Space CP-1NC]]1NC== 
+
+
+
+<span style="font-size: 14.6667px;">Text: The United States federal government should substantially decrease dependence on space assets in favor of near-space assets, starting with mission critical capabilities including but not limited to early warning satellites. The United States federal government should cancel Operationally Responsive Space.</span>
+
+
+
+<span style="font-size: 14.6667px;">That solves vulnerability and prevents an arms race</span>
+
+**__<span style="font-family: Helvetica,sans-serif;">Weston</span>__****__<span style="font-family: Helvetica,sans-serif;">, Air Force Major, 9</span>__**<span style="font-family: Helvetica,sans-serif; font-size: 10.6667px;">(Scott A., 3/1/2009, Air and Space Power Journal, “Examining Space Warfare,” [[http://www.airpower.maxwell.af.mil/airchronicles/apj/apj09/spr09/weston.html]],)</span>
+
+
+
+<span style="font-family: Helvetica,sans-serif;">The main argument ... even security advantages</span><span style="font-family: Helvetica,sans-serif; font-size: 10.6667px;">.45</span>
+
+
+
+==[[#Near Space CP-2NC Heg Turns]]2NC Heg Turns== 
+
+======[[#Near Space CP-2NC Heg Turns-Bandwidth]]**<span style="font-size: 14.6667px;">Bandwidth</span>**====== 
+
+
+**<span style="font-size: 14.6667px;">Tomme, 5</span>**<span style="font-size: 10.6667px;">(Edward B., 1/2005, Airpower Research Institute, “The Paradigm Shift to Effects-Based Space,” [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]], mat)</span>
+
+
+
+<span style="font-size: 10.6667px;">Sometimes </span><span style="font-size: 14.6667px;">a smaller... application are needed.</span>
+
+
+
+
+
+
+
+<span style="font-size: 14.6667px;">Bandwidth is running out now- key to military hegemony</span>
+
+
+
+<span class="Underline">**<span style="font-size: 14.6667px;">Wired 3</span>**</span><span style="font-size: 14.6667px;"> (1/31, Noah Shachtman, “Military Faces Bandwidth Crunch,” </span><span style="font-size: 10.6667px;">[[http://www.wired.com/techbiz/it/news/2003/01/57420]]</span><span style="font-size: 14.6667px;">, da 5/6,)</span>
+
+
+
+<span style="font-size: 10.6667px;">Think downloading a ...</span><span style="font-size: 14.6667px;"> the time available. </span>
+
+
+
+======[[#Near Space CP-2NC Heg Turns-Asset Control]]Asset Control====== 
+
+
+**<span style="font-size: 14.6667px;">Tomme, 5</span>**<span style="font-size: 10.6667px;">(Edward B., 1/2005, Airpower Research Institute, “The Paradigm Shift to Effects-Based Space,” [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]], )</span>
+
+<span style="font-size: 10.6667px;">For peacetime strategic ...effect on its head.</span>

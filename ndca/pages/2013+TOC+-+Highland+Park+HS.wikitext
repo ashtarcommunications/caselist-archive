@@ -1,0 +1,202 @@
+[[toc]]
+=Round 1= 
+
+==1acs== 
+
+===1ac- mda=== 
+
+====South China Sea conflict is inevitable absent cooperation—miscalculation is likely==== 
+Adams 10
+(Jonathon, senior correspondent to the Global Post; "South China Sea: The coming war?", http://www.globalpost.com/dispatch/china/100625/south-china-sea-paracel-spratly-islands-military?page=0,1//HH)
+China has built up its small military presence in the Spratlys. It angered Vietnam
+AND
+there~’s Chinese submarines roaming around as well. So it~’s getting crowded underwater."
+
+
+====Senkaku makes our brink unique==== 
+Bajpaee 12
+(Chietigj, doctoral candidate in the Department of War Studies at King~’s College London, Center for Strategic and International Studies (CSIS), International Institute for Strategic Studies (IISS); "Factors Fuelling China~’s Expanding Maritime Operations", http://www.e-ir.info/2012/07/10/factors-fuelling-chinas-expanding-maritime-operations//HH)
+China~’s security interests have traditionally been oriented toward the continental rather than the maritime domain
+AND
+has also strengthened the PLAN~’s growing capability to support expeditionary operations.~~[vii~~]
+
+
+====Nuclear war—deterrence doesn~’t apply==== 
+**Wittner 11** 
+(Lawrence, Emeritus Professor of History at the State University of New York/Albany, author of eight books, the editor or co-editor of another four, and the author of over 250 published articles and book reviews, edited Peace %26 Change, a journal of peace research; "Is a Nuclear War With China Possible?", www.huntingtonnews.net/14446//HH)
+While nuclear weapons exist, there remains a danger that they will be used.
+AND
+that of the world, they should be working to encourage these policies.
+
+
+====Maritime Domain Awareness solves—facilitates partnerships internationally that promote international stability==== 
+**Truver 11**
+(Dr. Scott, Director, National Security Programs, Gryphon Technology, research , analysis and engagement efforts; "On the Other Side of the Hill? Global Partnerships for Maritime Domain Awareness…The View from the United States", http://www.mda.gov/2011/11/09/on-the-other-side-of-the-hill//HH)
+A GLOBAL FOCUS IS NEEDED, TOO From the US perspective, relationships that have
+AND
+purpose in countering transnational threats and securing peaceful use of the maritime commons."
+
+
+====Status quo MDA is insufficient—small boats and gaps undermine the viability of the system==== 
+**Singh 10**
+(Jaswinder, Indian Navy Captain; "Countering Small Boat Terrorism in Territorial Sea", www.hsdl.org/?view%26did=10996//HH)
+As articulated by McCormick, "insurgents always exploit the information advantage, their identity
+AND
+order to counter the threat of small boat terrorism in the territorial sea.
+
+
+====The plan is key to vessel tracking—that~’s vital to Maritime Domain Awareness which is failing now==== 
+Nachtmann and Pool 11
+(Heather and Laticia, both PhD; associates at Bell Engineering Center, UofArkansas; "Maintaining Resilient Inland Waterways via Renewable Energy"//HH)
+Achieving awareness of the total maritime domain is challenging due to the vastness of the
+AND
+operating on inland waterways are not¶ required to be equipped with AIS.
+
+
+====National Automatic Identification System are critical—ports and costal sea-lanes are the vital internal link==== 
+**Neffenger 12**
+(Peter, U.S. Coast Guard Deputy Commandant for Operations Vice Admiral; "Written testimony of U.S. Coast Guard Deputy Commandant for Operations Vice Admiral Peter Neffenger for a House Committee on Transportation and Infrastructure, Subcommittee on Coast Guard and Maritime Transportation hearing titled "A Review of Federal Maritime Domain Awareness Programs"", http://www.dhs.gov/news/2012/07/03/written-testimony-us-coast-guard-house-transportation-and-infrastructure//HH)
+MDA is facilitated through all-source fusion and analysis from a variety of Coast
+AND
+with Rescue 21 towers and equipment sites to leverage existing infrastructure and investments.
+
+
+====Synthetic Aperture Radar integration answers all of your solvency arguments==== 
+Alsaedi et al 10
+(Waleed, The Center for Secure and Resilient Maritime Commerce Stevens Institute of Technology ; "Satellite Applications for Port Security and Resilience", http://www.stevens.edu/csr/fileadmin/csr/SRI_Papers_Presentations/SatelliteTeam_Final_SRI2010Report_.pdf//HH)
+In today~’s world we are facing increased threat from terrorist organizations and hostile nations.
+AND
+likely that the maritime security network would be strengthened by is full implementation.
+
+
+====Space-based AIS is key—allows for expansion of monitoring to sea-lanes==== 
+**Singh 10**
+(Jaswinder, Indian Navy Captain; "Countering Small Boat Terrorism in Territorial Sea", www.hsdl.org/?view%26did=10996//HH)
+When shuttle astronauts Michael Foreman and Randolph Bresnik flew to the International Space Station during
+AND
+a particular ship every 15 minutes, says Orbcomm CEO Marc Eisenberg.74
+
+
+====Plan allows us to monitor 99% of vessels==== 
+**Singh 10**
+(Jaswinder, Indian Navy Captain; "Countering Small Boat Terrorism in Territorial Sea", www.hsdl.org/?view%26did=10996//HH)
+AIS signals can easily be detected from space by a standard AIS receiver for altitudes
+AND
+and AIS, then these satellites can definitely provide near-real MST.
+
+===1ac- terrorism=== 
+
+====Our maritime transportation infrastructure is vulnerable now==== 
+Jean2008
+Grace v., January, staff writer, National Defense Magazine, "Underwater Killers," p. 28-9, Ebsco Host
+***cites Admiral John Christenson, vice commander of the Naval Mine and Anti-Submarine Warfare Command***
+The U.S. Navy possesses one of the premier mine-hunting forces
+AND
+use it with success in various forms, "he told the conference.
+
+
+====Scenario One is Inland Waterways==== 
+
+
+====Status quo is insufficient—gaps make the overall system ineffective==== 
+Nachtmann and Pool 11
+(Heather and Laticia, both PhD, associates at Bell Engineering Center, UofArkansas; "Maintaining Resilient Inland Waterways via Renewable Energy"//HH)
+Under current regulations, vessels not on an international voyage are required to use AIS
+AND
+be disseminated in a timely manner to the agencies responsible for infrastructure protection.
+
+
+
+====The plan solves a marine based attack—impact is economic decline==== 
+Nachtmann and Pool 11
+(Heather and Laticia, both PhD; associates at Bell Engineering Center, UofArkansas; "Maintaining Resilient Inland Waterways via Renewable Energy"//HH)
+The Maritime Domain Awareness (MDA) program is outlined in the National Plan to
+AND
+objectives of the maritime security program (National Strategy¶ for Maritime Security):
+<span style="font-size: 8pt;"> Prevent terrorist attacks and criminal or hostile acts</span>
+<span style="font-size: 8pt;"> Protect maritime‐related population centers and critical infrastructures</span>
+<span style="font-size: 8pt;">Sustaining Resilient Inland Waterways via Renewable Energy 18</span>
+<span style="font-size: 8pt;">July 2011</span>
+<span style="font-size: 8pt;"> Minimize damage and expedite recovery</span>
+<span style="font-size: 8pt;"> Safeguard the ocean and its resources</span>
+
+
+====Maritime commerce is key==== 
+**Coble and Larsen 11**<span style="font-size: 7pt;"> — Representatives in the U.S. House (Federal News Service 5/24. "Hearing of the Coast Guard and Maritime Transportation Subcommittee of the House Transportation and Infrastructure Committee; Subject: "Creating U.S. maritime industry jobs by reducing regulatory burdens"; Chaired by: Representative Howard Coble (R-NC); witnesses: Rear Admiral Kevin Cook, Director of Prevention policy, U.S. Coast Guard; Coast Guard Deputy Judge Advocate General Calvin Lederer; p. L/N</span>
+The subcommittee is meeting today to review the Coast Guard~’s regulatory program and examine ways
+AND
+maritime and port security, enhancing maritime commerce and protecting the marine environment.
+
+
+====Decine causes war—statistics prove==== 
+Royal 10 – Jedediah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, (Economic Integration, Economic Signaling and the Problem of Economic Crises, Economics of War and Peace: Economic, Legal and Political Perspectives, ed. Goldsmith and Brauer, p. 213-215)
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+AND
+As such, the view presented here should be considered ancillary to those views
+
+
+====Scenario Two is Ports==== 
+
+
+====Current port security fails—tech is going over budget, and there isn~’t a strategy for prevention==== 
+Clark 11
+(Charles S., "Port security technology vetting comes up short in scientists~’ study", Next Gov, [[http://www.nextgov.com/nextgov/ng_20110114_3061.php-http://www.nextgov.com/nextgov/ng_20110114_3061.php]]<span style="font-size: 10pt;">//HH)</span>
+A panel of scientists has faulted the Domestic Nuclear Detection Office~’s performance testing of electronic
+AND
+to Congress on Dec. 20, a DHS official said on Friday.
+
+
+
+====Specifically, small boat terrorism involves WMD attacks on ports—plan solves==== 
+**Hill 9**—Brian Patrick, Lieutenant Commander, United States Coast Guard, J.D., St. Thomas University, Miami, FL, 1995, B.A., Florida International University, Miami, FL, 1988, MARITIME TERRORISM AND THE SMALL BOAT ATTACK THREAT TO THE UNITED STATES: A PROPOSED RESPONSE, Submitted in partial fulfillment of the requirements for the degree of MASTER OF ARTS IN SECURITY STUDIES (HOMELAND SECURITY AND DEFENSE) from the NAVAL POSTGRADUATE SCHOOL, March, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2%26doc=GetTRDoc.pdf%26AD=ADA496821-http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2%26doc=GetTRDoc.pdf%26AD=ADA496821]], Shree
+Secretary Chertoff previously noted that the U.S. is concerned that small vessels
+AND
+of the threat will lead to better prevention, preparation, and responses.
+
+
+====Small boats have the capability==== 
+**Hill 9**—Brian Patrick, Lieutenant Commander, United States Coast Guard, J.D., St. Thomas University, Miami, FL, 1995, B.A., Florida International University, Miami, FL, 1988, MARITIME TERRORISM AND THE SMALL BOAT ATTACK THREAT TO THE UNITED STATES: A PROPOSED RESPONSE, Submitted in partial fulfillment of the requirements for the degree of MASTER OF ARTS IN SECURITY STUDIES (HOMELAND SECURITY AND DEFENSE) from the NAVAL POSTGRADUATE SCHOOL, March, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2%26doc=GetTRDoc.pdf%26AD=ADA496821-http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2%26doc=GetTRDoc.pdf%26AD=ADA496821]], Shree
+There are several articles on the current state of the terrorism threat in the maritime
+AND
+port to shut down and have long term economic and security consequences."71
+
+
+====Ports are the most likely scenario—current detection fails==== 
+**Konkel****05**
+Todd, Edmund A. Walsh School of Foreign Service, Georgetown University, , "Container Security: Preventing a Nuclear Catastrophe",<span style="font-family: Calibri,sans-serif;">irps.ucsd.edu/assets/004/5372.pdf, ACC: 9.24.11, p. online</span>
+A fundamental factor contributing to the threat of a container-based terrorist attack is
+AND
+years to improve security at all 361 U.S. seaports.29
+
+
+====It~’ll escalate==== 
+**Ayson****10**
+<span style="font-size: 7pt;">Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington, ("After a Terrorist Nuclear Attack: Envisaging Catalytic Effects," Studies in Conflict %26 Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)</span>
+But these two nuclear worlds—a non-state actor nuclear attack and a
+AND
+consider the United States as a possible perpetrator or encourager of the attack?
+
+
+
+
+
+===1ac- normal=== 
+
+====The United States federal government should develop and deploy Automatic Identification System satellites integrated with Synthetic Aperture Radar technology for the purpose of vessel and tracking on the Marine Transportation System.==== 
+
+
+
+=Round 2= 
+immigration and case
+
+=Round 3= 
+cap
+=Round 4= 
+
+=Round 5= 
+
+=Round 6= 
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

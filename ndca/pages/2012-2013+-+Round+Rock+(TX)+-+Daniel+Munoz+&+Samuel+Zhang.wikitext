@@ -1,0 +1,111 @@
+=Affirmative= 
+==Piezoelectricity== 
+===1AC=== 
+
+**Plan Text**
+
+**Plan: The United States Federal Government should substantially increase its investment in piezoelectric roads.**
+
+__**Contention 1 is Inherency**__
+**Current mainstream America is unaware of recent breakthroughs in Piezoelectric technology**
+Diamond 09’ (Kim Diamond, Vice Chair of the Carbon and Energy Trading and Finance Committee of the American Bar Association's Section of Environment, Energy, and Resources,http://www.renewablesbiz.com/article/09/04/breakthroughs-piezoelectric-power-raising-public-awareness-step-right-direction-us-sustainable-development)
+
+**We Must Invest in Transportation Infrastructure Now. Deteriorating Transportation Infrastructure Could Cost America $3.1 Trillion.**
+Sledge 11(Matt Sledge, 09/26/11 06:12 AM ET, Huffington Post, Deteriorating Transportation Infrastructure Could Cost America $3.1 Trillion, http://www.huffingtonpost.com/2011/07/27/transportation-infrastructure-cost_n_911207.html)
+
+__**Advantage 1 is The Grid**__
+
+**Piezoelectric highways could be a source of green energy and feed back into the grid**
+Shockley 11 (June 24, 2011 By Jennifer Shockley, GreenBuildingElements, Piezoelectric Elements Can Turn Highways into Green Zones, http://greenbuildingelements.com/2011/06/24/piezoelectricity-elements/)
+Scenario 1 is Warming
+
+**Current Electrical Grid Technology is Bad and we need better utilities now – 5 reasons (inefficiencies, coal-based, not controlled, not enough electricity, and inconsistent) – leads to line loss**
+Denholm et al 10 (NREL : National Renewable Energy Laboratory, US Department of Energy, Technical Report
+NREL/TP-6A2-47187, January 2010 ,The Role of Energy Storage with Renewable Electricity Generation, Paul Denholm, Erik Ela, Brendan Kirby, and Michael Milligan http://www.nrel.gov/docs/fy10osti/47187.pdf)
+
+**These line Losses lead to inefficiencies, loss of money, and CO2 Emissions**
+John 12 (JEFF ST. JOHN: JUNE 20, 2012 ,1.2 Trillion Metric Tons of CO2 in Line Losses The environmental case for a more efficient grid, greentechmedia, http://www.greentechmedia.com/articles/read/1.2-Trillion-Metric-Tons-of-CO2-in-Line-Losses/# )
+
+**The current electrical grid relies on coal, and reliance of fossil fuels will cause A LOT of problems. – including warming**
+Santoianni 12 (May 17, 2012, Dawn Santoianni, Scientific America, The Backcone of the Electric System: A Legacy of Coal and the Challenge of Renewables, http://blogs.scientificamerican.com/guest-blog/2012/05/17/the-backbone-of-the-electric-system-a-legacy-of-coal-and-the-challenge-of-renewables/)
+
+**Coal Plants are bad and cause global warming and pollution – 7 Reasons**
+DSB 9 (DeSmogBlog, Excepted from the Union of Concerned Scientist Clean Energy report, 10 Harsh Realities of the US Coal Industry, http://www.desmogblog.com/sites/beta.desmogblog.com/files/10%20Harsh%20Realities%20of%20the%20US%20Coal%20Industry.pdf, http://www.ucsusa.org/clean_energy/our-energy-choices/coal-and-other-fossil-fuels/how-coal-works.html)
+
+__**Scenario 2 is Pollution**__
+
+**Independent of the warming debate, air pollution from burning coal distorts weather patterns, killing billions.**
+BBC Learning 5“Global dimming” transcript http://www.bbcactive.com/AsiaPacific/MediaSupportFiles/80.pdf
+
+**Coal Plants are built near African American Families which causes increased asthma rates among African American Children – Reducing Air Pollution is a moral obligation for social justice**
+Browning 3-29-12 (Dominique Browning, March 29, 2012, TIME Ideas, The Racial Politics of Asthma, http://ideas.time.com/2012/03/29/the-racial-politics-of-asthma/)
+
+__**Scenario 3 is Blackouts**__
+
+**Blackouts expected to increase in frequency and severity**
+CRO Forum ’11 (http://www.agcs.allianz.com/assets/PDFs/Special%20and%20stand-alone%20articles/Power_Blackout_Risks.pdf) Power Blackout risks, pg 25, November 2011
+
+**Grid collapses because of shift in power supply and demand, such as more demand than we have supply.**
+Dutta 12 (Sushmita Dutta, August 12 2012, West Bengal university of technology, editor for Zee News, “Power grid failure: How does it happen?”, Zeenews.com, http://zeenews.india.com/news/exclusive/power-grid-failure-how-does-it-happen_790934.html)
+
+**Blackouts cost the economy 30 Billion Dollars PER DAY. Just a few days of outage brings economic growth down to ZERO**
+Bryan ’03 [Jay, The Gazette (Montreal, Quebec), August 19, SECTION: Business; Opinion on the Blackout; Pg. B1, HEADLINE: Power grids vital in information age: "Just a few days could theoretically take economic growth ... right down to zero" l/n] 
+
+**Economic collapse now causes WWIII**
+Hamer 10 3/6, *Prof Dr. Eberhard Hamer writes for Current Concerns, “Increasing Indications for a Third World War,” http://www.currentconcerns.ch/index.php?id=1012, AJ
+
+**Renewable Energy can solve blackouts – consistency proves**
+West 12(Can Renewables Save India’s Failing Grid?, James West, Thu. Aug. 2 2012, MotherJones, http://www.motherjones.com/environment/2012/08/record-breaking-india-blackout-prompts-alt-energy-debate)
+
+__**Advantage 2 is EV Market**__
+
+**Lack of charging outlets is the major barrier for EV market penetration - only 3,300 exist and they are unevenly distributed**
+Kemp, 5/25/12 – Senior Market Analyst and writer for Reuters specializing in commodities and energy (John, “Column- Will US Federal Fleet Help Alternative Fuel Switch?,” Reuters, http://www.reuters.com/article/2012/05/25/column-kemp-cars-idUSL5E8GP8YG20120525) // AMG
+
+**Electrical Vehicles NOT PROMINENT NOW**
+Bergin, Tom 02/ 1/2012 Oil Industry: Electric Cars Are No Threat http://www.huffingtonpost.com/2012/02/01/oil-industry-electric cars_n_1246432.html
+
+**Piezo roads can charge electric cars**
+Picow Muarice September 24, 2010 Under Highway Piezoelectric “Generators” Could Provide Power to Propel Electric Cars <http://www.greenprophet.com/2010/09/piezoelectric-generators-electric-cars/>
+
+__**Scenario 1 is Warming**__
+
+**EVs result in significant emission reduction even on the current power grid – multiple studies prove**
+Kaplan et al., 10 – *affiliated with Frontier Group, a think tank that issues issue experts, writers and analysts to produce ideas and research to promote a cleaner environment and a fairer and more democratic society, **Brad Heavner, B.A. from the University of Michigan, Senior Policy Advisor for Environment America and State Director of Environment Maryland, AND ***Rob Sargent, graduate of the University of Vermont, Energy Program Director for Environment America and oversees policy and strategy development for energy and global warming campaigns throughout the U.S., more than two decades of experience leading a wide range of environmental and public interest campaigns (Siena, Charging Ahead: Curbing Oil Consumption with Plug-in Cars”, Environment Maryland Research & Policy Center, June 2010, http://www.environmentmaryland.org/sites/environment/files/reports/Charging-Ahead.pdf)//BI
+
+**Global warming causes extinction**
+Molloy 7/6 (Ivan, Associate Diploma of Geology: Royal Melbourne Institute of Technology, Rebuff to Climate Change Denial, http://www.mysunshinecoast.com.au/articles/article-display/rebuff-to-climate-change-denial,26302, 2012)
+
+**The United States is the biggest contributor to emissions and has a moral obligation to act against warming**
+Claussen 6 (Eileen, “Climate Change: The State of The Question and The Search For The Answer”, President of the PEW center for climate change, http://www.pewclimate.org/press_ room/speech_transcripts/stjohns2of2.cfm, 10/5/2006)
+
+__**Scenario 2 is Oil Wars**__
+
+**Expanding EVs is the single most effective way to reduce oil demand – Baker Institute study proves**
+Rice ’10 – Rice University's Baker Institute for Public Policy (“Study: Electric cars hold greater promise for reducing emissions and lowering US oil imports”, 9/27/2010. http://www.eurekalert.org/pub_releases/2010-09/ru-sec092710.php)//DHirsch
+
+**Oil wars lead to extinction of all species**
+Stephen Lendman (Research Associate of the Centre for Research on Globalization) 2007 “Resource Wars - Can We Survive Them” http://www.rense.com/general76/resrouce.htm
+
+**QUICK TIMEFRAME TO OIL IMPACT**
+Perl, ’10 – Director of Urban Studies Program at Simon Fraser University (Anthony, “Integrating HSR into North America’s Next Mobility Transition,” June 16, 2010, p. 13016, http://wagner.nyu.edu/rudincenter/publications/RCWP_Perl.pdf) // SP
+
+__**Contention 4 is Solvency**__
+
+**Piezoelectricity Roads can power 30,800 homes in a single lane 1 km stretch for a year, and this could all go into the grid.**
+Singh 11 (Timon Singh, Timon Singh is a graduate of Liverpool University where he received a degree in Social and Economic History. He has previously worked for BBC Magazines, 02/14/11, Piezoelectric Energy-Generating Roads Proposed for California, http://inhabitat.com/piezoelectric-energy-generating-roads-proposed-for-california/)
+
+**Technology is already available – infrastructure support enables a whole new transportation system in just a few years**
+Smith, ’10 - FedEx CEO/Member of Electrification Coalition (Frederick, February 23, Hearing Before a Subcommittee on the Committee on Appropriations, United States Senate, “Opportunities and Challenges Presented in Increasing the Number of Electric Vehicles in the Light Duty Automotive Sector,”http://www.gpo.gov/fdsys/pkg/CHRG-111shrg56643/pdf/CHRG-111shrg56643.pdf, p. 22-23)
+
+**Strong Federal Government signal is key**
+Lindquist & Wendt 11’( Kathy Lindquist, WSDOT Research Office, Michel Wendt, WSDOT Library, retrieved from Clean Car Options.com website, 2011, http://www.wsdot.wa.gov/NR/rdonlyres/5559AE0E-8AB5-4E6B-8F8B-DEAA7ECE715D/0/SynthesisEVPoliciesFleetandInfrastructureFINALRev112911.pdf)
+
+**Piezoelectric good- effective producers of energy and environmentally friendly**
+Borghino 12 (Dario Borghino, 22 May 2012, GizMag, KAIST develops low-cost, large-area piezoelectric nanogenerator, http://www.gizmag.com/low-cost-large-area-piezoelectric-nanogenerator/22468/)
+
+**Piezoelectric Crystals have been tested in highways and are feasible**
+Tudor Vieru 08 Piezoelectric Crystals Turn Roads into Power Plants http://news.softpedia.com/news/Piezoelectric-Crystals-Turn-Roads-into-Power-Plants-99776.shtml
+
+**Plan is politically popular, increases growth, jobs, and productivity of the economy**
+Boushey ’11 (Heather Boushey is Senior Economist at American Progress, Center for American Progress, “Now Is the Time to Fix Our Broken Infrastructure”, http://www.americanprogress.org/issues/2011/09/aja_infrastructure.html, September 22, 2011, LEQ)

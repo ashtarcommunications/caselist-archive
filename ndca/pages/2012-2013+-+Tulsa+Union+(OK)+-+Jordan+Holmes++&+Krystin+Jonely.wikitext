@@ -1,0 +1,332 @@
+=Automobility bikes v1.= 
+====Observation 1: Inherency==== 
+====__Current infrastructure ideas and policies are structured around the car. Though the government has mandated more cycling infrastructure, states continue to ignore this and spatially organize for the automobile. The metropolis has become the autopolis, forcing out the bicycle.__==== 
+<span style="font-size: 10.66px;">Zack </span><span style="font-size: 21.33px;">Furness,</span><span style="font-size: 10.66px;"> Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago,</span> 20<span style="font-size: 21.33px;">10</span>, <span style="font-size: 10.66px;">One Less Car: Bicycling and the Politics of Automobility, Chapter 3: Vélorutionaries and the Right to the (Bikeable) City, Project Muse, [[http://muse.jhu.edu/books/9781592136148]], TB</span>
+<span style="font-size: 10.66px;">It is more than a little ironic that Dwight Eisenhower, Nazi fighter extraordinaire, was impressed by the efficiency of the autobahn and at once incapable of recognizing its deep implications in totalitarian logic…… In addition to penning books on the subject, he used his “Sky Line” column in the //New Yorker// to wage a public battle against auto-centric planning and, more specifically, Robert Moses’s catastrophically myopic vision of New York City as a driver’s paradise.30 In 1963, he stated:</span>
+====__Plan: The United State federal government should substantially increase its investment in bicycle transportation infrastructure in the United States.__==== 
+====__Advantage: automobility__==== 
+====__This network of infrastructure kills space as a living area, dividing and hierarchizing it and making us further rooted in automobility in an attempt to spatially fix these cracks.__==== 
+<span style="font-size: 10.66px;">David </span><span style="font-size: 21.33px;">Campbell</span><span style="font-size: 10.66px;">, professor of cultural and political geography at Durham University in the U.K., 20</span><span style="font-size: 21.33px;">05</span><span style="font-size: 10.66px;">, //American Quarterly// 57.3 (2005) 943-972, ‘The Biopolitics of Security: Oil, Empire, and the Sports Utility Vehicle’, Project Muse, [[http://muse.jhu.edu/journals/american_quarterly/v057/57.3campbell.html]], TB</span>
+<span style="font-size: 10.66px;">The concept of automobility—or that of the "auto social formation" or "car culture"—calls attention to the hybrid assemblage or machinic complex that the apparently autonomous entities of car and driver compose……</span><span style="font-size: 14.66px;">Citizens are thus coerced into a limited flexibility, creating a situation that is "a wonderful testament to the ability of a sociomaterial structure to serve its own reproduction.</span><span class="DebateUnderline">"</span>[[http://muse.jhu.edu/journals/american_quarterly/v057/57.3campbell.html#FOOT96|96]]
+====__We experience nothing between our starting point and destination, using this space as only a means to achieve our travel, making it into a dead zone.__==== 
+<span style="font-size: 10.66px;">John </span><span style="font-size: 21.33px;">Urry</span><span style="font-size: 10.66px;">, Professor of Sociology and Director of the Centre for Mobilities Research, Lancaster University; Edited by Steffen Böhm, Campbell Jones, Chris Land, and Matthew Paterson; “Inhabiting the car,” in “Against Automobility,” The Editorial Board of the Sociological Review 20</span><span style="font-size: 21.33px;">06</span><span style="font-size: 10.66px;">, p.21-22</span>
+<span style="font-size: 10.66px;">Simmel makes points relevant to the nature of this inhabiting. ….. Morse describes the freeway not as a place but as a vector, as direction, as ‘inbetweens’ where magnitude is measured in minutes rather than miles (1998). </span>
+====__The separation and depersonalization of the car causes a state of diremption in which the world is seen as dead or foreign. This separation is internalized to prevent social interaction and understanding that in turn forms the basis and meaning of life.__==== 
+<span style="font-size: 10.66px;">(Joshua </span><span style="font-size: 21.33px;">Fischel</span><span style="font-size: 10.66px;">, Senior Project Manager at Thomson Reuters, 20</span><span style="font-size: 21.33px;">11</span><span style="font-size: 10.66px;"> “EDUCATION AFTER MODERNITY: DEWEY, DAVIDSON, AND THE PROSPECTS FOR OVERCOMING DIREMPTION”)</span>
+<span style="font-size: 10.66px;">But let’s take a closer look at what happens when we emerge from a condition of diremption to a condition of love. Friedrich Hegel’s early essay on love can help us do so. ….. Only when the self comes to realize that the perceived separation and opposition between self and world is illusory, will it be able to overcome this alienation. </span>
+====__The subject of automobility is liquidated, the organization of space gives them no choices and takes them away from life.__==== 
+<span style="font-size: 10.66px;">Kari </span><span style="font-size: 21.33px;">Hensley</span><span style="font-size: 10.66px;">, doctoral candidate at New York University in the Department of Media, Culture, and Communication, master's degree in that program as well as an undergraduate degree in the history of art from the University of California, Berkeley, March 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, American Quarterly, Vol. 62 No. 1, One Nation Behind the Wheel Automobility in U.S. Culture, Project Muse, [[http://muse.jhu.edu/journals/american_quarterly/v062/62.1.hensley.html]], TB</span>
+The liberal ideal of the "open road" has been further troubled by the ubiquity of racialized violence and discrimination. …..The paradox of automobility is that it disciplines as it liberates.
+====__Observation 2: Solvency__==== 
+====__Bicycling reconnects us with this space – time and space are balanced and speed is restrained enabling us to keep up with our movement and experience travel for what it is.__==== 
+<span style="font-size: 10.66px;">Zack </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, One Less Car: Bicycling and the Politics of Automobility, Chapter 3: Vélorutionaries and the Right to the (Bikeable) City, Project Muse, [[http://muse.jhu.edu/books/9781592136148]], TB</span>
+Contributing to this paradigm shift were a number of interrelated, or at least intersecting, factors, including the growth of the appropriate technology (AT) movement and its popularization through E. F. Schumacher’s //Small Is// //Beautiful,// published in 1973……102 Rivvy Neshama speaks clearly to the correlation between biking and the counterculture in describing the motivation for TA’s 1974 Bike-in:
+====__A lack of adequate infrastructure prevents widespread adoption of bicycling__==== 
+<span style="font-size: 10.66px;">(Zack </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Columbia College Chicago Department of Humanities, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, one less car chapter 1) </span>
+<span style="font-size: 14.66px;">Bicycling</span> is not only a fringe mode of transportation in a country with more vehicles than licensed drivers; it <span style="font-size: 14.66px;">is a form of mobility rendered virtually obsolete by the material infrastructure</span>and dominant cultural norms <span style="font-size: 14.66px;">in the United States</span>….. 24 Even seven-time Tour de France champion lance armstrong is not immune from these general trends; he was threatened and almost run over by a vengeful driver following a verbal exchange on the road in the late 1990s. 25
+====__Politicizing the bicycle and its infrastructure as a tool for spatial and cultural reform rejects the current mindset of transportation.__==== 
+<span style="font-size: 10.66px;">Zach </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, One Less Car: Bicycling and the Politics of Automobility, pg. 8-10, TB</span>
+<span style="font-size: 10.66px;">Against these odds, support for bicycle transportation is growing in the United States, and so are the ranks of those drawing critical attention to the intersecting problems of auto-supported sprawl, oil reliance, and “car addiction.”…..By focusing on the intersection of these issues and the myriad ways they play out through the contestation of automobility, this book not only pieces together a cultural and political map of the bicycle in the United States; it also uses the bicycle as an object with which to analyze and critique some of the dominant cultural and political formations in the so-called Western world.</span>
+=<span style="font-size: 10.66px;">Automobility & Health </span>= 
+
+====__Current infrastructure ideas and policies are structured around the car. Though the government has mandated more cycling infrastructure, states continue to ignore this and spatially organize for the automobile. The metropolis has become the autopolis, forcing out the bicycle.__==== 
+
+<span style="font-size: 10.66px;">Zack </span><span style="font-size: 21.33px;">Furness,</span><span style="font-size: 10.66px;"> Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago,</span> 20<span style="font-size: 21.33px;">10</span>, <span style="font-size: 10.66px;">One Less Car: Bicycling and the Politics of Automobility, Chapter 3: Vélorutionaries and the Right to the (Bikeable) City, Project Muse, [[http://muse.jhu.edu/books/9781592136148]], TB</span>
+
+<span style="font-size: 10.66px;">It is more than a little ironic that Dwight Eisenhower, Nazi fighter extraordinaire, was impressed by the efficiency of the autobahn and at once incapable of recognizing its deep implications in totalitarian logic…… In addition to penning books on the subject, he used his “Sky Line” column in the //New Yorker// to wage a public battle against auto-centric planning and, more specifically, Robert Moses’s catastrophically myopic vision of New York City as a driver’s paradise.30 In 1963, he stated:</span>
+
+====__Plan: The United State federal government should substantially increase its investment in bicycle transportation infrastructure in the United States.__==== 
+__Advantage: automobility__
+
+====__This network of infrastructure kills space as a living area, dividing and hierarchizing it and making us further rooted in automobility in an attempt to spatially fix these cracks.__==== 
+
+<span style="font-size: 10.66px;">David </span><span style="font-size: 21.33px;">Campbell</span><span style="font-size: 10.66px;">, professor of cultural and political geography at Durham University in the U.K., 20</span><span style="font-size: 21.33px;">05</span><span style="font-size: 10.66px;">, //American Quarterly// 57.3 (2005) 943-972, ‘The Biopolitics of Security: Oil, Empire, and the Sports Utility Vehicle’, Project Muse, [[http://muse.jhu.edu/journals/american_quarterly/v057/57.3campbell.html]], TB</span>
+
+<span style="font-size: 10.66px;">The concept of automobility—or that of the "auto social formation" or "car culture"—calls attention to the hybrid assemblage or machinic complex that the apparently autonomous entities of car and driver compose……</span><span style="font-size: 14.66px;">Citizens are thus coerced into a limited flexibility, creating a situation that is "a wonderful testament to the ability of a sociomaterial structure to serve its own reproduction.</span><span class="DebateUnderline">"</span>[[http://muse.jhu.edu/journals/american_quarterly/v057/57.3campbell.html#FOOT96|96]]
+
+====__We experience nothing between our starting point and destination, using this space as only a means to achieve our travel, making it into a dead zone.__==== 
+
+<span style="font-size: 10.66px;">John </span><span style="font-size: 21.33px;">Urry</span><span style="font-size: 10.66px;">, Professor of Sociology and Director of the Centre for Mobilities Research, Lancaster University; Edited by Steffen Böhm, Campbell Jones, Chris Land, and Matthew Paterson; “Inhabiting the car,” in “Against Automobility,” The Editorial Board of the Sociological Review 20</span><span style="font-size: 21.33px;">06</span><span style="font-size: 10.66px;">, p.21-22</span>
+
+<span style="font-size: 10.66px;">Simmel makes points relevant to the nature of this inhabiting. ….. Morse describes the freeway not as a place but as a vector, as direction, as ‘inbetweens’ where magnitude is measured in minutes rather than miles (1998). </span>
+
+====__The separation and depersonalization of the car causes a state of diremption in which the world is seen as dead or foreign. This separation is internalized to prevent social interaction and understanding that in turn forms the basis and meaning of life.__==== 
+
+<span style="font-size: 10.66px;">(Joshua </span><span style="font-size: 21.33px;">Fischel</span><span style="font-size: 10.66px;">, Senior Project Manager at Thomson Reuters, 20</span><span style="font-size: 21.33px;">11</span><span style="font-size: 10.66px;"> “EDUCATION AFTER MODERNITY: DEWEY, DAVIDSON, AND THE PROSPECTS FOR OVERCOMING DIREMPTION”)</span>
+
+<span style="font-size: 10.66px;">But let’s take a closer look at what happens when we emerge from a condition of diremption to a condition of love. Friedrich Hegel’s early essay on love can help us do so. ….. Only when the self comes to realize that the perceived separation and opposition between self and world is illusory, will it be able to overcome this alienation. </span>
+
+====__The subject of automobility is liquidated, the organization of space gives them no choices and takes them away from life.__==== 
+
+===Advantage 2: Health=== 
+====Automobility causes health issues==== 
+<span style="font-size: 17.33px;">Conley and Tigar no date</span><span style="font-size: 10.67px;"> //I. Series II. Conley, Jim, III McLaren, Arlene Tigar. 303.4’832-dc22 Dr. Arlene Tigar McLaren, Professor Emerita of Sociology, was educated at the University of British Columbia (B.A.), the University of Iowa (M.A.), and the London School of Economics (Ph.D.).//</span>
+<span class="StyleBoldUnderline">Automobility raises public health </span>… reduce problems of obesity (Frank et al. 2004)
+====Cycling helps improve your immune system==== 
+<span style="font-size: 17.33px;">Cavill and Davis, 2007</span><span style="font-size: 8px;">- </span>//Cavill N, Davis A, 2007.// [[@http://www.networks.nhs.uk/uploads/07/11/cycling_and_health.pdf|//Cycling and Health: what's the evidence?.// ]]//Cycling England http://cyclehelmets.org/1015.html//
+<span style="font-size: 10.67px;">Below are summarised some of the health benefits of cycling…</span><span class="StyleBoldUnderline"> assisting the prevention of related illnesses.</span>
+
+====Cycling reduces high blood pressure and the chance of getting cancer==== 
+<span style="font-size: 17.33px;">Cavill and Davis, 2007</span><span style="font-size: 8px;">- </span>//Cavill N, Davis A, 2007.// [[@http://www.networks.nhs.uk/uploads/07/11/cycling_and_health.pdf|//Cycling and Health: what's the evidence?.// ]]//Cycling England http://cyclehelmets.org/1015.html//
+Moderate <span class="StyleBoldUnderline">cycling can prevent, or at least reduce </span>…possibly lung and endometrial cancers too.
+====Cycling improves the quality of life and the quality of society as a whole==== 
+<span style="font-size: 17.33px;">Cavill and Davis, 2007</span><span style="font-size: 8px;">- </span>//Cavill N, Davis A, 2007.// [[@http://www.networks.nhs.uk/uploads/07/11/cycling_and_health.pdf|//Cycling and Health: what's the evidence?.// ]]//Cycling England http://cyclehelmets.org/1015.html//
+<span class="StyleBoldUnderline">Physical activity has a direct effect on well-being and health</span>. … <span class="StyleBoldUnderline"> reduced noise and danger, and greater independence for children.</span>
+
+====World Health Organization Declares that obesity kills more people that are underweight or at a healthy weight. And they declare that Bicycle Lanes can be a high quality improvement to public life.==== 
+**__<span style="font-family: "Times New Roman","serif"; font-size: 15.99px;">Thamm </span>__**<span style="font-family: "Times New Roman","serif"; font-size: 10.67px;">20</span>**__<span style="font-family: "Times New Roman","serif"; font-size: 15.99px;">12</span>__**<span style="font-family: "Times New Roman","serif"; font-size: 10.67px;">(Ulla Thamm Study </span>of European Ethnology, specializing Urban Development at the University of Vienna. Commitment and service to the European Youth Parliament) 2005<http://www.rosinak.co.at/sites/default/files/public/cycling_is_changing_the_cities_weninger_thamm_full_text_final_verkleinert_0.pdf?>
+**__<span style="font-family: "Times New Roman","serif"; font-size: 15.99px;">The everyday commuter has to be initially encouraged to ride the </span>__**…<span style="font-family: "Times New Roman","serif"; font-size: 10.67px;"> ‘Back to the Future Part IV’? – Yes, the bicycle.</span>
+==== ==== 
+====__Observation 2: Solvency__==== 
+
+====__Bicycling reconnects us with this space – time and space are balanced and speed is restrained enabling us to keep up with our movement and experience travel for what it is.__==== 
+
+<span style="font-size: 10.66px;">Zack </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, One Less Car: Bicycling and the Politics of Automobility, Chapter 3: Vélorutionaries and the Right to the (Bikeable) City, Project Muse, [[http://muse.jhu.edu/books/9781592136148]], TB</span>
+
+Contributing to this paradigm shift were a number of interrelated, or at least intersecting, factors, including the growth of the appropriate technology (AT) movement and its popularization through E. F. Schumacher’s //Small Is// //Beautiful,// published in 1973……102 Rivvy Neshama speaks clearly to the correlation between biking and the counterculture in describing the motivation for TA’s 1974 Bike-in:
+
+====__A lack of adequate infrastructure prevents widespread adoption of bicycling__==== 
+
+<span style="font-size: 10.66px;">(Zack </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Columbia College Chicago Department of Humanities, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, one less car chapter 1) </span>
+
+<span style="font-size: 14.66px;">Bicycling</span> is not only a fringe mode of transportation in a country with more vehicles than licensed drivers; it <span style="font-size: 14.66px;">is a form of mobility rendered virtually obsolete by the material infrastructure</span>and dominant cultural norms <span style="font-size: 14.66px;">in the United States</span>….. 24 Even seven-time Tour de France champion lance armstrong is not immune from these general trends; he was threatened and almost run over by a vengeful driver following a verbal exchange on the road in the late 1990s. 25
+
+====__Politicizing the bicycle and its infrastructure as a tool for spatial and cultural reform rejects the current mindset of transportation.__==== 
+
+<span style="font-size: 10.66px;">Zach </span><span style="font-size: 21.33px;">Furness</span><span style="font-size: 10.66px;">, Assistant Professor of Cultural Studies in the Department of Humanities, History, and Social Sciences at Columbia College Chicago, 20</span><span style="font-size: 21.33px;">10</span><span style="font-size: 10.66px;">, One Less Car: Bicycling and the Politics of Automobility, pg. 8-10, TB</span>
+
+<span style="font-size: 10.66px;">Against these odds, support for bicycle transportation is growing in the United States, and so are the ranks of those drawing critical attention to the intersecting problems of auto-supported sprawl, oil reliance, and “car addiction.”…..By focusing on the intersection of these issues and the myriad ways they play out through the contestation of automobility, this book not only pieces together a cultural and political map of the bicycle in the United States; it also uses the bicycle as an object with which to analyze and critique some of the dominant cultural and political formations in the so-called Western world.</span>
+=Transportation tubes- small= 
+
+===<span style="font-family: Times New Roman;">Inherency:</span>=== 
+
+====<span style="font-family: Times New Roman;">Tubes are not used for widespread transportation.</span>==== 
+
+====<span style="font-family: Times New Roman;">Tubes can be used in place of the freight systems.</span>==== 
+
+<span style="color: #000000; font-family: "Arial","sans-serif";">Lawrence </span><span style="font-size: 17.33px;">Vance and</span><span style="color: #000000; font-family: "Arial","sans-serif";"> Milton K. </span><span style="font-size: 17.33px;">Mills, 94</span>
+
+<span style="color: #000000; font-family: "Arial","sans-serif";">US Federal Highway Administration - </span><span style="font-family: "Arial","sans-serif";">[[http://www.tfhrc.gov/pubrds/fall94/p94au21.htm-]]</span><span style="color: #000000; font-family: "Arial","sans-serif";"> Text is based on 'Tube Transportation', Feb 1994, John A Volpe National Transportation Systems Centre, RSPA/VNTSC-SS-HW495-01. </span><span style="font-family: "Arial","sans-serif";">[[http://www.capsu.org/library/documents/0004.html]]</span>
+
+Under a research program on advanced freight movement, … market environment anticipated in the early 21st century.
+
+
+
+<span style="font-size: 17.33px;">Plan text-The United States Federal Government should substantially increase its investment in transportation infrastructure in transportation tube systems in the United States</span>
+
+===Adv 1- soil erosion=== 
+
+====Railways are key to reduce negative consequences of land-use – solves top soil destruction==== 
+
+<span style="font-size: 15.99px;">CER and UIC</span>, Community of European Railway and Infrastructure Companies and International Union of Railways, “Rail Transport and Environment: Fact & Figures”, Novemember <span style="font-size: 15.99px;">2008</span>
+
+The negative <span class="underline">consequences of land use are</span> … <span class="underline">with many trains that have high carrying capacity passing per hour.</span>
+
+====Soil erosion will cause extinction==== 
+
+John <span style="font-size: 15.99px;">Ikerd</span>, Professor Emeritus of Agricultural Economics at University of Missouri, 8-<span style="font-size: 15.99px;">2001</span>, “The High Cost of Cheap Food,” Small Farm Today, , http://www.ssu.missouri.edu/faculty/jikerd/papers/SFTcheapfood.html
+
+<span class="underline">All </span>life on earth is rooted in the soil<span class="underline">…</span> <span style="font-size: 9.33px;">just so we can have cheap food? </span>
+
+===Adv 2- Poverty=== 
+
+====Infrastructure not sufficient for nation’s poor==== 
+
+<span style="font-size: 17.33px;">Cholia</span>, Coeditor of Alt transport, October 19, <span style="font-size: 17.33px;">2010</span> (Ami, Alt Transport, [[http://alttransport.com/2010/10/lack-of-transportation-affects-our-nations-poor-the-most/]]; DKE)
+
+
+
+__Over the last ten years,__ … __those routes are the hardest to serve__<span style="font-size: 10.67px;">.]</span>
+
+
+
+
+
+====Transit facilitates interconnectivity and discourages suburban sprawl==== 
+
+<span style="font-size: 17.33px;">Goozner</span>, chief financial, and chief economics correspondent for the Chicago Tribune, <span style="font-size: 17.33px;">June 25, 2012</span>
+
+(Merrill, Gooznews, [[http://gooznews.com/?p=4018|__http://gooznews.com/?p=4018__]]; DKE)
+
+
+
+__[“Smart-growth” environmentalists and__ … __“in fill” development.]__
+
+====Poor most affected by transit cuts – Transportation tube systems will reverse that trend==== 
+
+<span style="font-size: 17.33px;">Cholia</span>, Coeditor of Alt transport, October 19, <span style="font-size: 17.33px;">2010</span> (Ami, Alt Transport, [[http://alttransport.com/2010/09/does-our-nations-transportation-policy-violate-the-civil-rights-act/]]; DKE)
+
+<span style="font-size: 10.67px;">[</span>__Manhattan (the city’s richest and whitest borough)__ …<span style="font-size: 10.67px;"> project would affect low-income and minority transit riders.]</span>
+
+Poverty is a structural violence that creates a cycle of oppression where certain lives are prioritized over others. 
+
+<span style="font-size: 17.33px;">Gilligan</span>, (Dept. of Psych. @ Harvard Med & Dir. of the Center for the Study of Violence) <span style="font-size: 17.33px;">1996</span>
+[James, Violence: Our Deadly Epidemic and its Causes p. 191-196]
+
+<span style="font-size: 10.67px;">You cannot work for one day … </span><span class="TitleChar">, as cause to effect.</span>
+===<span style="font-family: Times New Roman;">Solvency</span>=== 
+
+====<span style="font-family: Times New Roman;">ETT can transport people quickly and safely</span>==== 
+<span style="font-size: 17.33px;">Yaoping 2012</span><span style="font-family: Times New Roman; font-size: 10.67px;">[[http://et3.com/ett.asp]]</span><span style="font-family: Times New Roman; font-size: 10.67px;"> (</span><span style="font-size: 10.67px;">Dr. Zhang Yaoping, a PhD in transportation engineering in China, discovered the ETT patent and determined that ETT was the best transportation system for the future of China (and the world). Dr. Zhang corresponded with Oster, and brought an ETT technology license to China in 2001. (CVs on request.))</span>
+<span class="TitleChar">ETT stands for Evacuated Tube Transport. </span>…<span class="TitleChar"> For greater detail see technology section.</span>
+
+Tube transport system have a low cost
+<span style="font-size: 17.33px;">Yaoping continues</span>**<span class="TitleChar">The energy and material use is very low, </span>**…<span style="font-size: 13.32px;"> the topography, and the demand.</span>
+
+The tubes are spacious for people to travel in.
+<span style="font-size: 17.33px;">Yaoping 2012 continues</span><span style="font-size: 13.32px;">Capsules 2 feet in diameter and …  __be the best compromise between utility and cost.__ </span>
+
+Tubes can be used for everything
+<span style="font-size: 17.33px;">Yaoping 2012 concludes</span>**<span class="TitleChar">Tubes less than a foot in </span>**…<span class="TitleChar"> almost all transport needs.</span>
+
+If the federal government does not do the plan, the plan will have a bad time. and fail.
+<span style="font-size: 17.33px;">Rosenbloom and Wachs ’12</span> <span style="font-size: 10.67px;">(Sandra Rosenbloom, Director of the Drachman Institute at the University of Arizona and a Professor of Planning at the Institute for Land and Regional Development Studies; Martin Wachs, senior principal researcher at RAND and a professor at the Pardee RAND Graduate School, formerly served as director of the RAND Transportation, Space, and Technology Program, was also formerly a professor of civil and environmental engineering and professor of city and regional planning at the University of California, Berkeley, where was also director of the Institute of Transportation Studies. Prior to this, he spent 25 years at UCLA, where he served three terms as chairman of the Department of Urban Planning, “A Federal Role in Freight Planning and Finance”, http://www.rand.org/content/dam/rand/pubs/monographs/2012/RAND_MG1137.pdf)</span>
+
+Demands for Federal Action Most <span class="TitleChar">… </span><span style="font-size: 10.67px;">fashioned and paid for by state and local governments. </span>
+
+
+
+=Transportation Tubes – Big= 
+
+==Inherency== 
+
+====The US has have technology leadership since WW2 and has continued to lead because of its technology innovations==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">From Ben</span>jamin <span class="StyleBoldUnderline">Franklin to today, </span>… <span class="StyleBoldUnderline">and innovations.</span>
+
+
+
+====Tubes are the future of mass transit and yet it is not being built==== 
+
+[[http://www.gizmag.com/author/loz-blain/|Loz ]]<span style="font-size: 17.33px;">[[http://www.gizmag.com/author/loz-blain/|Blain]]</span> <span style="font-size: 17.33px;">July</span> 10, 20<span style="font-size: 17.33px;">12</span> [[http://www.gizmag.com/terraspan-vacuum-tube-train-supersonic-ultra-fast/23267/]] - he is a reporter for gizmag for almost a decade
+
+<span class="StyleBoldUnderline">In the 1800s, when pneumatic tubes shot telegrams and small items all around buildings and sometimes small cities, </span>… <span class="StyleBoldUnderline">– so why isn't anybody building it?</span>
+
+
+
+<span style="font-size: 17.33px;">Plan text-The United States Federal Government should substantially increase its investment in transportation infrastructure in transportation tube systems in the United States</span>
+
+====The plan will be funded through the DOD and the Dot and the aff reserves the right to define intent==== 
+
+==Solvency== 
+
+====Transportation is one of the ways the US can keep its technological leadership==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span style="color: #000000;">And that is the situation today as well … </span><span class="StyleBoldUnderline">focusing our efforts on specific science and technology goals can be an integral part of taking that step forward as a people.</span>
+
+====<span style="font-family: Times New Roman;">ETT can transport people quickly and safely</span>==== 
+
+<span style="font-size: 17.33px;">Yaoping 2012</span><span style="font-family: Times New Roman; font-size: 10.67px;">[[http://et3.com/ett.asp]]</span><span style="font-family: Times New Roman; font-size: 10.67px;"> (</span><span style="font-size: 10.67px;">Dr. Zhang Yaoping, a PhD in transportation engineering in China, discovered the ETT patent and determined that ETT was the best transportation system for the future of China (and the world). Dr. Zhang corresponded with Oster, and brought an ETT technology license to China in 2001. (CVs on request.))</span>
+
+ETT stands for Evacuated Tube Transport. … For greater detail see technology section.
+
+====Tube transport system have a low cost==== 
+
+<span style="font-size: 17.33px;">Yaoping continues</span>The energy and material use is very low, … <span style="font-size: 13.32px;">The cost will depend on many factors such as the design speed, the topography, and the demand.</span>
+
+====The tubes are spacious for people to travel in.==== 
+
+<span style="font-size: 17.33px;">Yaoping 2012 continues</span><span style="font-size: 13.32px;">Capsules 2 feet in diameter and 8 feet long could be used for one person lying down … __This is estimated to be the best compromise between utility and cost.__ </span>
+
+====Tubes can be used for everything==== 
+
+<span style="font-size: 17.33px;">Yaoping 2012 concludes</span>Tubes less than a foot in diameter would have use for mail and small packages. Tubes 20 feet in diameter could accommodate a bus. It is estimated that a 5 foot (1.5m) diameter tube could accommodate almost all transport needs.
+
+====<span class="StyleStyleBold12pt">If the federal government does not do the plan, the plan will have a bad time. and fail.</span>==== 
+
+<span style="font-size: 17.33px;">Rosenbloom and Wachs ’12</span> <span style="font-size: 10.67px;">(Sandra Rosenbloom, Director of the Drachman Institute at the University of Arizona and a Professor of Planning at the Institute for Land and Regional Development Studies; Martin Wachs, senior principal researcher at RAND and a professor at the Pardee RAND Graduate School, formerly served as director of the RAND Transportation, Space, and Technology Program, was also formerly a professor of civil and environmental engineering and professor of city and regional planning at the University of California, Berkeley, where was also director of the Institute of Transportation Studies. Prior to this, he spent 25 years at UCLA, where he served three terms as chairman of the Department of Urban Planning, “A Federal Role in Freight Planning and Finance”, http://www.rand.org/content/dam/rand/pubs/monographs/2012/RAND_MG1137.pdf)</span>
+
+Demands for Federal Action Most … <span style="font-size: 10.67px;"> their solutions should largely be fashioned and paid for by state and local governments. </span>
+
+
+==Advantage-Technology leadership== 
+
+====US currently has technology leadership but it’s declining and leaves the leadership up for grabs==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">In recent years, many nations around the world have sought to increase their investments in research, … , rising to about 2.8% of GDP in recent years </span>(3).i
+
+====We will isolate to 3 scenarios==== 
+
+===Scenario-1 hegemony=== 
+
+====The military is greatly benefits from Technology leadership==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">Technology leadership has benefited the United States generally</span>. <span class="StyleBoldUnderline">… DoD has funded much of the innovative science research that gave rise to these benefits.</span>
+
+====US Hegemony rest on the application of technology in the military==== 
+
+<span style="font-size: 17.33px;">Jerry Harris 2003 </span>//<span style="font-size: 10.67px;">Jerry Harris (Race & Class, Vol. 45 #2, 2003) </span>//[[http://netglobalcapitalism.wordpress.com/articles/dreams-of-global-hegemony-and-the-technology-of-war/|//http://netglobalcapitalism.wordpress.com/articles/dreams-of-global-hegemony-and-the-technology-of-war///]]//<span style="font-size: 10.67px;"> graduated from college with a major in military science</span>//
+
+<span class="StyleBoldUnderline">For most economic and political leaders in the West the Soviet collapse created the conditions to </span>
+
+<span class="StyleBoldUnderline">build a multilateral system of global capital.</span> … <span class="StyleBoldUnderline">(1) This political vision drives U.S. policy today.</span>
+
+====Decline in hegemony sparks nuclear wars all over the globe==== 
+
+<span style="font-size: 17.33px;">Kagan 7</span> – Robert, senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund, August-September, “End of Dreams, Return of History,” Hoover Policy Review, [[http://www.hoover.org/publications/policyreview/8552512.html]]
+
+Finally, there is the United States itself. … no one should imagine that a reduction of American power or a retraction of American influence and global involvement will provide an easier path.
+
+
+
+===Scenario-2 Economy=== 
+
+====Technology leadership increases economic strength==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">Technology leadership also has led to the creation and growth of high technology businesses … Boeing, Apple, and Google.</span>
+
+====Leadership key to jobs==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">The National Science Board</span><span style="color: #000000;"> (NSB) … </span><span class="StyleBoldUnderline">the health of the enterprise could easily falter.</span>
+
+====The economy is about to crumble – no resiliency==== 
+
+Christopher S. <span style="font-size: 17.33px;">Rugaber</span>, staff writer, Bloomberg, 6-1-<span style="font-size: 17.33px;">2012</span>, “US economy added 69K jobs in May, fewest in a year”, Bloomberg Businessweek, http://www.businessweek.com/ap/2012-06/D9V4CNRO0.htm
+
+The U.S. economy<span class="StyleBoldUnderline"> suddenly </span>looks<span class="StyleBoldUnderline"> a lot </span>weaker.<span class="StyleBoldUnderline"> U.S. </span>employers created only 69,000 jobs … Slow<span class="StyleBoldUnderline">er </span>growth in the United Statescomes at a perilous time for the global economy.
+
+====Econ decline causes great power wars==== 
+
+Zalmay <span style="font-size: 17.33px;">Khalilzad,</span> was the United States ambassador to Afghanistan, Iraq, and the United Nations during the presidency of George W. Bush and the director of policy planning at the Defense Department from 1990 to 1992, 2-8-<span style="font-size: 17.33px;">2011</span>, "The Econom and National Security" www.nationalreview.com/blogs/print/259024
+
+<span style="font-size: 10.67px;">Today, </span>economic<span style="font-size: 10.67px;"> and fiscal </span>trends pose //the most severe long-term threat// to the U<span style="font-size: 10.67px;">nited </span>S<span style="font-size: 10.67px;">tates’ </span>position as global leader<span style="font-size: 10.67px;">. … </span>leading the world toward a new, dangerous era of multi-polarity.
+
+===Scenario 3- Colonization=== 
+
+====Leadership is key for future tech==== 
+
+<span style="text-align: justify;"><span style="font-size: 17.33px;">Hummel, Cheetham and Rossi 2012 </span>//<span style="color: #000000; font-size: 10.67px;">Robert Hummel, PhD1,*, Patrick Cheetham1, Justin Rossi1</span>////<span style="font-size: 10.67px;">Synesis: A Journal of Science, Technology, Ethics, and Policy 2012</span>////<span style="color: #000000; font-size: 10.67px;">http://www.synesisjournal.com/vol3_g/Hummel_2012_G14-39.pdf</span>//</span>
+
+<span class="StyleBoldUnderline">One argument says that more R&D, and more technology </span>…<span class="StyleBoldUnderline"> and thus ongoing R&D efforts require new models of technology development.</span>
+
+
+
+====Future tech is needed for the next step of technology, space colonization==== 
+
+//<span style="font-size: 10.67px;">Kevin</span>// <span style="font-size: 17.33px;">Lepton 2011 </span>//<span style="font-size: 10.67px;">{Lepton is the writer, editor and publisher behind future-technology} http://www.futuretechnology500.com/index.php/future-space-travel-and-missions/</span>//
+
+<span class="StyleBoldUnderline">Within the next 1 or 2 years, </span>…<span class="StyleBoldUnderline"> if they had squarely struck the planet.</span>
+
+====Colonization solves Earth extinction scenarios- nuke war, super-volcanoes, asteroids==== 
+
+<span style="font-size: 15.99px;">Collins and Autino 08</span> <span style="font-size: 11.99px;">(Patrick, econ professor-Azabu University (Japan) and a Collaborating Researcher with the Institute for Space & Astronautical Science, and Adriano, President of the Space Renaissance International, “What the Growth of a Space Tourism Industry Could Contribute to Employment, Economic Growth, Environmental Protection, Education, Culture and World Peace, “http://www.spacefuture.com/archive/what_the_growth_of_a_space_tourism_industry_could_contribute_to_employment_economic_growth_environmental_protection_education_culture_and_world_peace.shtml) </span>
+
+<span class="underline">Investment in low-cost orbital access and </span>…<span style="font-size: 10.67px;"> appear to be achievable only through the development of a vigorous space tourism industry.</span>
+
+====Colonization’s a key insurance policy for human survival==== 
+
+**LT, 09** (London Telegraph, Human colony on mars would make the world a better place, [[http://www.telegraph.co.uk/science/science-news/6162355/Human-colony-on-Mars-will-make-the-world-a-better-place.html]], JG)
+
+__"**We should establish a self-supporting colony on Mars," …**__<span style="font-size: 11.99px;">His recipe for a better world? Look on the bright side of live, and appreciate your good fortune. </span>

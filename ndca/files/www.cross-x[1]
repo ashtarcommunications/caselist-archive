@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+	<html lang="en"  xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<script type="text/javascript">
+//<![CDATA[
+window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-13017613-2","ga_bs":"2"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/aav=1870252173/"},atok:"9e5c69ea937b42beae1689c23f697936",zone:"cross-x.com",rocket:"0",apps:{"ga_key":{"ua":"UA-13017613-2","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/aav=4114775854/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.cross-x.com/public/style_images/Cross_X_3_3/_cache/Platform.js"></script>
+		<meta charset="UTF-8" />
+		<title>Portal - Cross-X.com</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<link rel="shortcut icon" href='http://www.cross-x.com/favicon.ico' />
+		<link rel="image_src" href='http://www.cross-x.com/public/style_images/Cross_X_3_3/meta_image.png' />
+		<script type='text/javascript'>
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			USE_RTE			= 1;
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		
+	
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media='screen,print' href="http://www.cross-x.com/public/min/index.php?ipbv=777d4b77c0203064680558f00a0b9909&amp;f=public/style_css/css_15/ipb_help.css,public/style_css/css_15/skinbox.css,public/style_css/css_15/ipb_common.css,public/style_css/css_15/ipb_styles.css,public/style_css/css_15/calendar_select.css,public/style_css/prettify.css" />
+	
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.cross-x.com/public/style_css/css_15/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+
+	<style type='text/css'>
+		img.bbc_img { max-width: 100% !important; }
+	</style>
+<style type="text/css">
+	html { background-color: #3e5c92; }
+ body { background-color: #3e5c92; }
+ #branding { background-color: #3e5c92; }
+ #ipbwrapper { background-color: #3e5c92; }
+ .maintitle { background-color: #3e5c92; }
+ .ipsBox { background-color: #3e5c92; }
+ .bar { background-color: #3e5c92; }
+ .ipsSideBlock h3 { background-color: #3e5c92; }
+ .general_box h3 { background-color: #3e5c92; }
+ .statistics_head { background-color: #3e5c92; }
+ .header { background-color: #3e5c92; }
+ #vnc_filter_popup_close { background-color: #3e5c92; }
+ body#ipboard_body fieldset.submit { background-color: #3e5c92; }
+ body#ipboard_body p.submit { background-color: #3e5c92; }
+ .ipsForm_submit { background-color: #3e5c92; }
+ .post_block h3 { background-color: #3e5c92; }
+ .column_view .post_wrap { background-color: #3e5c92; }
+ .pagination .pages li.active { background-color: #3e5c92; }
+ ul.post_controls { background-color: #3e5c92; }
+ ul.post_controls a { background-color: #3e5c92; }
+ .pagination .page a { background-color: #3e5c92; }
+ .pagination .back a { background-color: #3e5c92; }
+ .pagination .forward a { background-color: #3e5c92; }
+ .topic_buttons li a { background-color: #3e5c92; }
+ .ipsButton { background-color: #3e5c92; }
+ ul.mini_pagination li a { background-color: #3e5c92; }
+ #backtotop { background-color: #3e5c92; }
+ #bottomScroll { background-color: #3e5c92; }
+ #board_stats .value { background-color: #3e5c92; }
+ #primary_nav { background-color: #3e5c92; }
+.maintitle { border-color: #3e5c92; }
+.ipsSideBlock h3 { color: #3e5c92; }
+ .ipsSideBlock h3 a { color: #3e5c92; }
+ .general_box h3 { color: #3e5c92; }
+ .general_box h3 a { color: #3e5c92; }
+ .bar { color: #3e5c92; }
+ .bar a { color: #3e5c92; }
+ .post_block h3 { color: #3e5c92; }
+	.post_block h3 a { color: #3e5c92; }
+
+#ipboard_body .main_width, .width, .wrapper { width: 90% !important; min-width: 980px !important; }
+.sb-avatar-frame, .sb-avatar-frame img { width: 40px; height: 40px; }
+.sb-avatar-frame-in-forums, .sb-avatar-frame-in-forums img { width: 40px; height: 40px; }
+.sb-avatar-frame-in-topics, .sb-avatar-frame-in-topics img { width: 40px; height: 40px; }
+
+</style>
+		<meta property="og:title" content="Portal"/>
+		<meta property="og:site_name" content="Cross-X.com"/>
+		<meta property="og:image" content="http://www.cross-x.com/public/style_images/Cross_X_3_3/meta_image.png"/>
+		<meta property="og:type" content="article" />
+		
+	
+		
+			<meta name="identifier-url" content="http://www.cross-x.com/" />
+		
+		
+			<meta property="og:url" content="http://www.cross-x.com/" />
+		
+		
+	
+
+		
+		
+		<script type='text/javascript' src="http://www.cross-x.com/public/style_images/Cross_X_3_3/js/ipbforumskins.js"></script>
+		
+		<script type='text/javascript' src='http://www.cross-x.com/public/min/index.php?ipbv=777d4b77c0203064680558f00a0b9909&amp;g=js'></script>
+	
+	<script type='text/javascript' src='http://www.cross-x.com/public/min/index.php?ipbv=777d4b77c0203064680558f00a0b9909&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js,public/js/ips.topic.js,public/js/ips.sharelinks.js' charset='UTF-8'></script>
+
+
+	
+		
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Last 10 Submissions RSS Feed" href="http://www.cross-x.com/rss/downloads/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Cross-X.com Blogs RSS feed" href="http://www.cross-x.com/rss/blog/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Community Calendar" href="http://www.cross-x.com/rss/calendar/1-community-calendar/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Articles" href="http://www.cross-x.com/rss/ccs/1c1-articles/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Pages" href="http://www.cross-x.com/rss/ccs/1c4-pages/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Miscellaneous" href="http://www.cross-x.com/rss/ccs/1c5-miscellaneous/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Forum Integration" href="http://www.cross-x.com/rss/ccs/1c2-forum-integration/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Frontpage" href="http://www.cross-x.com/rss/ccs/1c3-frontpage/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Databases" href="http://www.cross-x.com/rss/ccs/1c6-databases/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Templates" href="http://www.cross-x.com/rss/ccs/1c7-templates/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Articles: Media" href="http://www.cross-x.com/rss/ccs/1c8-media/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Media Demo: New Features" href="http://www.cross-x.com/rss/ccs/2c9-new-features/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Media Demo: Other" href="http://www.cross-x.com/rss/ccs/2c10-other/" />
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Report Center RSS Feed" href="http://www.cross-x.com/index.php?app=core&amp;module=global&amp;section=rss&amp;type=core&amp;member_id=175868&amp;rss_key=0d388b1900ac1829ac145e3163826430" />
+			
+			
+			
+		
+	
+
+	
+
+
+
+		
+		<script type='text/javascript'>
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://www.cross-x.com/index.php?s=7b3e17bcfdf10be4507ec1646d1a800e&';
+		ipb.vars['board_url']			= 'http://www.cross-x.com';
+		ipb.vars['img_url'] 			= "http://www.cross-x.com/public/style_images/Cross_X_3_3";
+		ipb.vars['loading_img'] 		= 'http://www.cross-x.com/public/style_images/Cross_X_3_3/loading.gif';
+		ipb.vars['active_app']			= 'portal';
+		ipb.vars['upload_url']			= 'http://www.cross-x.com/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 175868 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '25020270f899e25ef4f23d8887828338';
+		ipb.vars['session_id']			= '7b3e17bcfdf10be4507ec1646d1a800e';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 1243046548;
+		ipb.vars['auto_dst']			= parseInt( 1 );
+		ipb.vars['dst_in_use']			= parseInt( 1 );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"1"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= '';
+		ipb.vars['cookie_domain'] 		= '';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://www.cross-x.com/public/style_images/Cross_X_3_3/star.png';
+		ipb.vars['rate_img_off']		= 'http://www.cross-x.com/public/style_images/Cross_X_3_3/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://www.cross-x.com/public/style_images/Cross_X_3_3/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://www.cross-x.com/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( 'default' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "UTF-8";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"\/page__","varSep":"__"};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		
+			ipb.templates['m_add_friend']	= new Template("<a href='http://www.cross-x.com/index.php?app=members&amp;module=profile&amp;section=friends&amp;do=add&amp;member_id=#{id}' title='Add as Friend' class='ipsButton_secondary'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/user_add.png' alt='Add as Friend' /></a>");
+			ipb.templates['m_rem_friend']	= new Template("<a href='http://www.cross-x.com/index.php?app=members&amp;module=profile&amp;section=friends&amp;do=remove&amp;member_id=#{id}' title='Remove Friend' class='ipsButton_secondary'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/user_delete.png' alt='Remove Friend' /></a>");
+		
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+			ipb.global.checkDST();
+		
+		Loader.boot();
+	//]]>
+	</script>
+	<script type="text/javascript">/* CloudFlare analytics upgrade */
+</script><script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-13017613-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+	<body id='ipboard_body' class=" msie-8 feature-background_picker-off feature-backgrounds_in_dropdown-off feature-backgrounds_in_balloon-off feature-backgrounds_in_overlay-off feature-style_picker-off feature-view_picker-off feature-color_picker-on"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.cross-x.com",d="/cdn-cgi/cl/",e="6d6f76a1602d45c644f3019e101d91ca0e9ac17b.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+		<p id='content_jump' class='hide'><a href='#j_content' title='Jump to content' accesskey='m'>Jump to content</a></p>
+		<div class='wrapper'>
+<div id='user_bar' class='clearfix'>
+					<div id='user_navigation' class='logged_in'>
+							<ul class='ipsList_inline'>
+								<li><a href="http://www.cross-x.com/user/175868-brian-d-gonzaba/" title='Your Profile'>
+                                    <img src='http://www.cross-x.com/uploads/profile/photo-thumb-175868.jpg?_r=1347640921' alt="Brian D. Gonzaba%s&#39;s Photo" class='user_photo' />
+                                </a></li>
+                                <li><a id='user_link' href="http://www.cross-x.com/user/175868-brian-d-gonzaba/"  title='Your Profile'>Brian D. Gonzaba &nbsp;<span id='user_link_dd'></span></a></li>							
+								<li><a data-clicklaunch="getInboxList" id='inbox_link' href='http://www.cross-x.com/index.php?app=members&amp;module=messaging' title='Messenger'><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/clear.gif" alt="" />&nbsp;</a></li>
+									<li><a data-clicklaunch="getNotificationsList" id='notify_link' href="http://www.cross-x.com/index.php?app=core&amp;module=usercp&amp;area=notificationlog" title="Notifications"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/clear.gif" alt="" />&nbsp;</a></li>
+    							<li><a href="http://www.cross-x.com/index.php?app=core&amp;module=global&amp;section=login&amp;do=logout&amp;k=25020270f899e25ef4f23d8887828338">Sign Out</a></li>								
+								
+							</ul>
+						</div>
+						<!-- ::: USER DROP DOWN MENU ::: -->
+						<div id='user_link_menucontent' class='ipsHeaderMenu clearfix boxShadow' style='display: none'>
+							<a href="http://www.cross-x.com/user/175868-brian-d-gonzaba/" title='Your Profile' class='ipsUserPhotoLink left'>
+								<img src='http://www.cross-x.com/uploads/profile/photo-thumb-175868.jpg?_r=1347640921' alt="Brian D. Gonzaba&#39;s Photo" class='ipsUserPhoto ipsUserPhoto_medium photo' />
+							</a>
+							
+							<div class='left'>
+								<form id='statusForm' action='http://www.cross-x.com/index.php?app=members&amp;module=profile&amp;section=status&amp;do=new&amp;k=25020270f899e25ef4f23d8887828338&amp;id=175868' method='post'>
+										<input type='text' id='statusUpdateGlobal' name='content' class='input_text' style='width: 97%' /><br />
+										<input type='submit' id='statusSubmitGlobal' class='ipsButton_secondary' value='Update' />
+										&nbsp;&nbsp;
+											 &nbsp; 
+											&nbsp;<input type='checkbox' id='su_FacebookGlobal' value='1' name='su_Facebook' /> <label for='su_FacebookGlobal' class='desc ipsType_smaller'>Facebook</label>
+										<br />
+										<hr />
+									</form>
+									<ul id='links'>
+										<li id='user_profile'><a href='http://www.cross-x.com/user/175868-brian-d-gonzaba/' title='Your Profile'>My Profile</a></li>
+										<li id='user_ucp'><a href="http://www.cross-x.com/index.php?app=core&amp;module=usercp" title="Edit my settings, such as signature, photo and more...">My Settings</a></li>
+										<li id='user_content'><a href="http://www.cross-x.com/index.php?app=core&amp;module=search&amp;do=user_activity&amp;mid=175868" title="My Content">My Content</a></li>
+										
+											<li id='user_likes'><a href='http://www.cross-x.com/index.php?app=core&amp;module=search&amp;do=followed' title='Content I Follow'>Content I Follow</a></li>
+										
+										
+										<li id='user_enemies'><a href='http://www.cross-x.com/index.php?app=core&amp;module=usercp&amp;tab=core&amp;area=ignoredusers' title="Manage Ignore Prefs" class='manage_enemies'>Manage Ignore Prefs</a></li>
+										
+											<li id='user_blog'><a href="http://www.cross-x.com/blog/manage/">Manage Blogs</a></li>
+										
+										
+											<li id='user_pm'><a href="http://www.cross-x.com/index.php?app=members&module=messaging">Personal Messenger</a></li>
+										
+										
+										
+											<li id='user_nexus'><a href='http://www.cross-x.com/index.php?app=nexus&amp;module=clients' title="Client Area">Client Area</a></li>
+										
+									</ul>
+							</div>
+						</div>
+</div>
+
+<div id='ipbwrapper'>
+
+			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
+			<div id='branding' class='clearfix'>
+                <div id='logo'>
+                    
+                        <a href='http://www.cross-x.com' title='Go to community index' rel="home" accesskey='1'><img src='http://www.cross-x.com/public/style_images/7_logo.png' alt='Logo' /></a>
+                    
+                </div>
+                <div id='search' class='right'>
+	<form action="http://www.cross-x.com/index.php?app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id='search-box' >
+		<fieldset>
+			<label for='main_search' class='hide'>Search</label>
+			<a href='http://www.cross-x.com/index.php?app=core&amp;module=search&amp;search_in=portal' title='Advanced Search' accesskey='4' rel="search" id='adv_search' class='right'>Advanced</a>
+			<span id='search_wrap' class='right'>
+				<input type='text' id='main_search' name='search_term' class='inactive' size='17' tabindex='6' />
+				<span class='choice ipbmenu clickable' id='search_options' style='display: none'></span>
+				<ul id='search_options_menucontent' class='ipbmenu_content ipsPad' style='display: none'>
+					<li class='title'><strong>Search section:</strong></li>
+					
+					
+					
+					<li class='app'><label for='s_forums' title='Forums'><input type='radio' name='search_app' class='input_radio' id='s_forums' value="forums" checked="checked" />Forums</label></li><li class='app'><label for='s_members' title='Members'><input type='radio' name='search_app' class='input_radio' id='s_members' value="members"  />Members</label></li><li class='app'><label for='s_core' title='Help Files'><input type='radio' name='search_app' class='input_radio' id='s_core' value="core"  />Help Files</label></li>
+						
+					
+
+						
+					
+
+						<li class='app'><label for='s_downloads' title='Evazon'><input type='radio' name='search_app' class='input_radio' id='s_downloads' value="downloads"  />Evazon</label></li>
+					
+
+						<li class='app'><label for='s_blog' title='Blogs'><input type='radio' name='search_app' class='input_radio' id='s_blog' value="blog"  />Blogs</label></li>
+					
+
+						<li class='app'><label for='s_calendar' title='Calendar'><input type='radio' name='search_app' class='input_radio' id='s_calendar' value="calendar"  />Calendar</label></li>
+					
+
+						
+					
+
+						<li class='app'><label for='s_nexus' title='Store'><input type='radio' name='search_app' class='input_radio' id='s_nexus' value="nexus"  />Store</label></li>
+					
+
+						
+					
+
+						
+					
+
+						<li class='app'><label for='s_ccs' title='Pages'><input type='radio' name='search_app' class='input_radio' id='s_ccs' value="ccs"  />Pages</label></li>
+					
+				</ul>
+				<input type='submit' class='submit_input clickable' value='Search' />
+			</span>
+			
+		</fieldset>
+	</form>
+</div>
+			</div>
+			<!-- ::: APPLICATION TABS ::: -->
+		<div id='primary_nav' class='clearfix'>
+                <ul class='ipsList_inline' id='community_app_menu'>
+                    
+                        <li id='nav_home' class='left'><a href='http://www.cross-x.com' title='Homepage' rel="home">Cross-X.com</a></li>
+                    
+                    
+                            	
+		
+			
+			
+		
+
+			
+			<li id='nav_app_forums' class="left "><a href='http://www.cross-x.com/index' title='Go to Forums' >Forums</a></li>
+		
+
+			
+			<li id='nav_app_downloads' class="left "><a href='http://www.cross-x.com/files/' title='Go to Evazon' >Evazon</a></li>
+		
+
+			
+			<li id='nav_app_blog' class="left "><a href='http://www.cross-x.com/blogs/' title='Go to Blogs' >Blogs</a></li>
+		
+
+			
+			<li id='nav_app_calendar' class="left "><a href='http://www.cross-x.com/calendar/' title='Go to Calendar' >Calendar</a></li>
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			
+		
+
+			
+			
+		
+	
+	
+                        
+		    <li id="nav_more" data-dropdown>
+			<a href="#">More <img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/useropts_arrow.png" alt="" /></a>
+			<ul>
+				<li><a href="http://www.twitter.com/CrossXcom"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/_custom/icon-social_twitter.png" alt="" /> Follow Us on Twitter</a></li>
+				<li><a href="https://www.facebook.com/CrossXcom"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/_custom/icon-social_facebook.png" alt="" /> Like Us on Facebook</a></li>
+			</ul>
+	            </li>
+                    <li id='nav_other_apps' style='display: none'>
+                        <a href='#' class='ipbmenu' id='more_apps'>More <img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/useropts_arrow.png' /></a>
+                    </li>
+                    <li id="nav_colorpicker" data-dropdown="right click" class="right" style='padding: 4px 10px 0 0;'>
+	<span><a href="#"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/_custom/colorpicker.png" alt="Color Picker" title="Color Picker" /></a></span>
+	<ul>
+		<li><div id="ptColorPicker"></div><input id="ptColorInput" type="text" /><a href="#" data-target-color="#3e5c92"><span style="background-color: #3e5c92"></span> Blue</a></li>
+	</ul>
+</li>
+                </ul>
+			<script type='text/javascript'>
+				// if( $('primary_nav') ){ ipb.global.activateMainMenu(); }
+			</script>
+		</div>
+			
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id='content' class='clearfix'>
+
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->			
+					<div id='admin_bar'>
+							
+                        <ul class='ipsList_inline left'>
+							<li><a href="http://www.cross-x.com/index.php?app=core&amp;module=modcp" title='ModeratorCP'>ModeratorCP</a></li>
+							
+						</ul></div>
+
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+
+					<div id='secondary_navigation' class='clearfix'>
+                    
+						<ol class='breadcrumb top ipsList_inline left'>
+														<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a href='http://www.cross-x.com/index' itemprop="url">
+										<span itemprop="title">Cross-X.com</span>
+									</a>
+								</li>
+								
+							
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class='nav_sep'>&rarr;</span>
+									 <a href='http://www.cross-x.com/portal/' title='Return to Portal' itemprop="url"><span itemprop="title">Portal</span></a>
+								</li>
+								
+							
+						</ol>
+                        
+                        <ul id='secondary_links' class='ipsList_inline right'>
+                        
+                        <li><a href='http://www.cross-x.com/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums' accesskey='2'>View New Content</a></li>
+                        
+                        <li><a href="http://www.cross-x.com/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=portal" rel="quickNavigation" accesskey='9' id='quickNavLaunch' title="Open Quick Navigation"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/icon_quicknav.png" alt="" /></a></li>
+                        
+						</ul>
+                    
+					</div>
+				
+				<!-- ::: CONTENT ::: -->
+
+                <noscript>
+                    <div class='message error'>
+                        <strong>Javascript Disabled Detected</strong>
+                        <p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
+                    </div>
+                    <br />
+                </noscript>
+
+				
+				
+
+
+
+
+
+<div class='ipsLayout  ipsLayout_withright ipsLayout_largeright clearfix'>
+      <div class='ipsLayout_left'>
+           
+      </div>
+      <div class='ipsLayout_content clearfix'>
+           
+     
+          
+              
+<div class='ipsBox clear'>
+
+    
+
+        <div class='ipsBox_container ipsPad'>        
+		
+            <a href='http://www.cross-x.com/user/148463-south-x/' class='ipsUserPhotoLink left ipsPad_half'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt=' Photo' class='ipsUserPhoto ipsUserPhoto_medium' /></a>
+		
+            <h2 class='ipsType_pagetitle'><a href='http://www.cross-x.com/topic/53697-thursday-file-september-13-2012-available/'>Thursday File September 13, 2012 Available</a></h2>
+            <div class='desc'>Yesterday, 11:44 AM</div><br class='clear' />
+
+        
+            <div class='desc ipsType_smaller ipsPad_half'>		
+                Posted by <a hovercard-ref="member" hovercard-id="148463" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/148463-south-x/' title='View Profile'><span itemprop="name">South-X</span></a>
+                in <a href='http://www.cross-x.com/forum/21-discuss-the-articles/'>Discuss the Articles</a>
+            </div>
+
+            <div class='ipsType_textblock ipsPad'>
+                This week&#39;s Thursday File features a Romney Bad China Bashing DA, written by Ross and Stephanie Garrett&nbsp;&nbsp;There are multiple reasons that this scenario is advantageous find out more about the file, its table of contents, and the authors below.<br />
+<br />
+<a href='http://www.cross-x.com/files/file/11019-thursday-file-september-13-2012/' class='bbc_url' title=''>http://www.cross-x.c...tember-13-2012/</a><br />
+<br />
+There are a six reasons that China Bashing is one of the best elections scenarios in the context of the high school topic:<br />
+1. Elections is the dominant political issue.<br />
+2. Romney has very clearly made a policy pledge to label China a &quot;currency manipulator&quot; his first day in office, he doesn&#39;t need Congress for that promise.<br />
+3. The impacts from changing the China label are short term.<br />
+4.&nbsp;&nbsp;China Bashing lets you turn most of the AFF&#39;s best advantages like the economy.<br />
+5.&nbsp;&nbsp;The link direction for Romney bad works very well.&nbsp;&nbsp;Announcing major spending on long term infrastructure projects that could rile fears of the debt isn&#39;t a great election strategy for Obama.<br />
+6.&nbsp;&nbsp;Right now uniqueness seems to be tipping toward Obama winning now.<br />
+<br />
+<br />
+The file also include AFF answers to this scenario and uniqueness for both sides of the election debate.<br />
+<br />
+Ross Garrett is an assistant debate coach at Kent Denver, and has previously coached for New Trier, Mountain Brook, and Samford University.&nbsp;&nbsp;His students have won top speaker at Blake, won the Emory tournament, appeared in elimination rounds at the TOC, and have received TOC bids at tournaments around the country.&nbsp;&nbsp;Samford appeared in the octofinals of the NDT and was ranked in the top 25 poll throughout his tenure.&nbsp;&nbsp;Stephanie Garrett is the head debate coach at Kent Denver.&nbsp;&nbsp;<br />
+<br />
+<br />
+Obama Good 1NC. 2<br />
+Obama Good 1NC. 4<br />
+New Uniqueness. 6<br />
+Obama Winning Now.. 7<br />
+Obama Winning Now.. 8<br />
+Obama Winning Now.. 9<br />
+Obama Winning Now.. 10<br />
+Romney Winning Now.. 11<br />
+Romney Winning Now.. 12<br />
+Romney Winning—AT: Obama Convention Bump. 13<br />
+Impact Evidence. 14<br />
+2NC Overview Cards. 15<br />
+Romney Bad for China Relations. 16<br />
+Romney Bad for China Relations. 17<br />
+A2: Obama will bash china. 18<br />
+A2: Prediction Markets. 19<br />
+Ext – Romney Leads to China Bashing. 20<br />
+China Bashing Bad—Impact—A2: Won’t Escalate. 21<br />
+China Bashing Bad—Impact—A2: Won’t Escalate. 22<br />
+China Bashing Bad—Impact—A2: Reevaluation Good Turns. 23<br />
+China Bashing Bad—Impact—A2: Reevaluation Good Turns. 24<br />
+China Bashing Bad—Impact—A2: Relations Resilient. 25<br />
+Trade War Bad – US/China War. 26<br />
+Trade War Bad – China Economy 2NC. 27<br />
+China Bashing Bad – Economy. 28<br />
+Ext – Kills the Economy. 29<br />
+China Bashing Bad – Impact – Relations. 30<br />
+China Bashing Bad – Impact – Relations. 32<br />
+China Bashing Bad – Impact – Taiwan War. 34<br />
+China Currency Revaluation – Impact – Proliferation. 35<br />
+China Currency Revaluation – Impact – Trade War. 36<br />
+China Currency Revaluation – Impact – Trade War. 37<br />
+AFF Answers. 39<br />
+Romney Won’t Bash China. 40<br />
+Romney Won’t Bash China. 41<br />
+China Relations Resilient. 42<br />
+China Bashing Won’t Escalate. 43<br />
+China Bashing Inevitable. 44<br />
+Previous Uniqueness. 45<br />
+Obama Win Now.. 46<br />
+Obama Win Now – Latino Vote. 48<br />
+Obama Win Now – A2: Jobs report. 49<br />
+Obama Win Now – 2NC Wall 50<br />
+Obama Win Now - Betting. 52<br />
+Obama Lose Now.. 54<br />
+Romney Good – Arms Sales. 56
+                <!--IBF.ATTACHMENT_861587-->
+            </div>
+            
+        </div>
+
+        <div class='general_box'>
+            <h3 class='ipsType_smaller'>&nbsp;            
+                
+
+	<ul class='topic_share left shareButtons ipsList_inline'>
+	
+		<li><a href="http://www.cross-x.com/index.php?sharelink=twitter;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Twitter" class='_slink' id='slink_twitter'><img src="http://www.cross-x.com/public/style_extra/sharelinks/twitter.png" /></a></li>
+	
+
+		
+				<li class='fbLike'><div class="fb-like" data-href="http://www.cross-x.com/topic/53697-thursday-file-september-13-2012-available/" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="like"></div><div id="fb-root"></div></li>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=151804134877243";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+			
+	
+
+		
+				<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	
+		{lang: 'en-GB'}
+	
+</script>
+<li><div class='googlePlusOne'><g:plusone count="false" size="small"></g:plusone></div></li>
+			
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=digg;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Digg" class='_slink' id='slink_digg'><img src="http://www.cross-x.com/public/style_extra/sharelinks/digg.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=delicious;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Del.icio.us" class='_slink' id='slink_delicious'><img src="http://www.cross-x.com/public/style_extra/sharelinks/delicious.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=reddit;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Reddit" class='_slink' id='slink_reddit'><img src="http://www.cross-x.com/public/style_extra/sharelinks/reddit.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=stumble;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via StumbleUpon" class='_slink' id='slink_stumble'><img src="http://www.cross-x.com/public/style_extra/sharelinks/stumble.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=email;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Email" class='_slink' id='slink_email'><img src="http://www.cross-x.com/public/style_extra/sharelinks/email.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=print;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Print" class='_slink' id='slink_print'><img src="http://www.cross-x.com/public/style_extra/sharelinks/print.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=download;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Download" class='_slink' id='slink_download'><img src="http://www.cross-x.com/public/style_extra/sharelinks/download.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=blogthis;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY5Ny10aHVyc2RheS1maWxlLXNlcHRlbWJlci0xMy0yMDEyLWF2YWlsYWJsZS8,;VGh1cnNkYXkgRmlsZSBTZXB0ZW1iZXIgMTMsIDIwMTIgQXZhaWxhYmxl" rel="nofollow" target="_blank" title="Share this link via Blog This" class='_slink' id='slink_blogthis'><img src="http://www.cross-x.com/public/style_extra/sharelinks/blogthis.png" /></a></li>
+	
+	</ul>
+	<script type="text/javascript">
+		ipb.sharelinks.url   = "http://www.cross-x.com/topic/53697-thursday-file-september-13-2012-available/";
+		ipb.sharelinks.title = "Thursday File September 13, 2012 Available";
+		ipb.sharelinks.bname = "Cross-X.com";
+	</script>
+
+
+                <span class='right'>
+                98 Views &middot;
+                0 Replies
+	
+                
+                </span>
+                	
+            </h3>
+                        
+	</div>
+
+
+
+
+        <div class='ipsBox_container ipsPad'>        
+		
+            <a href='http://www.cross-x.com/user/148463-south-x/' class='ipsUserPhotoLink left ipsPad_half'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt=' Photo' class='ipsUserPhoto ipsUserPhoto_medium' /></a>
+		
+            <h2 class='ipsType_pagetitle'><a href='http://www.cross-x.com/topic/53665-thursday-file-season-opener-september-6th-now-available/'>Thursday File Season Opener September 6Th Now Available</a></h2>
+            <div class='desc'>06 Sep 2012</div><br class='clear' />
+
+        
+            <div class='desc ipsType_smaller ipsPad_half'>		
+                Posted by <a hovercard-ref="member" hovercard-id="148463" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/148463-south-x/' title='View Profile'><span itemprop="name">South-X</span></a>
+                in <a href='http://www.cross-x.com/forum/21-discuss-the-articles/'>Discuss the Articles</a>
+            </div>
+
+            <div class='ipsType_textblock ipsPad'>
+                There are two main stories in politics right now, the coming &quot;fiscal cliff&quot; and the current elections.&nbsp;&nbsp;This week&#39;s Thursday File helps you prepare for both.&nbsp;&nbsp;This week&#39;s author is Francisco Bencosme who debated for Wake Forest he cleared at every major national college tournament find out more about him, the file, and see the Table of Contents below.<br />
+<br />
+<a href='http://www.cross-x.com/files/file/11016-thursday-file-wakewestminster-962012/' class='bbc_url' title=''>http://www.cross-x.c...minster-962012/</a><br />
+<br />
+This weeks scenario is about the continuing budget resolution Congress needs to pass before the end of this legislative session.&nbsp;&nbsp;The continuing resolution allows the budget to continue until most likely when the new Congress meets to reach a final agreement.&nbsp;&nbsp;The continuing resolution also has the power to prevent the defense sequestration and other measures that may be triggered as part of the &quot;fiscal cliff&quot;.&nbsp;&nbsp;Given that this is the only legislation Congress must really act prior to the election it is the perfect scenario for agenda politics.&nbsp;&nbsp;The plan&#39;s additions to the budget process also ensure the negative has a great link.<br />
+<br />
+If you are planning on running elections this file does the heavy lifting to get you new uniqueness on both sides of the debate and answer the most important recent news events.&nbsp;&nbsp;If you need cards to help deal with this week&#39;s DNC, cards with the latest polls, and cards discussing the best predictive measures this file helps cover everything.&nbsp;&nbsp;Even if you don&#39;t plan to read elections yourself your affirmative side might need both sets of uniqueness, so don&#39;t be unprepared even if you aren&#39;t a politics debater.<br />
+<br />
+Finally, this week&#39;s author is Francisco Becosme, he debated at Wake Forest University where he appeared in the octofinals of Harvard, Texas, and GSU, and was invited to participate in the prestigious Pittsburgh Round Robin.&nbsp;&nbsp;He has in the past helped the Bronx Science team and has coached numerous successful high school teams.<br />
+<br />
+<br />
+TOC......................................................................................................................................................................... 1<br />
+**Continuing Resolution**...................................................................................................................................... 1<br />
+Continuing Resolution 1NC...................................................................................................................................... 1<br />
+CR- Asia Impact....................................................................................................................................................... 5<br />
+Asia Impact 2NC-..................................................................................................................................................... 7<br />
+Will Pass- 2NC......................................................................................................................................................... 9<br />
+AT: Thumpers........................................................................................................................................................ 10<br />
+Internal Link 2NC.................................................................................................................................................. 11<br />
+Internal New- New Spending.................................................................................................................................. 12<br />
+Internal Link- Riders.............................................................................................................................................. 13<br />
+Internal Links- Opening Up The Budget................................................................................................................. 14<br />
+Internal Link- Sequestration Spending T/O............................................................................................................. 15<br />
+Internal Link- Delay............................................................................................................................................... 16<br />
+AT- Uniqueness Overwhlems Link........................................................................................................................ 17<br />
+AT- Plan Would Just Be Included Into Revisions................................................................................................... 18<br />
+AT: Plan Can’t Be Brought Up............................................................................................................................... 19<br />
+AT: Votes Ideological............................................................................................................................................. 20<br />
+AT: Elections Changes Everything......................................................................................................................... 21<br />
+CR Key To Prevent Sequestration.......................................................................................................................... 22<br />
+**Sequestration Impact**...................................................................................................................................... 25<br />
+2NC – National Security......................................................................................................................................... 26<br />
+1NC / 2NC – Heg................................................................................................................................................... 27<br />
+EXT – Heg............................................................................................................................................................. 28<br />
+AT GOP Won’t Cut Military................................................................................................................................... 29<br />
+1NC / 2NC – Deterrence Scenario.......................................................................................................................... 30<br />
+EXT – Yes Modernization Cuts.............................................................................................................................. 32<br />
+1NC / 2NC – F-35 Cuts.......................................................................................................................................... 33<br />
+EXT – Yes F-35 Cuts............................................................................................................................................. 35<br />
+EXT – F-35 Key to Air Power................................................................................................................................ 36<br />
+**Agenda**........................................................................................................................................................... 38<br />
+No Agenda............................................................................................................................................................. 39<br />
+Yes Political Capital............................................................................................................................................... 40<br />
+Yes Bipartisanship.................................................................................................................................................. 41<br />
+CR Won’t Pass....................................................................................................................................................... 43<br />
+CR Not Key To Sequestration................................................................................................................................ 44<br />
+Sequestration Won’t Pass....................................................................................................................................... 45<br />
+Farm Bill- Will Pass................................................................................................................................................ 46<br />
+Farm Bill- Won’t Pass............................................................................................................................................. 48<br />
+Cyber Security- Won’t Pass.................................................................................................................................... 51<br />
+Tax Cuts- Won’t Pass............................................................................................................................................. 52<br />
+Postal Service Reform- Won’t Pass........................................................................................................................ 53<br />
+VAWA- Won’t Pass............................................................................................................................................... 54<br />
+**Elections**......................................................................................................................................................... 56<br />
+Yes Obama- DNC.................................................................................................................................................. 57<br />
+Yes Obama- 13 Factors.......................................................................................................................................... 58<br />
+Yes Obama- PollyVote........................................................................................................................................... 59<br />
+Yes Obama- Polls................................................................................................................................................... 60<br />
+Yes Obama- Economy........................................................................................................................................... 61<br />
+AT: Economy Swings Elections.............................................................................................................................. 62<br />
+Yes Obama- Tight Race.......................................................................................................................................... 63<br />
+AT: DNC Bump..................................................................................................................................................... 64<br />
+Yes Obama- Key Battlegrounds............................................................................................................................. 65<br />
+Yes Obama- Gallup................................................................................................................................................ 66<br />
+Yes Romney- Income Growth................................................................................................................................ 68<br />
+Yes Romney- Unemployment and PCI................................................................................................................... 69<br />
+Election = Tied....................................................................................................................................................... 71<br />
+Tied- CNN.............................................................................................................................................................. 72<br />
+AT: Rasmussen Polls.............................................................................................................................................. 73<br />
+Link Booster- Trajectory Not Squo Matters............................................................................................................ 75<br />
+AT: Economy I/L................................................................................................................................................... 76<br />
+AT: Uniqueness Overwhlems Link......................................................................................................................... 77
+                <!--IBF.ATTACHMENT_861337-->
+            </div>
+            
+        </div>
+
+        <div class='general_box'>
+            <h3 class='ipsType_smaller'>&nbsp;            
+                
+
+	<ul class='topic_share left shareButtons ipsList_inline'>
+	
+		<li><a href="http://www.cross-x.com/index.php?sharelink=twitter;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Twitter" class='_slink' id='slink_twitter'><img src="http://www.cross-x.com/public/style_extra/sharelinks/twitter.png" /></a></li>
+	
+
+		
+				<li class='fbLike'><div class="fb-like" data-href="http://www.cross-x.com/topic/53665-thursday-file-season-opener-september-6th-now-available/" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="like"></div><div id="fb-root"></div></li>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=151804134877243";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+			
+	
+
+		
+				<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	
+		{lang: 'en-GB'}
+	
+</script>
+<li><div class='googlePlusOne'><g:plusone count="false" size="small"></g:plusone></div></li>
+			
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=digg;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Digg" class='_slink' id='slink_digg'><img src="http://www.cross-x.com/public/style_extra/sharelinks/digg.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=delicious;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Del.icio.us" class='_slink' id='slink_delicious'><img src="http://www.cross-x.com/public/style_extra/sharelinks/delicious.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=reddit;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Reddit" class='_slink' id='slink_reddit'><img src="http://www.cross-x.com/public/style_extra/sharelinks/reddit.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=stumble;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via StumbleUpon" class='_slink' id='slink_stumble'><img src="http://www.cross-x.com/public/style_extra/sharelinks/stumble.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=email;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Email" class='_slink' id='slink_email'><img src="http://www.cross-x.com/public/style_extra/sharelinks/email.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=print;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Print" class='_slink' id='slink_print'><img src="http://www.cross-x.com/public/style_extra/sharelinks/print.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=download;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Download" class='_slink' id='slink_download'><img src="http://www.cross-x.com/public/style_extra/sharelinks/download.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=blogthis;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzY2NS10aHVyc2RheS1maWxlLXNlYXNvbi1vcGVuZXItc2VwdGVtYmVyLTZ0aC1ub3ctYXZhaWxhYmxlLw,,;VGh1cnNkYXkgRmlsZSBTZWFzb24gT3BlbmVyIFNlcHRlbWJlciA2VGggTm93IEF2YWlsYWJsZQ,," rel="nofollow" target="_blank" title="Share this link via Blog This" class='_slink' id='slink_blogthis'><img src="http://www.cross-x.com/public/style_extra/sharelinks/blogthis.png" /></a></li>
+	
+	</ul>
+	<script type="text/javascript">
+		ipb.sharelinks.url   = "http://www.cross-x.com/topic/53665-thursday-file-season-opener-september-6th-now-available/";
+		ipb.sharelinks.title = "Thursday File Season Opener September 6Th Now Available";
+		ipb.sharelinks.bname = "Cross-X.com";
+	</script>
+
+
+                <span class='right'>
+                123 Views &middot;
+                0 Replies
+	
+                
+                </span>
+                	
+            </h3>
+                        
+	</div>
+
+
+
+
+        <div class='ipsBox_container ipsPad'>        
+		
+            <a href='http://www.cross-x.com/user/148463-south-x/' class='ipsUserPhotoLink left ipsPad_half'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt=' Photo' class='ipsUserPhoto ipsUserPhoto_medium' /></a>
+		
+            <h2 class='ipsType_pagetitle'><a href='http://www.cross-x.com/topic/53631-announcing-2012-2013-thursday-file/'>Announcing 2012-2013 Thursday File</a></h2>
+            <div class='desc'>30 Aug 2012</div><br class='clear' />
+
+        
+            <div class='desc ipsType_smaller ipsPad_half'>		
+                Posted by <a hovercard-ref="member" hovercard-id="148463" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/148463-south-x/' title='View Profile'><span itemprop="name">South-X</span></a>
+                in <a href='http://www.cross-x.com/forum/21-discuss-the-articles/'>Discuss the Articles</a>
+            </div>
+
+            <div class='ipsType_textblock ipsPad'>
+                <span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>I am happy to announce the plans for this year’s Thursday File.&nbsp;&nbsp;We have recruited many great authors, including Ryan Galloway voted one of the best judges by his peers and coach of Samford University, Francisco Bencosme who has had a great debate career at Wake Forest, Chris Crowe who has had both a successful career at the University of Wyoming and now as a coach, CJ Clevenger the coach of Barstow, and many others.&nbsp;&nbsp;Additionally, we are continuing the ability to subscribe to the Thursday File—read all about it below.</span></span></span><br />
+<br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>The Thursday File Subscription is your premier pass to the best content on Cross-x.com.</span></span></span><br />
+<br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>A Thursday File Subscription costs &#036;80 - It includes several benefits:</span></span></span><br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>-Access to Thursday Files for only &#036;8</span></span></span><br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>-Access lasts for one calendar year—there is no punishment for buying late in the season.</span></span></span><br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>-The flexibility to buy only the Thursday Files that are relevant to your competition schedule</span></span></span><br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>-Don’t need 10 Thursday Files? Use your remaining credit on any file on the site.</span></span></span><br />
+<br />
+<br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>The Thursday File will still bring you new DA’s ripped from the latest headlines, but it now also includes one scenario that we ‘track’ for the whole semester.&nbsp;&nbsp;That means there will be one scenario you can continuously read and we will constantly update.&nbsp;&nbsp;All of the previous evidence that has been produced for that scenario will be turned out each week so you will never miss anything.</span></span></span><br />
+<br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>Cross-x.com is still soliciting authors for the Thursday File, our weekly politics file, for the 2012-2013 season.&nbsp;&nbsp;The first Thursday File will be released September 6th 2012, and there is a <a href='https://docs.google.com/spreadsheet/ccc?key=0AisYXrUojxSRdGRUMkh5c0M4YkxISHhpUVhzeEoxc2c#gid=0' class='bbc_url' title='External link' rel='nofollow external'>Google Document</a> showing which dates are still available.&nbsp;&nbsp;This season Cross-x will begin a new campaign to attract even more users, and as always we take care of all promotion and administration, you just cut the file.&nbsp;&nbsp;Additionally, the Thursday File this year will contain one scenario that is continuous throughout the semester.&nbsp;&nbsp;Each author will get all the previous evidence for that scenario and simply have to add a small update to this component. If you are interested, just PM me describing your debate background and dates you are available.</span></span></span><br />
+<br />
+<span style='color: #5A5A5A'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 12px;'>Finally, here is our current schedule.</span></span></span><br />
+<br />
+<br />
+<span style='font-size: 12px;'>9/6/2012 Francisco Bencosme</span><br />
+<span style='font-size: 12px;'>9/13/2012 </span><br />
+<span style='font-size: 12px;'>9/20/2012 Brad Meloche</span><br />
+<span style='font-size: 12px;'>9/27/2012 CJ Clevenger</span><br />
+<span style='font-size: 12px;'>10/4/2012 </span><br />
+<span style='font-size: 12px;'>10/11/2012 </span><br />
+<span style='font-size: 12px;'>10/18/2012 </span><br />
+<span style='font-size: 12px;'>10/25/2012 </span><br />
+<span style='font-size: 12px;'>11/1/2012 Francisco Bencosme</span><br />
+<span style='font-size: 12px;'>11/8/2012 </span><br />
+<span style='font-size: 12px;'>11/15/2012 Francisco Bencosme</span><br />
+<span style='font-size: 12px;'>11/29/2012 CJ Clevenger</span><br />
+<span style='font-size: 12px;'>12/6/2012 </span><br />
+<span style='font-size: 12px;'>12/13/2012 Francisco Bencosme</span><br />
+<span style='font-size: 12px;'>1/3/2013 </span><br />
+<span style='font-size: 12px;'>1/10/2013 </span><br />
+<span style='font-size: 12px;'>1/17/2013 </span><br />
+<span style='font-size: 12px;'>1/24/2013 Ryan Galloway</span><br />
+<span style='font-size: 12px;'>1/31/2013 </span><br />
+<span style='font-size: 12px;'>2/7/2013 </span><br />
+<span style='font-size: 12px;'>2/14/20123 Chris Crowe</span><br />
+<span style='font-size: 12px;'>2/21/2013 </span><br />
+<span style='font-size: 12px;'>2/28/2013 </span><br />
+<span style='font-size: 12px;'>3/7/2013 </span><br />
+<span style='font-size: 12px;'>3/14/2013 </span><br />
+<span style='font-size: 12px;'>3/21/2013 </span><br />
+<span style='font-size: 12px;'>3/28/2013 </span><br />
+<span style='font-size: 12px;'>4/4/2013 </span><br />
+<span style='font-size: 12px;'>4/11/2013 Francisco Bencosme</span><br />
+<span style='font-size: 12px;'>4/25/2013 Ryan Galloway</span><br />
+<span style='font-size: 12px;'>5/23/2012 </span><br />
+<span style='font-size: 12px;'>6/15/2012 CJ Clevenger</span><span style='color: #AC6328'><span style='font-family: tahoma, helvetica, arial, sans-serif'><span style='font-size: 10px;'><span style='background-color: rgb(255, 235, 200)'><br />
+<strong class='bbc'>Edited by South-X, 16 November </strong></span></span></span></span>
+                <!--IBF.ATTACHMENT_861090-->
+            </div>
+            
+        </div>
+
+        <div class='general_box'>
+            <h3 class='ipsType_smaller'>&nbsp;            
+                
+
+	<ul class='topic_share left shareButtons ipsList_inline'>
+	
+		<li><a href="http://www.cross-x.com/index.php?sharelink=twitter;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Twitter" class='_slink' id='slink_twitter'><img src="http://www.cross-x.com/public/style_extra/sharelinks/twitter.png" /></a></li>
+	
+
+		
+				<li class='fbLike'><div class="fb-like" data-href="http://www.cross-x.com/topic/53631-announcing-2012-2013-thursday-file/" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="like"></div><div id="fb-root"></div></li>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=151804134877243";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+			
+	
+
+		
+				<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+	
+		{lang: 'en-GB'}
+	
+</script>
+<li><div class='googlePlusOne'><g:plusone count="false" size="small"></g:plusone></div></li>
+			
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=digg;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Digg" class='_slink' id='slink_digg'><img src="http://www.cross-x.com/public/style_extra/sharelinks/digg.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=delicious;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Del.icio.us" class='_slink' id='slink_delicious'><img src="http://www.cross-x.com/public/style_extra/sharelinks/delicious.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=reddit;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Reddit" class='_slink' id='slink_reddit'><img src="http://www.cross-x.com/public/style_extra/sharelinks/reddit.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=stumble;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via StumbleUpon" class='_slink' id='slink_stumble'><img src="http://www.cross-x.com/public/style_extra/sharelinks/stumble.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=email;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Email" class='_slink' id='slink_email'><img src="http://www.cross-x.com/public/style_extra/sharelinks/email.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=print;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Print" class='_slink' id='slink_print'><img src="http://www.cross-x.com/public/style_extra/sharelinks/print.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=download;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Download" class='_slink' id='slink_download'><img src="http://www.cross-x.com/public/style_extra/sharelinks/download.png" /></a></li>
+	
+
+		<li><a href="http://www.cross-x.com/index.php?sharelink=blogthis;aHR0cDovL3d3dy5jcm9zcy14LmNvbS90b3BpYy81MzYzMS1hbm5vdW5jaW5nLTIwMTItMjAxMy10aHVyc2RheS1maWxlLw,,;QW5ub3VuY2luZyAyMDEyLTIwMTMgVGh1cnNkYXkgRmlsZQ,," rel="nofollow" target="_blank" title="Share this link via Blog This" class='_slink' id='slink_blogthis'><img src="http://www.cross-x.com/public/style_extra/sharelinks/blogthis.png" /></a></li>
+	
+	</ul>
+	<script type="text/javascript">
+		ipb.sharelinks.url   = "http://www.cross-x.com/topic/53631-announcing-2012-2013-thursday-file/";
+		ipb.sharelinks.title = "Announcing 2012-2013 Thursday File";
+		ipb.sharelinks.bname = "Cross-X.com";
+	</script>
+
+
+                <span class='right'>
+                122 Views &middot;
+                0 Replies
+	
+                
+                </span>
+                	
+            </h3>
+                        
+	</div>
+
+
+</div><br class='clearfix' />
+          
+     
+
+      </div>
+      <div class='ipsLayout_right'>
+           
+     
+          
+              <div class='ipsSideBlock'>
+     <h3>Latest Discussions</h3>
+		<ul class='ipsList_withminiphoto'>
+		
+		<li class='clearfix'>
+			<a href='http://www.cross-x.com/user/179536-slickrick/' title='View Profile' class='ipsUserPhotoLink left'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt="SlickRickPhoto" class='ipsUserPhoto ipsUserPhoto_mini' /></a>
+			<div class='list_content'>
+				<a href='http://www.cross-x.com/topic/53701-what-can-i-run-with-malthus/' rel='bookmark' class='ipsType_small' title=''>What Can I Run With Malthus?</a>
+				<p class='desc ipsType_smaller'>
+					<a hovercard-ref="member" hovercard-id="179536" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/179536-slickrick/' title='View Profile'><span itemprop="name">SlickRick</span></a>
+					- Today, 07:41 AM
+				</p>
+			</div>
+		</li>
+		
+
+		<li class='clearfix'>
+			<a href='http://www.cross-x.com/user/158254-niloc/' title='View Profile' class='ipsUserPhotoLink left'><img src='http://www.cross-x.com/uploads/av-158254.jpg?_r=0' alt="NilocPhoto" class='ipsUserPhoto ipsUserPhoto_mini' /></a>
+			<div class='list_content'>
+				<a href='http://www.cross-x.com/topic/53700-u-of-u-invitational/' rel='bookmark' class='ipsType_small' title=''>U Of U Invitational</a>
+				<p class='desc ipsType_smaller'>
+					<a hovercard-ref="member" hovercard-id="158254" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/158254-niloc/' title='View Profile'><span itemprop="name">Niloc</span></a>
+					- Today, 02:23 AM
+				</p>
+			</div>
+		</li>
+		
+
+		<li class='clearfix'>
+			<a href='http://www.cross-x.com/user/158254-niloc/' title='View Profile' class='ipsUserPhotoLink left'><img src='http://www.cross-x.com/uploads/av-158254.jpg?_r=0' alt="NilocPhoto" class='ipsUserPhoto ipsUserPhoto_mini' /></a>
+			<div class='list_content'>
+				<a href='http://www.cross-x.com/topic/53699-u-of-u-invitational/' rel='bookmark' class='ipsType_small' title=''>U Of U Invitational</a>
+				<p class='desc ipsType_smaller'>
+					<a hovercard-ref="member" hovercard-id="158254" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/158254-niloc/' title='View Profile'><span itemprop="name">Niloc</span></a>
+					- Today, 02:23 AM
+				</p>
+			</div>
+		</li>
+		
+
+		<li class='clearfix'>
+			<a href='http://www.cross-x.com/user/179662-ksudebate/' title='View Profile' class='ipsUserPhotoLink left'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt="KSUDebatePhoto" class='ipsUserPhoto ipsUserPhoto_mini' /></a>
+			<div class='list_content'>
+				<a href='http://www.cross-x.com/topic/53698-you-should-debate-in-college-at-k-state/' rel='bookmark' class='ipsType_small' title=''>You Should Debate In College At K-State.</a>
+				<p class='desc ipsType_smaller'>
+					<a hovercard-ref="member" hovercard-id="179662" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/179662-ksudebate/' title='View Profile'><span itemprop="name">KSUDebate</span></a>
+					- Yesterday, 08:10 PM
+				</p>
+			</div>
+		</li>
+		
+
+		<li class='clearfix'>
+			<a href='http://www.cross-x.com/user/148463-south-x/' title='View Profile' class='ipsUserPhotoLink left'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/profile/default_large.png' alt="South-XPhoto" class='ipsUserPhoto ipsUserPhoto_mini' /></a>
+			<div class='list_content'>
+				<a href='http://www.cross-x.com/topic/53697-thursday-file-september-13-2012-available/' rel='bookmark' class='ipsType_small' title=''>Thursday File September 13, 2012 Available</a>
+				<p class='desc ipsType_smaller'>
+					<a hovercard-ref="member" hovercard-id="148463" class="_hovertrigger url fn name " href='http://www.cross-x.com/user/148463-south-x/' title='View Profile'><span itemprop="name">South-X</span></a>
+					- Yesterday, 11:44 AM
+				</p>
+			</div>
+		</li>
+		
+		</ul>
+</div>
+          
+     
+
+          
+              
+          
+     
+
+          
+              <div class='ipsSideBlock'>
+        <h3>Site Navigation</h3>
+	<ul>
+		
+			<li>&bull; <a href="http://www.cross-x.com/index.php?">Forums</a></li>		
+		
+
+			<li>&bull; <a href="http://www.cross-x.com/index.php?app=forums&amp;module=extras&amp;section=stats">Today's Top 20 Posters</a></li>		
+		
+
+			<li>&bull; <a href="http://www.cross-x.com/index.php?app=forums&amp;module=extras&amp;section=stats&amp;do=leaders">Contact Staff</a></li>		
+		
+	</ul>
+</div>
+          
+     
+
+          
+              
+          
+     
+
+          
+              <div class='ipsSideBlock'>
+    <h3><a href="http://www.cross-x.com/index.php?app=members&amp;module=online&amp;section=online">Online Users</a></h3>
+		<span class='desc'>18 members, 196 visitors and 0 anonymous users</span>
+		<br /><br />
+		<p>
+			<span class='name'><a hovercard-ref="member" hovercard-id="175868" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/175868-brian-d-gonzaba/' title='Today, 01:39 PM'><span itemprop="name">Brian D. Gonzaba</span></a>,</span> <span class='name'>Google,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179651" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179651-kellkell98/' title='Today, 01:38 PM'><span itemprop="name">KellKell98</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179538" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179538-eagle1486/' title='Today, 01:37 PM'><span itemprop="name">eagle1486</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="172587" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/172587-qhaos/' title='Today, 01:33 PM'><span itemprop="name">Qhaos</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179652" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179652-anting/' title='Today, 01:33 PM'><span itemprop="name">Anting</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179543" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179543-hjames14/' title='Today, 01:27 PM'><span itemprop="name">hjames14</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="133979" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/133979-nature-boy/' title='Today, 01:26 PM'><span itemprop="name">Nature Boy</span></a>,</span> <span class='name'>Bing,</span> <span class='name'><a hovercard-ref="member" hovercard-id="156481" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/156481-michael-leap/' title='Today, 01:22 PM'><span itemprop="name">Michael Leap</span></a>,</span> <span class='name'>Facebook,</span> <span class='name'><a hovercard-ref="member" hovercard-id="137923" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/137923-pi/' title='Today, 01:19 PM'><span itemprop="name">Pi</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="178001" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/178001-rteehas/' title='Today, 01:19 PM'><span itemprop="name">rteehas</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179623" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179623-policy2012/' title='Today, 01:06 PM'><span itemprop="name">policy2012</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="173993" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/173993-dml/' title='Today, 01:05 PM'><span itemprop="name">DML</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="175421" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/175421-klucas/' title='Today, 01:04 PM'><span itemprop="name">klucas</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179455" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179455-jacobhegna/' title='Today, 12:59 PM'><span itemprop="name">JacobHegna</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="179586" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/179586-bencosmef/' title='Today, 12:56 PM'><span itemprop="name">bencosmef</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="175738" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/175738-lantern360/' title='Today, 12:52 PM'><span itemprop="name">Lantern360</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="176871" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/176871-the-x-factor/' title='Today, 12:46 PM'><span itemprop="name">The X Factor</span></a>,</span> <span class='name'><a hovercard-ref="member" hovercard-id="176927" class="_hovertrigger url fn name  " href='http://www.cross-x.com/user/176927-codyarmstrong/' title='Today, 12:41 PM'><span itemprop="name">codyarmstrong</span></a></span>					
+		</p>
+</div>
+          
+     
+ 
+      </div>
+</div>
+
+
+
+
+	<script type="text/javascript" src="http://www.cross-x.com/public/js/3rd_party/prettify/prettify.js"></script>
+	<script type='text/javascript' src='http://www.cross-x.com/public/js/3rd_party/prettify/lang-sql.js'></script>
+	<!-- By default we load generic code, php, css, sql and xml/html; load others here if desired -->
+	<script type="text/javascript">
+	//<![CDATA[
+		Event.observe( window, 'load', function(e){ prettyPrint() });
+	//]]>
+	</script><br /><div class='ipsType_smaller desc lighter right' style='clear: both; text-align:right;'>Portal v1.1.0 by <a href='http://www.devfuse.com/' title='DevFuse home page'>DevFuse</a> | Based on IP.Board Portal by <a href='http://www.invisionpower.com/products/board/' title='IP.Board Product Page'>IPS</a></div>
+				
+				<ol class='breadcrumb bottom ipsList_inline left clearfix clear'>
+											<li><a href='http://www.cross-x.com/index'>Cross-X.com</a></li>
+							
+						
+							<li><span class='nav_sep'>&rarr;</span> <a href='http://www.cross-x.com/portal/' title='Return to Portal'> Portal</a></li>
+							
+						
+
+				</ol>
+			</div>
+
+			<div class='branding_skin'>
+<a href="http://www.skinbox.net/" title="IPB Skins and Invision Skins at Skinbox"><strong>IPB skins</strong></a> by <a href="http://www.skinbox.net/" title="IPB Skins and Invision Skins at Skinbox"><strong>Skinbox</strong></a>
+<a href="http://www.skinbox.net" title="IPB Skins at Skinbox"><img src="http://www.cross-x.com/public/style_images/Cross_X_3_3/_custom/skinbox.png" class="branding_logo" alt="IPB Skins at Skinbox" /></a>
+</div>
+
+</div>
+
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id='footer_utilities' class='clearfix clear'>
+				<a rel="nofollow" href='#top' id='backtotop' title='Go to top'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/top.png' alt='' /></a>
+				<!-- Copyright Information -->
+        				  <p id='copyright'>
+        				  	<a href='http://www.invisionpower.com/products/board/' title='Community Forum Software by Invision Power Services'>Community Forum Software by IP.Board</a></p>
+		<!-- / Copyright -->
+				<ul class='ipsList_inline left'>
+					<li>
+						<img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/feed.png' alt='RSS Feed' id='rss_feed' class='clickable' />
+					</li>
+					
+						
+							<li>
+								<a rel="nofollow" id='new_skin' href='#'>Change Theme</a>			
+								<ul id='new_skin_menucontent' class='ipbmenu_content with_checks' style='display: none'>
+									
+										<li class='selected'>
+											<a href='#' data-clicklaunch='changeSkin' data-skinid='15'>Cross-X 3.3</a>
+										</li>
+									
+
+										<li >
+											<a href='#' data-clicklaunch='changeSkin' data-skinid='16'>IPB Unlimited</a>
+										</li>
+									
+
+										<li >
+											<a href='#' data-clicklaunch='changeSkin' data-skinid='2'>IP.Board Mobile</a>
+										</li>
+									
+								</ul>
+							</li>
+						
+					
+					
+						<li>
+							<a rel="nofollow" id='mark_all_read' href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=25020270f899e25ef4f23d8887828338" title='Mark all as read'>Mark Community Read</a>
+							<ul id='mark_all_read_menucontent' class='ipbmenu_content' style='display: none'>
+								
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=core&amp;k=25020270f899e25ef4f23d8887828338">Report Center</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=25020270f899e25ef4f23d8887828338">Forums</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=downloads&amp;k=25020270f899e25ef4f23d8887828338">Evazon</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=blog&amp;k=25020270f899e25ef4f23d8887828338">Blogs</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=members&amp;k=25020270f899e25ef4f23d8887828338">Members</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=nexus&amp;k=25020270f899e25ef4f23d8887828338">Store</a>
+									</li>
+								
+
+									<li>
+										<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=ccs&amp;k=25020270f899e25ef4f23d8887828338">Pages</a>
+									</li>
+								
+								<li>
+									<a href="http://www.cross-x.com/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=25020270f899e25ef4f23d8887828338"><strong>Mark all as read</strong></a>
+								</li>
+							</ul>
+						</li>
+					<li><a href='http://www.cross-x.com/index.php?app=nexus&module=support&section=new'>Contact Us</a>
+					<li><a rel="nofollow" href='http://www.cross-x.com/privacypolicy/'>Privacy Policy</a></li>
+					<li>
+						<a href="http://www.cross-x.com/index.php?app=core&amp;module=help" title='View help' rel="help" accesskey='6'>Help</a>
+					</li>				
+				</ul>
+			</div>
+			<!-- No referrer, nothing to track. -->
+			<div id='stats_div'></div>
+			
+				<script type='text/javascript' src='http://www.cross-x.com/public/js/3rd_party/lightbox.js'></script>
+<script type='text/javascript'>
+//<![CDATA[
+	// Lightbox Configuration
+	LightboxOptions = Object.extend({
+	    fileLoadingImage:        'http://www.cross-x.com/public/style_images/Cross_X_3_3/lightbox/loading.gif',     
+	    fileBottomNavCloseImage: 'http://www.cross-x.com/public/style_images/Cross_X_3_3/lightbox/closelabel.gif',
+	    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+	    animate: true,         // toggles resizing animations
+	    resizeSpeed: 7,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
+	    borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
+		// When grouping images this is used to write: Image # of #.
+		// Change it for non-english localization
+		labelImage: "Image",
+		labelOf: "of"
+	}, window.LightboxOptions || {});
+/* Watch for a lightbox image and set up our downloadbutton watcher */
+document.observe('click', (function(event){
+    var target = event.findElement('a[rel*="lightbox"]') || event.findElement('area[rel*="lightbox"]') || event.findElement('span[rel*="lightbox"]');
+    if (target) {
+        event.stop();
+        gbl_addDownloadButton();
+    }
+}).bind(this));
+var _to    = '';
+var _last  = '';
+function gbl_addDownloadButton()
+{
+	if ( typeof( ipsLightbox.lightboxImage ) != 'undefined' && ipsLightbox.lightboxImage.src )
+	{
+		if ( _last != ipsLightbox.lightboxImage.src )
+		{
+			if ( ! $('gbl_d') )
+			{
+				$('bottomNav').insert( { top: "<div id='gbl_d' style='text-align:right;padding-bottom:4px;'></div>" } );
+			}
+			
+			$('gbl_d').update( "<a href='"+ ipsLightbox.lightboxImage.src + "' target='_blank'><img src='http://www.cross-x.com/public/style_images/Cross_X_3_3/lightbox/download-icon.png' /></a>" );
+			
+			_last = ipsLightbox.lightboxImage.src;
+		}
+	}
+	
+	/* Check for init and then keep checking for new image */
+	_to = setTimeout( "gbl_addDownloadButton()", 1000 );
+}
+//]]>
+</script>
+			
+		</div>
+		
+		
+
+	</body>
+</html>

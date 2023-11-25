@@ -1,0 +1,21 @@
+[[toc]]
+=Affirmative= 
+
+Same as West Des Moines Valley LL
+
+=Negative= 
+
+==<span style="background-color: #ffffff;">Strategies</span>== 
+
+===<span style="background-color: #ffffff;">Westside</span>=== 
+<span style="background-color: #ffffff;">Round 2 vs. Dowling BE (Brilliant Pebbles) - Loss</span>
+<span style="background-color: #ffffff;">2NR - Mil DA, Case</span>
+
+
+<span style="background-color: #ffffff;">Round 4 vs. Nebraska Team (Bubbles) - Win</span>
+<span style="background-color: #ffffff;">2NR - Framework</span>
+
+
+<span style="background-color: #ffffff;">Round 6 vs. Dowling LS (Asteroids) - Loss</span>
+<span style="background-color: #ffffff;">2NR - T-Substantial</span>
+[[include page="space.template.Footer"]]

@@ -1,0 +1,84 @@
+[[toc]]
+=Information= 
+I am very bad at technology so I'm going to apologize if the page ends up aesthetically unpleasing. 2AC's/1NC's/2NC's will be uploaded as read, full text as word documents to minimize scrolling and because it's just easier for me to do. Email me for case frontlines.
+
+Specific questions/cite requests can be sent to:
+fragment.moon@gmail.com(2A)
+michael.ilikemike@gmail.com(2N)
+
+=Affirmative= 
+==<span style="font-family: 'Times New Roman',serif;">Universal Design 1AC</span>== 
+
+<span style="font-family: 'Times New Roman',serif;">[[file:Universal Design Affirmative Cites.docx]]</span>
+
+===**<span style="font-family: 'Times New Roman',serif;">Plantext: </span>**=== 
+**<span style="font-family: 'Times New Roman',serif;">The United States federal government should provide all necessary funding for Universally Designed transportation infrastructure.</span>**
+
+==2AC== 
+===Kritik 2ACs=== 
+====**Capitalism**==== 
+[[file:Capitalism K 2AC.docx]]
+
+====**Edelman**==== 
+[[file:Edelman 2AC.docx]]
+
+===Disad 2ACs=== 
+====**Elections**==== 
+Uniqueness changes as time progresses
+K's of the impact/Impact defense is dependent on the impact read
+
+[[file:Elections 2AC.docx]]
+
+
+===2AC Kritiks of Impacts=== 
+====**Environmental Security K**==== 
+[[file:Environmental Security.docx]]
+
+====**Pure War K**==== 
+[[file:Pure War.docx]]
+
+=Negative= 
+==Disadvantages== 
+===Elections=== 
+
+==Counterplans== 
+===States=== 
+===Debt Relief=== 
+====**1NC**==== 
+**Text: The International Monetary Fund and the World Bank should cancel all debts.**
+[[file:1NC Debt Relief CP.docx]]
+====**2NC Solvency**==== 
+[[file:2NC Debt Relief Solvency.docx]]
+
+==Kritiks== 
+===Security=== 
+====1NC==== 
+[[file:Security 1NC.docx]]
+
+==Impact Turns== 
+===Dedevelopment=== 
+====1NC==== 
+[[file:Dedevelopment 1NC.docx]]
+====2NC Impact Overview==== 
+[[file:2NC Impact Overview.docx]]
+====2NC Mindset Shift==== 
+[[file:2NC Mindset Shift.docx]]
+====2NC Impacts==== 
+Will be updated as new cards are read.
+[[file:2NC Impacts.docx]]
+
+====2NC No Impact to Decline==== 
+[[file:2NC No Impact to Decline.docx]]
+==Past Negative Strategies== 
+===Hendrickson Tournament=== 
+Round 1- Neg vs Port Dredging (Econ+LNG Advantages)
+1NC: States, Security, Elections, Case (Dedev+Solvency)
+2NC: States, Case (Dedev+Solvency)
+1NR: Elections
+2NR: Case (Dedev+Solvency)
+
+Round 4- Neg vs Mass Transit (Neolib Advantage)
+1NC: States, Debt Relief CP, Elections, Case (Cap Good+Solvency)
+2NC: States, Debt Relief CP
+1NR: Elections
+2NR: Debt Relief CP, Elections

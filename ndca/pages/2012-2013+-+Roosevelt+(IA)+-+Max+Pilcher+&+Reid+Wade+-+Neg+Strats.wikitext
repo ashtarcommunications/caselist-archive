@@ -1,0 +1,108 @@
+=Negative Strategies= 
+==Niles== 
+===R1 vs GBS BK (NextGen)=== 
+**1NC:** Buy America, Elections, States, China Fund, T not comms, case turns (heg bad: disease, spacemil, prolif), no econ collapse
+**2NR:** Condo Good, 50 States Fiat Good, Elections, Heg Bad, Case D
+===R4 vs GBN NH (Dredging)=== 
+**1NC:** States, China Fund, Elections, Buy America, Coral Reefs, T-Maintanence, Case D, Globalization Bad (Disease)
+**2NR:** Theory, States (kinda), Politics, Globalization Bad, Case D
+===R6 vs Maine East ES (HSR)=== 
+**1NC:** <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">States, China Fund, Virilio, Elections, Buy America, T-Vehicles, Case D, Venezuela Turn</span>
+**2NR:** Virilio, Elections, Case D
+==Valley== 
+===R2 vs Eagan BM (HSR)=== 
+**1NC:** Elections, Buy America, Battaile, States, SO2 Screw, Case D
+**2NR:** Bataille, SO2 Screw, Case D
+===R3 vs Wayzata (Waterways)=== 
+**1NC:** T – Waterways, Elections, Buy American, States CP, China Fund CP, Bataille, Heg bad, Case D
+**2NR:** China Fund, Elections
+===R5 vs St. Paul Central BF (Ruralism)=== 
+**1NC:** Heidegger, China Fund, Elections, Case
+**2NR:** Heidegger, Case
+==Iowa Caucus== 
+===R2 vs Iowa City West KH (Dredging)=== 
+**1NC:** Biodiversity DA, Oil Rigs DA, Buy America DA, Competitiveness K, China Fund CP, T - Maintenance, Case D
+**2NR:** Biodiversity DA, Oil Rigs DA, Case D
+===**R3 vs Homewood Flossmoor GF (New Orleans)**=== 
+**1NC:** T - Vehicles, Extra T, Oil Rigs DA, China Fund CP, Anthro K, Locationism Turn, Util Good, Ethical Obligations Bad
+**2NR:** T - Vehicles, Oil Rigs DA, Locationism Turn
+===R6 vs Northside SW (Wipeout HSR)=== 
+**1NC:** Nuke the World + Nuke Deflection CP, Oil DA, Warming DA, Anthro K, Case D
+**2NR:** CP, Oil DA, Case D
+
+==Glenbrooks== 
+===R2 vs Iowa City WO (Dredging)=== 
+**1NC:** Buy America DA, Oil Rigs DA, BioD DA, Fiscal Cliff DA, China Fund CP, Fem IR K, Heg Bad, Trade Bad, Case D
+**2NR:** Buy America DA, Heg Bad, Trade Bad, Condo Good (2AR was Condo Bad)
+===R3 vs College Prep PH (Dredging)=== 
+**1NC:** Buy America DA, Oil Rigs DA, Fiscal Cliff DA, China Fund CP, Competitiveness K, Trade Bad, Deforestation Good, Case D
+**2NR:** China Fund CP, Fiscal Cliff DA, Trade Bad
+===R5 vs Chattahoochee SD (Port Security)=== 
+**1NC:** T - not Security, Consumption K, Buy America DA, Oil Rigs DA, Fiscal Cliff DA, China Fund CP, Case D, Russian Relations Turn
+**2NR:** Fiscal Cliff DA, Case D, Russian Relations Turn
+
+==Dowling== 
+===R2 vs Hoflo RS? (Carriers)=== 
+**1NC:** T - Vehicles, T - Military, China Fund CP, Fiscal Cliff DA, Fem IR K, Maybe Other stuff?, Case D, Heg Bad
+**2NR:** Theory, Heg Bad, Case D
+===R3 vs Highland Park (MN) ST (Right to the City Bicycles)=== 
+**1NC:** T- USFG, States CP, Fiscal Cliff DA, Anthro K, Ableism Turn, Util
+**2NR:** Anthro K
+===R6 vs GBS CC (Dredging)=== 
+**1NC:** BioD DA, T - Maintenance, Buy America DA, Fiscal Cliff DA, China Fund CP, Consumption K, Trade Bad (War, Disease), Case D (There was also a new ableist language K in the 2NC)
+**2NR:** Condo Good, Consumption K (2AR was Condo Bad)
+
+==Blake== 
+===R2 vs Rosemount AG (NextGen)=== 
+**1NC:** Water Tradeoff DA, Fiscal Cliff DA, China Fund CP, T - Communications, Consumption K, Case D, SO2 Screw, Ag Turn, Buy America Turn
+**2NR:** Fiscal Cliff DA, SO2 Screw, Case D
+===R3 vs Dowling EB (Alaska Ports)=== 
+**1NC:** Consult NATO CP, Fiscal Cliff DA, Consumption K, Water Tradeoff DA, T - Military, Case D, Russian Relations Turn
+**2NR:** Consumption K
+===R5 vs Edina SR (NIB)=== 
+**1NC:** Fiscal Cliff DA, Water Tradeoff DA, Anthro K, TIFIA CP, T - Capital Expenditure, Case D, Heg Bad (Prolif) , Stim Bad
+**2NR:** Fiscal Cliff DA, Heg Bad, Case D
+==IHSSA== 
+===R1 vs Dowling EB (Alaska Ports)=== 
+**1NC:** NMS CP, Immigration Politics DA, Consumption K, T - US, Water Tradeoff DA, Case D, RR Turn, Cleanup Bad/Oil Spills Good
+**2NR:** Immigration DA, Case D, Cleanup Bad
+===R4 vs Valley HP (Short Sea Shipping)=== 
+**1NC:** Buy America DA, Immigration Reform DA, Water Tradeoff DA, Oil Rigs DA, States CP, China Fund CP, Consumption K, Case D (Might have been slightly different, all I remember is that we spread them out)
+**2NR:** Immigration Reform DA, Case D
+===R5 vs Dowling WK (Port Dredging)=== 
+**1NC:** Immigration Reform DA, Water Tradeoff DA, States CP, China Fund CP, Case D, Coral Turn
+**2NR:** Immigration Reform DA, China Fund CP, Case D
+==IHSFLs== 
+===R1 vs ICW TY (Dredging)=== 
+**1NC:** Keystone XL Rider DA, T - In means Throughout, States CP, Consumption K, Case D, Coral Turn
+**2NR:** Consumption K, Case D
+===R4 vs ICW SH (Dredging)=== 
+**1NC:** Keystone DA, T - In, States CP, Consumption K, Buy America DA, Case D, LNG Bad (Russia), Coral Turn
+**2NR:** Keystone DA, Case D, Both the Turns
+==JV Nats== 
+===R2 vs Minneapolis East TD (Zizek Mass Transit)=== 
+**1NC:** Extra-T, Keystone DA, False Heroism K, Cap Good, Case D
+**2NR:** New "Fuck" K (Not sure what we were thinking here), False Heroism K
+===R3 vs Dowling AS (It was just Connor though) (Mayport)=== 
+**1NC:** Death Cult, China Fund CP, Biodiversity DA, Immigration Reform DA, Keystone DA, Case D, Naval Power/Carrier Dependence Bad
+**2NR:** Immigration Reform DA, Keystone DA (Just answering new turns), Case D, Naval Power/Carrier Dependence Bad
+===R6 vs Maine East LP (HSR)=== 
+**1NC:** China Fund CP, Death Cult, Immigration Reform DA, Keystone DA, Consumption K, Case D
+**2NR:** Keystone DA, Case D
+===Semis vs St. Paul Central BF (Ruralism)=== 
+**1NC:** Wilderson K, Advantage CP, Vagueness, Case D, Poverty Focus Bad
+**2NR:** CP, Vagueness (as a solvency defecit), Case D, Poverty Focus Bad
+
+=Overall Statistics for this year= 
+==1NC Strat== 
+**Average Number of Off-Case:** 4.96
+**Maximum Number of Off-Case:** 7
+**Minimum Number of Off-Case:** 3
+==2NR Strat== 
+===Note: Percentages add to over 100% for those rounds where it includes more than 1 (for theory and T)=== 
+**CP + Net Ben:** 6/27 = 22.2%
+**DA(s) + Case:** 13/27 = 48.1%
+**K:** 8/27 = 29.6%
+**Case Only:** 1/27 = .37%
+**T/Procedural:** 1/27 = 3.7% lol (apparently the only time we went for T we also went for other stuff)
+**Theory:** 4/27 = 14.8%

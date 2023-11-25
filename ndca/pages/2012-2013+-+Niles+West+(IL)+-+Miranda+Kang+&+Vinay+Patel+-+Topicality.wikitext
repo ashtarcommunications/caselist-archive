@@ -1,0 +1,64 @@
+[[toc]]
+=Maintenance= 
+
+Infrastructure investment is financial support for a physical asset, but not for minor remodeling
+**DOE, 10** – US department of Education (“Clarifying Guidance on American Recovery and Reinvestment Act of 2009 Section 1512 Quarterly Reporting”, American Recovery and reinvestment Act, www2.ed.gov/policy/gen/.../guidance-1512-quarterly-reporting.doc)
+For the purposes of Section ... //remodeling//” as defined in 34 C.F.R. § 77.1(c).
+
+And Infrastructure investment is distinct from maintenance
+**Lemer 11** - worked at The National Academies and studied at Harvard University (Andrew, “[[http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%e2%80%9cenough%e2%80%9d/|How Much Infrastructure Spending Is “Enough?’”]], [[http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%E2%80%9Cenough%E2%80%9D/]])
+
+What has been neglected...often squeezed, forcing neglect.
+
+=Increase= 
+**Interpretation—increase means a __net__ increase**
+**Words and Phrases, 5** <span style="font-size: 6pt;">(Cummulative Supplementary Pamphlet, v. 20a, p.295, KONTOPOULOS)</span>
+<span style="font-size: 8pt;">Cal.App.2 Dist. 1991. </span>Term “increase<span style="font-size: 8pt;">,... other units at plant. West’s Ann.Cal.Pub.Res.Code § 25123.</span>
+
+**Violation—an infrastructure bank won’t __net__ increase total transportation investment**
+<span style="font-size: 13pt;">Lamberton, 11</span><span style="font-size: 8pt;"> (9/7/2011, Giles, “Feds Weigh Infrastructure Financial Solutions,” [[http://www.constructionequipmentguide.com/Feds-Weigh-Infrastructure-Financial-Solutions/16865/]], JMP)</span>
+<span style="font-size: 8pt;">The proposals are more alike ...</span>highway and transit programs.”
+=Military= 
+Infrastructure is physical capital that provides __public services__ – it excludes the military
+**Fourie 6** – Chief Operating Officer of ArcelorMittal South Africa (Johan, ECONOMIC INFRASTRUCTURE: A REVIEW OF DEFINITIONS, THEORY AND EMPIRICS, 9/06, South African Journal of Economics, Vol 74, Issue 3, Wiley Online Library)//EM
+
+<span style="font-size: 8pt;">One way to define infrastructure ... transportation modalities and utilitcies.</span>
+=Vehicles= 
+Vehicles are distinct from transportation infrastructure
+<span style="font-size: 13pt;">CFST 06</span><span style="font-size: 10pt;"> – Campaign for Sensible Transportation, collection of organizations for better transportation in the Santa Cruz area (“Aboard Transportation”, 2006, http://www.cfst.org/transportation.html)//RD</span>
+<span style="font-size: 7pt;">Transportation or transport is ... air traffic control, and etc.</span>
+
+=In= 
+
+In” means within the limits of
+<span style="font-size: 13pt;">Webster’s, 6 </span>(Merriam Webster Online Dictionary, 06 ([[http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=in]])
+
+Main Entry: 1in Pronunciation: '... the leg><in the summer>
+
+The United States includes the 50 states
+<span style="display: block; text-align: left;"><span style="display: block; text-align: left;"><span style="font-family: Calibri,sans-serif; font-size: 12pt;">Dictionary.com, No Date (</span><span style="font-family: Calibri,sans-serif;">Dictionary.com, [[http://dictionary.reference.com/browse/United+States]], No Date)</span></span></span>
+
+<span class="StyleBoldUnderline">United States</span>  noun a republic ..., D.C. Abbreviation: U.S., US
+
+=Space= 
+
+TI includes, aviation, not aerospace
+<span style="font-size: 13pt;">Kahn ‘6</span>(Ely, Director for Cybersecurity Policy at the National Security Staff – White House, and Roger Shoemaker, “Transportation Sector Specific Plan”, Chemical Security Summit, 6-28, [[http://www.ppt2txt.com/r/f892b8c5/]])
+
+<span class="StyleBoldUnderline">The Transportation Sector is ... </span><span style="font-size: 8pt;">and 552 additional firms</span>
+
+
+Space isn’t under US jurisdiction- not IN
+
+<span style="font-size: 13pt;">Wolchover 12</span> (Natalie Wolchover, Life's Little Mysteries Staff Writer. “Does Asteroid Mining Violate Space Law?” April 23, 2012. [[http://www.lifeslittlemysteries.com/2385-asteroid-mining-space-law.html]])
+
+
+
+<span style="font-size: 8pt;">The most pertinent piece ... words vary widely. [Could an Asteroid Destroy Earth?]</span>
+
+
+Aerospace is not Aviation- not TI
+
+<span style="font-size: 13pt;">Vogt ’12</span>(Crystal, MS in Journalism – Boston University and BA in English – University of California, Santa Barbara, “The Difference Between the Aviation Industry and the Aerospace Industry”, Houston Chronicle, http://smallbusiness.chron.com/difference-between-aviation-industry-aerospace-industry-26208.html)
+
+<span style="font-size: 8pt;">Though there is some ... and air traffic management.</span>

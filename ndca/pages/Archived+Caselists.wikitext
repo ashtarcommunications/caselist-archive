@@ -1,0 +1,13 @@
+__Note from Bill Batterman__: The archived wikis from the 2008-2009 and 2009-2010 season were taken down by our hosting provider in March 2011. They were restored to a mediawiki installation on The3NR.com but a hack has made them no longer available. You can download the raw wiki data from [[http://www.debatecoaches.org/wikidb.zip|debatecoaches.org]], but this is not particularly useful. If anyone wants to post that data somewhere, please contact an administrator and we will share the link.
+
+=Archived Policy Caselists:= 
+[[2008toccaselist:home|2007-2008 Policy]]
+2008-2009 Policy
+2009-2010 Policy
+[[2010-2011 Policy]]
+[[2011-2012 Policy]]
+
+=Archived LD Caselists:= 
+[[http://www.the3nr.com//wiki/index.php/LD_Archives|2008-2010 LD]]
+[[2010-2011 LD]]
+[[2011-2012 LD]]

@@ -1,0 +1,877 @@
+[[toc]]
+====Email me for cites at a1jalan11@gmail.com. Also, sorry about how messy the cites look. I'm not good at this.==== 
+If you think I'm missing something that I read, please email me so I can disclose it. Thanks!
+
+=VBI DEMO DEBATE= 
+Hi! This is the AC I read in the VBI demo debate on July 8. The case is full text except the cards, which have citations of the articles they were accessed from. Email me at a1jalan11@gmail.com if you have any questions about my strategy this round, certain arguments in the AC, or anything else you feel like asking.
+
+<span style="font-size: 16px;">I affirm. Part 1 is the resolutional interpretation. Since New Oxford American Dictionary defines “pursuit” as “the action of following or pursuing someone or something,” the resolution is a question of which actions the US ought to take, rather than adopting mindsets or philosophical outlooks. </span>
+
+<span style="font-size: 16px;">National security objectives concern protecting US interests and institutions. </span>
+<span style="font-size: 16px;">Larsen 02 [Jeffrey A. Larsen. EXCERPTED FROM “Arms Control: Cooperative Security in a Changing Environment.” Copyright © 2002. Lynne Rienner Publishers] AJ</span>
+
+
+<span style="font-size: 16px;">[WEIGHING] Prefer my definition since the word “objectives” creates a term of art since it deals with long-term goals rather than case-by-case evaluation. This also indicates a question of policy choices, not operational frameworks, since the resolution questions current objectives of the US as opposed to philosophical debates about security. </span>
+
+<span style="font-size: 16px;">Digital privacy concerns the protection of data and confidentiality in digital media contexts. </span>
+<span style="font-size: 16px;">Hung and Wong 09 [Humphry Hung and Y.H. Wong. Department of Management and Marketing, Hong Kong Polytechnic University, Kowloon, Hong Kong. “Information transparency and digital privacy protection: are they mutually exclusive in the provision of e-services?” Journal of Services Marketing. 23/3 (2009) 154–164. © Emerald Group Publishing Limited. Accessed 7/1/13] AJ</span>
+
+
+<span style="font-size: 16px;">[WEIGHING] Prefer the definition since it draws on the philosophical foundation of “privacy” rather than just defining digital privacy in terms of a policy interpretation, so it best captures the resolution in terms of the philosophical conflict. </span>
+<span style="font-size: 16px;">Thus the aff defends status quo government surveillance programs such as NSA wiretapping or strategic data mining. The neg must defend a competitive policy option that prioritizes digital privacy of citizens over national security. </span>
+
+<span style="font-size: 16px;">PART 2 IS FRAMEWORK:</span>
+<span style="font-size: 16px;">Since ought concerns moral obligations, I value morality.</span>
+
+<span style="font-size: 16px;">The value criterion is maximizing expected well-being. </span>
+
+<span style="font-size: 16px;">First, Util better explains the moral intuitions that ultimately guide our moral decision-making. </span>
+<span style="font-size: 16px;">Sinnot-Armstrong [Sinnott-Armstrong, Walter, "Consequentialism", The Stanford Encyclopedia of Philosophy (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/win2012/entries/consequentialism/. Accessed 7/2/13] AJ</span>
+
+
+<span style="font-size: 16px;">[WEIGHING] Explaining intuitions is key since our intuitions are the starting points for ethical theorizing, so theories that have major conflict with intuitions are useless since they deny their own necessary starting points. </span>
+
+<span style="font-size: 16px;">Second, public disagreement over what is best for the government means we can’t adopt complex theories like the categorical imperative, since people would inevitably disagree about such theories. Forcing our moral theory upon citizens, even if it is technically correct would create a tyranny of the majority and citizens would not comply. The only unifying aspect of citizens is their common security interest, since every person empirically continues to attempt to live and so we can reasonably assume people care about their well-being. </span>
+
+<span style="font-size: 16px;">Contention one is terrorism. </span>
+
+<span style="font-size: 16px;">Subpoint A is the danger terrorism poses: </span>
+
+<span style="font-size: 16px;">We are threatened from within – domestic terrorism kills thousands per year and spreads beyond US borders. </span>
+<span style="font-size: 16px;">Sandler et al 11 [Gaibulloev, Khusrav; Sandler, Todd; and Santifort, Charlinda, "Assessing the Evolving Threat of Terrorism" (2011). USC Published Articles & Papers. Paper 146. http://research.create.usc.edu/published_papers/146] AJ</span>
+
+
+<span style="font-size: 16px;">Such attacks could go nuclear – terrorist nuclear detonations could start a nuclear war among states. </span>
+<span style="font-size: 16px;">Ayson 10 [ROBERT AYSON. “After a Terrorist Nuclear Attack: Envisaging Catalytic Effects.” Centre for Strategic Studies Victoria University of Wellington Wellington, New Zealand. Copyright © Taylor & Francis Group, LLC. Routledge. 21 Jun 2010] AJ</span>
+
+
+<span style="font-size: 16px;">[WEIGHING] Nuclear war would create a nuclear winter that would likely result in human extinction. </span>
+
+<span style="font-size: 16px;">Subpoint B is the structure of terrorism. </span>
+
+<span style="font-size: 16px;">The situation is fixable – analysts know that terrorist groups often interact with each other in a complex system of cells but no central authority. </span>
+<span style="font-size: 16px;">Memon et al 07 [Nasrullah Memon, David L. Hicks, and Henrik Legind Larsen. Department of Computer Science and Engineering Esbjerg Institute of Technology, Aalborg University. “How Investigative Data Mining Can Help Intelligence Agencies to Discover Dependence of Nodes in Terrorist Networks.” Computer Science Volume 4632, 2007, pp 430-441. Accessed 7/2/13] AJ</span>
+
+
+<span style="font-size: 16px;">[WEIGHING] This means traditional terror tactics won’t work – the NC must read comparative evidence for why its world can target the new structure of organizations. </span>
+
+<span style="font-size: 16px;">The structure of available information is also radically different for terrorism – unlike common misconceptions, we have no big confessions to work with, only small data pieces. </span>
+<span style="font-size: 16px;">DeRosa 04 [Mary DeRosa. “DATA MINING AND DATA ANALYSIS FOR COUNTERTERRORISM.” Center for Strategic and International Studies. March 2004. Accessed 7/2/13] AJ</span>
+
+
+<span style="font-size: 16px;">Subpoint C is data mining: </span>
+
+<span style="font-size: 16px;">Data-mining is key to target modern terrorist organizations – it uncovers human behavior and provides necessary information to disrupt and neutralize a cell. </span>
+<span style="font-size: 16px;">Memon et al 2 [Nasrullah Memon, David L. Hicks, and Henrik Legind Larsen. Department of Computer Science and Engineering Esbjerg Institute of Technology, Aalborg University. “How Investigative Data Mining Can Help Intelligence Agencies to Discover Dependence of Nodes in Terrorist Networks.” Computer Science Volume 4632, 2007, pp 430-441. Accessed 7/2/13] AJ</span>
+
+
+<span style="font-size: 16px;">Only data mining can perform these necessary functions – there is too much information for humans to handle. </span>
+<span style="font-size: 16px;">DeRosa 2 [Mary DeRosa. “DATA MINING AND DATA ANALYSIS FOR COUNTERTERRORISM.” Center for Strategic and International Studies. March 2004. Accessed 7/2/13] AJ</span>
+
+
+<span style="font-size: 16px;">This is empirically verified - in recent years the US has extensively detained and found over 1,300 terrorists who were guilty out of some 6,000 suspects. </span>
+<span style="font-size: 16px;">TRAC 06 [Criminal Terrorism Enforcement in the United States During the Five Years Since the 9/11/01 Attacks. TRAC (Terrorism Criminal Enforcement Activity). September 4, 2006. http://trac.syr.edu/tracreports/terrorism/169/. Accessed 7/1/13] AJ</span>
+
+
+<span style="font-size: 16px;">Data mining allows for accurate identification, which is key to preventing false accusations. </span>
+<span style="font-size: 16px;">DeRosa 3 [Mary DeRosa. “DATA MINING AND DATA ANALYSIS FOR COUNTERTERRORISM.” Center for Strategic and International Studies. March 2004. Accessed 7/2/13] AJ</span>
+
+
+
+=January-February= 
+==Affirmative== 
+===High Low AC=== 
+V: J
+Political philosophy, which concerns government actions and structure, must be practical. Political actions are taken for the entire body politic, and must account for the conditions required to achieve ends.
+
+<span style="font-size: 16px;">MARTIN RHONHEIMER [Prof Of Philosophy at The Pontifical University of the Holy Cross in Rome. “THE POLITICAL ETHOS OF CONSTITUTIONAL DEMOCRACY AND THE PLACE OF NATURAL LAW IN PUBLIC REASON: RAWLS’S “POLITICAL LIBERALISM” REVISITED” The American Journal of Jurisprudence vol. 50 (2005), pp. 1-70]</span>
+<span style="font-size: 16px;">It is a fundamental feature of political philosophy to be part of practical philosophy. </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">ruled, but who potentially at the same time are also the rulers.</span>
+Only utilitarianism can serve as the basis to legitimately justify policy to the public, because public policy entails trade offs the government must do what is the in the best interest of society as a whole.
+
+<span style="font-size: 16px;">Gary Woller[[debatecoaches/home#_msocom_1|[MK1]]] [BYU Prof., “An Overview by Gary Woller”, A Forum on the Role of Environmental Ethics, June 1997, pg. 10]</span>
+<span style="font-size: 16px;">Moreover, virtually all public policies entail some redistribution of economic or political resources, </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">perhaps at times a necessary, basis for public policy in a democracy.</span>
+
+Thus, the standard is minimizing harm.
+1) Questions of criminal law are not moral, they are questions of the design of political institutions. Punishment is politically justified for utilitarian reasons.
+<span style="font-size: 16px;">Guyora Binder[[debatecoaches/home#_msocom_2|[MK2]]] [University at Buffalo Distinguished Professor of Law “Punishment Theory: Moral or Political?” BUFFALO CRIMINAL LAW REVIEW Vol. 5:321. 2002]</span>
+<span style="font-size: 16px;">In their efforts to reform the criminal law, Beccaria ¶ and Bentham adopted the </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">¶ proceeded from using legislation to harness or enable these ¶ energies.¶ 32</span>
+2) Being alive is a precondition.
+
+CONTENTION ONE IS CRIME
+Subpoint A: In the status quo the U.S. Criminal Justice System places an emphasis on retribution over rehabilitation. Penalties have increased and treatment programs have largely been phased out.
+
+<span style="font-size: 16px;">Roger K. Warren 2007 [Evidence-Based Practice to Reduce Recidivism: Implications for State Judiciaries, National Center for State Courts, for the Crime and Justice Institute and the National Institute of Corrections, August 2007]</span>
+
+<span style="font-size: 16px;">Starting in the mid-1970s, the federal and many state governments turned to </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">lifetime more than tripled between 1974 and 2001 to 6.6%.22</span>
+The massive increases in the prison population have made criminals more violent and created social conditions that increase crime.
+
+<span style="font-size: 16px;">JOHN TIERNEY</span><span class="StyleStyleBold12pt" style="font-size: 16px;">2012</span><span style="font-size: 16px;"> [“For Lesser Crimes, Rethinking Life Behind Bars” NY Times. December 11, 2012.]</span>
+
+<span style="font-size: 16px;">Many researchers agree that the rise in imprisonment produced some initial benefits, particularly in </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">. Among black children, one in 15 have a parent in prison.</span>
+Subpoint B is that meta-analysis overwhelmingly conclude aff.
+<span style="font-size: 16px;">Francis Cullen and Paul Gendreau. 2000. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT</span>
+<span style="font-size: 16px;">Even if interventions are effective with a range of other behaviors, the question still </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">by Redondo, Sanchez-Meca, and Garrido (1999, 252). </span>
+
+And, empirically the harsh sentences imposed as a result of our adoption of retributivist dogma do not have the deterrent effect that supporters claim
+
+<span style="font-size: 16px;">James McGuire [[debatecoaches/home#_msocom_3|[MK3]]] 2004 [Understanding Psychology and Crime.¶ Berkshire, GBR: McGraw-Hill Professional Publishing, 2004. ¶ AJ.]</span>
+
+<span style="font-size: 16px;">The broadest, though possibly weakest, kind of evidence pertaining to this comes from </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">those who received and those who did not receive prison sentences, was followed</span>
+Subpoint C is that crime is generally caused by “dynamic predictors”.
+<span style="font-size: 16px;">Cullen 2. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT</span>
+<span style="font-size: 16px;">The first principle is that interventions should target the known predictors of crime and recidivism </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">for intervention will produce little, if any, change in offenders’ conduct.</span>
+The fact that crime is a result of personal attitudes, not rational choices, means that it is impossible to blame people for crime. Rehabilitation is thus the best approach to target the causes of crime and is empirically a much more effective intervention than punishment.
+<span style="font-size: 16px;">Cullen 3. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT</span>
+<span style="font-size: 16px;">Second, the treatment services should be behavioral in nature. In general, behavioral </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">target criminogenic needs and thus are among the most ineffective interventions with offenders.</span>
+CONTENTION 2 MEXICO
+A. Uniqueness: Drug cartels are putting Mexico on the brink of collapse.
+<span style="font-size: 16px;">Ankur Shingal 2011. [“At the Tipping Point: Why the United States Must Assist Mexico in the Mexican Drug War. Agathai Quarterly, Vol 1, Issue 2, Winter 2011 pp 27] AT</span>
+<span style="font-size: 16px;">The third reason why the United States must enhance its aid to Mexico is the </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">having] a major impact on the stability of the Mexican state. 178</span>
+B. Link: Targeting the addicted through treatment is uniquely key to impact the drug cartels.
+<span style="font-size: 16px;">Antonio Costa 2009 [“World Drug Report 2009” United Nations Office on Drugs and Crime] AT</span>
+<span style="font-size: 16px;">One of the most efficient ways to deter traffickers would be to undermine their user </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">addicts would need be removed to substantially reduce the profitability of the market.</span>
+C. Mexican collapse causes massive global oil shocks.
+<span style="font-size: 16px;">Michael Moran 2009 [“Six Crises, 2009: A Half-Dozen Ways Geopolitics Could Upset Global Recovery” Roubini Global Economics, July 31, 2009]</span>
+<span style="font-size: 16px;">A story receiving more attention in the American media than Iraq these days is the </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">to oil fields well-beyond their peak and restrictions on foreign investment.</span>
+D. Oil shocks cause extinction
+<span style="font-size: 16px;">Stephen Lendman 2007 (Research Associate of the Centre for Research on Globalization. [Stephen Lendman, “Resource Wars - Can We Survive Them?,” Rense.com, 6-6-7, pg. [[http://www.rense.com/general76/resrouce.htm]]]</span>
+<span style="font-size: 16px;">With the world's energy supplies finite, the US heavily dependent on imports, and </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">, or at least a big part of it, would have survived.</span>
+
+
+Drug courts are very effective at reducing drug addiction. The largest study of drug courts find that they cut drug use and crime in half.
+<span style="font-size: 16px;">Rossman et al 2011. [“Drug Courts Can Reduce Substance Use and Crime, Five-Year Study Shows, But Effectiveness Hinges on the Judge” Urban Institute, July 18, 2011. Shelli Rossman, John Roman, Janine Zweig, Janeen Buck Willison, Mitchell Downey, and Jennifer Yahner from the Urban Institute; Michael Rempel, Dana Kralstein, Mia Green, and Kelli Henry from the Center for Court Innovation; and Christine Lindquist and Kristine Fahrney from RTI International.] AT</span>
+
+<span style="font-size: 16px;">Drug court participants who perceived the consequences of failing the program as more undesirable engaged </span>
+<span style="font-size: 16px;">AND</span>
+<span style="font-size: 16px;">especially likely to save money, therefore, if they enroll serious offenders.</span>
+
+<span style="font-size: 16px;">The most extensive…during courtroom proceedings.</span>
+===<span style="font-size: 16px;">Crime AC</span>=== 
+
+I affirm. The negative must defend that retribution ought to be valued over rehabilitation in the US Criminal Justice System. Otherwise no reciprocity or clash
+
+Utilitarian and retributive theories of punishment are inconsistent.
+
+
+
+Benn and Peters [S. I. BENN, Lecturer in Government University of Southampton; R. S. PETERS, Reader in Philosophy, Birkbeck College University of London. “Social Principles and the Democratic State” 1959.]
+
+The[re] are two main …the gulf can be bridged.
+
+
+Retributivists have different concerns than rehablitation
+
+Donald A. Dripps [James Annenberg Levee Professor of Law and Criminal Procedure, University of Minnesota Law School. “Fundamental Retribution Error: Criminal Justice and the Social Psychology of Blame.” VANDERBILT LAW REVIEW. Vol. 56. 2003]
+
+
+
+Whatever the trigger of blameworthiness…for the behavior.176
+
+I value Justice.
+
+
+
+Pragmatism should guide decision making because:
+
+First, political philosophy should be practical
+
+
+
+MARTIN RHONHEIMER [Prof Of Philosophy at The Pontifical University of the Holy Cross in Rome. “THE POLITICAL ETHOS OF CONSTITUTIONAL DEMOCRACY AND THE PLACE OF NATURAL LAW IN PUBLIC REASON: RAWLS’S “POLITICAL LIBERALISM” REVISITED” The American Journal of Jurisprudence vol. 50 (2005), pp. 1-70]
+
+It is a fundamental feature …at the same time are also the rulers.
+
+
+
+Second, rational thought by its nature is aimed toward finding solutions to problems posed by experience.
+
+
+
+Frega [Equal Accessibility to All: Habermas, Pragmatism, and the Place of Religious Beliefs in a Post-Secular Society Roberto Frega Constellations Volume 19, Number 2, 2012]
+
+
+
+A pragmatic theory of rationality provides …that is common to all the pragmatic tradition.
+
+
+Consequences matter under pragmatism
+
+Frega 2 [Equal Accessibility to All: Habermas, Pragmatism, and the Place of Religious Beliefs in a Post-Secular Society Roberto Frega Constellations Volume 19, Number 2, 2012]
+
+A third theoretical module …freedom of religious practice and expression.
+
+
+Third, only utilitarianism can serve as the basis to legitimately justify policy to the public.
+
+
+Gary Woller [BYU Prof., “An Overview by Gary Woller”, A Forum on the Role of Environmental Ethics, June 1997, pg. 10]
+
+Moreover, virtually all public policies entail some redistribution of…public policy in a democracy.
+
+
+
+
+
+VC: minimizing harm
+
+1) Being alive a precondition to other aims.
+
+2) Retribution is incoherent. It collapses to utilitarianism.
+
+
+
+Benn and Peters [S. I. BENN, Lecturer in Government University of Southampton; R. S. PETERS, Reader in Philosophy, Birkbeck College University of London. “Social Principles and the Democratic State” 1959.]
+
+
+
+
+
+The retributivist refuses to…; but even so, one might still ask why we should have systems of just that sort
+
+
+Contention 1: Crime is largely the result of complex social and environmental factors.
+
+A. Poverty affects crime rates
+
+Okeghene Odudu 2003 [Deputy Director of the Centre for European Legal Studies at Cambridge University, Herchel Smith Lecturer and British Academy Mid-Career Fellow, “Retributivist Justice in an Unjust Society” Ratio Juris Vol. 16 No. 3 September 3003 (416-31)]
+
+
+“[T]hose born into the social…from a deprived background.¶
+
+B. retribution worsens crime
+
+
+JOHN TIERNEY 2012 [“For Lesser Crimes, Rethinking Life Behind Bars” NY Times. December 11, 2012.]
+
+
+
+the 1970s helped inspire…in 15 have a parent in prison.
+
+
+
+C. The impacts of crime are systemic and preventable.
+
+Jane Wilson – '07 [Stanford's Strauss Scholar, developing educational programs for inmates in cities across the US.], Reducing Juvenile Recidivism in the United States, Roosevelt Review. Scribd.
+
+The effects of recidivism in the United…cycle of criminality cannot be understated.
+
+Thus crime harms hundreds of thousands of innocent people.
+
+D. [C.] Research shows that violent crime is directly linked to childhood exposure to lead.
+
+
+Kevin Drum 2013 [“Lead and Crime: Assessing the Evidence” Mother Jones. Tue Jan. 8, 2013.]
+
+
+It's important to understand…true even at moderate levels.
+
+This lead exposure affects crime rtes
+
+Howard W. Mielkea Sammy Zahranc in August 2012 [“The urban rise and fall of air lead (Pb) and the latent surge and retreat of societal violence. August 6, 2012. US National Library of Medicine National Institutes of Health. PubMed. http://www.ncbi.nlm.nih.gov/pubmed/22484219. AJ]
+
+
+
+We evaluate air Pb emissions…rates of aggravated assault.
+
+Contention 2: Only rehabilitation makes sense in light of the complex causes of criminal behavior.
+
+A. Meta-analyses find the real causes of crime
+
+
+
+Cullen and Gendreau. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT
+
+
+
+The first principle is that…change in offenders’ conduct.
+
+B. Only rehabilitation can work because it targets these causes
+
+
+
+Cullen 2. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT
+
+Second, the treatment services…ineffective interventions with offenders.
+
+
+
+C. Meta-analyses prove that rehabilitation techniques are effective at reducing recidivism.
+
+Cullen 3:
+
+Even if interventions are…Meca, and Garrido (1999, 252).
+
+Prefer meta analyses
+
+D. Fundamental attribution error
+
+Fundamental attribution error affects perceptions of crime
+
+
+
+Dripps 3:
+
+
+
+Psychological research indicates…turns out to be wrong.
+
+FAE makes retributivism unworkable.
+
+
+
+Dripps 4:
+
+
+
+FAE has troubling implications for the…to mandatory retributivism’s prescriptions.
+===Crime AC v2 (Broken at Stanford)=== 
+I affirm. Part 1 is INTERPRETATIONS:
+First, neg must defend retribution over rehab
+Retribution says we care about desert, not ends.
+
+Benn and Peters [S. I. BENN, Lecturer in Government University of Southampton; R. S. PETERS, Reader in Philosophy, Birkbeck College University of London. “Social Principles and the Democratic State” 1959.]
+
+(b) The[re] are two main…the gulf can be bridged.
+Retribution is justified by a proportional culpability constraint.
+
+Lessnoff, Michael. Two Justifications of Punishment. The Philosophical Quarterly, Vol. 21, No. 83 (Apr., 1971), pp. 141-148. http://www.jstor.org/stable/2218336.
+By 'the retributive… seriously undesirable or bad acts.2
+
+Thus, desert arguments must link to retributive arguments that require a proportional culpability constraint.
+Part 2 is PARADIGM OF PUNISHMENT:
+The resolution is a question of government duties because:
+States ought to be pragmatic.
+Political philosophy must be practical
+
+MARTIN RHONHEIMER [Prof Of Philosophy at The Pontifical University of the Holy Cross in Rome. “THE POLITICAL ETHOS OF CONSTITUTIONAL DEMOCRACY AND THE PLACE OF NATURAL LAW IN PUBLIC REASON: RAWLS’S “POLITICAL LIBERALISM” REVISITED” The American Journal of Jurisprudence vol. 50 (2005), pp. 1-70]
+It is a fundamental feature …same time are also the rulers.
+Second, rational thought by its nature is aimed toward finding solutions to problems posed by experience.
+
+Frega [Equal Accessibility to All: Habermas, Pragmatism, and the Place of Religious Beliefs in a Post-Secular Society Roberto Frega Constellations Volume 19, Number 2, 2012]
+
+A pragmatic theory of …to all the pragmatic tradition.
+
+The only pragmatic option within the public sphere is consequentialism.
+Frega 2 [Equal Accessibility to All: Habermas, Pragmatism, and the Place of Religious Beliefs in a Post-Secular Society Roberto Frega Constellations Volume 19, Number 2, 2012]
+A third theoretical module… of religious practice and expression.
+Thus, only favorable ends can count as reasons to act for a government.
+Third, independent of pragmatism, only utilitarianism can serve as the basis to legitimately justify policy to the public. Government actions will inevitably lead to trade-offs between citizens, so util is most equal.
+Part 3 is the CAUSES OF CRIME:
+A. Poverty causes crime
+Okeghene Odudu 2003 [Deputy Director of the Centre for European Legal Studies at Cambridge University, Herchel Smith Lecturer and British Academy Mid-Career Fellow, “Retributivist Justice in an Unjust Society” Ratio Juris Vol. 16 No. 3 September 3003 (416-31)]
+
+“[T]hose born into the social…to those from a deprived background.¶
+B. Lead exposure makes people commit assaults
+
+Howard W. Mielkea Sammy Zahranc in August 2012 [“The urban rise and fall of air lead (Pb) and the latent surge and retreat of societal violence. August 6, 2012. US National Library of Medicine National Institutes of Health. PubMed. http://www.ncbi.nlm.nih.gov/pubmed/22484219. AJ]
+
+We evaluate air Pb emissions…of aggravated assault.
+Part 4 is WHY REHAB IS CONSISTENT WITH THE UTILITARIAN JUSTIFICATION FOR PUNISHMENT.
+A. Rehab targets causes of crime
+
+Cullen and Gendreau. [“Assessing Correctional Rehabilitation: Policy, Practice, and Prospects.” Criminal Justice 2000] AT
+
+Second, the treatment services…interventions with offenders.
+B. Reduces recidivism
+Cullen 2:
+
+Even if interventions are…and Garrido (1999, 252).
+C. Fundamental attribution error
+Individuals evaluating a crime will tend to assign responsibility entirely to the perpetrator.
+
+Donald A. Dripps [James Annenberg Levee Professor of Law and Criminal Procedure, University of Minnesota Law School. “Fundamental Retribution Error: Criminal Justice and the Social Psychology of Blame.” VANDERBILT LAW REVIEW. Vol. 56. 2003]
+
+Psychological research indicates…turns out to be wrong.
+
+We can never evaluate actions correctly - always overpunish
+
+Dripps 2:
+
+FAE has troubling implications…mandatory retributivism’s prescriptions.
+==Negative== 
+===Util NC=== 
+I negate and value justice because the resolution questions the justice system and what individuals are due from the state.
+
+And, political philosophy concerns institutional design, not contingent decision making so the question of the resolution is what the initial principle of punishment should be, not when it should be applied.
+
+All theories must take the agent of action into account to correctly assign obligation. The only ethical system that makes sense for the state is utilitarianism.
+
+Rights should be rules for the treatment of others that maximize good consequences in a society. Inviolable rights maximize well-being.
+
+<span style="font-size: 13.3333px;">JAMES PLUNKETT ALLAN </span>[“Scepticism, Rights and Utility” Ratio Juris. Vol. 11 No. 4 December 1998 (413–24)]
+
+However, deficiencies in Hare’s particular…immediate (or short-term) failings.
+
+Thus, the standard is establishing rights and rules that maximize well-being.
+I contend that retribution must be valued above rehabilitation in the criminal justice system in order to maintain the right of the innocent not to be punished.
+Only guilty can be punished – necessary to serve function of CJS
+
+<span style="font-size: 13.3333px;">John Rawls </span>[“Two Concepts of Rules” The Philosophical Review, Vol. 64, No. 1 (Jan., 1955), pp. 3-32]
+
+
+Try to imagine, then, an…has agree[ing]d to buy it."4
+However, making rehabilitation or any other utilitarian goal the guiding principle of the justice system would create a line-drawing problem.
+
+<span style="font-size: 13.3333px;">K. G. Armstrong</span> [Oxford University “The Retributivist Hits Back” Mind, New Series, Vol. 70, No. 280. (Oct., 1961), pp. 471-490]
+
+
+What of the other charges against…authorities (or their experts) want him to be.
+The only way to avoid this outcome is to reconcile the retributivist and utilitarian justification.
+<span style="font-size: 13.3333px;">Rawls 2: </span>
+
+For our purposes we may say…up the criminal law.5
+Thus, I negate.
+===[[#January-February-Negative-Fair Play NC]]Fair Play NC=== 
+<span style="font-family: 'Times New Roman';">I negate. </span>
+
+<span style="font-family: 'Times New Roman';">V: J </span>
+
+<span style="font-family: 'Times New Roman';">Society is a cooperative endeavor that requires mutual submission to shared rules to function. Submission to rules creates an obligation on others who benefit to ensure burdens in society are shared according to what they are due.</span>
+
+<span style="font-family: 'Times New Roman';">retributive and utilitarian theories of punishment (like rehab) are inconsistent with one another</span>
+<span style="font-family: 'Times New Roman';">Michael S. Moore. [Placing Blame. A General Theory of Criminal Law. 1997] "Both the prevention...it deserve it." </span>
+
+<span style="font-family: 'Times New Roman';">HLA Hart ["Are There Any Natural Rights?" The Philosophical Review. Vol 64. No. 2 1955.] "Special rights are … those of disobedience."</span>
+
+<span style="font-family: 'Times New Roman';">However, absent a mechanism to incentivize rule following this system of benefits and burdens is unstable because it would encourage free-riding. </span>
+
+<span style="font-family: 'Times New Roman';">Richard Dagger [Professor of Political Science at Arizona State University “Playing Fair with Punishment” Ethics, Vol. 103, No. 3 (Apr., 1993), pp. 473-488]. "There are, however, …when his ¶ turn comes."6 ¶"</span>
+
+<span style="font-family: 'Times New Roman';">S: Restoring the equilibrium of benefits and burdens in society. </span>
+
+<span style="font-family: 'Times New Roman';">The fair-play theory of benefits and burdens justifies a retributive theory of justice.</span>
+
+
+<span style="font-family: 'Times New Roman';">Richard Dagger [Professor of Political Science at Arizona State University “Playing Fair with Punishment” Ethics, Vol. 103, No. 3 (Apr., 1993), pp. 473-488]. "The problem is … a justification for punishment."</span>
+
+===<span style="font-family: 'Times New Roman';">T - Aim of Punishment</span>=== 
+
+
+
+<span style="font-family: 'Times New Roman';">A.</span> <span style="font-family: Times New Roman;">Interpretation: The affirmative must value rehabilitation above retribution in the criminal justice system in terms of the aim of punishment as opposed to the implementation or repeal of particular policies.</span>
+
+
+
+
+
+<span style="font-family: 'Times New Roman';">B. Violation:</span>
+
+
+
+
+
+<span style="font-family: 'Times New Roman';">C. Standards:</span>
+
+
+
+
+
+<span style="font-family: 'Times New Roman';">Limits.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman';">Donald A. Dripps [James Annenberg Levee Professor of Law and Criminal Procedure, University of Minnesota Law School. “Fundamental Retribution Error: Criminal Justice and the Social Psychology of Blame.” VANDERBILT LAW REVIEW. Vol. 56. 2003]. “Retributive theory, which…exceeding the costs.”</span>
+
+
+
+
+
+<span style="font-family: 'Times New Roman';">D. Voter: Fairness</span>
+===<span style="font-family: 'Times New Roman';">Confinement Model CP</span>=== 
+
+Moore defines the resolutional conflict:
+
+Michael S. Moore [Placing Blame: A General Theory of the Criminal Law, 1997]
+
+Both the prevention of…only if the person or persons receiving it deserve it.
+
+
+
+Text: The United States criminal justice system will value retribution over rehabilitation, consistent with the confinement model of punishment as advocated by Logan and Gaes. I reserve the right to clarify. Logan and Gaes explain:
+
+
+
+Logan and Gaes 93, Charles H. Logan [Visiting Fellow at the Federal Bureau of Prisons, Office of Research and Evaluation] and Gerald G. Gaes [Federal Bureau of Prisons], “META-ANALYSIS AND THE REHABILITATION OF PUNISHMENT”, JUSTICE QUARTERLY, Vol. 10 No. 2, June 1993.
+
+
+
+Another way to…about their effects beyond.¶
+
+
+
+B) Net Benefit: Emphasizing retribution preserves accountability and the force of law. Logan and Gaes 2:
+
+
+
+As punishment, imprisonment…weakens the punishment message.
+
+===Fair Play NC (v2)=== 
+I negate. The value is justice because the resolution is a question of why individuals deserve punishment.
+The question of the resolution is WHY we punish, not what kind of punishment we enforce. Rehabilitation punishes for an end in society, whereas, retribution punishes because one has committed a crime.
+
+Michael Cahill, Professor of Law at the Brooklyn Law School, explains in Brooklyn Law Legal Studies 2007: Retributive Justice in the Real World. Washington University Law Review, Vol. 85, p. 815, 2007; Brooklyn Law School Legal Studies Paper No. 77. pp 817-818. DT. “Utilitarianism, which bases…known or stipulated.”
+
+Utilitarianism, which bases punishment on…an offender’s behavior is known or stipulated.13
+
+The resolution is a question of government duties.
+
+Society is a cooperative endeavor that requires mutual submission.
+
+Richard Dagger, Professor of Political Science at Arizona State University, writes in Ethics in 1993 [Professor of Political Science at Arizona State University “Playing Fair with Punishment” Ethics, Vol. 103, No. 3 (Apr., 1993), pp. 473-488]
+
+That is why the attempt to…when his turn comes’ (Murphy 1971, p. 166).2
+
+Free riding is bad for mutual submission.
+
+Dagger 2
+There are, however, two complications…burden when his ¶ turn comes."6 ¶
+
+Thus, the standard is restoring the equilibrium of benefits and burdens in society.
+
+Punishment restores the equilibrium
+
+Dagger 3:
+The problem is that…a justification for punishment
+
+Rehab doesn’t meet this burden since it lacks a limiting principle
+
+
+===Deterrence DA=== 
+Retribution improves America’s nuclear deterrence credibilty
+Tung Yin 2003 [“Disposable Deontology: The Death Penalty and Nuclear Deterrence.” Alabama L Rev. Lexus Nexis. 03-4]
+“A more internally…are just bluffing.”
+
+B. American deterrence credibility prevents nuclear war.
+R. James Woolsey. 2009. [“U.S. Nuclear Deterrence in the 21st Century” The New Deterrent Working Group, July 2009] AT
+“U.S. Nuclear weapons…seek to prevent.”
+
+C. Nuclear war causes extinction.
+Steven Starr. 2011 [“Consequences of a Single Failure of Nuclear Deterrence” University of Missouri. Physicians for Social Responsibility, Feb 2011]
+“Only a single… “global nuclear suicide”.”
+
+
+
+=November-December= 
+==Affirmative== 
+===Rawls AC=== 
+(See PV Peninsula HZ)
+====I affirm. Torrey defines universal health care:==== 
+
+Torrey, Trisha. “What is Universal Healthcare Coverage?” About.com guide. October 16, 2008. “Universal healthcare’ or…through single-payer systems.”
+
+Democracy need public justificaiton
+<span style="font-size: 10pt;">Samuel Freeman</span> <span style="font-size: 6pt;">[Avalon Professor in the Humanities at The University of Pennsylvania. Justice and the Social Contract: Essays on Rawlsian Political Philosophy. Oxford University Press. New York, NY. 2007. 37]</span>
+<span style="font-size: 6pt;">[brackets from “provide….institutions” are in original]. </span>
+
+This means we need a shared POV
+<span style="font-size: 10pt;">Samuel Freeman 2</span> [Avalon Professor in the Humanities at The University of Pennsylvania. Justice and the Social Contract: Essays on Rawlsian Political Philosophy. Oxford University Press. New York, NY. 2007. 40-42]
+Is a more…free and equal
+
+UTIL AC
+(See PV Peninsula AT)
+
+===Rawls FW=== 
+I affirm. Torrey defines universal health care:
+
+<span style="font-size: 12pt;">Torrey, Trisha. “What is Universal Healthcare Coverage?” About.com guide. October 16, 2008. “Universal healthcare’ or…through single-payer systems.” </span>
+
+<span style="font-size: 12pt;">"Universal healthcare" or "universal…not through single-payer systems. </span>
+<span style="font-size: 12pt;">I value justice. </span>
+<span style="font-size: 12pt;">Need public justifiability for a government – key to their role. </span>
+<span style="font-size: 12pt;">Samuel Freeman [Avalon Professor in the Humanities at The University of Pennsylvania. Justice and the Social Contract: Essays on Rawlsian Political Philosophy. Oxford University Press. New York, NY. 2007. 37] [brackets from “provide….institutions” are in original]. </span>
+
+<span style="font-size: 12pt;">We have considered how the…Rawls sees as</span><span class="StyleBoldUnderline" style="font-size: 12pt;">[is]appropriate [of] for a democratic society.</span><span style="font-size: 12pt;">[[home#_msocom_1|[AJ1]]] </span>
+
+<span style="font-size: 12pt;">Need a conception of free and equal citizens</span>
+<span style="font-size: 12pt;">[[home#_msocom_2|[DT2]]] Samuel Freeman 2 [Avalon Professor in the Humanities at The University of Pennsylvania. Justice and the Social Contract: Essays on Rawlsian Political Philosophy. Oxford University Press. New York, NY. 2007. 40-42]</span>
+
+<span style="font-size: 12pt;">[Kantian constructivism] is a more specialized notion…appropriate to our democratic conception of ourselves as free and equal.53</span>
+
+<span style="font-size: 12pt;">Freedom is a positive right. </span>
+**<span style="font-size: 12pt;">David Hollenbach</span>**<span style="font-size: 12pt;"> – The Common Good Revisited. Theological Studies. 50:1 (1989 March). “Because of these…human beings act.” DT. </span>
+<span style="font-size: 12pt;">Because of these signiﬁcant societal…general chances of success in achieving the purposes for which human beings act.“ </span>
+VOI <span style="font-family: Wingdings;">à</span> purely free and equal citizens because don’t know social position
+Second, veil of ignorance is devoid of social context, it is the only system that has no risk of bias and so no arbitrary decision-making.
+Behind the veil, citizens would design a system that benefitted the least advantaged because 1) diminishing marginal utility
+2) People are risk-averse: they would avoid risks of occupying the worst social position, but this would ensure reasonable treatment regardless.
+Therefore we must adopt a principle of equality of opportunity.
+<span style="font-size: 12pt;">Danny Scoccia [prof of phil, NM State. " Rawls, The Difference Principle, and Equality of Opportunity." http://web.nmsu.edu/~dscoccia/320web/320RawlsDP.pdf]</span>
+<span style="font-size: 12pt;">The</span>**<span style="font-size: 12pt;"> basic </span>**<span style="font-size: 12pt;">motivation…the undeserved ones that are due to unequal opportunity. </span>
+<span class="StyleBoldUnderline">Thus, the standard is ensuring equality of opportunity. Prefer the standard for 2 additional reasons:</span>
+
+**<span style="font-size: 12pt;">First, people are moral equals so equality of opportunity</span>**
+
+**<span style="font-size: 12pt;">Second, people born with disadvantages are subject to external pressures that affect the choices they have, which destroys their autonomy </span>**
+----
+
+
+When we ask what a society should do, that necessitates us asking how those social institutions should affect everyone. When we take out the idea of a rational contractor, leads us to the conclusion that we want citizens to be free and equal because you wouldn’t know who you are in that society.
+==Negative== 
+===UTIL NC=== 
+I value justice.
+Also, obligations must be based on the actor since they differ from agent to agent.
+Political philosophy must be practical and public justifiable.
+MARTIN RHONHEIMER [Prof Of Philosophy at The Pontifical University of the Holy Cross in Rome. “THE POLITICAL ETHOS OF CONSTITUTIONAL DEMOCRACY AND THE PLACE OF NATURAL LAW IN PUBLIC REASON: RAWLS’S “POLITICAL LIBERALISM” REVISITED” The American Journal of Jurisprudence vol. 50 (2005), pp. 1-70]
+It is a fundamental feature of…..but who potentially at the same time are also the rulers.
+Thus, a government must find a way to justify its decisions to the citizenry to maintain its legitimacy. Only util is publicly justifiable. Woller
+Gary Woller [BYU Prof., “An Overview by Gary Woller”, A Forum on the Role of Environmental Ethics, June 1997, pg. 10]
+Moreover, virtually all public policies entail…basis for public policy in a democracy.
+Thus, the value criterion is minimizing harm. Additional reasons:
+First, in deciding health policy where resources are constrained, the government must use utilitarianism.
+Peter Mack. [“Utilitarian Ethics in Healthcare.” International Journal of the Computer, the Internet, and Management Vol. 12, No. 3. 2004. Department of Surgery. Singapore General Hospital.] AT
+Medicine is a costly science, but of greater…Issues of who receives the utility, the source of the utility and any non-utility aspects of the situation are ignored.
+
+Second, Ethical uncertainty means we should prevent existential to ensure the future has value. Bostrom
+(Existential Risk Prevention As the Most Important Task for Humanity, 2011, Faculty of Philosophy at Oxford)
+These reflections on…a lot of value
+
+I advocate the retention of the Affordable Care Act in the status quo.
+
+The ACA is not universal healthcare.
+“ObamaCare's new price tag: A guide.” July 25, 2012. The Week. http://theweek.com/article/index/230981/obamacares-new-price-tag-a-guide. AW.
+
+Before the ruling, 33 million…covered under Medicaid uninsured.
+
+Incentivizes quality of care.
+
+Klein, Ezra [Editor of Wonkblog and a columnist at the Washington Post, as well as a contributor to MSNBC and Bloomberg. His work focuses on domestic and economic policymaking, as well as the political system that's constantly screwing it up]. “The five most promising cost controls in the health-care bill.” The Washington Post. March 22, 2010. http://voices.washingtonpost.com/ezra-klein/2010/03/the_five_most_promising_cost_c.html AW.
+
+Medicare "bundling" programs:…paying for quality of treatment.
+A is the Uniqueness: Biotechnology is growing now. Noonan summarizes Burrill:
+Kevin Noonan writing on a speech by Steve Burrill. “Docs at BIO: Steve Burrill’s State of the Biotechnology Industry Report 2011.” July 5, 2011. Biotechnology Industries Organization International Convention.
+The underlying theme of his message this year was that
+AND
+raise the significance of the Supreme Court's recent decision in //Stanford v. Roche//)
+Single-payer destroys medical innovation.
+David Hogberg 2007 [“The Myths of Single Payer Health Care” FreeMarket Cure.] AT
+While it is true that…will be the ones that will be most profitable.
+And, the ACA solves.
+
+The White House. “Get the Facts Straight on Health Reform.” http://www.whitehouse.gov/healthreform/myths-and-facts#healthcare-menu. AW.
+
+One independent group actually called this…plan in the law.
+Biotech key to prevent and cure AIDS. Biotechnology Institute Organization:
+( “AIDS: A Terrible Pandemic”, Your World, Biotechnology and You,
+http://www.biotechinstitute.org/resources/YWarticles/9.2/9.2.1.pdf)
+Meanwhile, every hour two U.S….or prevent new infection.
+
+Mutation and spread of AIDS ensures extinction. Every year we delay is another 3 million dead. American Computer Science Association:
+("U.N.: HIV Epidemic continues to Spread" American Computer Science Association http://www.acsa2000.net/aids/global_aids_ap.htm#ross )
+At a 12% annual compounded
+AND
+pharmacology and will eventually win.
+
+
+
+<span style="display: block; font-size: 11pt; text-align: center;">Natives PIC</span>
+Ethics must be grounded in context. Young writes:
+Iris Marion Young, professor of political science at University of Chicago, __Justice and the Politics of Difference__, Princeton University Press, 1990
+<span style="font-size: 12pt;">The attempt to develop…mode of critical theory.</span>
+
+<span style="font-size: 12pt;">To resist dehumanization, it becomes necessary to resist oppression in all its forms. **Freire:**</span>
+<span style="font-size: 12pt;">Freire, Paulo. //Pedagogy of the Oppressed.// New York: Continuum, 2000. Print</span>
+
+**__<span style="font-size: 12pt;">While </span>__**<span style="font-size: 12pt;">the problem of…turn **__dehumanizes the oppressed.__**</span>
+**<span style="font-size: 12pt;">Part A is the Text</span>**<span style="font-size: 12pt;">: The United States federal government should mandate all individuals to purchase a minimal amount of health coverage, except for American Indians living on reservations.</span>
+**<span style="font-size: 12pt;">Blue Cross </span>**<span style="font-size: 12pt;">explains:</span>
+<span style="font-size: 11pt;">“Federal Health Care Reform. Patient Protection and Affordable Care Act. Individual Mandate and Subsidy” Blue Cross/Blue Shield of Rhode Island. </span>
+**__<span style="font-size: 12pt;">Beginning January 1, 2014…members of Indian tribes.</span>__**
+
+
+**<span style="font-size: 12pt;">Part B is the Competition</span>**<span style="font-size: 12pt;">: The counterplan competes through mutual exclusivity and net benefits.</span>
+
+<span style="font-size: 12pt;">First is mutual exclusivity. </span>
+<span style="font-size: 12pt;"> Since my counterplan is plan minus, a permutation would require the aff to sever out of part of the AC advocacy. No shifting advocacies. </span>
+
+<span style="font-size: 12pt;">Second is net benefits. </span>
+
+<span style="font-size: 12pt;">American Indian culture stresses autonomy. **Sanchez:**</span>
+<span style="font-size: 12pt;">T Sanchez, J Plawecki, H Plawecki The Delivery of Culturally Sensitive Health Care to Native Americans. </span>
+
+**__<span style="font-size: 12pt;">The Value of individual…mandates hinder that action.</span>__**
+
+<span style="font-size: 12pt;">Subpoint B is that western medicine is in conflict with American Indian medicine. **Jannisse:**</span>
+<span style="font-size: 11pt;">Tom Jannisse. “Healing Physicians: Physicians Healing.” //The Permanente Journal//</span>
+<span style="font-size: 12pt;">What are the qualities…to a particular problem."</span>
+
+<span style="font-size: 12pt;">This disrespect for American Indian cultural autonomy is an example of cultural domination. The imposition of Western culture to marginalize and outright erase American Indian culture is the most powerful tool of oppression. **Cudd:**</span>
+
+<span style="font-size: 9pt;">Ann Cudd. “Analyzing Oppression” </span><span style="background-color: white; font-family: Arial; font-size: 9pt;"> 31 JAN 2009</span><span style="font-family: Times; font-size: 10pt;">. </span>
+
+<span style="font-size: 12pt;">Amidst the competing theories, examples**__…injustice of social institutions.__**</span>
+
+<span style="font-size: 12pt;">Part C is the Solvency, </span>
+
+**<span style="font-size: 12pt;">First, </span>**<span style="font-size: 12pt;">I solve for 100% of the plan in terms of health care because I exclude American Indians from the individual mandate.</span>
+
+**<span style="font-size: 12pt;">Second, </span>**<span style="font-size: 12pt;">I access better solvency for American Indians - respect for American Indian values is also key. **Sanchez:**</span>
+<span style="font-size: 12pt;">T Sanchez, J Plawecki, H Plawecki The Delivery of Culturally Sensitive Health Care to Native Americans</span>
+<span style="font-size: 12pt;">Misunderstanding and/or **__ignoring …__**professional health care services.</span>
+
+
+**<span style="font-size: 12pt;">Part D is the Theory pre-empts</span>**
+==**<span style="font-size: 12pt;">Other stuff</span>**== 
+
+<span style="font-size: 12pt;">The ACA leads to huge economic harms. </span>
+
+<span style="font-size: 11pt;">Ron Johnson, Douglas Holtz-Eakin. “Obamacare would be very expensive; Lots of subsidies will also require lots of subsidizers.” . June 20, 2011. Charleston Daily. Johnson is a Republican senator from Wisconsin. Holtz-Eakin, a former director of the Congressional Budget Office and an adviser to John McCain's 2008 presidential campaign, is president of American Action Forum, a nonpartisan research institute.</span>
+
+
+
+<span class="CardCut">**<span style="font-size: 12pt;">But</span>**</span><span style="font-size: 12pt;"> under Obamacare…</span><span class="CardCut">**<span style="font-size: 12pt;"> to bet that Obamacare will reverse the trend. </span>**</span>
+
+
+
+=September-October= 
+==Affirmative== 
+===Checks AC (All aff rounds at Valley and Bronx)=== 
+<span style="background-color: #ffffff;">Extend is about rights citizens currently have (Merriam Webster definition)</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Definition of accused m</span><span style="background-color: #ffffff; font-size: 16px;">eans trial through conviction:</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">[West's Encyclopedia of American Law, edition 2. Copyright 2008 The Gale Group, Inc.]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">The generic name...whichever occurs first.</span>
+
+
+<span style="background-color: #ffffff; font-size: 12pt;">Current system: </span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">The Congressional Research Service 2012 [Jennifer K. Elsea Legislative Attorney “Comparison of Rights in Military Commission Trials and Trials in Federal Criminal Court” The Congressional Research Service. May 9, 2012]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">U.S. law provides for the</span><span class="StyleBoldUnderline" style="background-color: #ffffff; font-size: 12pt;"> trial of suspected terrorists</span><span style="background-color: #ffffff; font-size: 12pt;">, including those...procured by plea agreement. A few commission rulings have been appealed.¶ 50</span>
+
+<span style="background-color: #ffffff;">[[#September-October-Affirmative-Checks AC-Advocacy]]Advocacy</span>
+
+<span style="background-color: #ffffff;">I advocate that non-citizens accused of terrorism be tried, and granted the rights afforded to defendants in Article III federal courts.</span>
+
+
+<span style="background-color: #ffffff;">[[#September-October-Affirmative-Checks AC-Framework]]Framework</span>
+
+<span style="background-color: #ffffff;">V: J</span>
+
+<span style="background-color: #ffffff;">Political philosophy, must be practical.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">MARTIN RHONHEIMER [Prof Of Philosophy at The Pontifical University of the Holy Cross in Rome. “THE POLITICAL ETHOS OF CONSTITUTIONAL DEMOCRACY AND THE PLACE OF NATURAL LAW IN PUBLIC REASON: RAWLS’S “POLITICAL LIBERALISM” REVISITED” The American Journal of Jurisprudence vol. 50 (2005), pp. 1-70]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">It is a fundamental feature of political philosophy to be part of practical philosophy...but who potentially at the same time are also the rulers.</span>
+
+<span style="background-color: #ffffff;">“Public reason” provides the only reasonable basis for justification.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">John Rawls [Emeritus Professor of Philosophy, Harvard University “The Idea of Public Reason Revisited” The University of Chicago Law Review, Vol. 64, No. 3 (Summer, 1997), pp. 765-807.]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">The idea of public reason, as I understand it,' belongs to a...India-finding a suitable idea of public reason is a concern that faces</span>
+<span style="background-color: #ffffff;">Basic standards are necessary to ensure citizens accept the decisions that result from the agreed upon structure of the state, a prerequisite to any system of social cooperation.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Rawls 2 [James Bryant Conant Professor of Philosophy at Harvard University. A Theory of Justice. The Presidents and Fellows of Harvard College. Cambridge, MA. 1971. 233-236]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">I now turn to a discussion of what I have labeled the third, fourth...be reasonable, political conceptions must justify only constitutions that satisfy this principle.</span>
+<span style="background-color: #ffffff;">The rule of law is necessary to maintain the states role as the legitimate arbiter of the rules.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Rawls 3 [James Bryant Conant Professor of Philosophy at Harvard University. A Theory of Justice. The Presidents and Fellows of Harvard College. Cambridge, MA. 1971. 233-236]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">I now wish to consider rights of the person as these are protected by the...the basic structure, but ones that are not by any means negligible.¶ </span>
+
+<span style="background-color: #ffffff;">S: Maintaining rule of law</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">1) Prerequisite – can’t enforce ethics without rule of law </span>
+<span style="background-color: #ffffff; font-size: 12pt;">2) Without rule of law, pluralism is denied – arbitrary imposition of values</span>
+<span style="background-color: #ffffff; font-size: 12pt;">3) Necessary for cooperation. </span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Schonberg: </span>
+<span style="font-size: 10pt;">Soren Schonberg. [“Legitimate Expectations in Adminstrative Law.” Chapter 1: Expectations, Fairness, and Lawful Administration. Oxford University Press, Nov 23 2000.] AJ.</span>
+
+<span style="font-size: 12pt;">"According to Habermas...the four situations."</span>
+
+
+<span style="background-color: #ffffff;">Contention 1:</span>
+
+<span style="background-color: #ffffff;">Using separate legal procedures, like military tribunals, for non-citizens discriminates and violates equal protection.</span>
+
+
+
+<span style="background-color: #ffffff;">Maogoto and Sheehy 07 [Jackson Maogoto, Professor of Law at The University of Manchester; Benedict Sheehy, Senior Lecturer in Business and Law at RMIT University. “Torturing the Rule of Law: USA and the Post 9-11 Legal World” Journal of Civil Rights and Economic Development. Volume 21, Issue 3 Volume 21, Spring/Summer 2007.</span>
+
+
+<span style="background-color: #ffffff;">The denial of equal protection on the basis of national origin is clearly unconstitutional.</span>
+<span style="background-color: #ffffff; font-size: 10pt;">Whitehead and Aden 02 </span><span style="background-color: #ffffff;">John Whitehead, President of the Rutherford Institute; and Steven Aden, Senior counsel with the Alliance Defending Freedom.“Forfeiting ‘Enduring Freedom’ for ‘National Security’: A Constitutional Analysis of the US Patriot Act and the Justice Department’s Anti-Terrorism Initiatives” 51 American University Law Review 1081-1133. Rutherford University 2002.]</span>
+
+
+
+
+<span style="background-color: #ffffff;">Contention 3:</span>
+<span style="background-color: #ffffff;">Legal procedures that take place outside of the federal judicial system allow the executive to stack the deck against defendants.</span>
+
+
+
+<span style="background-color: #ffffff; font-size: 12pt;">Benson and Lewis 2010 [Daniel Benson & Calvin Lewis “REPEAL OF THE MILITARY COMMISSIONS ACT” SOUTHERN CALIFORNIA REVIEW OF LAW AND SOCIAL JUSTICE. Vol. 19. No. 2. Spring 2010.]</span>
+
+
+
+
+
+<span style="background-color: #ffffff; font-size: 12pt;">Considering the procedural rules applicable to military commissions in light of the Bush administration’s fundamental ...the ﬁrst order of business was to actually "eliminate legal constraint</span>
+
+
+
+
+
+<span style="background-color: #ffffff;">Forum choice facilitates abuses of power.</span>
+
+
+<span style="background-color: #ffffff;">[[#September-October-Affirmative-Checks AC-Contention 1: Post Hoc Tribunals]]Contention 2: Post Hoc Tribunals</span>
+
+<span style="background-color: #ffffff;">No “special tribunal” designed post hoc can be considered consistent.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Jordan Paust 2012 [Mike & Teresa Baker Law Center Professor, University of Houston “Still Unlawful: The Obama Military Commissions, Supreme Court Holdings, and Deviant Dicta in the D.C. Circuit” Cornell International Law Journal. VOL. 45. 2012.]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">In its landmark opinion in Hamdan v. Rumsfeld,2 the U.S...were enacted years after detainees at Guantanamo entered U.S. custody.</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Ex post facto bad: </span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">Rawls 4 [James Bryant Conant Professor of Philosophy at Harvard University. A Theory of Justice. The Presidents and Fellows of Harvard College. Cambridge, MA. 1971. 233-236]</span>
+
+<span style="background-color: #ffffff; font-size: 12pt;">The precept that there is no offense without a law (Nullum crimen sinelege), ...not serve to</span><span class="StyleBoldUnderline" style="background-color: #ffffff; font-size: 12pt;"> organize </span><span style="background-color: #ffffff; font-size: 12pt;">social </span><span class="StyleBoldUnderline" style="background-color: #ffffff; font-size: 12pt;">behavior by </span><span style="background-color: #ffffff; font-size: 12pt;">providing a basis for</span><span class="StyleBoldUnderline" style="background-color: #ffffff; font-size: 12pt;"> legitimate expectations.</span>
+==Negative== 
+===Util FW V1 (All neg at valley, all neg at bronx except r2)=== 
+
+===Util FW V2 (bronx r2)=== 
+===Drone DA (valley)=== 
+
+
+
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

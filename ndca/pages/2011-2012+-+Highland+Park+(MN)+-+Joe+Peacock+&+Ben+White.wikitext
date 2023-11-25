@@ -1,0 +1,416 @@
+[[toc]]
+=Affirmative= 
+=**TSAT's AFF**= 
+
+Plan: The United States Department of Defense should deploy the Transformational Satellite Communications System.
+<span style="font-size: 13.3333px;">TSAT was cut from the DOD budget in 2009 due to overbudgeting and delays</span>
+<span style="font-family: 'Arial','sans-serif';">Gates, 9</span>
+[Robert, the former Secretary of Defense, “Defense Budget Recommendation Speech”, read in Arlington, VA on April 6, [[http://www.globalsecurity.org/military/library/news/2009/04/dod-speech-090406.htm]], NKN]
+
+<span style="font-size: 13.3333px;">All of the technology is feasible – funding was reduced because it didn’t live up to sky-high expectations</span>
+<span style="font-family: 'Arial','sans-serif';">JDSB 8</span>
+[Report of the Joint Defense Science Board Intelligence Science Board Task Force on Integrating Sensor-Collected Intelligence, November, [[http://www.fas.org/irp/agency/dod/dsb/sensors.pdf]], NKN]
+
+A. Interoperability- current ISR is botched because of different networks and components- TSATs integrate systems
+__Best 11__ (Richard A, specialist in national defense. CRS Report for Congress Prepared for Members and Committees of Congress: Intelligence, Surveillance, andReconnaissance (ISR) Acquisition: Issues for Congress.http://www.scribd.com/doc/49359140/Intelligence-Surveillance-and-Reconnaissance-ISR-Acquisition-Issues-for-Congress-January-20-2011)
+
+
+<span style="font-size: 13.3333px;">B.Vulnerability and capability- current ISR is under threat from enemy jamming and it can’t handle the bandwith that the military needs to process data</span>
+<span style="font-family: 'Arial','sans-serif';">JDSB 8</span>
+[Report of the Joint Defense Science Board Intelligence Science Board Task Force on Integrating Sensor-Collected Intelligence, November, [[http://www.fas.org/irp/agency/dod/dsb/sensors.pdf]], NKN]
+
+<span style="font-size: 13.3333px;">Extends the Global Information Grid and, even if it fails, increases the efficiency of squo satellite programs and integrates them into a global ISR system</span>
+__Uhrich 10__ (Colonel David. <span class="headingstory">PRIORITY BRIEFING WITH Colonel David C. Uhrich</span>
+
+<span class="subheading">Vice Commander, Military Satellite Communications Systems Wing, Space and Missile Systems Center, Los Angeles Air Force Base, El Segundo, California. http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=2074520599)</span>
+
+<span style="font-size: 13.3333px;">US ISR prevents multiple scenarios for nuclear war</span>
+DOD 10 (Intelligence, Surveillance, and Reconnaissancehttp://space.au.af.mil/guides/stg/stg_isr.pdf)//
+
+//<span style="font-size: 13.3333px;">Absent improved ISR China will rapidly modernize- guarantees Chinese cyberattacks, advanced ASAT capabilities, and an attack on Taiwan</span>//
+//__BBC 11__ (Viewpoint: A new Sino-US high-tech arms race? http://www.bbc.co.uk/news/mobile/world-asia-pacific-12154991)//
+
+//__Leads to multiple scenarios for extinction__//
+//__Hunkovic ‘9__ (Lee J. Hunkovic, American Military University, “The Chinese-Taiwanese Conflict: Possible Futures of a Confrontation between China, Taiwan and the United States of America,” 2009, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]])//
+
+
+//China already has set the infrastructure for a cyberattack- absent ISR we will lose an inevitable cyber war, leading to a collapse of the power grid//
+//LA Times 3/28 (Virtual war a real threathttp://articles.latimes.com/2011/mar/28/nation/la-na-cyber-war-20110328)
+
+<span style="font-size: 14.6667px;">Power grid collapse leads to the end of civilization</span>
+<span style="font-size: 14.6667px;">Rifkin 2</span> (Alan, The founder and president of the Foundation on Economic Trends, Fellow at the Wharton School’s Executive Education Program (Jeremy, The Hydrogen Economy: The Creation of the World-Wide Energy Web and the Redistribution of Power on Earth, p.163-164 )
+
+
+<span style="font-size: 14.6667px;">And, cyberterror leads to escalation that destroys the nuclear taboo</span>
+<span style="font-size: 14.6667px;">Cimbala 99</span> (Stephen Cimbala, professor of political science at the Pennsylvania State University Delaware County Campus, Summer 1999, Armed Forces & Society: An Interdisciplinary Journal)
+
+
+
+
+<span style="font-size: 13.3333px;">Only federally funded TSATS are key to a transition to net centric warfare- mobile communication integrates ground based communications networks and prevents Chinese space rise</span>
+__Wilson 4__ (Clay Wilson, Specialist in Technology and National Security Foreign Affairs, Defense, and Trade Division at the Congressional Research Service, June 2, 2004, “Network Centric Warfare: Background and Oversight Issues for Congress”, [[http://fpc.state.gov/documents/organization/33858.pdf]] bcliff)
+
+<span style="font-size: 13.3333px;">They’re also a breeding ground for IPv6 technology that spills over into netwar doctrine even if the program fails</span>
+__SpaceWar 7__ (“<span class="bhl">LockMart And Northrop Grumman TSAT Team Announces Partnership With Juniper Networks”</span> [[http://www.spacewar.com/reports/LockMart_And_Northrop_Grumman_TSAT_Team_Announces_Partnership_With_Juniper_Networks_999.html]] bcliff)
+
+<span style="font-size: 13.3333px;">They also modernize the military in the abstract- TSATS are key</span>
+<span style="font-size: 13.3333px;">Shalal Esa 8</span>
+(Andrea, “Satellite delay may hurt U.S. troops” 10/20/08 Reuters http://www.reuters.com/article/2008/10/20/us-pentagon-satellite-idUSTRE49J8IW20081020)
+
+NCW makes heg sustainable
+<span style="font-size: 14.6667px;">Arquilla 10</span> (John Arquilla, professor of defense analysis at the U.S. Naval Postgraduate School, MARCH/APRIL 2010, “The New Rules of War”, http://www.foreignpolicy.com/articles/2010/02/22/the_new_rules_of_war)
+<span style="font-size: 13.3333px;">The impact is global nuclear war </span>
+__KAGAN, 7__ (Robert, senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)
+
+<span style="font-size: 13.3333px;">Independently, netwar prevents all future conflict </span>
+<span style="font-size: 14.6667px;">Chang-hee 5</span> (Chang-hee Nam, professor of Inha University, South Korea, who formerly worked for the Korea Institute f or Defense Analysis, “The Realignment of the USFK in the Military Transformation and South Korea's Defense Reform 2020”, [[http://www.nids.go.jp/english/event/symposium/pdf/2005/e2005_05.pdf]])
+
+<span style="font-size: 13.3333px;">Their defense doesn’t apply – NCW is a paradigm shift, not about technology</span>
+<span style="font-size: 14.6667px;">Croser 7</span> (Caroline Croser, PhD from Lancaster University in Defence and Security Studies, Nov. 7, “ORGANISING COMPLEXITY: MODES OF BEHAVIOUR IN A NETWORKED BATTLESPACE”, [[http://www.army.gov.au/lwsc/Docs/WP_133.pdf]])
+
+=**Nietzsche AFF**= 
+
+The Modern Age Has Destroyed Every Claim To A Metaphysical Basis For Truth. The Truths Of The World, Both Moral And Factual, Are All Constructed And Deconstructed By History. Only That Without A History Can Be Defined And As Everything Has A History Nothing Can Be Defined. Before Any Meaning Can Be Given To The Resolution Or To Space Or Any Combination ThereIn We Must First Acknowledge The Meaninglessness Which Will Underpin Any Investigation.
+Ian **__<span style="color: #000000; font-size: 14.6667px;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.6667px;">99</span>__**.
+
+However, If You Think The Loss Of A Priori Meaning Is Sad Or Depressing, You Are Not Thinking Hard Enough. The Only Sane Response To A World Devoid Of Meaning Is To Look At It Like An Artist’s Canvas, A Blank Slate For Creation. What’s More We Must Dedicate Ourselves Fully To This Creation, To Create The World And Ourselves In The Way We Find Most Affirming. To Do Anything Less Is To Deny Our Will To Power, And By Extension Our Very Humanity.
+Ian **__<span style="color: #000000; font-size: 14.6667px;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.6667px;">99</span>__**.
+
+We Think This Year’s Resolution, And The Idea Of Space Exploration Is An Excellent Starting Point For This. In Space Exploration The Earth, Formerly The Ultimate Metaphysical Ground For Truth, Is Reduced To One Among Trillions Of Bodies. As Such, Earth And The Universe Are An Abbiss, Devoid Of Particular Significance Or Meaning. With This Comes The Radical Freedom To Determine Our Own Possibilities.
+Niel **__<span style="color: #000000; font-size: 14.6667px;">Turnbull,</span>__** **__<span style="color: #000000; font-size: 14.6667px;">‘6</span>__**, Senior Lecturer in Philosophy and Social Theory and Nottingham Trent U, “The Ontological Consequence of Copernicus: Global Being in the Planetary World”, Theory, Culture & Society Vol. 23(1))
+
+Thus We Affirm That The United States Federal Government Should Substantially Increase It’s Exploration Beyond Earth’s Mesosphere.
+
+Now Try Not To Faint In Surprise But We Will Not Be Defending All Politicians Wake Up One Day And Decide To Agree With Us. We Don’t Care. In A World Of Radical Self Creation There Is No Reason The Game Of Debate Should Be Excluded. We Affirm Our Mode Of Play, With A Focus On Individual Liberation, And We Affirm That It Is Good.
+Ian **__<span style="color: #000000; font-size: 14.6667px;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.6667px;">99</span>__**.
+http://wiki.debatecoaches.org/2011-2012+-+Highland+Park+%28MN%29+-+Joe+Peacock+%26+Ben+White
+We Think Our Framework Of Openness And Resistance To The Dogmatic Rules Of Normative Debate Is Wonderful. The Creation Of Our Own Rules And The Usage Of Our Own Will To Power Releases Us From The Silly Conception That The Rules Of Debate Are Static Or Neutral And Opens Space For New Rules, New Truths, And New Games To Be Created. If You Do Not Like Our Game, Fine, But Vote Aff To Refuse To Submit Debate To An External Authority. Once This Is Done, Go Do Debate However You Like.
+Frederick M. **__<span style="color: #000000; font-size: 14.6667px;">Dolan</span>__**. “SYMPOSIUM: Nietzsche and Legal Theory (Part 1): Nietzsche’s Gnosis of Law” 24 Cardozo L. Rev. 757. January. 20**__<span style="color: #000000; font-size: 14.6667px;">03</span>__**
+
+
+=space elevators aff= 
+<span style="font-size: 18.6667px;">Plan: the United States Air Force should develop and implement a space elevator capable of reaching geosynchronous orbit</span>
+<span style="font-size: 18.6667px;">Contention 1 Is Inherency</span>
+<span style="font-family: 'Arial','sans-serif'; text-decoration: none;">The technology for a space elevator will be ready by 2013</span>
+<span style="font-family: 'Liberation Serif','serif'; font-size: 14.6667px;">The Economist,</span><span style="font-family: 'Liberation Serif','serif'; font-size: 12px; text-decoration: none;">Waiting for the Space Elevator, (6/8/</span><span style="font-family: 'Liberation Serif','serif'; font-size: 14.6667px;">06</span><span style="font-family: 'Liberation Serif','serif'; font-size: 12px; text-decoration: none;">)</span>
+<span style="font-family: 'Liberation Serif','serif'; font-size: 12px; text-decoration: none;">for decades science-fiction writers...long wait until it arrives</span>
+If we start now, we can have a space elevator built within 15 years
+Bradley **__<span style="color: #000000; font-size: 14.6667px;">Edwards</span>__**, Director of Research-Institute for Scientific Research, “Interview of Brad Edwards - Space Elevator Expert by Sander Olson”, Next Big Future, 12/1/**__<span style="color: #000000; font-size: 14.6667px;">09</span>__**, [[http://nextbigfuture.com/2009/12/interview-of-brad-edwards-space.html]]
+
+<span style="font-size: 12.6667px;">Given sufficient funding...space-based industry.</span>
+
+Space Elevator Construction is Inevitable, Only A Question of Who Gets There First
+J. **__<span style="color: #000000; font-size: 14.6667px;">Overton</span>__**, The Future Research Quarterly,“The Space Elevator: Scenario’s For National Security Decision Makers”, Summer **__<span style="color: #000000; font-size: 14.6667px;">07</span>__**
+<span style="color: #000000; font-size: 14.6667px;">Although NASA has...primarily by the US government.</span>
+
+<span style="font-size: 18.6667px;">Contention Two Is Advantages. Advantage One Is Launches </span>
+There will be a 47 percent increase in satellite launches over the next 10 years if we don't take action
+Peter **__<span style="color: #000000; font-size: 14.6667px;">de Selding</span>__**, Reporter For Space.com, “Satellite Communications Market Weathers Troubled Economy”, Space.com, 3/16/20**__<span style="color: #000000; font-size: 14.6667px;">09</span>__** (http://www.space.com/6416-satellite-communications-market-weathers-troubled-economy.html)
+<span style="color: #000000; font-size: 12.6667px;">A 10-year forecast of satellite...ending in 2008</span>
+
+<span style="font-size: 18.6667px;">We Will Isolate Two Scenarios. Scenario One is Debris</span>
+Launches Are The Major Cause Of Space Debris.
+Thierry **__<span style="color: #000000; font-size: 14.6667px;">Senechal</span>__**, Policy Manager of the Commission on Banking Technique and Practice at the International Chamber of Commerce, “Space Debris Pollution: A conventional Proposal” 20**__<span style="color: #000000; font-size: 14.6667px;">07 </span>__**(http://www.pon.org/downloads/ien16.2.Senechal.pdf)
+
+<span style="color: #000000; font-size: 14.6667px;">Debris in space is...orbital debris population. </span>
+
+Increased debris Risks Tipping Point
+Thierry **__<span style="color: #000000; font-size: 14.6667px;">Senechal</span>__**, Policy Manager of the Commission on Banking Technique and Practice at the International Chamber of Commerce, “Space Debris Pollution: A conventional Proposal” 20**__<span style="color: #000000; font-size: 14.6667px;">07 </span>__**(http://www.pon.org/downloads/ien16.2.Senechal.pdf)
+
+<span style="color: #000000; font-size: 14.6667px;">We have reached ...among a few countries. </span>
+
+
+
+
+**<span style="font-family: 'Arial','sans-serif'; font-size: 16px;">Space Debris Causes Russian Miscalc and Nuclear War</span>**
+Jeffrey **__<span style="color: #000000; font-size: 14.6667px;">Lewis,</span>__** postdoctoral fellow in the Advanced Methods of Cooperative Security Program at the Center for International and Security Studies at the University of Maryland School of Public Policy. “WHAT IF SPACE WERE WEAPONIZED?” July 20**__<span style="color: #000000; font-size: 14.6667px;">04</span>__** (http://www.cdi.org/PDFs/scenarios.pdf]**)**
+
+<span style="color: #000000; font-size: 14.6667px;">This section focuses...be quite destabilizing. </span>
+
+
+That Causes Extinction
+Morton **Mintz** [former chair of the Fund for Investigative Journalism and a former Washington Post reporter, The American Prospect, Two Minutes to Launch, 20**__<span style="color: #000000; font-size: 14.6667px;">01</span>__**([[http://www.prospect.org/cs/articles?article=two_minutes_to_launch]])
+
+<span style="color: #000000; font-size: 14.6667px;">In no more ...</span><span class="highlight2">__<span style="color: #000000; font-size: 14.6667px;">checklist, by rote.”</span>__</span>
+Debris causes Economic Collapse by Making Vital Space Infrastructure Unworkable
+<span style="font-size: 13.3333px;">Megan</span>__<span style="color: #000000;">Ansdell</span>__<span style="font-size: 13.3333px;">PhD Candidate @ GWU, Active Space Debris Removal,” Princeton Publications,</span> ‘__<span style="color: #000000;">10</span>__ ([[http://www.princeton.edu/jpia/past-issues-1/2010/Space-Debris-Removal.pdf]])
+
+
+<span class="highlight2">__<span style="color: #000000; font-size: 14.6667px;">Although the probability...</span>__</span><span style="color: #000000; font-size: 14.6667px;">and global communications </span>
+
+
+
+Any Solvency For The Economy Is Only Temporary. Debris Makes Space Inhospitable For Satellites, Guarantees Economic Collapse In The Long Run.
+Jinyuan **__<span style="color: #000000; font-size: 14.6667px;">Su</span>__**, The Silk Road Institute of International and Comparative Law, School of Law, Xi'an Jiaotong University. “Towards an effective and adequately verifiable PPWT”. Space Policy Volume 26, Issue 3, August 20**__<span style="color: #000000; font-size: 14.6667px;">10</span>__**..
+
+Today around 21,000... or severally, to the third
+
+
+Nuclear War and Extinction
+Mathew J. **__<span style="color: #000000; font-size: 14.6667px;">Burrows</span>__** **__<span style="color: #000000; font-size: 14.6667px;">and</span>__** Jennifer **__<span style="color: #000000; font-size: 14.6667px;">Harris</span>__** //PhD European History @ Cambridge, counselor in the National Intelligence Council (NIC) & member of the NIC’s Long Range Analysis Unit// //“Revisiting// //<span style="font-size: 10.6667px;">the Future: Geopolitical Effects of the Financial Crisis” 20</span>////**__<span style="color: #000000; font-size: 10.6667px;">09</span>__**////<span style="font-size: 10.6667px;"> (</span>//[[http://www.ciaonet.org/journals/twq/v32i2/f_0016178_13952.pdf]]//<span style="font-size: 10.6667px;">)</span>//
+**__<span style="color: #000000; font-size: 13.3333px;">With so many possible...</span>__****__<span style="color: #000000; font-size: 14.6667px;"> important geopolitical implications.</span>__**
+
+
+Continuing to Rely On Launches Guarantees Destruction Of The Ozone
+**Science Daily**, “Rocket Launches May Need Regulation To Prevent Ozone Depletion, Says Study”, 4/1/**09**, (http://www.sciencedaily.com/releases/2009/03/090331153014.htm)
+**__<span style="color: #000000; font-size: 10.6667px;">The global market for...</span>__****__<span style="color: #000000; font-size: 14.6667px;">layer resides</span>__****__<span style="color: #000000; font-size: 10.6667px;">, he said.</span>__**
+Must Transition Away From Launches, A Future Of Launces Is Guaranteed To Put The Ozone Over The Brink
+**__<span style="color: #000000; font-size: 14.6667px;">Green Left</span>__**, “Rockets destroying ozone layer, say scientists”19**91**( [[http://www.greenleft.org.au/node/1487]] )
+
+two soviet rocket...to ozone destruction
+
+Extinction
+Tyrrel **__<span style="color: #000000; font-size: 14.6667px;">Smith</span>__** **__<span style="color: #000000; font-size: 14.6667px;">and</span>__** John **__<span style="color: #000000; font-size: 14.6667px;">Daniel</span>__**, Ph.D. TRW Space & Electronics Group, Daniel Pilson Environmental Management Branch, “Summary of the Impact of Launch Vehicle Exhaust and Deorbiting Space and Meteorite Debris on Stratospheric Ozone” 19**__<span style="color: #000000; font-size: 14.6667px;">99</span>__**([[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA414306]])
+
+the ozone layer...also may occur
+
+Ozone Loss Devastates Ocean Ecosystems
+John **__<span style="color: #000000; font-size: 14.6667px;">Leslie</span>__,** professor emeritus at University of Guelph, BA in English Literature, __The End of the World, The Ethics of Human Extinction__ 19**__<span style="color: #000000; font-size: 14.6667px;">96</span>__**
+
+__<span style="color: #000000;">light in the...through in the antartic</span>__
+
+Ocean Ecosystem Destruction Leads To Extinction
+Robin Kundis <span class="cite">__Craig__</span>, Associate Professor of Law at the Indiana University School of Law,“Taking Steps Toward Marine Wilderness Protection? Fishing and Coral Reef Marine Reserves in Florida and Hawaii,” //McGeorge Law Review// (34 McGeorge L. Rev. 155). 20**__<span style="color: #000000; font-size: 14.6667px;">03</span>__**
+
+maintaining biodiversity is...biosphere with us
+
+<span style="font-size: 18.6667px;">Advantage Two is Hegemony</span>
+An All Out Space Race Is Not Inevitable. Logistical Advantages Of Having A Space Elevator Make First Builder’s Dominance Unchallengeable
+Jason R. **__<span style="color: #000000; font-size: 14.6667px;">Kent</span>__**, Center for Strategy and Technology, Air War College. “Getting To Space On A Thread, Space Elevator As Alternative Space Access”. April 20**__<span style="color: #000000; font-size: 14.6667px;">07 </span>__**
+
+**__<span style="color: #000000; font-size: 14.6667px;">the future which..is very real</span>__**
+
+Space Dominance Is Key To Hegemony
+<span style="font-family: 'Arial','sans-serif'; font-size: 13.3333px; text-decoration: none;">United States Department of Defense, “National Security Space Strategy” Unclassified Summery, 2011 (</span>[[http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_Jan2011.pdf|http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_J]][[http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_Jan2011.pdf|an2011.pdf]]<span style="font-size: 13.3333px; text-decoration: none;">)</span>
+during the past...global economic viability
+
+Also Space Elevator is Key To Sustained Dominance In US War Fighting Capabilities
+Jason R. **__<span style="color: #000000; font-size: 14.6667px;">Kent</span>__**, Center for Strategy and Technology, Air War College. “Getting To Space On A Thread, Space Elevator As Alternative Space Access”. April 20**__<span style="color: #000000; font-size: 14.6667px;">07 </span>__**
+
+**__<span style="color: #000000; font-size: 14.6667px;">security means “never...of these missions</span>__**
+
+
+
+<span style="font-family: 'Arial','sans-serif'; font-size: 16px;">That Is Also Key To Heg</span>
+<span style="font-family: 'Arial','sans-serif'; font-size: 14.6667px;">Kim Holmes </span><span style="font-size: 14.6667px;">, Vice President for Foreign and Defense Policy Studies and Director of the Kathryn and Shelby Cullom Davis Institute for International Studies at The Heritage Foundation, “Sustaining American Leadership with Military Power”, June 1, 20</span>**__<span style="color: #000000; font-size: 14.6667px;">09</span>__**<span style="font-size: 14.6667px;"> (</span>[[http://www.heritage.org/Research/Reports/2009/06/Sustaining-American-Leadership-with-Military-Power]]<span style="font-size: 14.6667px;">) </span>
+
+<span style="font-size: 14.6667px;">the consequences of...their future support</span>
+
+impact is global nuclear war
+**__KAGAN, 7__** (Robert, senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)
+
+This is a good...will provide an
+
+Loss of Hegemony results in instability and collapse in the global Economy. The Impact Is Nuclear War.
+<span style="font-size: 14.6667px;">Bradley </span><span class="TagChar">__<span style="color: #000000; font-size: 14.6667px;">Thayer</span>__</span><span style="font-size: 14.6667px;">, Associate Professor at Missouri State University, “American Empire: A Debate”, 20</span><span class="TagChar">__<span style="color: #000000; font-size: 14.6667px;">07</span>__</span><span style="font-size: 14.6667px;"> P.43-44</span>
+
+<span style="font-size: 14.6667px;">economic prosperity is...enjoy economic prosperity</span>
+
+<span style="font-size: 14.6667px;">Solvency</span>
+
+technical costs of an elevator are about $6.5 billion
+Bradley C edwards, Ph.D, The Space elevator NIAC Phase II Final Report (NASA),(3/1/2003)
+
+we have continued...in the past
+
+Space elevators are technologically feasible and will substantially reduce launch costs
+<span style="color: #0d0d0d; font-size: 13.3333px;">Jefferson </span>**__<span style="font-size: 14.6667px;">Morris</span>__****<span style="color: #0d0d0d; font-size: 13.3333px;">, </span>**<span style="color: #0d0d0d; font-size: 13.3333px;">Aerospace Daily and Defense Report, “Scientist: 'Space elevator' feasible because of nanotube advances”, 7/1/</span>**__<span style="font-size: 14.6667px;">04</span>__**
+popular among writers
+
+
+=Negative= 
+===The One Off=== 
+Was It Because The U.S Failed To Reduce Systemic Poverty Resulting In A Loss Of Leadership Which In Turn Plunged The World Into Loos Nuke Chaos
+Senator John **__<span style="color: #000000;">Edwards</span>__**, Spring 2007, Journal of Gender, Race & Justice, “Restoring the American Dream: Fighting Poverty and Strengthening the Middle Class p. 390-1
+
+**__<span style="color: #000000;">Thayer, 07</span>__** – Associate Professor in the Department of Defense and Strategic Studies, Missouri State University (Bradley A., American Empire, Routledge, page 108)
+
+Or Was It Because The US Did Not Make A Quick Enough Transition To Cellulose Based Alternative Energy And Oil Dependence Did Us In
+
+<span style="font-size: 16px;">Schmer et al, Researchers at the US dept of agriculture. 2007</span>
+M.R., PNAS “Net Energy of Cellulosic Ethanol from Switchgrass” November 21st 2007 [[http://www.pnas.org/cgi/content/short/105/2/464]]
+
+<span style="font-size: 16px;">Governors Ethanol Coalition</span>, Bipart group of US and international members, <span style="font-size: 16px;">05</span>
+(Governors’ Ethanol Coalition, “Ethanol from biomass,” April, [[http://www.ethanol-gec.org/GEC_biomass_rept_4-12-05.pdf]], Date accessed: 6/26/08)
+
+Or Was It Because We Elected Obama And He Screwed Up Afghanistan
+Bainbridge, '8
+(Law Prof -- UCLA, [[http://www.stephenbainbridge.com/punditry/comments/credit_where_due/]] )
+
+Herold 2006
+(Marc W., Departments of Economics and Women's Studies Whittemore School of Business & Economics University of New Hampshire. U.S. military strategy to maintain Afghanistan as an 'Empty Space', March 18, [[http://www.cursor.org/stories/emptyspace4.html]])
+
+**<span style="font-size: 16px;">Medler ‘05</span>**
+
+(James D., Senior Risk Analyst with Digital Sandbox, Inc., “Afghan Heroin: Terrain, Tradition, and Turmoil”, Orbis, 49(2), Spring)
+
+**<span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Starr ‘03</span>**
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;"> (S. Frederick, Chair – Central Asia-Caucasus Institute, “Afghanistan: Free Trade and Regional Transformation”, [[http://www.cacianalyst.org/Publications/Starr_Asia_Society_Afghanistan.htm%29|http://www.cacianalyst.org/Publications/Starr_Asia_Society_Afghanistan.htm)]]</span>
+
+
+Friends I Know This Passing Has Grieved You Badly But I Must Insist That Now Is The Time For Morning. Moring Is And Always Was The Only Rational Response To The Perpetual Vulnerability Of The Human Race. Only Through Acknowledging The Grief At Our Own Vulnerability Does The Urge To Destroy And Secure At All Costs Cease To Be a Justification For Limitless Violence.
+Judith __<span style="color: #000000;">Butler</span>__, Precarious life: the powers of mourning and violence, 20__<span style="color: #000000;">04</span>__
+
+What our above performance shows is that fundamentally the affirmative is in a double bind. Because our impacts function in the exact same way as theirs do, they are forced to concede that either: A, our impacts are fundamentally true, we have all died due to multiple nuclear wars, and there is no reason to do the affirmative because in either world we are entirely dead and not doing anything, and we can't be resolved if we're dead anyways, or B, the logic of normative policy debate that informed the construction of the 1AC, the 20 nuclear war impacts a round is empirically flawed beyond repair. The ever presence of apocalyptic rhetoric means it ceases to have any meaning, meaning there case doesn’t count for anything.
+
+Coviello 00 - Assistant Professor of English @ the Bowdoin College
+[Peter, Queer Frontiers: Millennial Geographies, Genders, and Generations. "Apocalypse from Now On."]
+
+Debate has become fixated on improbable extinction scenarios that aren't considered in any form by the scholarly community just for the purpose of impact debate
+**Odekirk**, Scott, (debate coach at Idaho Satate and author of puttingthekindebate.com), “Impact Hyperbole: A dilemma of contemporary debate practice”, 8/26/**10**, [[http://puttingthekindebate.com/2010/08/26/impact-hyperbole-a-dilemma-of-contemporary-debate-practice/]]
+
+
+Impact hyperbole leads to poor scholarship, no real world education which spills into poor policy decisions in general, and leads to Darwinian nihilism.
+
+**Odekir__<span style="color: #000000;">k</span>__**, Scott, (debate coach at Idaho Satate and author of puttingthekindebate.com and candidate for city council of poticello), “Impact Hyperbole: A dilemma of contemporary debate practice”, 8/26/10, [[http://puttingthekindebate.com/2010/08/26/impact-hyperbole-a-dilemma-of-contemporary-debate-practice/]]
+
+**This ultimately makes us crappy advocates whatever we do. When we focus on large nuclear impacts we then ignore actual suffering that happens, and even begin to cheer it because we are caught up in competition trying to find evidence for reasons to do or not to do the plan.**
+
+No Specific Author Given. **University of Louisville Debate.** Constructing an Ethical Policy Debate System for a Multicultural Democracy. **NDG**. (sites book passage from 1991). [[http://webcache.googleusercontent.com/search?q=cache:6ZRwwstI3mMJ:l]] ouisvi lledebate.wordpress.com/2008/08/30/ethical-policy-deb ate-for-a-multicultural-democracy/+nuclear+impacts+policy+debate+%22university+of+louisville%22&cd=1&hl=en&ct=clnk&gl=us
+
+Getting hit with a continuous stream of nuclear impacts actually has the opposite effect that their framework arguments will suggest. It in fact creates a sense of inevitability towards impacts which make advocacy seem futile.
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.6667px;"> (</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) </span><span style="font-size: 10.6667px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“ </span>
+
+
+**<span style="font-size: 16px;">At best you create warhawks who are less capable of making informed decisions about issues of security and are substantially more likely to commit to force.</span>**
+
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.6667px;"> (</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) </span><span style="font-size: 10.6667px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“ </span>
+
+
+**<span style="font-size: 16px;">Prefer our evidence because it is specific to the effect of their representations on high school students.</span>**
+
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.6667px;"> (</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) </span><span style="font-size: 10.6667px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span><span style="font-family: 'Helvetica','sans-serif'; font-size: 10.6667px;">, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“ </span>
+
+
+== == 
+==virilio== 
+[[include page="space.template.Footer"]]
+First Is Links. The AFFs uncritical narrative of technological progress masks the power relations that underscore the execution and effect of the plan. The modern orientation to technology is one that demands the creation of a technocratic elite who undemocratically control every aspect of the plan and its effect on the body politic. This process further shrinks and consolidates all politics under a singular global empire of speed, the fullest forum of modern totalitarianism.
+
+**__<span style="color: #000000; font-size: 13.3333px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+
+**__<span style="font-size: 14.6667px;">If the political body </span>__**mediatization of digital being.
+The AFFs positing of space as the realm of earths salvation is the ultimate act of surrender to global technocracy. Increasing our terrestrial reliance in space results in the further alienation of the citizenry from the processes, both political and technological, that govern their lives.
+
+**__<span style="font-size: 13.3333px;">Adams, 03 </span>__**(Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)
+Thus **__<span style="font-size: 14.6667px;">speed</span>__**
+Next, we will isolate three impacts.
+
+The consolidation of politics under a singular empire of speed and the subsequent removal of the polis from politics turns all humanity into slaves of the technological empire. Weather they die in migrant labor camps or killed in wars for oil to feed machines the violence of this enslavement is the truest forum of the effect of the AFFs narrative of technology on politics.
+**__<span style="color: #000000; font-size: 13.3333px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+
+**__<span style="font-size: 14.6667px;">The </span>__**d on a global scale.
+Second. With the transformation of all politics into a singular empire of speed comes the certainty of the global accident. It is the specific act of making individual pieces of technology responsible for all human welfare and linking the world together in such a way that the failure of this technology spells the end of humanity, that the conditions for extinction are created.
+**__<span style="font-size: 14.6667px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+
+It certainly is true that **__<span style="font-size: 14.6667px;">totally discovered planetary habitat</span>__**".
+
+Third. The consolidation of politics into the global empire of speed is accompanied by the collapsing of all civilian space into military space. All the world is accessible to all and thus the empire must defend itself by holding the world hostage by maintaining permanent state of war.
+**__<span style="font-size: 14.6667px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+Clearly then, **__<span style="color: #000000; font-size: 14.6667px;">the 'peace' </span>__**the advent of deterrence.
+The Alternative is to resist the Empire of Speed and slow down – only through the 'resistance of the brake' can the continuous acceleration of the Speed body be prevented, allowing for real Democracy
+**__<span style="color: #000000; font-size: 13.3333px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+Along with that which it resists, 
+**__<span style="font-size: 13.3333px;">on the information superhighways</span>__**".235
+The alternative is a critical starting point for recapturing the democratic potential of technology. We must politicize the narrative of technological progress in order to regain any control over technology and politics at all.
+**__<span style="font-size: 13.3333px;">Adams, 03 </span>__**(Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)
+<span style="color: #000000; font-family: Times-Roman;">Just as we have </span>**__<span style="color: #000000; font-size: 13.3333px;">ever occurring at all."</span>__**
+The debate round is a crucial starting point for this. We as individuals, as members of the proletariat, as debaters ad judges in the open space of the polis that is policy debate must reject the narrative of theological progress to regain a mode of politics where the discusions of policy makers are relevant.
+
+**__<span style="color: #000000; font-size: 13.3333px;">Adams, 03</span>__**<span style="color: #000000; font-family: Times-Roman;"> (Jason, Masters Political Science, Popular Defense in the Empire of Speed: Paul Virilio and the Phenomenology of the Political Body,” November 2003)</span>
+<span style="color: #000000; font-family: Times-Roman;">Thus we can see that for Virilio </span>**__<span style="color: #000000; font-size: 13.3333px;">On the wrong turns taken by urbanism? On the obverse side of technical progress?"</span>__**<span style="color: #000000; font-family: Times-Roman;">.'8 </span>
+
+<span style="display: block; font-size: 14pt; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Plan: the United States Air Force should develop and implement a space elevator capable of reaching geosynchronous orbit</span>
+<span style="display: block; font-size: 14pt; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Contention 1 Is Inherency</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="Underlined">The technology for a space elevator will be ready by 2013</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="SpeedCites">The Economist,</span><span class="Underlined"> Waiting for the Space Elevator, (6/8/</span><span class="SpeedCites">06</span><span class="Underlined">)</span></span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="Underlined">for decades science-fiction writers...long wait until it arrives</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> If we start now, we can have a space elevator built within 15 years</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Bradley **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Edwards</span>__</span>**, Director of Research-Institute for Scientific Research, “Interview of Brad Edwards - Space Elevator Expert by Sander Olson”, Next Big Future, 12/1/**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">09</span>__</span>**, [[http://nextbigfuture.com/2009/12/interview-of-brad-edwards-space.html]]</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="font-size: 9.5pt;">Given sufficient funding...space-based industry.</span></span></span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Space Elevator Construction is Inevitable, Only A Question of Who Gets There First </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> J. **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Overton</span>__</span>**, The Future Research Quarterly,“The Space Elevator: Scenario’s For National Security Decision Makers”, Summer **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">07</span>__</span>**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="color: black; font-size: 11.0pt;">Although NASA has...primarily by the US government.</span></span></span>
+<span style="display: block; font-size: 14pt; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Contention Two Is Advantages. Advantage One Is Launches </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> There will be a 47 percent increase in satellite launches over the next 10 years if we don't take action </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Peter **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">de Selding</span>__</span>**, Reporter For Space.com, “Satellite Communications Market Weathers Troubled Economy”, Space.com, 3/16/20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">09</span>__</span>** (http://www.space.com/6416-satellite-communications-market-weathers-troubled-economy.html)</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="color: black; font-size: 9.5pt;">A 10-year forecast of satellite...<span style="background: yellow;">ending in 2008</span></span></span></span>
+<span style="display: block; font-size: 14pt; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> We Will Isolate Two Scenarios. Scenario One is Debris</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Launches Are The Major Cause Of Space Debris. </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Thierry **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Senechal</span>__</span>**, Policy Manager of the Commission on Banking Technique and Practice at the International Chamber of Commerce, “Space Debris Pollution: A conventional Proposal” 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">07 </span>__</span>**(http://www.pon.org/downloads/ien16.2.Senechal.pdf)</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="background: yellow; color: black; font-size: 11.0pt;">Debris in space is...</span><span style="color: black; font-size: 11.0pt;">orbital debris population. </span></span></span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Increased debris Risks Tipping Point </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Thierry **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Senechal</span>__</span>**, Policy Manager of the Commission on Banking Technique and Practice at the International Chamber of Commerce, “Space Debris Pollution: A conventional Proposal” 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">07 </span>__</span>**(http://www.pon.org/downloads/ien16.2.Senechal.pdf)</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="color: black; font-size: 11.0pt;">We have reached ...among a few countries. </span></span></span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **Space Debris Causes Russian Miscalc and Nuclear War**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Jeffrey **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Lewis,</span>__</span>** postdoctoral fellow in the Advanced Methods of Cooperative Security Program at the Center for International and Security Studies at the University of Maryland School of Public Policy. “WHAT IF SPACE WERE WEAPONIZED?” July 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">04</span>__</span>** (http://www.cdi.org/PDFs/scenarios.pdf]**<span style="mso-bidi-font-weight: normal;">)</span>**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="color: black; font-size: 11.0pt;">This section focuses...<span style="background: yellow;">be quite destabilizing. </span></span></span></span>
+
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> That Causes Extinction </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Morton **<span style="mso-bidi-font-weight: normal;">Mintz</span>** [former chair of the Fund for Investigative Journalism and a former Washington Post reporter, The American Prospect, Two Minutes to Launch, 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">01</span>__</span>**([[http://www.prospect.org/cs/articles?article=two_minutes_to_launch]])</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2"><span style="background: yellow; color: black; font-size: 11.0pt;">In no more ...</span>__<span style="background: yellow; color: black; font-size: 11.0pt;">checklist, by rote.”</span>__</span></span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Debris causes Economic Collapse by Making Vital Space Infrastructure Unworkable </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span style="font-size: 10.0pt; font-weight: normal; mso-bidi-font-size: 12.0pt;">Megan</span> __<span style="color: black;">Ansdell</span>__ <span style="font-size: 10.0pt; font-weight: normal; mso-bidi-font-size: 12.0pt;">PhD Candidate @ GWU, Active Space Debris Removal,” Princeton Publications,</span> ‘__<span style="color: black;">10</span>__ ([[http://www.princeton.edu/jpia/past-issues-1/2010/Space-Debris-Removal.pdf]])</span>
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="highlight2">__<span style="background: yellow; color: black; font-size: 11.0pt;">Although the probability...</span>__<span style="background: yellow; color: black; font-size: 11.0pt;">and global communications </span></span></span>
+
+
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Any Solvency For The Economy Is Only Temporary. Debris Makes Space Inhospitable For Satellites, Guarantees Economic Collapse In The Long Run. </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Jinyuan **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Su</span>__</span>**, The Silk Road Institute of International and Comparative Law, School of Law, Xi'an Jiaotong University. “Towards an effective and adequately verifiable PPWT”. Space Policy Volume 26, Issue 3, August 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">10</span>__</span>**.. </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Today around 21,000... or severally, to the third</span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Nuclear War and Extinction</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Mathew J. **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Burrows</span>__</span>** **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">and</span>__</span>** Jennifer **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Harris</span>__</span>** //<span style="font-style: normal;">PhD European History @ Cambridge, counselor in the National Intelligence Council (NIC) & member of the NIC’s Long Range Analysis Unit</span>// //“Revisiting// //<span style="font-size: 8.0pt;">the Future: Geopolitical Effects of the Financial Crisis” 20</span>////**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 8pt; font-style: normal;">09</span>__</span>**////<span style="font-size: 8.0pt;"> (</span>//[[http://www.ciaonet.org/journals/twq/v32i2/f_0016178_13952.pdf]]//<span style="font-size: 8.0pt;">)</span>//</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 10pt;">With so many possible...</span>__</span>****<span style="mso-bidi-font-weight: normal;">__<span style="background: none repeat scroll 0% 0% yellow; color: black; font-size: 11pt;"> important geopolitical implications.</span>__</span>** </span>
+
+
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; text-indent: 0.5in; top: -25px; width: 1px;"> Continuing to Rely On Launches Guarantees Destruction Of The Ozone</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">Science Daily</span>**, “Rocket Launches May Need Regulation To Prevent Ozone Depletion, Says Study”, 4/1/**<span style="mso-bidi-font-weight: normal;">09</span>**, (http://www.sciencedaily.com/releases/2009/03/090331153014.htm)</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="background: none repeat scroll 0% 0% yellow; color: black; font-size: 8pt;">The global market for...</span>__</span>****<span style="mso-bidi-font-weight: normal;">__<span style="background: none repeat scroll 0% 0% yellow; color: black; font-size: 11pt;">layer resides</span>__</span>****<span style="mso-bidi-font-weight: normal;">__<span style="background: none repeat scroll 0% 0% yellow; color: black; font-size: 8pt;">, he said.</span>__</span>**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; page-break-before: always; position: absolute; top: -25px; width: 1px;"> Must Transition Away From Launches, A Future Of Launces Is Guaranteed To Put The Ozone Over The Brink</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Green Left</span>__</span>**<span style="mso-bidi-font-family: Arial;">, “Rockets destroying ozone layer, say scientists”19**<span style="mso-bidi-font-weight: normal;">91</span>**( </span>[[http://www.greenleft.org.au/node/1487]]<span style="mso-bidi-font-family: Arial;"> )</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> two soviet rocket...to ozone destruction</span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Extinction </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Tyrrel **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Smith</span>__</span>** **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">and</span>__</span>** John **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Daniel</span>__</span>**, Ph.D. TRW Space & Electronics Group, Daniel Pilson Environmental Management Branch, “Summary of the Impact of Launch Vehicle Exhaust and Deorbiting Space and Meteorite Debris on Stratospheric Ozone” 19**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">99</span>__</span>**([[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA414306]]) </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> the ozone layer...also may occur</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Ozone Loss Devastates Ocean Ecosystems</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> John **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Leslie</span>__, </span>**professor emeritus at University of Guelph, BA in English Literature, __The End of the World, The Ethics of Human Extinction__ 19**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">96</span>__</span>**</span>
+
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> __<span style="color: black;">light in the...through in the antartic</span>__</span>
+
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Ocean Ecosystem Destruction Leads To Extinction</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Robin Kundis <span class="cite">__<span style="mso-bidi-font-family: Arial;">Craig</span>__</span>, Associate Professor of Law at the Indiana University School of Law,“Taking Steps Toward Marine Wilderness Protection? Fishing and Coral Reef Marine Reserves in Florida and Hawaii,” //<span style="mso-bidi-font-style: normal;">McGeorge Law Review</span>// (34 McGeorge L. Rev. 155). 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">03</span>__</span>**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> maintaining biodiversity is...biosphere with us</span>
+<span style="display: block; font-size: 14pt; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Advantage Two is Hegemony</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> An All Out Space Race Is Not Inevitable. Logistical Advantages Of Having A Space Elevator Make First Builder’s Dominance Unchallengeable </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Jason R. **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Kent</span>__</span>**, Center for Strategy and Technology, Air War College. “Getting To Space On A Thread, Space Elevator As Alternative Space Access”. April 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">07 </span>__</span>**</span>
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">the future which..is very real</span>__</span>**</span>
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Space Dominance Is Key To Hegemony</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="Underline">United States <span style="background: yellow;">D</span>epartment <span style="background: yellow;">o</span>f <span style="background: yellow;">D</span>efense, “National Security Space Strategy” Unclassified Summery, 20<span style="background: yellow;">11</span> (</span>[[http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_Jan2011.pdf|http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_J]][[http://www.defense.gov/home/features/2011/0111_nsss/docs/NationalSecuritySpaceStrategyUnclassifiedSummary_Jan2011.pdf|an2011.pdf]]<span style="font-size: 10.0pt; font-weight: normal; text-decoration: none; text-underline: none;">)</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> during the past...global economic viability</span>
+<span style="display: block; height: 1px; left: -40px; margin-right: 0.2in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Also Space Elevator is Key To Sustained Dominance In US War Fighting Capabilities </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Jason R. **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">Kent</span>__</span>**, Center for Strategy and Technology, Air War College. “Getting To Space On A Thread, Space Elevator As Alternative Space Access”. April 20**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">07 </span>__</span>**</span>
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">security means “never...of these missions</span>__</span>**</span>
+
+
+
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; page-break-before: always; position: absolute; top: -25px; width: 1px;"> <span class="cite">That Is Also Key To Heg</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="cite">Kim Holmes </span><span style="font-size: 11.0pt; mso-bidi-font-family: Arial;">, V<span class="apple-style-span"><span style="mso-bidi-font-style: italic;">ice President for Foreign and Defense Policy Studies and Director of the Kathryn and Shelby Cullom Davis Institute for International Studies at The Heritage Foundation, “Sustaining American Leadership with Military Power”, </span></span>June 1, 20</span>**<span style="mso-bidi-font-weight: normal;">__<span style="color: black; font-size: 11pt;">09</span>__</span>**<span class="apple-style-span"><span style="font-size: 11.0pt; mso-bidi-font-family: Arial; mso-bidi-font-style: italic;"> (</span></span>[[http://www.heritage.org/Research/Reports/2009/06/Sustaining-American-Leadership-with-Military-Power]]<span style="font-size: 11.0pt; mso-bidi-font-family: Arial;">) </span></span>
+<span style="display: block; font-size: 11pt; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> the consequences of...their future support</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> impact is global nuclear war </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> **<span style="mso-bidi-font-weight: normal;">__<span style="mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;">KAGAN, 7</span>__</span>**<span style="mso-bidi-font-family: Arial;"> (Robert, senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> This is a good...will provide an</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Loss of Hegemony results in instability and collapse in the global Economy. The Impact Is Nuclear War. </span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="TagChar"><span style="font-size: 11.0pt;">Bradley </span>__<span style="color: black; font-size: 11pt;">Thayer</span>__<span style="font-size: 11.0pt;">, Associate Professor at Missouri State University, “American Empire: A Debate”, 20</span>__<span style="color: black; font-size: 11pt;">07</span>__<span style="font-size: 11.0pt;"> P.43-44</span></span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="TagChar"><span style="font-size: 11.0pt;">economic prosperity is...enjoy economic prosperity</span></span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span class="TagChar"><span style="font-size: 11.0pt;">Solvency</span></span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> technical costs of an elevator are about $6.5 billion</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Bradley C edwards, Ph.D, The Space elevator NIAC Phase II Final Report (NASA),(3/1/2003)</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> we have continued...in the past</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> Space elevators are technologically feasible and will substantially reduce launch costs </span>
+<span style="display: block; height: 1px; left: -40px; margin-left: 0in; overflow: hidden; position: absolute; top: -25px; width: 1px;"> <span style="color: #0d0d0d; font-size: 10.0pt; mso-bidi-font-family: Arial;">Jefferson </span>**<span style="mso-bidi-font-weight: normal;">__<span style="font-size: 11pt;">Morris</span>__</span>****<span style="color: #0d0d0d; font-size: 10pt;">, </span>**<span style="color: #0d0d0d; font-size: 10.0pt; mso-bidi-font-family: Arial;">Aerospace Daily and Defense Report, “Scientist: 'Space elevator' feasible because of nanotube advances”, 7/1/</span>**<span style="mso-bidi-font-weight: normal;">__<span style="font-size: 11pt;">04</span>__</span>**</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;"> popular among writers</span>

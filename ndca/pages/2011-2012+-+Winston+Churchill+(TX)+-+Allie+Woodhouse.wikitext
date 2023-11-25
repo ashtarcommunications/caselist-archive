@@ -1,0 +1,22 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+Aff disclosure can be accessed through this public dropbox link - 
+http://dl.dropbox.com/u/10395999/Aff%20Disclosure.docx
+
+==Negative== 
+Neg disclosure can be accessed through this public dropbox link - http://dl.dropbox.com/u/10395999/Neg%20Disclosure.docx
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

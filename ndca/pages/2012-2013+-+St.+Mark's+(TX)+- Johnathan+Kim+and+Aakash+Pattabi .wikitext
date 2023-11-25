@@ -1,0 +1,19 @@
+[[toc]]
+=Information= 
+
+==Formatting== 
+
+We've decided that posting cites in downloadable Microsoft Word documents is easier than copy/pasting cards on to the Wiki. The 1AC and 1NC shells will all be posted in full text on the wiki, but extension evidence, 2AC evidence, etc. will be posted under their respective headings as downloadable content. Please email Aakash if you have any trouble accessing cites in this format.
+
+==Contact== 
+
+Neg cites: Aakash Pattabi at aakash.pattabi.debate@gmail.com
+
+Aff cites: Johnathan Kim at jkimsmdebate@gmail.com
+
+=Affirmative= 
+
+=Negative= 
+
+
+[[include page="space.template.Footer"]]

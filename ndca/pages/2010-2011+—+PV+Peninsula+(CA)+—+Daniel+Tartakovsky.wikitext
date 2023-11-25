@@ -1,0 +1,20 @@
+Email: [[mailto:PeninsulaLD@gmail.com|PeninsulaLD@gmail.com ]] for questions/cites, [[@mailto:dtartakov@gmail.com|dtartakov@gmail.com]] to contact me personally. 
+
+[[toc]]
+=<span style="font-size: 1.6em;">September-October</span>= 
+==<span style="font-size: 1.4em;">Affirmative</span>== 
+==<span style="font-size: 1.4em;">Negative</span>== 
+
+=<span style="font-size: 1.6em;">November-December</span>= 
+==<span style="font-size: 1.4em;">Affirmative</span>== 
+==<span style="font-size: 1.4em;">Negative</span>== 
+
+=<span style="font-size: 1.6em;">January-February</span>= 
+==<span style="font-size: 1.4em;">Affirmative</span>== 
+==<span style="font-size: 1.4em;">Negative</span>== 
+
+=<span style="font-size: 1.6em;">March-April</span>= 
+==<span style="font-size: 1.4em;">Affirmative</span>== 
+==<span style="font-size: 1.4em;">Negative</span>== 
+
+[[include page="space.template.Footer"]]

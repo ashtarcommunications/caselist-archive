@@ -1,0 +1,494 @@
+=Requests?= 
+Aff requests brebri1@nths219.org
+Neg requests vinpat1@nths219.org
+[[toc]]
+=1AC Wake (Port Security)= 
+==Plan Text== 
+The United States federal government should substantially increase its funding for port security.
+==Contention 1 is Inherency== 
+Recent cuts leave port security vulnerable – we don’t have the funds to expand and adapt to problems
+<span style="font-size: 13pt;">AAPA 3/7</span>[American Association of Port Authorities], (“Maritime Security”, [[http://aapa.files.cms-plus.com/Maritime%20Security%202012.pdf]], 3/7/12)
+<span class="StyleBoldUnderline">AAPA urges Congress to continue ...</span><span style="font-size: 7pt;"> at the federal level.</span>
+
+
+==Contention 2 is Terrorism== 
+===Scenario 1 is Weapons of Mass Destruction=== 
+Cargo is the most probable method of attack for nuclear weapons
+<span style="font-size: 13pt;">NYT 6/26</span> (New York Times news service, includes opinions from: Stephen Flynn, President of the Center for National Policy and CISAC Consulting Professor at Stanford and Graham T. Allison, Harvard political scientist, “Cargo, the Terrorists’ Trojan Horse”, http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html)
+MILLIONS of cargo containers are unloaded<span style="font-size: 8pt;"> ... no longer risk such delays.</span>
+
+Delays only magnify the impact – terrorists are focusing on nukes now
+<span style="font-size: 13pt;">Calvan 12 </span><span style="font-size: 8pt;">(Bobby, Boston Globe Staff and former foreign reporting fellow with the D.C.-based International Center for Journalists, “US to miss target for tighter port security”, Boston Globe, 6/12/12, [[http://articles.boston.com/2012-06-12/nation/32176427_1_homeland-security-cargo-containers-nuclear-bomb/3]])</span>
+<span style="font-size: 8pt;">The Department of Homeland Security ...</span><span class="StyleBoldUnderline"> radioactive explosives called “dirty bombs.’</span><span style="font-size: 8pt;">’</span><span style="font-size: 6pt;">¶</span>
+
+Nuclear terrorism leads to extinction
+<span style="font-size: 13pt;">Ahmed 4</span> (Mohamed Sid, political analysis, Extinction!, Al-Abram Weekly Online, August 26 – September 1, [[http://weekly.ahram.org.eg/2004/705/op5.htm|__http://weekly.ahram.org.eg/2004/705/op5.htm__]], ME)
+A nuclear attack by terrorists ... planet, we will all be losers.
+
+Even if the attack fails it causes Russia and China war
+<span style="font-size: 13pt;">Ayson 10</span> (Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington,“After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)
+<span style="font-size: 8pt;">A terrorist nuclear attack, and even ... </span>the chances of nuclear restraint.
+
+Status quo security allows for easy smuggling of bio-weapons through ports
+<span style="font-size: 13pt;">GSN 9</span> (Global Security Newswire, news service focused on global security threats, produced by National Journal, “Customs and Border Protection Faulted for Preparation Against Bio, Chem Threats”, [[http://www.nti.org/gsn/article/customs-and-border-protection-faulted-for-preparation-against-bio-chem-threats/]]. 11/3/9)
+<span style="font-size: 6pt;">¶</span>The inspector general for the U.S...<span style="font-size: 8pt;"> Science and Transportation Committee release, Nov. 2)</span>
+
+That causes extinction
+<span style="font-size: 13pt;">Ochs 2</span> – MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park [Richard, “BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html]
+<span style="font-size: 8pt;">Of all the weapons of mass destruction, ... plagues? HUMAN EXTINCTION IS NOW POSSIBLE.</span>
+
+New U.S. nuclear policies aren’t stable – a biological attack ensures widespread nuclear retaliation
+<span style="font-size: 13pt;">Potter 10</span> (William Potter, Sam Nunn and Richard Lugar Professor of Nonproliferation Studies and Director of the James Martin Center for Nonproliferation Studies at the Monterey Institute of International Studies (MIIS), author or editor of seventeen books, including Nuclear Power and Nonproliferation, Dismantling the Cold War, and the Four Faces of Nuclear Terrorism. serves on the Nonproliferation Panel of the U.S. National Academy of Sciences Committee on International Security and Arms Control, member of the Council on Foreign Relations and served for five years on the UN Secretary-General’s Advisory Board on Disarmament Matters, member of the International Advisory Board of The Center for Policy Studies in Russia, advisor to the delegation of Kyrgyzstan at the 1995 NPT Review and Extension Conference and the 1997, 1998, 1999, 2002, 2003, 2004, 2007, 2008, and 2009 sessions of the NPT Preparatory Committee, as well as at the 2000 and 2005 NPT Review Conferences, Winter 2010, “In Search of the Nuclear Taboo: Past, Present, and Future”, cns.miis.edu/other/potter_william_100115_IFRI_pp31.pdf)
+<span style="font-size: 7pt;">In the case of the United States, the </span>...<span style="font-size: 7pt;"> retaliate; it </span><span style="font-size: 6pt;">¶</span><span style="font-size: 7pt;"> creates a commitment”.</span>
+===Scenario 2 is Maritime Power=== 
+A port attack shuts down naval power
+**Watts 5** <span style="font-size: 8pt;">[CDR Bob Watts is a 1985 graduate of the U.S. Coast Guard Academy and has served six tours at sea conducting drug/migrant operations, most recently commanding the USCGC STEADFAST (WMEC 623). He is currently assigned as the chief of drug and migrant interdiction at Coast Guard Headquarters, where his responsibilities include drafting migrant policy and strategy, including planning for mass migration. A 2006 graduate of the Naval Postgraduate School’s Center for Homeland Defense and Security, he has advanced degrees from the Naval War College, Old Dominion University, American Military University, and is a doctoral candidate at </span><span style="font-size: 7pt;">coastline and 3.4 million square miles of territorial seas and exclusive economic zones in the U.S. maritime domain. </span>
+<span style="font-size: 7pt;">1 </span>__Connecting the continental United ...__ <span style="font-size: 7pt;"> we learn from the experience? </span>
+
+Unimpeded access to all ports is critical to operation
+<span style="font-size: 13pt;">Talor et al. 7</span> (Bruce Taylor director of research at the Police Executive Research Forum (PERF) in Washington, D.C; Antony Pate Bruce Kubu;) Protecting America’s Ports: Promising Practices A Final Report Submitted https://www.ncjrs.gov/pdffiles1/nij/grants/221075.pdf
+The<span style="font-size: 8pt;"> U.S. </span>Navy has considerable assets ...<span style="font-size: 8pt;"> on already overburdened airlift resources. </span>
+
+Maritime power solves all war – deters conflict and ensures defense
+<span style="font-size: 13pt;">Whiteneck and Clark 11</span> (Commander Bryan Clark U.S. Navy (Retired) and Dr. Dan Whiteneck, “Strategic Choices at the Tipping Point”, Proceedings Magazine - February 2011 Vol. 137/2/1,296)
+<span style="font-size: 7pt;">In light of global economic and strategic ... will indeed be at a “tipping point.”</span>
+
+===Scenario 3 is Military Power=== 
+Ports are key to overall military power – readiness and efficiency
+**AAPA Seaports 3**<span style="font-size: 8pt;"> U.S. ports essential to war cargo efforts Rail infrastructure demands funding [[http://www.aapaseaports.com/pdf_issues/AAPASeaports_Fall2003.pdf]]</span>
+__Vital national efforts such as ...__<span style="font-size: 7pt;"> facilitate deployment planning and execution. </span>
+
+That solves great power war – empirics prove that multipolarity only causes more war
+**Kagan 12**<span style="font-size: 8pt;">[Robert Kagan, Senior Fellow at the Brookings Institute, B.A., Yale University, M.P.P., John F. Kennedy School of Government, Harvard University, Ph.D., American University, March 14, 2012, “America Has Made the World Freer, Safer and Wealthier”, Brookings Institute, [[http://www.brookings.edu/research/opinions/2012/03/14-us-power-kagan]], DMintz]</span>
+<span style="font-size: 8pt;">We take a lot for granted about ... the American order came into being.</span>
+==Contention 3 is the Economy== 
+Any type of port terror attack causes immediate shut down – that decimates the economy
+<span style="font-size: 13pt;">Flynn 3</span> (Written Testimony before a hearing of the U.S. Senate Governmental Affairs Committee Stephen E. Flynn, Ph.D. a terrorism expert at Northeastern University and former Commander of the U.S. Coast Guard, and a Jeane J. Kirkpatrick Senior Fellow in National Security Studies, and Director of the Council on Foreign Relations Independent Task Force on Homeland Security Imperatives, 3/20/03, “The Fragile State of Container Security”, [[http://www.cfr/|www.cfr]].org/defensehomeland-security/fragile-state-container-security/p5730)
+<span style="font-size: 7pt;">Chairperson Collins, Senator Lieberman, and distinguished ...</span><span style="font-size: 11pt;"> that make up international trade.</span>
+
+Attacks don’t need to be successful - perception of port disruption alone will shock the economy and international confidence
+**Clark et al. 7**. (CAPT Bruce G. Clark, USCGR (ret) Director of Maritime Security Projects, Maritime Security Directorate Dept. of Sponsored Projects & Extended Learning -The California Maritime Academy. Dr. Donna J. Nincic , Associate Professor and Chair-Department of Global and Maritime Studies of The California Maritime Academy. CAPT Nevin Fidler, USCGR (ret) Maritime Security Directorate Dept. of Sponsored Projects & Extended Learning-The California Maritime Academy-The California State University. “Protecting America’s Ports: Are We There Yet?” 10/7)
+<span style="font-size: 8pt;">Why? Because</span><span class="StyleBoldUnderline">, in this new ...</span><span style="font-size: 8pt;"> of any counter-terrorism plan.</span>
+
+Economic decline causes war and miscalculation
+<span style="font-size: 13pt;">Royal 10</span> — Jedidiah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, M.Phil. Candidate at the University of New South Wales, 2010 (“Economic Integration, Economic Signalling and the Problem of Economic Crises,” //Economics of War and Peace: Economic, Legal and Political Perspectives//, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, ISBN 0857240048, p. 213-215)
+<span style="font-size: 8pt;">Less intuitive is how periods of </span>...<span style="font-size: 8pt;"> considered ancillary to those views.</span>
+
+
+
+Investments in port security have been catalysts for job creation and economic prosperity—facilitate commerce and contribute to national economic growth
+**PR Newswire 11**(American Association of Port Authorities, “10 Years After 9/11, Security Still a Top Priority of U.S. Ports” 6/19/12 Lexis 6/19/12)
+<span style="font-size: 8pt;">Since 9/11, the Port Security Grant Program ... </span>local, regional __and national economic growth__<span style="font-size: 8pt;">.</span>
+
+
+==Contention 4 is Solvency== 
+Bolstering security infrastructure at ports via the PSGP is key to solve
+<span style="font-size: 13pt;">Holmes 12</span><span style="font-size: 8pt;">(John M., Deputy Executive Director of Operations Port of Los Angeles, Testimony Before The United States House of Representatives, Appropriations Committee, Subcommittee on Homeland Security, “Budget Hearing - Federal Emergency Management Agency –Director and State & Local Witnesses” [[http://appropriations.house.gov/uploadedfiles/hhrg-112-ap15-jholmes-20120307.pdf]])</span>
+<span style="font-size: 8pt;">Since 9/11, port security has ... a result of grant funding reductions.</span>
+
+= = 
+
+=1AC Port Security (New Trier)= 
+
+
+
+
+
+==Plan Text== 
+
+Plan: The United States federal government should substantially increase its funding of port security.
+
+
+
+
+
+==Contention 1 is Terrorism== 
+
+
+
+Recent cuts leave port security vulnerable – we don’t have the funds to expand and adapt to problems
+
+<span style="font-size: 13pt;">AAPA 3/7</span><span style="font-size: 12pt;"> [American Association of Port Authorities], (“Maritime Security”, [[http://aapa.files.cms-plus.com/Maritime%20Security%202012.pdf]], 3/7/12)</span>
+
+<span style="font-size: 12pt;">A</span><span style="font-size: 8pt;">APA urges Congress to continue ...should remain </span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> at the federal level.</span>
+
+
+
+Terrorists are already stealing the material for nukes now – it’s not a question of IF, but WHEN the attack will occur
+
+<span style="font-size: 13pt;">NPR 3/26</span> (Quoting: Matthew Bunn, associate professor at Harvard University's John F. Kennedy School of Government, “Report Examines Effort To Secure Loose Nukes”, [[http://www.npr.org/2012/03/26/149411800/report-examines-effort-to-secure-loose-nukes]], 3/26/12)
+
+<span style="font-size: 7pt;">As Mike Shuster said a moment ... chunk of this highly enriched uranium.</span><span style="font-size: 6pt;">¶</span>
+
+
+
+
+
+
+Attack is on the brink – anti-Muslim video
+
+<span style="font-size: 13pt;">Ephron 9-15</span> (Dan Ephron has been Newsweek's Jerusalem bureau chief since January 2010. Previously, he served as a national-security correspondent and deputy bureau chief for the magazine in Washington. His stories have also appeared in The Boston Globe, The New Republic, and Esquire. “As Muslims Protest, America Is on Alert” http://www.thedailybeast.com/articles/2012/09/15/as-muslims-protests-america-is-on-alert.html)
+
+<span class="StyleBoldUnderline">The bodies of</span><span style="font-size: 7pt;"> Ambassador Christopher </span><span class="StyleBoldUnderline">Stevens ...</span><span style="font-size: 7pt;"> posing the threat of greater violence.</span>
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">And – Put away all of your Terrorism defense - The nuclear motivation is there; acquisition and delivery are easy (read round 4 and 6)</span>
+
+**__<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">Bunn</span>__**<span class="styleboldunderline0">__<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">, 20</span>__</span>**__<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">10</span>__** <span style="background-color: white;">(Matthew, Associate Professor of Public Policy at the Belfer Center for Science and International Affairs at the John F. Kennedy School of Government, Harvard, “Securing the Bomb 2010,” Project on Managing the Atom, Belfer Center, April,</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 8pt;">[[http://www.nti.org/e_research/Securing_The_Bomb_2010.pdf]]</span><span style="background-color: white;">)</span>
+
+<span style="font-size: 7pt;"> Complacency about the threat is ...</span><span style="font-size: 6pt;">r stolen nuclear material informing the police. 19</span>
+
+Cargo is the most probable method of attack for nuclear weapons
+
+<span style="font-size: 13pt;">NYT 6/26</span><span style="font-size: 12pt;"> (New York Times news service, includes opinions from: Stephen Flynn, President of the Center for National Policy and CISAC Consulting Professor at Stanford and Graham T. Allison, Harvard political scientist, “Cargo, the Terrorists’ Trojan Horse”, http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html)</span>
+
+<span style="font-size: 12pt;">MILLIONS of cargo containers are ...</span><span style="font-size: 8pt;"> no longer risk such delays.</span>
+
+
+Delays only magnify the impact – terrorists are focusing on nukes now
+
+<span style="font-size: 13pt;">Calvan 12 (Bobby, Boston Globe Staff and former foreign reporting fellow with the D.C.-based International Center for Journalists, “US to miss target for tighter port security”, Boston Globe, 6/12/12, </span><span style="font-size: 12pt;">[[http://articles.boston.com/2012-06-12/nation/32176427_1_homeland-security-cargo-containers-nuclear-bomb/3]]</span><span style="font-size: 13pt;">)</span>
+
+<span style="font-size: 8pt;">The Department of Homeland Security will ...radioactive explosives called “dirty bombs.’’</span><span style="font-size: 6pt;">¶</span>
+
+
+Nuclear terrorism leads to extinction
+
+<span style="font-size: 13pt;">Ahmed 4</span><span style="font-size: 12pt;"> (Mohamed Sid, political analysis, Extinction!, Al-Abram Weekly Online, August 26 – September 1, </span>[[http://weekly.ahram.org.eg/2004/705/op5.htm|__http://weekly.ahram.org.eg/2004/705/op5.htm__]]<span style="font-size: 12pt;">, ME)</span>
+
+<span style="font-size: 8pt;">A nuclear attack by terrorists will ... </span><span style="font-size: 12pt;">we will all be losers.</span>
+
+
+Even if the attack fails it causes Russia and China war (only round 1)
+
+<span style="font-size: 13pt;">Ayson 10</span><span style="font-size: 12pt;"> (Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington,“After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)</span>
+
+<span style="font-size: 8pt;">A terrorist nuclear attack, and ...</span><span style="font-size: 12pt;"> the chances of nuclear restraint.</span>
+
+
+Bioterrorism is incredibly easy
+
+<span style="font-size: 13pt;">Allison 9-7</span> (Graham Allison is director of the Harvard Kennedy School’s Belfer Center for Science and International Affairs. “Living in the Era of Megaterror” http://www.nytimes.com/2012/09/08/opinion/living-in-the-era-of-megaterror.html#h[IaQAbl,2,WtdFsa,2])
+
+<span class="StyleBoldUnderline">Capabilities for </span><span style="font-size: 7pt;">producing</span><span class="StyleBoldUnderline"> bioterror</span><span style="font-size: 7pt;">ist agents</span>...<span style="font-size: 7pt;"> live in an era of megaterror.</span>
+
+
+
+Status quo security allows for easy smuggling of bio-weapons through ports
+
+<span style="font-size: 13pt;">GSN 9</span><span style="font-size: 12pt;"> (Global Security Newswire, news service focused on global security threats, produced by National Journal, “Customs and Border Protection Faulted for Preparation Against Bio, Chem Threats”, [[http://www.nti.org/gsn/article/customs-and-border-protection-faulted-for-preparation-against-bio-chem-threats/]]. 11/3/9)</span>
+
+<span style="font-size: 6pt;">¶</span><span style="font-size: 12pt;">The inspector general </span><span style="font-size: 8pt;">forthe ... will be essential moving forward" (U.S. Senate Commerce, Science and Transportation Committee release, Nov. 2)</span>
+
+
+That causes extinction
+
+<span style="font-size: 13pt;">Ochs 2</span><span style="font-size: 12pt;"> – MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park [Richard, “BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html]</span>
+
+<span style="font-size: 8pt;">Of all the weapons of mass destruction, ...plagues? HUMAN EXTINCTION IS NOW POSSIBLE.</span>
+
+
+New U.S. nuclear policies aren’t stable – a biological attack ensures widespread nuclear retaliation
+
+<span style="font-size: 13pt;">Potter 10</span><span style="font-size: 12pt;"> (William Potter, Sam Nunn and Richard Lugar Professor of Nonproliferation Studies and Director of the James Martin Center for Nonproliferation Studies at the Monterey Institute of International Studies (MIIS), author or editor of seventeen books, including Nuclear Power and Nonproliferation, Dismantling the Cold War, and the Four Faces of Nuclear Terrorism. serves on the Nonproliferation Panel of the U.S. National Academy of Sciences Committee on International Security and Arms Control, member of the Council on Foreign Relations and served for five years on the UN Secretary-General’s Advisory Board on Disarmament Matters, member of the International Advisory Board of The Center for Policy Studies in Russia, advisor to the delegation of Kyrgyzstan at the 1995 NPT Review and Extension Conference and the 1997, 1998, 1999, 2002, 2003, 2004, 2007, 2008, and 2009 sessions of the NPT Preparatory Committee, as well as at the 2000 and 2005 NPT Review Conferences, Winter 2010, “In Search of the Nuclear Taboo: Past, Present, and Future”, cns.miis.edu/other/potter_william_100115_IFRI_pp31.pdf)</span>
+
+<span style="font-size: 8pt;">In the case of the United... retaliate; it </span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> creates a commitment”.</span>
+
+
+
+A port attack shuts down naval power
+
+<span style="font-size: 13pt;">Watts 5</span><span style="font-size: 8pt;">[CDR Bob Watts is a 1985 graduate of the U.S. Coast Guard Academy and has served six tours at sea conducting drug/migrant operations, most recently commanding the USCGC STEADFAST (WMEC 623). He is currently assigned as the chief of drug and migrant interdiction at Coast Guard Headquarters, where his responsibilities include drafting migrant policy and strategy, including planning for mass migration. A 2006 graduate of the Naval Postgraduate School’s Center for Homeland Defense and Security, he has advanced degrees from the Naval War College, Old Dominion University, American Military University, and is a doctoral candidate at coastline and 3.4 million square miles of territorial seas and exclusive economic zones in the U.S. maritime domain. </span>
+
+<span style="font-size: 8pt;">1 Connecting the continental United States ... we learn from the experience? </span>
+
+
+
+Unimpeded access to all ports is critical to operation
+
+<span style="font-size: 13pt;">Talor et al. 7</span><span style="font-size: 12pt;"> (Bruce Taylor director of research at the Police Executive Research Forum (PERF) in Washington, D.C; Antony Pate Bruce Kubu;) Protecting America’s Ports: Promising Practices A Final Report Submitted https://www.ncjrs.gov/pdffiles1/nij/grants/221075.pdf</span>
+
+<span style="font-size: 12pt;">The</span><span style="font-size: 8pt;"> U.S. </span><span style="font-size: 12pt;">Navy has considerable ...</span><span style="font-size: 8pt;"> on already overburdened airlift resources. </span>
+
+
+
+Maritime power solves all war – deters conflict and ensures defense
+
+<span style="font-size: 13pt;">Whiteneck and Clark 11</span><span style="font-size: 12pt;"> (Commander Bryan Clark U.S. Navy (Retired) and Dr. Dan Whiteneck, “Strategic Choices at the Tipping Point”, Proceedings Magazine - February 2011 Vol. 137/2/1,296)</span>
+
+<span style="font-size: 8pt;">In light of global economic and ... indeed be at a “tipping point.”</span>
+
+
+Increasing port security will reduce the risk of a terrorist attack
+
+John <span style="font-size: 13pt;">Medalia 6</span> Specialist in National Defense at the Congressional Research Service “Terrorist Nuclear "Attacks on Seaports: Threat and Response” published 2006 [[http://www.fas.org/irp/crs/RS21293.pdf]] ) RF
+
+<span style="font-size: 8pt;">What Priority Should Port Security ... ports and other potential targets.</span>
+
+
+
+==Contention 2 is the Economy== 
+
+Any type of port terror attack causes immediate shut down – that decimates the economy
+
+<span style="font-size: 13pt;">Flynn 3</span><span style="font-size: 12pt;"> (Written Testimony before a hearing of the U.S. Senate Governmental Affairs Committee Stephen E. Flynn, Ph.D. a terrorism expert at Northeastern University and former Commander of the U.S. Coast Guard, and a Jeane J. Kirkpatrick Senior Fellow in National Security Studies, and Director of the Council on Foreign Relations Independent Task Force on Homeland Security Imperatives, 3/20/03, “The Fragile State of Container Security”, [[http://www.cfr/|www.cfr]].org/defensehomeland-security/fragile-state-container-security/p5730)</span>
+
+<span style="font-size: 8pt;">Chairperson Collins, Senator Lieberman, and... movements that make up international trade.</span>
+
+
+Attacks don’t need to be successful- perception of port disruption alone will shock the economy and international confidence
+
+**Clark et al. 7**. (CAPT Bruce G. Clark, USCGR (ret) Director of Maritime Security Projects, Maritime Security Directorate Dept. of Sponsored Projects & Extended Learning -The California Maritime Academy. Dr. Donna J. Nincic , Associate Professor and Chair-Department of Global and Maritime Studies of The California Maritime Academy. CAPT Nevin Fidler, USCGR (ret) Maritime Security Directorate Dept. of Sponsored Projects & Extended Learning-The California Maritime Academy-The California State University. “Protecting America’s Ports: Are We There Yet?” 10/7)
+
+<span style="font-size: 7pt;">Why? Because</span><span class="StyleBoldUnderline">, </span><span style="font-size: 7pt;">in this new world ... of any counter-terrorism plan.</span>
+
+
+
+Economic decline causes war and miscalculation
+
+<span style="font-size: 13pt;">Royal 10</span><span style="font-size: 12pt;"> — Jedidiah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, M.Phil. Candidate at the University of New South Wales, 2010 (“Economic Integration, Economic Signalling and the Problem of Economic Crises,” //Economics of War and Peace: Economic, Legal and Political Perspectives//, Edited by Ben Goldsmith and JurgenBrauer, Published by Emerald Group Publishing, ISBN 0857240048, p. 213-215)</span>
+
+<span style="font-size: 8pt;">Less intuitive is how periods of </span><span style="line-height: 24px;">...</span><span style="font-size: 8pt;"> considered ancillary to those views.</span>
+
+
+
+U.S. competitiveness is decreasing now
+
+<span style="font-size: 13pt;">The Hill 9/5</span><span style="font-size: 12pt;"> (The Hill news service, “US slips in global competitiveness rankings”, [[http://thehill.com/blogs/on-the-money/economy/247619-us-slips-in-global-competitiveness-rankings]], 9/5/12)</span>
+
+<span style="font-size: 12pt;">The United States is losing ...</span><span style="font-size: 8pt;">a </span><span style="font-size: 12pt;">sustainable growth</span><span style="font-size: 8pt;"> path.”</span>
+
+
+Economic growth is key to prevent conflict
+
+<span style="font-size: 13pt;">Bernauera 10</span><span style="font-size: 12pt;"> (Climate Change, Economic Growth, and Conflict Thomas Bernauera, Anna Kalbhenna, VallyKoubia,b and Gabriele Ruoffa a ETH Zurich Center for Comparative and International Studies (CIS) and Institute for Environmental Decisions (IED) and b University of Bern Department of Economics and Oeschger Institute for Climate Change Research;[[http://ncgg.princeton.edu/IPES/2010/papers/S1115_paper1.pdf]])</span>
+
+<span style="font-size: 8pt;">Previous research has shown that </span><span style="line-height: 24px;">...</span><span style="font-size: 8pt;"> well supported by the existing literature. </span>
+
+
+
+
+
+New security measures are key to trade and ensure investor, consumer and business confidence
+
+**<span style="font-size: 12pt;">Palac-McMiken 5</span>**<span style="font-size: 12pt;"> (EvanorPalac-McMiken, Director of the Economic Analytical Unit at the Department of Foreign Trade and Affairs, “Economic Costs and Benefits of Combating Terrorism in the Transport Sector”, Asian-Pacific Economic Literature, [[http://onlinelibrary.wiley.com/store/10.1111/j.1467-8411.2005.00158.x/asset/j.1467-8411.2005.00158.x.pdf;jsessionid=04AE22510AFBB1EA4756D40DEA0CFA55.d03t03?v=1&t=h4ppdiht&s=3f469b88d024638a8733b4601e8cf7c32550c4c9]])</span>
+
+<span style="font-size: 8pt;">However, </span><span style="font-size: 12pt;">counter-terrorism measures</span><span style="font-size: 8pt;"> can ... simply for the purpose of illustration.</span>
+
+
+Loss of confidence creates a negative feedback cycle annihilating the economy
+
+<span style="font-size: 13pt;">Rubin, Orszag, and Sinai 4</span><span style="font-size: 12pt;"> – PhD Economics, Senior Fellow of the Brookings Institute and Chief Global Economist at Decision Economics inc. (Robert E. Rubin, Chairman of Citigroup Financial, Peter R. Roszag, Senior Fellow, Brookings Institute, and Allen Sinai, Decision Economics, “Sustained Budget Deficits: The Risks of Financial and Fiscal Disarray” Paper presented The Andrew Brimmer Policy Forum, “National Economic and Financial Policies for Growth and Stability,” Sunday, 1/4/04)</span>
+
+<span style="font-size: 12pt;">The loss of investor</span><span style="font-size: 8pt;">and creditor</span><span style="line-height: 24px;">...</span><span style="font-size: 8pt;">another round of </span><span style="font-size: 12pt;">negative feedback effects.</span>
+
+
+
+U.S. trade is key to preventing great power war
+
+<span style="font-size: 13pt;">Boudreux 6</span><span style="font-size: 12pt;"> (Donald J., Chair of the Economics Department at George Mason University, “Want World Peace? Support Free Trade”, November 20, [[http://www.csmonitor.com/2006/1120/p09s02-coop.html]]) </span>
+
+<span style="font-size: 8pt;">During the past 30 years</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, Solomon </span><span style="font-size: 8pt;">Polachek</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, ..</span><span style="font-size: 8pt;"> to tolerate, harm to these foreigners. </span>
+
+
+
+
+
+==Contention 3 is Solvency== 
+
+
+
+<span class="StyleStyleBold12pt">Visualization and imaging technology solves</span>
+
+<span style="font-size: 13pt;">PPIC 6</span><span style="font-size: 12pt;"> (Public Policy Institute of California, Citing: Jon D. Haveman, RAND policy expert and JowardShatz, Senior Economist at RAND, “Protecting the Nation’s Seaports:¶ Balancing Security and Cost”, [[http://www.ppic.org/content/pubs/report/r_606jhr.pdf]], 2006)</span>
+
+<span style="font-size: 8pt;">As documentation cannot be ... emissions, which are then detected.</span><span style="font-size: 6pt;">¶</span>
+
+
+
+New computer and software takes out any solvency deficits
+
+<span style="font-size: 13pt;">PPIC 6</span><span style="font-size: 12pt;"> (Public Policy Institute of California, Citing: Jon D. Haveman, RAND policy expert and JowardShatz, Senior Economist at RAND, “Protecting the Nation’s Seaports:¶ Balancing Security and Cost”, [[http://www.ppic.org/content/pubs/report/r_606jhr.pdf]], 2006)</span>
+
+<span style="font-size: 8pt;">In-Port Imaging. Non-intrusive... start-ups</span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> and agile retreads.</span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> 50</span><span style="font-size: 6pt;">¶</span>
+
+
+
+
+
+
+
+=Negative= 
+
+==Strategies== 
+===Wake=== 
+I'll put up 1NCs later, but the 2NRs were:
+Round 2 v. Milton GV (Mayport)- Security K
+Round 3 v. Alpharetta GR (NextGen)- Commissions CP + Elections
+Round 6 v. Northview KD (NextGen)- Elections DA + Case
+
+===New Trier=== 
+Round 2 v. Dowling KM (Dredging)
+1NC
+T-Maintenance
+States CP
+Elections- Obama Good (Iran Strikes)
+Fem K
+North Korean Food Aid (on case)
+
+2NR
+States & Elections
+
+Round 3 v. Maine East HB (HSR)
+1NC
+T- Increase=pre-existing
+States CP
+Elections- Obama Good (Iran Strikes)
+Mobility K
+Stimulus Bad (on case)
+
+2NR
+Double Turn on Elections
+Stimulus Bad
+Case Defense
+
+Round 5 v. Rowland Hall AS (CCS)
+1NC
+T-Pipelines
+States CP
+Elections DA
+Social Ecology K
+CO2 Fert (on case)
+Natural Gas Good (on case)
+
+2NR
+Social Ecology K
+CO2 solves Warming
+
+
+
+==DAs== 
+
+
+===Elections=== 
+Obama will win but it’s close – campaign organization, medicare
+<span style="font-size: 13pt;">Reuters 10-4</span> (“Obama fights back after debate setback” http://www.reuters.com/article/2012/10/04/us-usa-campaign-idUSBRE88N13D20121004)
+<span class="StyleBoldUnderline">Analysts said they still favored ... take-away last night,"</span><span style="font-size: 8pt;"> he said.</span>
+
+Obama is hinging the election on REDUCING spending – the plan causes independents to vote Republican
+**<span style="font-size: 13pt;">Kirchgaessner, ’11</span>**<span style="font-size: 8pt;"> (Stephanie, “Obama looks to independent voters,” April 15 2011, http://www.ft.com/cms/s/0/7dd54d5c-678c-11e0-9138-00144feab49a.html#axzz1T844vB9m)</span>
+
+<span style="font-size: 8pt;">Barack </span>**Obama is betting ...** the deficit required immediate action.
+
+====China Bash==== 
+Romney election would destroy US-China relations which are key to warming and the global economy
+<span style="font-size: 13pt;">Traub 12</span>(James, journalist specializing in foreign affairs, writes “Terms of Engagement,” a weekly column on ForeignPolicy.com, “Foreign Affairs: The “more enemies, fewer friends” doctrine, Washington Monthly, January/February, [[http://www.washingtonmonthly.com/magazine/january_february_2012/features/foreign_affairs034475.php?page=1]])
+<span style="font-size: 8pt;">The Republicans tend to paint ...</span><span class="TitleChar"> be a mistake of historic proportions</span><span style="font-size: 8pt;">.</span>
+
+Global nuclear war
+<span style="font-size: 13pt;">Mead 9</span>(Walter Russell Mead, Henry A. Kissinger senior fellow for U.S. foreign policy at the Council on Foreign Relations. The New Republic, “Only Makes You Stronger,” February 4 2009. http://www.tnr.com/politics/story.html?id=571cbbb9-2887-4d81-8542-92e83915f5f8&p=2 AD 6/30/09)
+<span style="font-size: 7pt;">So far, such half-hearted experiments ...</span> we may still have to fight.
+
+Global warming leads to extinction
+Oliver <span style="font-size: 13pt;">Tickell</span>, Climate Researcher, 8/11/20<span style="font-size: 13pt;">08</span>, On a planet 4C hotter, all we can prepare for is extinction, The Guardian, Proquest
+<span style="font-size: 8pt;">We need to get prepared for four....</span> towards a similar hothouse Earth.
+
+
+====<span style="font-size: 8pt;">Iran Strikes</span>==== 
+
+Obama winning the election is key to prevent Israel strikes on the Iranian nuclear program
+
+<span style="font-size: 13pt;">Hayden 12</span> (Tom Hayden “The coming war with Iran Is GOP rhetoric setting the stage for an Israeli attack?”2-19-12. [[http://www.newsreview.com/sacramento/coming-war-with-iran/content?oid=5104826]])
+
+
+
+<span style="font-size: 8pt;">Standing in the way, according ...</span><span class="TitleChar"> any organized force has his back.</span>
+
+
+Nuclear world war
+
+**Chossudovsky**, 12/26/**2011** (Michel, Preparing to attack Iran with Nuclear Weapons, Global Research, p. http://globalresearch.ca/index.php?context=va&aid=28355)
+
+An attack on Iran<span style="font-size: 8pt;"> would ...large part of </span>the Middle East<span style="font-size: 8pt;">.</span>
+
+
+==CPs== 
+===States=== 
+Text: The fifty states and relevant territories should ___________________________.
+
+Devolution to the states solves- creates efficient labs of innovation which solves the case
+<span style="font-size: 13pt;">Utt 2012</span> (Ronald, is Herbert and Joyce Morgan Senior Research Fellow in the Thomas A. Roe Institute for Economic Policy Studies at The Heritage Foundation. Utt is a veteran of budgetary politics in Washington, having served as director of the housing finance division at the Department of Housing and Urban Development, and senior economist at the Office of Management and Budget, Past director of economic research at the National Association of Real Estate Investment Trusts. Associate chief economist of the U.S. Chamber of Commerce, “Turn Back” Transportation to the States” Feb 7th http://www.heritage.org/research/reports/2012/02/turn-back-transportation-to-the-states) AS
+
+<span class="StyleBoldUnderline">The federal transportation program has ...</span><span style="font-size: 7pt;"> benefit from undeserved subsidies.</span>
+
+
+===<span style="font-size: 7pt;">Commissions</span>=== 
+
+Text – the President of the United States should establish an interagency commission which should publish a biennial transportation review with bipartisan congressional consultation. The interagency commission should recommend that _______ as a part of its first biennial transportation review.
+
+
+
+Competes---the CP’s policy statement is not legally binding---it doesn’t enact the plan, it simply recommends its mandates
+
+Charles H. <span style="font-size: 13pt;">Koch 5</span>, the Dudley W. Woodbridge Professor of Law, William and Mary School of Law, Spring 2005, “Policymaking by the Administrative Judiciary,” Alabama Law Review, 56 Ala. L. Rev. 693, p. lexis n110 E.g., Consol Edison Co of New York v. FERC, 315 F.3d 316, 323 (D.C. Cir 2003)
+
+<span style="font-size: 11pt;">"Policy statements"</span>//<span style="font-size: 12pt;">differ</span>//<span style="font-size: 11pt;">from substantive ...</span><span style="font-size: 8pt;"> Administrative Open Mind, 41 DUKE L J 1497, 1503 (1992).</span>
+
+
+
+Commissions avoid politics – seen as bipartisan.
+
+<span style="font-size: 13pt;">Straus and Glassman -12</span><span style="font-size: 8pt;"> (Matthew Eric Glassman, Analyst on the Congress, Jacob R. Straus, Analyst on the Congress, Congressional Commissions: Overview, Structure, and Legislative Considerations, ...</span><span style="font-size: 8pt;"> report their findings and recommendations. </span>
+
+==Ks== 
+===Fem K=== 
+Maritime is inherently masculine, causing discrepancies within the system
+
+<span style="font-size: 13pt;">Ransley 5 </span>(Jesse, writer for World Archaeology, “Boats Are for Boys: Queering Maritime Archaeology” World Archaeology, 37(4) p.621-629. Noparstak)
+<span style="font-size: 8pt;">Not surprisingly then, the practice ... different data about the past. </span>
+
+Masculinity as the foundation of the nation-state makes all warfare inevitable as the roles in warfare and post-conflict management are self-perpetuating in order for the fraternal community to sustain itself
+<span style="font-size: 13pt;">Handrahan, 2K1</span>
+<span style="font-size: 8pt;">(Lori M., International Centre of Gender Studies, Oxford, Conflict, Gender, Ethnicity and Post-Conflict Reconstruction, //Security Dialogue// 35.4)</span>
+<span style="font-size: 8pt;">Benedict Anderson, the well-known academic ...</span> **war**<span style="font-size: 8pt;"> (Benton, 1998: 43). </span>**War makes the man**<span style="font-size: 8pt;">.</span>
+
+
+The alternative is to reformulate the foundation of the topic to endorse a larger project of social and cultural geographies of mobility
+Reformulating the topic area will create larger social and cultural projects as well as a more systematic theory of gender as a category in social life
+<span style="font-size: 13pt;">Law 99</span> (Robin, Department of Geography, University of Otago New Zealand, "Progress in Human Geography", [[http://phg.sagepub.com/content/23/4/567.full.pdf]]. Noparstak)
+<span style="font-size: 8pt;">To use a spatial metaphor, the ... next two sections of this article. </span>
+
+===Mobility=== 
+The affirmatives focus on mobility is beholden to an ideology of speed that informs every other part of life – existential threats cannot be separated from the pursuit of acceleration – the affirmative ethos of speed will be used to justify violent pursuit of those who do not accelerate at an adequate pace
+<span style="font-size: 13pt;">Derrida</span> renowned deconstructionist and philosopher <span style="font-size: 13pt;">1984</span> Jacques Diacritics 14.2 jstor
+Let me say a word first about speed....<span style="font-size: 8pt;">would have himself covered up.</span>
+
+This obsession with mobility within transportation infrastructure is uniquely entrenched in ableism <span style="font-family: Wingdings;">è</span> social exclusion
+<span style="font-size: 13pt;">Imrie</span> Department of Geography, Royal Holloway, University of London <span style="font-size: 13pt;">2000</span> Rob Disability and discourses of mobility and movementEnvironment and Planning volume 32 http://www.environmentandplanning.com/epa/fulltext/a32/a331.pdf
+Barnes et al (1999, page 121), for instance, ... unpredictable, diverse and changeable reality''.
+
+__Transportation infrastructure planning should be rejected__ – its reliance on universal understandings of acceptance causes violence
+<span style="font-size: 13pt;">Imrie</span> Department of Geography, Royal Holloway, University of London <span style="font-size: 13pt;">2000</span> Rob Disability and discourses of mobility and movementEnvironment and Planning volume 32 http://www.environmentandplanning.com/epa/fulltext/a32/a331.pdf
+<span class="StyleBoldUnderline">Disabled people's mobility and movement...</span> needs defined and met by others''.
+
+===Security=== 
+<span class="StyleStyleBold12pt">Infrastructure Control by the affirmative reentrenches an ideology of Critical Infrastructure Protection which defines infrastructure as targets to continue the endless cycle of insecurities and also justify targeted warfare.</span>
+<span style="font-size: 13pt;">Collier & Lakoff 8</span>
+<span style="font-size: 7pt;">(PhD in Anthropology @ Berkeley & PhD in Sociocultural Anthropology @ Berkley (Stephen J. & Andrew, “The Vulnerability of Vital Systems: How “Critical Infrastructure” Became a Security Problem” //The Politics of Securing the Homeland: Critical Infrastructure, Risk and Securitisation// 2008 </span><span style="font-size: 7pt;">[[http://anthropos-lab.net/wp/publications/2008/01/collier-and-lakoff.pdf)/JES|http://anthropos-lab.net/wp/publications/2008/01/collier-and-lakoff.pdf)//JES]]</span>
+<span class="StyleStyleBold12pt"> </span>
+<span style="font-size: 7pt;">In this chapter we ask: Where did... such as Critical Foundations, cited above.</span>
+
+Reject the affirmative—Only rejection the logic of security allows us to be emancipated from this ideology and develop a better politics. We don’t need to reform or replace security, only to return the gift of the state and deny its biopolitics.
+<span style="font-size: 13pt;">Neocleous 8</span> (Mark Neocleous, professor of critique of political economy at Brunei University. “Critique of Security” pages 185-186)
+
+The only way out<span class="StyleBoldUnderline"> of ...</span> brave enough to return the gift<span style="font-size: 8pt;">.143 </span><span style="font-size: 6pt;">¶</span>
+
+===Social Ecology=== 
+**<span style="font-family: Georgia,serif;">The root cause of environmental destruction is social problems in society. Acting without solving for social problems masks this root cause and kills any aff solvency.</span>**
+**<span style="font-family: Georgia,serif;">Bookchin 93</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (Murray Bookchin. Cofounder and director emeritus of the Institute for Social Ecology. //Animal Rights to Radical Ecology//, “What Is Social Ecology.” http://dwardmac.pitzer.edu/Anarchist_Archives/bookchin/socecol.html)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">What literally defines </span><span style="font-family: Georgia,serif;">social ecology</span><span style="font-family: Georgia,serif; font-size: 8pt;"> ...</span><span style="font-family: Georgia,serif;"> is more cosmetic than curative. </span>
+
+**<span style="font-family: Georgia,serif;">Acting with the state will never solve for social problems. Vote neg to reject state action in favor of social anarchism to bring the power back to the communities</span>**
+**<span style="font-family: Georgia,serif;">Bookchin 98 </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Murray, Cofounder and director emeritus of the Institute for Social Ecology. Left Green Perspectives, No. 38. [[http://www.social-ecology.org/1998/04/left-green-perspectives-38/]].</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">But </span><span style="font-family: Georgia,serif;">the state rarely bends ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> of society (which the system must resist). </span>

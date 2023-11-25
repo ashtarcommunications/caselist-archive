@@ -1,0 +1,159 @@
+[[toc]]
+=Round 1= 
+NEW AFFIRMATIVE
+
+Plan: The United States federal government should guarantee to purchase and launch a substantial number of reusable launch vehicles beyond the Earth's mesophere.
+
+Contention 1 is The Status Quo
+
+The Space Launch System is NASA’s current plan for space – triggers politics and spending links, but doesn’t solve our aff
+Matthews 11 (Mark K. Matthews, Washington Bureau correspondant for Orlanda sentenal news agency, 8/5/11, New NASA moon rocket could cost $38 billion, http://articles.orlandosentinel.com/2011-08-05/news/os-nasa-next-moonshot-20110805_1_constellation-moon-program-nasa-supporters-internal-nasa-documents?pagewanted=all) [we don’t endorse gendered language]
+WASHINGTON — The rocket and capsule that NASA is proposing to return astronauts to the moon would fly just twice in the next 10 years
+...
+billion, "we ought to question whether or not we can build a rocket
+
+SLS sucks – drives up launch costs, destroys NASA’s budget, makes space exploration impossible, and allows one launch per year
+Strickland 11 (John, senior analyst for the Texas Department of Transportation, Committee Chair for National Space Society, “The SLS: too expensive for exploration?”, The Space Review, http://www.thespacereview.com/article/1979/1)JFS
+Many members of the space community have spoken out strongly against NASA’s plans to develop the Space Launch System (SLS),
+...
+to develop than private alternatives?
+
+Furthermore, SLS is simply unnecessary; an RLV system is a better replacement
+Bonin 11 (Grant, space review contributer, U of Toronto, CAAAAAANAAADAAAAA, The space review, http://www.thespacereview.com/article/1861/1)JFS
+Heavy-lift proponents argue that HLVs are more efficient in terms of the cost per kilogram of payload delivered to orbit (since larger launch
+...
+perhaps lost entirely if the rocket fails.
+
+Contention 2 is Sounding Rockets
+
+RLVs are key to sounding rocket missions in all scientific areas
+NRC et al 10 (National Research Council, Committee on NASA’s Suborbital Research Capabilities, Space Studies Board, and Division on Engineering and Physical Sciences, “Revitalizing NASA’s Suborbital Program: Advancing Science, Driving Innovation, and Developing Workforce,” This PDF is available from The National Academies Press at http://www.nap.edu/catalog.php?record_id=12862)
+Research activities in fields such as Earth remote sensing and observation, atmospheric remote sensing and sampling, astronomy and
+...
+However, they offer possible new opportunities for the research community.
+
+RLVs overcome problems with status quo sounding rockets
+Martin & Law 2 (J.C. and G.W. space launch support division, space launch operations, us dept of commerce, http://www.space.commerce.gov/library/reports/2002-10-suborbital-LowRes.pdf)JFS
+There are several national security, civil government, and commercial markets
+...
+security and civil benefits to be achieved with limited budgetary resources.
+
+RLVs key to biotech studies in microgravity
+Miller 90 (Nathanael A. Miller, Old Dominion University, DEVELOPMENT OF A REUSABLE BIOLOGICAL SOUNDING ROCKET PAYLOAD, http://vsgc.odu.edu/src/Conf06/papers/Paper%20-%20Miller.pdf)
+Experiments conducted in the 1980s and 1990s have shown that microgravity has a significant influence on a large number of cell functions. conditions were met.
+
+Microgravity research is key
+Clement and Bukley 6 [Gilles.Centre National de la Recherche Scientifique Angie. Ohio University, Athens. “Biotechnology in Space.” Space Technology Library, 2006, Volume 18. http://www.springerlink.com/content/w1414504161u8t48/]
+Often praised as the most promising field for the commercial exploitation of space, this domain today has two primary fundamental aspects:
+...
+effectively mimic the characteristics of genuine tissue.
+
+Bioterror is inevitable, coming and worse than nuclear war—advances in biotech key to solve
+Maurer 7 (stephen m. maurer, j.d. director of the goldman school project at the university of california, berkeley on information technology and homeland security LIFEBOAT FOUNDATION BIOSHIELD HTTP://LIFEBOAT.COM/EX/BIO.SHIELD 2007)
+The new realities of terrorism and suicide bombers pull us one step further. How would we react to the devastation caused by a virus or
+...
+malevolent viruses and microbial organisms. Time is running out.
+
+
+Contention 3 is Launch Costs
+
+Low launch costs are key to prevent extinction
+Collins and Autino 10 (* Life & Environmental Science, Azabu University AND Andromeda Inc., Italy (Patrick and Adriano, “What the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace,” Acta Astronautica 66 (2010) 1553–1562, science direct)
+The major source of social friction, including international friction, has surely always been unequal access to resources. People ﬁght to control
+...
+accumulated know-how to economically valuable activities—notably supplying widely popular travel services to the general public.
+
+Launch costs are high and getting higher – kills the market – aff solves
+Money 11 (Stewart Money, Space review contributer, “Taking the initiative: SLI and the next generation,” February 21, 2011, http://www.thespacereview.com/article/1784/1)
+Whether or not such a new era materializes, and to what extent, will be determined by many factors, but it seems clear that the scope and
+...
+d profits) as well, but that doesn’t materially affect the cost of a taxi ride because each fare doesn’t require a new Crown Vic.
+
+Here’s a comparative study – RLVs are the cheapest possible rocket by a factor of fifty
+Bruner 96 (William W. Bruner III, This work was accomplished in partial fulfillment of the Masters Degree requirements of the School of Advanced Airpower Studies, Air University, Maxwell AFB, AL, 1996, Advisor: Major Bruce M. DeBlois, Ph.D, Reader: Dr Karl Mueller, “National Security Implications of Inexpensive Space Access,” http://www.fas.org/spp/eprint/bruner.htm)
+Even if RLVs, arguably the precursors of Hap Arnold<span style="font-family: 'Tahoma','sans-serif';">�</span>s space ships, are more politically viable and fiscally realistic than EELVs, they still
+...
+economic force acting as a stimulus to RLV development, but there are indications that it may not be the only one.
+
+
+Independently, the mechanism of the plan lowers launch costs and stimulates the market
+Henry 3 (Gary N., February, Lt Col, USAF, THE DECISION MAKER‘S GUIDE TO ROBUST,
+RELIABLE AND INEXPENSIVE ACCESS TO SPACE, http://www.dtic.mil/cgibin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA424927)
+Much of the geosynchronous spacecraft launch demand is being offset by dual launch capability,
+....
+architecture is demonstrated. The current state of affairs is a classic “chicken or the egg” scenario emblematic of a market failure.
+
+
+NASA Earth science is dead now – lowering launch costs solves
+Werner 12/9 (Debra, writer @ Space News, 12/9/11, http://www.spacenews.com/earth_observation/111209-launch-costs-damper-earth science.html?utm_source=WhatCountsEmail&utm_medium=SPACE%20NEWS%20EARLY%20BIRD%20NEW&utm_campaign=Early%20Bird%20Newsletter) JPG
+NASA’s Earth Science Division will be able to launch two missions per year under its current budget outlook if the agency can find reliable,
+...
+affordable rides into orbit for those spacecraft, said Michael
+
+Research Center in Hampton, Va., to the international space station. The Air Force will contract for the SAGE-3 launch. NASA also is working with the Air Force to identify a rideshare opportunity in late 2015 for the Ice, Cloud, and land Elevation Satellite-2. “We hope it goes with one of the Defense Meteorological Support Program satellites,” Freilich said.
+Earth sciences are critical to environmental protection and solving warming—the impact is extinction
+Killeen 5 (Phd. Director of the National Center for Atmospheric Research (Timothy, 28th April 2005, “Senate Hearing on NASA's Earth Science Program”, http://www.spaceref.com/news/viewsr.html?pid=16382, ZBurdette)
+First, NASA plays a crucial role in this country's vibrant Earth sciences program. NASA is the dominant federal funding agency for U.S.
+....
+programs that make up the core of our proposed contribution.
+
+
+Warming is real & anthropogenic – causes extinction and outweighs your impacts
+Deibel 7 (Terry L, Professor of IR @ National War College, “Foreign Affairs Strategy: Logic for American Statecraft”, Conclusion: American Foreign Affairs Strategy Today)JFS
+Finally, there is one major existential threat to American security (as well as prosperity) of a nonviolent nature, which, though far in the future,
+...
+and prosperity to the United States, but potentially to the continued existence of life on this planet.
+
+RLVs lower launch costs and jumpstart an American space industry and economy
+Hsu & Cox 9 (Feng, Senior Fellow @ Aerospace Tech Working Group, Ken, Founder and Director of same organization, spaceref, http://www.spaceref.com/news/viewsr.html?pid=30702)JFS
+As discussed in the previous sections, a space agency without reforms, as it still exists today, born out of the cold war era half a century ago, worked well for the space race, but is unlikely to deliver space-
+
+not forgot what makes a nation and its people thrive and prosper are not based on what they do for easy or short-term gains; it's largely based on what the nation and its people do that most others dare not to do or cannot do!
+
+
+Economic collapse causes global nuclear wars
+Harris and Burrows 9 (PhD European History @ Cambridge, counselor in the National Intelligence Council (NIC) & member of the NIC’s Long Range Analysis Unit
+Mathew, and Jennifer “Revisiting the Future: Geopolitical Effects of the Financial Crisis” http://www.ciaonet.org/journals/twq/v32i2/f_0016178_13952.pdf)
+Of course, the report encompasses more than economics and indeed believes the future is likely to be the result of a number of intersecting
+...
+manage changing water resources is likely to be increasingly difficult both within and between states in a more dog-eat-dog world.
+
+Contention 4 is Solvency
+
+Purchase guarantee mechanism solves
+Bruner 96 (William W. Bruner III, This work was accomplished in partial fulfillment of the Masters Degree requirements of the School of Advanced Airpower Studies, Air University, Maxwell AFB, AL, 1996, Advisor: Major Bruce M. DeBlois, Ph.D, Reader: Dr Karl Mueller, “National Security Implications of Inexpensive Space Access,” http://www.fas.org/spp/eprint/bruner.htm)
+Private sector interest in a reusable space launch vehicle and in a possible reusable hypersonic point-to-point (as opposed to Earth-to-orbit)
+...
+in X-33 is an indication) on the grounds that there are air transport missions they can perform at hypersonic speeds.
+
+Empirics prove our argument
+Blalock et al 2 (Lt Colonel Carolyn Blalock, USAF, Space Industry Study Seminar, Industrial College of the Armed Forces, http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0CFYQFjAH&url=http%3A%2F%2Fspace.au.af.mil%2Fdocuments%2Ficaf-spc-02.doc&ei=C7RnT6W5LuHViALznNjpBg&usg=AFQjCNGwLDBmKT0zPDHA7gnRDXix6Cir9w&sig2=n_DP3zM3sN7fGXPF-wyxkA&surl=1&safe=active)
+Arianespace has successfully captured over 60 percent of the global commercial launch market and more than 50 percent of the international ...
+company standing down Ariane 5 flights after the incident that occurred last July on its 10th mission.
+
+
+=Round 2= 
+neg vs woodward ns
+
+1nc - t-void, anthro, cap, debris
+2nc - anthro
+1nr - debris
+2nr - anthro
+
+=Round 3= 
+same aff as r1
+=Round 4= 
+vs. juan diegos' new penguins aff
+1nc - t-human, t-substantial, xo, politics, foucault
+2nc - xo, t-human
+1nr - politics
+2nr - xo, politics
+
+politics was jackson vanik
+=Round 5= 
+
+=Round 6= 
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

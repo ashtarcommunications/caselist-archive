@@ -1,0 +1,260 @@
+[[toc]]
+=Contact= 
+=====email Ben Cretsinger @ [[mailto:Darkarus99@gmail.com|Darkarus99@gmail.com]]===== 
+=Affirmative= 
+=TSATs AFF---We are not running this one any more= 
+===Plan:=== 
+=====The United States Department of Defense should deploy the Transformational Satellite Communications System.===== 
+
+<span style="font-size: 13.33px;">TSAT was cut from the DOD budget in 2009 due to overbudgeting and delays</span>
+Gates, 9
+[Robert, the former Secretary of Defense, “Defense Budget Recommendation Speech”, read in Arlington, VA on April 6, [[http://www.globalsecurity.org/military/library/news/2009/04/dod-speech-090406.htm]], NKN]
+
+<span style="font-size: 13.33px;">All of the technology is feasible – funding was reduced because it didn’t live up to sky-high expectations</span>
+JDSB 8
+[Report of the Joint Defense Science Board Intelligence Science Board Task Force on Integrating Sensor-Collected Intelligence, November, [[http://www.fas.org/irp/agency/dod/dsb/sensors.pdf]], NKN]
+
+A. Interoperability- current ISR is botched because of different networks and components- TSATs integrate systems
+__Best 11__ (Richard A, specialist in national defense. CRS Report for Congress Prepared for Members and Committees of Congress: Intelligence, Surveillance, andReconnaissance (ISR) Acquisition: Issues for Congress.http://www.scribd.com/doc/49359140/Intelligence-Surveillance-and-Reconnaissance-ISR-Acquisition-Issues-for-Congress-January-20-2011)
+
+
+<span style="font-size: 13.33px;">B.Vulnerability and capability- current ISR is under threat from enemy jamming and it can’t handle the bandwith that the military needs to process data</span>
+JDSB 8
+[Report of the Joint Defense Science Board Intelligence Science Board Task Force on Integrating Sensor-Collected Intelligence, November, [[http://www.fas.org/irp/agency/dod/dsb/sensors.pdf]], NKN]
+
+<span style="font-size: 13.33px;">Extends the Global Information Grid and, even if it fails, increases the efficiency of squo satellite programs and integrates them into a global ISR system</span>
+__Uhrich 10__ (Colonel David. <span class="headingstory">PRIORITY BRIEFING WITH Colonel David C. Uhrich</span>
+
+<span class="subheading">Vice Commander, Military Satellite Communications Systems Wing, Space and Missile Systems Center, Los Angeles Air Force Base, El Segundo, California. http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=2074520599)</span>
+===ISR=== 
+<span style="font-size: 13.33px;">US ISR prevents multiple scenarios for nuclear war</span>
+DOD 10 (Intelligence, Surveillance, and Reconnaissancehttp://space.au.af.mil/guides/stg/stg_isr.pdf)//
+
+//<span style="font-size: 13.33px;">Absent improved ISR China will rapidly modernize- guarantees Chinese cyberattacks, advanced ASAT capabilities, and an attack on Taiwan</span>//
+//__BBC 11__ (Viewpoint: A new Sino-US high-tech arms race? http://www.bbc.co.uk/news/mobile/world-asia-pacific-12154991)//
+
+//__Leads to multiple scenarios for extinction__//
+//__Hunkovic ‘9__ (Lee J. Hunkovic, American Military University, “The Chinese-Taiwanese Conflict: Possible Futures of a Confrontation between China, Taiwan and the United States of America,” 2009, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]])//
+
+
+//China already has set the infrastructure for a cyberattack- absent ISR we will lose an inevitable cyber war, leading to a collapse of the power grid//
+//LA Times 3/28 (Virtual war a real threathttp://articles.latimes.com/2011/mar/28/nation/la-na-cyber-war-20110328)
+
+<span style="font-size: 14.66px;">Power grid collapse leads to the end of civilization</span>
+<span style="font-size: 14.66px;">Rifkin 2</span> (Alan, The founder and president of the Foundation on Economic Trends, Fellow at the Wharton School’s Executive Education Program (Jeremy, The Hydrogen Economy: The Creation of the World-Wide Energy Web and the Redistribution of Power on Earth, p.163-164 )
+
+
+<span style="font-size: 14.66px;">And, cyberterror leads to escalation that destroys the nuclear taboo</span>
+<span style="font-size: 14.66px;">Cimbala 99</span> (Stephen Cimbala, professor of political science at the Pennsylvania State University Delaware County Campus, Summer 1999, Armed Forces & Society: An Interdisciplinary Journal)
+
+
+
+
+<span style="font-size: 13.33px;">Only federally funded TSATS are key to a transition to net centric warfare- mobile communication integrates ground based communications networks and prevents Chinese space rise</span>
+__Wilson 4__ (Clay Wilson, Specialist in Technology and National Security Foreign Affairs, Defense, and Trade Division at the Congressional Research Service, June 2, 2004, “Network Centric Warfare: Background and Oversight Issues for Congress”, [[http://fpc.state.gov/documents/organization/33858.pdf]] bcliff)
+
+<span style="font-size: 13.33px;">They’re also a breeding ground for IPv6 technology that spills over into netwar doctrine even if the program fails</span>
+__SpaceWar 7__ (“<span class="bhl">LockMart And Northrop Grumman TSAT Team Announces Partnership With Juniper Networks”</span> [[http://www.spacewar.com/reports/LockMart_And_Northrop_Grumman_TSAT_Team_Announces_Partnership_With_Juniper_Networks_999.html]] bcliff)
+
+<span style="font-size: 13.33px;">They also modernize the military in the abstract- TSATS are key</span>
+<span style="font-size: 13.33px;">Shalal Esa 8</span>
+(Andrea, “Satellite delay may hurt U.S. troops” 10/20/08 Reuters http://www.reuters.com/article/2008/10/20/us-pentagon-satellite-idUSTRE49J8IW20081020)
+===NCW=== 
+NCW makes heg sustainable
+<span style="font-size: 14.66px;">Arquilla 10</span> (John Arquilla, professor of defense analysis at the U.S. Naval Postgraduate School, MARCH/APRIL 2010, “The New Rules of War”, http://www.foreignpolicy.com/articles/2010/02/22/the_new_rules_of_war)
+<span style="font-size: 13.33px;">The impact is global nuclear war </span>
+__KAGAN, 7__ (Robert, senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)
+
+<span style="font-size: 13.33px;">Independently, netwar prevents all future conflict </span>
+<span style="font-size: 14.66px;">Chang-hee 5</span> (Chang-hee Nam, professor of Inha University, South Korea, who formerly worked for the Korea Institute f or Defense Analysis, “The Realignment of the USFK in the Military Transformation and South Korea's Defense Reform 2020”, [[http://www.nids.go.jp/english/event/symposium/pdf/2005/e2005_05.pdf]])
+
+<span style="font-size: 13.33px;">Their defense doesn’t apply – NCW is a paradigm shift, not about technology</span>
+<span style="font-size: 14.66px;">Croser 7</span> (Caroline Croser, PhD from Lancaster University in Defence and Security Studies, Nov. 7, “ORGANISING COMPLEXITY: MODES OF BEHAVIOUR IN A NETWORKED BATTLESPACE”, [[http://www.army.gov.au/lwsc/Docs/WP_133.pdf]])
+
+
+=Nietzsche Aff= 
+
+The Modern Age Has Destroyed Every Claim To A Metaphysical Basis For Truth. The Truths Of The World, Both Moral And Factual, Are All Constructed And Deconstructed By History. Only That Without A History Can Be Defined And As Everything Has A History Nothing Can Be Defined. Before Any Meaning Can Be Given To The Resolution Or To Space Or Any Combination ThereIn We Must First Acknowledge The Meaninglessness Which Will Underpin Any Investigation.
+Ian **__<span style="color: #000000;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000;">99</span>__**.
+
+However, If You Think The Loss Of A Priori Meaning Is Sad Or Depressing, You Are Not Thinking Hard Enough. The Only Sane Response To A World Devoid Of Meaning Is To Look At It Joyfully Like An Artist’s Canvas, A Blank Slate For Creation. What’s More We Must Dedicate Ourselves Fully To This Creation, To Create The World And Ourselves In The Way We Find Most Affirming. To Do Anything Less Is To Deny Our Will To Power, And By Extension Our Very Humanity.
+Ian **__<span style="color: #000000; font-size: 14.67px;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.67px;">99</span>__**.
+
+
+This Struggle Between The Establishment And Deconstruction Of A Universally Anchored Meaning Is Most Profoundly Exemplified Through Questions Of Earths Place In The Universe. Space Exploration Challenges The Notion That Earth Holds A Privileged Place In The Universe. Such A Challenge Cuts At The Heart Of The Idea Of Metaphysical Truth By Reducing The Earthly Plain Upon Which All Knowledge Is Based To An Absurd Cosmic Accident.
+Niel **__<span style="color: #000000; font-size: 14.67px;">Turnbull,</span>__** **__<span style="color: #000000; font-size: 14.67px;">‘6</span>__**, Senior Lecturer in Philosophy and Social Theory and Nottingham Trent U, “The Ontological Consequence of Copernicus: Global Being in the Planetary World”, Theory, Culture & Society Vol. 23(1))
+
+And Once Again We Think This Is Wonderful. If Earth Holds No Privilege, And Can Never Serve As A Metaphysical Anchor, The Universe Is Ours For Creating
+Niel **__<span style="color: #000000; font-size: 14.67px;">Turnbull,</span>__** **__<span style="color: #000000; font-size: 14.67px;">‘6</span>__**, Senior Lecturer in Philosophy and Social Theory and Nottingham Trent U, “The Ontological Consequence of Copernicus: Global Being in the Planetary World”, Theory, Culture & Society Vol. 23(1))
+
+Now Clearly We Will Not Defend That Everyone In The USFG Suddenly Wakes Up And Agrees With US. We Know That’s Not The Normal Mode Of Affirmation And That’s Fine. In A World Of Radical Self Creation There Is No Reason The Game Of Debate Should Be Excluded. We Think Debate, Like The Universe, Is Ours For Defining.
+Ian **__<span style="color: #000000; font-size: 14.67px;">Johnston</span>__**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.67px;">99</span>__**.
+
+Our Mode Of Affirmation Is Ours Alone, We Do Not Expect That Any Will Copy Us, To Do So Would Miss The Point Entirely. We Would Never Presume To Dictate The Content Of Anyone’s Response To The Topic, We Only Insist You As The Judge Do The Same. This Also Answers That Stupid Argument Where People Say We Link To Ourselves
+Frederick M. **__<span style="color: #000000; font-size: 14.67px;">Dolan</span>__**. “SYMPOSIUM: Nietzsche and Legal Theory (Part 1): Nietzsche’s Gnosis of Law” 24 Cardozo L. Rev. 757. January. 20**__<span style="color: #000000; font-size: 14.67px;">03</span>__**
+
+In The End, This Will Outweigh All There Flustered Cries Of “You Cheat”. You Must Refuse Their Calls To Police Debate. You Have No Way Of Determining How To Measure Good Debate From Bad, Such A Determination Would Require The Ability To Look Beyond Your Own Cultural And Historical Frame And Determine What All Participants Should Get Out Of Every Debate. Such A Move Is Impossible And You Shouldn’t Try. Instead You Should Defend The Only Thing You Can Know Has Value, And That Is The Creation Of Openness Within Which We Can All Affirm Ourselves Through Our Subjective Approach To The Topic.
+Ian **Johnston**. “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**99**.
+
+We should not decide in advance what educational goals this activity should fulfill. To presume to know what educational value debate has for every debater guarantees oppressive hierarchies of knowledge
+Charles **__<span style="color: #000000; font-size: 14.67px;">Bingham 98</span>__**, The goal of language the language of goals: Nietzsche’s concern with rhetoric and its educational implications<span class="updated-short-citation">, Educational Theory, 00132004, Spring98, Vol. 48, Issue 2</span>
+
+<span style="font-size: 14.67px;">There are two different ways of thinking about rules. We can recognize them as product of our own subjectivity at which point the Aff is a prerequisite or see them as handed down from an unquestionable authority at which point we violently exclude any difference at all</span>
+**<span style="font-size: 14.67px;">.</span>**Ian **__<span style="color: #000000; font-size: 14.67px;">Johnston</span>__**, Prof at Vancouver Island University , “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.67px;">99</span>__**.
+
+**Your consensus cards are wrong: Debate is only possible with respect for different approaches.**
+**__<span style="color: #000000; font-size: 14.67px;">Bleiker 98</span>__** asst. prof. of International Studies at Pusan National University (Roland, “Retracing and redrawing the boundaries of events: Postmodern interferences with international theory”, Alternatives, Oct-Dec 1998, Vol. 23, Issue 4)
+
+=Colonization Aff= 
+<span style="font-size: 18.6667px;">Contention 1 Is Colonization</span>
+Colonization is inevitable in the long run, we are developing the technology now and we will start setting up permanent settlements soon it soon.
+**__<span style="color: #000000; font-size: 14.6667px;">David</span>__** ,Senior space writer for space.com, 20**__<span style="color: #000000; font-size: 14.6667px;">05</span>__** (Leonard, “Space Colonization: The Quiet Revolution,” February 23,http://www.space.com/businesstechnology/technology/space_colonization_050223.html)
+
+While some sort of break from Earth is inevitable, what we choose to do with the possibilities of a new human society is up to us. Leaving Earth presents us with a profound opportunity to create new possibilities.
+Niel **__<span style="color: #000000; font-size: 14.6667px;">Turnbull,</span>__** **__<span style="color: #000000; font-size: 14.6667px;">‘6</span>__**, Senior Lecturer in Philosophy and Social Theory and Nottingham Trent U, “The Ontological Consequence of Copernicus: Global Being in the Planetary World”, Theory, Culture & Society Vol. 23(1))
+
+**<span style="font-size: 18.6667px;">Thus Marie And I Advocate The Creation Of A Voluntary Female Separatist Space Colony</span>**
+
+<span style="font-size: 18.6667px;">Contention 2 Is Separatism</span>
+Patriarchy as a mode of social relations has pervaded every aspect of social life for the majority of people for the majority of history. Escaping the hegemony of patriarchy will require nothing short of a radical rethinking of social relation.
+
+The omnipresence of patriarchy has resulted in literally countless acts of gendered violence that extend beyond traditional female victims to endanger the entire world.
+Jennie **Ruby**. Male-Pattern Violence. She is a feminist writer and works at multiple feminist magazines. [[http://www.offourbacks.org/malepat.htm]]. No Date Given (**NDG**).
+
+For centuries the antagonism between women and the patriarchal systems that seek to define them and their possibilities has resulted in sporadic struggles and gains, but the overall system of partiarchy remains well intact. The consistent problems with these struggles has been that they take as a starting point the notion that a feminist politics must be enacted within a larger male society. This is false.Only through true and deliberate separatism can a feminist politics capable of challenging patriarchy emerge. Anything short of this radical set guarantees concession and cooption.
+Julia **Penelope.** The Mystery of Lesbians: III From Lesbian Ethics Vol 1. No 3, **1985**. She is a radical lesbian separatist. [[http://www.feminist-reprise.org/docs/penelope3-1.htm]]
+
+We will isolate two independent warrants for why a politics of separatism is key to fostering a true challenge to patriarchy. First, as long as a feminist politics is placed within a patriarchial society that society will be able to exert social pressure on any feminist movement, diluting and coopting it.
+Jeffner **__<span style="color: #000000; font-size: 14.6667px;">Allen</span>__**, 19**__<span style="color: #000000; font-size: 14.6667px;">89</span>__**, The Thinking muse: feminism and modern French philosophy, Indiana Press
+Second. Separatism allows space for all of male society to be named as an enemy in the fight against patriarchy. This is only possible when feminism is unburdened by the necessity of existing in the society it criticizes.
+Julia **Penelope**. The Mystery of Lesbians: III From Lesbian Ethics Vol 1. No 3, **1985**. She is a radical lesbian separatist. [[http://www.feminist-reprise.org/docs/penelope3-1.htm]]
+
+**<span style="font-size: 14.6667px;">History proves that separatist politics can spill over to integrated society, reducing the hold of patriarchy for everyone. </span>**
+Margaret **Sloan-Hunter. 1976**. Making Separatist Connections: The Issue is Woman Identification. She is a radical black lesbian feminist, and a writer on feminist issues. http://www.feminist-reprise.org/docs/Sloan-Hunter.htm
+
+<span style="font-size: 18.6667px;">Contention Three Is Framework</span>
+**<span style="font-size: 14.6667px;">The politics of true separatism begins not with the act of separating, but with the affirmation that we as individuals have the power to separate. Patriarchy maintains power rigidly defining where power lies, and thus patriarchal society will always attempt to deny this power to individuals. The appropriate response it to ignore the denial and affirm, even in the face of possibility, that we a individuals have the ability to separate. </span>**
+
+Marilyn **Frye**, from Politics of Reality: essays in feminist theory (Crossing Press, **1983)**. She is a writer, and a feminist. “Lesbian Feminism and the Gay Rights Movement: Another View of Male Supremacy, Another Separatism” http://www.feminist-reprise.org/docs/fryegayrights.htm.
+
+
+
+=Negative= 
+===The “N” K=== 
+
+The AFF positions themselves as standing between humanity and the chaos and suffering of the world. They are not simply being ethical, but are taking the radically modern position that the world can be tamed and ordered. In juxtaposing the chaotic real world with an idealized ordered world the AFF necessitates resentment both for a life that can never reach the ideal world and for the other who must be scapegoated to explain the failure of world order.
+**Saurette, 96 –** PhD in Political Theory at John Hopkins University – 1996(Paul, “’I Mistrust all Systematizers and Avoid them’: Nietzsche, Arendt and the Crsiis of the Will to Order in International Relations Theory”, Millennium: Journal of International Studies, Vol. 25, No. 1, Page 1-28)
+
+Any life affirming politics must begin from the fact that suffering is an inevitable element of existence. The fact that the Aff’s first instinct is to seek out an instance of violence, suffering, or death and attempt to alleviate it demonstrates the misguided nature of their politics and baselessness of their claims to moral obligation.
+**__<span style="color: #000000; font-size: 14.6667px;">Kain 7</span>__** (Phillip J., Professor of Philosophy at Santa Clara University "Nietzsche and the Horror of Existence", The Journal of Nietzsche Studies, Issue 33, Spring 2007
+
+The AFFs approach to the chaos of existence marks themselves as continually responsible for moving humanity towards this ideal world. This notion of responsibility can only result in unmitigated guilt for the inevitable failure to bring the world under control. This makes life unlivable as we continually try and control an uncontrollable world at the expense of our own self-affirmation and humanity.
+Friedrich **__<span style="color: #000000; font-size: 14.6667px;">Nietzsche,</span>__** On the Genealogy of Morals, 18**__<span style="color: #000000; font-size: 14.6667px;">87</span>__**
+
+<span style="font-size: 16px;">This approach also has consequences for the rest of the world. The desire to rid the world of chaos and suffering justifies the continuous attempts at universal control that justifies the worst forums of western imperialism by compulsively labeling all forums of political difference as threat. </span>
+**__<span style="color: #000000; font-size: 14.6667px;">Der Derian 95</span>__** (James, Professor of Political Science at Brown University, “The Value of Security: Hobbes, Marx, Nietzsche, and Baudrillard,” Chapter Two in On Security by Ronnie D. Lipschutz)
+
+The idea of a moral calculus which determines the highest good of humanity is neither natural nor objective. Rather it is a false belief rooted in the Eurocentric distinction between civilized and savage life. In the same way human Christendom needed to see its foil in figure of the subhuman new world savage, the affirmative’s calculus guarantees arbitrary scapegoating to justify its claim to moral purity
+**__<span style="color: #000000; font-size: 14.6667px;">Rasch</span>__**<span style="color: #000000;"> 20</span>**__<span style="color: #000000; font-size: 14.6667px;">03 </span>__**<span style="color: #000000;">(William, Prof of Germanic Studies @ Indiana University, "Human Rights as Geopolitics: Carl Schmitt and the Legal Form of American Supremacy", Cultured Critique 54)</span>
+
+
+Your notions of prediction are a knee jerk reaction to the horror of an orderless universe. As we look into the abyss we are overcome with the desire to order it and to make it familiar by inventing laws, patterns, and causality. These laws however, cannot respond to the complexity and unknowability of the universe and if they could we would lack the cognitive capacity to grasp them. As such predictions represent the ultimate drive to control and master a universe which we have no hope of controlling.
+
+**__<span style="color: #000000; font-size: 14.6667px;">Kain</span>__** 19**__<span style="color: #000000; font-size: 14.6667px;">83</span>__**(Philip, Professor of Philosophy at Santa Clara University, Skepticism, and Eternal Recurrence, Canadian Journal of Philosophy, Vol. 13, No. 3)
+
+
+Our Alterative Is To Vote Negative To Willfully Forget The Harms Of The 1AC. This Act Of Forgetting Frees Us To Radically Focus On Our Own Acton And Self Creation And By Extension To Exist In The World Absent The Guilt And Drive To Control Which Underscore’s The Politics Of The AFF.
+**__<span style="color: #000000; font-size: 14.6667px;">Zupancic 2003</span>__**<span style="color: #000000;"> (Alenka, Researcher at the Institute of philosophy @ U of Ljubljana, The Shortest Shadow: Nietzsche's Philosophy of the Two, p. 56-60</span>
+
+This ability to self-create is the strongest internal link to a valuable life. Do not be swayed by the Aff’s appeal to slave morality, there is no basis for such claims, there is only the drive of the individual to live and create oneself in a way that is true to one’s own most individuality. Our individualistic focus is the opposite of the AFFs desire to control others and the universe.
+Ian **__<span style="color: #000000; font-size: 14.6667px;">Johnston</span>__**, Prof at Vancouver Island University , “There’s Nothing Nietzsche Couldn’t Teach Ya About the Raising of the Wrist: A Lecture in Liberal Studies.” Google It. 19**__<span style="color: #000000; font-size: 14.6667px;">99</span>__**.
+===Space Elevators=== 
+**<span style="color: #0d0d0d;">Launches are normal means for SPS. Though there are almost no launches now, SPS requires at least one hundred thousand and lowers the cost to launch, leading to thousands more. </span>**
+**<span style="color: #0d0d0d;">Globus, 08</span>**<span style="color: #0d0d0d;"> (Al, Ad Astra, Spring, “On the Moon”, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf) </span>
+
+**<span style="color: #0d0d0d;">A Space elevator will place satellites in space more reliably and less expensively than rocket launches. It will require no launches. </span>**
+**<span style="color: #0d0d0d;">Swan and Swan 2k6</span>**
+
+===**<span style="color: #0d0d0d;">Debris DA</span>**=== 
+A. Space Debris Exists Now but is being managed
+**__<span style="color: #000000;">TheWeek 11</span>__**[NASA's plan to clean up space junk: Lasers, March 17, 2011, [[http://theweek.com/article/index/213197/nasas-plan-to-clean-up-space-junk-lasers]]]
+
+B. Space missions cause dangerous space debris that damages satellites
+
+**__<span style="color: #000000; font-size: 14.66px;">Pasco 06</span>__** (Senior Research Fellow at the Fondation pour la Recherche Stratégique (FRS), "Technology, Space and Security" Department, “A European Approach to Space Security”, Advanced Methods of Cooperative SecurityProgram, July 2006, [[http://mail.cissm.umd.edu/papers/files/pasco2006.pdf]]) [Crystal Hou]
+**C) The affirmative pushes space debris over the brink, this turns the case**
+**Thiery Sénéchal 7**<span style="font-size: 10.66px;">, founding partner of INDEVAL Switzerland. He holds degrees in economics and finance from Harvard University, London Business School, and Columbia University with highest honours (Phi Beta Kappa)., 2007, Space Debris Pollution: A Convention Proposal, [[http://www.pon.org/downloads/ien16.2.Senechal.pdf]]]</span>
+**D) Space Debris Causes Russian Miscalc and Nuclear War**
+Jeffrey **__<span style="color: #000000;">Lewis,</span>__** postdoctoral fellow in the Advanced Methods of Cooperative Security Program at the Center for International and Security Studies at the University of Maryland School of Public Policy. “WHAT IF SPACE WERE WEAPONIZED?” July 20**__<span style="color: #000000;">04</span>__** (http://www.cdi.org/PDFs/scenarios.pdf]**)**
+===Earth Science DA=== 
+A) NASA Earth science budgets is tight carefully calibrated to balance research with exploration
+<span class="StyleStyleBold12pt">**__<span style="color: #000000; font-size: 14.66px;">Holdren 11</span>__**</span> (John, Director – Office of Science and Technology Policy, “The Budget for the White House Office of Science and Technology Policy”, Congressional Documents and Publications, 5-4, Lexis)
+B) Plan forces spending trade-offs. Kills Earth Science
+<span style="font-size: 17.33px;">Haymet 7</span> (Tony, Director of the Scripps Institution of Oceanography – University of California, San Diego, Mark Abbott, Dean of the College of Oceanic and Atmospheric Science – Oregon State University, and Jim Luyten, Acting Director – Woods Hole Oceanographic Institution, “The Planet NASA Needs to Explore”, Washington Post, 5-10, <span style="color: #000000; text-decoration: none;">[[http://www.lexis.com/research/retrieve|http://www.washingtonpost.com/wp-dyn/content/article/2007/05/09/AR2007050902451.html]]</span>)
+C)Extinction
+<span style="font-size: 16px;">Killeen 5</span> (Timothy L., Director – National Center for Atmospheric Research, “NASA Earth Science”, CQ Congressional Testimony, 4-28, Lexis)
+
+===Debate Framework vs affs with nuke war impacts=== 
+Was It Because The U.S Failed To Reduce Systemic Poverty Resulting In A Loss Of Leadership Which In Turn Plunged The World Into Loos Nuke Chaos
+Senator John **__<span style="color: #000000;">Edwards</span>__**, Spring 2007, Journal of Gender, Race & Justice, “Restoring the American Dream: Fighting Poverty and Strengthening the Middle Class p. 390-1
+
+**__<span style="color: #000000;">Thayer, 07</span>__** – Associate Professor in the Department of Defense and Strategic Studies, Missouri State University (Bradley A., American Empire, Routledge, page 108)
+
+Or Was It Because The US Did Not Make A Quick Enough Transition To Cellulose Based Alternative Energy And Oil Dependence Did Us In
+
+<span style="font-size: 16px;">Schmer et al, Researchers at the US dept of agriculture. 2007</span>
+M.R., PNAS “Net Energy of Cellulosic Ethanol from Switchgrass” November 21st 2007 http://www.pnas.org/cgi/content/short/105/2/464
+
+<span style="font-size: 16px;">Governors Ethanol Coalition</span>, Bipart group of US and international members, <span style="font-size: 16px;">05</span>
+(Governors’ Ethanol Coalition, “Ethanol from biomass,” April, [[http://www.ethanol-gec.org/GEC_biomass_rept_4-12-05.pdf]], Date accessed: 6/26/08)
+
+Or Was It Because We Elected Obama And He Screwed Up Afghanistan
+Bainbridge, '8
+(Law Prof -- UCLA, http://www.stephenbainbridge.com/punditry/comments/credit_where_due/ )
+
+Herold 2006
+(Marc W., Departments of Economics and Women's Studies Whittemore School of Business & Economics University of New Hampshire. U.S. military strategy to maintain Afghanistan as an 'Empty Space', March 18, http://www.cursor.org/stories/emptyspace4.html)
+
+**<span style="font-size: 16px;">Medler ‘05</span>**
+
+(James D., Senior Risk Analyst with Digital Sandbox, Inc., “Afghan Heroin: Terrain, Tradition, and Turmoil”, Orbis, 49(2), Spring)
+
+**Starr ‘03**
+(S. Frederick, Chair – Central Asia-Caucasus Institute, “Afghanistan: Free Trade and Regional Transformation”, [[http://www.cacianalyst.org/Publications/Starr_Asia_Society_Afghanistan.htm%29|http://www.cacianalyst.org/Publications/Starr_Asia_Society_Afghanistan.htm)]]
+
+
+Friends I Know This Passing Has Grieved You Badly But I Must Insist That Now Is The Time For Morning. Moring Is And Always Was The Only Rational Response To The Perpetual Vulnerability Of The Human Race. Only Through Acknowledging The Grief At Our Own Vulnerability Does The Urge To Destroy And Secure At All Costs Cease To Be a Justification For Limitless Violence.
+Judith __<span style="color: #000000;">Butler</span>__, Precarious life: the powers of mourning and violence, 20__<span style="color: #000000;">04</span>__
+
+What our above performance shows is that fundamentally the affirmative is in a double bind. Because our impacts function in the exact same way as theirs do, they are forced to concede that either: A, our impacts are fundamentally true, we have all died due to multiple nuclear wars, and there is no reason to do the affirmative because in either world we are entirely dead and not doing anything, and we can't be resolved if we're dead anyways, or B, the logic of normative policy debate that informed the construction of the 1AC, the 20 nuclear war impacts a round is empirically flawed beyond repair. The ever presence of apocalyptic rhetoric means it ceases to have any meaning, meaning there case doesn’t count for anything.
+
+Coviello 00 - Assistant Professor of English @ the Bowdoin College
+[Peter, Queer Frontiers: Millennial Geographies, Genders, and Generations. "Apocalypse from Now On."]
+
+Debate has become fixated on improbable extinction scenarios that aren't considered in any form by the scholarly community just for the purpose of impact debate
+**Odekirk**, Scott, (debate coach at Idaho Satate and author of puttingthekindebate.com), “Impact Hyperbole: A dilemma of contemporary debate practice”, 8/26/**10**, http://puttingthekindebate.com/2010/08/26/impact-hyperbole-a-dilemma-of-contemporary-debate-practice/
+
+
+Impact hyperbole leads to poor scholarship, no real world education which spills into poor policy decisions in general, and leads to Darwinian nihilism.
+
+**Odekir__<span style="color: #000000;">k</span>__**, Scott, (debate coach at Idaho Satate and author of puttingthekindebate.com and candidate for city council of poticello), “Impact Hyperbole: A dilemma of contemporary debate practice”, 8/26/10, [[http://puttingthekindebate.com/2010/08/26/impact-hyperbole-a-dilemma-of-contemporary-debate-practice/]]
+
+**This ultimately makes us crappy advocates whatever we do. When we focus on large nuclear impacts we then ignore actual suffering that happens, and even begin to cheer it because we are caught up in competition trying to find evidence for reasons to do or not to do the plan.**
+
+No Specific Author Given. **University of Louisville Debate.** Constructing an Ethical Policy Debate System for a Multicultural Democracy. **NDG**. (sites book passage from 1991). [[http://webcache.googleusercontent.com/search?q=cache:6ZRwwstI3mMJ:l]] ouisvi lledebate.wordpress.com/2008/08/30/ethical-policy-deb ate-for-a-multicultural-democracy/+nuclear+impacts+policy+debate+%22university+of+louisville%22&cd=1&hl=en&ct=clnk&gl=us
+
+Getting hit with a continuous stream of nuclear impacts actually has the opposite effect that their framework arguments will suggest. It in fact creates a sense of inevitability towards impacts which make advocacy seem futile.
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.66px;"> (</span>Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) <span style="font-size: 10.66px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span>, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“
+
+
+**<span style="font-size: 16px;">At best you create warhawks who are less capable of making informed decisions about issues of security and are substantially more likely to commit to force.</span>**
+
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.66px;"> (</span>Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) <span style="font-size: 10.66px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span>, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“
+
+
+**<span style="font-size: 16px;">Prefer our evidence because it is specific to the effect of their representations on high school students.</span>**
+
+**<span style="font-size: 16px;">Goodman et al 1983</span>**<span style="font-size: 10.66px;"> (</span>Lisa A. Goodman, John E. Mack, William R. Beardslee, Roberta M. Snow) <span style="font-size: 10.66px;">Political Psychology, Vol. 4, No. 3 (Sep., 1983), pp. 501-530</span>, “The Threat of Nuclear War and the Nuclear Arms Race: Adolescent Experience and Perceptions“
+
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,35 @@
+[[toc]]
+=Topicality= 
+
+==T Humans== 
+
+===1NC=== 
+
+**<span style="font-family: Calibri,sans-serif;">Exploration requires __human travel__.</span>**
+<span style="font-size: 10pt;">Wright 8</span> (Edward, Project Manager – Teachers in Space, Former President – X-Rocket, LLC, and Programming Writer – Microsoft Corporation, Comment on “A Move Against ‘Mars Mission Funding’”, Space Politics, 6-28, <span style="text-decoration: none;">[[http://www.spacepolitics.com/2006/06/28/a-move-against-mars-mission-funding/]]</span>)
+<span style="font-size: 8pt;">> No it doesn’t,...</span> sector is also working on space exploration.
+
+**<span style="color: black;">Development requires human presence in space</span>**
+**<span style="color: black;">Livingston 7</span>** <span style="color: black; font-size: 6pt;">– former adjunct professor in the Graduate School of Business at Golden Gate University his doctoral dissertation was titled “Outer Space Commerce: Its History and Prospects” citing Eric Westling co-author of “The Space Elevator” and numerous papers on space tech and development [quals in card] (9/10/07, “This Week On The Space Show: Eric Westling”,</span> <span style="font-size: 6pt;">http://www.thespaceshow.com/guest.asp?q=298</span><span style="color: black; font-size: 6pt;">)</span> <span style="color: black;">***TRL stands for Technology Readiness Level**</span>
+
+**__<span style="color: black;">Eric</span>__ __<span style="color: black;">Westling is</span>____<span style="color: black;"> a</span>__ __<span style="color: black;">science writer</span>__<span style="color: black; font-size: 6pt;">,.....</span>**__<span style="color: black;">projects in space</span>**__<span style="color: black; font-family: 'Times New Roman',serif; font-size: 6pt;">.</span>
+
+==<span style="color: #000000; font-family: 'Times New Roman',serif; font-size: 12pt;">T Increase</span>== 
+
+===<span style="color: #000000; font-family: 'Times New Roman',serif; font-size: 10pt;">1NC</span>=== 
+
+**<span style="color: black;">Increase requires making an already existing thing greater</span>**
+**<span style="color: black;">Buckley et al. 6</span>** <span style="color: black; font-size: 6pt;">-attorney (Jeremiah, Amicus Curiae Brief, Safeco Ins. Co. of America et al v. Charles Burr et al,</span> <span style="color: #0000cc; font-size: 6pt;">[[@http://supreme.lp.findlaw.com/supreme_court/briefs/06-84/06-84.mer.ami.mica.pdf]]</span><span style="color: black; font-size: 6pt;">)</span>
+
+<span style="color: black; font-size: 6pt;">First, the court said that the ordinary...</span> words around it”) (citation omitted).
+
+==T Substantial== 
+
+===1NC=== 
+
+**They’re not topical—Substantial increase is defined as at least $2.6 billion per year.**
+**Alexander, 8** <span style="font-size: 6pt;">Professor of history, philosophy, and history of science at Stanford, 2008 [Amir Alexander, “President Signs NASA Authorization Bill” October 16th, 2008, http://www.planetary.org/programs/projects/space_advocacy/20081016.html 6-29-11]</span>
+
+<span style="font-size: 6pt;">On Wednesday, October 15, 2008, President ... does provide the agency with spending guidelines and indicates Congress's priorities.</span>
+
+[[include page="space.template.Footer"]]

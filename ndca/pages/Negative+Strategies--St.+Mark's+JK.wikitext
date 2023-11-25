@@ -1,0 +1,219 @@
+[[toc]]
+=Negative Strategies= 
+
+==SMU== 
+
+===Round 2=== 
+
+Conrad--Asteroids
+
+1NC: Security K, Politics, Russia International Actor CP, Case
+2NC: Politics, CP
+1NR: Case
+2NR: Harms
+
+===Round 4=== 
+
+Coppell DE--Human Spaceflight Neoliberalism
+
+1NC: NSP CP, Politics, ASPEC, T Increase, Extra T, Neolib Good, Biopower Good, Case, Impact Framework
+2NC: Impact Framework, Neolib Good/Defense
+1NR: Extra T, Biopower Good/Defense
+2NR: Neolib Good, Impact Framework, Biopower Defense
+
+===Quarters=== 
+
+Coppell KS--Human Spaceflight Neoliberalism
+
+1NC: Politics, ASPEC, Ozone DA, CP Ban Privitization, Neolib Good, Biopower Good, Case, Impact Framework
+2NC: Neolib Good, Impact Framework
+1NR: Neolib Good
+2NR: Neolib Good, Util
+===Finals=== 
+
+Highland Park SW--Turn Off the Lights Anthro
+
+1NC: T Increase, T Its, T Human, T Mesosphere, Politics, Ban Lights CP, Anthro Good, Impact Framework
+2NC: Anthro Good, Impact Framework, Politics, Ban Lights CP
+1NR: T Human, T Mesosphere
+2NR: T Human, Ban Lights CP
+==Grapevine== 
+
+===Round 1=== 
+
+Westlake DG--Space Elevator Bataille (?)
+
+1NC: T Human, T Increase, Politics, DA Russia Coop, CP Ban Private Sector+Space weapons, DA Ozone, Case
+2NC: Politics, CP, Case
+1NR: T human, T Increase
+2NR: Politics, Case
+
+===Round 4=== 
+
+Winston Churchill--Chronology of Space Spanos
+
+1NC: K West Best, Framework, Imperialism Good
+2NC: Framework
+1NR: Framework
+2NR: Framework
+
+===Semis=== 
+
+Westwood--SPS
+
+1NC: DA Politics, CP Russia International Actor, DA Space Mil, T Mesosphere, Heg Bad, Case
+2NC: DA Space Mil, CP Russia International Actor, Case
+1NR: Theory, Politics
+2NR: Politics, CP Russia International Actor, Case
+
+==Greenhill== 
+
+===Round 2=== 
+Eden Prairie--Space BMD
+
+1NC: CP Code of Conduct+Planks from 1ac ev, DA Politics, DA Soft Power, DA Arms Race, T Humans, T Increase, Case
+2NC: CP, Soft Power
+1NR: Politics
+2NR: CP, Politics
+===Round 4=== 
+
+Meadows--ORS
+
+1NC: CP Dependency, T Humans, DA Politics, DA Miscalc, Heg Bad, Case
+2NC: CP, Case
+1NR: DA Miscalc, Case
+2NR: CP, DA Miscalc
+
+===Round 6=== 
+
+St. Paul Central--Bataille Cyborgs
+
+1NC: DA Space mil, DA politics, T Reps, T Humans, CP Russia+abusive object fiat plank, Case
+2NC: T Reps (a vagueness claim), Politics, CP, Case
+1NR: T Humans
+2NR: T Humans
+
+==Georgetown== 
+
+===Round 2=== 
+
+Carrolton UV--Inflatable SPS
+
+1NC: DA Politics, DA Status Gap, Russia CP, DA Space Mil, T Mesosphere, Case
+2NC: CP, T Mesosphere, Case
+1NR: Status Gap
+2NR: Status Gap, Case
+
+===Round 3=== 
+
+Perry--Women Testing Gender
+
+1NC: DA Politics, DA Social Justice Tradeoff, CP Russia, ASPEC, Framework, Case (also with gender k2 heg)
+2NC: CP, Framework, Case with heg turn
+1NR: Social Justice, Framework
+2NR: Framework, Social Justice, CP
+
+===Round 6=== 
+
+Lexington--SPS
+
+1NC: DA Politics, CP Near Space, DA Space Mil, DA Space Debris, T Substantial, Case
+2NC: CP Near Space, Case
+1NR: DA Politics (they double turned)
+2NR: DA Politics, CP
+
+===Octos=== 
+
+GBN MD--Space Debris
+
+1NC: DA Politics, DA Space Mil, CP Near Space, T Beyond, Case
+2NC: T Beyond, CP Near Space, Case
+1NR: DA Politics
+2NR: CP, DA Politics
+
+==Hockaday== 
+
+===Round 1=== 
+
+Coppell BJ--SPS
+
+1NC: Psychoanalysis K, Near Space CP, Space Mil Bad (impact turned the case), Politics, T Humans, T Beyond, ASPEC, Case
+2NC: Near Space CP, New DOD Bomber Tradeoff DA, K, Space Mil Bad
+1NR: Politics, Case
+2NR: Near Space CP, DOD Bomber, Politics
+
+===Round 4=== 
+
+Greenhill SU--Space Guard
+
+1NC: Security K, T Humans, T Beyond, ASPEC, NSP CP, Dedev, Case
+2NC: Security K
+1NR: T Humans
+2NR: T Humans
+
+===Quarters=== 
+
+Greenhill JG--Space Guard
+
+CP Text: The United States federal government should create a Space Guard and transfer existing military Space Situational Awareness capabilities to their jurisdiction. The United States federal government should substantially increase staffing in the Air Force.
+
+1NC: Security K, T Humans, T Beyond, ASPEC, DA Politics, DA Bomber Tradeoff, CP, Treaties Bad, Case
+2NC: CP, K, Treaties Bad, Case
+1NR: DA Politics, DA Bomber, Case
+2NR: CP, DA Bomber, DA Politics
+
+==Alta== 
+
+===Round 1=== 
+
+West: Ontology of Space/Questioning Aff
+
+1NC: Framework, Near Space DA, Heg K
+2NC: Heg K
+1NR: Framework
+2NR: Framework
+
+===Round 4=== 
+
+St. Francis: Space Debris (EDDE)
+
+1NC: T Human, T Substantial, T Increase, ASPEC, GOLD Balloon CP, DA Bomber Tradeoff, DA Politics, DA Space Mil, Case 
+2NC: DA Bomber Tradeoff, CP, Case
+1NR: Politics
+2NR: Bomber, CP, AT Dedev
+
+===Round 6=== 
+
+Rowland Hall VN: ORS
+
+1NC: T Humans, T Substantial, ASPEC, CP Near Space, DA Politics, DA PGS, DA Launches, Case 
+2NC: CP, New Bomber DA
+1NR: PGS, Solvency (Cyber-attack takeout)
+2NR: CP, PGS
+
+===Round 7=== 
+
+Loyola AD: Kritikal SPS
+
+1NC: T Humans, T Beyond, T Substantial, CP Near Space, K Normativity, DA Launches, DA Politics, DA Space Mil, DA Bomber Tradeoff Oil Dependence Good, Case 
+2NC: Normativity, T Beyond, DA Politics, DA Launches, CP Near Space
+1NR: Case D
+2NR: Normativity
+
+===Octos=== 
+
+Kent Denver: Military SSA
+
+1NC: T Humans, T Increase, T Substantial, CP Near Space, K Normativity, DA Launches, DA Politics, DA Bomber Tradeoff, Case
+2NC: CP Near Space, K Normativity, DA Politics
+1NR: T Substantial, Inherency
+2NR: T Substantial
+
+===Quarters=== 
+
+Gulliver Prep MZ: Space Debris
+
+1NC: DA Launches, T Substantial, CP Near Space, DA Politics, DA Space Mil, Case 
+2NC: CP Near Space, New Bomber Tradeoff DA, Case
+1NR: Space Mil
+2NR: Bomber Tradeoff, CP

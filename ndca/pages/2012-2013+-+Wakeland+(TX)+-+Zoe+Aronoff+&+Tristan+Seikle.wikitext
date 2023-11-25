@@ -1,0 +1,10 @@
+[[toc]]
+=Affirmative - Arctic Roads= 
+**__<span style="font-family: Arial; font-size: 12pt;">Although they have been rumored, there are no official plans to build a tunnel under the Bering Strait</span>__**
+<span style="color: #3c3c3c; font-family: Arial; font-size: 8pt;">http://www.forbes.com/sites/williampentland/2011/09/08/russia-reportedly-planning-to-build-tunnel-under-bering-strait/</span>
+
+<span style="display: block; font-family: Georgia,'Times New Roman',serif; font-size: 18px; text-align: left;">The rumors about a Russian effort to construct what would be the world’s longest tunnel connecting Alaska and Siberia escalated to a fever pitch at a press briefing yesterday at Foggy Bottom.... So what gives? You tell me.</span>
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

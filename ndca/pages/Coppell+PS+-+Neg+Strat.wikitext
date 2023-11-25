@@ -1,0 +1,105 @@
+[[toc]]
+**Email for Neg cites:** [[mailto:rohandebate@gmail.com%C2%A0|rohandebate@gmail.com]]
+=Neg Strat= 
+
+===Byron Nelson=== 
+
+**Semis vs. Grapevine KS - HSR**
+**1NC:** States CP, Downgrade DA, Elections DA, and Case Defense
+**2NC:** Downgrade DA, and States CP
+**1NR:** Elections DA and Case
+**2NR:** States CP and Elections DA
+
+===Plano West=== 
+
+**Round 3 vs. Hebron KA - Bicycles**
+**1NC:** Cap K, Downgrade DA, Elections DA, and Case Defense
+**2NC:** Cap K and Downgrade DA
+**1NR:** Elections DA
+**2NR:** Cap K
+
+**Round 5 vs. Berkner LS - Anthro RADS Aff**
+**1NC:** Cap K, Downgrade DA, Framework, Elections DA, Anthro Good Turns
+**2NC:** Cap K and Downgrade DA
+**1NR:** Elections DA and Case
+**2NR:** Downgrade DA and Framework
+
+===Naaman Forest=== 
+
+**Round 4 vs. Law Magnet GO - Green Tech**
+**1NC:** Psychoanalysis K, Elections DA, EIS CP, and Case D
+**2NC:** EIS CP and Psychoanalysis K
+**1NR:** Elections DA and Case
+**2NR:** Psychoanalysis K and Case
+
+===Hockaday=== 
+
+**Round 2 vs. Grapevine IS - Plastic Roads**
+**1NC:** Downgrade DA, Psychoanalysis K, Cyber Security DA, Cost Overruns CP, and Case D
+**2NC:** Downgrade DA, Psychoanalysis K, Cost Overruns CP
+**1NR:** Cyber Security DA and Case D
+**2NR:** Psychoanalysis K and Case D
+
+===University of Texas at Austin=== 
+
+**Round 3 vs. Little Rock Central SS - NextGen**
+**1NC:** Downgrade DA, Fiscal Cliff DA, Cost Overruns CP, Psychoanalysis K, and Case D
+**2NC:** Downgrade DA and Cost Overruns CP
+**1NR:** Fiscal Cliff DA and Case D
+**2NR:** Downgrade DA, Fiscal Cliff DA
+
+**Round 5 vs. Roma High School FR - Bering Strait**
+**1NC:** T-Land Grants, Downgrade DA, Fiscal Cliff DA, Psychoanalysis K, Case D
+**2NC:** Downgrade DA, Psychoanalysis K
+**1NR:** T-Land Grants, Fiscal Cliff DA and Case D
+**2NR:** T-Land Grants, Psychoanalysis K, and Case D
+
+===Berkner=== 
+
+**Round 2 vs. North Crowley LH - Cap Aff**
+**1NC:** Psychoanalysis K, Cede the Political DA, Fiscal Cliff DA, Neolib Turns, Framework, Cap Turns
+**2NC:** Psychoanalysis K, Framework, Case Defense
+**1NR:** Fiscal Cliff DA, Neolib Turns, Cap Turns, Framework
+**2NR:** Psychoanalysis K, Neolib Turns, Cap Turns, Framework
+
+**Round 4 vs. Wylie QA - Icebreakers**
+**1NC:** Psychoanalysis K, Fiscal Cliff DA, Downgrade DA, EIS CP, Util Good, Case Defense
+**2NC:** Downgrade DA, EIS CP, Case Defense
+**1NR:** Fiscal Cliff DA, Util Good
+**2NR:** Fiscal Cliff DA, EIS CP, Util Good
+
+===Colleyville=== 
+
+**Round 1 vs. St. Marks BM - NIB**
+**1NC:** NIB-SPEC, Immigration Politics, Psychoanalysis K, States CP, Case D
+**2NC:** Psychoanalysis K
+**1NR:** Immigration Politics, Case D
+**2NR:** Immigration Politics
+
+**Round 4 vs. Highland Park TW - NextGen**
+**1NC:** T-Communications, Immigration Politics, Psychoanalysis K, States CP, Case D
+**2NC:** Psychoanalysis K
+**1NR:** Immigration Politics, Case D
+**2NR:** Immigration Politics
+
+===Berkeley Invitational=== 
+
+**Round 2 vs. Rowland Hall AK - Hillman**
+**1NC:** T - Framework, Cap K, Anthro K
+**2NC:** Cap K
+**1NR:** T - Framework 
+**2NR:** T - Framework
+
+**Round 4 vs. St. Francis AG - Natives**
+**1NC:** Psychoanalysis K, Immigration Politics DA, Natives Earmarks PIC, Gift Turn
+**2NC:** Psychoanalysis K
+**1NR:** Gift Turn
+**2NR:** Gift Turn
+
+**<span style="line-height: 1.5;">Round 5 vs. South East PR - Mass Transit Equality</span>**
+<span style="line-height: 1.5;">**1NC:** Psychoanalysis K, Immigration Politics DA, States CP, Gentrification Turns</span>
+<span style="line-height: 1.5;">**2NC:** Psychonalysis K and Gentrification Turns</span>
+<span style="line-height: 1.5;">**1NR:** Immigration Politics DA</span>
+<span style="line-height: 1.5;">**2NR:** Psychoanalysis K and Gentrification Turns</span>
+
+[[include page="space.template.Footer"]]

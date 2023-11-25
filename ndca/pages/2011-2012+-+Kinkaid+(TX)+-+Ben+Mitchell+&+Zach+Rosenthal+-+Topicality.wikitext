@@ -1,0 +1,39 @@
+[[toc]]
+=Topicality= 
+==Substantially== 
+===1NC=== 
+**<span style="color: black;">A. Interpretation: Affirmatives must increase budget outlays by at least $2.6 billion.</span>**
+**Substantially should be defined by context**
+**<span style="color: black;">Devinsky, 2 </span>**<span style="color: black;">(Paul, IP UPDATE, VOLUME 5, NO. 11, NOVEMBER 2002, “Is Claim "Substantially" Definite? Ask Person of Skill in the Art”, http://www.mwe.com/index.cfm/fuseaction/publications.nldetail/object_id/c2c73bdb-9b1a-42bf-a2b7-075812dc0e2d.cfm)</span>
+
+<span style="color: black; font-size: 8pt;">In reversing a summary judgment of invalidity, </span>__<span style="color: black;">the U.S. Court of Appeals</span>__<span style="color: black; font-size: 8pt;"> for the …</span>__<span style="color: black;"> phrase would be understood by persons experienced in this field</span>__<span style="color: black; font-size: 8pt;"> of mechanics, upon reading the patent documents."</span>
+
+<span class="Underline">**<span style="text-decoration: none;">A substantial increase for space is at least 2.6 billion</span>**</span>
+<span class="Underline">**<span style="text-decoration: none;">Alexander, 8</span>**</span><span style="font-size: 8pt; text-decoration: none;"> (Amir, writer for the Planetary Society, “President signs NASA Authorization Deal,” October 16, 2008 from http://www.planetary.org/programs/projects/space_advocacy/20081016.html)</span>
+<span style="font-size: 8pt;">On Wednesday, October 15, 2008, President Bush signed into … with spending guidelines and indicates Congress's priorities.</span>
+
+===**<span style="color: black;">2NC Baseline</span>**=== 
+
+<span class="StyleBoldUnderline">**<span style="font-family: 'Times New Roman',serif; font-size: 12pt; text-decoration: none;">The baseline for space development – including DOD and NASA is 74 billion</span>**</span>
+**<span style="color: black; font-family: 'Times New Roman',serif;">GAO 10</span>**<span style="color: black; font-family: 'Times New Roman',serif;"> – US Government Accountability Office (“United States Government Stewardship Information (Unaudited) for the Years Ended September 30, 2010, and 2009 Stewardship Investments” </span><span style="font-family: 'Times New Roman',serif;">[[http://www.gao.gov/financial/fy2010/10stew.pdf]]</span><span style="color: black; font-family: 'Times New Roman',serif;">)</span>
+
+__<span style="color: black; font-family: 'Times New Roman',serif;">With regard to development, the DOD and NASA had $</span>__<span style="color: black; font-family: 'Times New Roman',serif; font-size: 8pt;">.... such as carbon, that are essential for life. Major breakthroughs in our knowledge of the cosmos have already been made with the current suite of missions. </span>
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">NASA’s budget is $18.7 bil, allocated between shuttle and ISS, science, exploration, and aeronautics research</span>**
+**__<span style="font-family: 'Times New Roman',serif;">Weaver, NASA Associate Administrator for the Office of Communications, 2011</span>__**<span style="font-family: 'Times New Roman',serif;"> [Daniel S., NASA Announces Fiscal Year 2012 Budget, February 14th, 6-27-11, </span><span style="font-family: 'Times New Roman',serif;">[[http://www.nasa.gov/home/hqnews/2011/feb/HQ_11-041_NASA_Budget.html]]</span><span style="font-family: 'Times New Roman',serif;"> SC]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">WASHINGTON -- </span><span style="font-family: 'Times New Roman',serif;">NASA announced</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Monday an </span><span style="font-family: 'Times New Roman',serif;">$18.7 billion ….</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;"> even greater results to the American taxpayers."</span>
+
+
+===<span style="text-decoration: none;">2NC Limits/Ambiguity Impact</span>=== 
+
+
+**<span style="font-size: 11pt;">Alternative interpretations are even more ambiguous and destroy limits</span>**
+
+**<span style="font-size: 11pt;">Stark 97</span>**<span style="font-size: 11pt;"> – patent attorney from Tennessee (Stephen, “NOTE: KEY WORDS AND TRICKY PHRASES: AN ANALYSIS OF PATENT DRAFTER'S ATTEMPTS TO CIRCUMVENT THE LANGUAGE OF 35 U.S.C., Journal of Intellectual Property Law, Fall, 1997 5 J. Intell. Prop. L. 365, lexis) </span>
+
+
+
+<span style="font-size: 8pt;">In patent law, ambiguity of claim language necessarily results in uncertainty </span>
+
+__<span style="font-size: 11pt;">term, such as "substantial," which usually has a very ambiguous meaning, makes the scope of protection</span>__ __<span style="font-size: 11pt;">particularly hard to determine</span>__<span style="font-size: 8pt;">.</span>

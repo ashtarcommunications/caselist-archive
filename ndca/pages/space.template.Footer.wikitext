@@ -1,0 +1,2 @@
+----
+This page has been updated {$pagerevisions} times since it was created on {$creationmonth}/{$creationday2}/{$creationyear}. It was last updated on {$revisionmonth}/{$revisionday2}/{$revisionyear} by {$revisioneditor}.

@@ -1,0 +1,142 @@
+[[toc]]
+=<span style="font-size: 20px;">Broadband 1AC</span>= 
+__**<span style="font-size: 16px;">Contention 1: The Status Quo</span>**__
+
+**There is currently a major lack of internet access creating a digital divide and missed opportunities.**
+
+**Murphy 11-8 -11**
+http://www.masslive.com/politics/index.ssf/2011/11/massachusetts_gov_deval_patric_2.html Massachusetts Gov. Deval Patrick says expanding Internet service as important to economy as investing in schools, roads and bridges. Tuesday, November 08, 2011, 4:26 PM By MATT MURPHY.
+
+**And, we’re missing out on an $8 trillion economy**
+
+**Reuters 10/12**
+[“FCC unveils new broadband access program.” October 12, 2011. http://www.reuters.com/article/2011/10/13/us-media-fcc-idUSTRE79C02Z20111013]
+THUS THE PLAN,
+
+The Federal Communications Commission will implement a universal wireless Internet mesh network by establishing a civil-use ViaSat Satellite System beyond the earth’s mesosphere in geostationary orbit. We’ll allocate through the universal service fund. We’ll clarify, just ask.
+
+__**<span style="font-size: 16px;">Contention 2: Solvency</span>**__
+
+**First, the plan results in many positives, is economically beneficial, and the FCC chairman likes it.**
+
+**Coursey 10**
+[David Coursey, MA @ Florida State, Award Winning Technology Programer and Reporter for 20 years. “Why the FCC National Broadband Plan Should Include Public Wi-Fi.” March 2010. [[http://www.pcworld.com/businesscenter/article/191325/why_the_fcc_national_broadband_plan_should_include_public_wifi.html]]]
+
+**Second, ViaSats are really cheap**
+
+**Matthews 2009**
+[William, staff writer for defense news. “ TSAT Replacement? ” July 20, 2009.]
+
+**Third, the Wi-Fi mesh satellites work effectively for both urban and rural areas.**
+
+**Merrit 8**
+[Rick, writer for EE Times. “Video: Berkeley brings WiFi to rural poor.” June 17, 2010.]
+
+**Fourth, the Universal Service Fund will fund the plan.**
+
+**Musgrave 2006** - Chairman of the House Subcommittee on Rural Enterprises, Agriculture, and Technology (5/3, Marilyn, "Opening Statement of Marilyn Musgrave Chairman, Subcommittee on Rural Enterprises, Agriculture and Technology", CQ Congressional Testimony, Lexis Congressional, WEA)
+
+**Fifth, new Internet infrastructure is key to future space missions**
+
+**Brown 2008**
+Dwayne Brown, Katherine Trinidad, Rhea Borja. Nov. 18, 2008. NASA. http://www.nasa.gov/home/hqnews/2008/nov/HQ_08-298_Deep_space_internet.html BJ
+
+__**<span style="font-size: 16px;">Advantage 1: Digital Democracy</span>**__
+
+**First, the current system is leaving many of the poor without internet, increasing the digital divide. Internet is now critical for Americans to function.**
+
+**Hamblen 10**
+[Matt, reports for Computer World. “FCC says 93M in the US lack broadband, digital divide grows.” Febuary 23, 2010.] BW
+
+**Second, federal programs succeed, but expansion is necessary.**
+
+**Dickard & Schneider 2**
+[Norris Dickard is a senior associate at the Benton Foundation. His work focuses on public policies related to universal service, educational technology, and bridging the digital divide. Diana Schneider formerly served as the Assistant Director of Outreach at The George Lucas Educational Foundation. She currently works with the Benton Foundation Communication Policy program on projects related to educational technology and bridging the digital divide, “The Digital Divide: Where We Are Today,” 7/1/2002 http://www.edutopia.org/digital-divide-where-we-are-today] BW
+
+**Third, the digital divide is undermining democracy in America and destroys civic engagement. Internet access is absolutely critical for democracy in today’s day and age.**
+
+**Lloyd 8**
+[Mark Lloyd is an affiliate professor of public policy at Georgetown University and a member of the advisory board of Science Progress, “Advanced IT Policy for a New America,” December 19, [[http://www.scienceprogress.org/2008/12/advanced-it-policy-for-a-new-america/]]]
+
+**Fourth, US internet policy causes massive shifts toward democracy through modeling and civic contact.**
+
+**Shirazia, Ngwenyamaa, & Morawczynskib 9**
+[*Farid Shirazia, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada AND **Ojelanki Ngwenyamaa, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada, AND** *Olga Morawczynskib, Sciences Studies Unit, University of Edinburgh, Edinburgh, UK, “ICT expansion and the digital divide in democratic freedoms: An analysis of the impact of ICT expansion, education and ICT filtering on democracy,” Telematics and Informatics, Received 12 April 2008; revised 27 February 2009; accepted 3 May 2009. Available online 15 May 2009, Science Direct]
+
+**Fifth, democracy solves all impacts and your disad’s too.**
+
+**Diamond 95**
+[Larry Diamond, Hoover Institution, Stanford University, December, PROMOTING DEMOCRACY IN THE 1990S. 1995. http://www.carnegie....y/diam_rpt.html] BW
+
+**Sixth, the plan is a prerequisite to your kritiks—democracy is key to checking the government’s power. It solves democide.**
+
+**Rummel 94**
+[Rudolph, Nobel Peace Prize winner for research on democracy, “Death by Government.” 1994.]
+
+__**<span style="font-size: 16px;">Advantage 2: Bioterror</span>**__
+
+**First, expect a bioterrorist attack by 2013.**
+
+**Sharoff November 2011**
+[“Bioterrorism: Growing Threat, Inadequate Budget.” November 14, 2011. [[http://gppreview.com/2011/11/14/bioterrorism-growing-threat-inadequate-budget/]]]
+
+**Second, That goes global in six weeks.**
+
+**Levy 7**
+[Janet Ellen, The American Thinker. “The Threat of Bioweapons,” http://www.americanthinker.com/2007/06/the_threat_of_bioweapons.html] BW
+
+**Third, bioterror is the most likely scenario for extinction.**
+
+**Ochs 02**
+[Richard, MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park, “BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html] BW
+
+**Fourth, a national broadband program leads to widespread telemedicine access.**
+
+**Davidson and Santorelli 2009**
+[A study commissioned by the Department of Commerce, Charles M Davidson and Michael J. Santorelli, Advanced Communications Law & Policy Institute at New York Law School, "The impact of broadband on telemedicine", http://www.uschamber.com/NR/rdonlyres/ec5epgwk7vyanosellij36hyzht3udur5ceemxscfgfayigcrkyfuntto6adiwt7s2rw2g73epqddifjvykf7n6pj6h/BroadbandandTelemedicineApril2009.pdf] BW
+
+**Fifth, federal wireless broadband leads to a dramatic expansion of telemedicine.**
+
+**Bowersox 2k1**
+[MD, PhD "Information Technology and the Medical Response to Bioterrorism", edited by Rosen MD and LuceyMD/JD/MPH, Institute for Security Technology Studies at Dartmouth, http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294 BW]
+
+**Sixth, telemedicine solves bioterror impacts.**
+
+**Bowersox 2k1**
+[MD, PhD, "Information Technology and the Medical Response to Bioterrorism", edited by Joseph Rosen MD and Charles Lucey MD/JD/MPH, Institute for Security Technology Studies at Dartmouth, [[http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294|http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294]]]
+
+**Seventh, this is the best way to prevent bioterror becoming a pandemic.**
+
+**Graham 3**
+[International Security Program, Belfar Center for Science and International Affairs at Harvard (November, Allison, International Security, CIAO working papers, "Implications for Public Policy of the Threat from Bioterrorism", [[http://www.ciaonet.org/wps/alg02/index.html]].]
+
+__**<span style="font-size: 16px;">Advantage 3: Human Rights</span>**__
+
+**First, Internet Access is a human right.**
+
+**LA Times 6/3**
+["United Nations Report: Internet Access Is a Human Right - Latimes.com."Politics, National, California, Washington, Barack Obama, Hillary Clinton, John McCain, Republican, Democrat, President, Election - Top of the Ticket - Latimes.com. 3 June 2011. Web. 13 July 2011. <http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html>.]
+
+**Second, striving for human rights are key to prevent extinction.**
+
+**Copelon 99**
+[Rhonda, Professor, Law, CUNY, “The Indivisible Framework of International Human Rights,” NEW YORK CITY LAW REVIEW, 1998/1999, p. 71-72.]
+
+**Third, human rights are the foremost moral imperative. Prioritize them above all else.**
+
+**Gewirth 82**
+[Alan Gewirth, Phil@UChicago, “Human Rights”, ‘82]
+
+=What They Ran= 
+
+**__Rd. 1 vs. SME MT (We ran broadband) Win__**
+1nc- T-Human, Space-X CP, Spending, Nietzsche, Case
+2nr- T-Human, Some quip about how we were clipping cards (we weren't)
+
+**__Rd. 3 vs. BVSW AS (We ran broadband) Win__**
+1nc- Topicality, Spending, Case
+2nr- Topicality
+
+**__Rd. 5 vs. Blue Valley NT (We ran broadband) Win__**
+1nc- Heidegger, Privates CP, Spending, Case
+2nr- Privates and Spending

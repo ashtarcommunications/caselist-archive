@@ -1,0 +1,9 @@
+[[toc]]
+=GBN KM= 
+**Aff --** **Anjay Khurana** -- khuranicus@gmail.com
+**Neg -- Neeral Mehta** -- neeral.mehta@gmail.com
+=Affirmative= 
+See GBN BM and GBN AN
+=Negative= 
+
+[[include page="space.template.Footer"]]

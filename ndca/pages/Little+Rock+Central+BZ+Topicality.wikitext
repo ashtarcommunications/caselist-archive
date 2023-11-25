@@ -1,0 +1,158 @@
+[[toc]]
+=<span style="font-size: 1.1em;">T- In=Throughout</span>= 
+==<span style="font-size: 1.1em;">1NC</span>== 
+**“In” means “throughout”**
+**<span style="font-size: 13pt;">Words and Phrases 8</span>** (Permanent Edition, vol. 20a, p. 207)
+
+<span style="font-size: 8pt;">Colo. 1887. In the Act of 1861 providing that justices of the peace shall have jurisdiction “in” their respective counties to hear and determine all complaints, </span><span class="StyleBoldUnderline">the word “in” should be construed to mean “throughout”</span><span style="font-size: 8pt;"> such counties. Reynolds v. Larkin, 14, p. 114, 117, 10 Colo. 126.</span>
+
+**<span style="font-size: 13pt;">“United States” means all of the states</span>**
+**<span style="font-size: 13pt;">EPA 6</span>** (EPA, US Environmental Protection Agency Terminology Reference System, 2-1-2006, [[http://iaspub.epa.gov/trs/trs_proc_qry.alphabet?p_term_nm=U]])
+
+<span class="StyleBoldUnderline">United States</span>
+<span class="StyleBoldUnderline">When used in the </span>//geographic sense//<span class="StyleBoldUnderline">, means </span>//all//<span class="StyleBoldUnderline"> of the States</span><span style="font-size: 8pt;">. </span><span style="color: windowtext; font-size: 8pt; text-decoration: none;">[[http://iaspub.epa.gov/trs/trs_proc_qry.org_info?P_REG_AUTH_ID=1019&P_LIST_OPTION_CD=ORG|Office of Pollution Prevention and Toxics ]]</span><span style="font-size: 8pt;">: </span><span style="color: windowtext; font-size: 8pt; text-decoration: none;">[[http://iaspub.epa.gov/trs/trs_proc_qry.org_info?P_REG_AUTH_ID=1&P_DATA_ID=11722&P_VERSION=1&P_LIST_OPTION_CD=INFO|Commercial Chemical Control Rules]][[http://iaspub.epa.gov/trs/trs_proc_qry.navigate_term?p_term_id=292529&p_term_cd=TERMDIS|Term Detail]]</span>
+
+=<span style="font-size: 1.1em;">T- TI≠Vehicles</span>= 
+==<span style="font-size: 1.1em;">1NC Shell</span>== 
+
+**Interpretation – Infrastructure is fixed, permanent equipment**
+<span class="StyleStyleBold12pt">GAO 98 </span><span style="font-size: 10pt;">– U.S. General Accounting Office (“Best Practices: Elements Critical to Successfully Reducing Unneeded RDT&E Infrastructure: Report to Congressional Requesters,” GAO Website, Jan. 1998, http://www.gao.gov/assets/160/156058.pdf)//RD//</span>
+
+//DoD<span class="StyleBoldUnderline"> generally </span>defines infrastructure as “all fixed and permanent, <span class="StyleBoldUnderline">installations, fabrications,</span>//
+//<span class="StyleBoldUnderline">AND</span>//
+//<span style="font-size: 7pt;">such as equipment and instrumentation, processes and procedures, and software tools.</span>//
+
+//**Violation – the affirmative increases investment in vehicles – they’re distinct**//
+//<span class="StyleStyleBold12pt">CFST 06</span><span style="font-size: 10pt;"> – Campaign for Sensible Transportation, collection of organizations for better transportation in the Santa Cruz area (“Aboard Transportation”, 2006, http://www.cfst.org/transportation.html)</span>//RD
+
+<span style="font-size: 7pt;">Transportation or transport is the carrying of people and goods from one destination to another</span>
+<span style="font-size: 7pt;">AND</span>
+<span style="font-size: 7pt;">, ramp meters, railroad switches, air traffic control, and etc.</span>
+
+=<span style="font-size: 1.1em;">T- TI=Physical</span>= 
+==<span style="font-size: 1.1em;">1NC Shell</span>== 
+
+**Infrastructure is defined by __specific physical characteristics__ --- this differentiates transportation from utilities, communication, and energy**
+
+<span style="font-size: 13pt;">Inderst 9</span> (Georg, Financial Affairs Division – Organisation for Economic Co-operation and Development, “Pension Fund Investment in Infrastructure”, OECD Working Paper, No. 32, January, http://www.oecd.org/dataoecd/41/9/42052208.pdf)
+
+
+
+<span style="font-size: 8pt;">Definition of infrastructure assets</span>
+
+<span class="StyleBoldUnderline">The definition of infrastructure investment seems intuitive. The OECD uses a simple and general definition for infrastructure as the system of public works in a country</span><span style="font-size: 8pt;">, state or region, including roads, utility lines and public buildings. A standard dictionary‘s definition is:</span>
+
+<span style="font-size: 8pt;">―The basic facilities, services, and installations needed for the functioning of a </span>
+
+<span style="font-size: 8pt;">AND</span>
+
+<span style="font-size: 8pt;">? More generally, where does public infrastructure end and private infrastructure start?</span>
+
+
+===**<span style="font-size: 13pt;">Quantum Teleportation Violation</span>**=== 
+**<span style="font-size: 13pt;">Quantum teleportation teleports information, not physical goods.</span>**
+
+**Michio Kaku** 20**__08__** **__Physics of the Impossible__** <span style="font-size: 10pt;">(the Henry Semat Professor of Theoretical Physics at the Graduate Center of the City University of New York. He is the cofounder of string field theory. He has written several books, including Parallel Worlds and Beyond Einstein, and his bestseller, Hyperspace, was vote done of the best science books of the year by the New York Times and the Washington Post) http://godparticle.webs.com/documents/Kaku,%20Michio%20-%20Physics%20of%20the%20Impossible.pdf</span>
+
+
+
+<span style="font-size: 9pt;">Quantum teleportation exploits some of the more bizarre properties of the EPR experiment.</span>**__In__** 
+
+**__AND__**
+
+**__information content of atom A has been transferred to another atom, C.)__**
+
+
+
+=<span style="font-size: 1.1em;">T- TI≠Maintenance</span>= 
+
+==**1NC Shell**== 
+**Infrastructure investment is distinct from maintenance**
+**Lemer 11** <span style="font-size: 8pt;">- worked at The National Academies and studied at Harvard University (Andrew, “[[http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%e2%80%9cenough%e2%80%9d/|How Much Infrastructure Spending Is “Enough?’”]], [[http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%E2%80%9Cenough%E2%80%9D/]])</span>
+
+__What has been neglected__<span style="font-size: 8pt;"> in all of the analyses that I have seen </span>__is an__
+__AND__
+<span style="font-size: 8pt;">public works agencies suggest that maintenance budgets are often squeezed, forcing neglect.</span>
+
+=<span style="font-size: 1.1em;">Framework</span>= 
+==<span style="font-size: 1.1em;">1NC Shell</span>== 
+
+**“Resolved” proves the framework for the resolution is to enact a policy.**
+
+<span class="StyleBoldUnderline">**<span style="font-size: 11pt;">Words and Phrases</span>****<span style="font-size: 11pt;">64</span>**</span><span style="font-size: 8pt;">Permanent Edition</span>
+
+<span style="font-size: 10pt;">Definition of the word “resolve,”</span> given by Webster is “to express an opinion or determination by resolution or vote; as ‘it was resolved by the legislature;” <span style="font-size: 10pt;">It is of similar force to the word “enact,”</span> which is defined by Bouvier as <span style="font-size: 10pt;">meaning “to establish by law”.</span>
+
+
+**The USFG is the government in Washington D.C.**
+<span class="StyleBoldUnderline">**<span style="font-size: 11pt;">Encarta </span>**</span>Online Encyclopedia <span style="font-size: 10pt;">2k</span><span style="color: windowtext; font-size: 8pt; text-decoration: initial;">[[http://encarta.msn.com]]</span>
+“The federal government of the United States is centered in Washington DC”
+
+
+**This is a prior question that must be resolved first – it is a pre-condition for debate to occur**
+<span class="StyleBoldUnderline">**<span style="font-size: 11pt;">Shively, 2k</span>**</span> <span style="font-size: 8pt;">(Assistant Prof Political Science at Texas A&M, Ruth Lessl, Partisan Politics and Political Theory, p. 181-2)JFS</span>
+<span style="font-size: 5pt;">The requirements given thus far are primarily negative. The</span> ambiguists <span style="font-size: 5pt;">must say "no</span>
+<span style="font-size: 5pt;">AND</span>
+
+<span style="font-size: 5pt;">. In other words, contestation rests on some basic agreement or harmony.</span>
+
+
+
+**Limits are key – their interpretation would allow *limitless* contexts for advocacy that only tangentially relate to the topic. The breadth of political theory magnifies the importance of limits on discourse**
+**<span class="StyleBoldUnderline">Lutz 2k</span>** (Donald S. Professor of Polisci at Houston, Political Theory and Partisan Politics p. 39-40)JFS
+
+Aristotle notes in the Politics that <span style="font-size: 10pt;">political theory</span> simultaneously <span style="font-size: 10pt;">proceeds at</span> three levels—<span style="font-size: 10pt;">discourse</span>
+<span style="font-size: 10pt;">AND</span>
+and clarity it lends to an analysis and comparison of ac­tual political systems.
+
+**Abandoning politics cedes it to the elites – causes war, slavery, and authoritarianism**
+**<span class="StyleBoldUnderline">Boggs 2k </span>**<span style="font-size: 8pt;">(CAROL BOGGS, PF POLITICAL SCIENCE – SOUTHERN CALIFORNIA, 00, THE END OF POLITICS, 250-1)</span>
+
+<span style="font-size: 8pt;">But it is a very deceptive and misleading minimalism. </span><span style="font-size: 10pt;">While Oakeshott debunks political mechanisms</span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;">run counter to the facile antirationalism of Oakeshott’s Burkean muddling-through theories. </span>
+==<span style="font-size: 1.1em;">2NC Fiat Good</span>== 
+
+**Simulation of different roles through fiat encourages learning and empowerment**
+**<span style="font-size: 12pt;">Innes and Booher ’99</span>** (Judith, Director – Institute of Urban and Regional Development and Professor at UC Berkeley and David, Visiting Scholar at the Institute, Journal of the American Planning Association, Winter, Vol. 65, Iss. 1)
+
+<span style="font-size: 8pt;">Our observation and practice of consensus building suggests that the analogy to </span><span class="underline">role-playing</span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;">entertaining and-when conducted effectively-in some fundamental sense empowers individuals.</span>
+
+=<span style="font-size: 1.1em;">T-Substantial 556 Billion</span>= 
+==<span style="font-size: 1.1em;">1NC Shell</span>== 
+
+**Substantial is 556 billion dollars**
+**Michele 11**<span style="font-size: 8pt;">, Principal/Founder of Policy in Motion, completed her Master’s of Science degree in Transportation Technology and Policy from the University of California, Obama Spreads Valentine Love to Transportation with $556B Proposal: Infrastructure Bank, Livability Grants, Doubling Transit Funds By Lauren Michele, February 16, 2011 http://policyinmotion.com/2011/02/obama-spreads-valentine-love-to-transportation-with-556b-proposal-infrastructure-bank-livability-grants-doubling-transit-funds/</span>
+
+<span style="font-size: 8pt;">In his 2012 fiscal year budget released on Feb. 14, President Barack </span>Obama
+AND
+<span style="font-size: 8pt;">infrastructure bank, and a heavy emphasis on expanding high-speed rail.</span>
+==Limits Debate== 
+**a. Repetition is key to education- we don’t retain information without it- student studies prove**
+**Freeland 5** <span style="font-size: 8pt;">(Alan E. (MD) and Jennifer T. Freeland (PHD) , February 2005, Dr Alan E. Freeland is from the Department of Orthopedic Surgery and Rehabilitation, University of Mississippi Medical Center, Jackson, Miss and Dr Jennifer T. Freeland is from the Department of Educational and School Psychology, Indiana State University, Terre Haute, Ind., “Repetition Makes a Scholar”, http://www.healio.com/orthopedics/journals/ORTHO/%7B2183B2BF-9E7B-4C76-9357-324B3B920B28%7D/Repetition-Makes-a-Scholar)//JM</span>
+<span style="font-size: 8pt;">Discipline The first of these fundamentals is discipline. Discipline requires passion and sacrifice. </span>
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 8pt;">more prominent role in education-oriented self-assessment and certification examinations.</span>
+
+**b. Research proves, lack of limits kills education – this is will follow us outside of the debate**
+**Richtel 10**<span style="font-size: 8pt;"> Matt Richtel 2010, B.A. degree in rhetoric from the University of California at Berkeley in 1989 and an M.S. degree in journalism from Columbia University in 1990. YOUR BRAIN ON COMPUTERS Attached to Technology and Paying a Price [[http://www.nytimes.com/2010/06/07/technology/07brain.html?_r=1&pagewanted=all]] BK</span>
+__Scientists say juggling__<span style="font-size: 8pt;"> e-mail, phone calls and other incoming </span>__information can change__
+__AND__
+**__persist__**<span style="font-size: 8pt;">. In other words, this is also your brain off computers.</span>
+=<span style="font-size: 1.1em;">T- Space Elevators</span>= 
+==<span style="font-size: 1.1em;">1NC Shell</span>== 
+**Interpretation- “Transportation” is limited to six modes, including aviation**
+<span style="font-size: 13pt;">Kahn 6</span> (Ely, Director for Cybersecurity Policy at the National Security Staff – White House, and Roger Shoemaker, “Transportation Sector Specific Plan”, Chemical Security Summit, 6-28, http://www.ppt2txt.com/r/f892b8c5/)
+
+<span class="StyleBoldUnderline">The </span>Transportation Sector<span class="StyleBoldUnderline"> is a vast, far-reaching</span><span style="font-size: 8pt;">, complex and diverse </span><span class="StyleBoldUnderline">network</span>
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 8pt;">4 trillion revenue ton-miles; 8 Class 1 and 552 additional firms</span>
+
+**Specifically, “Aviation” takes place only within the atmosphere. “Space” is a different sector.**
+<span style="font-size: 13pt;">Vogt 12</span> (Crystal, MS in Journalism – Boston University and BA in English – University of California, Santa Barbara, “The Difference Between the Aviation Industry and the Aerospace Industry”, Houston Chronicle, http://smallbusiness.chron.com/difference-between-aviation-industry-aerospace-industry-26208.html)
+
+<span class="StyleBoldUnderline">Though there is some overlap between the aviation and aerospace industries, there are </span>key
+AND
+<span style="font-size: 8pt;">on aircraft operation, commercial or military aircraft design and air traffic management.</span>

@@ -1,0 +1,1100 @@
+[[toc]]
+=Case Negs= 
+
+== == 
+==ASATs Neg== 
+
+<span style="display: block; text-align: center;"><span style="display: block; font-size: 16pt; text-align: left;">**1NC Hegemony**</span></span>
+**1. No impact to hegemonic collapse**
+**Ikenberry 11**<span style="font-size: 8pt;"> [May/June issue of Foreign Affairs, G. John, PhD, Albert G. Milbank Professor of Politics and International Affairs at Princeton University in the Department of Politics and the Woodrow Wilson School of Public and International Affairs, “The Future of the Liberal World Order,” http://www.foreignaffairs.com/articles/67730/g-john-ikenberry/the-future-of-the-liberal-world-order?page=show DH]</span>
+
+__Pronouncements of American decline miss … be able to rule. But it can still lead.__
+
+
+**2. No internal link --- attack doesn’t kill heg**
+**Morgan 10**<span style="font-size: 8pt;"> – Adjunct Professor of Security Policy Studies @ University of Pittsburgh, Senior Political Scientist @ RAND Corporation, PhD, Policy Studies @ University of Maryland, M.A., Air Power Arts & Sciences @ Air University School for Advanced Airpower Studies, M.A. @ Webster University, B.S. @ University of Maryland</span><span style="color: black; font-size: 8pt;"> (Forrest, “</span><span style="font-size: 8pt;">Deterrence and First-Strike Stability in Space,” <span style="text-decoration: none;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA522541&Location=U2&doc=GetTRDoc.pdf]]</span>)</span>
+
+__Another approach to reducing an ….__<span style="font-size: 8pt;">might yield in attacking satellites supporting. </span>
+
+
+**3. No deterrent capability --- cyberattacks will disable US space assets**
+**Donahue 10**<span style="font-size: 8pt;"> – USAF Major (Jack, “CATASTROPHE ON THE HORIZON: A SCENARIO-BASED FUTURE EFFECT OF ORBITAL SPACE DEBRIS,” <span style="text-decoration: none;">[[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_af691818-359f-4999-be24-f88ca154bd94/display.aspx?rs=enginespage]]</span>)</span>
+
+__Another unpredictable …. systems for years__<span style="font-size: 8pt;">.90</span>
+
+**4. Conventional weapons check**
+**Krepon 3**<span style="font-size: 8pt;"> – president of the Stimson Center (Michael, with Christopher Clary, “Space Assurance or Space Dominance?.” The Henry L. Stimson Center, http://www.stimson.org/images/uploads/research-pdfs/spacebook.pdf) </span>
+
+<span style="font-size: 8pt;">These presumed benefits have already been ….</span> __used in preemptive strikes.__
+
+
+===2NC Hegemony --- XT #1: Heg Impact D=== 
+**And the rise of other powers doesn’t mean the nationalist competition their Kagan evidence talks about, rather it will sustain the liberal order and global peace.**
+**Ikenberry 11**<span style="font-size: 8pt;"> – (May/June issue of Foreign Affairs, G. John, PhD, Albert G. Milbank Professor of Politics and International Affairs at Princeton University in the Department of Politics and the Woodrow Wilson School of Public and International Affairs, “The Future of the Liberal World Order,” http://www.foreignaffairs.com/articles/67730/g-john-ikenberry/the-future-of-the-liberal-world-order?page=show DH)</span>
+
+<span style="font-size: 8pt;">For all these reasons, </span>__many observers have concluded ….__<span style="font-size: 8pt;">he middle of the twentieth century.</span>
+
+**Liberalism is incredibly appealing to rising powers and there are obstacles to overcoming it – interdependence ensures peace forever and ever**
+**Ikenberry 11**<span style="font-size: 8pt;"> – (May/June issue of Foreign Affairs, G. John, PhD, Albert G. Milbank Professor of Politics and International Affairs at Princeton University in the Department of Politics and the Woodrow Wilson School of Public and International Affairs, “The Future of the Liberal World Order,” http://www.foreignaffairs.com/articles/67730/g-john-ikenberry/the-future-of-the-liberal-world-order?page=show DH)</span>
+
+__The liberal international order is not just a ….__<span style="font-size: 8pt;"> of the Bretton Woods institutions -- these are all stages on which rising non-Western states can acquire great-power authority and exercise global leadership.</span>
+
+===2NC Hegemony --- XT #2: No Impact=== 
+
+**Our Morgan evidence says redundant capabilities, terrestrial backups, undersea links, and aircraft systems have to same function as space capabilities – here’s more evidence – we only need to have 4 GPS satellites and redundancy checks**
+**Forden 7** <span style="font-size: 8pt;">– writer for Arms Control Today (Geoffrey, “After China's Test: Time For a Limited Ban on Anti-Satellite Weapons. Arms Control Today, April 2007, [[http://www.armscontrol.org/act/2007_04/Forden]]) </span>
+
+<span style="font-size: 8pt;">On the other hand, </span>__an attacker would …. and mapping satellites, although important in the long term, are not as time critical.__
+
+**Terrestrial redundancy compensates for the loss of space assets**
+**Smith 11**<span style="font-size: 8pt;"> – USAF Colonel, Director of the Air Force Space and Cyber Center at Air University, served in the Pentagon’s National Security Space Office as the Chief of the Future Concepts shop (M.V., Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])</span>
+
+__A great fallacy resulting from …..__<span style="font-size: 8pt;"> combined arms approach.</span>
+
+**Terrestrial defenses are superior – they protect military capability and deter without provoking in space**
+**Krepon 3**<span style="font-size: 8pt;"> – president of the Henry Stimson Center (Michael, Space Assurance or Space Dominance? THE CASE AGAINST WEAPONIZING SPACE, [[http://www.stimson.org/images/uploads/research-pdfs/spacebook.pdf]])</span>
+
+__Even if back-ups prove less capable or ….__<span style="font-size: 8pt;"> Information and Distribution System, mitigate the harm caused by jamming or more pernicious damage to the GPS system.37</span>
+
+
+<span style="display: block; text-align: center;"><span style="display: block; font-size: 16pt; text-align: left;">**2NC Hegemony --- XT #3: Cyberattacks** </span></span>
+**Cyberspace attacks are more likely than space attacks and they have __the same impact__**
+**Lambeth 11**<span style="font-size: 8pt;"> – senior staff member at RAND, where he also directed the International Security and Defense Policy Program in 1989–1990 (Benjamin, Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])</span>
+
+__If the case for proceeding with timely …. heel to a greater extent than any of our current opponents.__
+
+**Cyberspace control is substantially more important than the plan – any loss in cyberspace immediately neutralizes all space based capabilities**
+**Lambeth 11**<span style="font-size: 8pt;"> – senior staff member at RAND, where he also directed the International Security and Defense Policy Program in 1989–1990 (Benjamin, Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])</span>
+
+<span style="font-size: 8pt;">Indeed, </span>__America's vulnerabilities in …., but also for state and nonstate rogue actors with sufficient resources to cause us real harm__<span style="font-size: 8pt;">.</span>
+
+===2NC Hegemony --- XT #4: Can’t Deter Conflicts=== 
+
+**Empirics – no deterrence from the plan**
+**Coffelt 5**<span style="font-size: 8pt;"> – Lt. Colonal; thesis to the school of advanced air and space studies (Christopher A, “THE BEST DEFENSE: CHARTING THE FUTURE OFUS SPACE STRATEGY AND POLICY.” A Thesis Presented to the Faculty of the School of Advanced Air and Space Studies For Completion of the Graduation Requirements SCHOOL OF ADVANCED AIR AND SPACE STUDIES AIR UNIVERSITY, Maxwell Air Force Base, Alabama. June 2005.)</span>
+
+__Just as__ __US advantages in nuclear weapons …. weapon systems do__<span style="font-size: 8pt;">.</span>
+
+**Weaponization won’t deter global conflict—their argument that the US would be seen as benign is nonsense**
+**Coffelt 5**<span style="font-size: 8pt;"> – Lt. Colonal; thesis to the school of advanced air and space studies (Christopher A, “THE BEST DEFENSE: CHARTING THE FUTURE OFUS SPACE STRATEGY AND POLICY.” A Thesis Presented to the Faculty of the School of Advanced Air and Space Studies For Completion of the Graduation Requirements SCHOOL OF ADVANCED AIR AND SPACE STUDIES AIR UNIVERSITY, Maxwell Air Force Base, Alabama. June 2005.)</span>
+
+<span style="font-size: 8pt;">Second, </span>__the argument__<span style="font-size: 8pt;"> goes further, asserting that ….</span> __accept the__ __US as the benevolent trustee of space____.__
+
+===**<span style="font-size: 16pt;">1NC China</span>**=== 
+
+**1. No war --- china has 3 trillion in US debt and an attack would destroy their economy too --- that was cross-x. Here’s evidence**
+**Nikkei Weekly 9**<span style="font-size: 8pt;"> [Nikkei Weekly Japanese newspaper, “'G-2' draws differing views”, 6/29/09, ln]</span>
+
+<span style="font-size: 8pt;">Akira </span>__Kojima__<span style="font-size: 8pt;">, trustee and </span>__senior fellow of the ….__<span style="font-size: 8pt;"> a U.S.-China "Group of Two" becoming "the driver of the global economy," he said. </span>
+
+
+**2. No space pearl harbor**
+**Moore, 6**<span style="font-size: 8pt;"> -- contributing editor of The Bulletin of the Atomic Scientists, a peace-and-security magazine (Mike, not to be confused with Michael, “A New Cold War?.” SAIS Review 26.1 (2006) 175-188. Project MUSE) **we do not endorse gendered language** </span>
+
+**<span style="font-size: 8pt;">The kindest thing that can be said about</span> __space Pearl ….__<span style="font-size: 8pt;">, and which has thousands of nuclear weapons ready for use?</span>**
+
+3. Cooperation now --- Obama and top Chinese officials confirm --- no evidence from before Obama should be evaluated
+Zhang 11**<span style="font-size: 8pt;">– Associate Professor of Political Science and Director of the Center for Asia Pacific Studies at Lingnan University (March/April, Baohui, “The Security Dilemma in the U.S.-China Military Space Relationship,” Asian Survey, Vol. 51, No. 2, JSTOR)</span>**
+
+**__Once the above measures ….__ __peaceful use of space__<span style="font-size: 8pt;">, eradication of [the] arms race, and realization of permanent peace.</span>**
+
+4. No China threat - domestic issues will keep them out of military confrontation with the US
+MacDonald 5/11**<span style="font-size: 8pt;"> – US Institute of Peace (11, Bruee W., Testimony before the U.S.-China Economic and Security Review Commission on The Implications of China’s Military and Civil Space Programs, pdf)</span>
+
+<span style="font-size: 8pt;">In the face of this growing Chinese military space ... into a conflict they would ordinarily not want, through miscalculation or distraction. </span>
+
+
+===2NC China --- XT #1: No War=== 
+
+**Economics---that’s Nikkei Weekly---it would destroy their economy because the US owes them so much—this economics argument outweighs all other concerns**
+**Sisci 4/13**<span style="font-size: 8pt;">[Francesco—Asia editor of La Stampa, “The China 'threat' as a blessing”, http://www.atimes.com/atimes/China/MD13Ad02.html, accessed April 19, 2011, ZR]</span>
+
+<span style="font-size: 8pt;">Beyond such matters are a handful of smaller ….</span> **__a common security umbrella__**__,__<span style="font-size: 8pt;"> so everyone else can put their money to better use. </span>
+
+**China has incentives for sustained cooperation but will watch the US for deviations**
+**Gargasz, 10**<span style="font-size: 8pt;"> - Major, United States Air Force (Michael, “We’ve Rattled Our Sabers…Now What? </span>
+<span style="font-size: 8pt;">The Future of US/China Space Relations,” https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_49078f96-46d1-4c32-a692-4cb4002bd775/display.aspx?rs=enginespage)</span>
+
+<span style="font-size: 8pt;">Much like a negotiated ban on space-…. first step away from the unilateral, deterrent path that has created so much angst in the space community.</span>
+
+
+**ZERO risk of this advantage --- two reasons**
+**Brzezinski 5** <span style="font-size: 8pt;">[Zbigniew, Counselor at CSIS, Foreign Policy, Jan/Feb, [[http://www.worldthreats.com/Asia/Clash%20of%20Titans.htm]]]</span>
+
+<span style="font-size: 8pt;">Today in East Asia, </span>**__China is rising—…. economy would be paralyzed__**<span style="font-size: 8pt;">.</span>
+
+<span style="display: block; text-align: center;"><span style="display: block; font-size: 16pt; text-align: left;">**2NC China --- XT #2: No Space Pearl Harbor**</span></span>
+
+**Reject their authors – bias**
+**<span style="color: #0d0d0d;">Hartung 5</span>**<span style="color: #0d0d0d; font-size: 8pt;">(William, senior research fellow at the World Policy Institute at the New School, “Weapons in space put the world at risk”, 7/13, Seattle Post Intelligencer, [[http://seattlepi.nwsource.com/opinion/232239_spaceweapons13.html]])</span>
+<span style="display: block; text-align: center;">
+</span>
+<span style="color: #0d0d0d; font-size: 8pt;">Within the next few weeks, President Bush is ….</span>__<span style="color: #0d0d0d;"> weapons program.</span>__
+
+**No impact anyways**
+**<span style="color: #0d0d0d;">Perera 8</span>**<span style="color: #0d0d0d; font-size: 8pt;"> (David, “'Space Pearl Harbor' overstated,” Government Computer News, 2/22, </span>
+<span style="color: #0d0d0d; font-size: 8pt;">[[http://www.gcn.com/online/vol1_no1/45866-1.html?topic=geospatial|http://www.gcn.com/online/vol1_no1/45866-1.html?topic=geospatial#]])</span>
+
+__<span style="color: #0d0d0d;">The Navy’s use of an anti-ballistic missile to …. for the missing capacity, “but it’s not the end of the world</span>__<span style="color: #0d0d0d; font-size: 8pt;">,” Mosher said.</span>
+
+
+**Rumsfield is __flawed__ on space Pearl Harbor**
+**O’Hanlon 3**<span style="font-size: 8pt;">[October 2003, **John M. Logsdon Gordon Adams Editors: Michael O’Hanlon specializes in national security and defense policy, “SPACE WEAPONS Are They Needed?” – “Preserving U.S. Dominance While Slowing The Weaponization of Space,” Google, Space Policy Institute, Security Policy Studies Program, Washington, DC, [[http://www.gwu.edu/~spi/assets/docs/Security_Space_Volume.Final.pdf]], accessed July 25, 2011, PDF, AJ]**</span>
+
+**<span style="font-size: 8pt;">Moreover, </span>__most__ __strategic and technological ….__** __of the nature of current and near-term dangers **toAmerican interests**__**<span style="font-size: 8pt;">.</span>**
+
+No threat to US space assets now and defensive posture solves
+O’Hanlon 3**<span style="font-size: 8pt;">[October 2003, </span>**John M. Logsdon Gordon Adams Editors: Michael O’Hanlon specializes in national security and defense policy, “SPACE WEAPONS Are They Needed?” – “Preserving U.S. Dominance While Slowing The Weaponization of Space,” Google, Space Policy Institute, Security Policy Studies Program, Washington, DC, [[http://www.gwu.edu/~spi/assets/docs/Security_Space_Volume.Final.pdf]], accessed July 25, 2011, PDF, AJ]
+
+__The report__<span style="font-size: 8pt;"> of the Commission on Outer Space, ….</span> **__measures__** __rather than__ __an all-out space weapons race__<span style="font-size: 8pt;">. </span>
+
+
+===2NC China --- XT #3: Cooperation Now=== 
+
+**New developments make cooperation possible**
+**Zhang 11**<span style="font-size: 8pt;">– Associate Professor of Political Science and Director of the Center for Asia Pacific Studies at Lingnan University (March/April, “The Security Dilemma in the U.S.-China Military Space Relationship,” Asian Survey, Vol. 51, No. 2, JSTOR)</span>
+
+<span style="font-size: 8pt;">As Kevin Narizny points out in his study of grand strategy, </span>__…. mechanism will have positive impacts on the world’s efforts for space arms control and prevention of an arms race.”__
+
+**China is reactionary --- 2007 was a response to hostile US policy that Obama solved**
+**Hagt 7** <span style="font-size: 8pt;">- director of the China Program at the World Security Institute (Winter, Eric, “China’s ASAT Test: Strategic Response,” World Security Institute, china Security, pp. 31-51)</span>
+
+__China’s testing of a__ __direct-ascent anti-satellite ….__<span style="font-size: 8pt;"> of military competition in space. </span>
+
+**Star this argument – even if China says no, initiating the process creates a new relationship that prevents miscalculation and strengthens deterrence**
+**Manzo 8**<span style="font-size: 8pt;"> - CDI Research Assistant (Vince, “U.S. Policy Brief: The Need for a Strategic Dialogue with China,” 8/28, http://www.cdi.org/pdfs/StrategicDialoguePolicy.pdf)</span>
+
+__<span style="font-size: 11pt;">A strategic dialogue</span>__<span style="font-size: 8pt;"> between the United …. does not necessarily accept or share them.”34</span>
+
+**Empirically, negotiations are successful**
+**Zhang 11**<span style="font-size: 8pt;">– Associate Professor of Political Science and Director of the Center for Asia Pacific Studies at Lingnan University (March/April, “The Security Dilemma in the U.S.-China Military Space Relationship,” Asian Survey, Vol. 51, No. 2, JSTOR)</span>
+
+<span style="font-size: 8pt;">In addition, </span>__China and the U.S. need …. concern over the perceived U.S. quest for space dominance.__
+
+**The counterplan effectively deters China from weaponization and preserves peace in space – specifically solves risk of space pearl harbor, while the plan destroys sustainable hegemony**
+**Zhang 6**<span style="font-size: 8pt;"> - Research Associate at the Project on Managing the Atom in the Belfer Center for Science and International Affairs at Harvard University's John F. Kennedy School of Government, Project on Managing the Atom (Hui, "Space Weaponization and Space Security: A Chinese Perspective", [[http://www.wsichina.org/|China Security]], Vol 2, Issue 1)</span>
+
+<span style="font-size: 8pt;">At this stage, it would be difficult to persuade the United ….. would acknowledge and understand.</span>
+
+
+
+**Only the code of conduct accounts for China’s interests and needs, ensuring compliance**
+**Zhang 6**<span style="font-size: 8pt;"> - Research Associate at the Project on Managing the Atom in the Belfer Center for Science and International Affairs at Harvard University's John F. Kennedy School of Government, Project on Managing the Atom (Hui, "Space Weaponization and Space Security: A Chinese Perspective", [[http://www.wsichina.org/|China Security]], Vol 2, Issue 1)</span>
+
+//<span style="font-size: 8pt;">China’s position </span>//__In China’s view, the most__ __….__<span style="font-size: 8pt;"> after the fact. </span>//<span style="font-size: 8pt;">Scope of “space weapon” and U.S. missile defenses </span>//
+
+
+===2NC China --- XT #4: No China Threat=== 
+
+**No risk of rise - China cannot become the hegemon because of structural barriers**
+**Nye 6/23**<span style="font-size: 8pt;"> – University Distinguished Service Professor at [[http://en.wikipedia.org/wiki/Harvard_University|Harvard University]] and former dean of the Kennedy School of Government at Harvard (Joseph, transcript of a discussion involving Mahbubani, Nye, and Moyo, published in NYT opinion, NYT, “The Seesaw of Power.” Discussion moderated by Serge Schmemann. </span>
+<span style="font-size: 8pt;">[[http://www.nytimes.com/2011/06/24/opinion/global/24iht-june24-ihtmag-nye-36.html?_r=2&pagewanted=1]]) </span>
+
+<span style="font-size: 8pt;">Nye : I actually agree with Kishore that, over time, ….</span>__<span style="color: black;"> up commodities.</span>__
+
+
+**China won’t challenge us – the gulf is too large**
+**Nye 10**<span style="font-size: 8pt;"> -- University Distinguished Service Professor at [[http://en.wikipedia.org/wiki/Harvard_University|Harvard University]] and former dean of the Kennedy School of Government at Harvard (December 2010, “THE FUTURE OF AMERICAN POWER: DOMINANCE AND DECLINE IN PERSPECTIVE.” Published by Foreign affairs, [[http://1431731ontario.net/Current/Articles/TheFutureOfAmericanPower_DominanceAndDeclineInPerspective.pdf]]) </span>
+
+<span style="font-size: 8pt;">Yet </span>__China has a long ….__<span style="font-size: 8pt;"> role, while hedging against the possibility of aggressive behavior as China’s power grows.</span>
+
+
+
+
+**Diplomacy checks China threat**
+**Hagt, 7**<span style="font-size: 8pt;"> -- director of the China Program at the World Security Institute (Eric, “China’s ASAT Test: Strategic Response.” [[http://www.wsichina.org/cs5_3.pdf]]) </span>
+
+__Even if we are facing the ….__<span style="font-size: 8pt;"> will be essential.</span>
+
+**Impossible to deter China – existing weapons system, military-commercial bonds, and allied response**
+**Meteyer, 5**<span style="font-size: 8pt;">—Major, U.S. Air Force (“David O., “The Art of Peace: Dissuading China from Developing Counter Space Weapons,” page 41-42, June 2005, [[http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA435590]]) </span>
+
+__<span style="color: #0d0d0d;">Several factors will ….</span>__<span style="color: #0d0d0d; font-size: 8pt;"> should only target counter space systems. </span>
+
+
+
+===2NC China --- XT #4: No China Threat---AT White Papers=== 
+
+**New PLA white paper is against weaponization of space**
+**Honge 3/31**<span style="font-size: 8pt;"> (Mo Honge, March 31, 2011, “China opposes arms race in outer space: white paper”, GOV, [[http://www.gov.cn/english/2011-03/31/content_1835476.htm]], DMintz)</span>
+
+__The Chinese government …. space treaty__<span style="font-size: 8pt;">, says the white paper. </span>
+
+===2NC China --- AT Forden=== 
+
+**ASAT attacks are too difficult to pull off – the scale of the challenge makes it impossible to hit enough satellites, and redundancy means the US won’t lose critical systems**
+**Forden, 8** - Massachusetts Institute of Technology (Geoffrey, Astropolitics, 6:138–153, “VIEWPOINT: CHINA AND SPACE WAR,” Ebsco Political Science)
+
+<span style="font-size: 8pt;">However, </span>__China could not launch the massive ….least vulnerable, because of the tremendous redundancy of its space assets.__
+<span style="display: block; text-align: center;">
+</span>
+<span style="display: block; text-align: center;"><span style="display: block; font-size: 16pt; text-align: left;">**2NC China --- AT Tellis**</span></span>
+**The US won’t preemptively attack, and even if we did, we’d quickly win the war before escalation**
+**Bin 1 –** <span style="font-size: 8pt;">associate professor and director of the Arms Control Program at the Institute of International Studies, Tsinghua University (March 2001, Li, "The Effects of NMD on Chinese Strategy”, Jane’s Intelligence Review, Vol. 13, No. 3, pg. 49-52, [[http://irchina.org/en/xueren/china/view.asp?id=703]]) MGM</span>
+
+<span style="font-size: 8pt;">Chinese nuclear development may be divided into ….f</span> __a first nuclear attack from the U.S.__
+
+==__Asteroids Neg__== 
+
+===1NC Large Asteroids=== 
+
+
+**1. No asteroid threat**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 168-169</span>
+<span style="font-size: 8pt;">Cooler heads intervened. Donald Yeomans of the Jet Propulsion Laboratory said, “The comet will pass no closer to the Earth than 60 lunar distances [14 million miles] on August 5, 2126. </span>__There is no evidence for a threat from__<span style="font-size: 8pt;"> Swift-…</span> __and comets. Plenty of time to decide what to do__<span style="font-size: 8pt;">.”97</span>
+
+**2. No extinction and status quo solves it**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 144-145)</span>
+
+<span style="font-size: 8pt;">It should be noted that </span>__the Alvarez__<span style="font-size: 8pt;"> et al. </span>__…. with annihilation won’t be overdue for about 40 million years. We have time__<span style="font-size: 8pt;">.</span>
+
+**3. Reject their authors – bias**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 157-158</span>
+
+__We should__<span style="font-size: 8pt;"> here </span>__acknowledge__<span style="font-size: 8pt;">, without ….</span> __of recorded time__<span style="font-size: 8pt;">.</span>
+
+
+**4. Nuclear war outweighs asteroids – our model of risk calculus is better**
+**Hellman 8**<span style="font-size: 8pt;"> – professor emeritus of electrical engineering at Stanford, PhD, his work is endorsed by a former Director of the National Security Agency, Stanford's President Emeritus, and two Nobel Laureates (Spring 2008, Martin, “Risk Analysis of Nuclear Deterrence”, http://nuclearrisk.org/paper.pdf) MGM</span>
+
+__A full-scale nuclear war is not the …. deterrence and not stop until it reaches an acceptable level.__
+
+**5. Nuclear war outweighs asteroids due to both probability and magnitude**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 155)</span>
+
+__Given that there “is no known …. in general.__<span style="font-size: 8pt;"> Perhaps money would be better spent addressing those matters?</span>
+
+
+
+
+
+===2NC Large Asteroids --- XT #3: Bias=== 
+
+**Their NASA and government cards are all biased**
+**David 7**<span style="font-size: 8pt;"> – former Director of Research for the National Commission on Space </span>
+<span style="font-size: 8pt;">[Leonard David, research associate for Secure World Foundation, former consultant to NASA, former Director of Research for the National Commission on Space, and Aerospace Journalist of the Year; “Fair Warning, Deadly Response;” published in Ad Astra (official journal of the National Space Society), Vol. 19, Number 3, 2007; [[http://www.nss.org/adastra/volume19/david2.html]]; Jay]</span>
+
+<span style="font-size: 8pt;">Fact-Finding Appraisal. </span>__Last year NASA … impact__<span style="font-size: 8pt;">. NASA's analysis assumes that the stronger the deflection, the better. </span>
+
+
+**Asteroid collision studies are exaggerated to get more money for other projects**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 166)</span>
+
+<span style="font-size: 8pt;">The authors conclude that “increasing ….</span> __necessary, nor prudent__<span style="font-size: 8pt;">.”87</span>
+
+**Asteroid threats are exaggerated to get money for space programs**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 167-168)</span>
+
+<span style="font-size: 8pt;">That same volume contained a ….</span> __believe what you read or hear__<span style="font-size: 8pt;">.</span>
+
+===1NC Nuclear War --> Extinction=== 
+
+**Nuke war triggers extinction---newest and best science proves**
+**Toon and Robock, Professors of Atmospheric Science, 10**<span style="font-size: 8pt;"> [Toon - chair of the Dept of Atmospheric and Oceanic Sciences and a member of the Laboratory for Atmospheric and Space Physics at the University of Colorado @ Boulder. Robock is a Proff of atmospheric science at Rutgers University in New Brunswick, New Jersey </span><span style="color: black; font-size: 8pt;">Local Nuclear War, Global Suffering;</span><span style="font-size: 8pt;"> January 2010; Scientific American Magazine; 8 Page(s), [[http://www.sciamdigital.com/index.cfm?fa=Products.ViewIssuePreview&ISSUEID_CHAR=944156A6-237D-9F22-E8E572150DCA8E65&ARTICLEID_CHAR=97CA0A88-237D-9F22-E861FD76EBEE2611]]]</span>
+
+__Twenty-five years ago …. in Indonesia, blotted the sun and produced global cooling of about 0.5 degree C for a year;__<span style="font-size: 8pt;"> 1816 became known as "The Year</span>
+
+===2NC XT Nuclear War --> Extinction=== 
+
+**Nuclear war outweighs ---**
+**a. The probability is so much higher**
+**Everitt 8**<span style="font-size: 8pt;">[James Everitt, energy and environment organizer for Pickens Plan; “If an asteroid hit the earth?” published 12/20/2008; [[http://push.pickensplan.com/video/2187034:Video:1691581]]; Jay]</span>
+
+<span style="font-size: 8pt;">[[http://www.huffingtonpost.com/2008/12/27/watch-if-an-asteroid-hit_n_153724.html|A computer video]] circulating the ….</span> __by another person or animal, your chances are even worse if you bring company.__
+
+**<span style="font-size: 13pt;">Here’s more evidence---even a small fraction of weapon use sparks famine and ecological, global climate catastrophe, and kill the oceans</span>**
+**Star 9**<span style="font-size: 8pt;"> [University of Sydney, 8/2/09, Stephen Starr and Peter King, , “Nuclear suicide”, Sunday, 02 August 2009, http://www.sciencealert.com.au/opinions/20090208-19496.html]</span>
+
+<span style="font-size: 8pt;">But there is little evidence yet that either the ….</span> __the populations of any nation dependent upon grain imports would be at risk.__
+
+**Ocean collapse independently causes extinction**
+**Donahue 11**<span style="font-size: 8pt;">[James, 3/7/11, “Pushing The Mother’s Reset Button,” published author of five books, former reporter for The Times Herald, JPL]</span>
+
+<span style="font-size: 8pt;">nothing is wrong. </span>__The big__ __…. to our planet and ourselves__<span style="font-size: 8pt;">.</span>
+
+**Environmental destruction means extinction – asteroids don’t access this**
+**Kelly 90** <span style="font-size: 8pt;">[Patrick D., J.D. from Harvard and currently practices patent law in St. Louis, majored in Environmental Engineering at the University of Texas at Austin, UNH School of Law, “Using Management Techniques to Solve Environmental Problems,” http://law.unh.edu/risk/vol1/summer/kelly.htm, asb]</span>
+
+<span style="font-size: 8pt;">My comments above are a suggestion …. done anything about them.</span>
+
+**Ozone collapse causes extinction**
+**Thomas 6**<span style="font-size: 8pt;"> [William Thomas, Investigative Journalist, 8-7-2006, “Scientist Says Chemtrails, Shuttle Launches Endangering Earth,” Chem Trails, http://www.chemtrails911.com/docs/Space%20Shuttle%20Launch-Ozone%20Layer.htm]</span>
+
+__A Canadian …. radiation shielding—but the stratosphere itself.__
+
+
+
+**<span style="font-size: 13pt;">Even a small nuclear war causes extinction --- best studies</span>**
+**<span style="font-size: 13pt;">Reville 10 </span>**<span style="font-size: 8pt;">[William, associate professor of biochemistry and public awareness of science officer at UCC, “Nuclear winter weather forecast”</span>
+<span style="font-size: 8pt;">The Irish Times, [[http://www.irishtimes.com/newspaper/sciencetoday/2010/0204/1224263727687.html]]]</span>
+
+<span style="font-size: 8pt;">You might think that the ….</span> __1,000 years__<span style="font-size: 8pt;">. </span>
+
+
+**Nuclear war outweighs asteroid collision—civilian infrastructure would be targeted which makes recovery less likely**
+**Bennett 10**<span style="font-size: 8pt;"> [James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 155-157]</span>
+
+__For a near-impossible …..__<span style="font-size: 8pt;"> to the nitric oxide resulting from impact-induced shock waves.</span>
+
+
+**High-magnitude logic doesn’t apply—asteroid strike is so improbable that we can just ignore it**
+**BENNETT 10**<span style="font-size: 8pt;"> (James, Prof of Economics at George Mason, //The Doomsday Lobby: Hype and Panic from Sputniks, Martians, and Marauding Meteors//, p. 175)</span>
+
+__<span style="font-size: 11pt;">Now, it makes sense for the …. will occur</span>__<span style="font-size: 8pt;">.”</span>
+
+===1NC Small Asteroids=== 
+
+
+**Satellites and information sharing prevent accidental nuclear war**
+**Fleck 2 –** <span style="font-size: 8pt;">Staff Writer (11/21/2002, John, “Study Downgrades Asteroid Threat”, Albuquerque Journal, Newsbank) MGM</span>
+
+__Research shows Earth likely to ….__<span style="font-size: 8pt;"> take much to do that," Spalding said. </span>
+
+**Inherent checks can distinguish between asteroids and nukes**
+**Nature News 2**<span style="font-size: 8pt;"> (“Microphones tell asteroids from A-bombs,” July 17, [[http://www.nature.com/news/1998/020715/full/news020715-4.html]])</span>
+
+__Ground-based …. Tunguskas we can expect__<span style="font-size: 8pt;">".</span>
+
+
+
+**Small asteroid impact would mobilize the world to prevent larger collisions**
+**VERSCHUUR 96**<span style="font-size: 8pt;"> (Gerrit, Adjunct Prof of Physics at U of Memphis, Impact: the Threat of Comets and Asteroids, p. 163)</span>
+
+__A Tunguska type event …. such a catastrophe__<span style="font-size: 8pt;">.</span>
+
+
+
+===2NC Small Asteroids --- XT #1+2: Checks prevent war=== 
+
+**Fail-safes and CBMs check accidental war**
+**ROSENKRANTZ 5** <span style="font-size: 8pt;">(Steven, Foreign Affairs Officer, Office of Strategic and Theater Defenses, Bureau of Arms Control, Weapons of mass destruction: an encyclopedia of worldwide policy, technology, and history, p 1-2)</span>
+
+<span style="font-size: 8pt;">Since the dawn of the nuclear era, </span>__substantial …. possibly be misunderstood or misconstrued by the other party__<span style="font-size: 8pt;">.</span>
+
+**No nuclear accidents**
+**PERROW 99** <span style="font-size: 8pt;">(Charles, Professor of Sociology at Yale, </span>__Normal Accidents: Living with High-Risk Technology__<span style="font-size: 8pt;">, p 257-258)</span>
+
+<span style="font-size: 8pt;">No such encouraging lessons come …. be sure that it really constitutes a viable system. It just may collapse in confusion!</span>
+
+===2NC Small Asteroids --- XT #3: No Risk=== 
+
+**Recent CBMs solve indo-pak war**
+**Botez 6/29**<span style="font-size: 8pt;"> (Radu, Writer @ Open Security, a think tank specializing in contemporary conflicts, “ India-Pakistan talks slowly move forward,” 2k11, http://www.opendemocracy.net/opensecurity/security_briefings/290611, EMM)</span>
+
+<span style="font-size: 8pt;">At the end of last week, </span>__foreign ….__<span style="font-size: 8pt;"> help to resolve issues both countries have gone to war over several times in the past. </span>
+
+
+**No India/Pakistan war –**
+**A) Deterrence**
+**Tellis 2**<span style="font-size: 8pt;"> (Ashley, Foreign Policy Research Institute, Orbis, Winter, p. 24-5)</span>
+
+<span style="font-size: 8pt;">In the final analysis,</span> __this ….__<span style="font-size: 8pt;"> to wars of unlimited aims, </span>**__exists within__**<span style="font-size: 8pt;"> the greater </span>**__South Asian region__**<span style="font-size: 8pt;">.</span>
+
+**B) Economics**
+**Tellis 2**<span style="font-size: 8pt;"> (Ashley, Foreign Policy Research Institute, Orbis, Winter, p. 19)</span>
+
+<span style="font-size: 8pt;">In any event, </span>**__the saving ….__**<span style="font-size: 8pt;"> Asian competitors and the United States.</span>
+
+
+
+
+
+===2NC Small Asteroids --- XT #4: Small Good=== 
+
+
+**Asteroid strike would cause global unity**
+**STUART 9**<span style="font-size: 8pt;"> (Jill, PhD from the London School of Economics, Securing Outer Space, Ed. Sheehan and Bormann, p. 20)</span>
+
+<span style="font-size: 8pt;">On the other hand, </span>__future …. principles rooted in humanity__<span style="font-size: 8pt;">.</span>
+
+**Small impacts are critical to mobilize support to prevent larger ones**
+**VERSCHUUR 96**<span style="font-size: 8pt;"> (Gerrit, Adjunct Prof of Physics at U of Memphis, Impact: the Threat of Comets and Asteroids, p. 108)</span>
+
+__On the morning of June 30, 1908, ….__<span style="font-size: 8pt;"> impacts that pose the greatest danger, and they occur far more frequently.</span>
+
+
+===1NC Yes War=== 
+
+**Great power wars are possible --- Mandelbaum concedes**
+**Kagan 99**<span style="font-size: 8pt;"> [Donald Hillhouse Professor of History and Classics at Yale University, 1999, “History Is Full Of Surprises,” //Survival//, Volume 41, Number 2, Summer, p. 141]</span>
+
+<span style="font-size: 8pt;">Now having said all this, even if all ….</span> __is undermined__<span style="font-size: 8pt;">.</span>
+
+
+===2NC XT Yes War=== 
+
+**“No war” predictions fail – nuclear wars are now uniquely likely and impossible to predict**
+**Doran 99** <span style="font-size: 8pt;">[Charles F., Andrew W. Mellon Professor of International Relations at Johns Hopkins University's Paul H. Nitze School of Advanced International Studies (SAIS), 1999 (“The Structural Turbulance of International Affairs,” //Survival//, Volume 41, Number 2, Summer, p. 148-149]</span>
+__One of the characteristics of …. defence, and all of this contributes to the spiral of uncertainty that leads in the end to war__<span style="font-size: 8pt;">.</span>
+
+**Overarching predictions about the future of international relations are usually wrong – the unpredictable nature of war means that you should err on the side of caution.**
+**Kagan 99** <span style="font-size: 8pt;">[Donald Kagan, Hillhouse Professor of History and Classics at Yale University, 1999, “History Is Full Of Surprises,” //Survival//, Volume 41, Number 2, Summer, p. 142]</span>
+<span style="font-size: 8pt;">But I would go further and would want to say </span>__…. often for reasons that were__ **__<span style="font-size: 11pt;">not</span>__****__<span style="font-size: 11pt;"> to be anticipated</span>__**<span style="font-size: 8pt;">.</span>
+
+
+**<span style="font-family: Times;">War can happen </span>**
+**<span style="font-family: Times;">Ferguson 8</span>**<span style="font-family: Times; font-size: 8pt;"> [sr. fellow @ the Hoover Institute and professor of History @ Harvard, Niall, Hoover Digest no1 47-53 Wint 2008]</span>
+
+__<span style="font-family: Times;">The risk of a major </span>____<span style="font-family: Times;">…. 1914, but geopolitics trumped economics. It often does</span>__
+
+
+
+<span class="StyleBoldUnderline">**War is inevitable and so are other forms of violence like terrorism, disease, poverty** </span>
+<span class="StyleBoldUnderline">**Mueller 6**</span><span style="font-size: 8pt;"> – department of political science Ohio State university (John, March 16, “This Just In: War Has Almost Ceased to Exist”)</span>
+
+Most political scientists seem still to <span class="StyleBoldUnderline">….</span><span style="font-size: 8pt;"> of war through its requirement that a government be one of the parties in the armed conflict.</span>
+
+
+
+===2NC XT Yes War --- AT Deterrence Checks=== 
+
+**Deterrence doesn’t check.**
+**Krieger 9** **–** <span style="font-size: 8pt;">professor of politics (David, September 4th, “Still loving the Bomb After All these Years” Nuclear Age Peace Foundation [[https://www.wagingpeace.org/articles/2009/09/04_krieger_newsweek_response.php?krieger]])</span>
+
+<span style="font-size: 8pt;">Tepperman builds upon </span>__Waltz__<span style="font-size: 8pt;">’s logic, and …. successors are more rational than Mr. Tepperman?</span>
+===2NC XT Yes War --- AT Democracy Checks=== 
+
+**Democracy doesn’t prevent war**
+**Taner 2**<span style="font-size: 8pt;"> [Fall 2002, Ph.D. Candidate, Department of Political science at Syracuse University’s Maxwell School of Citizenship and Public Affairs; Research Associate at Syracuse University’s global Affairs Institute; Editorial Assistant, International studies Review, Binnur Ozkececi-Taner, “The Myth of Democratic Peace Theory: Theoretical and Empirical Shortcomings of The ‘Democratic Peace Theory’,” Turkish School of international Relations, Vol. 1.3, [[http://www.alternativesjournal.net/volume1/number3/binnurozkececi.htm]]]</span>
+
+__The discussion above …. theoretically and empirically overdetermined__
+
+===2NC XT Yes War --- AT Heg Checks=== 
+
+**Heg won’t prevent war**
+**Mastanduno 9**<span style="color: black; font-size: 8pt;"> - Professor of Government at Dartmouth (Michael, World Politics 61, No. 1, Ebsco)</span>
+
+<span style="color: black; font-size: 8pt;">During the cold war the United States ….</span> __continue to act its own way, but it can no longer count on getting its own way.__
+
+===2NC XT Yes War --- AT I-Law Checks=== 
+
+**International law is too weak to prevent conflict**
+**AEI 5**<span style="font-size: 8pt;"> - American enterprise inst, book review, inst for public policy research (“The Limits of International Law” Jack L. Goldsmith and Eric A. Posner, <http://www.angelfire.com/jazz/sugimoto/law.pdf>) </span>
+<span style="font-size: 8pt;"> As the twentieth century ended, </span>__…. serious global problems__<span style="font-size: 8pt;">, including environmental degradation and human rights abuses.</span>
+
+
+===2NC XT Yes War --- AT Trade Checks=== 
+
+**Trade doesn’t prevent war**
+**Martin, Mayer and Thoenig 8 -** <span style="font-size: 8pt;">Phillipe, University of Paris 1 Pantheon—Sorbonne, Paris School of Economics, and Centre for Economic Policy Research; Thierry MAYER, University of Paris 1 Pantheon—Sorbonne, Paris School of Economics, CEPII, and Centre for Economic Policy Research, Mathias THOENIG, University of Geneva and Paris School of Economics, (The Review of Economic Studies 75)</span>
+
+__Does globalization pacify ….__<span style="font-size: 8pt;"> of </span>__military conflicts__<span style="font-size: 8pt;">, even taking into account the increase in the number of sovereign states.</span>
+
+
+==Environmental Monitoring== 
+
+
+
+===1NC Environmental Leadership=== 
+
+
+
+**2) Satellites can’t solve climate data**
+
+**Wigbels et. al, 8** <span style="font-size: 8pt;">– (July 2008, Lyn Wigbels, senior associate of Technology and Public Policy program at the Center for Strategic and International Studies, G. Ryan Faith, CSIS Human Space Exploration Initiative, Vincent Sabathier, senior associate with the CSIS Technology and Public Policy Program, Center for Strategic Studies, “Earth Observations and Global Change,” Sawyer)</span>
+
+
+
+<span style="font-size: 8pt;">However, </span>__U.S. Earth observation …. with sufficient accuracy to meet the detailed long-term planning needs of national security decisionmakers.__
+
+
+
+**4) Alt causes to climate leadership --**
+
+**a) Alternative energy policy**
+
+**Politico 11** <span style="font-size: 8pt;">(6/22/11, Politico, “Gore Voices Left’s Climate Grumbling,” </span><span style="color: black; font-size: 8pt;">http://www.seattlepi.com/national/politico/article/Gore-voices-left-s-climate-grumbling-1435262.php</span><span style="font-size: 8pt;">, Sawyer)</span>
+
+
+
+<span style="font-size: 8pt;">Betsy Taylor, a philanthropic adviser to several ….</span> __again in the Gulf of Mexico.__
+
+
+
+**b) EPA regulations**
+
+**Politico, 11** <span style="font-size: 8pt;">(6/22/11, Politico, “Gore Voices Left’s Climate Grumbling,” </span><span style="color: black; font-size: 8pt;">http://www.seattlepi.com/national/politico/article/Gore-voices-left-s-climate-grumbling-1435262.php</span><span style="font-size: 8pt;">, Sawyer)</span>
+
+
+
+__Greens have been tormented with …. efforts to limit EPA's authority__<span style="font-size: 8pt;">," he wrote.</span>
+
+
+
+**5) __Their internal link relies on subsequent policy action – Obama won’t do it.__**
+
+**__Cappiello 11__** __<span style="font-size: 8pt;">[Dina Cappiello is an award-winning environmental journalist who follows the story looking for specific, factual information about environmental problems that communities need in order to push for change. “Gore: On Global Warming, Obama Has Changed Little” 6/22</span>__
+
+__<span style="font-size: 8pt; text-decoration: none;">[[http://abcnews.go.com/Politics/wireStory?id=13900390]]</span><span style="font-size: 8pt;">]</span>__
+
+
+
+<span style="font-size: 8pt;">The </span>__Democrats' leading ….__<span style="font-size: 8pt;"> for the nation's most prominent global warming advocate, whose work on the climate problem has earned him a Nobel Prize and was adapted into an Oscar-winning documentary.</span>
+
+
+
+**6) No influence anyways**
+
+**__Falkner 5__** __<span style="font-size: 8pt;">– (November 15, 2005. “American Hegemony and the Global Environment” International Studies Review. Volume 7, Issue 4. JSTOR.)</span>__
+
+__<span style="font-size: 8pt;">Throughout the history of international ….</span> the considerable variation in US foreign environmental policy over time and across issue areas__
+
+
+
+
+
+**__7) Turn - satellite data proves there’s no warming – destroys international cooperation__**
+
+**a) Human readings are ineffective**
+
+**Taylor 1**<span style="font-size: 8pt;">(James, “Polar Ice Cap Studies Refute Catastrophic Global Warming Theories”, December 16)</span>
+
+
+
+<span style="font-size: 8pt;">Surface temperature readings taken by …. general warming of the Earth's surface.</span>
+
+
+
+**b) No correlation between warming and seal-level rise proves**
+
+**Morner 7**<span style="font-size: 8pt;"> [June 22, </span><span style="font-size: 8pt; text-decoration: none;">[[http://www.ourcivilisation.com/aginatur/morner.htm|Dr. Nils-Axel Mörner]]</span><span style="font-size: 8pt;">, “Sea-Level Expert: It’s not Rising”, </span><span style="font-size: 8pt; text-decoration: none;">[[http://www.ourcivilisation.com/aginatur/sealevel.htm]]</span><span style="font-size: 8pt;">, Has studied sea level and its effects on coastal areas for some 35 years. Recently retired as director of the Paleogeophysics and Geodynamics Department at Stockholm University, Mörner is past president (1999-2003) of the INQUA Commission on Sea Level Changes and Coastal Evolution, and leader of the Maldives Sea Level Project]</span>
+
+
+
+<span style="font-size: 8pt;">There's another way of checking it, ….</span> __with computerization; but it's not the first thing__<span style="font-size: 8pt;">.</span>
+
+
+
+**9) Tech restrictions blocks development**
+
+**Glackin, 2k** <span style="font-size: 8pt;">– senior staff member at The Aerospace Corporation, private consultant in remote sensing techniques and commercialization (December 2000, David L., American Institute of Physics, “Space-Based Earth Sensing,” The Industrial Physicist, pgs. 22-25, </span><span style="color: black; font-size: 8pt;">http://www.aip.org/tip/INPHFA/vol-6/iss-6/p22.pdf</span><span style="font-size: 8pt;">, Sawyer)</span>
+
+
+
+__The final difficulty is the …. on bids from U.S. firm.__
+
+
+
+===2NC Environmental Leadership --- XT #4 --- Alt Causes=== 
+
+
+
+**Wikileaks**
+
+**Newman in 11**<span style="font-size: 8pt;"> – (January 24, 2011. “ WikiLeaks Exposes: U.S. & EU Climate Bullying, Bribery & Espionage ” The New American. Vol. 27, Iss. 2; pg. 25, 4 pgs. Proquest.)</span>
+
+
+
+__A series of secret U.S. diplomatic ….; how distrust, broken promises and creative accounting dog negotiations; and how the US mounted a secret global diplomatic offensive to overwhelm opposition to the controversial 'Copenhagen accord.'"__
+
+
+
+
+
+===2NC Environmental Leadership --- XT #5 --- No Action=== 
+
+
+
+**EPA fights prove US policymakers won’t take climate action after the plan.**
+
+**Shogren ’11** <span style="font-size: 8pt;">[Elizabeth Shogren, a veteran newspaper reporter, came to NPR in February 2005 to cover environmental issues on the National Desk. NPR “GOP Budget Could Hobble Obama Environment Policy” 3/3 </span><span style="font-size: 8pt; text-decoration: none;">[[http://www.npr.org/2011/03/03/134237203/gop-budget-plans-quash-obama-environment-policy]]</span><span style="font-size: 8pt;">]</span>
+
+
+
+__The E__<span style="font-size: 8pt;">nvironmental </span>__P__<span style="font-size: 8pt;">rotection </span>__A__<span style="font-size: 8pt;">gency </span>__….__<span style="font-size: 8pt;"> the House bill because it goes too far. "And it means dirty air, dirty water," she said. "It means more mercury in the air. It means more soot getting into our lungs. This is serious business."</span>
+
+
+
+===<span style="font-size: 8pt;">2NC Environmental Leadership --- XT #6 --- Satellites Prove No Warming</span>=== 
+
+
+
+**Temperature change proves no warming – satellite data.**
+
+**Singer 2k**<span style="font-size: 8pt;"> (a degree in engineering from Ohio State and a Ph.D. in physics from Princeton University, President, The Science & Environmental Policy Project before the Senate Committee on Commerce, Science, and Transportation on Climate Change, July 18th, http://www.nationalcenter.org/KyotoSingerTestimony2000.html)</span>
+
+__Contrary to the conventional__ __….__ __touted "hockey stick" graph__<span style="font-size: 8pt;"> (with its "unusual" temperature rise in the past 100 years) [see figure]; it was shown here on May 17 as purported proof that the 20th century is the warmest in 1000 years.</span>
+
+
+
+**Satellites prove no warming for a decade**
+
+**<span style="color: black;">Carter 7</span>**<span style="font-size: 8pt;"> (R.M., PhD AND Research Professor, James Cook University., “The Myth of Dangerous Human-Caused Climate Change,” Science & Public Policy Institute, July 20</span><span style="color: black; font-size: 8pt;">07</span><span style="font-size: 8pt;">, </span><span style="font-size: 8pt; text-decoration: none;">[[http://coalcandothat.com/pdf/1%20MythClimateChange.pdf]]</span><span style="font-size: 8pt;">, MBIBAS)</span>
+
+<span style="color: black; font-size: 8pt;">Both the 8 and 100 year-long intervals of …. is portrayed in the daily news media.</span>
+
+
+==<span style="color: black; font-size: 8pt;">JWST Neg</span>== 
+
+
+===1NC ExoPlanets=== 
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Exoplanet research is an economic inevitability – Kepler telescope solves</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Billings, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – freelance science writer [February 2, 2011, Lee Billings, Nature 470, 27-29, “Astronomy: Exoplanets on the cheap,” http://www.nature.com/news/2011/110202/full/470027a.html] </span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">Astronomers searching for </span>____<span style="font-family: Georgia; font-size: 11pt;">…</span>__<span style="font-family: Georgia; font-size: 8pt;"> ideas that astronomers have come up with for conducting exoplanet searches on the cheap, five stand out.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Ground-based telescopes solve exoplanet study</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Dacey, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> – a reporter for physicsworld.com [Feb 5, 2010, James Dacey, “Exoplanet hunting brought down to Earth,” http://physicsworld.com/cws/article/news/41642]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">Researchers in </span>____<span style="font-family: Georgia; font-size: 11pt;">…. its parent star in relation to our line of vision</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+
+
+===2NC ExoPlanets---XT SQ Solves=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Kepler will inevitably discover exoplanets – we don’t need WFIRST</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Madrigal, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> – a staff writer for Wired Science. Madrigal is hard at work on a book about the history of green technology and is a visiting scholar at UC-Berkeley’s Office for the History of Science and Technology. [January 4, 2010, Alexis Madrigal, Wired Science, “New Exoplanet Hunter Makes First 5 Discoveries,” http://www.wired.com/wiredscience/2010/01/kepler-finds-first-exoplanets/]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">The Kepler Space Telescope, a designated ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> out there in the light-years beyond</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">We are approaching a new era of exo-planet research – recent discoveries</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">AFP, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> [Aug 24, 2010, Space Daily, “Astronomers bag biggest harvest of exoplanets,” http://www.spacedaily.com/reports/Astronomers_bag_biggest_harvest_of_exoplanets_999.html]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">European astronomers</span>__<span style="font-family: Georgia; font-size: 8pt;"> on Tuesday said they had </span>__<span style="font-family: Georgia; font-size: 11pt;">found</span>____<span style="font-family: Georgia; font-size: 11pt;"> a …. planets and give us insights into the long-term evolution of the system</span>__<span style="font-family: Georgia; font-size: 8pt;">."</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">We are finding exoplanets now</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gill, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> – science reporter [Aug 24, 2010, Victoria Gill, BBC News, “Rich exoplanet system discovered,” <span style="text-decoration: none;">[[http://www.bbc.co.uk/news/science-environment-11070991]]</span>]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">The star is 127 light years away, in the southern ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> study of complex planetary systems and not just of individual planets," he said</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">We have found enough exoplanets</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Marston, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> – a news reporter for Scientific American magazine, specializing in stories on space and physics [Aug 20, 2010, John Matson, “Slow and Steady: Astronomy Advisory Report Charts a Long Road for Exoplanet Science,” http://www.scientificamerican.com/article.cfm?id=slow-and-steady-astronomy]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">The study of planets outside the ….</span>__<span style="font-family: Georgia; font-size: 8pt;"> Department of Energy should follow.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Recent discoveries provide a Rosetta Stone for exoplanet research</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">AFP, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> [March 18, 2010, “‘Rosetta Stone’ of exoplanet research exciting scientists,” <span style="text-decoration: none;">[[http://www.taipeitimes.com/News/world/archives/2010/03/18/2003468293]]</span>]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">Marking a further step in the hunt for ….**exoplanet research**,” she said</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+
+
+===1NC Dark Matter=== 
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Successful dark matter research now</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Ferguson, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – the Founder, Chair, and Managing Partner of Next Street, a merchant bank for the urban enterprise. Formerly the Managing Director of Putman Investments, and CEO of HSBC Asset Management, Mr. Ferguson is on the board for the Initiative for a Competitive Inner City, a trustee of the Institute of Contemporary Art, a director of the Boston Center for Community and Justice [Feb 7, 2011, Tim Ferguson, “UK supercomputer probes dark matter and dark energy,” http://www.silicon.com/management/public-sector/2011/02/07/uk-supercomputer-probes-dark-matter-and-dark-energy-39746923/]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">What happened just after the Big Bang? ….</span>__<span style="font-family: Georgia; font-size: 8pt;"> volume of data from the universe ever surveyed.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Dark matter isn’t even a conclusive theory</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">D’Amico, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – writer for universetoday.com [April 18, 2011, Vanessa D'Amico, “Antigravity Could Replace Dark Energy as Cause of Universe’s Expansion,” http://www.universetoday.com/84934/antigravity-could-replace-dark-energy-as-cause-of-universes-expansion/]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">Since the late 20th century, </span>__<span style="font-family: Georgia; font-size: 11pt;">astronomers …. elsewhere</span>__<span style="font-family: Georgia; font-size: 8pt;">.” The research appears in this month’s edition of Europhysics Letters.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">There is neutrino detection technology now</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Courtland, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – writer for the //New Scientist// [April 28, 2011, Rachel Courtland, “"Ghost Particle" Detectors Closer to Preventing Nuclear Proliferation,” http://spectrum.ieee.org/energy/nuclear/ghost-particle-detectors-closer-to-preventing-nuclear-proliferation/2]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">The Point Lepreau </span>____<span style="font-family: Georgia; font-size: 11pt;">…. of a fuel cycle, Bernstein says</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+
+
+===2NC Dark Matter---XT Research Now=== 
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">There is revolutionary research in dark matter now</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">McLean, 10</span>**<span style="font-family: Georgia; font-size: 8pt;"> – undergrad in Johnathan Edwards college majoring in Molecular, Cellular and Developmental Biology. She is a writer for the Yale Scientific Magazine and works in Professor Crews’ lab studying the molecular mechanisms of limb regeneration in axolotls. [Dec 1, 2010, Kaitlin McLean, “Dark Energy: Studying the Expansion and Fate of the Universe,” http://www.yalescientific.org/2010/12/dark-energy-studying-the-expansion-and-fate-of-the-universe/]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">Since ancient times, </span>__<span style="font-family: Georgia; font-size: 11pt;">people have stared into the …. work continue expanding—not collapsing</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">We already know everything we need to know about dark matter –</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Cowen, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – the astronomy and physics writer at Science News [April 9, 2011, Ron Cowen, “New study gives dark energy a boost,” <span style="text-decoration: none;">[[http://www.sciencenews.org/view/generic/id/71286/title/New_study_gives_dark_energy_a_boost]]</span>]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">New evidence bolsters the case …. but later abandoned</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+===1NC Dark Matter---Dark Matter Bad=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Discovery of dark energy sets the false vacuums decay clock to zero—Makes extinction inevitable</span>**
+
+<span style="font-family: Georgia; font-size: 8pt;">Matt </span>**<span style="font-family: Georgia; font-size: 11pt;">Ford 2007</span>**<span style="font-family: Georgia; font-size: 8pt;"> got his bachelors degree in chemical engineering from the University of Delaware and graduate school at the University of Massachusetts Amherst where he got his doctorate in chemical engineering. Human observation of dark energy may shorten the life span of the universe <span style="text-decoration: none;">[[http://arstechnica.com/old/content/2007/11/human-observation-of-dark-energy-may-shorten-the-life-span-of-the-universe.ars]]</span></span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">Their official paper, titled "The …. universe's ultimate chance of survival.</span>
+
+
+
+
+
+===2NC Dark Matter---XT Dark Matter Bad=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">There is a linear risk of collapse of the universe from finding dark energy</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Davis quoting scientist Professor Kraus, 07</span>**<span style="font-family: Georgia; font-size: 8pt;"> [“The five scientific experiments most likely to end the world”, <span style="text-decoration: none;">[[http://www.cracked.com/article_16583_the-5-scientific-experiments-most-likely-to-end-world.html]]</span>] </span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">No doubt the strangest ….</span>__<span style="font-family: Georgia; font-size: 11pt;">it may already be underway.</span>__
+
+
+
+
+
+===2NC Euclid Solvency=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">US investment in Euclid solves all the reasons WFIRST is key – our evidence assumes their tradeoff internal link</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Klamper, ’10</span>**<span style="font-family: Georgia; font-size: 8pt;"> [Amy Klamper, 17 September, 2010, “NASA Sees Expanded Role on Euclid as Down Payment on Dark Energy Flagship”, </span>
+
+<span style="font-family: Georgia; font-size: 8pt;">http://www.spacenews.com/civil/nasa-dark-energy.html, SM]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">WASHINGTON — NASA plans to begin ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> with WFIRST</span>__<span style="font-family: Georgia; font-size: 8pt;">. He views a proposed 33 percent investment in Euclid as a near-term down payment on the decadal survey’s top science objective.</span>
+
+
+
+===1NC Science Leadership=== 
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">No impact to science diplomacy </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Dickson 9</span>**<span style="font-family: Georgia; font-size: 8pt;"> [David, Direction Science & Development Network. June 2, 2009, “Science diplomacy: the case for caution”, <span style="text-decoration: none;">[[http://scidevnet.wordpress.com/category/new-%20frontiers-in-science-diplomacy-2009|http://scidevnet.wordpress.com/category/new- frontiers-in-science-diplomacy-2009]]</span>, SM]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">One of the frustrations of …. partners in collaborative projects</span>__<span style="font-family: Georgia; font-size: 8pt;">, particularly in the developing world – </span>__<span style="font-family: Georgia; font-size: 11pt;">were</span>____<span style="font-family: Georgia; font-size: 11pt;"> also clearly exposed.</span>__
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Recent budgets terminally __destroyed__ science leadership – full spectrum cuts destroys US ability to compete scientifically</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Orbach, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Energy Institute at The University of Texas at Austin and served as Under Secretary for Science in the United States DOE [Raymond L. Orbach, Director, Energy Institute at The University of Texas at Austin, “ResearchVital to Economic Growth”, http://www.energy.utexas.edu/index.php?option=com_content&view=article&id=100:research-vital-to-economic-growth&catid=32:editorials&Itemid=47, SM]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">It was with a mixture of astonishment and ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> and prosperity for future generations of Americans</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">No impact to soft power – believers exaggerate benefits – hard power is comparatively more important </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gray 2011</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, England. (Colin S., April, “HARD POWER AND SOFT POWER: THE UTILITY OF MILITARY FORCE AS AN INSTRUMENT OF POLICY IN THE 21ST CENTURY.” Published by Strategic Studies Institute) </span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">Soft power</span>____<span style="font-family: Georgia; font-size: 11pt;">is</span>__<span style="font-family: Georgia; font-size: 8pt;"> potentially a </span>__<span style="font-family: Georgia; font-size: 11pt;">….</span>__<span style="font-family: Georgia; font-size: 8pt;"> is always at risk to negation by the evidence of national deeds that appear to contradict our cultural persona.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Turn – Science leadership is becoming globalized – that’s better to solve the world’s problems</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Jha, 11</span>**<span style="font-family: Georgia; font-size: 8pt;"> – science correspondent for the Guardian [March 28, 2011, Alok Jha, “China poised to overhaul US as biggest publisher of scientific papers,” http://www.guardian.co.uk/science/2011/mar/28/china-us-publisher-scientific-papers]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">China could overtake the United States as …. we will have and the better off we will be</span>__<span style="font-family: Georgia; font-size: 8pt;">." </span>
+
+
+
+
+
+
+
+===2NC Science Leadership---XT Not KT Soft Power=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Science not enough – US image is tarnished too much</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Dickson,’09</span>**<span style="font-family: Georgia; font-size: 8pt;"> [David, Direction Science & Development Network. June 1, 2009, “Science diplomacy: a timely idea or a fashionable myth?”, <span style="text-decoration: none;">[[http://scidevnet.wordpress.com/2009/06/01/science-diplomacy-a-timely-idea-or-a-fashionable-myth/]]</span>, SM]</span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">At the height of the Cold War, the scientific ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> their aid packages – even those designed to boost their scientific capacities</span>__<span style="font-family: Georgia; font-size: 8pt;">.</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Science doesn’t translate into diplomacy – empirically disproven</span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Dickson, ’10</span>**<span style="font-family: Georgia; font-size: 8pt;">[David, Direction Science & Development Network , 6/28/10, “Science in diplomacy: ‘On tap but not on top’”, http://scidevnet.wordpress.com/2010/06/28/the-place-of-science-in-diplomacy-%E2%80%9Con-tap-but-not-on-top%E2%80%9D/, SM]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">The broadest gaps in </span>____<span style="font-family: Georgia; font-size: 11pt;">…. – but cannot provide the solutions to either.</span>__
+
+
+
+
+
+===2NC Science Leadership---XT Alt Causes=== 
+
+
+
+<span style="display: block; text-align: center;">
+</span>
+
+**<span style="font-family: Georgia; font-size: 11pt;">They overwhelm the plan – our status of leadership in science is </span>**__<span style="font-family: Georgia; font-size: 11pt;">over</span>__
+
+**<span style="font-family: Georgia; font-size: 11pt;">Morello, ’11</span>**<span style="font-family: Georgia; font-size: 8pt;"> [Lauren Morello, February 25, 2011, “House Budget Cuts Could End U.S. Science Leadership”, http://www.scientificamerican.com/article.cfm?id=house-budget-cuts-could-end-us-science-leadership, SM]</span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">Spending cuts</span>____<span style="font-family: Georgia; font-size: 11pt;"> approved by the …. growth and prosperity for future generations of Americans</span>__<span style="font-family: Georgia; font-size: 8pt;">," he wrote.</span>
+
+
+
+
+
+===2NC Science Leadership---XT Soft Power Fails=== 
+
+
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">The government cannot control soft power—it is the perception of the entire society that matters. </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gray 2011</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, England. (Colin S., April, “HARD POWER AND SOFT POWER: THE UTILITY OF MILITARY FORCE AS AN INSTRUMENT OF POLICY IN THE 21ST CENTURY.” Published by Strategic Studies Institute) </span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">Moreover, </span>__<span style="font-family: Georgia; font-size: 11pt;">no</span>____<span style="font-family: Georgia; font-size: 11pt;"> contemporary U.S. ….</span>__<span style="font-family: Georgia; font-size: 8pt;"> of American-authored words and deeds, past and present.43</span>
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Hard power key to soft power – no impact to soft power alone </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gray 2011</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, England. (Colin S., April, “HARD POWER AND SOFT POWER: THE UTILITY OF MILITARY FORCE AS AN INSTRUMENT OF POLICY IN THE 21ST CENTURY.” Published by Strategic Studies Institute) </span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">Full-blown, the argument holds, first, that ….</span>__<span style="font-family: Georgia; font-size: 11pt;">looks convincing as a guardian state and coalition leader.</span>__
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Soft power __cannot__ replace hard power </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gray 2011</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, England. (Colin S., April, “HARD POWER AND SOFT POWER: THE UTILITY OF MILITARY FORCE AS AN INSTRUMENT OF POLICY IN THE 21ST CENTURY.” Published by Strategic Studies Institute) </span>
+
+
+
+<span style="font-family: Georgia; font-size: 8pt;">It is not difficult to identify reasons why ….</span>__<span style="font-family: Georgia; font-size: 11pt;"> attitudes that heavily favor restraint.</span>__
+
+
+
+**<span style="font-family: Georgia; font-size: 11pt;">Soft power doesn’t solve wars – increases resentment for the “uncivilized” </span>**
+
+**<span style="font-family: Georgia; font-size: 11pt;">Gray 2011</span>**<span style="font-family: Georgia; font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, England. (Colin S., April, “HARD POWER AND SOFT POWER: THE UTILITY OF MILITARY FORCE AS AN INSTRUMENT OF POLICY IN THE 21ST CENTURY.” Published by Strategic Studies Institute) </span>
+
+
+
+__<span style="font-family: Georgia; font-size: 11pt;">An inherent</span>__<span style="font-family: Georgia; font-size: 8pt;"> and unavoidable </span>__<span style="font-family: Georgia; font-size: 11pt;">problem with a ….</span>__<span style="font-family: Georgia; font-size: 8pt;"> of (American) military force is also to be deplored.</span>
+
+
+==<span style="font-family: Georgia; font-size: 8pt;">Nanotechnology Neg</span>== 
+
+
+===1NC Solvency=== 
+No solvency – no gains from investment
+<span style="font-family: Garamond;">John F. **__Sargent__**, Specialist in Science and Technology Policy in the Resources, Science, and Industry Division, May 15th **__2008__** “Nanotechnology and U.S. Competitiveness” http://fpc.state.gov/documents/organization/106153.pdf</span>
+
+<span style="font-family: Garamond;">Some economists assert that __public R&…. to be economically unsound.58__ </span>
+Academic publishing prevents competitivenes
+<span style="font-family: Garamond;">John F **__Sargent__**, Specialist in Science and Technology Policy in the Resources, Science, and Industry Division May 5th **__2008__** “Nanotechnology and U.S. Competitiveness,” http://fpc.state.gov/documents/organization/106153.pdf</span>
+
+<span style="font-family: Garamond;">Basic research is generally …. alike, a__nd__ thus __may not confer competitive advantage to the U__nited __S__tates.</span>
+
+
+===1NC Economy Turn=== 
+
+Nano breakthroughs destroy economies, causing global warfare
+<span style="font-family: Garamond;">John Robert **__Marlow__**, nanotechnology columnist, nonfiction author,, freelance journalist,., April **__2004__** “Nanosecurity and the Future (if Any)” </span><span style="font-family: Garamond; text-decoration: none;">[[http://www.johnrobertmarlow.com/sa__art--nanosecurity%20and%20the%20future%20if%20any.html|http://www.johnrobertmarlow.com/sa__art-nanosecurity%20and%20the%20future%20if%20any.html]]</span>
+
+__<span style="font-family: Garamond;">Even</span>____<span style="font-family: Garamond;">a purely commercial ….. [12] This is in itself a security issue</span>__
+
+
+===2NC Economy Turn=== 
+
+**<span style="color: black;">Nanotech tanks the economy</span>**
+**<span style="color: black;">Lin and Allhoff 07 </span>**<span style="color: black; font-size: 8pt;">[Patrick Lin, research director for Nanoethics and an assistant professor at California Polytechnic State University (Cal Poly, SLO), as well as affiliate scholar at Stanford Law School's Center for Internet and Society and visiting research fellow at Australia's Centre for Applied Philosophy and Public Ethics, Fritz Allhoff, assistant professor of philosophy at WMU, cofounder of the Nanoethics Group, fellow at American Medical Association’s Institute for Ethics and the Australian National University for nanoethics research. “Nanoscience and Nanoethics: Defining the Disciplines” p. 12 in “Nanoethics: The Ethical and Social Implications of Nanotechnology” Copyright 2007, BJM]</span>
+__<span style="color: black;">So if</span>__<span style="color: black; font-size: 8pt;"> advance </span>__<span style="color: black;">nanotechnology</span>____<span style="color: black;">is in our ….</span>__<span style="color: black; font-size: 8pt;">, and artificial intelligence.</span>
+
+
+==<span style="color: black; font-size: 8pt;">SPS Neg</span>== 
+===<span style="text-align: center;"><span style="display: block; text-align: left;"><span style="font-size: 16pt;">**1NC Military Dependence**</span></span></span>=== 
+
+**Squo solves** 
+**AP 7/8**<span style="font-size: 8pt;"> (JULY 8, 2011, 11:11 A.M. ET Md.'s Rep. Bartlett aims to cut military oil usage, <span style="color: windowtext; text-decoration: none;">[[http://online.wsj.com/article/APbc1683c9e2f44dc6a25f5dcbd500640c.html]]</span>, RBatra)</span>
+
+<span style="font-size: 8pt;">Maryland </span>__Congressman__<span style="font-size: 8pt;"> Roscoe </span>__Bartlett says …. in oil price and supply.__
+
+
+===2NC Military Dependence=== 
+
+**Military transitioning to renewables now – oil is expensive, unreliable, inefficient, and a burden**
+**<span style="font-size: 13pt;">Rosenthal 10</span>**<span style="font-size: 10pt;"> [“U.S. Military Orders Less Dependence on Fossil Fuels” ELISABETH ROSENTHAL- writer for the New York Times October 4, 2010. http://www.nytimes.com/2010/10/05/science/earth/05fossil.html?pagewanted=2]</span>
+**__<span style="font-size: 10pt;">With insurgents increasingly attacking the ….</span>__**__<span style="font-size: 10pt;"> infrastructure will be</span>____<span style="font-size: 10pt;">created</span>__<span style="font-size: 8pt;">.”</span>
+
+**The army is moving towards alternative energy**
+**<span style="font-size: 13pt;">Heller 8/15</span>**<span style="font-size: 10pt;"> [“Army aims to boost renewable energy at posts” By MARC HELLER- TIMES WASHINGTON CORRESPONDENT. MONDAY, AUGUST 15, 2011. http://www.watertowndailytimes.com/article/20110815/NEWS02/708159930]</span>
+<span style="font-size: 8pt;">WASHINGTON — </span>**__<span style="font-size: 10pt;">Still burdened with rising ….</span>__**__<span style="font-size: 10pt;"> operational by Sept. 15</span>__<span style="font-size: 8pt;">, the Army said.</span>
+
+
+===<span style="text-align: center;"><span style="display: block; text-align: left;"><span style="font-size: 16pt;">**1NC Aerospace**</span></span></span>=== 
+
+**Alt cause --- ITAR**
+**<span style="color: #0d0d0d;">NSSO 7</span>**<span style="color: #0d0d0d; font-size: 8pt;">[National Security Space Office, Report to the Director, “Space-Based Solar Power As an Opportunity for Strategic Security; Phase 0 Architecture Feasibility Study” October 10, 2007, http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf]</span>
+
+<span style="color: #0d0d0d; font-size: 8pt;">FINDING: The SBSP Study Group found in order to …. participation of foreign companies as suppliers to U.S.bidders.</span>
+
+
+===<span style="text-align: center;"><span style="display: block; text-align: left;"><span style="color: #0d0d0d; font-size: 16pt;">**2NC Aerospace Adv --- ITAR Prevents Aerospace**</span></span></span>=== 
+
+**ITAR restrictions kill aerospace solvency**
+**<span style="color: #0d0d0d;">Sadeh 8</span>**<span style="color: #0d0d0d; font-size: 8pt;"> [an Associate Director for the Center for Space and Defense Studies at the United States Air Force Academy, Eligar, The Space Review, “Space policy questions and decisions facing a new administration”, 6/9, http://www.thespacereview.com/article/1146/1]</span>
+
+__<span style="color: #0d0d0d;">The United States ….</span>__<span style="color: #0d0d0d; font-size: 8pt;"> space protection capabilities.</span>
+
+<span style="display: block; text-align: center;"> </span>
+===<span style="text-align: left;"><span style="font-size: 16pt;">**1NC Solvency**</span></span>=== 
+
+**1. __High launch costs__ prevent SPS**
+**<span style="background-color: aqua;">Cox 11</span>**<span style="font-size: 8pt;"> [retired prosecutor and public interest lawyer, author and political activist, William, “The Race for Space Solar Energy,” 3/26, <span style="color: windowtext; text-decoration: none;">[[http://www.thepeoplesvoice.org/TPV3/Voices.php/2011/03/26/the-race-for-space-solar-energy]]</span>]</span>
+
+__The remaining problem is the__ __…__
+<span style="font-size: 8pt;">orbit, to less than $3,500 per kilogram.</span>
+
+**__2. It will take forever__ --- developing SPS in and of itself will take at least 40 years ---** 
+**<span style="color: #0d0d0d;">Day 8</span>**<span style="color: #0d0d0d; font-size: 8pt;"> [Dwayne, “Knights in shining armor,” The Space Review, 6/9, </span><span style="font-size: 8pt;"><span style="color: #0d0d0d; text-decoration: none;">[[http://www.thespacereview.com/article/1147/1]]</span></span><span style="color: #0d0d0d; font-size: 8pt;">]</span>
+
+__<span style="color: #0d0d0d;">The NSSO study</span>__<span style="color: #0d0d0d; font-size: 8pt;"> is remarkably sensible …. others solve it for them). The activists have ignored the message and fallen in love with the messenger.</span>
+
+**3. __Can’t launch the satellite__ --- no transportation**
+**Nansen 95**<span style="font-size: 8pt;"> - led the Boeing team of engineers in the <span style="color: windowtext; text-decoration: none;">[[http://www.nss.org/settlement/ssp/library/doe.htm|Satellite Power System Concept Development and Evaluation Program]]</span> for the Department of Energy and NASA, and President Solar Space Industries (Ralph, Sun Power, <span style="color: windowtext; text-decoration: none;">[[http://www.nss.org/settlement/ssp/sunpower/sunpower09.html]]</span>)</span>
+
+<span style="font-size: 8pt;">It is the initial development cost that presents the problem. The cost of …., beyond what is being developed by the Space Station, would be considerably less than the Saturn/Apollo lunar landing program.</span>
+
+===<span style="text-align: center;"><span style="display: block; text-align: left;"><span style="font-size: 16pt;">**2NC Solvency --- XT #1: Launch Costs**</span></span></span>=== 
+
+**Lack of space launch services inhibit space solar power**
+**<span style="color: #0d0d0d;">Mankins 8</span>**<span style="color: #0d0d0d; font-size: 8pt;"> - president of the Space Power Association, and former Manager, Advanced Concepts Studies, Office of Space Flight at NASA (John, Ad Astra, “Inexhaustible Energy from Orbit” Spring 2008, pg. 20, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf)</span>
+
+__<span style="color: #0d0d0d;">A major barrier to all space endeavors also ….</span>__<span style="color: #0d0d0d; font-size: 8pt;"> engineers on Earth—which drive the high cost of contemporary space operations.) </span>
+
+**Lack of low-cost space access blocks SSP**
+**<span style="color: #0d0d0d;">Mankins 8</span>**<span style="color: #0d0d0d; font-size: 8pt;"> - president of the Space Power Association, and former Manager, Advanced Concepts Studies, Office of Space Flight at NASA (John, Ad Astra, “Inexhaustible Energy from Orbit” Spring 2008, pg. 20, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf)</span>
+
+<span style="color: #0d0d0d; font-size: 8pt;">Lower-Cost Space Access. Space launch is a well-known and ….</span>__<span style="color: #0d0d0d;"> reduced</span>__<span style="color: #0d0d0d; font-size: 8pt;">: the system must be largely autonomous, involving neither “marching armies” of operators or maintenance engineers. </span>
+
+
+===2NC Solvency --- XT #2: 40 Years=== 
+
+
+**SSP is not technologically feasible or effective and won’t be for 30 years**
+**Fan et. al 11**<span style="font-size: 8pt;"> (William, Harold Martin, James Wu, Brian Mok, “SPACE BASED SOLAR POWER,” <span style="color: windowtext; text-decoration: none;">[[http://www.pickar.caltech.edu/e103/Final%20Exams/Space%20Based%20Solar%20Power.pdf]]</span>, 6/24/11. NBM)</span>
+
+<span style="font-size: 8pt;">While hard to estimate, we believe currently that </span>__SBSP__ __is not ….__<span style="font-size: 8pt;"> technological disruptions within the next 30 years. </span>
+<span style="text-align: center;"><span style="display: block; text-align: center;"> </span></span>
+
+===2NC Solvency --- XT #3: No Launcher=== 
+
+**Lack of space launch services inhibit space solar power**
+**Mankins 8**<span style="font-size: 8pt;"> [president of the Space Power Association, and former Manager, Advanced Concepts Studies, Office of Space Flight at NASA, John, Ad Astra, “Inexhaustible Energy from Orbit” Spring 2008, pg. 20, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]</span>
+
+__A major barrier to all space endeavors ….__<span style="font-size: 8pt;"> of contemporary space operations.) </span>
+
+**Even if a launcher is viable, it’s __too expensive__** 
+**Mankins 8**<span style="font-size: 8pt;"> [president of the Space Power Association, and former Manager, Advanced Concepts Studies, Office of Space Flight at NASA, John, Ad Astra, “Inexhaustible Energy from Orbit” Spring 2008, pg. 20, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]</span>
+
+<span style="font-size: 8pt;">Lower-Cost Space Access. Space launch is a ….</span> __reduced__<span style="font-size: 8pt;">: the system must be largely autonomous, involving neither “marching armies” of operators or maintenance engineers. </span>
+
+**SPS is too big to deploy**
+<span style="font-size: 8pt;">David </span>**Boswell 4**<span style="font-size: 8pt;"> speaker at the 1991 ISDC, International Space Development Conference, August 30, 2004, (The Space Review, Whatever happened to solar power satellites?, <span style="color: windowtext; text-decoration: none;">[[http://www.thespacereview.com/article/214/1]]</span>)</span>
+
+<span style="font-size: 8pt;">A very big problem </span>__A fully-operational solar ….____, the concept would need to be put on hold until other lift options, such as a space elevator, are available__<span style="font-size: 8pt;">. </span>
+
+<span style="text-align: center;"><span style="display: block; text-align: center;"> </span></span>

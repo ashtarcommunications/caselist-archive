@@ -1,0 +1,782 @@
+[[toc]]
+=Round 1= 
+==1NC== 
+
+===T-Human=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">I. Interpretation –</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">a) Exploration means to expand human presence to space</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">Logsdon, 9 –</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;"> professor of political science at George Washington, former director of the Space Policy Institute (John, “Fifty Years of Human Spaceflight</span><span style="background-color: #ffffff; font-family: Georgia,serif;"> //<span style="font-size: 10pt;">Why Is There Still a Controversy?,”</span>//</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;">[[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100025875_2010028362.pdf]])</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;">Exploration as a Compelling Rationale</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8.5pt;">Many believe that the only sustainable rationale for a … “primary objectives” of national pride and prestige, and also to some of the several “secondary objectives.”</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">b) development also has to be human presence</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">Livingston 07</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8.5pt;"> – former adjunct professor in the Graduate School of Business at Golden Gate University his doctoral dissertation was titled “Outer Space Commerce: Its History and Prospects” citing Eric Westling co-author of “The Space Elevator” and numerous papers on space tech and development [quals in card] (9/10/07, “This Week On The Space Show: Eric Westling”, [[http://www.thespaceshow.com/guest.asp?q=298]])</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">__<span style="font-size: 10pt;">Eric Westling is ascience writer</span>__</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8.5pt;">, pundit on science, technology, …</span><span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 10pt;">manned commercial projects in space</span>__**</span>
+
+
+===ASPEC=== 
+
+
+<span style="background-color: #ffffff;">1. Interpretation: </span>**<span style="background-color: #ffffff;">the aff must specify the actor that does the plan because the USFG is three branches</span>**
+
+**<span style="background-color: #ffffff;"><span style="background-color: aqua;">Alabama Law Review</span>, 20<span class="Heading2Char">0</span><span style="background-color: aqua;">2</span> (l/n)</span>**
+
+**<span style="background-color: #ffffff;"><span style="background-color: aqua;">The Framers </span><span class="UnderliningChar">…</span><span style="font-size: 8pt;"> by splitting it between two Houses of Congress. </span></span>**
+
+
+<span style="background-color: #ffffff;">2. Prefer it: </span>
+
+
+<span style="background-color: #ffffff;">a. ground</span>**<span style="background-color: #ffffff;">- critical to actor based disads like politics and agent counterplans like courts</span>**
+
+
+<span style="background-color: #ffffff;">b. education</span>**<span style="background-color: #ffffff;">- they obliterate it</span>**
+
+**<span style="background-color: #ffffff;"><span style="background-color: aqua;">Elmore</span><span class="cite">, Prof. Public Affairs at University of Washington, PolySci Quarterly 79-80, p. 605, 19</span><span style="background-color: aqua;">80</span> </span>**
+
+**<span style="background-color: #ffffff;">The emergence of implementation as a subject for policy analysis coincides closely with the discovery by policy analysts that decisions are not self-executing. <span style="background-color: aqua;">Analysis of policy</span><span class="underline0"> choices </span><span style="background-color: aqua;">matter</span><span class="underline0"> very </span><span style="background-color: aqua;">…realm of implementation.</span> </span>**
+
+===Cost-Estimates Counterplan=== 
+
+Text: Congress should pass authorization legislation for Space Solar Power Satellites via Arbitrarily Large Phased Array. Congress should condition appropriations for Space Solar Power Satellites via Arbitrarily Large Phased Array on the National Aeronautics and Space Administration implementing cost-estimation reform as per the Government Accountability Office 4 evidence.
+
+
+**<span style="font-size: 12pt;">Reforms solve NASA cost-estimations</span>**
+**<span style="font-size: 12pt;">GAO 4</span>** (May. Lack of Disciplined Cost-Estimating Processes Hinders Effective Program Management. [[http://www.gpo.gov/fdsys/pkg/GAOREPORTS-GAO-04-642/pdf/GAOREPORTS-GAO-04-642.pdf]])
+**__Improvements to NASA’s … cost-estimating practices__**<span style="font-size: 8pt;">.</span>
+
+
+**<span style="font-size: 12pt;">NASA will say yes- cost-estimation comes before NASA requests authority to develop</span>**
+**<span style="font-size: 12pt;">NASA No Date</span>** (Major NASA Development Programs. Program Cost Estimates. [[http://www.hq.nasa.gov/office/codeb/budget/LIFCY982.htm]])
+**__After three years …__**<span style="font-size: 8pt;"> to the Shuttle.</span>
+
+
+**<span style="font-size: 12pt;">Bad cost-estimation forces trade offs </span>**
+**<span style="font-size: 12pt;">GAO 4</span>** (May. Lack of Disciplined Cost-Estimating Processes Hinders Effective Program Management. [[http://www.gpo.gov/fdsys/pkg/GAOREPORTS-GAO-04-642/pdf/GAOREPORTS-GAO-04-642.pdf]])
+**__NASA’s unreliable cost …__**<span style="font-size: 8pt;"> existing NASA programs.</span>
+
+
+**Earth sciences would get cut**
+Rick **Piltz 4/13**/12 (“On the intellectually empty, politically motivated attacks on NASA climate scientists by former astronauts” Climate Science Watch, [[http://www.climatesciencewatch.org/2012/04/13/on-the-intellectually-empty-politically-motivated-attacks-on-nasa-climate-scientists-by-former-astronauts/]]< PZ)
+__With the 2013 NASA …__<span style="font-size: 8pt;"> and meaningful action.</span>
+
+<span style="font-size: 12pt;">Earth sciences solves multiple scenarios for extinction, including climate change.</span>
+<span style="font-size: 12pt;">Killeen 5 – Phd. , Director of the National Center for Atmospheric Research</span>
+<span style="font-size: 12pt;">(Timothy, 28th April 2005, “Senate Hearing on NASA's Earth Science Program”, </span>[[http://www.spaceref.com/news/viewsr.html?pid=16382]]<span style="font-size: 12pt;">) NAR</span>
+<span style="font-size: 8pt;">It is clear after decades of …s</span><span class="Underline">imultaneous multiple stresses. </span>
+
+
+
+===Security=== 
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">The affirmative’s attempt to extend into space creates a form of politics entrenched in rationalist thinking which only replicates the harms they wish to avoid</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">Sheehan 7</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;"> -Distinguished Fellow at the Center on Law and Security (2007, Michael, pp. 5-19 “The International Politics of Space,”[[http://bib.tiera.ru/dvd64/Sheehan%20M.%20-%20The%20International%20Politics%20of%20Space%282007%29%28248%29.pdf|http://bib.tiera.ru/dvd64/Sheehan%20M.%20-%20The%20International%20Politics%20of%20Space(2007)(248).pdf]], liam)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">__<span style="font-size: 10pt;">The fact that</span>__ </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8.5pt;">Outer</span><span style="background-color: #ffffff; font-family: Georgia,serif;"> __<span style="font-size: 10pt;">Space has been a realm</span>__ __<span style="font-size: 10pt;">… in the inside/outside issues of post-sovereignty represented by human activities beyond the Earth’s atmosphere</span>__</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8.5pt;">. Xx</span>
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">their ontological commitment to global order renders all life calculable and is the root cause of violent conflict</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">Burke, 06</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;"> (Ontologies of War: Violence, Existence and Reason 10:2 | [[http://muse.jhu.edu.proxy.library.emory.edu/journals/theory_and_event/v010/10.2burke.html#copyright|©]] 2007 Anthony Burke War as a Way of Being: Lebanon 2006 (PhD, Anthony Burke was appointed to UNSW@ADFA in February 2008, after three years in the School of Social Sciences and International Studies at UNSW Sydney (2005-7) Theory & Event, Project Muse).</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">__<span style="font-size: 10pt;">Bacon thought of the new scientific method not merely … obstacles, useful or obstinate matter.</span>__</span>
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">Alternative:</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;"> reject the security fetishism of the aff, their flawed methodology and discourse to eschew the logic of security.</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 10pt;">The alternative solves</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 10pt;">- breaking out of our obsession with security allows alternative relationships to the future</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 11.5pt;">Neocleous</span>__**</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11.5pt;"> 20**__08__**</span> <span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 7pt;">(Mark is a Professor at Brunel University, Critique of Political Economy; Head of Department of Politics & History, he joined Brunel University in the Department of Government in 1994. Since then he has published numerous books and articles. His most recent work has been towards the development of a critique of security. “CRITIQUE OF SECURITY” 2008. Pg. 185-186, MT)</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">__<span style="font-size: 11.5pt;">The only way out of such a dilemma, **to escape the fetish**, is … out and handing it to the state; **it requires us to be brave enough to return the gift.**</span>__</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11.5pt;">143</span>
+
+
+
+===China Disad=== 
+**<span style="font-family: Arial,sans-serif; font-size: 12pt;">Hu has begun his push against the Princelings – he’ll secure control over the Politburo Standing Committee</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 12pt;">Lam – 3/12</span>**
+(Dr. Willy Wo-Lap Lam is a Senior Fellow at The Jamestown Foundation and Professor of China studies at Akita International University, Japan, and at the Chinese University of Hong Kong,
+“Hu Jintao Draws Blood with the Wang Lijun Scandal”, Jamestown China Brief, March 2, 2012, http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews%5Btt_news%5D=39092&tx_ttnews%5BbackPid%5D=25&cHash=4c9b60e4f8bf8dd6bc9f171a1e2a5e8c)
+<span style="font-size: 8pt;">After apparently engineering …</span>**__<span style="font-size: 10pt;"> the 18th CCP Congress?</span>__**
+
+
+**Perceived containment will alienate all areas of China, weakening Hu’s support in both the coastal regions and in the interior provinces**
+**<span style="font-family: Arial,sans-serif; font-size: 12pt;">Lampton 2005</span>**
+(David M, “Paradigm Lost”, The National Interest, Fall 2005, lexis)
+<span style="font-size: 8pt;">If we take the … not march over the cliff." </span>
+
+
+**Political composition of the Standing Committee dictates reforms -**
+**<span style="font-family: Arial,sans-serif; font-size: 12pt;">Branigan – March 18</span>**
+(Tania, The Guardian, “Change is coming to China – but will Beijing lead a social revolution?”, Sunday 18 March 2012, http://www.guardian.co.uk/world/2012/mar/18/china-beijing-social-revolution?CMP=twt_gu)
+**__<span style="font-size: 10pt;">Reforms have reached </span>__****__<span style="font-size: 10pt;">… make a difference</span>__**<span style="font-size: 8pt;">." </span>
+
+**Failure of reform causes multiple nuclear wars**
+**<span style="font-family: Arial,sans-serif; font-size: 12pt;">Yee and Storey 2002</span>**
+(Herbert Yee, Professor of Politics and International Relations at the Hong Kong Baptist University, and Ian Storey, Lecturer in Defence Studies at Deakin University, 2002 (The China Threat: Perceptions, Myths and Reality, RoutledgeCurzon, pg 5)
+<span style="font-size: 8pt;">The fourth factor … neighbours and </span>**__<span style="font-size: 10pt;">the world</span>__**<span style="font-size: 8pt;">.</span>
+
+===Solvency=== 
+
+**1. no short term tech – problems with power transmission**
+**Nelder 4-25** Writer**,** Energy Consultant, Solar Designer, Peak Oil Researcher
+[Chris, The Business Insider, Outer Space Solar Power Is Pure Fantasy ([[http://www.businessinsider.com/outer-space-solar-power-is-pure-fantasy-2009-4]])]
+<span style="font-size: 8pt;">Wild Claims And…</span>__gobble it up__<span style="font-size: 8pt;">.</span>
+
+
+**2. debris, launch costs, radio regulations means it’ll fail**
+**Hadhazy 4-16** Journalist for Scientific America [Adam, Will Space-Based Solar Power Finally See the Light of Day? (http://www.sciam.com/article.cfm?id=will-space-based-solar-power-finally-see-the-light-of-day)]
+<span style="font-size: 8pt;">Dangers and engineering …</span>__extant technologies__<span style="font-size: 8pt;">, he says.</span>
+
+
+**3. Even if tech is successful, solar flames will crush the plan**
+**Hemanth 6/21** <span style="font-size: 8pt;">[2011, **CS Hemanth is a writer and reporter on US space policy and problems from India, “There’s a possibility solar flares may disrupt satellites, power supply,” Google News, DNA: Daily News and Analysis,** </span>**<span style="font-size: 8pt;">[[http://www.dnaindia.com/scitech/report_theres-a-possibility-solar-flares-may-disrupt-satellites-power-supply_1557294]], accessed June 21, 2011, AJ]</span>**
+**<span style="font-size: 8pt;">The Sun is … altitudes,” he said.</span>**
+
+
+4. Even assuming the best case scenario, SPS won’t be feasible for another 30 years
+Fan et al 6-2** - Solution Manager at PCCW, Senior Electronics Engineering at Giant Electronics Ltd., Electronics Engineer I at VTech Education, MBA holder having strong background in telecommunication (William, 2011, “space based solar power” [[http://www.pickar.caltech.edu/e103/Final%20Exams/Space%20Based%20Solar%20Power.pdf]], PZ)
+__Right now, SPSP…__<span style="font-size: 8pt;">from using SBSP.</span>
+
+===Energy Advantage=== 
+
+
+**No internal link - Satellites won’t be enough to solve energy needs or offset warming**
+**__Globus, 2008__**, Spring 2008 (Al, space expert, “On The Moon,” Ad Astra, [[http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]])
+<span style="font-size: 8pt;">While it has …high launch rate.</span>
+
+
+
+**The plan increases global warming**
+**Richardson 2011** - research director at Gartner, where he focuses on business intelligence (BI) and performance management (“Global Warming and Microwaves” [[http://globalmicrowave.org/satellites.php]], PZ)
+__Microwave Radio Frequencies …__<span style="font-size: 8pt;">Automobiles at all. </span>
+
+
+
+**resource wars don’t happen**
+**Salehyan 07**<span style="font-size: 8pt;"> – Idean Salehyan Professor of Political Science at the University of North Texas. “The New Myth About Climate Change Corrupt, tyrannical governments—not changes in the Earth’s climate—will be to blame for the coming resource wars.” By Idean Salehyan | August 14, 2007 http://www.foreignpolicy.com/articles/2007/08/13/the_new_myth_about_climate_change</span>
+<span style="font-size: 8pt;">First, aside from…scarcity and natural disasters. </span>
+
+===<span style="font-size: 8pt;">Leadership Advantage</span>=== 
+
+
+**Hegemony is unnecessary**
+
+
+
+**Preble 10**<span style="font-size: 10pt;"> (Christopher Preble, ***director of foreign policy studies at the Cato Institute***, taught history at St. Cloud State University and Temple University, was a commissioned officer in the U.S. Navy, Ph.D. in history from Temple University. “U.S. Military Power: Preeminence for What Purpose?” 8/3/10) [[@http://www.cato-at-liberty.org/u-s-military-power-preeminence-for-what-purpose/]]</span>
+
+
+
+
+
+
+
+
+
+<span style="font-size: 8pt;">Most in Washington …</span> __their respective regions.__
+
+
+
+**New mining solves**
+
+**Coppel,** graduate student in the Elliott School of International Affairs at George Washington University**, 2011**
+
+(Emily, “Rare Earth Metals and U.S. National Security”, 2-1, [[http://americansecurityproject.org/wp-content/uploads/2011/02/Rare-Earth-Metals-and-US-Security-FINAL.pdf]], ldg, DOA: 5-13-11)
+
+<span class="Underline">Experts estimate that …</span> growth in demand.
+
+
+
+
+
+**Economy recovering now**
+
+Shobhana **Chandra 4/23**/12 (“Durable U.S. Recovery at Hand as Growth Shifts: Economy” Bloomberg News, [[http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2012/04/23/bloomberg_articlesM2S4VA1A74E901-M2YA4.DTL]], PZ)
+
+<span style="font-size: 8pt;">April 23 (Bloomberg) -- Almost three years …the Commerce Department.</span>
+
+
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 11pt;">Economic collapse does not cause war</span>**
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Ferguson, 06 </span><span style="font-family: Georgia,serif; font-size: 8pt;">(Niall, MA, D.Phil., is the Laurence A. Tisch Professor of History at Harvard University. He is a resident faculty member of the Minda de Gunzburg Center for European Studies. He is also a Senior Reseach Fellow of Jesus College, Oxford University, and a Senior Fellow of the Hoover Institution, Stanford University, Foreign Affairs, Sept/Oct)</span>
+
+
+
+__<span style="font-family: Georgia,serif; font-size: 11pt;">Nor can economic … not followed by wars</span>__<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+====AT: Hu Will Lose==== 
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Hu and Wen are stabilizing the leadership transition and controlling the Politburo Standing Committee, but support from Party elders and the security apparatus are key.</span>
+<span style="font-size: 12pt;">Ansfield and Johnson – 3/29</span>
+(“JONATHAN ANSFIELD and IAN JOHNSON, New York Times, “China’s Hierarchy Strives to Regain Unity After Chongqing Leader’s Ouster”, [[http://www.nytimes.com/2012/03/30/world/asia/chinas-leaders-seek-unity-after-ouster-of-bo-xilai.html?pagewanted=1&_r=1]])
+<span style="font-family: Georgia,serif; font-size: 8pt;">BEIJING — </span><span style="font-family: Georgia,serif; font-size: 10pt;">China’s top leaders are retaking the ….</span><span style="font-family: Georgia,serif; font-size: 8pt;"> to be fighting to retain some kind of ceremonial post and to avoid prison. </span>
+
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Hu needs to be able to placate the security apparatus and nationalists – plan destroys his capacity to make concessions.</span>
+<span style="font-size: 12pt;">Ansfield and Johnson – 3/29</span>
+(“JONATHAN ANSFIELD and IAN JOHNSON, New York Times, “China’s Hierarchy Strives to Regain Unity After Chongqing Leader’s Ouster”, [[http://www.nytimes.com/2012/03/30/world/asia/chinas-leaders-seek-unity-after-ouster-of-bo-xilai.html?pagewanted=1&_r=1]])
+<span style="font-family: Georgia,serif; font-size: 8pt;">Mr. </span><span style="font-family: Georgia,serif; font-size: 10pt;">Bo’s continuing influence …</span><span style="font-family: Georgia,serif; font-size: 8pt;"> Mr. </span><span style="font-family: Georgia,serif; font-size: 10pt;">Zhou’s camp</span><span style="font-family: Georgia,serif; font-size: 8pt;">. </span>
+
+====AT: No CCP Collapse==== 
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Economic problems and social tension during the succession will deadlock the government and destroy Party legitimacy.</span>
+<span style="font-size: 12pt;">Li 9 </span>
+<span style="font-size: 12pt;">(Cheng, Dir. of Research, John L. Thornton China Center, “China’s Team of Rivals ” Brookings Foundation Article series,Marcy </span>[[http://www.brookings.edu/articles/2009/03_china_li.aspx]])
+<span style="font-family: Georgia,serif; font-size: 8pt;">The two dozen senior politicians who walk the halls of Zhongnanhai, ….</span><span style="font-family: Georgia,serif;"> and economic trajectory in the next decade and beyond. </span>
+
+
+===T-Human=== 
+
+====2NC Overview==== 
+
+**First, limits**- they blow the lid off the topic – here is a SHORT list of satellites that they would allow for
+**The Columbia Electronic Encyclopedia 2007** (“Types of Satellites” [[http://www.infoplease.com/ce6/sci/A0860930.html]], PZ)
+__Satellites can be …__<span style="font-size: 8pt;"> proper processing software.</span>
+
+**Within each of these groups, there are subsets and different models which is an independent link to limits**
+**NASA 2011** (September 28th, “Current Missions” [[http://www.nasa.gov/missions/current/index.html]], PZ)
+Current Missions
+<span style="font-size: 8pt;">Geostationary … of environmental satellites. </span>
+
+
+====<span style="font-size: 8pt;">AT: Counter Interpretation </span>==== 
+
+
+**Their card defines tech as robtos, even if “exploration” can include robots, it must also have a human component**
+
+**Ehrenfreud 10** (P., Space Policy Institute – George Washington University, et al., “Cross-Cultural Management Supporting Global Space Exploration”, Acta Astronautica, 66(1-2), January-February, p. 245)
+
+<span style="font-size: 8pt;">1 The European Space ..</span> __of our solar system__<span style="font-size: 8pt;">.</span>
+
+
+====<span style="font-size: 8pt;">AT: Overlimit</span>==== 
+
+
+**Limits key to in depth education which outweighs --- only real world impact**
+
+**SD, 09** [Science Daily, Robert Tai and Philip Sadler - Robert Tai, associate professor at the University of Virginia's Curry School of Education, worked with Marc S. Schwartz of the University of Texas at Arlington and Philip M. Sadler and Gerhard Sonnert of the Harvard-Smithsonian Center for Astrophysics to conduct the study and produce the report. “Students Benefit From Depth, Rather Than Breadth, In High School Science Courses”,http://www.sciencedaily.com/releases/2009/03/090305131814.htm]
+
+<span style="font-size: 8pt;">A recent study …</span> __every major topic.__
+
+
+===__Warming__=== 
+
+**Solar Powered Satellites won’t cover the world’s energy needs or result in a shift to renewables**
+**__Mankins, 2007__**, October 12, 2007 (John C., former manager of NASA’s Advanced Concepts Studies Office of Space Flight,, 10-12-07, “Leading Scientists and Thinkers on Energy,” from an interview with Mankins conducted by David Houle, an analyst who advises companies on new developing technology, http://www.evolutionshift.com/blog/2007/10/12/leading-scientists-and-thinkers-on-energy-–-john-c-mankins/ )
+<span style="font-size: 8pt;">Mankins: Solar …, space solar is one of very few options to provide a substantial fraction of the truly vast amount of renewable energy that is needed to support human civilization.</span>
+
+**Warming is cyclical**
+**<span style="font-family: 'Times New Roman',serif;">Science Daily</span>**<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">. "Global Warming Natural." 15 Jun. 20</span>**<span style="font-family: 'Times New Roman',serif;">01</span>**<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">. </span><span style="color: #1c51a8; font-family: 'Times New Roman',serif;">[[@http://www.sciencedaily.com/releases/2001/06/010615071248.htm]]</span>
+<span style="font-family: Arial,sans-serif; font-size: 8pt;">Essenhigh attributes</span>__<span style="background-color: aqua; font-family: Arial,sans-serif;"> the current </span>__<span style="font-family: Arial,sans-serif; font-size: 8pt;">…</span>__<span style="background-color: aqua; font-family: Arial,sans-serif;"> years ago</span>__<span style="font-family: Arial,sans-serif; font-size: 8pt;">," Essenhigh explained.</span>
+
+
+
+
+
+==Block== 
+
+===China Disad=== 
+
+====2NC Overview==== 
+<span style="font-family: Georgia,serif; font-size: 11pt;">This would derail reform efforts and give the Princelings control of the Politburo Standing Committee.</span>
+<span style="font-size: 12pt;">Lam – 3/12</span>
+(Dr. Willy Wo-Lap Lam is a Senior Fellow at The Jamestown Foundation and Professor of China studies at Akita International University, Japan, and at the Chinese University of Hong Kong,
+“Hu Jintao Draws Blood with the Wang Lijun Scandal”, Jamestown China Brief, March 2, 2012, http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews%5Btt_news%5D=39092&tx_ttnews%5BbackPid%5D=25&cHash=4c9b60e4f8bf8dd6bc9f171a1e2a5e8c)
+<span style="font-family: Georgia,serif; font-size: 8pt;">Bad blood between the Hu-led Communist Youth League (CYL) …. Political-Legal Chairmanship,” China Brief, February 21). </span>
+
+
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">We control the UQ and Link - US attempts to unilaterally interfere in China’s perceived interests will fuel Chinese nationalism and lead to a catastrophic war</span>
+<span style="font-size: 12pt;">Bandow 2007</span>
+(Doug, “China: Fragile Superpower, Readings in the Age of Empire”, Foreign Follies, September 7, ,[[http://www.antiwar.com/bandow/?articleid=11565]])
+<span style="font-family: Georgia,serif; font-size: 8pt;">Which naturally leads to </span><span style="font-family: Georgia,serif; font-size: 10pt;">relations with the U.S</span><span style="font-family: Georgia,serif; font-size: 8pt;">., …, too, </span><span style="font-family: Georgia,serif; font-size: 10pt;">must learn to accommodate</span><span style="font-family: Georgia,serif; font-size: 8pt;">. And America's interest will best be served by stepping back from confrontation where its vital interests are not involved. </span>
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Small conflicts with China could escalate into a nuclear conflict – err on the side of caution</span>
+<span style="font-family: Georgia,serif; font-size: 11pt;">Fisher 11 (Max, Associate Editor at the Atlantic, Editor of the International Channel, “5 Most Likely Ways the US and China Could Spark Accidental Nuclear War”)</span>
+<span style="font-family: Georgia,serif;">There's a near-infinite number of small…</span><span style="font-family: Georgia,serif; font-size: 8pt;"> unlikely in today's world. But that -- like the Soviet mishaps of the 1980s -- is exactly what makes them so dangerous.</span>
+
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Nuclear conflict with China is an EXISTENTIAL risk – causes nuclear winter</span>
+<span style="font-family: Georgia,serif; font-size: 11pt;">Wittner 11 (11/30/11 Dr. Lawrence, Prof of History Emeritus at SUNY Albany, “Is a Nuclear War with China Possible?”) </span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">But what would that "victory" entail? </span><span style="font-family: Georgia,serif; font-size: 10pt;">An attack with these …</span><span style="font-family: Georgia,serif; font-size: 8pt;"> over the next decade. </span>
+
+
+Turns economy –
+<span style="font-family: Georgia,serif; font-size: 11pt;">Wager 1/17/12 (Daniel, AP Business Writer, “Stocks Close Up on Europe Debt Sales, China Growht”)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">Bank stocks were uneven after a mixed batch of earnings reports. …. said its 2011 profit margin will be narrower than it had forecast earlier. –– Follow Daniel Wagner at http://www.twitter.com/wagnerreports.</span>
+
+====<span style="font-family: Georgia,serif; font-size: 8pt;">AT: Heg Solves</span>==== 
+
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Hu cannot afford to appear weak, a perception of weakness will be exploited by the Princelings to take over the Party leadership.</span>
+
+<span style="font-size: 12pt;">Dyer 10</span>
+
+(Geoff, “A populist rising”, Financial Times (London), March 10, [[http://www.ft.com/cms/s/0/575a96fc-2be5-11df-8033-00144feabdc0.html]])
+
+<span style="font-family: Georgia,serif;">On the face of it, China's next leadership …. risk aversion and conservatism</span><span style="font-family: Georgia,serif; font-size: 8pt;">." </span>
+
+
+
+
+
+**Heg aggravates the impact because it is the link**
+
+**Kliman ’10** (Dr. Daniel M. Kliman is a visiting fellow at the Center for a New American Security, where he contributes to the Asia-Pacific Security Program and other initiatives. He is also completing a book on how to navigate the rise of new power, America's Enduring Challenge: Maintaining International Order, [[http://www.cnas.org/node/4809]], 8/4/10, DA: 8/11/10, MM)
+
+
+
+__<span style="background-color: yellow;">The emergence of new powers raises a</span>__ __second danger …. culminating in a full-blown U.S.-China rivalry__<span style="font-size: 7pt;">.</span>
+
+
+=Round 2= 
+==1AC== 
+===Contention One: China=== 
+**War is inevitable – 2 scenarios**
+
+**first is Space**
+
+**<span style="font-size: 12pt;">China is pursuing space dominance</span>**
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Cheng 11</span>** (Dean. Aug 16. </span><span class="Underline" style="background-color: #ffffff; font-family: Georgia,serif;">Research</span><span style="background-color: #ffffff; font-family: Georgia,serif;"> Fellow in Chinese Political and Security Affairs in the Asian Studies Center, Heritage</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Foundation. [[http://www.heritage.org/research/reports/2011/08/chinas-space-program-a-growing-factor-in-us-security-planning]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">The PLA has …from doing so</span>__**.</span>
+
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Multiple reasons China is pursuing space dominance</span>**</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">First, new “historic missions”</span>**</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Cheng 11</span>** (Dean. Aug 16. Research Fellow in Chinese Political and Security Affairs in the Asian Studies Center, Heritage Foundation. [[http://www.heritage.org/research/reports/2011/08/chinas-space-program-a-growing-factor-in-us-security-planning]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">China’s space efforts … freedom of action</span>__**.</span>
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Second, deterrence</span>**</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Cheng 11</span>** (Dean. Aug 16. Research Fellow in Chinese Political and Security Affairs in the Asian Studies Center, Heritage Foundation. [[http://www.heritage.org/research/reports/2011/08/chinas-space-program-a-growing-factor-in-us-security-planning]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">PLA writings increasingly </span>__****__<span style="font-size: 12pt;">…of space</span>__**deterrence.</span>
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Third, </span>**</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">informational operations</span>**</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Pollpeter 5</span>** (Kevin. Dec. Research Analyst, DGI’s Center for Intelligence Research and Analysis. “The Chinese Vision of Space Military Operations” __China’s Revolution in Doctrinal Affairs__. [[http://www.defensegroupinc.com/cira/pdf/doctrinebook.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">Increasingly, the PLA …through sneak attack</span>__**.</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Fifth, Taiwan</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Pollpeter 5</span>** (Kevin. Dec. Research Analyst, DGI’s Center for Intelligence Research and Analysis. “The Chinese Vision of Space Military Operations” __China’s Revolution in Doctrinal Affairs__. [[http://www.defensegroupinc.com/cira/pdf/doctrinebook.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">If the Chinese …**__<span style="font-size: 12pt;"> taken in space</span>__**. 848</span>
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Sixth, CCP prestige</span>**</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Dolman 10</span>** (Everett, PhD and Professor of Comparative Military Studies @ US Air Force School of Advanced Air and Space Studies and Recipient of Central Intelligence’s Outstanding Intelligence Analyst Award. “The Case for Weapons in Space” Sep[[http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1532576]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">China’s current space ….**__<span style="font-size: 12pt;">made products abroad.</span>__**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Prefer our evidence- it’s the most authoritative</span>**</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Pollpeter 5</span>** (Kevin. Dec. Research Analyst, DGI’s Center for Intelligence Research and Analysis. “The Chinese Vision of Space Military Operations” __China’s Revolution in Doctrinal Affairs__. [[http://www.defensegroupinc.com/cira/pdf/doctrinebook.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Despite this, **__<span style="font-size: 12pt;">it … own space weapons</span>__**.</span>
+
+
+
+**Scenario 2 is The South China Sea**
+
+<span class="Underline">**The South China Sea is a hotspot for conflict now** </span>
+<span class="Underline">**Glaser 12** [Bonnie S. Glaser, //senior fellow with the Freeman Chair in China Studies and a senior associate with the Pacific Forum, Center for Strategic and International Studies,// April 2012, “Armed Clash in the South China Sea”, Council on Foreign Relations, [[http://www.cfr.org/east-asia/armed-clash-south-china-sea/p27883]]] </span>
+
+<span style="font-size: 8pt;">Introduction </span><span class="Underline">The risk …</span><span style="font-size: 8pt;">to be defused.</span>
+
+
+**Risk of conflict now is high—US supremacy and regional alliances are key to solve**
+**Cronin and Kaplan 12** [Patrick M. Cronin, //Senior Advisor and Senior Director of the Asia-Pacific Security Program at the Center for a New American Security,// and Robert D. Kaplan, //Senior Fellow at the Center for a New American Security//, January 2012, “Cooperation from Strength The United States, China and the South China Sea”, Center for New American Security, [[http://www.cnas.org/files/documents/publications/CNAS_CooperationFromStrength_Cronin_1.pdf]]]
+
+__American interests are …__<span style="font-size: 8pt;">not diplomatic confrontation. </span>
+
+Terrestrial China war goes nuclear
+**Hunkovic 2k9** (Lee J, American Military University “The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America”, http://www.lamp-method.org/eCommons/Hunkovic.pdf //da: 7/24)
+
+__A war between__ __…__<span style="font-size: 8pt;">in this study.</span>
+
+===Contention Two: Hegemony=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Space deterrence is key to hege</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Dolman 10</span>** (Everett, PhD and Professor of Comparative Military Studies @ US Air Force School of Advanced Air and Space Studies and Recipient of Central Intelligence’s Outstanding Intelligence Analyst Award. “The Case for Weapons in Space” Sep[[http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1532576]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">This is the …**__<span style="font-size: 12pt;"> kind is compelling. </span>__**</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">We’ll isolate some specific reasons</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">First, space deterrence is key to conventional deterrence</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Morgan 10 </span>**(Forrest. Senior Political Scientist, RAND Corporation. Deterrence and First-Strike Stability in Space.[[http://www.rand.org/pubs/monographs/2010/RAND_MG916.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Although this assessment …**__<span style="font-size: 12pt;">deterrence and stability</span>__**. (See p. 21.)</span>
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Second, space systems are key to US military effectiveness</span>**</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">PLA will target GPS satellites</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Pollpeter 5</span>** (Kevin. Dec. Research Analyst, DGI’s Center for Intelligence Research and Analysis. “The Chinese Vision of Space Military Operations” __China’s Revolution in Doctrinal Affairs__. [[http://www.defensegroupinc.com/cira/pdf/doctrinebook.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">In addition, because …</span>__** is relatively difficult. 870</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">These are key to military operations</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Pollpeter 5</span>** (Kevin. Dec. Research Analyst, DGI’s Center for Intelligence Research and Analysis. “The Chinese Vision of Space Military Operations” __China’s Revolution in Doctrinal Affairs__. [[http://www.defensegroupinc.com/cira/pdf/doctrinebook.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">The U.S. military </span>__****__<span style="font-size: 12pt;">…and their operators</span>__**.</span>
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Third, Chinese expansionism</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">a. Chinese expansionism destroys US hege</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Glosny 11</span>** (Michael. Jan. Instructor, National Security Affairs Department, Naval Postgraduate School. Adjunct Fellow, Institute for National Security Studies, National Defense University. “Getting Beyond Taiwan? Chinese Foreign Policy and PLA Modernization”[[http://permanent.access.gpo.gov/gpo8910/SF%20261_Glosny.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Option 5: **__<span style="font-size: 12pt;">Extra-regional Activities</span>__**…**__<span style="font-size: 12pt;"> sustain such operations</span>__****__<span style="font-size: 12pt;">.</span>__**</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">b. Space deterrence solves Chinese expansionism</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Dobbins et al 11</span>** (James Dobbins, David C. Gompert, David A. Shlapak, Andrew Scobell. RAND Arroyo Center. “Conflict with China: Prospects, Consequences, and Strategies for Deterrence”[[http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP344.pdf]])</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">The above cases … in the military field.</span>
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Now the impact debate</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**a. heg solves every impact** </span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**Zhang and Shi 11** </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 5pt;">- * a researcher at the Carnegie Endowment for International Peace, Washington, D.C. **Columbia University. She also serves as an independent consultant for the Eurasia Group and a consultant for the World Bank in Washington, D.C. “America’s decline: A harbinger of conflict and rivalry”** **[[http://www.eastasiaforum.org/2011/01/22/americas-decline-a-harbinger-of-conflict-and-rivalry/,bs]]****)**</span>
+
+
+**<span style="background-color: #ffffff;"><span style="font-family: Georgia,serif; font-size: 5pt;">This does not …</span><span style="font-family: Georgia,serif;">__unrivalled US primacy.__ </span></span>**
+
+
+
+
+
+<span style="background-color: #ffffff;">b. theres no alternative to US heg </span>
+
+<span style="background-color: #ffffff;">Kagan 12 </span>**<span style="background-color: #ffffff;">[Robert Kagan, //senior fellow in foreign policy at the Brookings Institution//, February 11, 2012, “Why the World Needs America”, WSJ, [[http://online.wsj.com/article/SB10001424052970203646004577213262856669448.html]], DMintz]</span>**
+
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif;">__History shows that…came into being.__</span>**
+
+
+
+
+<span style="background-color: #ffffff;">b. collapse causes nuclear war</span>
+
+<span style="background-color: #ffffff;">Kagan, 7** </span><span style="background-color: #ffffff; font-size: 5pt;">(Robert, senior fellow at the Carnegie Endowment for International Peace, //Policy Review,// August/Sept, “End of Dreams, Return of History”)</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 5pt;">If </span><span style="background-color: #ffffff; font-family: Georgia,serif;">__the world …__ __an easier path__</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 5pt;">.</span>
+
+
+
+
+===<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Plan</span>**</span>=== 
+
+
+Text: The United States federal government should substantially increase its space deterrence assets beyond the Earth’s mesosphere.
+
+===<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Contention Three: Solvency</span>**</span>=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">deterrence is the best military space posture</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">MacDonald 8</span>** (Bruce, Council on Foreign Relations. Council Special Report No. 38. Former asst. dir, nat’l sec, White House Office of Science and Technology Policy. Fmr sr. dir for science and technology, National Security Council. Fmr nuclear weapons and tech specialist, Bureau of Political-Military Affairs, US Dep’t of State. Fmr START delegate. Senior Director, Congressional Commission on the Strategic Posture of the United States. BSE, Princeton, aerospace engineering. Masters, Princeton, aerospace engineering. Masters, Princeton, public and international affairs, Woodrow Wilson School “China, Space Weapons, and U.S. Security” Sep[[http://www.cfr.org/china/china-space-weapons-us-security/p16707]])</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">This tension has…**__<span style="font-size: 12pt;">accompany these steps</span>__**. </span>
+
+
+
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Deterrence is the middle ground- it solves most attacks while preventing escalation and arms race</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">MacDonald 8</span>** (Bruce, Council on Foreign Relations. Council Special Report No. 38. Former asst. dir, nat’l sec, White House Office of Science and Technology Policy. Fmr sr. dir for science and technology, National Security Council. Fmr nuclear weapons and tech specialist, Bureau of Political-Military Affairs, US Dep’t of State. Fmr START delegate. Senior Director, Congressional Commission on the Strategic Posture of the United States. BSE, Princeton, aerospace engineering. Masters, Princeton, aerospace engineering. Masters, Princeton, public and international affairs, Woodrow Wilson School “China, Space Weapons, and U.S. Security” Sep[[http://www.cfr.org/china/china-space-weapons-us-security/p16707]])</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">The next broad…</span>__**defending against them</span>
+
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Space deterrence avoids the disads to space dominance</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">Brown 9</span>__** (Trevor. Spring. //Air & Space Power Journal//. 23.1 Business Economics & Theory Collection. “Soft power and space weaponization” InfoTrac)</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">Official rhetoric </span>__****__<span style="font-size: 12pt;">clearly …position of leadership.</span>__**</span>
+
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Strength is key to making China into a responsible world-power</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Dobbins et al 11</span>** (James Dobbins, David C. Gompert, David A. Shlapak, Andrew Scobell. RAND Arroyo Center. “Conflict with China: Prospects, Consequences, and Strategies for Deterrence”[[http://www.rand.org/content/dam/rand/pubs/occasional_papers/2011/RAND_OP344.pdf]])</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**__<span style="font-size: 12pt;">A climate of …</span>__** rather than later.</span>
+
+
+
+
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Going first is key to space control- can’t outflank in space</span>**</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Dolman 6</span>** (Everett, PhD and Professor of Comparative Military Studies @ US Air Force School of Advanced Air and Space Studies and Recipient of Central Intelligence’s Outstanding Intelligence Analyst Award, “ Toward a U.S. Grand Strategy in Space,” March 10th, Washington Roundtable on Science and Public Policy, [[http://www.marshall.org/article.php?id=408]])</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">After resolving whether…senses, **__<span style="font-size: 12pt;">is unflankable</span>__**. </span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Deterring the initial attack is key- any space conflict disproportionately hurts the US</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">**<span style="font-size: 12pt;">Morgan 10 </span>**(Forrest. Senior Political Scientist, RAND Corporation. Deterrence and First-Strike Stability in Space.[[http://www.rand.org/pubs/monographs/2010/RAND_MG916.pdf]])</span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Unfortunately, many of …**__<span style="font-size: 12pt;">and its allies.</span>__**</span>
+
+
+
+
+
+=Round 3= 
+
+==New Plan== 
+
+Text: The United States federal government should substantially increase its space supremacy assets beyond the Earth’s mesosphere.
+
+=Round 4= 
+
+=Round 5= 
+
+=Round 6= 
+
+=***1AC***= 
+
+
+
+=Advantage One: Space= 
+
+**Advantage One is Space Conflict** 
+
+**Space attacks escalate to extinction**
+**__Mitchell, et al ‘1__** (Gordon M. Mitchell, Assoc. Prof of Communications, University of Pittsburgh, Kevin Ayotte & David Cram Helwich, “Missile Defense: Transatlantic Diplomacy at a Cross-Roads”, ISIS Briefing on Ballistic Missile Defense No. 6, July 2001)
+__A buildup of …. conflict ever seen__<span style="font-size: 7pt;">.</span>
+
+
+**And, rapidly collapse military primacy**
+**__Jenkins ‘9__** (Eva S., Lieutenant Colonel @ US Air Force/Ph.D. @ Air War College, ‘Nanotechnology – Enabling Future Space Viability’, JS)
+<span style="font-size: 8pt;">The value of … solutions must be found. </span>
+
+
+**Heg collapse causes nuclear war**
+**__Kagan ‘7__** – senior associate, Carnegie Endowment for International Peace (Robert, July, End of Dreams, Return of History, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html, AG/JMP)
+__Were__<span style="font-size: 8pt;"> the </span>__U__<span style="font-size: 8pt;">nited </span>__S__<span style="font-size: 8pt;">tates </span>__…and nationalist movements__
+
+
+**Space deterrence is failing and global tech development is inevitable – US action now key to space assets protection and supremacy**
+**Jenkins ‘9** (Eva S. Jenkins, Lieutenant Colonel, U.S. Air Force, Ph.D., International Studies, University of Miami, M.A. Computer Resources and Information Management, Weber University, B.S. Mathematics, University of Miami, “‘Nanotechnology – Enabling Future Space Viability,” thesis submitted to the Air War College, March 2009, http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA540174)
+<span style="font-size: 8pt;">The U.S. is at …. frontier2 has only just begun.</span>
+
+
+**plan key to risk of space attacks in the short term** 
+**__Schendzielos ‘8__** (Kurt M., 4/23, Major @ US Air Force, ‘Protection in Space: A Self-Defense Acquisition Priority for U.S. Satellites’, JS)
+<span style="font-size: 8pt;">Given that </span>__current …__<span style="font-size: 8pt;"> and destructive threats.</span>
+
+
+**And, it spurs a space treaty regime – solves the motivation for attacks in the long-term**
+**__Schendzielos ‘8__** (Kurt M., 4/23, Major @ US Air Force, ‘Protection in Space: A Self-Defense Acquisition Priority for U.S. Satellites’, JS)
+<span style="font-size: 8pt;">Lastly, </span>__building an ….ASATs and space weapons__<span style="font-size: 8pt;">. 167</span>
+
+
+
+
+=Advantage Two: Tech= 
+**Advantage Two is Tech**
+
+
+**We’ll isolate two scenarios – first is __development__:**
+
+**And, global tech diffusion is inevitable in the short term – delaying US action risks extinction**
+**__Treder & Phoenix ‘7__** ([[mailto:mtreder@CRNano.org|Mike Treder]], Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the [[@http://ieet.org/index.php|Institute for Ethics and Emerging Technologies]], a consultant to the [[@http://www.acunu.org/|Millennium Project]] of the American Council for the United Nations University and to the [[@http://futuretag.com/|Future Technologies Advisory Group]], serves on the [[@http://www.nanotechbriefs.com/|Nanotech Briefs]] Editorial Advisory Board, is a member of the [[@http://www.nyas.org/|New York Academy of Sciences]] and a member of the [[@http://www.wfs.org/|World Future Society]]. AND [[mailto:cphoenix@CRNano.org|Chris Phoenix]], CRN’s Director of Research, has studied [[http://www.crnano.org/whatis.htm|nanotechnology]] for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. CRN's [[http://www.crnano.org/positions.htm|positions]] are the result of deliberations between its principals, Mike Treder and Chris Phoenix, informed by our mutual lifelong interest in emerging technologies and studies of societal dynamics, and sharpened through consultation with experts in many fields and continued research into both the technical and policy aspects of advanced [[http://www.crnano.org/whatis.htm|nanotechnology]]. Center For Responsible Nanotechnology, Results of Our Ongoing Research, Last Updated April 16, 2007. [[http://www.crnano.org/overview.htm]])
+<span style="font-size: 8pt;">Early development of ….</span> __<span style="font-size: 8pt;">[[http://www.crnano.org/dangers.htm|risks]]</span> are also immense__<span style="font-size: 8pt;">. </span>
+
+**And, China is winning the race now**
+**__Marlow ‘4__** (John Robert Marlow, 2004, novelist, nonfiction author, screenwriter, freelance journalist, and nanotechnology columnist. writer for NanoNews Now Monthly Report, the premium newsletter published by Nanotechnology Now. John was nominated for the 2004 Foresight Institute Prize in Communication "Nanosecurity and the Future (if Any)" NanoNews Now Monthly Report, a publication of Nanotechnology Now, April, [[http://johnrobertmarlow.com/a__homedex.html]])
+<span style="font-size: 8pt;">The Chinese Question …. and Engineering Committee. [17] </span>
+
+
+**We can’t afford to lose – being second means the end of US power**
+**__Marlow ‘4__** (John Robert Marlow, 2004, Interview on the Superswarm Option Nanotechnology Now, February, [[http://www.nanotech-now.com/John-Marlow-Superswarm-interview-Feb04.htm]])
+<span style="font-size: 8pt;"><Marlow's 2nd Paradox …</span> __the world to gain__<span style="font-size: 8pt;">.> </span>
+
+
+
+**The plans also key to offensive nano-weaponry – this means it’s the development effort which matters** 
+**__Copley ‘7__** (Gregory R., ‘The Art of Victory: Strategies for Personal Success and Global Survival in a Changing World’, JS)
+<span style="font-size: 8pt;">The Militarization …. politi­cians have not. </span>
+
+
+
+**All scenarios for development end in extinction except rapid U.S. development**
+**__Navrozov ‘4__** (Lev Navrozov, 2004, NewsMax.com columnist and journalist, one of the most brilliant minds in the world, according to many distinguished Westerners and Russians. Published over 1,000 columns and articles on the destiny of civilization, world culture, foreign policy, strategy, defense, and intelligence work since his emigration from Russia in 1972. Winner of the Albert Einstein Prize for outstanding intellectual achievements. More than twenty of his articles are in the United States Congressional Record. U The Center for Responsible Nanotechnology 'Plans Ahead' Feb 6, 2004, [[http://newsmax.com/archives/articles/2004/2/5/182324.shtml]])
+<span style="font-size: 8pt;">On Jan. 21-26, 2004, the ….</span> __than nano annihilation__<span style="font-size: 8pt;">. </span>
+
+
+
+**Second scenario is __regulation__:**
+
+**Military development is key** 
+**__Reynolds '2__** (Glenn Harlan Reynolds, 2002, prof of law @ Univ of Tennessee College of Law - graduate of Yale Law School. "Forward to the Future: Nanotechnology and Regulatory Policy" Pacific Research Institute November 2002)
+<span style="font-size: 8pt;">PAINT IT BLACK </span>__One …__<span style="font-size: 8pt;"> to love Big Brother.</span>
+
+
+**Rapid covert development solves arms races, collapse of the global economy, poverty, and all scenarios for conflict and violence**
+**__Treder & Phoenix ‘7__** ([[mailto:mtreder@CRNano.org|Mike Treder]], Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the [[@http://ieet.org/index.php|Institute for Ethics and Emerging Technologies]], a consultant to the [[@http://www.acunu.org/|Millennium Project]] of the American Council for the United Nations University and to the [[@http://futuretag.com/|Future Technologies Advisory Group]], serves on the [[@http://www.nanotechbriefs.com/|Nanotech Briefs]] Editorial Advisory Board, is a member of the [[@http://www.nyas.org/|New York Academy of Sciences]] and a member of the [[@http://www.wfs.org/|World Future Society]]. AND [[mailto:cphoenix@CRNano.org|Chris Phoenix]], CRN’s Director of Research, has studied [[http://www.crnano.org/whatis.htm|nanotechnology]] for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. CRN's [[http://www.crnano.org/positions.htm|positions]] are the result of deliberations between its principals, Mike Treder and Chris Phoenix, informed by our mutual lifelong interest in emerging technologies and studies of societal dynamics, and sharpened through consultation with experts in many fields and continued research into both the technical and policy aspects of advanced [[http://www.crnano.org/whatis.htm|nanotechnology]]. Center For Responsible Nanotechnology, Results of Our Ongoing Research, Last Updated April 16, 2007. [[http://www.crnano.org/overview.htm]])
+<span style="font-size: 8pt;">Overview: The Center for … be balanced against it. </span>
+
+
+**It’s try or die for the aff – U.S. nano-hegemony is the only survivable future – and solves all impacts**
+**__Deering ‘__**__4__ (Mike Deering, December 20, 2004, [[http://crnano,typepad.com/crnblog/2004/12/embedded_securi.html]])
+<span style="font-size: 8pt;">When MM first shows ….</span> __first time in history__<span style="font-size: 8pt;">. </span>
+
+
+
+**No solvency deficits - The technology is ready** 
+**__Treder & Phoenix ‘7__ (**[[mailto:mtreder@CRNano.org|Mike Treder]], Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the [[@http://ieet.org/index.php|Institute for Ethics and Emerging Technologies]], a consultant to the [[@http://www.acunu.org/|Millennium Project]] of the American Council for the United Nations University and to the [[@http://futuretag.com/|Future Technologies Advisory Group]], serves on the [[@http://www.nanotechbriefs.com/|Nanotech Briefs]] Editorial Advisory Board, is a member of the [[@http://www.nyas.org/|New York Academy of Sciences]] and a member of the [[@http://www.wfs.org/|World Future Society]]. AND [[mailto:cphoenix@CRNano.org|Chris Phoenix]], CRN’s Director of Research, has studied [[http://www.crnano.org/whatis.htm|nanotechnology]] for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. CRN's [[http://www.crnano.org/positions.htm|positions]] are the result of deliberations between its principals, Mike Treder and Chris Phoenix, informed by our mutual lifelong interest in emerging technologies and studies of societal dynamics, and sharpened through consultation with experts in many fields and continued research into both the technical and policy aspects of advanced [[http://www.crnano.org/whatis.htm|nanotechnology]]. Center For Responsible Nanotechnology, Results of Our Ongoing Research, Last Updated April 16, 2007. [[http://www.crnano.org/overview.htm]])
+__If a fabricator ….__ __a military necessity____.__ 
+
+
+**Any risk of nanotechnological conflict controls your impact calculus - nanoweapons have infinite capability**
+**__Marlow ‘4__** (John Robert Marlow, April, 2004, novelist, nonfiction author, screenwriter, freelance journalist, and nanotechnology columnist, John was nominated for the 2004 Foresight Institute Prize in Communication "Nanosecurity and the Future (if Any)" NanoNews Now Monthly Report, a publication of Nanotechnology Now, http://johnrobertmarlow.com/a__homedex.html)
+__If ever there … look like capguns__<span style="font-size: 8pt;">."</span>
+
+
+**Err aff—unregulated nanotech could kill us in an unimaginable number of people** 
+**__Yudkowski ‘6__** (Eliezer Yudkowsky, Co-founder and Research Fellow of the Singularity Institute for Artificial Intelligence, one of the world’s foremost experts on Artificial Intelligence and rationality, “Cognitive Biases Potentially Affecting Judgment Of Global Risks,” Draft of a chapter in //Global Catastrophic Risks//, eds. Nick Bostrom and Milan Cirkovic, 8-31-2006, http://singinst.org/upload/cognitive-biases.pdf)
+<span style="font-size: 7pt;">More generally, </span>__people … unpoetic-sounding prophecy__<span style="font-size: 7pt;">. </span>
+
+
+**No risk of grey goo**
+
+[[mailto:mtreder@CRNano.org|Mike **Treder**]], **__AND__** [[mailto:cphoenix@CRNano.org|Chris **Phoenix**]], Center For Responsible Nanotechnology, Results of Our Ongoing Research, **__Last Updated__** April 16, **__2007__**. [[http://www.crnano.org/overview.htm]]
+
+<span style="font-size: 6pt;">When nanotechnology-based … threat into perspective. </span>
+
+
+
+=Plan= 
+
+**Text: The United States Department of Defense should substantially increase its development of molecular nanotechnology in space systems beyond the Earth’s mesosphere.**
+
+
+
+
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

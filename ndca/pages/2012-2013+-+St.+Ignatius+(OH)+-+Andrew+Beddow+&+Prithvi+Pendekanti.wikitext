@@ -1,0 +1,392 @@
+[[toc]]
+If you need any cites email prithvi.pendekanti@gmail.com
+
+=Affirmative= 
+
+==New 1ac== 
+
+===Inherency=== 
+
+**No ITS now – federal funding is key**
+**Ezell 10**<span style="font-size: 8pt;"> (Stephen, Senior Analyst with the Information Technology and Innovation Foundation (ITIF), with a focus on innovation policy, science and technology policy, international competitiveness, and trade, manufacturing, and services issues, January 2010, "Explaining International IT Application Leadership: Intelligent Transportation", http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf)</span>
+Information technology (IT) has transformed many industries, from education to health care
+AND
+and training for already deployed ITS at the state and regional levels.
+
+===Plan text=== 
+**The United States federal government should substantially increase its investment in Intelligent Transportation Infrastructure.**
+
+===Trade=== 
+
+
+**Economic collapse is highly likely**
+**Heilprin 1/21** <span style="color: #222222; font-size: 9pt;">(John, Associated Press, citing Klaus Schwab, a German economist who holds a Doctorate in Economics from the University of Fribourg, a Doctorate in Engineering from the Swiss Federal Institute of Technology and a Master of Public Administration from the John F. Kennedy School of Government at Harvard University – he has been the recipient of over a dozen honorary doctorates and is an honorary professor of the Ben-Gurion University of Israel and the China Foreign Affairs University, 2013, World Economic Forum founder still sees risk of economic collapse, [[</span><span style="font-size: 9pt;">http://chronicle.augusta.com/news/business/2013-01-21/world-economic-forum-founder-still-sees-risk-economic-collapse?v=1358799958-http://chronicle.augusta.com/news/business/2013-01-21/world-economic-forum-founder-still-sees-risk-economic-collapse?v=1358799958]]</span><span style="color: #222222; font-size: 9pt;">)</span>
+The world has not escaped the risk of a collapse in the global economy despite
+AND
+States … will assume its responsibility as the strongest power," he said.
+
+
+
+**Plan is key to transport efficiency –creates jobs and boosts productivity**
+**Keeling and Mooney 11** <span style="font-size: 8pt;">~~[2011, Dr. Mary Keeling is a Manager of the IBM Institute for Business Value Center for Economic Analysis. She holds a PhD in Economics from Trinity College, Dublin. Gerard M. Mooney is currently General Manager of Global Smarter Cities. IBM Executive Report, "Transportation and economic development: Why smarter transport is good for jobs and growth"[[http://public.dhe.ibm.com/common/ssi/ecm/en/gbe03441usen/GBE03441USEN.PDF-http://public.dhe.ibm.com/common/ssi/ecm/en/gbe03441usen/GBE03441USEN.PDF]]~~]</span>
+High unemployment, languid economic growth and growing urbanization make transport~’s role in driving growth
+AND
+via the goods and services they purchase and those employed to provide them.
+
+
+
+
+**And, U.S. recovery is necessary for sustainable global trade – sustained decline collapses the global economy and turns every impact**
+**Posen 9** <span style="font-size: 8pt;">- Deputy director and senior fellow of the Peterson Institute for International Economics (Adam, "Economic leadership beyond the crisis," http://clients.squareeye.com/uploads/foresight/documents/PN%20USA_FINAL_LR_1.pdf)</span>
+In the postwar period, US power and prestige, beyond the nation~’s military might
+AND
+rise to the challenge, it should concentrate on the following priority measures.
+
+Next – the impacts
+
+**First – economic decline leads to global war – strong statistical evidence proves**
+**Royal 10** <span style="font-size: 8pt;">(Jedediah, Director of Cooperative Threat Reduction – U.S. Department of Defense, "Economic Integration, Economic Signaling and the Problem of Economic Crises", Economics of War and Peace: Economic, Legal and Political Perspectives, Ed. Goldsmith and Brauer, p. 213-215)</span>
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+AND
+not featured prominently in the economic-security debate and deserves more attention.
+
+
+**Second** **<span style="font-size: 8pt;">- </span>trade is the biggest disincentive for war—maintaining globalization solves all their impacts**
+**Griswold 11** <span style="font-size: 8pt;">Daniel Griswold is director of the Center for Trade Policy Studies at the Cato Institute and author of Mad about Trade: Why Main Street America Should Embrace Globalization. "Free Trade and the Global Middle Class," Hayek Society Journal Vol. 9 [[http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf Accessed 6/30/12-http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf Accessed 6/30/12]]</span>
+
+Our more globalized world has also yielded a "peace dividend." It may not
+AND
+and less likely those gains will be destroyed by civil conflict and war.
+
+===Science=== 
+
+**It’s lagging now – only integrating it into infrastructure creates sustained focus for research and development**
+**NRC 6/29** <span style="font-size: 6pt;">(National Research Council, Deborah L. Estrin* Professor of Computer Science University of California Los Angeles, Alan Borning Professor Department of Computer Science and Engineering University of Washington Seattle, David E. Culler* Professor and Chair Computer Science Division University of California Berkeley, Thomas G. Dietterich Professor and Director of Intelligent Systems Research School of Electrical Engineering and Computer Science Oregon State University Corvallis, Daniel M. Kammen Professor Energy and Resources Group University of California Berkeley, Jennifer Mankoff Associate Professor Human Computer Interaction Institute Carnegie Mellon University Pittsburgh, Roger D. Peng Associate Professor Department of Biostatistics Johns Hopkins Bloomberg School of Public Health Baltimore, Andreas Vogel Vice President Global Business Incubator SAP Labs Palo Alto, Calif., 2012, "Computing Advances Vital to Sustainability Efforts; New Report Recommends Problem-Focused, Iterative Approach to Research", http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=13415)</span>
+Innovation in computing will be essential to finding real-world solutions to sustainability challenges
+AND
+computer science, the research community is well-positioned to make progress.
+
+And, the plan~’s the ultimate testbed for the science and revolutionizes development
+Winter et al 10 <span style="font-size: 6pt;">**(Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, http://www.cs.uic.edu/~~boxu/mp2p/39-135-1-SM.pdf)** </span>
+In the near future, vehicles, travelers, and the transportation infrastructure will collectively
+AND
+intelligent. So "computational transportation science" seems to say it all.
+
+**CTS spills over into other industries creating a network effect**
+**Belcher 9** <span style="font-size: 8pt;">(December 4, 2009 Scott Belcher, CEO and President, Intelligent Transportation Society of America, represents several hundred member organizations including public agencies, private industry leaders, and academic institutions involved in the research, development, and deployment of intelligent transportation systems that improve safety, increase mobility, and sustain the environment, "Congress: Invest in Intelligent Transportation Systems to create jobs", [[http://thehill.com/blogs/congress-blog/technology/70623-congress-invest-in-intelligent-transportation-systems-to-create-jobs-http://thehill.com/blogs/congress-blog/technology/70623-congress-invest-in-intelligent-transportation-systems-to-create-jobs]])</span>
+The future of ITS and its positive impact on our national economy are significant.
+AND
+savings, economy-wide productivity, and an improved quality of life.
+
+
+**Computer science is key to remain on the forefront of scientific leadership**
+**Pitac 05**, <span style="font-size: 8pt;">appointed by the President to provide independent expert advice on</span><span style="font-size: 3pt;">¶ </span><span style="font-size: 8pt;">maintaining America~’s preeminence in advanced information technologies Computational Science: Ensuring America~’s Competitiveness", June 2005,[[http://www.nitrd.gov/pitac/reports/20050609_computational/computational.pdf-http://www.nitrd.gov/pitac/reports/20050609_computational/computational.pdf]]</span>
+
+The President~’s Information Technology Advisory Committee (PITAC) is¶ pleased to submit to
+AND
+innovations in agency roles and portfolios to support¶ advances in computational science.
+
+**US science leadership key to solve multiple existential risks – checks every impact**
+**Fedoroff 8** (<span style="font-size: 8pt;">Nina, Science and Technology Adviser to the Secretary of State, TESTIMONY BEFORE THE HOUSE SCIENCE SUBCOMMITTEE ON</span>
+<span style="font-size: 8pt;">RESEARCH AND SCIENCE EDUCATION", [[http://gop.science.house.gov/Media/Hearings/research08/April2/fedoroff.pdf-http://gop.science.house.gov/Media/Hearings/research08/April2/fedoroff.pdf]])</span>
+Chairman Baird, Ranking Member Ehlers, and distinguished members of the Subcommittee, thank
+AND
+a means to enhance security, increase global partnerships, and create sustainability.
+
+
+**Next the impacts -**
+
+**First is warming –**
+
+
+**Most qualified experts agree that warming is real and anthropogenic**
+**Anderegg et al 10**<span style="font-size: 8pt;"> – PhD Candidate @ Stanford in Biology (William, "Expert credibility in climate change," National Academy of Sciences, p. 12107-12109)</span>
+Preliminary reviews of scientific literature and surveys of cli- mate scientists indicate striking agreement
+AND
+discussions in media, policy, and public forums regarding anthropogenic climate change.
+
+
+**Extinction – assumes runaway warming**
+**Tickell 08** <span style="font-size: 8pt;">(Oliver, Environmental Researcher, The Guardian, August 11, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange-http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange]], JMB, accessed 6-23-11)</span>
+
+We need to get prepared for four degrees of global warming, Bob Watson told
+AND
+warming caused by human emissions could propel us towards a similar hothouse Earth.
+
+**Independentely Co2 acidifies oceans causing extinction**
+**Sify 10**<span style="font-size: 8pt;"> Cites Ove Hoegh-Gulberg: Professor at the University of Queensland and Director of the Global Climate Change Institute, John Bruno: Professor of Marine Science at the University of North Carolina (Sify News, June 19, 2010, "Could unbridled climate changes lead to human extinction?" [[http://www.sify.com/news/could-unbridled-climate-changes-lead-to-human-extinction-news-international-kgtrOhdaahc.html-http://www.sify.com/news/could-unbridled-climate-changes-lead-to-human-extinction-news-international-kgtrOhdaahc.html]])</span>
+
+Sydney: Scientists have sounded alarm bells about how growing concentrations of greenhouse gases are
+AND
+undergoing massive change and in some cases beginning to fail~’, he added.
+
+
+
+**<span style="font-size: 11pt;">Second is specifically bioterror –</span>**
+
+**<span style="font-size: 11pt;">Timeframe is 2013 – terrorists have capabilities and incentives to attack – prefer our risk calculus </span>**
+<span style="display: block; text-align: left;"><span style="display: block; text-align: left;">**<span style="font-size: 11pt;">Graham and Talent 10</span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Bob and Jim, Chairmen and Vice Chairmen of the Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism, January 2010, "Prevention of WMD Proliferation and Terrorism Report Card", [[</span><span style="font-size: 8pt;">http://books.google.com/books?id=qmk8lupewfgC%26printsec=frontcover%26source=gbs_ge_summary_r%26cad=0~~%23v=onepage%26q%26f=true-http://books.google.com/books?id=qmk8lupewfgC%26printsec=frontcover%26source=gbs_ge_summary_r%26cad=0]]</span><span style="font-family: Georgia,serif; font-size: 8pt;">)</span></span></span>
+In December 2008, the Commission on the Prevention of Weapons of Mass Destruction Proliferation
+AND
+– that will fundamentally change the character of life for the world~’s democracies.
+
+**Causes extinction and outweighs nuclear war**
+**Ochs 2**<span style="font-size: 8pt;"> – MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park ~~[Richard, "BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY," Jun 9, http://www.freefromterror.net/other_articles/abolish.html~~]</span>
+Of all the weapons of mass destruction, the genetically engineered biological weapons, many
+AND
+Ages would be small in comparison to the potential damage bioweapons could cause.
+
+**Burnout theory doesn~’t assume bioengineering.**
+**Ćirković 08** <span style="font-size: 8pt;">–Senior Research Associate at Astronomical Observatory of Belgrade and Assistance Professor of Department of Physics at University of Novi Sad (Milan C., "How Can We Reduce the Risk of Human Extinction?"; 9/17/08; [[http://ieet.org/index.php/IEET/more/2606-http://ieet.org/index.php/IEET/more/2606]])</span>
+Advances in synthetic biology might make it possible to engineer pathogens capable of extinction-
+AND
+may increase as biotechnologies continue to improve at a rate rivaling Moore~’s Law.
+
+===Solvency=== 
+
+
+**Federal investment is critical to attract the private sector and save the economy – the benefits FAR outweigh the costs**
+**IEEE 10** <span style="font-size: 8pt;">("U.S. Economic Competitiveness and Intelligent Transportation Systems Technology", February, 2010, [[http://www.ieeeusa.org/policy/positions/ITS.pdf-http://www.ieeeusa.org/policy/positions/ITS.pdf]])</span>
+IEEE-USA strongly endorses a national initiative to make greater use of Intelligent Transportation
+AND
+are more willing to pay to be early adopters of new vehicle technologies.
+
+
+**Federal deployment key – states deployment would fail**
+**GAO 12** <span style="font-size: 8pt;">(United States Government Accountability Office, Report to the Committee on Science, Space, and Technology, House of Representatives, March 2012, "INTELLIGENT TRANSPORTATION SYSTEMS: Improved DOT Collaboration and Communication Could Enhance the Use of Technology to Manage Congestion"</span> [[<span style="font-size: 8pt;">http://www.gao.gov/assets/590/589430.pdf-http://www.gao.gov/assets/590/589430.pdf]])</span>
+FHWA officials told us that it is often difficult for state and local agencies ¶
+AND
+can impair ¶ coordination with neighboring cities and operation of the larger network.
+
+
+
+
+==<span style="font-size: 1.4em; line-height: 1.5;">Previous 1ac</span>== 
+===Inherency=== 
+
+**Long-term sustained federal investment is key**
+**Ezell 10**<span style="font-size: 8pt;"> (Stephen, Senior Analyst with the Information Technology and Innovation Foundation (ITIF), with a focus on innovation policy, science and technology policy, international competitiveness, and trade, manufacturing, and services issues, January 2010, “Explaining International IT Application Leadership: Intelligent Transportation”, http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf)</span>
+__Information technology (IT) … state and regional__
+
+===Plan Text=== 
+
+**Thus, the plan: The United States federal government should substantially increase its investment in Intelligent Transportation Infrastructure in the United States.**
+
+===Hegemony=== 
+
+**<span style="font-family: Georgia,serif;">It prevents conflicts from escalating</span>**
+**<span style="font-family: Georgia,serif;">Zhang and Shi 11</span>** <span style="font-family: Georgia,serif; font-size: 8pt;">– *Yuhan Zhang is a researcher at the Carnegie Endowment for International Peace, Washington, D.C.; Lin Shi is from Columbia University. She also serves as an independent consultant for the Eurasia Group and a consultant for the World Bank in Washington, D.C. (America’s decline: A harbinger of conflict and rivalry,</span> <span style="font-size: 8pt;">[[http://www.eastasiaforum.org/2011/01/22/americas-decline-a-harbinger-of-conflict-and-rivalry/]]</span><span style="font-family: Georgia,serif; font-size: 8pt;">)</span>
+
+<span style="font-size: 8pt;">Paul Kennedy was probably right: ….</span> __a future that will inevitably be devoid of unrivalled US primacy.__
+
+**Alternatives to hegemony end in miscalc and global war—empirics prove—decline makes every impact inevitable**
+**Kagan 2/11** <span style="font-size: 8pt;">Senior Fellow, Foreign Policy, Center on the United States and Europe (Robert Kagan, February 11, 2012, “Why the World Needs America,”http://www.brookings.edu/articles/2012/0211_us_power_kagan)</span>
+
+__History shows that__ __world orders__<span style="font-size: 8pt;">, … the world looked like right before the American order came into being.</span>
+
+**There’s no root cause of war –deterrence solves anyway**
+**Moore 4** <span style="font-size: 8pt;">Walter L. Brown Professor of Law at the University of Virginia School of Law (John Norton Moore</span>**__, “__**<span style="font-size: 8pt;">Solving the War Puzzle: beyond the democratic peace,” pg 41-43)</span>
+
+__If major__<span style="font-size: 8pt;"> interstate </span>__war is predominantly … making the gamble not worth the risk.__
+
+**Plan is key to sustain heg – 3 reasons**
+
+**First is the economy**
+
+**Congestion, urbanization, and unemployment are threatening the economy- ITS is a pre-requisite for future growth**
+**Keeling and Mooney 11** <span style="font-size: 8pt;">[2011, Dr. Mary Keeling is a Manager of the IBM Institute for Business Value Center for Economic Analysis. She holds a PhD in Economics from Trinity College, Dublin. Gerard M. Mooney is currently General Manager of Global Smarter Cities. IBM Executive Report, “Transportation and economic development: Why smarter transport is good for jobs and growth”[[http://public.dhe.ibm.com/common/ssi/ecm/en/gbe03441usen/GBE03441USEN.PDF]]]</span>
+
+__High unemployment, languid economic growth and growing urbanization … they purchase and those employed to provide them.__
+
+**Stagnate growth trigger premature retrenchment- ends in great power wars**
+**Khalilzad 11** **– PhD, Former Professor of Political Science @ Columbia, Former ambassador to Iraq and Afghanistan**
+<span style="font-size: 8pt;">Zalmay Khalilzad was the United States ambassador to Afghanistan, Iraq, and the United Nations during the presidency of George W. Bush and the director of policy planning at the Defense Department from 1990 to 1992. "The Economy and National Security" Feb 8 www.nationalreview.com/blogs/print/259024)</span>
+
+<span style="font-size: 8pt;">Today, </span>__economic__<span style="font-size: 8pt;"> and fiscal </span>__trends pose the most …____hostile states would__<span style="font-size: 8pt;"> be emboldened to </span>__make aggressive moves__<span style="font-size: 8pt;"> in their regions.</span>
+
+**The second internal link is power projection**
+
+**ITS deployment is key to homeland military efficiency**
+**Honea et al. 2k**<span style="font-size: 6pt;"> -</span> <span style="font-size: 8pt;">PhD (Robert B., Sarah E. Brown Captain of the U.S. Navy, Military Traffic Management Command, Henry M. Bennet, Military Traffic Management Command, Transportation Engineering Agency, “U.S. Military Transportation,” Committee on Military Transportation, http://onlinepubs.trb.org/onlinepubs/millennium/00137.pdf)</span>
+
+<span style="font-size: 8pt;">Intelligent Transportation Systems The advent of </span>__…__<span style="font-size: 8pt;"> to promote compatibility between systems.</span>
+
+**And, homeland readiness is vital to overall power projection**
+**DOT 05** <span style="font-size: 8pt;">(“Introduction to the Current Military Deployment Concepts”, Federal Highway Administration for the Department of Transportation, May 10, http://ops.fhwa.dot.gov/OpsSecurity/dev-mx/chapter_1.htm)</span>
+
+__<span style="font-family: Georgia,serif; font-size: 11pt;">Strategic **mobility and readiness …**</span>____<span style="font-family: Georgia,serif; font-size: 11pt;">standard highway procedures for convoys.</span>__
+
+**And, the third internal link is competitiveness**
+
+**U.S. is falling behind in economic competitiveness- ITS is key to solve**
+**IEEE 10** (“U.S. Economic Competitiveness and Intelligent Transportation Systems Technology”, February, 2010, [[http://www.ieeeusa.org/policy/positions/ITS.pdf]])
+
+<span style="font-size: 8pt;">IEEE-USA strongly endorses </span>__a national initiative …__<span style="font-size: 8pt;">and consumers who are more willing to pay to be early adopters of new vehicle technologies.</span>
+
+**Competitiveness is key to hegemony**
+**Segal 04**<span style="font-size: 8pt;"> – Senior Fellow in China Studies at the Council on Foreign Relations (Adam, Foreign Affairs, “Is America Losing Its Edge?” November / December 2004, http://www.foreignaffairs.org/20041101facomment83601/adam-segal/is-america-losing-its-edge.html)</span>
+
+__The____U__<span style="font-size: 8pt;">nited States' </span>__global …must get better at fostering technological entrepreneurship at home.__
+===Warming=== 
+
+**Global warming is real, caused by human CO2 emissions, and will cause flooding and feedback loops that causes population migrations fueling political instability, economic collapse, and failed states, escalating to nuclear war in a vicious cycle to extinction**
+<span class="StyleStyleBold12pt">Kaku 11 </span><span style="font-size: 8pt;">– Michio Kaku, co-creator of string field theory, a branch of string theory. He received a B.S. (summa cum laude) from Harvard University in 1968 where he came first in his physics class. He went on to the Berkeley Radiation Laboratory at the University of California, Berkeley and received a Ph.D. in 1972. In 1973, he held a lectureship at Princeton University. Michio continues Einstein’s search for a “Theory of Everything,” seeking to unify the four fundamental forces of the universe—the strong force, the weak force, gravity and electromagnetism. He is the author of several scholarly, Ph.D. level textbooks and has had more than 70 articles published in physics journals, covering topics such as superstring theory, supergravity, supersymmetry, and hadronic physics. Professor of Physics — He holds the Henry Semat Chair and Professorship in theoretical physics at the City College of New York, where he has taught for over 25 years. He has also been a visiting professor at the Institute for Advanced Study at Princeton, as well as New York University (NYU). “Physics of the Future” http://213.55.83.52/ebooks/physics/Physics%20of%20the%20Future.pdf Accessed 6/26/12 BJM</span>
+
+<span style="font-size: 8pt;">By midcentury, the full impact of a fossil fuel …</span><span class="StyleBoldUnderline"> causing a runaway cycle of global warming.</span>
+
+**Anthropogenic warming causes extinction**
+**Tickell 08** <span style="font-size: 8pt;">(Oliver, Environmental Researcher, The Guardian, August 11, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange]], JMB, accessed 6-23-11)</span>
+__We need to get prepared for four degrees of global warming__<span style="font-size: 8pt;">, …</span> __a similar hothouse Earth.__
+
+**And, independently Co2 acidifies oceans causing extinction**
+**Sify 10**<span style="font-size: 8pt;"> Cites Ove Hoegh-Gulberg: Professor at the University of Queensland and Director of the Global Climate Change Institute, John Bruno: Professor of Marine Science at the University of North Carolina (Sify News, June 19, 2010, “Could unbridled climate changes lead to human extinction?” [[http://www.sify.com/news/could-unbridled-climate-changes-lead-to-human-extinction-news-international-kgtrOhdaahc.html]])</span>
+<span style="font-size: 8pt;">Sydney: </span>__Scientists have sounded alarm bells …<span class="StyleBoldUnderline"> undergoing massive change and in some cases beginning to fail'</span>, he added.__
+
+**Prefer our evidence – most qualified experts agree that warming is real and anthropogenic**
+**Anderegg et al 10**<span style="font-size: 8pt;"> – PhD Candidate @ Stanford in Biology (William, “Expert credibility in climate change,” National Academy of Sciences, p. 12107-12109)</span>
+<span style="font-size: 8pt;">Preliminary reviews of scientific literature and surveys of cli- mate scientists indicate striking agreement with the primary conclusions of the Intergovernmental Panel on Climate Change (IPCC): </span>__anthropogenic greenhouse gases have been responsible …__<span style="font-size: 8pt;"> and public </span>__forums regarding anthropogenic climate change__<span style="font-size: 8pt;">.</span>
+
+**Now, the plan is key to solve warming – 2 internal links**
+
+**First – the plan is key to reduce congestion and emissions**
+**<span style="font-size: 12pt;">Ezell 10</span>**<span style="font-size: 8pt;"> (Stephen, Senior Analyst with the Information Technology and Innovation Foundation (ITIF), with a focus on innovation policy, science and technology policy, international competitiveness, and trade, manufacturing, and services issues, January </span><span class="Author-Date" style="font-size: 8pt;">2010</span><span style="font-size: 8pt;">, “Executive Summary: Intelligent Transportation Systems”, http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf)</span>
+__<span style="font-family: Georgia,serif; font-size: 11pt;">Intelligent transportation systems … deliver net environmental benefits.</span>__
+
+**Congestion exacerbates warming and pollution**
+**Iaione 10** <span style="font-size: 8pt;">(Christian, The Tragedy Of Urban Roads: Saving Cities From Choking, Calling On Citizens To Combat Climate Change, 37 Fordham Urb. L.J. 889. Lexis//HH)//</span>
+//__<span style="font-family: Georgia,serif; font-size: 11pt;">Urban congestion is …</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> in idiosyncratic cultural, land use, and political patterns.</span>//
+
+//**And, reducing US congestion solves**//
+//**West 4** <span style="font-size: 8pt;">During his 20-year career in newspapers, Larry was part of an investigative team whose work was a finalist for the Pulitzer Prize and received the Meeman Award for national environmental reporting from the Scripps Howard Foundation. Later, Larry served as press secretary and deputy chief of staff for a U.S. Representative, and was communications director for a U.S. Senator. He also managed public affairs for a leading global technology company, the Federal Aviation Administration, and one of the largest ports in the United States. In each of those positions, Larry was involved in environmental strategy, policy and communications (Larry, U.S. “Autos Account for Half of Global Warming Linked to Cars Worldwide”http://environment.about.com/od/globalwarming/a/autoemissions.htm)</span>//NJain
+__U.S.____automobiles and light____trucks are …__<span style="font-size: 8pt;"> from America's auto sector, for the first time.”</span>
+
+**<span style="font-family: Georgia,serif; font-size: 11pt;">Second, the plan is key to advancements in computer science</span>**
+**<span style="font-family: Georgia,serif; font-size: 11pt;">Winter et al 10 </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, http://www.cs.uic.edu/~boxu/mp2p/39-135-1-SM.pdf)</span>
+<span style="font-family: Georgia,serif;">In the near future</span><span style="font-family: Georgia,serif; font-size: 11pt;">…</span><span style="font-family: Georgia,serif;"> seems to say it all.</span>
+**It’s lagging now – only integrating it into infrastructure creates sustained focus for research and development**
+**NRC 6/29** <span style="font-size: 6pt;">(National Research Council, Deborah L. Estrin* Professor of Computer Science University of California Los Angeles, Alan Borning Professor Department of Computer Science and Engineering University of Washington Seattle, David E. Culler* Professor and Chair Computer Science Division University of California Berkeley, Thomas G. Dietterich Professor and Director of Intelligent Systems Research School of Electrical Engineering and Computer Science Oregon State University Corvallis, Daniel M. Kammen Professor Energy and Resources Group University of California Berkeley, Jennifer Mankoff Associate Professor Human Computer Interaction Institute Carnegie Mellon University Pittsburgh, Roger D. Peng Associate Professor Department of Biostatistics Johns Hopkins Bloomberg School of Public Health Baltimore, Andreas Vogel Vice President Global Business Incubator SAP Labs Palo Alto, Calif., 2012, “Computing Advances Vital to Sustainability Efforts; New Report Recommends Problem-Focused, Iterative Approach to Research”, http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=13415)</span>
+__Innovation in computing … to make progress.__
+
+**And, computer science is key to solve warming**
+**Strayer 4** (Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, [[http://science.energy.gov/%7E/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf|http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf]])
+__An international consensus …__<span style="font-size: 8pt;"> discussion of these issues is given below.</span>
+
+=Negative= 
+
+==Past 2nrs== 
+
+===Michigan=== 
+
+???
+
+
+
+===Glenbrooks=== 
+
+Round 1 vs Westminster
+2nr: Stirner
+
+Round 4 vs Shawnee
+2nr: Fiscal Cliff and case
+
+Round 6 vs Barstow
+2nr: Fiscal Cliff and case
+
+Round 7 vs Pine Crest
+2nr: Earmarks with fiscal cliff
+
+
+
+===Ohio Valley=== 
+
+Round 1 vs Seaholm
+2nr: Earmarks CP with Fiscal Cliff
+
+Round 4 vs Alpharetta High
+2nr: Stirner
+
+Round 5 vs Alpharetta High
+2nr: Stirner
+
+===**Emory**=== 
+
+Round 1 vs Weston
+2nr: AATF CP with politics
+
+Round 3 vs New Trier
+2nr: Bundling CP with politics
+
+Round 6 vs St. Johns College High
+2nr: Stirner
+
+===Homewood Flossmoor=== 
+
+Round 1 vs. Niles North
+2nr: Sequester with Case defense
+
+Round 3 vs. New Trier
+2nr: Junger
+
+Round 6 vs. Highland Park
+2nr: Stirner
+
+==K's== 
+
+
+===Junger=== 
+
+**Human life is not a value: our lives are temporary and insignificant specks of dust in the cosmos, and existence is only justified and purposeful in relation to an external value.**
+**Zimmerman 90** <span style="font-size: 8pt;">– Professor of Philosophy and Director of the Center for the Humanities and Arts at University of Colorado, Boulder (Michael E., “Heidegger’s Confrontation with Modernity: Technology, Politics, Art”, 1990; < http://books.google.com/books?id=0eJa3xPCThsC>)//AB//</span>
+//The Greeks spoke as if// human life
+//AND//
+//cosmic-ontological vision of a work of art.//
+
+
+//**Our confrontation with death is the ultimate value-defining moment: it presents us an opportunity to create the ultimate aesthetic display for the Will to Power. The alternative is to apprehend death as a mask for the Will to Power.**//
+//**Zimmerman 90** <span style="font-size: 8pt;">– Professor of Philosophy and Director of the Center for the Humanities and Arts at University of Colorado, Boulder (Michael E., “Heidegger’s Confrontation with Modernity: Technology, Politics, Art”, 1990; < http://books.google.com/books?id=0eJa3xPCThsC>)</span>//AB
+Sophocles’ theme of blindness
+AND
+is a titanic work of art.
+
+
+===Stirner (policy affs)=== 
+
+
+<span style="display: block; text-align: center;">
+</span>
+**The affirmative envisions the world in terms of a moral dichotomy; unable to accept difference, the affirmative’s moralism must create a “devil spirit” (the immoral). In a world where death is inevitable, the affirmative’s moralist desire to perpetuate life creates an evil out of the world of suffering. They internalize this fear of the “devil spirit”, unable to accept the flaws and suffering that they live in.**
+**Stirner 45** <span style="font-size: 8pt;">– Philosopher (Max, nom de plum of Johann Kaspar Schmidt, “Die Einzige und Sein Eigentum”, 1845, First Edition, translated by Steven T. Bryington, ed. Benjamin R. Tucker)//AB//</span>
+//With ghosts we arrive in the spirit-realm,//
+//AND//
+//whether in the head, etc.).//
+
+
+//**This rejection of difference engenders Verstimmung – a hatred of self and the world, turning their impacts. The alternative is to do nothing in the case of the plan.**//
+//**Newman 5** <span style="font-size: 8pt;">(Saul Newman, Research fellow at UWA, political theorist, Ph.D. from University of New South Wales, “Power and Politics in Poststructuralist Thought: New Theories of the Political” 2005 <[[http://zinelibrary.info/files/Newman%20-%20Power%20and%20Politics%20in%20Poststructuralist%20Thought%20-%20New%20Theories%20of%20the%20Political.pdf]]>)</span>//AB
+<span style="font-size: 8pt;">For both Stirner and Nietzsche, </span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;"> as a deviation to be punished, reformed or converted’</span>
+
+
+===Stirner (K affs)=== 
+
+<span style="display: block; text-align: center;">
+</span>
+**The aff’s call to moral action is a form of self-enslavement wherein we adopt their abstract ethical standing as our fixed identity, depriving us of individualism.**
+**Stirner 45** <span style="font-size: 8pt;">– Philosopher (Max, nom de plum of Johann Kaspar Schmidt, “Die Einzige und Sein Eigentum”, 1845, First Edition, translated by Steven T. Bryington, ed. Benjamin R. Tucker)//AB//</span>
+//<span style="font-family: Georgia,serif; font-size: 11pt;">It is very true</span>//
+//<span style="font-family: Georgia,serif; font-size: 11pt;">AND</span>//
+//<span style="font-family: Georgia,serif; font-size: 11pt;"> I must rise in revolt to rise in the world.</span>//
+
+
+
+//**We have no fundamental human identity – the alternative is to reject the fixed ontology of the 1AC. In doing so, we become a Creative Nothingness of identity, taking part in the process of Becoming.**//
+//**Stirner 45** <span style="font-size: 8pt;">– Philosopher (Max, nom de plum of Johann Kaspar Schmidt, “Die Einzige und Sein Eigentum”, 1845, First Edition, translated by Steven T. Bryington, ed. Benjamin R. Tucker)</span>//AB
+<span style="line-height: 1.5;">All things are nothing to me</span>
+AND
+which he only collects from me as toll
+
+
+
+<div align='center'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTI2MDE3MA==' border='0' alt='Visitor Counter'></a><BR><a href='http://www.hit-counts.com'>Visitor Counter</a></div>
+===[[include page="space.template.Footer"]]===

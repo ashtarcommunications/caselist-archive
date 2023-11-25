@@ -1,0 +1,110 @@
+[[toc]]
+=intel= 
+==wake== 
+
+Round 2; Westminster Prepatory PM (Waterways -- Heg, Econ, Soybeans)
+1NC -- Cap, Wind DA, Elections, Case (w/ Heg Bad)
+2NR -- Wind DA, Case
+
+Round 4; Carrollton JB (Tigger -- Competitiveness, Warming)
+1NC -- Financing T, Cap K, LOST, Case (w/ Warming Good, Heg Bad, Competitiveness Bad)
+2NR -- Warming Good
+
+Round 6; Westminster OG (HSR -- Econ, CO2 Bad)
+1NC -- ISI, FTO, LOST Bad, Case
+2NR -- ISI, LOST Bad
+
+==gtown== 
+
+Round 2; Reservoir RB (Climate Resiliency -- Econ, Seaports, Highways)
+1NC -- LOST, Cap K, Sunshades, Case (w/ Heg Bad, DeDev)
+2NR -- LOST, Case, Condo Good
+
+Round 3; Heritage Hall HP (ERAM -- Data Comm, ATC)
+1NC -- MPARS, CCW, LOST, Competitiveness K, Case (w/ DeDev)
+2NR -- LOST, Case
+
+Round 6; BCC BB (New Orleans -- Politics of Disposability)
+1NC -- Framework, Anthro, Case Turns
+2NR -- Case Turns, Framework
+
+Doubles; Centennial MK (Climate Resiliency -- Econ, Seaports, Highways)
+1NC -- LOST, Latex Bubbles CP, Case (w/ Heg Bad, Nuke Deterrence Bad)
+2NR -- LOST, Latex Bubbles, Condo Good
+
+==capitol== 
+
+Round 2; GDS CT (Universal Design -- Disabilities)
+1NC -- Gov PIC, EDF, Elections, Gentrification, Case (w/ Tilley Turn)
+2NR -- Gov PIC
+
+Round 3; Reservoir SA (Mass Transit -- Race, Climate)
+1NC -- Woan K, Elections, Organic Farming CP, Case (w/ Gentrification Turn)
+2NR -- Woan, Gentrification Turn, Perf Con Good
+
+Round 6; River Hill SK (Mass Transit -- Race, Food Deserts)
+1NC -- Woan K, Elections, Gov PIC, Case (w/ Gentrification Turn)
+2NR -- Elections, Case, Perf Con Good
+
+==scranton== 
+
+Round 1; Bronx Science DG (Climate Adaptation -- Econ, Manufacturing)
+1NC -- Inherency, Qatar MCB CP, Fiscal Cliff, Bush Doctrine, Case D
+2NR -- Qatar MCB, Fiscal Cliff, Condo Good
+
+Round 3; Lexington SL (Guam Road Network -- Japan Relations, Deterrence)
+1NC -- Inherency, Road Network PIC, Wind PTC, South Guam Urbanization, Takazato K, Case (w/ Assurance Turn, Kent and Casino Turn, Readiness Turn)
+2NR -- Road Network PIC, South Guam Urbanization, Case D, Condo Good
+
+Round 5; Head Royce BY (Airport Nomadz -- Pre-emption Bad, Deleuze)
+1NC -- Permlessness, Whiteness K, Case (w/ Weizman, Barbrook, Project Mayhem Turns)
+2NR -- Whiteness, Weizman, Barbrook
+
+==blake== 
+
+Round 1; Homewood-Flossmoor GR (Evacuation Infrastructure -- Neolib, Racism)
+1NC -- Anti-Framework, Woan K, Case (w/ Miles and Austin Turn, State Bad)
+2NR -- Woan K, State Bad
+
+Round 3; OPRF MM (Relational Planning)
+1NC -- Consult the Tribes, Woan K, Case (w/ Animal Deaths DA)
+2NR -- Consult the Tribes
+
+Round 5; Northside SW (National Infrastructure Bank -- Econ, China Cyberattacks)
+1NC -- Financing T, Whiteness K, Fiscal Cliff, Export-Import Bank CP, Case (w/ Outsourcing Turn, Data Cooking, Stimulus Bad)
+2NR -- Ex-Im CP, Fiscal Cliff, Case D
+
+==mba== 
+
+Round 1; Niles West PN (Port Security -- Terrorism, Economy)
+1NC -- Immigration Ptx DA, Multilateralism CP, Whiteness K, Case (w/ Iran Prolif Good, Naval Power Bad)
+2NR -- Whiteness K
+
+Round 3; Blake MS (LNG Terminals -- Asia, Trade, Warming)
+1NC -- Advantage CP (Marine Cloud Brightening + LOST), Immigration Ptx DA, Whiteness K, Case (w/ Net Warming Turn)
+2NR -- Immigration, Case D
+
+Round 6; Meadows EK (National Infrastructure Bank -- State Budgets, Economy)
+1NC -- Immigration Ptx DA, Financing T, Terrorism K, Export-Import Bank CP, Case (w/ Outsourcing, Data Cooking turns, Stimulus Bad, Ecology turn)
+2NR -- Ex-Im CP, Immigration, Case D
+
+==lexington== 
+
+Round 2; NFA GS (Native Roads/Bridges -- Native Economies, Quality of Life)
+1NC -- Everything CP, Immigration Ptx DA, Consult the Tribes, Woan/Give Back The Land K, Case (w/ Trapani Turn)
+2NR -- Trapani, Woan/GBTL
+
+Round 3; Bishop Loughlin CU (Eurofem Review Board -- Ecofeminism, Standpoint Epistemology)
+1NC -- States, Financing T, Immigration Ptx DA, Black Feminism K, Case (w/ Mind-Body Dichotomy, Ecology, Gentrification turns, Util)
+2NR -- Immigration, Util, Mind-Body Dichotomy Turn, Condo/Topicality Good
+
+Round 5; Westminster ZY (Port Dredging -- Economy, Agriculture)
+1NC -- Immigration Ptx DA, Whiteness K, Marine Biodiversity DA, Hydraulic Dredging PIC, Case (w/ Bottleneck Exports turn, Corn Prices turn)
+2NR -- Hydraulic Dredging PIC, Air Pollution Internal N/B
+
+Octafinals; Bronx Science BK (Climate Adaptation -- Economy, Hegemony)
+1NC -- Immigration Ptx DA, Whiteness K, CO2 Ionization CP, Case (w/ Air Power Bad, Dedev)
+2NR -- CO2 Ionization CP, Global Warming Bad
+
+
+[[include page="space.template.Footer"]]

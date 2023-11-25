@@ -1,0 +1,109 @@
+=Need Help?= 
+Aff cites: Dillon Hall [[mailto:dillonhawl@gmail.com|dillonhawl@gmail.com]]
+Neg cites: Bryant Wang [[mailto:bryantw99@gmail.com|bryantw99@gmail.com]]
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif; line-height: 19px;">[[@debatecoaches/Affirmative Cites|1ac Affirmative Cites]] </span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[2ac Affirmative Cites]]</span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[Topicality Cites]]</span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[@debatecoaches/critique cites|Critique Cites]]</span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[debatecoaches/Disadvantage Cites|Disadvantage Cites]] </span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[Counter Plan Cites|C]][[Counter Plan Cites|ounter Plan Cites]]</span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[@debatecoaches/Case Defense Cites|Case Defense Cites]] </span>**</span>
+
+<span style="font-size: 110%;">**<span style="font-family: Arial,Helvetica,sans-serif;">[[debatecoaches/Impact Turn Cites|Impact Turn Cites]]</span>**</span>
+
+__<span style="font-family: Georgia,serif; font-size: 150%;">**Past Negative Strategies**</span>__
+==**Grady**== 
+===**Round 1 vs. Central Gwinnett**=== 
+
+1ac: SPS: China Cooperation, Warming
+1nc: Tax Cuts DA, Nietzsche, Consult Japan, T-Staffed, Case
+Block: Tax Cuts DA, Nietzsche, Consult Japan, Case
+2nr: Consult Japan
+===Round 3 vs. Dunwoody=== 
+
+1ac: Environmental Monitoring: Warming, Climate Leadership
+1nc: NPP CP, Nietzsche, T-Staffed, Tax Cuts DA, Case
+Block: T-Staffed, Tax Cuts DA, Case
+2nr: T-Staffed
+
+===Round 5 vs. Carrollton=== 
+1ac: Lunar Mining: Resources, Fusion
+1nc: T-Preexist, Consult Japan, CMP CP, Nietzsche, Tax Cuts DA, Hegemony bad, Warming good
+Block: Nietzsche, T-Preexist, Hegemony Bad, Case
+2nr: T-Preexist
+
+==Emory== 
+===Round 2 vs. GBN=== 
+1ac: Debris: Navy, Military, Oil Monitoring, Russia, Heg
+1nc: ESA CP, Tax Cuts DA, T-Staffed, Nietzsche, Case
+Block: ESA CP, Tax Cuts DA, Case
+2nr: Tax Cuts DA, Case
+
+===Round 3 vs. GBS=== 
+1ac: SBMD: Prolif, Indo-Pak war
+1nc: Tax Cuts DA, START DA, Proliferation CP, Militarization DA, Taoism K, Case
+Block: START DA, Proliferation CP, Case
+2nr: START DA, Proliferation CP, Case
+
+===Round 5 vs. Grapevine=== 
+1ac: SPS: BMD, Warming
+1nc: State Climate CP, Tax Cuts DA, Mil DA, Taoism, T-Staffed, Case
+Block: State Climate CP, Mil DA, Case, Tax Cuts DA, Case
+2nr: CPS CP, Mil DA, Case
+==JV State== 
+===**Round 2 vs. John's Creek**=== 
+1ac: Planetary Defense System: Things that don't cause extinction, Aliens, NEOs
+1nc: Tax Cuts DA, T-Human, Consult Japan, ESA CP, Taoism K, Case
+Block: Tax Cuts DA, ESA CP, Consult Japan, Case
+2nr: Conditionality Good
+
+===Round 3 vs. Houston County=== 
+1ac: Space Weaponization: China, Space Pearl Harbor
+1nc: Tax Cuts DA, T-Staffed, SSA CP, Nietzsche K, Mil DA, Ozone DA, Soft Power DA, Case
+Block: Tax Cuts DA, T-Staffed, SSA CP, Mil DA, Ozone DA, Case
+2nr: SSA CP, Mil DA, Case
+
+==UGA (Dillon's 2n)== 
+===**Round 1 vs. Northview**=== 
+1ac: Civil SSA: Space War, NASA Earth Sciences
+1nc: Cybersecurity DA, Taoism K, Consult Japan CP, T-Substantial, Prolif Good, Air Pollution Good, Case
+Block: Prolif Good, Air Pollution Good, Case, Cybersecurity DA
+2nr: Prolif Good, Air Pollution Good, Case
+
+===Round 4 vs. Woodward=== 
+1ac: SUSTAIN: Conventional War
+1nc: Taoism K, Cybersecurity DA, Militarization DA, AIS/SAR CP, Case
+Block: AIS/SAR CP, Militarization DA, Case
+2nr: Militarization DA, Case
+
+===Round 5 vs. Northview=== 
+1ac: Civil SSA: Space War, GMES, Nanosatellites, No War
+1nc: Astropolitics K, Cybersecurity DA, Near Space CP, Ozone DA, T-Commercial, Space Colonization Bad, Prolif Good, Case
+Block: Near Space CP, Debris DA, Cybersecurity DA, Space Col Bad, Prolif Good, Case
+2nr: Space Col Bad, Prolif Good, Case
+
+==Varsity State (Dillon's 2n)== 
+===Round 1 vs. Woodward=== 
+1ac: SUSTAIN: Conventional War, Nuclear War (kinda)
+1nc: Nuclear Exaggerations K, Cybersecurity DA, Militarization DA, Ozone DA, Near Space CP, Case
+Block: Nuclear Exaggerations K, Militarization DA, Case
+2nr: Militarization DA, Case
+
+===Round 4 vs. Marist=== 
+1ac: Masculinity Bad (performance/movement-ey)
+1nc: Framework, Taoism K, Anonymity PIC, Ozone DA, Case
+Block: Framework, Taoism K, Case
+2nr: Framework, Case
+
+===Round 5 vs. John's Creek=== 
+1ac: Planetary Defense System: Thing's that don't cause extinction, Aliens, NEOs
+1nc: ESA CP, Extinction Refugee CP, Cybersecurity DA, Militarization DA, Sagan DA, case
+Block: Sagan DA, Space col bad (2ac add on), Cybersecurity DA, Case
+2nr: Sagan DA, Space col bad, Case

@@ -1,0 +1,9 @@
+[[toc]]
+For Aff cites email [[mailto:morenodaniel94@gmail.com|morenodaniel94@gmail.com]]
+For Neg cites [[mailto:robertjtorres7@gmail.com|robertjtorres7@gmail.com]]
+=Affirmative= 
+<span style="font-family: Garamond,serif;">
+</span>
+=Negative= 
+
+[[include page="space.template.Footer"]]

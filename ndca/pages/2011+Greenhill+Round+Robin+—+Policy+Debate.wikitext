@@ -1,0 +1,2 @@
+This is a list of only those teams that are competing at the 2011 Greenhill Policy Debate Round Robin. It was automatically generated using tags and is not an official list.
+[[include component="pageList" hideInternal="true" tag="2011 greenhill rr policy" limit="20" ]]

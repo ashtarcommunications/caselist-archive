@@ -1,0 +1,250 @@
+[[toc]]
+=Wake Forest= 
+==Round 1 - Alpharetta MB [Icebreakers]== 
+Equity CP
+Elections
+T - Vehicles [2NR]
+Privates CP
+Case Defense
+
+==Round 3 - Alpharetta GD [Icebreakers]== 
+Nukespeak K
+Elections
+Privates CP
+T- Vehicles [2NR]
+Case Defense
+
+==Round 5 - Westminster SP [HSR]== 
+Nukespeak K
+Elections
+States CP
+Keynes Bad [2NR]
+Warming Defense [2NR]
+
+=Hooch= 
+==Round 2 - Carrollton [Hydrogen Stations]== 
+T Energy [2NR]
+States CP
+Ableism
+Security K
+Elections
+
+==Round 3 - Northview [NIB]== 
+T Increase
+States CP
+Security K
+Elections
+Keynes Bad [2NR]
+Coercion DA
+
+==Round 6 - Pace AG [Port Dredging]== 
+Security K [2NR]
+Privatization CP
+Coercion DA
+Keynes Bad
+Elections
+
+==Octos - Alpharetta MB [Icebreakers]== 
+Security K
+T Vehicles [2NR]
+Alaska CP
+Coast Guard Tradeoff
+Water CP
+Russia Relations DA
+
+==Quarters - Dunwoody [SUSTAIN]== 
+T Preexisting
+T Substantial [2NR]
+Space Guard CP
+Elections
+
+=Johns Creek= 
+==Round 2 - Hooch [Port Security]== 
+T Hard Assets [2NR]
+T Substantial
+Empire K
+States CP
+Elections [2NR]
+Case [2NR]
+==Round 4 - Hooch AK [Port Security]== 
+T Hard Assets
+Security K [2NR]
+OMB CP
+Elections
+Case
+
+=St. Marks= 
+==Round 2 - Juan Diego KW [BRAC]== 
+T Substantial
+T Military
+Elections
+Inflation DA
+Security K [2NR]
+Case
+
+==Round 4 - Bishop Guertin DI [Port Dredging]== 
+Privatization CP
+Coercion [2NR]
+Elections [2NR]
+Cost Overruns
+Inflation
+Security K
+Case [2NR]
+
+==Round 6 - Glenbrooks South CC [Inland Waterways]== 
+Security K [2NR]
+NFU CP
+Elections
+Dedev
+High Food Prices Good
+Biotech Good
+
+=Alpharetta= 
+==Round 2 - Woodward AD [Surface Transport]== 
+Security K
+Fiscal Cliff Politics [2NR]
+OMB CP
+Keynes Bad
+Case [2NR]
+
+==Round 4 - Hooch [Port Security]== 
+Security K [2NR]
+Fiscal Cliff Politics
+Case
+
+=Ohio Valley= 
+==Round 1 - Niles West CC [Title XI]== 
+T - Vehicles [2NR]
+Fiscal Cliff
+Coercion DA [2NR]
+Security K
+OMB CP
+Case
+
+==Round 3 - New Trier MC [Icebreakers]== 
+T - Vehicles
+T - Investment [2NR]
+OMB CP
+Fiscal Cliff
+Security K
+Case
+
+==Round 6 - Hawken [MOT]== 
+Security K
+Investment PIC [2NR]
+Case
+
+==Doubles - Traverse City Central [HSR]== 
+T - Vehicles
+OMB CP
+Fiscal Cliff
+Lacan Economics K
+Keynes Bad [2NR]
+Warming Defense [2NR]
+
+=MBA= 
+==Round 2 - Groves [Port Security]== 
+OMB CP
+Debt Ceiling [2NR]
+Anxiety K
+Case
+
+==Round 3 - Whitney Young DV [MTS]== 
+T Vehicles
+Security K [2NR]
+OMB CP
+Debt Ceiling
+Keynes Bad
+Case
+
+==Round 6 - Ft. Lauderdale [Bering Strait]== 
+T Land Grants
+Anxiety K
+OMB CP
+Debt Ceiling [2NR]
+Russia Oil DA
+Case
+
+=Samford= 
+==Round 2 - Westminster [NIB]== 
+OMB CP
+Security K
+Debt Ceiling [2NR]
+T Effects
+Keynes Bad
+Case [2NR]
+
+==Round 4 - Westminster [Port Dredging]== 
+OMB CP
+Security K
+Debt Ceiling
+Keynes Bad [2NR]
+T Maintenance
+Case [2NR]
+
+==Round 6 - Westminster [Port Dredging]== 
+Commissions CP
+Security K
+T Maintenance
+Debt Ceiling w/ Bioterror [2NR]
+Coercion DA
+No War [2NR]
+Case [2NR]
+
+=Emory= 
+==Round 1 - Blake MS [LNG]== 
+OMB CP
+Immigration DA [2NR]
+Security K
+Coercion DA
+Manufacturing DA
+Uniqueness CP [2NR]
+Case [2NR]
+
+==Round 3 - Westminster SF [NIB]== 
+OMB CP
+Immigration DA [2NR]
+Introna K
+Syria Intervention Bad
+Stim Bad [2NR]
+Case
+
+==Round 6 - River Hill GS [Climate Adaptation]== 
+OMB CP
+Immigration DA
+Introna K [2NR]
+Coercion DA
+Uniqueness CP
+Case
+
+=UGA= 
+==Round 1 - Hooch [Nanotech]== 
+T Categories [2NR]
+Nanotech CP
+Transportation CP
+Biopower K
+Politics
+Keynes Bad [2NR]
+Nanotech Bad
+Case
+Condo Good [2NR]
+
+==Round 3 - Hooch [Nanotech]== 
+T Categories
+Nanotech CP
+Biopower K [2NR]
+Politics
+Keynes Bad
+Nanotech Bad
+Case
+
+==Round 6 - Alpharetta [Icebreakers]== 
+T
+Introna K
+Politics
+NSF CP
+Russia Relations DA [2NR]
+Case [2NR]
+
+
+[[include page="space.template.Footer"]]

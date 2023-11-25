@@ -1,0 +1,8 @@
+[[toc]]
+=Affirmative= 
+SoKo
+ADV- terrorism
+ADV- Corean War
+=Negative= 
+
+[[include page="space.template.Footer"]]

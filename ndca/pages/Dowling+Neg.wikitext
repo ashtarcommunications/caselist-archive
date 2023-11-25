@@ -1,0 +1,334 @@
+= = 
+[[toc]]
+=Round Two vs. Niles North OB--Port Security= 
+
+==Bond Market DA== 
+
+**<span style="font-family: 'Georgia','serif';">A. Bond markets are recovering but additional deficit spending causes a bond market backlash that collapses the US economy </span>**
+**<span style="color: #000000; font-family: 'Georgia','serif';">Samuelson 11 </span>**<span style="color: #000000; font-family: 'Georgia','serif'; font-size: 10.6667px;">(Washington Post columnist specializing in economic affairs, Robert, “Bye-bye, Keynes?,” Washington Post, 12/18,</span><span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">[[http://www.washingtonpost.com/opinions/bye-bye-keynes/2011/12/16/gIQAS2oD3O_story.html]] LP</span><span style="color: #000000; font-family: 'Georgia','serif'; font-size: 10.6667px;">)</span>
+__<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">The eclipse of Keynesian economics proceeds. </span>__<span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">When Keynes wrote __.....__</span>__<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;"> complicates the analysis and subverts the solutions. What might have worked in the 1930s offers no panacea today.</span>__
+
+
+
+**<span style="font-family: 'Georgia','serif';">B. </span>****<span style="color: #000000; font-family: 'Georgia','serif';">The plan collapses the perception of fiscal discipline—transportation funding is a unique test for fiscal questions</span>**
+
+**<span style="color: #000000; font-family: 'Georgia','serif';">Corker, ’12</span>** <span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">(Bob,</span><span style="color: #000000; font-family: 'Georgia','serif'; font-size: 10.6667px;"> Senator from Tennessee,</span><span style="font-family: 'Georgia','serif'; font-size: 10.6667px;"> 3/8/12,</span><span style="color: #000000; font-family: 'Georgia','serif'; font-size: 10.6667px;"> “Senate Must Face Fi</span><span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">scal Reality in Pending Highway </span><span style="color: #000000; font-family: 'Georgia','serif'; font-size: 10.6667px;">Bill”,</span><span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">[[http://www.corker.senate.gov/public/index.cfm?p=News&ContentRecord_id=606a2acd-0ca7-408f-9694-f07ed8220576&ContentType_id=b94acc28-404a-4fc6-b143-a9e15bf92da4&Group_id=650e2033-9317-4405-a8df-47cdd1c9d515&MonthDisplay=3&YearDisplay=2012]] LP)</span>
+__<span style="font-family: 'Georgia','serif';">Over the past year,</span>____<span style="font-family: 'Georgia','serif';"> many Republicans and Democrats in the Senate .....</span>____<span style="font-family: 'Georgia','serif';"> what Erskine Bowles called “the most predictable economic crisis in history”?</span>__
+
+**<span style="font-family: 'Georgia','serif';">C.</span>****<span style="font-family: 'Georgia','serif';">Debt sell off collapses US economic leadership</span>**
+
+**<span style="font-family: 'Georgia','serif';"> Eichengreen, ’11</span>** <span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">(6/9/11, Barry Eichengreen is the George C. Pardee and Helen N. Pardee Professor of Economics and Professor of Political Science at the University of California, Berkeley, “How to Kill a Dollar”, [[@http://www.project-syndicate.org/commentary/how-to-kill-a-dollar]] LP)</span>
+<span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">If there is a threat to the dollar, it stems not from monetary policy, __.....__</span>__<span style="font-family: 'Georgia','serif';">the Fed would want to cut interest rates and flood the markets with liquidity.</span>__
+
+**<span style="font-family: 'Georgia','serif';">D. Nuclear war—specifically with China and Iraq </span>**
+
+**<span style="font-family: 'Georgia','serif';"> Mead ’4</span>**<span style="font-family: 'Georgia','serif'; font-size: 10.6667px;">(Henry A. Kissinger Senior Fellow in U.S. Foreign Policy at the Council on Foreign Relations (Walter Russell, “America's sticky power,” Foreign Policy, March 2004, [[http://www.foreignpolicy.com/articles/2004/03/01/americas_sticky_power]] LP)</span>
+__<span style="font-family: 'Georgia','serif';">U.S. military force</span>__<span style="font-family: 'Georgia','serif';"> and cultural appeal __have kept the United .....__</span>__<span style="font-family: 'Georgia','serif';"> bring rule of law to Russia, and prevent armed conflict between the United States and China.</span>__
+
+==T--PSGP== 
+A. Interpretation –
+1. Infrastructure investment requires the building or maintenance of physical assets
+**Chan, et al, ’09** <span style="font-size: 10.6667px;">–Productivity Commission Staff Working Paper [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, </span><span style="color: #000000; font-size: 10.6667px;">http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf__</span>__<span style="font-size: 10.6667px;">]</span>__
+__Investment <span class="StyleBoldUnderline">can be regarded as</span><span style="font-size: 10.6667px;"> an act of forgoing current ..... meet resource costs — play a crucial role in overcoming inter-temporal funding constraints. This enables productive infrastructure investment to be realised sooner than otherwise possible (or which might not otherwise have occurred).</span>__
+
+__2. Vehicles aren’t TI__
+__<span class="StyleStyleBold12pt">CFST 6</span><span style="font-size: 10.6667px;"> – Campaign for Sensible Transportation, collection of organizations for better transportation in the Santa Cruz area (“Aboard Transportation”, 2006, http://www.cfst.org/transportation.html)//RD//</span>__
+__//<span style="font-size: 10.6667px;">Transportation or transport is the carrying of people and goods from one destination ..... traffic lights/signals on roads, ramp meters, railroad switches, air traffic control, and etc.</span>//__
+
+__//3. Grants are not investment//__
+__//**Chan, et al, ’09** <span style="font-size: 10.6667px;">–Productivity Commission Staff Working Paper [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, </span><span style="color: #000000; font-size: 10.6667px;">http://www.pc.gov.au/</span>//__//data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf<span style="font-size: 10.6667px;">]</span>//
+//The study is concerned with// financing public infrastructure//<span style="font-size: 10.6667px;"> — the ..... An efficiently financed project in no way guarantees that the project itself satisfies the criteria of allocative efficiency.</span>//
+//B. violation –//
+
+//PSGP includes grants and vehicles//
+//**De Rugy 05** <span style="font-size: 10.6667px;">Senior research fellow at the Mercatus Center at George Mason University, adjunct scholar at the CATO Institute(Veronique, September 7, 2005, “Is Port Security Spending Making Us Safer?” American Enterprise Institute, http://cip.management.dal.ca/publications/Is%20Port%20Security%20Spending%20Making%20Us%20Safer.pdf)</span>//DR. H
+
+The<span style="font-size: 10.6667px;"> Port Security Grant Program </span>(PSGP)<span class="StyleBoldUnderline"> has a narrow focus. It </span><span style="font-size: 10.6667px;">..... the PSGP Guidelines and Application Kit is evaluated by a field review panel and a national review panel. Grant recipients are selected through a competitive process. </span>
+
+
+
+==Cost-Share CP== 
+
+Text: The United States federal government should waive cost-share requirements for existing grants under the Port Security Grant Program.
+
+Money has already been granted, the counterplan removes the barriers for ports to receive the funding – (1AC author agrees)
+**Kimery 2012** <span style="font-size: 10.6667px;">(Anthony, Staff Writer for the Homeland Security Today website, “Security, Port Authorities Associations Urge DHS To Reconsider Port Allocations” published 3/9/2012, [[http://www.hstoday.us/briefings/grants-funding/single-article/security-port-authorities-associations-urge-dhs-to-reconsider-port-allocations/8e5771ad69aa40aed3ae590bf914477d.html]]) </span>
+<span style="font-size: 10.6667px;">This week </span>the<span style="font-size: 10.6667px;"> Security Industry Association (</span>SIA), along with the American Association ..... at a budget-neutral situation<span class="StyleBoldUnderline">,” Dunn said in a statement. “Many of these projects are scalable and ready to be implemented now.”</span>
+
+==__<span style="font-family: 'Georgia','serif';">2NR</span>__== 
+
+
+__<span style="font-family: 'Georgia','serif';"> Heg Bad</span>__
+__<span style="font-family: 'Georgia','serif';">Trade Bad</span>__
+__<span style="font-family: 'Georgia','serif';">Case Defense</span>__
+
+=<span style="font-family: 'Georgia','serif';">Round Four vs. Blake NS--Natives</span>= 
+
+
+==Fiscal Cliff DA--2NR== 
+
+
+Obama will get a deal on the fiscal cliff but he’ll need political capital
+
+<span class="StyleStyleBold12pt">LA Times 12-5</span> (“Obama resolute in showdown with GOP over 'fiscal cliff'.” http://www.latimes.com/news/nationworld/nation/la-na-fiscal-cliff-20121206,0,19627.story)
+
+<span style="font-size: 10.6667px;">WASHINGTON — President </span>Obama brushed off the latest Republican .....<span style="font-size: 10.6667px;">Obama and Boehner spoke on the phone Wednesday. Neither side disclosed details of the call. </span>
+
+
+
+Republicans will never support federal Spending for the tribes
+
+Cornell and Kalt 10 (Professor of sociology and director of the Udall Center for Studies in Public Policy, University of Arizona AND Ford Foundation Professor of International Political Economy (Stephen and Joseph P., “American Indian Self-Determination The Political Economy of a Successful Policy”, November, Joint Occasional Papers on Native Affairs Working Paper No. 1, <span style="color: #000000; text-decoration: none;">[[http://nni.arizona.edu/pubs/jopna-wp1_cornell&kalt.pdf]]</span>)
+
+Since the 1970s, federal American Indian policy in the United __.....__ __self-governance as a central principle of federal Indian policy.__
+
+
+
+
+
+Sequestration destroys US global military power---triggers multiple scenarios for nuclear war(Iranian adventurism, Hormuz closing, African instability, terrorism, Korean war, Taiwan war, Russian military modernization, Afghanistan instability, naval power)
+
+<span class="StyleStyleBold12pt">Hunter 9/30</span> Duncan is a U.S. Representative from Alaska. “SEQUESTRATION SENDS WRONG MESSAGE TO U.S. FRIENDS AND FOES ALIKE,” 2012, http://www.utsandiego.com/news/2012/sep/30/tp-sequestration-sends-wrong-message-to-us/?page=1#article
+
+<span style="font-size: 6.66667px;">Over the next 10 years, </span><span class="StyleBoldUnderline">because of </span>sequestration<span class="StyleBoldUnderline">, the Pentagon will be ..... a move that </span>would signal<span class="StyleBoldUnderline"> to our friends and enemies alike </span>that we<span class="StyleBoldUnderline"> uphold our promises and </span>stand ready to defend<span class="StyleBoldUnderline"> our interests </span>against any threat.
+
+
+
+==<span style="font-size: 13.3333px;">Native CP</span>== 
+
+Text: The United States federal government should substantially increase investment in Indian country.
+
+Observation 1: we solve all of case - we address Natives morally.
+
+
+Internal net Benefit:
+
+A.The plan’s demand that funds be spent on certain projects continues the history of colonialism by the US government over natives
+
+**<span style="font-size: 16px;">Williams 96</span>**<span style="font-size: 9.33333px;"> - J.D. Harvard Law School, Professor University of Arizona's James E. Rogers College of the Law, serving as the E. Thomas Sullivan Professor of Law and American Indian Studies and Director of the Indigenous Peoples Law and Policy Program. (Robert A. Jr.* “‘THE PEOPLE OF THE STATES WHERE THEY ARE FOUND ARE OFTEN THEIR DEADLIEST ENEMIES’: THE INDIAN SIDE OF THE STORY OF INDIAN RIGHTS AND FEDERALISM” Citation: 38 Ariz. L. Rev. 981 1996, accessed via Hein Online ajones)</span>
+
+<span style="font-size: 9.33333px;">After the dramatic opening scenes provided by the Cherokee Cases</span>__, the traditional .....__ __emerge only when we begin to listen seriously to the Indian side of the story__<span style="font-size: 9.33333px;"> of Indian rights and federalism.</span>
+
+
+
+This usurpation of Native Sovereignty turns case
+
+<span class="StyleStyleBold12pt">Endres 2009</span>- Assistant Professor of Communication at the University of Utah
+
+(Danielle, “The Rhetoric of Nuclear Colonialism: Rhetorical Exclusion of American Indian Arguments in the Yucca Mountain Nuclear Waste Siting Decision,” Communication and Critical/Cultural Studies. Vol. 6, No. 1, March 2009, pp. 39_60 ajones)
+
+
+
+<span style="font-size: 9.33333px;"> Nuclear Colonialism as a Discursive Phenomenon </span>__Although the material implications of .....__ __resistance to colonization through a constitutive redefinition of sovereignty that supersedes the political definition.__
+
+
+
+
+
+==FW== 
+
+
+
+# Interpretation and violation
+
+
+They violate three sets of words
+
+
+First --__Resolved” means the Aff has to have a plan – they don’t__
+
+
+
+<span style="font-size: 16px;">American Heritage 2000</span>
+
+
+
+<span class="cite">__<span style="font-size: 16px;">To reach a decision</span>__</span><span style="font-size: 10.6667px;">or make a determination:</span><span class="cite">__<span style="font-size: 16px;">resolve on a course of action</span>__</span><span style="font-size: 10.6667px;">."</span>
+
+
+Second – “__Should” indicates obligation__
+
+
+
+<span style="font-size: 16px;">Compact Oxford English Dictionary ‘5</span><span style="font-size: 12px;"> (http://www.askoxford.com/concise_oed/should?view=uk)</span>
+
+
+
+<span style="font-size: 10.6667px;">should • modal verb (3rd sing. should) 1 </span>**__<span style="font-size: 12px;">used to indicate obligation, duty</span>__**<span style="font-size: 10.6667px;">, or correctness. </span>
+
+
+
+Third – USFG
+
+
+
+The topic is defined by the phrase following the colon – the USFG is the agent of the resolution, not the individual debaters
+
+<span style="font-size: 16px;">Webster’s Guide to Grammar and Writing ‘2K</span>
+
+<span style="color: #000000; text-decoration: none;">[[http://ccc.commnet.edu/grammar/marks/colon.htm]]</span>
+
+
+Use of a colon before a list or an explanation that is preceded by a clause that can stand by itself. Think of the colon as a gate, inviting one to go on… If the introductory phrase preceding the colon is very briefand the clause following the colon represents the real business of the sentence, begin the clause after the colon with a capital letter.
+
+
+
+The question posed by the resolution is about the desirability of USFG action
+
+<span style="font-size: 16px;">Cambridge Dictionary of American English ‘00</span>
+
+
+Should means “used to express that it isnecessary, desirable, and advisable, or important to perform the action of the following verb<span class="underline">.” </span>
+
+
+
+The USFG is the government in Washington D.C.
+
+<span style="font-size: 16px;">Microsoft Online Encyclopedia ‘2K</span> [http://encarta.msn.com]
+
+
+
+<span class="underline">“</span>The federal government of the U<span class="underline">nited </span>S<span class="underline">tates </span>is centered in Washington DC<span class="underline">.”</span>
+
+
+
+
+
+
+
+
+
+==<span style="font-size: 18.6667px;">Speaking for Others K--2NR</span>== 
+
+Politicizing those in poverty is wrong—the affirmative acts under the guise of political empowerment butinherently ends up utilizingdescriptions of poverty to accomplish their own development goals—this is an act of commodification and oppression.
+
+Linda Martín <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Alcoff</span>, Department of Philosophy at SyracuseUniversity.<span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">1992, </span>Cultural Critique Winter 1991-92, “The Problem of Speaking For Others,” pp. 5-32
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">Feminist discourse is not the only site in which the problem of speaking for others ..... no easy solution to the problem of speaking for others can be found by simply restricting the practice to speaking for groups of which one is a member.</span>
+
+
+
+
+
+The affirmative is a perfect erasure of the other; they craft an image of the other in terms of their own systems of knowledge. This image inevitably overwhelms the other and denies them any sort of individual subjectivity.
+
+Linda <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Alcoff</span>, Professor of Philosophy, Women's Studies and Political Science, Director of Women’s Studies, Syracuse University, <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">1995</span>, “The Problem of Speaking for Others,” http://www.alcoff.com/content/speaothers.html.
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">This is partly the case because of what has been called the "crisis of representation." .....and the experience of individual doubt, we are denying a reality of our experiential lives.9</span>
+
+
+
+The erasure of the other constitutes a form of spiritual genocide which represents the destruction of human dignity – it outweighs the aff.
+
+Patricia <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Williams</span>, Associate Professor of Law, The City University of New York Law School at Queens College, September <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">1987</span> University of Miami Law Review, 42 U. Miami L. Rev. 127
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;"> There are certain societies that define the limits of life and death very differently than ..... abandoned and abused of</span><span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;"> all races </span><span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">and ages. </span><span class="Emphasis2">**<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">We need to eradicate its numbing pathology before it wipes out what precious little humanity we have left.</span>**</span>
+
+
+
+Discourses of top-down reform that speak for others are trapped in an oppressive hierarchy of power. Don’t cast your ballot for the affirmative project of speaking for others. Instead use it to sap the power from their discourse to allow the others to speak for themselves.
+
+Michel <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Foucaultand</span> Gilles <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">Deleuze</span>, <span style="font-family: 'Calibri','sans-serif'; font-size: 16px;">1972</span> Libcom.org, “Intellectuals and Power: A Conversation Between Michel Foucault and Gilles Deleuze,” http://libcom.org/library/intellectuals-power-a-conversation-between-michel-foucault-and-gilles-deleuze
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">FOUCAULT: It seems to me that the political involvement of the intellectual was ..... could so easily understand them. How do we explain this? Isn't it because, in a general way, the penal system is the form in which power is most obviously seen as power?...</span>
+
+
+=Round Five vs. GBS CC--Natives= 
+
+Everything off-case was the same except instead of the Fiscal Cliff DA we read
+
+==NDAA DA== 
+
+The president will use his PC now to veto the 2013 NDAA- A veto will ensures that Guantanamo Bay will be shutdown
+<span style="font-family: 'Cambria','serif';">Peschmann, 11/30/12’ (MarinkaPeschmann, is a freelance journalist. She has collaborated, ghostwritten, and contributed to books and stories from showbiz and celebrities to true crime, politics, and the United Nations. After freelancing behind the scenes in both the mainstream press and the new media, it was time to step forward, </span><span style="color: #000000; font-family: 'Cambria','serif'; text-decoration: none;">[[http://www.canadafreepress.com/index.php/article/51431]]</span><span style="font-family: 'Cambria','serif';">)</span>
+<span style="font-family: 'Cambria','serif';">There’s a showdown happening in Washington and it could get very ugly soon. ..... is a step in the right direction but it “does not provide justice for all, because it does not apply to non-citizens or Americans caught overseas. “</span>
+
+Republicans will never support federal Spending for the tribes – kills his capital
+Cornell and Kalt 10 (Professor of sociology and director of the Udall Center for Studies in Public Policy, University of Arizona AND Ford Foundation Professor of International Political Economy (Stephen and Joseph P., “American Indian Self-Determination The Political Economy of a Successful Policy”, November, Joint Occasional Papers on Native Affairs Working Paper No. 1, <span style="color: #000000; text-decoration: none;">[[http://nni.arizona.edu/pubs/jopna-wp1_cornell&kalt.pdf]]</span>)
+Since the 1970s, federal American Indian policy in the United States __.....__ __off sharply and has not returned. This calls into question the sustainability of self-determination through self-governance as a central principle of federal Indian policy.__
+
+NDAA will be vetoed, but PC is key
+<span style="font-family: 'Cambria','serif';">Kopan and Marshall, 11/29/12’ (Tal Kopan is a Web producer for POLITICO Pro. Prior to joining the Pro team, Kopan worked as a Web producer at Fox Chicago News and as a freelance Web producer at ABC 7 Chicago.¶ Kopan graduated with honors from the University of Chicago with a bachelor's degree in law, letters and society, Michelle Marshall, is an author, political analyst, writer and strategist, as well as founder and publisher of the new media blog TaylorMarsh.com, </span><span style="color: #000000; font-family: 'Cambria','serif'; text-decoration: none;">[[http://www.taylormarsh.com/blog/2012/11/senators-advocacy-groups-challenge-ndaa/]]</span><span style="font-family: 'Cambria','serif';">)</span>
+<span style="font-family: 'Cambria','serif';">Sens. Dianne Feinstein (D-Calif.), Kirsten Gillibrand (D-N.Y.), Rand Paul (R-Ky.), ..... and //<span style="font-family: 'Cambria','serif';">the political capital required</span>// to start closing it later in your next term will be even greater.’</span>
+
+GitMo existence undermines democracy- Which is modeled globally- Only rejection of GitMo can set us back on track
+<span style="font-family: 'Cambria','serif';">Smith, 06’ (Andy Smith, Senior Writer at the Independent, </span><span style="color: #000000; font-family: 'Cambria','serif'; text-decoration: none;">[[http://www.commondreams.org/headlines06/0308-07.htm]]</span><span style="font-family: 'Cambria','serif';">, March, 6, 2006)</span>
+
+<span style="font-family: 'Cambria','serif';">The US camp at Guantanamo Bay should be closed before it undermines .... Institute for Strategic Studies. "That was the genesis of Guantanamo. This need continues today."9</span>
+
+Democracy is key to prevent extinction.
+<span style="font-family: 'Cambria','serif';">Diamond, 95, Larry, Senior Research Fellow at the Hoover Institute, 1995, Promoting Democracy in the 1990s, Online</span>
+<span style="font-family: 'Cambria','serif'; font-size: 16px;">Nuclear, chemical, and biological weapons continue to proliferate. .....</span><span style="font-family: 'Cambria','serif';"> do not sponsor terrorism against one another. </span><span style="font-family: 'Cambria','serif'; font-size: 16px;">They do not build weapons of mass destruction</span><span style="font-family: 'Cambria','serif';"> to use on or to threaten one another. </span>
+
+==2NR== 
+
+Case Turns
+
+=Octas vs. Maine East HM--HSR= 
+
+==QTR CP== 
+
+Text – the Department of Energy should alter the Quadrennial Technology Review to include a recommendation to substantially invest in the planning and completion of a national High-Speed Rail system.
+Competes---the CP’s policy statement is not legally binding---it doesn’t enact the plan, it simply recommends its mandates 
+Charles H. <span class="StyleStyleBold12pt">Koch 5</span>, the Dudley W. Woodbridge Professor of Law, William and Mary School of Law, Spring 2005, “Policymaking by the Administrative Judiciary,” Alabama Law Review, 56 Ala. L. Rev. 693, p. lexis n110 E.g., Consol Edison Co of New York v. FERC, 315 F.3d 316, 323 (D.C. Cir 2003)
+"Policy statements"//<span style="font-size: 16px;">differ</span>//from substantive rules that carry<span class="StyleBoldUnderline"> the .....</span><span style="font-size: 10.6667px;"> Nonlegislative Rules and the Administrative Open Mind, 41 DUKE L J 1497, 1503 (1992).</span>
+
+CP solves the aff – changes future budget decisions.
+<span class="StyleStyleBold12pt">Tollefson -11</span><span style="font-size: 10.6667px;"> (Jeff Tollefson, DOE releases first Quadrennial Technology Review, September 27, 2011, http://blogs.nature.com/news/2011/09/doe_releases_first_quadrennial_1.html)</span>
+<span class="StyleBoldUnderline">The</span><span style="font-size: 9.33333px;"> US Department of Energy (</span><span class="StyleBoldUnderline">DOE) released its</span><span style="font-size: 9.33333px;"> inaugural </span><span class="StyleBoldUnderline">Quadrennial Technology .....</span><span style="font-size: 9.33333px;"> For that reason, the document recommends setting up a permanent group within the DOE that can focus on energy markets, business, policy analysis and, most intriguingly, social sciences.</span>
+
+Solves the Case---the practical result is the same as binding law---the policy statement sends the signal of the plan and causes agencies to implement it 
+James <span class="StyleStyleBold12pt">Hunnicutt 99,</span> J.D., Boston College Law School, December 1999, “NOTE: Another Reason to Reform the Federal Regulatory System: Agencies' Treating Nonlegislative Rules as Binding Law,” Boston College Law Review, 41 B.C. L. Rev 153, p. lexis
+<span style="font-size: 10.6667px;">Depending on whether a rule is adopted with or without notice-and-comment process, ..... simply </span>conform to all rules<span style="font-size: 10.6667px;">. n134 </span><span class="StyleBoldUnderline">By treating nonlegislative [*</span><span style="font-size: 10.6667px;">173] </span><span class="StyleBoldUnderline">rules as law, </span>agencies can//convince the public// into following nonlegislative rules
+
+The counterplan trades-off political points necessary to enact other initiatives in the QTR
+**Tollefson -11**<span style="font-size: 10.6667px;"> (Jeff Tollefson, DOE releases first Quadrennial Technology Review, September 27, 2011, http://blogs.nature.com/news/2011/09/doe_releases_first_quadrennial_1.html)</span>
+<span style="font-size: 10.6667px;">The US Department of Energy (</span>__DOE)__ [[http://energy.gov/articles/department-energy-releases-inaugural-quadrennial-technology-review-report|released]] __its inaugural Quadrennial Technology Review__<span style="font-size: 10.6667px;"> .....Reducing greenhouse-gas emissions by 17% by 2020 and 83% by 2050, from a 2005 baseline.</span>
+
+This trade-off would occur with biofuels
+**Fuel Cell Insider 11** (DOE Quadrennial Technology Review Gets Stakeholder Input, [[http://www.fuelcellinsider.org/?p=615]])
+<span style="font-size: 10.6667px;">Hydrogen fuel cells were certainly addressed by the panel members, .....but to the private industries who have invested billions of dollars in a host of energy options.</span>
+
+US lead biofuels would cause extinction
+<span class="StyleStyleBold12pt">Ziegler 12</span> ([[http://www.infowars.com/fuelling-world-hunger-how-the-global-biofuel-industry-is-creating-massive-destruction/|Fuelling World Hunger: How The Global Biofuel Industry Is Creating Massive Destruction]], Jean, [[http://www.infowars.com/fuelling-world-hunger-how-the-global-biofuel-industry-is-creating-massive-destruction/]])
+<span style="font-size: 10.6667px;">The global expansion of </span>__the biofuel__<span style="font-size: 10.6667px;"> industry – in which agricultural land and ..... </span>__losing sight of the goal of saving the earth__<span style="font-size: 10.6667px;">. We must not be deluded by the deafening propaganda machines. We must stand firm and together. There may yet be a way out of the inferno.</span>
+
+
+==States CP--2NR== 
+
+The United States federal government should narrowly delegate authority over national inter-city and inter-state high-speed passenger rail to state governments, appropriate territories, and multi-state compacts related to corridors and hub networks. The state governments, appropriate territories, and multi-state compacts related to corridors and hub networks should substantially increase investment in a national network of inter-city and inter-state high-speed passenger rail – including dedicated shared fund agreements that collectively matches the total of Affirmative allocations. 
+
+**<span style="font-size: 17.3333px;">Solves and net beneficial.</span>**
+Chicago Tribune ‘1
+<span style="font-size: 10.6667px;">(“Let states drive high-speed train,” Dec 24, http://articles.chicagotribune.com/2001-12-24/news/0112240192_1_high-speed-rail-investment-high-speed-train-high-speed-rail)</span>
+<span style="font-size: 10.6667px;">Amtrak--the money-losing operation that poses as a national passenger railroad in ..... High-speed train service in the Midwest is a prospect worth investigating, on the right terms.</span>
+
+
+**<span style="font-size: 17.3333px;">No Spending deficit.</span>**
+<span class="StyleStyleBold12pt">OPA ‘3</span>
+<span style="font-size: 10.6667px;">(Office of Public Affairs – US Department of Transportation – FACT SHEET , The Passenger Rail Investment Reform Act of 2003 – http://www.dot.gov/affairs/Passenger%20Rail%20Fact%20Sheet.htm)</span>
+<span style="font-size: 10.6667px;">* The Administration believes that </span>states<span style="font-size: 10.6667px;">, not Amtrak, </span>are best equipped to .....<span style="font-size: 10.6667px;">the federal government and freight railroads, </span>will improve <span style="font-size: 10.6667px;">the efficiency of</span>intercity passenger rail service as a viable alternative to air and highway travel<span style="font-size: 10.6667px;">in some corridors.</span>
+
+Compacts solve
+Puentes ‘10
+<span style="font-size: 10.6667px;">(Robert Puentes is a senior fellow with the Brookings Institution’s Metropolitan Policy Program where he also directs the Program's Metropolitan Infrastructure Initiative. “Intermetropolitan Passenger Rail: Considerations for State Legislatures” – April 9th – http://www.brookings.edu/research/speeches/2010/04/09-rail-transportation-puentes)</span>
+<span style="font-size: 10.6667px;">The next point is that </span>if a particular corridor extends beyond individual .....<span class="StyleBoldUnderline"> the Compact</span><span style="font-size: 10.6667px;"> in 2004. The North Carolina—Virginia corridor received a total of $620 million spread among three investments. </span>
+Note: “ARRA” stands for “American Recovery and Reinvestment Act of 2009”. It was the initial wave of Obama’s “stimulus” package.
+
+
+
+==Fiscal Cliff--2NR== 
+
+Obama will get a deal on the fiscal cliff but he’ll need political capital 
+<span class="StyleStyleBold12pt">LA Times 12-5</span> (“Obama resolute in showdown with GOP over 'fiscal cliff'.” http://www.latimes.com/news/nationworld/nation/la-na-fiscal-cliff-20121206,0,19627.story)
+<span style="font-size: 10.6667px;">WASHINGTON — President </span>Obama brushed off the latest Republican gambit .....<span style="font-size: 10.6667px;"> Obama and Boehner spoke on the phone Wednesday. Neither side disclosed details of the call. </span>
+
+
+Republicans hate high speed rail and Democrats won’t stand up for the proposal:
+<span class="StyleStyleBold12pt">Johnson 12</span> (Fawn, staff writer, “High-Speed Rail in a Coma,” Accessed 7/19/2012 at
+[[http://transportation.nationaljournal.com/2012/01/highspeed-rail-in-a-coma.php]])
+Policymakers' appetite for high-speed rail seems to be dwindling<span class="StyleBoldUnderline"> .....</span><span style="font-size: 10.6667px;"> high-speed rail said the cuts will allow rail enthusiasts to start over from scratch.</span>
+
+Sequestration destroys US global military power---triggers multiple scenarios for nuclear war (Iranian adventurism, Hormuz closing, African instability, terrorism, Korean war, Taiwan war, Russian military modernization, Afghanistan instability, naval power)
+<span class="StyleStyleBold12pt">Hunter 9/30</span> Duncan is a U.S. Representative from Alaska. “SEQUESTRATION SENDS WRONG MESSAGE TO U.S. FRIENDS AND FOES ALIKE,” 2012, http://www.utsandiego.com/news/2012/sep/30/tp-sequestration-sends-wrong-message-to-us/?page=1#article
+<span style="font-size: 6.66667px;">Over the next 10 years, </span><span class="StyleBoldUnderline">because of </span>sequestration<span class="StyleBoldUnderline">, the Pentagon will be forced .....a move that </span>would signal<span class="StyleBoldUnderline"> to our friends and enemies alike </span>that we<span class="StyleBoldUnderline"> uphold our promises and </span>stand ready to defend<span class="StyleBoldUnderline"> our interests </span>against any threat.

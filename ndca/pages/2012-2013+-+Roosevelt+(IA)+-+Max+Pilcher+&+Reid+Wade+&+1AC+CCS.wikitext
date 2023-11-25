@@ -1,0 +1,235 @@
+=1AC DOWLING= 
+==Solvency== 
+=====Contention One: Solvency===== 
+====Regulations in the squo will force the shutdown of coal plants==== 
+<span class="StyleStyleBold12pt">Darin, 12</span>
+<span style="font-size: 8pt;">[Paul, Epoch Times Staff writer. “Coal Industry Criticizes Tough EPA Regulations,” The Epoch Times, October 4, 2012, </span><span style="font-size: 8pt;">[[http://www.theepochtimes.com/n2/united-states/coal-industry-criticizes-tough-epa-regulations-299225.html%5D|http://www.theepochtimes.com/n2/united-states/coal-industry-criticizes-tough-epa-regulations-299225.html]]</span><span style="font-size: 8pt;">]</span>
+With the projected closure of more than 200 coal plants in the next few years
+AND
+to natural gas for power generation supply, but most will be closing. 
+====CCS is inevitable after caps – it's only a question of what //__form__// it will take==== 
+<span class="StyleStyleBold12pt">Bidlack 10</span>
+<span style="font-size: 8pt;">[JD @ Michigan State University, Chris, “REGULATING THE INEVITABLE: UNDERSTANDING THE LEGAL CONSEQUENCES OF AND PROVIDING FOR THE REGULATION OF THE GEOLOGIC SEQUESTRATION OF CARBON DIOXIDE,” http://epubs.utah.edu/index.php/jlrel/article/view/281/237]</span>
+As the world has entered the 21st century, discussions about alternative energy and climate
+AND
+proposal with a combination of federal oversight and strong state-based programs.
+
+====The //__entire project__// depends on a national network for pipeline infrastructure==== 
+<span style="font-size: 14pt;">IRGC 8</span>
+<span style="color: #bfbfbf; font-size: 8pt;">International Risk Governance Council, “Regulation of Carbon Capture and Storage,” http://www.irgc.org/IMG/pdf/Policy_Brief_CCS.pdf</span>
+Large-scale CCS deployment cannot proceed until extensive pipeline infrastructure is in place.
+AND
+of investment, potentially inﬂuencing the ultimate organisational structure of the CCS industry.
+====Government investment is key – it’s key to the private sector==== 
+<span class="StyleStyleBold12pt">Insight Economics 11</span>
+<span style="color: #a6a6a6; font-size: 8pt;"> [All the members of this consulting firm have “Building Essential Infrastructure for Carbon Capture and Storage,” Report to the Global Carbon Capture and Storage Institute, http://cdn.globalccsinstitute.com/sites/default/files/publications/13361/development-carbon-capture-and-storage-infrastructure.pdf]</span>
+This has ramifications for investment in CCS infrastructure. It is not clear, for
+AND
+of the mixed funding model incorporating a substantial contribution from the public sector.
+
+====Absent federal funding, companies will inevitably build point-to-point==== 
+**<span style="font-size: 13pt;">Bohm et al. 9 </span>**
+<span style="color: #a6a6a6; font-size: 8pt;">[Ioannis Chrysostomidis and Paul Zakkour, Environemtal Resources Management; Mark Bohm and Eric Beynon, Suncor Energy; Renato de Filippo, Eni SpA; Arthur Lee, Chevron Corporation (“Assessing issues of financing a CO2 transportation pipeline infrastructure” Energy Procedia Volume 1, Issue 1, Pages 1625–1632, February 2009, http://www.sciencedirect.com.proxy.lib.umich.edu/science/article/pii/S1876610209002148)//MR]</span>
+For carbon dioxide capture and geologic storage to be deployed commercially and in a widespread
+AND
+for the first movers and do not have the same capacity utilization risk.
+
+
+====That drives up costs, delays the project, and doesn’t store enough CO2==== 
+**<span style="font-size: 13pt;">National Grid 12 </span>**
+<span style="color: #a6a6a6; font-size: 8pt;">[international electricity and gas company and one of the largest investor-owned energy companies in the world (“The benefits of a clustered carbon capture and storage system over point-to-point” National Grid, 2012, </span><span style="color: #a6a6a6; font-size: 8pt;">[[http://www.nationalgrid.com/uk/EnergyandServices/NonRegs/CCS/ClusteringBenefits/#header)//MR|http://www.nationalgrid.com/uk/EnergyandServices/NonRegs/CCS/ClusteringBenefits/#header)//MR]]</span><span style="color: #a6a6a6; font-size: 8pt;">]</span>
+A shared pipeline system can very effectively serve a cluster of emitters situated in a
+AND
+emitters for whom point-to-point solutions may be too expensive.
+====CCS works—no risk of leaks or spikes==== 
+<span class="StyleStyleBold12pt">Reisinger 9 </span>
+<span style="color: #bfbfbf; font-size: 8pt;">[JD, Attorney @ Ohio Environmental Council, Will, “RECONCILING KING COAL AND CLIMATE CHANGE: A REGULATORY FRAMEWORK FOR CARBON CAPTURE AND STORAGE,” Vermont Journal of Environmental Law, http://vjel.org/journal/pdf/VJEL10107.pdf]</span>
+Because CO2 is toxic at high concentrations, some fear that escaping CO2 from a
+AND
+, and it is unlikely that a massive cloud of CO2 could escape.
+====Qualified evidence concludes no earthquakes==== 
+**<span style="font-size: 13pt;">Reisinger 9</span>**
+<span style="color: #a6a6a6; font-size: 8pt;">[JD, Attorney @ Ohio Environmental Council, Will, “RECONCILING KING COAL AND CLIMATE CHANGE: A REGULATORY FRAMEWORK FOR CARBON CAPTURE AND STORAGE,” Vermont Journal of Environmental Law, http://vjel.org/journal/pdf/VJEL10107.pdf]</span>
+Injecting large quantities of foreign substances deep underground, especially in earthquake-prone regions
+AND
+rallying cry by environmental groups and citizen activists who are opposed to CCS.
+
+====No tech barriers==== 
+**<span style="font-size: 13pt;">Mills 11</span>**
+<span style="color: #a6a6a6; font-size: 8pt;">[MSc in Geological Sciences @ Cambridge, Robin, “Capturing Carbon: The New Weapon in the War Against Climate Change,” Google Book]</span>
+We have seen that, technically, it is hard to envision why CCS would
+AND
+they are not essential for carbon capture to work in the medium term.
+====There's enough space==== 
+<span class="StyleStyleBold12pt">EPA 10</span>
+<span style="color: #a6a6a6; font-size: 8pt;">[“Report of the Interagency Task Force on Carbon Capture and Storage,” ttp://www.epa.gov/climatechange/downloads/CCS-Task-Force-Report-2010.pdf]</span>
+CO2 storage<span style="color: #aeaeae; font-size: 8pt;">potential </span>is<span style="color: #aeaeae; font-size: 8pt;">estimated to be </span>large. Estimates based on DOE and<span style="color: #aeaeae; font-size: 8pt;">International Energy Agency (</span>IEA<span style="color: #aeaeae; font-size: 8pt;">) </span>studies<span style="color: #aeaeae; font-size: 8pt;">indicate </span>that areas of the United States with appropriate geology could<span style="color: #aeaeae; font-size: 8pt;">theoretically </span>provide storage<span style="color: #aeaeae; font-size: 8pt;">potential </span>for more than 3,000 billion tonnes of CO2<span style="color: #aeaeae; font-size: 8pt;">—large </span>enough to store<span style="color: #aeaeae; font-size: 8pt;">the amount of CO2 </span>emissions <span style="color: #aeaeae; font-size: 8pt;">currently emitted from the entire coal fired electricity sector in the United States</span>for over //1,000 years//<span style="color: #aeaeae; font-size: 8pt;">. 47</span>
+====Federal lands are key – necessary for sufficient storage==== 
+**<span style="font-size: 13pt;">Grant 9</span>**
+<span style="color: #a6a6a6; font-size: 8pt;">[Physical Scientist Office of Systems, Analyses, and Planning @ DoE, Tim, “Storage of Captured Carbon Dioxide Beneath Federal Lands,” Dept of Energy, http://www.netl.doe.gov/energy-analyses/pubs/Fed%20Land_403.01.02_050809.pdf]</span>
+A global effort is underway to assess storage potential for captured carbon dioxide (CO2
+AND
+-scale demonstration projects that will help accelerate commercial deployment of CCS technology.
+
+====States don’t have siting expertise==== 
+**EPA 10**
+<span style="font-size: 8pt;">[“Report of the Interagency Task Force on Carbon Capture and Storage,” http://www.epa.gov/climatechange/downloads/CCS-Task-Force-Report-2010.pdf]</span>
+Enhanced coordination on legal and regulatory issues will be needed between Federal agencies as well
+AND
+to be placed on surface and subsurface uses to ensure integrity of sequestration. 
+
+
+
+
+
+
+
+
+====Text: The United States federal government should substantially increase its investment in backbone pipeline infrastructure for transportation of captured liquid carbon dioxide in the United States.==== 
+
+==China== 
+====Contention 2 is advantages==== 
+====Advantage 1 is China==== 
+====Developing economies coal demand will increase - the US can supply if domestic producers can grow==== 
+<span class="StyleStyleBold12pt">Smith, 12</span>
+<span style="color: #a4a4a4; font-size: 8pt;">[Gavin, is a senior economist at IBISWorld. “"Coal Mining in the US Industry Market Research Report Now Available from IBISWorld," from IBISWorld a database of economic information and analysis on major US industries, July 6, 2012]</span>
+The Coal Mining industry has reached for the depths over the five years to 2012
+AND
+turn, industry firms have scrambled to acquire domestic firms to grow quickly.
+====China’s coking demand is about to skyrocket==== 
+<span class="StyleStyleBold12pt">Simons, 12</span> 
+<span style="color: #a4a4a4; font-size: 8pt;"> [Craig, fellow at the Alicia Patterson foundation; focusing on China’s energy sector. "Chinese Demand Stokes U.S. Coal Battle," Jan 2, 2012 </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://aliciapatterson.org/stories/chinese-demand-stokes-us-coal-battle-http:/aliciapatterson.org/stories/chinese-demand-stokes-us-coal-battle|http://aliciapatterson.org/stories/chinese-demand-stokes-us-coal-battle-http://aliciapatterson.org/stories/chinese-demand-stokes-us-coal-battle]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+**__<span style="color: #bfbfbf; font-size: 8pt;">Given</span>__** **__China’s__** **__<span style="color: #bfbfbf; font-size: 8pt;">rapid growth</span>__**<span style="color: #a4a4a4; font-size: 8pt;">, analysts predict </span>**__<span style="color: #bfbfbf; font-size: 8pt;">its</span>__** **__appetite for fossil fuels will continue__** **__<span style="color: #bfbfbf; font-size: 8pt;">its</span>__**__<span style="color: #bfbfbf; font-size: 8pt;">steep</span>__ **__upward__** **__<span style="color: #bfbfbf; font-size: 8pt;">curve</span>__**<span style="color: #a4a4a4; font-size: 8pt;">: The International Energy Agency predicts</span>**__<span style="color: #bfbfbf; font-size: 8pt;">China will account for half of global coal demand </span>__**__<span style="color: #bfbfbf; font-size: 8pt;">growth **over the next two decades**</span>__<span style="color: #a4a4a4; font-size: 8pt;">; the World Coal Association, a London-based industry lobby, estimates that</span>**__<span style="background-color: aqua;">Chinese demand for coking coal</span>__**<span style="color: #a4a4a4; font-size: 8pt;"> – high-grade coal used to produce iron –</span>**__<span style="background-color: aqua;">will rise 50 percent </span>__**__<span style="color: #bfbfbf; font-size: 8pt;">as China continues to build new cities, roads and bridges</span>__<span style="color: #bfbfbf; font-size: 8pt;">.</span>
+====Coking coal is the backbone of China’s infrastructure but they can’t produce it==== 
+<span class="StyleStyleBold12pt">Holmes 11</span>
+<span style="color: #a4a4a4; font-size: 8pt;"> [Frank, CEO and chief investment officer of US Global Investors. "Coal Use Shines Light on Growth," May 3, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.resourceinvestor.com/2011/05/03/coal-use-shines-light-on-growth)|http://www.resourceinvestor.com/2011/05/03/coal-use-shines-light-on-growth]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Coal powers the Chinese economy. The country is the world’s largest consumer, gobbling
+AND
+tons by 2035. This accounts for 94 percent of Australia’s total exports.
+====Regulations will drive up prices and kill the mining industry==== 
+<span class="StyleStyleBold12pt">Bastasch, 12</span>
+<span style="color: #a4a4a4; font-size: 8pt;">[Michael, writer for the Daily Caller. "Coal industry wins court victory amid mine closings," Daily Caller, August 8, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://dailycaller.com/2012/08/01/coal-industry-wins-court-victory-amid-mine-closings/~~%23ixzz22VYZCEUp)|http://dailycaller.com/2012/08/01/coal-industry-wins-court-victory-amid-mine-closings/~~%23ixzz22VYZCEUp]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+The coal industry won a major legal victory against the Environmental Protection Agency as a
+AND
+companies blame EPA regulations for their closings and the downturn in coal demand.
+
+====Plan solves==== 
+<span class="StyleStyleBold12pt">EPA 10 </span>
+<span style="color: #a6a6a6; font-size: 8pt;">[US Environmental Protection Agency “Report of the Interagency Task Force on Carbon Capture and Storage,” </span><span style="color: #a6a6a6; font-size: 8pt;">[[http://www.epa.gov/climatechange/downloads/CCS-Task-Force-Report-2010.pdf]]</span><span style="color: #a6a6a6; font-size: 8pt;">]</span>
+While CCS can be applied to a variety of stationary sources of CO2 , its
+AND
+(EOR), and assist in the creation of new technologies for export.
+
+====Capacity is tight-revival of coal key to fill demand==== 
+<span class="StyleStyleBold12pt">Reuters, 12</span>
+<span style="color: #a4a4a4; font-size: 8pt;"> [international news agency, "ANALYSIS-United States as a top coal exporter is here to stay," Reuters, April 18, 2012, http://articles.chicagotribune.com/2012-04-18/news/sns-rt-coal-usexportsl6e8fgd2c-20120418_1_exporter-coal-producers-thermal-coal ]</span>
+But the long term uptrend of growing demand from Asia, China in particular,
+AND
+that put additional pressure on the sea-borne market," he added.
+====Indonesia’s coal tax and export ban takes out China’s largest source – creates an energy crisis==== 
+**Pope, 12**
+<span style="color: #a4a4a4; font-size: 8pt;">[Carl, former chairman of the Sierra Club. "Cheap Coal Is Dead. Long Live Renewables. (Part 1)," Bloomberg News, July 19, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.bloomberg.com/news/2012-06-19/cheap-coal-is-dead-long-live-renewables-part-1-.html)|http://www.bloomberg.com/news/2012-06-19/cheap-coal-is-dead-long-live-renewables-part-1-.html]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Indonesia is no longer willing to be the low-cost provider; it sees
+AND
+China’s and India’s booming, but still fundamentally poor, economies will double.
+====Coal signals US commitment to China rise – also solves coal turns==== 
+<span class="StyleStyleBold12pt">Gordon and Johnson-Reiser, 12</span>
+<span style="color: #a4a4a4; font-size: 8pt;"> [Deborah, nonresident senior associate in Carnegie’s Energy and Climate Program. Sabine, Junior Fellow at Carnegie Endowment. Mapping a U.S.-China Coal Partnership," May 11, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://carnegieendowment.org/2012/05/11/mapping-u.s.-china-coal-partnership/apm8)|http://carnegieendowment.org/2012/05/11/mapping-u.s.-china-coal-partnership/apm8]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Mapping the common conditions surrounding coal in China and the United States provides opportunities for
+AND
+gathering information to manage carbon emissions from major coal export and import nations.
+====That’s a key signal - generates a perception of respect for China’s rise==== 
+**Cronin, 12**
+<span style="color: #a4a4a4; font-size: 8pt;">[Patrick M., Senior Advisor and Senior Director of the Asia-Pacific Security Program at the Center for a New American Security in Washington, D.C. He is also the editor and co-author of Cooperation from Strength: The United States, China and the South China. "Averting Conflict in the South China Sea," China Focus, August 27, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.chinausfocus.com/foreign-policy/averting-conflict-in-the-south-china-sea/)|http://www.chinausfocus.com/foreign-policy/averting-conflict-in-the-south-china-sea/]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Geostrategic and globalization interests will both persist, forcing an uncomfortable mixture of competition and
+AND
+of the South China Sea will only be harnessed when there is such cooperation
+====US commitment key to cooperation and preventing Manila aggression in South China Sea==== 
+<span class="StyleStyleBold12pt">Xinhua, 12</span>
+<span style="color: #a4a4a4; font-size: 8pt;">[Sponsored by the Xinhua News Agency, Xinhuanet is an important central news service-oriented website, an important information organ of the central government, and an important platform for building up China's online international communication capacity. Established on November 7, 1997, as an online news provider of the Xinhua News Agency, it was officially named Xinhuanet on March 10, 2000 and began around-the-clock news release with leading online public opinion at home and setting a good image of China abroad as its main task. Starting from 2010, Xinhuanet began transforming itself from a governmental cultural institution to an enterprise, operating in the entity of the Xinhua Network Corporation Limited. In May 2011, the Xinhuanet Corporation LTD. was officially established. Xinhuanet releases news items 24 hours daily in eight languages, namely, Chinese (simplified and traditional), English, French, Spanish, Russian, Arabic, Japanese and Tibetan, by using multimedia communication means, such as texts, photos, graphics, audio messages, video, blogs, podcast, microblog, short messages, and cell phone news. As a result, it can reach directly and instantly its audiences at home and abroad at crucial moments of major news coverage and breaking events. “U.S. owes China convincing explanation of true intentions of its Asia Pivot policy,” September 3, 2012, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://news.xinhuanet.com/english/indepth/2012-09/03/c_131824191.htm]]</span><span style="color: #a4a4a4; font-size: 8pt;">] </span>
+Since last fall, the Obama administration has been implementing the Pivot policy by expanding
+AND
+it is returning to Asia as a peacemaker, instead of a troublemaker.
+====That draws in major powers and causes world war III==== 
+<span class="StyleStyleBold12pt">Waldron, 97</span>
+<span style="color: #a4a4a4; font-size: 8pt;">[Arthur, Professor of Strategy and Policy at Naval War College. Commentary, 3-1, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.aei.org/publications/pubID.7442,filter.all/pub_detail.asp]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Then there is Southeast Asia, which, having weathered the Vietnam War and a
+AND
+--Russia, or India, or Japan--or the United States.
+====No risk of turns:==== 
+====Devastating counter-intelligence failures ensure US loss, and China would use EMPs devastating the US==== 
+Santoli, 05 
+<span style="color: #a4a4a4; font-size: 8pt;">[Al, Asia America Initiative director. "Japanese Official: US Would "Certainly Lose" War vs. China," November 6, 2005, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.asiaamerica.org/publications/cif/cif-08-2005.htm]]</span><span style="color: #a4a4a4; font-size: 8pt;">]</span>
+Japanese officials have warned the US of a potential future nuclear war launched by Chinese
+AND
+the Sea of Japan, Hawaii and the entire Trans-Pacific region.
+====Deterrence failure is likely==== 
+**Dodge 5** 
+<span style="color: #a4a4a4; font-size: 8pt;"> [Paul, Department of Defense and Strategic Studies at Missouri State University. “China’s Naval Strategy and Nuclear Weapons: The Risks of Intentional and Inadvertent Nuclear Escalation,” Comparative Strategy, Volume 24, Number 5, December, p. 415-416]</span>
+In the summer of 2005, Chinese Major-General Zhu Chenghu threatened the United
+AND
+, that the full escalatory dangers of Chinese warfighting strategy may be revealed.
+====War causes extinction==== 
+**Wittner, 11**
+<span style="color: #a4a4a4; font-size: 8pt;">[Lawrence, Prof of History Emeritus at SUNY Albany. “Is a Nuclear War with China Possible?” Huffington Post, November 30, </span><span style="color: #a4a4a4; font-size: 8pt;">[[http://www.huffingtonpost.com/lawrence-wittner/nuclear-war-china_b_1116556.html%5D|http://www.huffingtonpost.com/lawrence-wittner/nuclear-war-china_b_1116556.html]]]</span>
+But what would that "victory" entail? An attack with these Chinese nuclear
+AND
+modernizing" its nuclear weapons and nuclear production facilities over the next decade.
+==Warming== 
+====Advantage 2 is Climate change==== 
+====Climate change is real and anthropogenic – our evidence assumes their indicts==== 
+<span class="StyleStyleBold12pt">Muller, 12</span>
+<span class="DontRead1"> [Richard A., a professor of physics at the University of California, Berkeley, and a former MacArthur Foundation fellow, is the author, most recently, of “Energy for Future Presidents: The Science Behind the Headlines.” “The Conversion of a Climate-Change Skeptic,” New York Times, July 28, 2012, </span><span class="DontRead1">[[http://www.nytimes.com/2012/07/30/opinion/the-conversion-of-a-climate-change-skeptic.html?pagewanted=all]]</span><span class="DontRead1">]</span>
+CALL me a converted skeptic. Three years ago I identified problems in previous climate
+AND
+agreeing across the political and diplomatic spectrum about what can and should be done
+====Warming accelerates methane release==== 
+<span class="StyleStyleBold12pt">NWF 12</span>
+<span style="color: #bfbfbf; font-size: 8pt;">[National Wildlife Federation, quoting Igor Semiletov, Ph.D. from the P.P. Shirshov Institute of Oceanology of the Russian Academy of Sciences, research scientist and Head of the Laboratory of Geochemistry in the Polar Regions at the Pacific Oceanological Institute, quoting Katey Walter, Alaskan aquatic ecologist and biogeochemist, “Global Warming is Accelerating,” 2012, http://www.nwf.org/Global-Warming/What-is-Global-Warming/Global-Warming-is-Accelerating.aspx] </span>
+Vast areas of permafrost across the northern hemisphere store more than double the amount of
+AND
+suspected as a major contributor to rapid warming about 635 million years ago.
+====Causes extinction - Methane eruptions outweigh their disad by a magnitude of 10,000==== 
+<span class="StyleStyleBold12pt">Ryskin 3 </span>
+<span style="color: #bfbfbf; font-size: 8pt;">(Gregory, Department of Chemical Engineering, Northwestern University, Illinois, “Methane-driven oceanic eruptions and mass extinctions” Geology 31(9): 741-744, https://pangea.stanford.edu/research/Oceans/GES205/methaneGeology.pdf, dml)</span>
+The consequences of a methane-driven oceanic eruption[s] for marine and
+AND
+, implicated in the nuclear winter scenario (Turco et al., 1991).
+====CO2 kills phytoplankton – they produce 50% of our oxygen==== 
+<span class="StyleStyleBold12pt">Leahy 12</span>
+<span style="color: #b1b1b1; font-size: 8pt;"> [Stephen, lead international science and environment correspondent at IPS, where he writes about climate change, energy, water, biodiversity, development and native peoples. Based in Uxbridge, Canada, near Toronto, Steve has covered environmental issues for nearly two decades for publicatio</span><span style="font-size: 8pt;">ns around the world. He is a professional member of the International Federation of Journalists, the Society of Environmental Journalists and the International League of Conservation Writers. He also pioneered Community Supported Environmental Journalism to ensure important environmental issues continue to be covered, quoting really qualified scientists, I kid you not, May 2012, </span><span style="font-size: 8pt;">[[http://www.ipsnews.net/2012/05/climate-change-threatens-crucial-marine-algae/%5D|http://www.ipsnews.net/2012/05/climate-change-threatens-crucial-marine-algae/]]]</span>
+UXBRIDGE, Canada, May 8 2012 (IPS) - Without major reductions in
+AND
+giant experiment on the planet and we don’t know what we are doing.”
+====A 25% reduction of oxygen is enough to cause extinction – Permian period proves==== 
+<span class="StyleStyleBold12pt">Stricherz 5</span>
+<span style="color: #b1b1b1; font-size: 8pt;"> [Victor, reporting on </span><span style="font-size: 8pt;">paper published by two University of Washington Scientists and quoting them, “Low oxygen likely made 'Great Dying' worse, greatly delayed recovery,” 14 April 2005, </span><span style="font-size: 8pt;">[[http://www.washington.edu/news/archive/id/9592%5D|http://www.washington.edu/news/archive/id/9592]]]</span>
+The biggest mass extinction in Earth history some 251 million years ago was preceded by
+AND
+couple of minutes? There's nothing with a greater evolutionary effect than oxygen." 
+====CCS solves==== 
+<span class="StyleStyleBold12pt">EPA 12 </span>
+<span style="color: #bfbfbf; font-size: 8pt;">(Environmental Protection Agency, “Carbon Dioxide Capture and Sequestration”, last updated on Thursday, June 14th, 2012, http://www.epa.gov/climatechange/ccs/index.html)//AMV</span>
+What is carbon dioxide capture and sequestration? EPA's Proposed Carbon Pollution Standards for New
+AND
+subsurface pressures that could impact drinking water, human health, and ecosystems.
+====It’s reverse causal – can’t solve warming without CCS==== 
+<span class="StyleStyleBold12pt">IEA-ETSAP 10</span>
+<span style="color: #bfbfbf; font-size: 8pt;">[The Energy Technology Systems Analysis Program (ETSAP) is an Implementing Agreement of the International Energy Agency (IEA), consortium of country teams and invited teams that actively cooperate to establish, maintain, and expand a consistent multi-country energy/economy/environment/engineering (4E) analytical capability, consists of individual national teams in nearly 70 countries, and a common, comparable and combinable methodology, mainly based on the MARKAL/TIMES family of models, permitting the compilation of long term energy scenarios and in-depth national, multi-country, and global energy and environmental analyses, “CO2 Capture & Storage,” October 2010, http://www.iea-etsap.org/web/E-TechDS/PDF/E14_%20CCS%20draft%20oct2010_%20GS-gc_OK.pdf]</span>
+POTENTIAL & BARRIERS - Analysis and studies (IPCC 2005, Stern 2006, IEA
+AND
+the use of the huge world coal reserves with a low environmental impact.
+
+
+====CCS is a //__critical bridge__// to a broader portfolio of sustainable energy==== 
+<span class="StyleStyleBold12pt">WRI 8</span>
+<span style="color: #bfbfbf; font-size: 8pt;">[World Resources Institute, “CCS Overview: What Is CCS?,” http://www.wri.org/project/carbon-dioxide-capture-storage/ccs-basics]</span>
+CCS is a broad term that encompasses a number of technologies that can be used
+AND
+near-term energy demand until alternatives can provide sufficient and reliable electricity.
+====That’s modeled internationally==== 
+<span class="StyleStyleBold12pt">Katzer et al., 07</span>
+<span class="DontRead1">[James, Technical Advisory Board at China National Institute for Clean and Low-Carbon Fuels Affiliate Professor at </span><span class="DontRead1">[[http://www.linkedin.com/company/iowa-state-university?trk=ppro_cprof|Dept of Chemical and Biological Engineering, Iowa State University]]</span><span class="DontRead1"> Technical Advisory Council at </span><span class="DontRead1">[[http://www.linkedin.com/company/rive-technology?trk=ppro_cprof|Rive Technology]]</span><span class="DontRead1"> Past Member of three panels drafting reports at National Research Council of The National Academies Visiting Scientist at Laboratory for Energy and The Environment, MIT Manager, Technology Groups/Activities at Mobil Research and Development. PROFESSOR STEPHEN ANSOLABEHERE Department of Political Science, MIT PROFESSOR JANOS BEER Department of Chemical Engineering, MIT PROFESSOR JOHN DEUTCH – CO-CHAIR Institute Professor Department of Chemistry, MIT DR. A. DENNY ELLERMAN Alfred P. Sloan School of Management, MIT DR. S. JULIO FRIEDMANN Visiting Scientist, Laboratory for Energy and the Environment, MIT Carbon Management Program Energy & Environment Directorate Lawrence Livermore National Laboratory HOWARD HERZOG Laboratory for Energy and the Environment, MIT PROFESSOR HENRY D. JACOBY Alfred P. Sloan School of Management, MIT PROFESSOR PAUL L. JOSKOW Elizabeth and James Killian Professor of Economics and Management Department of Economics and Alfred P. Sloan School of Management, MIT Director, Center for Energy and Environmental Policy Research PROFESSOR GREGORY MCRAE Department of Chemical Engineering, MIT PROFESSOR RICHARD LESTER Director, Industrial Performance Center Department of Nuclear Engineering, MIT PROFESSOR ERNEST J. MONIZ – CO-CHAIR Cecil and Ida Green Professor of Physics and Engineering Systems Department of Physics, MIT Director, Laboratory for Energy and the Environment PROFESSOR EDWARD STEINFELD Department of Political Science, MIT. “The Future of Coal,” A Massachusetts Institute of Technology Interdisciplinary Study, </span><span class="DontRead1">[[http://web.mit.edu/coal/The_Future_of_Coal.pdf]]</span><span class="DontRead1">] </span>
+According to Dr. Deutch, "As the world's leading energy user and greenhouse
+AND
+simulation of the comparative performance of integrated technology systems should be greatly enhanced.

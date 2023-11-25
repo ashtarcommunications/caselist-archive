@@ -1,0 +1,462 @@
+[[toc]]
+=Topic Specific= 
+==T Investment== 
+===1NC Capital Spending Shell=== 
+Investment in transportation infrastructure is capital spending
+Musick 9 – Microeconomic and Financial studies division at the Congressional Budget Office (Nathan, “Subsidizing Infrastructure Investment with Tax-Preferred Bonds”, CBO, October 26 of 2009, http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/106xx/doc10667/10-26-taxpreferredbonds.pdf)//AW
+In this analysis, investment in infrastructure is defined as capital spending on transportation,
+AND
+which is formed by spending on educational programs or on research and development.
+
+===2NC Land Grants Violation=== 
+Land grants are free gifts – no capital is involved
+US Legal 6 – US Legal Dictionary (US Legal, “Land Grant Law & Legal Definition”, US Legal Dictionary, March 18 of 2006, http://definitions.uslegal.com/l/land-grant/)//AW
+The term 'land grant' is used to refer to a government grant or gift of a public land to a person, group of people, or an institution. For example, to railway or college. A land-grant university or college is entitled to support from the federal government under the provisions of the Morrill Acts.
+
+===1NC Finance Shell=== 
+Interpretation – infrastructure investment requires the building or maintenance of physical assets
+Chan, et al, ’09 [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf]
+Investment can be regarded as an act of forgoing current consumption by allocating economic resources
+AND
+realised sooner than otherwise possible (or which might not otherwise have occurred).
+
+Violation—The affirmative is financing not investment—they raise capital for the purpose of investment but don’t invest –
+Chan, et al, ’09 [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf]
+The study is concerned with financing public infrastructure — the vehicles employed by governments to
+AND
+no way guarantees that the project itself satisfies the criteria of allocative efficiency.
+
+===2NC NIB Violation=== 
+Infrastructure bank is financing not investment
+Chan, et al, ’09 [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure In many OECD countries,
+the financial and other activities undertaken by GTEs are not recognised in their owner-
+AND
+issued on behalf of the GTE by a central government borrowing agency.2
+
+Prefer our evidence – Department of Transportation agrees – Transportation infrastructure investment requires the actual purchasing or construction of transportation facilities and structures
+US Department of Transportation ’03 (U.S. Department of Transportation, Bureau of Transportation Statistics, U.S. Department of Commerce (USDOC), Bureau of Economic Analysis (BEA), Figure 109 - Gross Government Investments in Transportation Infrastructure by Level of Government: 1990–2000, February, http://www.bts.gov/publications/transportation_statistics_annual_report/2003/html/chapter_02/figure_109.html)
+
+NOTES: Investment in transportation infrastructure includes the purchase or construction value of transportation facilities
+AND
+this report) were adjusted to eliminate the effects of inflation over time.
+===1NC Maintenance Shell=== 
+Interpretation - Infrastructure investment is distinct from maintenance
+Lemer 11 - worked at The National Academies and studied at Harvard University (Andrew, “How Much Infrastructure Spending Is “Enough?’”, http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%E2%80%9Cenough%E2%80%9D/)
+What has been neglected in all of the analyses that I have seen is an
+AND
+public works agencies suggest that maintenance budgets are often squeezed, forcing neglect.
+
+
+
+==T In== 
+===1NC Shell=== 
+“In” means inclusion within ---the aff has to build or maintain physical assets within the United States
+Random House 12 (Unabridged Dictionary, “in”, http://dictionary.reference.com/browse/in?s=t)
+
+in   [in] Show IPA preposition, adverb, adjective, noun, verb, inned, in·ning.
+preposition
+1. (used to indicate inclusion within space, a place, or limits): walking in the park.
+2. (used to indicate inclusion within something abstract or immaterial): in politics; in the autumn.
+3. (used to indicate inclusion within or occurrence during a period or limit of time): in ancient times; a task done in ten minutes.
+4. (used to indicate limitation or qualification, as of situation, condition, relation, manner, action, etc.): to speak in a whisper; to be similar in appearance.
+5. (used to indicate means): sketched in ink; spoken in French.
+
+==T Transportation Infrastructure== 
+===1NC Not Communications Shell=== 
+Interpretation - Transportation infrastructure includes roads, air and waterway infrastructure pipeline terminals, intermodal facilities and warehouse delivery systems specifically for transporting hazardous materials.
+Church et. Al ‘03 [December 2003, Rick Church, UC Santa Barbara Bruce Ralston, University of Tennessee Jeff Western, Director of Infrastructure Security, Wisconsin DOT Benjamin Zhan, Texas State University-San Marcos- all part of a committee at the National Consortium on Remote Sensing in Transportation,“Critical Transportation Infrastructure”, http://www.ncgia.ucsb.edu/ncrst/meetings/20031201SBA-CTI2003/first.html]
+There are many classes of infrastructure — a background page on CIP enumerates these.
+AND
+provisions to serve needs of critical hazardous/non-hazardous materials in transit
+
+ITS is not transportation – how the tech is deployed proves there is a clear distinction – prefer our most qualified evidence.
+Pincus ‘11 [September 2011, Marcia Pincus is from the ITS Joint Program Office Research and Innovative Technology Administration U.S. Department of Transportation Department of Transportation, Final Report, “Intelligent Transportation Systems Benefits, Costs, Deployment, and Lessons Learned Desk Reference: 2011 Update” http://www.benefitcost.its.dot.gov/its/benecost.nsf/files/BCLLDepl2011Update/$File/Ben_Cost_Less_Depl_2011%20Update.pdf]
+A wide variety of infrastructure-based ITS applications improve the safety and mobility of
+AND
+without relying on the presence of dynamic message signs at the appropriate location.
+===1NC Military Shell=== 
+Transportation infrastructure excludes spending on the military and law enforcement
+Musick ‘10 [2010, Nathan, CBO’s Microeconomic Studies Division, “Public Spending on Transportation and Water Infrastructure,”
+http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/119xx/doc11940/11-17-infrastructure.pdf]
+Although different definitions of “infrastructure” exist, this report focuses on two types
+AND
+those conducted by the Army Corps of Engineers following Hurricane Katrina in 2005).
+
+===1NC Vehicles Shell=== 
+
+Interpretation- Vehicles are part of our transportation system, not our transportation infrastructure
+Amosweb ‘12 [2012, “Taking A Ride On TRANSPORTATION INFRASTRUCTURE” A pedestrian’s guide to the economy, http://www.amosweb.com/cgi-bin/awb_nav.pl?s=pdg&c=dsp&k=47]
+We usually think about transportation in terms of vehicles -- like cars, trucks, trains, airplanes, and boats. Vehicles, however, are only part of any transportation system. You usually need depots, roadbeds, and other such capital goods that we refer to as infrastructure. Cars need streets and highways, trains need tracks, airplanes need airports, and boats need docks and ports.
+
+===1NC Physical Assets Shell=== 
+
+Infrastrucutre Investment is the building or maintenance of physical assets
+Chan, et al, ’09 [March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf]
+Investment can be regarded as an act of forgoing current consumption by allocating economic resources
+AND
+time — even for projects that have the potential for full cost recovery.
+Financing and refinancing — that is, raising and allocating cash flows to meet resource costs — play a crucial role in overcoming inter-temporal funding constraints. This enables productive infrastructure investment to be realised sooner than otherwise possible (or which might not otherwise have occurred).
+
+==T United States== 
+===1NC Shell=== 
+That’s the USA
+Encarta 7 (Dictionary Online, “United States”, http://encarta.msn.com/encnet/features/dictionary/DictionaryResults.aspx?refid=1861708119)
+
+U·nit·ed States [ y ntəd stáyts ] country in central North America, consisting of 50 states.
+
+Languages: English.
+
+Currency: dollar.
+
+Capital: Washington, D.C..
+
+Population: 290,342,550 (2001).
+
+Area: 9,629,047 sq km (3,717,796 sq mi.)
+
+Official name United States of America
+
+=Procedural= 
+==Framework== 
+===1NC v. River Hill SS=== 
+The affirmative creates a bad limit on the practices of the community
+First is our Resolutional Basis – The word Resolved means to declare by a formal vote
+Webster’s Revised Unabridged Dictionary, 1998 (dictionary.com)
+Resolved:
+5. To express, as an opinion or determination, by resolution and vote; to declare or decide by a formal vote; -- followed by a clause; as, the house resolved (or, it was resolved by the house) that no money should be apropriated (or, to appropriate no money).
+
+And, “United States Federal Government should” means the debate is solely about the outcome of a policy established by governmental means
+Ericson, 03 (Jon M., Dean Emeritus of the College of Liberal Arts – California Polytechnic U., et al., The Debater’s Guide, Third Edition, p. 4)
+
+The Proposition of Policy: Urging Future Action In policy propositions, each topic contains
+AND
+and compelling reasons for an audience to perform the future action that you propose
+
+First, we will advance a dialogical switch side model of debate—Affirmative strategies that suspend basic fairness norms are EXCLUSIVE, substitutes for topical action do not accrue the same dialogical benefits of topical advocacy—
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 5-7
+Debate as a dialogue sets an argumentative table, where all parties receive a relatively
+AND
+substitutes for topical action do not accrue the dialogical benefits of topical advocacy.
+
+Two impacts—
+a. Critical thinking—only the process of switch side debate offers reasonable reflective thinking in making decisions—placing someone outside of their intial beliefs forces them to assess all possible outcomes and arrive at decisions—abdicating this process has grave consequences and risks a multitude of existential risks
+Harrigan, ‘08 [Casey Harrigan is an NDT champion, debate coach at UGA, thesis submitted to Wake Forest Graduate Faculty for Master of Arts in Communication, “A defense of switch side debate”, http://dspace.zsr.wfu.edu/jspui/bitstream/10339/207/1/harrigancd052008, p. 57-59]
+Along these lines, the greatest benefit of switching sides, which goes to the
+AND
+Hunt and Louden, 1999; Colbert, 2002, p. 82).
+
+b. Compromise—the current clash of civilizations can only be resolved within the framework of switch side debate and gives room for both performative and conventional argumentation
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 1-3.
+By definition, debate coaches are contentious and the history of modern debate has been
+AND
+, I will answer potential criticisms to the debate as a dialogue construct.
+
+Second, discussing the topic is good—Action oriented civic participation requires youth education about transportation policy
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+
+Education is essential to the development of engaged citizens (O’Neill 2007).
+AND
+bike rack or petitioning for a bus shelter in front of their school.
+These examples show that educating young people about the political processes associated with transportation can change their perceptions and encourage action-oriented civic participation.
+
+Two impacts—
+a. Changing transportation policy requires a more active citizenry
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+
+Canadian youth already participate in civic groups and insurgent political activities around sustainable transportation.
+AND
+civic initiatives, young people could be part of a more active citizenry.
+
+b. Link turns their offense—current transportation policy is overly reliant on expertism, the “white male” perspective—the process of debates about specific policy is the only way to inject lived experience into the discussion-their aff reaches too far
+Quick and Zhao, ’11 [October 2011, Kathryn S. Quick and Zhirong Jerry Zhao @ The Humphrey School of Public Affairs, University of Minnesota, “Suggested Design and Management Techniques for Enhancing Public Engagement in Transportation Policymaking”]
+The technical complexity inherent in transportation service planning, financing, and infrastructure development presents
+AND
+credibility of the agency or policy decisions [64,65,34].
+
+Their abandonment of traditional fiat abandons training and inspiration of students to find careers in the halls of power and instead pursue marginal social movements ceding the halls of power to the right
+COVERSTONE Dir of Debate @ Montgomery Bell Academy 2k6
+Alan-former debater @ Wake, MBA = private prep school in Nashville; “Acting on Activism”;
+DEBATER’S RESEARCH GUIDE (DRG), National Service Topic; Stephen Bauschard, editor;
+http://groups.wfu.edu/debate/MiscSites/DRGArticles/DRGArtiarticlesIndex.htm
+The power to imagine public advocacy that actually makes a difference is one of the
+AND
+middle ground that preserves the American tradition of debate and deliberation within government.
+
+BLACKS WERE DENIED EDUCATIONAL OPPORTUNITIES WITHIN POLITICS
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.83-84
+Not long ago a measure was introduced in a certain State Legislature to have the
+AND
+to conform to the policy of “keeping the Negro in his place.”
+
+Blacks were not supposed to discuss issues of the day and were limited to racial discussions for the support or CRITICISM of politicians seeking office
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.92
+In the North the Negroes have a better chance to acquire knowledge of political matters
+AND
+Negro while the highly favorable party was doing so much for the race.
+
+Limiting the discussion to matters of SPECIAL concern to Black people from personal experience indicates a STEP BACKWARDS.
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.94-95
+Even the few Negroes who are elected to office are often similarly uninformed and show
+AND
+internal improvements, labor arbitration, the tariff, and the merchant marine.
+
+THE ROLE OF THE GOVERNMENT IS INEVITABLY IMPORTANT – It is the only avenue in which we can break down the institutional effects of racism
+FRANKLIN James B. Duke Professor Emeritus of History Duke University 1993
+John Hope-1985-1992 was Professor of legal History in the Law School at Duke University; THE COLOR LINE: Legacy for the Twenty First Century; p. 73-74
+We now live in an age when the role of government is inevitably important
+AND
+of nation about which so many of us have dreamed but never realized.
+
+===1NC v. Heritage Hall NF=== 
+First is our Resolutional Basis – The word Resolved means to declare by a formal vote
+Webster’s Revised Unabridged Dictionary, 1998 (dictionary.com)
+Resolved:
+5. To express, as an opinion or determination, by resolution and vote; to declare or decide by a formal vote; -- followed by a clause; as, the house resolved (or, it was resolved by the house) that no money should be apropriated (or, to appropriate no money).
+
+And, “United States Federal Government should” means the debate is solely about the outcome of a policy established by governmental means
+Ericson, 03 (Jon M., Dean Emeritus of the College of Liberal Arts – California Polytechnic U., et al., The Debater’s Guide, Third Edition, p. 4)
+
+The Proposition of Policy: Urging Future Action In policy propositions, each topic contains
+AND
+and compelling reasons for an audience to perform the future action that you propose
+
+First, we will advance a dialogical switch side model of debate—Affirmative strategies that suspend basic fairness norms are EXCLUSIVE, substitutes for topical action do not accrue the same dialogical benefits of topical advocacy—
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 5-7
+Debate as a dialogue sets an argumentative table, where all parties receive a relatively
+AND
+substitutes for topical action do not accrue the dialogical benefits of topical advocacy.
+
+Two impacts—
+a. Critical thinking—only the process of switch side debate offers reasonable reflective thinking in making decisions—placing someone outside of their intial beliefs forces them to assess all possible outcomes and arrive at decisions—abdicating this process has grave consequences and risks a multitude of existential risks
+Harrigan, ‘08 [Casey Harrigan is an NDT champion, debate coach at UGA, thesis submitted to Wake Forest Graduate Faculty for Master of Arts in Communication, “A defense of switch side debate”, http://dspace.zsr.wfu.edu/jspui/bitstream/10339/207/1/harrigancd052008, p. 57-59]
+Along these lines, the greatest benefit of switching sides, which goes to the
+AND
+Hunt and Louden, 1999; Colbert, 2002, p. 82).
+
+b. Compromise—the current clash of civilizations can only be resolved within the framework of switch side debate and gives room for both performative and conventional argumentation
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 1-3.
+By definition, debate coaches are contentious and the history of modern debate has been
+AND
+, I will answer potential criticisms to the debate as a dialogue construct.
+
+Second, we will advance a robust defense of the topic—Action oriented civic participation requires youth education about transportation policy details
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+Education is essential to the development of engaged citizens (O’Neill 2007). Educating young
+AND
+with transportation can change their perceptions and encourage action-oriented civic participation.
+
+Two impacts—
+a. Changing transportation policy requires a more active citizenry
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+Canadian youth already participate in civic groups and insurgent political activities around sustainable transportation.
+AND
+civic initiatives, young people could be part of a more active citizenry.
+
+b. Link turns their offense—current transportation policy is overly reliant on expertism, the “white male” perspective—the process of debates about specific policy is the only way to inject lived experience into the discussion—their aff reaches too far
+Quick and Zhao, ’11 [October 2011, Kathryn S. Quick and Zhirong Jerry Zhao @ The Humphrey School of Public Affairs, University of Minnesota, “Suggested Design and Management Techniques for Enhancing Public Engagement in Transportation Policymaking”]
+The technical complexity inherent in transportation service planning, financing, and infrastructure development presents
+AND
+credibility of the agency or policy decisions [64,65,34].
+
+Third, we’ll advance a defense of the methodology of roleplaying—
+Their discourse as the state being racist justifies the exclusion of blacks from institutional engagement
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.83-84
+Not long ago a measure was introduced in a certain State Legislature to have the
+AND
+to conform to the policy of “keeping the Negro in his place.”
+
+This is discussion is necessary for effective black engagement in politics
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.94-95
+Even the few Negroes who are elected to office are often similarly uninformed and show
+AND
+internal improvements, labor arbitration, the tariff, and the merchant marine.
+
+The state must be used to end racism, it is inevitable without it
+Franklin 1993
+John Hope, James B Duke Professor Emeritus of History Duke University, 1985-1992 was Professor of legal History in the Law School at Duke University; THE COLOR LINE: Legacy for the Twenty First Century; p.73-74
+We now live in an age when the role of government is inevitably important whether
+AND
+of nation about which so many of us have dreamed but never realized.
+
+===1NC v. ACORN DT=== 
+The process of contest round debate is a competitive activity with debates about practices that set the best limit on the practices endorsed by judges – some degree of exclusion is inevitable in the way the rules of the game operate
+
+The affirmative creates a bad limit on the practices of the community
+First is our Resolutional Basis – The word Resolved means to declare by a formal vote
+Webster’s Revised Unabridged Dictionary, 1998 (dictionary.com)
+Resolved:
+5. To express, as an opinion or determination, by resolution and vote; to declare or decide by a formal vote; -- followed by a clause; as, the house resolved (or, it was resolved by the house) that no money should be apropriated (or, to appropriate no money).
+
+And, “United States Federal Government should” means the debate is solely about the outcome of a policy established by governmental means
+Ericson, 03 (Jon M., Dean Emeritus of the College of Liberal Arts – California Polytechnic U., et al., The Debater’s Guide, Third Edition, p. 4)
+
+The Proposition of Policy: Urging Future Action In policy propositions, each topic contains
+AND
+and compelling reasons for an audience to perform the future action that you propose
+
+Prefer our interpretation
+First, we will advance a dialogical switch side model of debate—Affirmative strategies that suspend basic fairness norms are EXCLUSIVE, substitutes for topical action do not accrue the same dialogical benefits of topical advocacy—
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 5-7
+Debate as a dialogue sets an argumentative table, where all parties receive a relatively
+AND
+substitutes for topical action do not accrue the dialogical benefits of topical advocacy.
+
+Two impacts—
+a. Critical thinking—only the process of switch side debate offers reasonable reflective thinking in making decisions—placing someone outside of their intial beliefs forces them to assess all possible outcomes and arrive at decisions—abdicating this process has grave consequences and risks a multitude of existential risks
+Harrigan, ‘08 [Casey Harrigan is an NDT champion, debate coach at UGA, thesis submitted to Wake Forest Graduate Faculty for Master of Arts in Communication, “A defense of switch side debate”, http://dspace.zsr.wfu.edu/jspui/bitstream/10339/207/1/harrigancd052008, p. 57-59]
+Along these lines, the greatest benefit of switching sides, which goes to the
+AND
+Hunt and Louden, 1999; Colbert, 2002, p. 82).
+
+b. Compromise—the current clash of civilizations can only be resolved within the framework of switch side debate and gives room for both performative and conventional argumentation
+GALLOWAY Asst Prof and Director of Debate @ Samford 2k7
+Ryan-former GMU debater; Dinner and Conversation at the Argumentative Table: Reconceptualizing Debate as an Argumentative Dialogue; CONTEMPORARY ARGUMENTATION AND DEBATE; Vol. 28; p. 1-3.
+By definition, debate coaches are contentious and the history of modern debate has been
+AND
+, I will answer potential criticisms to the debate as a dialogue construct.
+
+Second, we will advance a robust defense of the topic—Action oriented civic participation requires youth education about transportation policy details
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+Education is essential to the development of engaged citizens (O’Neill 2007). Educating young
+AND
+with transportation can change their perceptions and encourage action-oriented civic participation.
+
+Two impacts—
+a. Changing transportation policy requires a more active citizenry
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+Canadian youth already participate in civic groups and insurgent political activities around sustainable transportation.
+AND
+civic initiatives, young people could be part of a more active citizenry.
+
+b. Link turns their offense—current transportation policy is overly reliant on expertism, the “white male” perspective—the process of debates about specific policy is the only way to inject lived experience into the discussion—their aff reaches too far
+Quick and Zhao, ’11 [October 2011, Kathryn S. Quick and Zhirong Jerry Zhao @ The Humphrey School of Public Affairs, University of Minnesota, “Suggested Design and Management Techniques for Enhancing Public Engagement in Transportation Policymaking”]
+The technical complexity inherent in transportation service planning, financing, and infrastructure development presents
+AND
+credibility of the agency or policy decisions [64,65,34].
+
+Third, we’ll advance a defense of the methodology of roleplaying—
+Their discourse as the state being racist justifies the exclusion of blacks from institutional engagement
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.83-84
+Not long ago a measure was introduced in a certain State Legislature to have the
+AND
+to conform to the policy of “keeping the Negro in his place.”
+
+This is discussion is necessary for effective black engagement in politics
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.94-95
+Even the few Negroes who are elected to office are often similarly uninformed and show
+AND
+internal improvements, labor arbitration, the tariff, and the merchant marine.
+
+The state must be used to end racism, it is inevitable without it
+Franklin 1993
+John Hope, James B Duke Professor Emeritus of History Duke University, 1985-1992 was Professor of legal History in the Law School at Duke University; THE COLOR LINE: Legacy for the Twenty First Century; p.73-74
+We now live in an age when the role of government is inevitably important whether
+AND
+of nation about which so many of us have dreamed but never realized.
+===1NC v. Baltimore City College=== 
+Debate is a competitive activity that centers around a policy question within the resolution – their abandonment of traditional fiat abandons training and inspiration of students to find careers in the halls of power and instead pursue marginal social movements ceding the halls of power to the right
+COVERSTONE Dir of Debate @ Montgomery Bell Academy 2k6
+Alan-former debater @ Wake, MBA = private prep school in Nashville; “Acting on Activism”;
+DEBATER’S RESEARCH GUIDE (DRG), National Service Topic; Stephen Bauschard, editor;
+[[http://groups.wfu.edu/debate/MiscSites/DRGArticles/DRGArtiarticlesIndex.htm]]
+The power to imagine public advocacy that actually makes a difference is one of the
+AND
+middle ground that preserves the American tradition of debate and deliberation within government.
+
+Their articulation of fiat and the use of the Federal Government serves a disservice to the education of Black People through debate.
+
+To deny a discussion of political workings through the role play of federal government in the name of race is almost BACKWARDS and serves the exclusionary historical practices of white supremacy.
+
+BLACKS WERE DENIED EDUCATIONAL OPPORTUNITIES WITHIN POLITICS
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.83-84
+Not long ago a measure was introduced in a certain State Legislature to have the
+AND
+to conform to the policy of “keeping the Negro in his place.”
+
+Debate cannot be limited to discussions of racial exclusionary practices. The topic provides opportunity for Black debaters to learn about modern day politics and gain important training to become active and meaningful participants in modern day democratic decisionmaking. To avoid discussion of the topic seems to revert back to historical discriminatory educational practices utilized to disempower and subject blacks to inferior positions within society.
+
+Blacks were not supposed to discuss issues of the day and were limited to racial discussions for the support or CRITICISM of politicians seeking office
+WOODSON founder of the Association for the Study of Negro Life and History 1933
+Carter G.- (1875-1950), African American historian and educator; founder and editor of the Journal of Negro History and the Negro History Bulletin; THE MISEDUCATION OF THE NEGRO; p.92
+In the North the Negroes have a better chance to acquire knowledge of political matters
+AND
+Negro while the highly favorable party was doing so much for the race.
+
+The state is the only thing that can effectively solve racism
+Franklin 1993
+John Hope, James B Duke Professor Emeritus of History Duke University, 1985-1992 was Professor of legal History in the Law School at Duke University; THE COLOR LINE: Legacy for the Twenty First Century; p. 45
+Neither the courts nor the Congress nor the president can declare by fiat, resolution
+AND
+it and, indeed, would be horrified if we even approached it.
+
+===2NC AT Mitchell=== 
+Mitchell changed his mind. Fiat-oriented debate is better than the activist model.
+Gordon Mitchell, debate coach at Pittsburgh, Nov 09 2002, http://www.ndtceda.com/archives/200211/0136.html
+Politically I have moved quite a bit since 1998, when I wrote that debate
+AND
+students of opportunities to experience the rich political valence of their debating activities.
+
+Plan focused debate is the only way to preserve reflective analysis
+Roger Solt, “What is Debate Theory” Passed out at the MNDI, 1994
+It could be argued that we are a society with too many advocates and too
+AND
+topical action proposed by the affirmative is part of the optimal policy package.
+
+Reflexive analysis is key to stopping extinction – placing someone outside of their initial beliefs forces them to access all possible outcomes which stops the pattern of bad decisionmaking that ruins our ability to solve global challenges
+Harrigan, ‘08 [Casey Harrigan is an NDT champion, debate coach at UGA, thesis submitted to Wake Forest Graduate Faculty for Master of Arts in Communication, “A defense of switch side debate”, http://dspace.zsr.wfu.edu/jspui/bitstream/10339/207/1/harrigancd052008, p. 57-59]
+Along these lines, the greatest benefit of switching sides, which goes to the
+AND
+Hunt and Louden, 1999; Colbert, 2002, p. 82).
+
+===2NC AT Giourx=== 
+State inevitable
+Thayer 2k [Assistant Professor of Political Science @ University of Minnesota-Duluth (Bradley A. “Bringing in Darwin: Evolutionary Theory, Realism, and International Politics” International Security, Vol. 25, No. 2. Autumn. JSTOR p. 135-136)]
+Humans and other primates evolve a mental architecture to address the difficulties they encounter when
+AND
+modern state and its many institutions, including government bureaucracies and the military.
+
+Solvency deficit – without political system – we are spectators who can’t change anything
+Rorty 98 – professor emeritus of comparative literature and philosophy, by courtesy, at Stanford University (Richard, “ACHIEVING OUR COUNTRY: Leftist Thought in Twentieth-Century America”, 1998, Pg. 7-9)
+Such people find pride in American citizenship impossi­ble, and vigorous participation in electoral politics
+AND
+spark of reason in him will sit down fatalistically before the croaker's picture.
+
+Engaging institutions is key to solve – the alternative can’t get anything done
+Grossberg, 92 (Lawrence, Morris Davis Professor of Communication Studies at the University of North Carolina at Chapel Hill, “We Gotta Get Out of this Place: Popular Conservatism and Postmodern Culture”, page 388-389)
+The demand for moral and ideological purity often results in the rejection of any hierarchy
+AND
+reasonably democratic structures of institutionalization, even if they are impure and compromised. 
+
+Refusal to debate policy action kills education and cedes the discussion to elites
+Walt 1991 (Stephen, Professor at the University of Chicago, International Studies Quarterly 35)
+A second norm is relevance, a belief that even highly abstract lines of inquiry
+AND
+are likely when national policy is monopolized by a few self interested parties.
+
+Impact is extinction
+Boggs 1997(Carl, Professor of Political Sience – National University, Theory & Society 26, December, p. 773-4)
+The decline of the public sphere in late twentieth-century America poses a series
+AND
+of those universal, collective interests that had vanished from civil society.75
+===2NC Thomas=== 
+We control uniqueness—young people are disengaged from issues of transportation—
+Thomas, ’08 [Summer 2008, Critical Planning, Ren Thomas is a doctoral student in Community and Regional Planning at the University of British Columbia “Engaged or Disinterested? Youth Political and Civic Participation in Canadian Transportation Planning”, http://renthomas.ca/wp-content/uploads/2008/02/thomas-article.pdf]
+While many adults believe that young people are capable of having political discussions, becoming
+AND
+form of protest and resistance to state and capital infrastructure such as highways.
+
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,17 @@
+=Yo= 
+If you have any cite requests, please email me at bawdebate [at] gmail [dot] com.
+
+We generally won't post a lot of what we run very quickly just because I dread reformating them to look nice on the wiki. However, I do religiously update our intel/strategy page, so you can trust the accuracy of that.
+=Cites= 
+===Affirmative=== 
+[[debatecoaches/Cites Field Kindley#Affirmative-Hydrogen%201AC%20-%20Broke%20Round%201%20vs%20BVW%20@%20Washburn%20Rural|Hydrogen 1AC]]
+[[debatecoaches/Cites Field Kindley#Affirmative-Port%20Security%201AC%20(Broke%20at%20Hutch%20vs%20El%20Dorado%20McKibban%20and%20partner)|Bioterror Port Security 1AC]]
+[[debatecoaches/Cites Field Kindley#Affirmative-RLV's%201AC%20-%20Broke%20Round%201%20vs%20SMC%20EK%20@%20Pittsburg|Reusable Launch Vehicles 1AC]]
+[[debatecoaches/Cites Field Kindley#Affirmative-Mississippi%20River%201AC%20-%20Broke%20Round%202%20vs.%20lol%20idk%20(lay)|Mississippi River 1AC]]
+===Negative=== 
+[[debatecoaches/Cites Field Kindley#Negative-Disads|Disadvantages]]
+[[debatecoaches/Cites Field Kindley#Negative-Counterplans|Counterplans]]
+[[debatecoaches/Cites Field Kindley#Negative-Counterplans|Criticisms]]
+[[debatecoaches/Cites Field Kindley#Negative-Strats/Intel|Strategies]]
+[[DCI Shenanigans|DCI Stuff]]
+[[include page="space.template.Footer"]]

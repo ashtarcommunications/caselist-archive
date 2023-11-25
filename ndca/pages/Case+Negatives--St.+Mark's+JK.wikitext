@@ -1,0 +1,33 @@
+[[toc]]
+=Case Negs= 
+
+==ORS== 
+
+===CP Dependency=== 
+
+====1NC==== 
+
+<span class="Underline">**Text: The United States federal government should substantially decrease dependence on space assets in favor of near-space assets, starting with mission critical capabilities including but not limited to early warning satellites.** </span>
+<span class="Underline"> </span>
+<span class="Underline">**That solves vulnerability and prevents an arms race**</span>
+<span class="Underline">**Weston, Air Force Major, 9**</span><span style="font-size: 6pt;"> (Scott A., 3/1/2009, Air and Space Power Journal, “Examining Space Warfare,” </span><span style="font-size: 6pt;">[[http://www.airpower.maxwell.af.mil/airchronicles/apj/apj09/spr09/weston.html]]</span><span style="font-size: 6pt;">, mat)</span>
+
+<span style="font-size: 6pt;">The main argument for US weaponization of..., and even security advantages.</span>
+
+
+===DA Miscalculation=== 
+
+====1NC==== 
+<span class="Underline">**ORS causes political paralysis that guts solvency and makes nuclear miscalc inevitable- the counterplan solves**</span>
+<span class="Underline">**Brown, Air Force Colonel, PhD 6** </span><span style="font-size: 6pt;">(Kendal K., Summer, Air and Space Power Journal, “Is Operationally Responsive Space the Future of Access to Space for the US Air Force,” </span><span style="font-size: 6pt;">[[http://www.airpower.maxwell.af.mil/airchronicles/apj/apj06/sum06/brown.html]]</span><span style="font-size: 6pt;">, mat)</span>
+
+<span style="font-size: 6pt;">Perhaps </span>we won’t need an ...<span style="font-size: 6pt;"> strategic surprise</span>of<span style="font-size: 6pt;">the</span>ORS<span style="font-size: 6pt;">system? </span>Probably<span class="Underline"> so. </span>
+
+**Degrading early warning systems creates “use them or loss them” mentality- nuclear war**
+**Finlay, MA in International Relations, 7** <span style="font-size: 6pt;">(12/11, Brian, Weapons of Mass Destruction Reference Guide, “U.S.-Russian Ballistic-Missile Early-Warning Cooperation,” http://www.veteransforameric</span>
+<span style="font-size: 6pt;">a.org/wp-content/uploads/2008/01/22-early-warning-final.pdf, mat)</span>
+
+<span style="font-size: 6pt;">The United States’ combination of space-based sensors and ... system, Russia will have less time available to decide … whether to launch a retaliatory response.</span>
+
+
+[[include page="space.template.Footer"]]

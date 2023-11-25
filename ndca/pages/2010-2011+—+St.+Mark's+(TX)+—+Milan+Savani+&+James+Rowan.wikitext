@@ -1,0 +1,7 @@
+[[toc]]
+=Affirmative= 
+
+No longer partners
+=Negative= 
+
+[[include page="space.template.Footer"]]

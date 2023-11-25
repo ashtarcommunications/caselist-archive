@@ -1,0 +1,7 @@
+Only a few minor changes for 2011-2012:
+
+**1. No more emdashes**. While elegant, their use proved too difficult to standardize. We will use plain old hyphens (the key between 0 and + on most keyboards) this year. Please follow the standard format.
+
+**2. Please treat this space with respect**. Do not post jokes, diatribes about disclosure, chat conversations, images, videos, etc. and do not deface the wiki. While you might think that you are being funny, you are really just creating more work for the volunteers that manage this resource. The "wiki war" was kind of funny, but everything else was stupid and annoying. Treat this space like a library, not a playground.
+
+**3. Feel free to experiment with structure and formatting on your page(s)**. Some teams/debaters have used Scribd, Google Docs, multiple pages, etc. Just make sure your disclosure is linked in the standardized way from this wikispace so that it is universally accessible.

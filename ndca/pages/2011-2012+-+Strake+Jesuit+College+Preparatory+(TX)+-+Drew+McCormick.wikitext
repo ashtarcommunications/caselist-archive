@@ -1,0 +1,17 @@
+[[toc]]
+=September-October= 
+==It's all on John Heizelman's wiki. My cases are the ones without aquinas cards.== 
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

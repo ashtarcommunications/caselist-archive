@@ -1,0 +1,265 @@
+===== ===== 
+[[toc]]
+===Cites=== 
+<span style="font-size: 1.1em;"> Aff: <span style="background-color: initial;">[[mailto:ryanzhang95@gmail.com|ryanzhang95@gmail.com]]</span> Neg: [[mailto:geneva124@hotmail.com|geneva124@hotmail.com]]</span>
+=Affirmative= 
+
+==__**1AC Capitol**__== 
+**Plan Text: The United States Federal Government should develop and demonstrate inflatable space-based solar power.**
+
+===Contention 1 is Hegemony=== 
+
+**The U.S. industrial base is collapsing – lack of funding and procurement**
+<span style="font-size: 12pt;">Grant 11</span><span style="font-size: 8pt;"> (Rebecca Grant, Ph.D. in International Relations from the London School of Economics, Director of the General William Mitchell Institute for Airpower Studies, worked for RAND and the offices of the Secretary of the Air Force and Chief of Staff of the Air Force, president of IRIS Independent Research, contributor to Air Force Magazine, has written extensively on airpower, 6/20/11, “Crunch Time for the Industrial Base”, http://www.airforce-magazine.com/MagazineArchive/Pages/2011/June%202011/0611base.aspx)</span>
+
+<span style="font-size: 80%;">Defense budgets are flat<span style="font-family: 'Arial Narrow';">...</span>(The newly approved KC-46A begins life as a commercial airframe.)</span>
+
+**And, a strong industrial base is key to US military power and hegemony**
+<span style="font-size: 12pt;">NAW 10</span> (National Aerospace Week, September 18, “Aerospace and Defense: The Strength to Lift America,” http://www.nationalaerospaceweek.org/wp-content/uploads/2010/04/whitepaper.pdf)
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">The beginning of a new decade presents the defense industry with challenges that aren’t new, but are becoming more urgent...</span>Therefore, <span class="UnderlineChar">sound government policy is essential not only to maintain current capabilities, but to ensure that a technology and manufacturing base exists to develop new ones.</span></span>
+
+**<span style="color: black;">And heg solves all global problems – it’s better than the alternatives</span>**
+<span style="font-size: 12pt;">Thayer 6</span><span style="color: black; font-size: 8pt;"> [Bradley Thayer, Associate Professor in the Department of Defense and Strategic Studies at Missouri State University, “In Defense of Primacy”, The National Interest, December (lexis)]</span>
+
+<span style="font-size: 80%;">THROUGHOUT HISTORY, peace and stability have been great benefits of an era where there was a dominant power...</span>
+<span style="color: black; font-family: 'Arial Narrow'; font-size: 80%;">As a witness to the failed alternative economic systems, Lal is one of the strongest academic proponents of American primacy due to the economic prosperity it provides.</span>
+
+**And the aerospace industry drives the US economy**
+<span style="font-size: 12pt;">NAW 10</span>(September 18, National Aerospace Week, “Aerospace and Defense: The Strength to Lift America,” <span style="color: windowtext; text-decoration: none;">[[http://www.nationalaerospaceweek.org/wp-content/uploads/2010/04/whitepaper.pdf]]</span>)
+
+<span style="font-family: 'Arial Narrow'; font-size: 80%;">As the U.S. economy moves through uncertain times, America’s aerospace industry remains a powerful, reliable engine of employment, innovation and export income... </span>
+<span style="font-family: 'Arial Narrow'; font-size: 80%;">We need to better incorporate flexible work styles into our workplace to reduce the voluntary attrition rate of young professionals and increase the representation of women and minorities among our numbers.</span>
+
+**And, economic decline causes global nuclear war**
+<span style="font-size: 12pt;">Friedberg and Schoenfeld 8</span> (Aaron, prof. of politics and IR at Princeton University's Woodrow Wilson School, and Gabriel, senior editor of Commentary, visiting scholar at the Witherspoon, 10/21/08, “The Dangers of a Diminished America,” [[http://online.wsj.co...4012352571.html]])
+
+<span style="font-size: 80%;">With the global financial system in serious trouble, is America's geostrategic dominance likely to diminish? If so, what would that mean?...</span>
+<span style="font-size: 80%;">The economic crisis could be the straw that breaks the camel's back.</span>
+
+**And, federal SSP investment revitalizes the industrial base and secures aerospace dominance**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office of the United States Federal Government, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf)</span>
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">FINDING: The SBSP Study Group found that </span>SBSP directly addresses the concerns<span style="font-family: 'Arial Narrow';"> of the Presidential Aerospace Commission </span>which called on the US to become a true spacefaring civilization and to pay closer attention to our aerospace technical and industrial base, our “national jewel” which has enhanced our security, wealth, travel, and lifestyle...An SBSP program would be a powerful expression of this imperative.</span>
+
+**And, the key internals are workforce and innovation – SSP solves both**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf)</span>
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">FINDING: The SBSP Study Group found that </span>SBSP offers a path to address the concerns over US intellectual competitiveness in math and the physical sciences<span style="font-family: 'Arial Narrow';"> expressed by the Rising Above the Gathering Storm report </span>by providing a true “Manhattan or Apollo project for energy...S<span class="UnderlineChar">B</span>SP would require a substantial technical workforce<span class="UnderlineChar"> of high</span><span style="font-family: 'Cambria Math';">‐</span><span class="UnderlineChar">paying jobs</span>. <span class="UnderlineChar">It would require expanded technical education opportunities, and directly support the underlying aims of the American Competitiveness Initiative.</span></span>
+
+**And, the second internal link is military oil dependence**
+
+**Operational demands means it isn’t sustainable in the long-term – alternatives are key**
+<span style="font-size: 12pt;">Crowley et al. 7</span> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 7 //KX)//
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">Recent experience indicates that </span>the nature of the threat facing the U<span style="font-family: 'Arial Narrow';">nited </span>S<span style="font-family: 'Arial Narrow';">tates </span>is changing...<span style="font-family: 'Arial Narrow';">Therefore, </span>DoD must apply new energy technologies that address alternative supply sources and efficient consumption across all aspects of military operations<span style="font-family: 'Arial Narrow';">. )</span></span>
+
+**And, continued reliance on oil tanks heg – burdens hurt effectiveness**
+<span style="font-size: 12pt;">Crowley et al. 7</span> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 8-9 KX)
+
+<span style="font-size: 80%;">The goal of our security strategies is to shape the future security environment favorably to support our national interests<span style="font-family: 'Arial Narrow';">, principles, freedoms, and way of life... Thus, </span>investment for future combat capability must increasingly compete with growing operating costs and logistic support requirements. </span>
+
+**And, SSP is key to forward deployment – solves fuel, logistics, and equipment burdens**
+<span style="font-size: 12pt;">Ramos 2K</span> (Kim, Major in the United States Air Force and 82nd Training Group Commander, April 2000, “Solar Power Constellations
+Implications for the United States Air Force”, [[http://www.dtic.mil/cgibin/GetTRDoc?AD=ADA394928&Location=U2&doc=GetTRDoc.pdf]] pg. 13-15 //KX)//
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">In addition to information superiority, </span>one of the emerging operational concepts<span style="font-family: 'Arial Narrow';"> expressed in Joint Vision 2010 </span>is focused logistics<span style="font-family: 'Arial Narrow';">....</span>In addition to reducing airlift, using power from a satellite would reduce the fuel required for generators, minimize hazardous emissions and waste, reduce heat signatures, and eliminate a plethora of support equipment, war readiness<span style="font-family: 'Arial Narrow';"> spares kits, tools, and spillage clean up kits.)</span></span>
+
+**And, military usage ensures rapid development**
+
+<span style="font-size: 12pt;">Lemonick 9</span> (Michael D., senior writer at Climate Central, a nonpartisan organization whose mission is to communicate climate science to the public, former senior writer at Time magazine, citing Paul Damphousse, Chief Engineer for the Communications Functional Integration Office of the National Security Space Office, 8/31/09, “Solar Power from Space: Moving Beyond Science Fiction”, [[http://e360.yale.edu/content/feature.msp?id=2184]] KX)
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">The first, he said, is that “</span>we’re obviously interested in energy security, and by being an early customer, the government can rapidly accelerate development of the technology<span style="font-family: 'Arial Narrow'; line-height: 16px;">...</span>For those reasons, <span class="UnderlineChar">Damphousse supports the idea of coordinated studies by the Pentagon</span> and other agencies — such as NASA and the Department of Energy — <span class="UnderlineChar">that would have a stake in space-based power</span>.)</span>
+
+===Contention 2 is Warming=== 
+
+**Warming is real and human induced – drastic emissions reductions are key to avoid dangerous climate disruptions**
+<span style="font-size: 12pt;">Somerville 11</span> (Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis)
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">In early 2007, at the time of the publication of WG1 of AR4, </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">the mainstream global community of climate scientists</span><span style="font-family: 'Arial Narrow';"> already </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">understood from the most recent research that </span><span style="font-family: 'Arial Narrow';">the latest observations of climate change were disquieting...The Copenhagen Diagnosis also cites research supporting the position that, </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">in order to have a reasonable likelihood of avoiding the risk of dangerous climate disruption</span><span style="font-family: 'Arial Narrow';">, defined by this 2 degree Celsius (or 3.6 degree Fahrenheit) limit, </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">global emissions</span><span style="font-family: 'Arial Narrow';"> of greenhouse gases such as carbon dioxide </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">must peak and then start to decline rapidly within</span><span style="font-family: 'Arial Narrow';"> the next five to </span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">ten years</span><span style="font-family: 'Arial Narrow';">, reaching near zero well within this century.</span></span>
+
+**Leading climate scientists agree that’s it’s real and caused by humans**
+McClure and Stiffler 7<span style="font-size: 8pt; text-decoration: none;"> [Robert and Lisa, writers for Seattle Pi, February 1, Seattle Metro Daily, “Scientists agree: Humans causing global warming”, [[http://www.seattlepi.com/local/article/Scientists-agree-Humans-causing-global-warming-1227187.php]]]</span>
+
+<span style="font-size: 80%;">Using their strongest language to date, the world's leading climate scientists are reporting today that they are basically certain that burning gasoline, coal and other fossil fuels has unnaturally heated the atmosphere -- and the effects are likely to last for centuries...</span>
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">The scientists also highlighted an increasingly worrisome global trend: acidification of the oceans</span><span class="UnderlineChar" style="font-family: 'Arial Narrow';">, which could unravel the marine web of life</span><span style="font-family: 'Arial Narrow';">. It is caused by the carbon dioxide spewed out by power plants, cars and countless other sources, as well as methane and other gases.</span></span>
+
+
+**Warming causes extinction – only SPS solves**
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;"> (Dr. Feng Hsu, Sr. Vice President of Systems Engineering & Risk Management Space Energy Group, 2010, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, <span style="color: black; text-decoration: none;">[[http://spacejournal.ohio.edu/issue16/hsu.html]]</span>)</span>
+
+<span style="font-family: 'Arial Narrow'; font-size: 80%;">It has become increasingly evident that facing and solving the multiple issues concerning energy is the single most pressing problem that we face as a species...</span>
+<span style="font-size: 80%;">What is imperative is that we start to do something in a significant way that has a chance to make a difference.</span>
+
+**Specifically, SPS replaces use of fossil fuels and reduces the buildup of CO2 in the atmosphere – key internal**
+<span style="font-size: 12pt;">Jenkins 9</span> <span style="font-size: 8pt;">(Lyle Jenkins, Engineer at NASA, December 2009, “Development of Space-Based Solar Power”, [[http://www.intechopen.com/articles/show/title/development-of-space-based-solar-power]])</span>
+
+<span style="font-size: 80%;">The risks identified through the rigor of the<span style="font-family: 'Arial Narrow';"> U.S. Global Change Research Program (USGCRP) must provide the motivation for action toward sustainable systems....</span></span>
+<span style="font-size: 80%;">The anticipated benefit to the Earth’s environment is the overarching objective that may provide support for technology development and demonstration toward space solar power for use on Earth.</span>
+
+===Contention 3 is Solvency=== 
+**Put away your solvency takeouts – your evidence doesn’t assume inflatable SPS**
+<span style="font-size: 12pt;">Brown 9</span>(Trevor, MSc from Nanyang Technological University, BA from Indiana University<span class="apple-converted-space">//<span style="color: black; font-family: Georgia;">, </span>//</span>2009, “SSP: a spherical architecture,” The Space Review, [[http://www.thespacereview.com/article/1383/1]])
+<span style="font-size: 80%;">The spherical concept would enable cost-to-orbit factors to be lowered considerablyas the platform would weigh much less than conventional models and would require far fewer launches to be brought online....<span style="font-family: 'Arial Narrow';"> Perhaps </span>the resources engendered from the success of spherical SSP could then in turn be utilized to advance the aforementioned capabilities for other commercial, scientific, or military endeavors in the medium of space.</span>
+
+**Initial government demonstration is key to catalyze full private sector development of an SSP industry**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power: As an Opportunity for Strategic Security”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA473860&Location=U2&doc=GetTRDoc.pdf)]]</span>
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">The SBSP Study Group concludes </span>that space<span style="font-family: 'Cambria Math';">‐</span>based solar power does present a strategic opportunity that could significantly advance US and partner security, capability, and freedom of action and meritssignificant further attention on the part of both the US Government and the private sector...The SBSP Study Group recommends that the U.S. Government should become an early demonstrator/adopter/customer of S<span class="BoldUnderlineChar">B</span>SPand incentivize its development.</span>
+
+**The technology exists now – all that remains is government inaction**
+<span style="font-size: 12pt;">Goldenberg 9</span><span style="font-size: 8pt;"> (Suzzane Goldenberg, is the [[http://www.guardian.co.uk/environment|US environment correspondent ]]of the Guardian, “ US power company to tap solar energy in space”)</span>
+
+<span style="font-size: 80%;"><span style="font-family: 'Arial Narrow';">Solaren has released relatively few details about the project...</span>"The bottom line is that this is not really a technology issue."</span>
+
+**<span class="CiteChar">A pilot program can be up and running in a year</span>**
+<span style="font-size: 12pt;">Costa 10</span>(sociobiologist, expertise is to spot and explain emerging trends in relationship to human evolution, global markets, and new technologies, a popular speaker at thought-leader and technology conferences as well as major universities, the former CEO of Silicon Valley start-up Dazai Advertising, Inc. Costa’s clients included technology giants such as Apple Computer, Hewlett- Packard, Oracle Corporation, 3M, Amdahl, Seibel Systems and General Electric, Rebecca, “Can NASA Save a Struggling America?” Clean Technica, 11/1/2010, [[http://cleantechnica.com/2010/11/01/can-nasa-save-struggling-america/]] | ZA)
+
+<span style="font-size: 80%;">If we took a moment to rank every government agency in the United States on the basis of tackling complex problems, NASA would have to be at the top of everyone’s list...We have NASA to thank for an opportunity to eclipse every other energy solution here on earth.</span>
+
+**Demonstration of SPS would only cost $500 million – launch costs reduce dramatically following initial demonstration**
+<span style="font-size: 12pt;">Rubenchik 9</span><span style="font-size: 8pt;">(Alexander M Rubenchik, is a physicist at Lawrence Livermore National Laboratory, April 2009, “Solar Power Beaming: From Space to Earth”, http://scholar.google.com/scholar?q=%E2%80%9CThe+cost+to+deploy+the+first+space-based+solar+energy+system+is+estimated+at+approximately+%24500+million.+A+significant+percentage+of+this+cost+is+attributed+to+the+laser%2C+the+solar+reflector%2Fcollector+systems%E2%80%9D+&hl=en&btnG=Search&as_sdt=1%2C30&as_sdtp=on, Date accessed June 24, 2011)</span>
+
+<span style="font-family: 'Arial Narrow'; font-size: 80%;">The cost to deploy the first space-based solar energy system is estimated at approximately $500 million...Although this initial system may be far from economical, it certainly can stimulate the technological development (as an example, the solar power beaming lift vehicle) to reduce costs, such that space-based solar power can be an economic realization in the not too distant future.</span>
+
+**Perception of SPS development independently causes international cooperation on warming**
+<span style="font-size: 12pt;">Medin 10</span> (Kristen, Chief Industrial Designer, NewSpace DesignLabs, “Disruptive Technology: A Space-Based Solar Power Industry Forecast,” Online Journal of Space Communication, Issue no. 16, Winter 2010, http://spacejournal.ohio.edu/issue16/medin.html)
+
+<span style="font-size: 80%;"><span style="color: black; font-family: 'Arial Narrow';">Now,</span> multiple nations are exploring the prospects for launching a new breed of satellites designed to harvest solar power in space<span style="color: black; font-family: 'Arial Narrow';">, transmitting it from geosynchronous orbit to terrestrial receivers. If these plans turn out, solar power satellites will radically change the ways we harness and distribute energy.</span><span class="apple-converted-space" style="color: black; font-family: 'Arial Narrow';"> ...</span>We can focus on addressing the important issues of tomorrow with increased global cooperation<span style="color: black; font-family: 'Arial Narrow';">.</span></span>
+
+
+
+
+=Negative= 
+==XO CP== 
+The President of the United States should mandate an executive order to substantially increase its exploration and/or development of space beyond the Earth’s mesosphere by launching the deep space climate observatory
+**A. Definitional: “The” means all parts – they’re definitionally bound to defending all branches**
+<span style="font-size: 12pt;">Merriam-Webster's </span>Online Collegiate Dictionary,<span style="font-size: 12pt;">No Date,</span>
+http://www.m-w.com/cgi-bin/dictionary
+
+<span style="font-size: 80%;">Used as a function word before a noun or a substantivized adjective to indicate reference to a group as a whole <the elite></span>
+
+**B. Resolutional – Resolved means legislative action**
+<span style="font-size: 12pt;">Lousiana House of Representatives 5</span> (http://house.louisiana.gov/house-glossary.htm)
+
+<span style="font-size: 80%;">Resolution A legislative instrument that ...governor's veto.</span>
+
+**C. Executive orders have force of law, are quick, avoid politics, and are difficult to overturn**
+Phillip J. <span style="font-size: 12pt;">Cooper</span>, Professor of Liberal Arts @ University of Vermont, 20<span style="font-size: 12pt;">02</span>(By Order of the President: The Use and Abuse of Executive Direct Action) p. 58-9
+
+<span style="font-size: 80%;">Executive orders are often used because they are quick, convenient, and relatively easy mechanisms for moving significant policy initiatives...President Kennedy’s executive order on that process specifically provides for orders generated elsewhere.</span>
+
+==Politics== 
+**Super Committee will succeed – pressure and bipartisan agreements**
+<span style="font-size: 12pt;">Taylor 10/10 </span>(Andrew Taylor , the Associated Press “Deficit 'supercommittee' struggles as clock ticks” 10/10/11 http://www.federalnewsradio.com/?nid=108&sid=2584237)
+
+<span style="font-size: 80%;"><span class="UnderlineChar">To be sure, </span>the supercommittee still has time...I don't underestimate how hard it's going to be to come to an agreement by the so-called supercommittee, but we have to get to one."</span>
+
+**New spending makes agreement impossible—Medicare and JSC letter prove**
+<span style="font-size: 12pt;">McCarthy and Harder 10/11</span> (Meghan, Staff Writer, Health Policy, covers health policy throughout Washington for National Journal, worked at Congressional Quarterly, where she covered the House of Representatives and contributed to CQ Healthbeat; and Amy, Energy and Environment Correspondent, reports on energy and the environment for National Journal and moderates an expert blog on the topic as well, was a staff writer for the Reporters Committee for Freedom of the Press, “Energy and Commerce Dems Go Left on Super Committee Recommendations” Proquest)
+
+<span style="font-size: 80%;"><span class="UnderlineChar">Many of the recommendations will not trigger actual savings</span>...The recommendations are nonetheless important because they show how much House Democrats have lowered their expectations about what they expect this Congress to pass compared to the 111th session, which included a close vote passing legislation that placed a price on climate-change pollution.</span>
+
+**Stalemate causes huge defense cuts that collapses hegemony**
+<span style="font-size: 12pt;">Conant 9/2/</span>11 (Ed, retired U.S. Navy officer and defense industry executive who spent nearly 30 years in Washington, Savannah Morning News, “Conant: Keep loopholes? Cut military?,” http://savannahnow.com/column/2011-09-02/conant-keep-loopholes-cut-military#.Tmj3kOvgJD0)
+
+<span style="font-size: 80%;">In the next several months politicians will make critical decisions about the funding and strength of our military. This could boil down to a choice between making excessive military cuts or increasing revenues by closing tax loopholes...<span class="UnderlineChar">Rather, we must recognize that short-sighted and politically motivated </span>military cuts demonstrate national weakness<span class="UnderlineChar">, and invites others to fill the power vacuum thus created. </span></span>
+
+**Global nuclear war**
+**KHALILZAD 95** [ZALMAY, Zalmay, Rand Corporation, The Washington Quarterly]
+
+<span style="font-size: 80%;">Under the third option, <span class="UnderlineChar">the United States would seek to retain global leadership and to preclude the rise of a global rival or a return to multipolarity</span> for the indefinite future....Finally, <span class="UnderlineChar">U.S. </span>leadership would help preclude the rise of another hostile global rival, enabling the United States and the world to avoid another global<span class="UnderlineChar"> cold or hot </span>war<span class="UnderlineChar"> and all the attendant dangers, including a global nuclear exchange</span>__.__ U.S. leadership would therefore be more conducive to global stability than a bipolar or a multipolar balance of power system.</span>
+
+==Astropolitics== 
+**A. Militaristic space discourse is a thin veneer for narcissistic validation of dominant forms of the RealPolitik. A critical stance is key to end the cycle of self-validation.**
+<span style="font-size: 12pt;">Macdonald, 7</span> – Professor of Human Geography at the University of Melbourne (Fraser, Anti-Astropolitik: Outer Space and the Orbit of Geography, Online) Progress in Human Geography, Oct2007, Vol. 31 Issue 5, p592-615
+
+<span style="font-size: 80%;">Two things should now be clear. ...Tuathail’s criticalproject, by contrast, seeks to recover the political and historical contexts through which the knowledge of Mackinder and Mahan has become formalized.</span>
+
+**B. The empire is all consuming. Those in power will use it to control humanity from space in ways impossible within the realm of earth-based geopolitics. Dominant paradigms reduce the likelihood of resistance by deserting the population to bare-life.**
+<span style="font-size: 12pt;">Havercroft and Duvall 9</span> (Jonathan, Ph.D. Minnesota) <span style="font-size: 6pt;">specializes in political theory. His primary research focus is on the historical transformation of sovereignty in the discourses of political philosophy from the 17th century to the present. He has also published essays grappling with conceptions of freedom, power, and sovereignty in early modern and contemporary political thought. His work has appeared in Constellations and Review of International Studies, and Raymond, professor of political science at the University of Minnesota, </span>“Critical astropolitics: The geopolitics of space control and the transformation of state sovereignty” From Securing Outer Space, pg. 56-57)
+
+<span style="font-size: 80%;">In his Astropolitik Dolman calls upon U.S. defense policy-makers to weaponize orbital space so as to enhance U.S. hegemony over the planet...Under such a political arrangement the likelihood that the imperial center would be a benevolent one, uncorrupted by its total domination of the Earth, is very slim indeed.</span>
+
+**C. The alternative is vote neg to reject security logic. Only direct resistance can return the government issued gift of security.**
+<span style="font-size: 12pt;">Neocleous 8</span> (Mark, Professor of the Critique of Political Economy; Head of Department of Politics & History Brunel Univ, Critique of Security, 185-6)
+
+<span style="font-size: 80%;"><span class="UnderlineChar">The only way out of such a dilemma, to escape the fetish, is perhaps to eschew the logic of security</span>altogether<span style="font-family: 'Arial Narrow';"> - </span>to reject it as so ideologically loaded in favour of the state that any real political thought other than the authoritarian and reactionary should be pressed to give it up...<span style="font-family: 'Arial Narrow';"> But it certainly requires recognising that security is an illusion that has forgotten it is an illusion; it requires recognising that security is not the same as solidarity;</span> it requires accepting that insecurity is part of the human condition, and thus<span style="font-family: 'Arial Narrow';"> giving up the search for the certainty of security and instead </span>learning to tolerate the uncertainties, ambiguities and 'insecurities' that come with being human;<span style="font-family: 'Arial Narrow';"> it requires accepting that </span><span class="UnderlineChar">'securitizing' an issue does not mean dealing with it politically, but bracketing it out and handing it to t</span></span>
+==ESA CP== 
+**Text: The European Space Agency should substantially increase its Space Situational Awareness capabilities, including capabilities aimed at detecting solar flares.**
+**The ESA alone can solve without nasa’s help**
+<span style="font-size: 12pt;">Harris</span>, 7-22-<span style="font-size: 12pt;">10</span> (Stephen, senior reporter for The Engineer, ESA radar will track space debris, The Engineer, [[http://www.theengineer.co.uk/esa-radar-will-track-space-debris/1003961.article]])
+
+<span style="font-size: 80%;">The<span class="DebateUnderline"> European Space Agency (</span>ESA) has begun development of a<span class="DebateUnderline"> new radar system to catalogue space debris and protect satellites and other craft from collisions....The European Union is also very interested in this because it would give protection to European satellites</span>,’ Pinna added. SSA was launched at the start of 2009as a way of monitoring<span class="DebateUnderline"> objects such as inactive satellites, discarded launch stages and fragmentation debris satellites, as well as </span>space weather and natural near-Earth objects that could potentially impact the planet.</span>
+
+==Tier 1 PIC== 
+**Counterplan Text: The United States Federal Government should increase its development of Tier 1 ORS capabilities only**
+
+**Tier 1 capabilities are more than enough to solve for all ORS capabilities and don’t link to militarization**
+**__<span style="font-size: 12pt;">Sejba 10 </span>__**(Lt Col Timothy A. Sejba (BS, Computer Engineering, University of Minnesota-Duluth; MBA, San Jose State University) is a congressional budget liaison officer, budget and appropriations liaison directorate, deputy assistant secretary for budget, Secretary of the Air Force, Pentagon, Washington DC. In this position, he serves as the single liaison on all space, cyber and nuclear matters between the Air Force and Congressional members and staff of the US Senate and House of Representatives Appropriations and Budget Committees “ Deterrence for Space: Is Operationally Responsive Space Part of the Solution?” May 2010, http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf)
+
+<span style="font-size: 80%;">International Cooperation and Space Partnerships - Space Situational Awareness for Increased Probability of Detection and Attribution (<span class="StyleBoldUnderline">ORS Tier</span> 1<span class="StyleBoldUnderline">): In today’s security environment, we rely upon coalition support for military actions around the world....With the appropriate agreements, operational concepts and data feeds in place, routine modes would provide continuous 24/7 support, while ready reserve modes would allow our joint commanders flexibility in accessing additional SSA capability within minutes, resulting in a true on-orbit ORS Tier 1 capability.</span></span>
+
+**Tier 1 Capabilities require international partnerships**
+**__<span style="font-size: 12pt;">Kim and McLeod 10</span>__** (Dr. Yool Kim (BS, Aerospace Engineering, The University of Virginia; MS, Aeronautics and Astronautics, MIT; PhD, Aeronautics and Astronautics, MIT) is an engineer and policy analyst in the Technology and Applied Sciences department at the RAND Corporation. AND Mr. Gary McLeod (BS, Physics, University of Minnesota; MS, Astronomy, California Institute of Technology) is a senior policy analyst and project leader in the Technology and Applied Sciences department at the RAND Corporation, “Toward a New Strategy for ORS” May 2010 http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf
+
+<span style="font-size: 80%;">Ti<span class="StyleBoldUnderline">er 1 solutions use existing on-orbit systems to deliver the capability needed by JFCs by either employing the existing capability as is or by modifying the capability or its processes.</span>Yet, <span class="StyleBoldUnderline">agreements need to be in place with international partners as well as with commercial partners in advance of a contingency. </span></span>
+
+**International integration solves deterrence**
+**__<span style="font-size: 12pt;">Sheldon 08</span>__** (John B. Sheldon, Ph.D. 1 George C. Marshall Institute Fellow and Visiting Professor School of Advanced Air and Space Studies Maxwell AFB, Alabama, “Space Power and Deterrence: Are We Serious?” November 08, http://www.marshall.org/pdf/materials/616.pdf)
+
+<span style="font-size: 80%;"><span class="StyleBoldUnderline">More and more U.S. allies are developing significant national security space capabilities that, if </span><span class="UnderlineBold">properly integrated, can spread the risk of adversary attacks against satellite systems</span><span class="StyleBoldUnderline">.</span> <span class="UnderlineBold">Deterrence can be greatly reinforced if an adversary has to contend not only with a U.S. response, but with an international response also</span>.</span>
+
+==Militarization DA== 
+**The US is not weaponizing space now**
+<span style="font-size: 12pt;">Porter 11</span> [Charles, “EU Consider Code of Conduct for Space”; Website; June 17; <span style="color: windowtext; text-decoration: none;">[[http://iipdigital.usembassy.gov/st/english/article/2011/06/20110617155237enelrahc3.353298e-03.html#ixzz1Qb7c0PBD|http://iipdigital.usembassy.gov/st/english/article/2011/06/20110617155237enelrahc3.353298e-03.html#ixzz1Qb7c0PBD]]</span>]
+
+<span style="font-size: 80%;">Coming to a shared understanding of what “space security” means is a starting point, said <span class="UnderlineChar">Deputy Assistant </span>Secretary of State for Space<span class="UnderlineChar"> and Defense Policy Frank A. Rose...</span>In the meantime, he said, <span class="UnderlineChar">the </span>United States is involved in multilateral talks on space activity<span class="UnderlineChar"> organized under the auspices of the United Nations, and is hopeful these discussions will lead to measures that solve existing problems.</span></span>
+
+**Pegasus Launch Vehicles are ORS satellites and are perceived as airborne launch rockets – Impossible to verify by other countries**
+<span style="font-size: 12pt;">Hagen and Scheffran 03</span> (Regin, Coordinator of the International Network of Engineers and Scientists Against Proliferation she is also on the board of the Global Network Against Weapons and Nuclear Power in Space. Jürgen, chair of the INESAP Project ‘Moving Beyond Missile Defense’. Is a space weapons ban feasible? Thoughts on technology and verification of arms control in space, pg 47, http://www.unidir.org/pdf/articles/pdf-art1886.pdf)
+
+<span style="font-size: 80%;">As air launches have considerable advantages for both commercial and military purposes, several air-launch programmes are under development and corresponding test programmes are being conducted... Due to the existence of air-launch systems for commercial and other military purposes, it would not be possible to verify the non-existence of such systems. Instead, verification of this technology in the framework of an ASAT ban would have to fall back to confidence-building measures, on-site inspections, and verification of non-test and non-use for ASAT purposes.</span>
+
+**Destabilizes security and only perceived as offensive - fuels militaristic perception**
+<span style="font-size: 12pt;">Coffelt 05</span><span style="font-size: 8pt;">[Colonel Chris Coffelt is the vice commander of the 91st Missile Wing, Minot Air Force Base, N.D. Operated 150 Minutemen III Intercontinental Ballistic Missiles from 15 remote missile alert facilities. “The best defense: charting the future of us space strategy and policy”. A Thesis Presented to the Faculty of the School of Advanced Air and Space Studies For Completion of the Graduation Requirements. </span><span style="color: windowtext; font-size: 8pt; text-decoration: none;">[[http://www.dtic.mil/dtic/tr/fulltext/u2/a477110.pdf]]</span><span style="font-size: 8pt;">]</span>
+
+<span style="font-size: 80%;">Missile technology gave nuclear weapons a virtual, omnipresent, forwarddeployed posture. With intercontinental reach, conus-basing doesn’t make icbms less threatening to neighboring or distant states.....Unlike armies, navies, and air forces, which have the strategically advantageous ability to foster either offensive or defensive perceptions<span class="UnderlineChar">, </span>all orbital weapons present an inherently offensive threat and destabilize the security environment. 92</span>
+
+**<span style="font-size: 12pt;">Space weapons turn case – aggressiveness undermines heg </span>**
+<span style="font-size: 12pt;">O’Hanlon 04</span><span style="font-size: 8pt;">[O’Hanlon, Michael. Senior fellow in Foreign Policy at the Brookings Institution, where he specializes in U.S. defense strategy, the use of military force, homeland security and American foreign policy. Ph.D. from Princeton is in public and international affairs. “Neither Star Wars nor sanctuary : constraining the military uses of space.”]</span>
+
+<span style="font-size: 80%;">By racing to develop its own space weapons, the United States would cause two unfortunate sets of consequences. Militarily, itwouldlegitimate a faster space arms race than is otherwise likely<span class="UnderlineChar">—something </span>that can only hurt a country that effectively monopolizes military space activities today... It can also be harder for the United States to uphold international nonproliferation norms<span class="UnderlineChar"> if its own actions </span>weaken its credibility<span class="UnderlineChar"> in demanding that others comply with arms control regimes.</span></span>
+
+==1NC Tradeoff DA== 
+**Funding for a new long-range bomber depends on current savings in the Air Force budget – new programs kill it**
+<span style="font-size: 12pt;">Majumdar ‘11</span> (Dave Majumdar, Defense News, “U.S. Air Force Bomber Plans Hinge On Savings,” 1-17-2011, http://www.defensenews.com/story.php?i=5469848)
+
+<span style="font-size: 80%;">If the U.S. Air Force wants<span class="UnderlineChar"> its </span>bomber<span class="UnderlineChar"> and satellite </span>plans to bear fruit, it must squeeze the money from its own budget through<span class="UnderlineChar"> efficiencies and </span>other savings, service officials and analysts said...<span class="UnderlineChar"> "Efficiencies will enable continuing investment in establishing a new program</span> of record for this long-range strike platform in the context of continuing work on this broader family of systems," he said. </span>
+
+**Cancellation of the bomber program triggers deterrence failures**
+<span style="font-size: 12pt;">Gunzinger ‘10</span> (Mark A. Gunzinger, Senior Fellow at CSBA, former Deputy Assistant Secretary of Defense for Forces Transformation and Resources, former Director for Defense Transformation, Force Planning and Resources on the National Security Council staff, a key player in every major defense review since the end of the Cold War, retired Air Force Colonel and Command Pilot, M.S. National Security Strategy, National War College, Master of Airpower Art and Science, School of Advanced Air and Space Studies, Master of Public Administration from Central Michigan University, and B.S. Chemistry, U.S. Air Force Academy, “Sustaining America’s Strategic Advantage in Long-Range Strike,” Center for Strategic and Budgetary Assessments, 9-14-2010, p.76, http://www.csbaonline.org/wp-content/uploads/2010/09/2010.09.14-Sustaining-Americas-Strategic-Advantage-in-Long-Range-Strike.pdf)
+
+<span style="font-size: 8pt;">Sustaining the air Leg of the nuclear triad...Under New START, the Air Force has the latitude to incorporate basic nuclear weapons requirements into a new bomber design without fully equipping, testing, certifying, and declaring it as nuclearcapable. </span>
+
+**This creates three unique scenarios for nuclear war – allied proliferation, hostile aggression, and crisis escalation**
+<span style="font-size: 12pt;">Williams ‘10</span> (David E. Williams, Jr., Major, U.S. Air Force, career Security Forces Officer currently serving as the Chief of Nuclear Security Inspections, Defense Threat Reduction Agency, former Squadron Commander, Staff Officer, Operations Officer, Flight Commander, and Convoy Commander within the Air Force nuclear community, also a certified SWAT Team Leader, Trainer, Designated Marksman, and Crisis Negotiator, M.A. Security Studies, M.A. Counseling & Human Behavior, B.A. Psychology, “A Review of U.S. First-Strike Ambiguity and the Triad Nuclear Force,” Defense Threat Reduction University Journal, 1(2), October 2010, http://www.dtra.mil/dtru/documents/V1_2/US%20First%20Strike%20Ambiguity%20-%20Williams.pdf)
+
+<span style="font-size: 80%;">The Case for Continuity The case for the continuity of current U.S. nuclear policies and structure involves consideration of their benefits in terms of security, international prestige, domestic politics, and technology... This threat resulted in very quick U.S. reassurances about troop levels and its commitment to defending South Korea.</span>
+
+==Capitol Strats== 
+
+Round 1: Bronx Science SL
+1AC: ORS
+1NC: Tier 1 PIC, Militarization DA, Tradeoff DA, Astropolitics K
+2NR: Tradeoff DA
+
+Round 4: River Hill SS
+1AC: Indian Identity/K Aff thing
+1NC: Framework, Astropolitics, Supercommittee
+2NR: Framework, Aff Conditionality
+
+Round 5:
+1AC: DSCOVR
+1NC: T-Substantial, XO, ESA CP, Supercommittee
+2NR: XO & Case

@@ -1,0 +1,21 @@
+[[toc]]
+=Affirmative= 
+Plan: The United States federal government should fund the development and launch capabilities of four Solar Powered Satellites.
+Inherency:
+SBSP not being developed because of budget restrictions.
+
+Adv. 1:
+Wars over energy are inevitable.
+Resource conflicts will cause extinction.
+
+Adv. 2:
+Global warming causes extinction.
+SSP’s viable and key-other technology can’t solve warming.
+
+Solvency:
+SBSP is environmentally net positive.
+SSP is technologically viable.
+SSP alleviates energy needs- it can be transmitted anywhere on earth.
+=Negative= 
+
+[[include page="space.template.Footer"]]

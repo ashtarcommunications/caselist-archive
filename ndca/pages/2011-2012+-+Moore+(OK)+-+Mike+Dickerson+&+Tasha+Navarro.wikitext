@@ -1,0 +1,4 @@
+[[toc]]
+=Affirmative= 
+
+[[include page="space.template.Footer"]]

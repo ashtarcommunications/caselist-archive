@@ -1,0 +1,60 @@
+[[toc]]
+====Questions? Requests?==== 
+paulmbanks <AT> gmail.com
+=Affirmative= 
+
+=Negative= 
+==Round Reports== 
+===Georgetown=== 
+
+====Round 1 - DSCOVR - Capitol Debate==== 
+
+1NC
+
+T-Staffed
+DA-SKFTA
+K-Security
+Case Defense
+
+2NR
+
+DA-SKFTA
+Case Defense
+
+
+
+====Round 4 - SPS - Niles West==== 
+
+1NC
+
+DA-SKFTA
+CP-ASAT Treaty
+DA-China/Australia Energy Trade
+K-Environment
+Case Defense
+Weaponization Bad
+
+2NR
+
+Weaponization Bad
+CP-ASAT Treaty
+DA-China/Australia Energy Trade
+Case Defense
+
+
+====Round 5 - SPS - Lexington WT==== 
+
+1NC
+
+DA-Russian Aerospace
+DA-China/Australia Energy Trade
+DA-Weaponization
+K-Environment
+Case Defense
+Interference Turn
+
+2NR
+
+Environment K
+
+[[include page="space.template.Footer"]]

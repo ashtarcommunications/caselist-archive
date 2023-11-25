@@ -1,0 +1,134 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+===__Arbitrary AC__=== 
+
+Accused definition:
+**<span style="color: #2e3338; font-family: Times,serif; font-size: 15px;">DUHAIME LAW</span>**
+<span style="font-family: 'Times New Roman',serif; font-size: 10pt;">Duhaime.</span><span style="font-family: Times,serif; font-size: 10pt;">org, Selected by</span> <span style="color: #00000a; font-family: Times,serif; font-size: 10pt; text-decoration: none;">[[http://www.forbes.com/|Forbes.com]]</span><span style="font-family: Times,serif; font-size: 10pt;"> Best of the Web, 2008 in the category of Internet "Legal Advice,” Legal Dictionary featured on //Legalese: Understanding The Language of the Court//, cited by </span><span style="color: #00000a; font-family: Times,serif; font-size: 10pt; text-decoration: none;">[[http://library.lawschool.cornell.edu/|Cornell University Law Library]]</span><span style="font-family: Times,serif; font-size: 10pt;">, Ithaca, New York, November, 2011. </span><span style="font-family: 'Times New Roman',serif; font-size: 15px; line-height: 22px;">[[http://www.duhaime.org/LegalDictionary/A/Accused.aspx]]</span>
+<span style="font-family: Times,serif; font-size: 11pt;">“</span><span style="color: #2e3338; font-family: Times,serif; font-size: 11pt;">A person to whom </span>**__<span style="font-family: Times,serif; font-size: 11pt;">a formal information containing an allegation of a criminal offence has been delivered, or </span>__**<span style="font-family: Times,serif; font-size: 11pt;">a person </span>**__<span style="font-family: Times,serif; font-size: 11pt;">arrested for a criminal offence</span>__**<span style="font-family: Times,serif; font-size: 11pt;">.”</span>
+
+RVI and Theory Discussion
+
+Terrorism as a crime is distinct from all other offenses. **COSGROVE-MATHER**
+"Ordinary criminal courts...out of place"
+
+Ought = Morality
+
+Value: Morality
+-We justify our moraliy through reason. **KORSGAARD**
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">[1]</span><span style="font-size: 9pt;">Christine Korsgaard, //The Activity of Reason// (Presidential Address delivered before the One Hundred Fifth Annual Eastern Division Meeting of The American Philosophical Association in Philadelphia, Pennsylvania, on Monday, December 29, 2008), p. 25 </span>
+<span style="font-size: 9pt;">“In the case… to the truth”</span>
+
+Acting Arbitrarily is bad; two justifications.
+
+Standard: Preventing Arbitrary Enforcement of the Law
+1) Lottery of Birth
+2) Moral judgments rest on reason and logistics, cross boarders. **STOKER**
+<span style="font-family: 'Times New Roman',serif; font-size: 9pt;">Laura Stoker [political science professor at UC Berkeley], “Interests and Ethics in Politics,” //The American Political Science Review// 86, no. 2 (1992): p. 371.</span>
+"The differences between...describe the self."
+3) Cognitive skills transcend borders. **GAMWELL**
+<span style="font-family: 'Times New Roman',serif; font-size: 9pt;">Gamwell, Franklin. [University of Chicago] “The Moral Ground of Cosmopolitan Democracy.” //Journal of Religion,// Vol. 83 Issue4//.// The University of Chicago, 2003.</span>
+"So far as...universal moral terms."
+
+The aff thesis is that giving citizens and noncitizens accused of terrorism the same due process rights is a basic human right that all governments ought to respect. The neg burden is to prove the converse.
+
+A - Distinction shouldn't matter. **COLE**
+Are Foreign Nationals Entitled to the Same Constitutional Rights As Citizens? David Cole. Georgetown University Law Center, cole@law.georgetown.edu . 25 T. Jefferson L. Rev. 367-388 (2003)
+"The Fifth and...of the individual."
+
+B - Slippery Slope of control; Authorities manipulate the facts to get the conviction. **RADACK**
+YOU SAY DEFENDANT, I SAY COMBATANT: OPPORTUNISTIC TREATMENT OF TERRORISM SUSPECTS HELD IN THE UNITED STATES AND THE NEED FOR DUE PROCESS. New York University Review of Law and Social Change (2005) Jesselyn A. Radack
+Radack 1: "There seems to be...a military commission."
+Radack 2: "The risk of...at least 'very special'."
+
+C - Double Standard. **RADACK** 3
+"The revolving door...similar treatment later."
+
+D - US Expects Law-Abiding; Arbitrary to not be Reciprocal. **RADACK** 4
+"The mutuality of...and punish them."
+
+We have obligation to treat Constitutionally. **RADACK** 5
+"Brennan's cosmopolitanism ensues...place for passports."
+
+oh yeah
+
+
+===Skep AC=== 
+
+Nothing is real
+
+So vote for me
+
+===Cosmo AC=== 
+
+Hold on gotta format diz
+in the meantime [[http://www.youtube.com/watch?v=Tsc4GWgZ-e4|get krunk]]
+
+==Negative== 
+===__Particular NC__=== 
+
+Resolution assumes we grant non-citizens squo rights for citizens.
+
+Value: Morality
+
+Morality is contextual; Act by priority. **GEWIRTH**
+
+"This distinction of...a separate question."
+
+Rights aren't absolute; Giving preference over one another is morally acceptable. **GEWIRTH** 2
+"Particularistic priority of...from voluntary associations."
+
+Particularism from Equality.
+
+Standard: Ensuring the state’s ability to protect its citizens.
+
+The neg burden is to show that the US ought not be required to give noncitizens accused of terrorism the same due process rights as citizens, the aff burden is to show the converse.
+
+I contend that giving noncitizens the same due process rights as citizens harms the state’s ability to protect its citizens.
+
+1) Difference prevents equal protection. **COSGROVE-MATHER**
+“Due Process for Terrorists?” Bootle Cosgrove-Mather. September 22, 2009. CBS News. http://www.cbsnews.com/2100-215_162-592130.html
+"In a parallel...just as murky"
+
+2) Detainment necessary in crisis. **NICKEL**
+“Due Process Rights and Terrorist Emergencies.” James W. Nickel. EUROPEAN JOURNAL OF LEGAL STUDIES: ISSUE 1
+"In a serious...and trials postponed."
+
+Regular courts won't work. **COSGROVE-MATHER** 2
+"Ordinary criminal courts...out of place."
+
+Intent to undermine the state forfeits the state's obligation to the violator; Social Contract breach.
+
+[[@http://heyyeyaaeyaaaeyaeyaa.com/|Heeeyyy]]
+
+===Skep NC=== 
+
+Things still ain't real
+
+Vote for me
+
+===Other Stuff=== 
+
+I also run continually updated versions of the following:
+* Fem K
+* Rawls K
+* Intel DA
+* Heg DA
+* Pakistan DA
+* Skep
+So get ready for that or whatever
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

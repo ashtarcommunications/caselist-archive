@@ -1,0 +1,21 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+==Negative== 
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+stuff
+==Negative== 
+more stuff
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+
+NSD '12 Text: USFG terminates Operation Cyclone 1985
+[[include page="space.template.Footer"]]

@@ -1,0 +1,274 @@
+=<span style="font-size: 1.4em;">Table of Contents</span>= 
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#September-October|September-October]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#September-October-Affirmative|Affirmative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#September-October-Negative|Negative]]
+
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#November-December|November-December]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#November-December-Affirmative|Affirmative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#November-December-Negative|Negative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#January-February|January-February]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#January-February-Affirmative|Affirmative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#January-February-Negative|Negative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#March-April|March-April]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#March-April-Affirmative|Affirmative]]
+[[debatecoaches/2011-2012 - Immaculate Heart (CA)- Hiyawan Solomon#March-April-Negative|Negative]]
+=<span style="font-size: 1.6em;">[[#September-October]]September-October</span>= 
+==<span style="font-size: 1.4em;">[[#September-October-Affirmative]]Affirmative</span>== 
+
+==<span style="font-size: 1.4em;">[[#September-October-Negative]]Negative</span>== 
+=<span style="font-size: 1.6em;">[[#November-December]]</span>= 
+=<span style="font-size: 1.6em;">[[#November-December]]November-December</span>= 
+==<span style="font-size: 1.4em;">[[#November-December-Affirmative]]Affirmative</span>== 
+
+I affirm the resolution Individuals have the moral obligation to assist those in need.
+
+OB1) There is a clear difference between having a moral obligation and fulfilling it. The affirmative only has to justify that a moral obligation to assist those in need exists, not that they will necessarily fulfill that obligation. Furthermore people have obligations, however it does not mean they fulfill them. For example, I am obliged to obey my parents because they raise me and pay for things like debate camp. thus I have the obligation to give back to them in such a way as they want. For example I ought take out the trash for them, but that doesn’t mean I will. All I have to prove is the equivalent of my obligation to take out the trash, not that I will actually do it.
+
+OB2) The aff burden is to prove the resolution on balance. The affirmative does not have to justify that every individual, in every situation has a moral obligation to assist those in need. The neg burden is to sufficiently prove there is no moral obligation to assist those in need on balance. Absolute maxims would imply infinite research and preparation and horribly limit the ground on either side of the round.
+
+The value is morality. Because the resolution begs the question if individuals have a moral obligation, we must focus on morality in the round. for clarification, “//Morals// are a set of rules claiming to accurately and consistently identify preferred human behaviours” –molyneux.
+
+VC adhering to welfarism
+
+<span style="font-size: 9pt;">Prof. Murphy Institute, Tulane University, New Orleans, LA 70118, USA</span>
+
+Riley 1 __“The concept of a generalized social welfare functional (GSWFL) is introduced to permit the integration of appealing moral principles into the traditional Pareto-inclusive welfarist framework of utilitarianism and welfare economics. Attention is focused on a so-called "liberal utilitarian" GSWFL which incorporates libertarian rights within the utilitarian calculus in a fashion reminiscent ofJ. S. Mill's philosophy. It is suggested that welfarist social choice theory may be a far more powerful and flexible tool of political and economic analysis than is commonly thought.”__ 
+
+Welfarism follows the basic premises of consequentialism, however with an added focus on individual obligation to the community. In addition, libertarian rights, such as autonomy, are upheld, while catering to the social choice theory. This states that individuals have the obligation to maximize the greatest good, while not violating autonomy and other liberal utilitarian ideals.
+
+Riley 2 continues by saying the criterion focuses “<span style="font-size: 7pt;">My main focus will be on the </span>__characterization of a complex but ultimately welfarist (indeed, utilitarian) collective choice rule which builds "libertarian" moral considerations into its welfarist objective. In particular, this so-called "liberal utilitarian" collective choice rule respects libertarian rights as a component of aggregate utility maximization__ <span style="font-size: 7pt;">3. As I have suggested elsewhere </span>__(Riley, 1985b, 1987), "liberal utilitarianism" bears strong affinities to John Stuart Mill's (1859, 1861) moral and political philosophy. Be that as it may, it should be emphasized that the term "collective choice rule" is used here in a broad sense, to denote the entire collection of ethical values and norms used in a society to transform any set of personal utility functions into a social preference relation. There is no presumption that the collective choice rule in this sense can be reduced to some mechanical voting rule.”__
+
+
+
+<span style="font-size: 3pt;">[[http://www.springerlink.com/content/n8hm572p750j8k04/fulltext.pdf]]</span>
+
+<span style="font-size: 6pt;">J. Riley</span>
+
+<span style="font-size: 6pt;">Murphy Institute, Tulane University, New Orleans, LA 70118, USA</span>
+
+<span style="font-size: 6pt;">Received November 2, 1984/Accepted June 23, 1986</span>
+
+<span style="font-size: 6pt;">38 35</span>
+
+
+
+Riley 3: **__“Any "morality" has at least three components:__**
+
+**__- a classification of the different kinds of utility, with a description of the positive features which distinguish each kind; - a normative interpretation of the interpersonal comparisons required to aggregate individual utilities of the same given kind; and - a ranking__** <span style="font-size: 7pt;">(which I will invariably assume is lexicographical)</span> of **__the different kinds along some qualitative dimension,__** <span style="font-size: 7pt;">implying a "moral" domain restriction for the GSWFL under consideration.</span>
+
+**__So-called "liberal" morality involves a fourth "special component" not generally associated with "non-liberal" moralities: - the assignment and protection of libertarian rights with respect to a kind of utility classified as "private". Although I will be interested in (some features of) "liberal" or libertarian morality, it should be emphasized that any morality (including extremely illiberal ones) can be suitably represented within the formal framework.”__**
+
+In Riley’s welfarism, morality does not oppose one’s own freedoms and rights. Instead individuals apply to the societal moral obligation of utility under Riley 1 and 2. Because individuals do have a moral obligation to the welfare of others thru utility and thus maximizing the greatest good, it is important to note that this obligation does not infringe on individuals rights and liberties.
+
+
+
+<span style="font-family: Verdana; font-size: 10pt;">According to Mills, Individuals’ “</span><span style="font-family: Verdana; font-size: 7pt;">Although the non-existence of an acknowledged first principle has made ethics not so much a guide as a consecration of men's actual sentiments, still, as men's </span>**__<span style="font-family: Verdana; font-size: 10pt;">sentiments, both of favour and of aversion, are greatly influenced by what they suppose to be the effects of things upon their happiness, the principle of utility, or as Bentham latterly called it, the greatest happiness principle, has had a large share in forming the moral doctrines even of those who most scornfully reject its authority. Nor is there any school of thought which refuses to admit that the influence of actions on happiness is a most material and even predominant consideration in many of the details of morals,</span>__**<span style="font-family: Verdana; font-size: 7pt;">however unwilling to acknowledge it as </span>**__<span style="font-family: Verdana; font-size: 10pt;">the fundamental principle of morality, and the source of moral obligation.”</span>__**<span style="font-family: Verdana; font-size: 10pt;"> Mills 1863</span>
+
+<span style="font-family: Verdana; font-size: 10pt;">Individuals have a moral obligation to assist others is a simple fact of utility. Welfarism states we have an inherent duty to aid the welfare of society, and thus individuals within it. What Mills asserts is that our sentiments have roots in what we want for ourselves, and that this utility principle plays a massive role in forming morals, even by individuals who seemingly oppose moral obligation.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Verdana; font-size: 10pt;"> C1) Assisting those in need is a morally obligatory action justified by welfarism. </span>
+
+<span style="font-family: Verdana; font-size: 10pt;">Assisting those in need falls under the welfarist obligation to utility. By helping those who require aid, you are maximizing their happiness. Thus you are aiding the positive effort of welfarism. </span>
+
+<span style="font-family: Verdana; font-size: 10pt;">Scarre states “**__There is much to be said for thinking of utilitarianism as essentially eighteenth-century terms, as a programme for__** </span><span style="font-family: Verdana; font-size: 7pt;">political </span>**__<span style="font-family: Verdana; font-size: 10pt;">action dedicated to providing an optimal social framework within which people can pursue their special conceptions of the good. Utilitarians will also wish to perform more specific acts of assistance to people in need.</span>__**<span style="font-family: Verdana; font-size: 10pt;">”</span>
+
+<span style="font-family: Verdana; font-size: 10pt;">Welfarism obliges individuals to morality in much the same way, however it does not interfere with rights and autonomy. Thus not only do individuals have a moral obligation to assist those in need, but this obligation does not rob them of any intrinsic worth. </span>
+
+<span style="font-size: 8pt;">Professor at Durham Philosophy Department & Co-Director of the Durham University Centre for the Ethics of Cultural Heritage. </span>
+
+
+
+furthermore, altruistic ideologies contribute to the social good
+
+
+
+Schopenhauer/SEP “**__By compassionately recognizing at a more universal level that the inner nature of another person is of the same substance as oneself, one arrives at a moral outlook. This compassionate way of apprehending another person is not merely understanding abstractly the proposition that “each person is a human being,” or understanding abstractly (as would Kant) that, in principle, the same regulations of rationality operate equally in each of us and oblige us accordingly. It is to feel directly the concrete life of another person__** in a magical way; it is to enter into the life of humanity imaginatively, such as to coincide with all others as much as one possibly can. It is to imagine equally, and in full force, //what it is like// to be both a cruel tormentor and a tormented victim, and to locate both opposing experiences and characters within a single, universal consciousness that is the consciousness of humanity itself. **__With the development of moral consciousness, one expands one's consciousness towards the__** mixed-up, tension-ridden, bittersweet, tragicomic, multi-aspected and distinctively sublime **__consciousness of humanity itself.__**__”__
+
+
+
+Thus understanding one’s own need and personal requirements as linked to the needs of others transcends basic notions of beneficence and projects them on the whole entity of others in need. Thus moral obligations to others are based in the obligations to one’s self and personal liberties and needs. To respect the needs of others and have a moral obligation to assist those in need a personal duty is already required.
+
+Because of the moral obligation to maximize the good of humanity, to the extent where it does not prohibit the promotion <span style="font-size: 8pt;">progression and proliferation</span> of personal good’s, and the fact that moral obligations to others arise from obligations to the self, individuals have a moral obligation to assist those in need.
+
+Thus I affirm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proven: societies who do not acknowledge moral obligations exist in a state of strife and are doomed to fail
+
+
+
+multiple ways:
+
+although we ought to be charitable to some degree, there is no particular person we are obligated to assist, and certainly no particular person can expect, let alone demand, our assistance.
+
+Despite their differences both views hold (a) that no particular person can demand or expect charity and (b) that governments cannot legitimately coerce us (e.g., via taxation) to be charitable (Narveson 2000: 317). Moreover, although the third view holds that we morally ought to be charitable, we can fulfill that imperfect duty without helping anyone who is starving. We could, instead, help the unemployed in our neighborhood, support a literacy program, or give to Planned Parenthood. Some who hold the third view might claim we are duty bound to meet greater needs before meeting less substantial ones. However, since there are pressing needs close to home, likely we could satisfy any imperfect duty of charity without helping any of the world’s starving. Thus, on both charity views, people who fail to contribute to famine relief might be stingy or morally short-sighted, but they would not necessarily be immoral……….
+
+Although some people, and especially children, are more vulnerable than others, all of us were and are dependent on others. None of us is—or could be—wholly self-sufficient. Most of us recognize that our parents had to care for us lest we die. But that is only the beginning of the debt to our predecessors. Our abilities to speak a language, to read literature, to appreciate art, to live in cities, to travel the world, and to purchase the goods we want and need arose only because of the efforts of those who came before. “It is of grace and not of ourselves that we live civilized lives” (Dewey 1988/1922: 19). We are likewise dependent on our contemporaries, both near and far.
+
+Of course someone influenced by Adam Smith might think that people’s behavior benefitting others is really just disguised or redirected self-interest. I am sure that explains some such behavior; I see no reason to think it explains it all. The best evidence suggests a biological basis for altruistic tendencies (Ridley 1996; Sober and Wilson 1998). Had others acted solely out of their own interest, wholly indifferent to us and our vulnerabilities, most of us would not be alive. Had they largely ignored our vulnerabilities, we might be alive, but in a substantially diminished condition.
+
+According to Bread for the World, the United States could halve the number of its own and the world’s hungry with an investment of $6 billion a year, just slightly more than $20 a person (Bread for the World 2000: 3). Even if this estimate were inflated by a factor of two, we can, through concerted action, largely end world hunger by investing $100 per US citizen, per year, with the amounts diminishing over time. And with the cooperation of the rest of the developed world, we could, with the same contribution, likely end hunger and go some distance toward generally improving the lot for the more than billion people who are currently living in poverty—on less than $1 per day (World Bank 2000: 46). It is difficult to imagine what argument could be mustered to suggest that (a) this investment is not worth that cost or that (b) any tolerably decent human being would not be willing to pay that cost. It would be, in Goodin’s words, just the fulfillment of our collective and individual responsibilities.
+
+We have a multilayered argument that suggests we have a strong obligation to bolster the well-being of the seriously impoverished. First, we have a positive obligation to assist those who are vulnerable to our actions. Second, we also have reason to think we are partially responsible for the suffering of the world’s poor, and hence, have a strong negative obligation to stop further harm. Third, we could feed them and ease their suffering pain with relatively little effort. If we do nothing In the face of these arguments, we have reason to think that we are complicitous in the deaths of many people. We might be wrong, but when, with only a relatively small sacrifice, we can avoid the decided possibility that we are accomplices in many people's deaths, then morally we ought to act.
+
+Blackwell
+
+
+
+
+
+
+
+
+
+
+
+[[http://www.lewrockwell.com/orig6/molyneux8.html]]
+
+libertarian clarification
+
+==<span style="font-size: 1.4em;">[[#November-December-Negative]]Negative</span>== 
+
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">"The Nazis are well remembered for murdering well over 11 million people in the implementation of their slogan, //'The public good before the private good,'// the Chinese Communists for murdering 62 million people in the implementation of theirs, //'Serve the people,'// and the Soviet Communists for murdering more than 60 million people in the implementation of Karl Marx's slogan, //'from each according to his ability, to each according to his needs.//' Anyone who defends any of these, or any variation of them, on the grounds of their 'good intentions' is an immoral (NOT 'amoral') enabler of the ACTUAL (not just the proverbial) road to hell." -- Rick Gaber</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">thus I negate</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Observation 1: The negative’s burden is not to prove that no moral obligations exist, but rather that no moral obligations to assist those in need exist, as specified by the resolution. Because of this modifying clause in the resolution, we can not only focus of the moral obligation aspect. because morality is a set of guidelines to live one’s life by, moral obligations, such as obligations to oneself due to the pursuit of self preservation may exist, but it is the negative’s duty to prove that there are no moral obligations to specifically assist those in need.</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">The value is morality. Because the resolution focuses on moral obligation, we must focus the round on that as well. </span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">The standard is respecting self-preservation. </span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Arneson states: “The needs of the self and of those loved by the self take strict priority over the needs of mere strangers,” he continues “many views of morality construe it as concerned with requiring individuals to cater to the well-being and freedom of other persons, but this undue emphasis on what we owe to others tends to obscure the issue of what each of us owes, as a matter of morality, to herself.”</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Morality is best achieved on focusing on what is truly important when it comes to guiding one’s life, which is self-preservation. By morally assisting those in need, the actor is being forced to donate their time and/or services to an individual completely unrelated to them. If your mother was drowning, you would not be saving her solely for the purpose of being a moral person, but rather because you mother means something to you. This may be morally praiseworthy, however it does not fulfill a moral obligation. Thus assisting those in need under the resolution puts strangers in front of one’s self and family. By looking to self-preservation, this situation would not occur. </span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Furthermore </span><span style="font-family: TimesNewRoman; font-size: 6pt;">Richard J. Arneson Forthcoming in </span>//<span style="font-family: 'TimesNewRoman,Italic'; font-size: 6pt;">The Ethics of Assistance: Morality, Affluence, and the Distant Needy</span>//<span style="font-family: TimesNewRoman; font-size: 6pt;">, ed, Deen K. Chatterjee</span>
+
+<span style="font-family: TimesNewRoman; font-size: 6pt;">(Cambridge: Cambridge University Press) 2004 </span><span style="font-family: 'Times New Roman'; font-size: 6pt;">professor in the Department of Philosophy at the University of California, San Diego since July, 1973. He received the Ph.D. degree from the University of California, Berkeley, 1975. </span>
+
+
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">“altruistic behavior is morally wrong when it conflicts with the requirements of self-respect, which include valuing oneself as a human being of equal worth and taking care that one flourishes as a human being and as a particular human being. The latter involves self-authorship, which one achieves by developing preferences and aims that are genuinely one’s own, defined by oneself, and having content that does not “conflict with what is required to meet the person’s objective needs as a human being.”</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Thus not looking to self-preservation actually causes altruism to become immoral. Without looking to self-requirements and self-preservation, the resolution would turn in on itself.</span>
+
+
+
+
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">C1) Aiding others cannot be morally permissible when contradicting self-preservation```</span>
+
+**__<span style="font-size: 12pt;">Rand: </span>__**
+
+
+
+**__<span style="font-size: 12pt;"> Ethics: “Reason is man’s only proper judge of values and his only proper guide to action. The proper standard of ethics is: man’s survival //qua// man – i.e, that which is required by man’s nature for his survival as a rational being</span>__**<span style="font-size: 12pt;"> (not his momentary physical survival as a mindless brute). **__Rationality is man’s basic virtue, and his 3 fundamental values are: reason, purpose, self esteem.__** Man—every man—is an end in himself, not a means to the ends of others nor must live for his own sake, neither sacrificing himself to others nor sacrificing others to himself; he must work for his rational self-interest, with **__the achievement of his own happiness is the highest moral purpose of his life.” Thus objectivism rejects any form of altruism—the claim that morality consists in living for others or for society” and thus man does not have a moral obligation to assist others in need.__** </span>
+
+
+<span style="font-size: 12pt;">Furthermore </span>
+
+<span style="font-size: 12pt;">Even if there are positive outcomes as a result of assisting those in need, there are rights abuses because the aid is given thru force</span>
+
+<span style="font-size: 12pt;">MACHAN, 1995</span>
+
+<span style="font-size: 8pt;">Tibor, Professor of philosophy, Auburn University, PRIVATE RIGHTS AND PUBLIC ILLUSIONS, p.121-122</span>
+
+<span style="font-size: 7pt;">The analogy with the jungle makes it appear that in human societies those who are losers do not deserve their fate, because the jungle houses dumb animals who are victims of their fate-their genes, the environment, the comparative physical advantage of their fellow beasts, and so forth. But among human beings another factor needs to be considered.</span> **__<span style="font-size: 12pt;">Human beings are capable of making good and bad choices in their conduct</span>__**<span style="font-size: 12pt;">,</span> <span style="font-size: 7pt;">and they are not helpless when they make the bad ones or the good ones. While no doubt some are unfortunate, indeed totally unprepared-for example, those who are severely crippled, utterly deprived, or abjectly mistreated (sometimes by fellow citizens, sometimes by family, sometimes by the government itself) -most others are probably better regarded as capable of making the effort needed for a good showing in "the struggle for survival." Those who can make the effort but fail to do so do not deserve the compassion Keynes seems to believe everyone who fails to succeed deserves. Third,</span> even **__<span style="font-size: 12pt;">if it is true that some who fail are helpless and it is the moral responsibility of</span>__**__<span style="font-size: 12pt;"> **others to help them**, **there are serious moral objections against requiring that assistance be given**</span>__<span style="font-size: 7pt;">under the threat of force.</span> **__In__** **__<span style="font-size: 12pt;">morality it is not generally possible </span>__**that **__<span style="font-size: 12pt;">any act of compassion</span>__**, <span style="font-size: 7pt;">kindness, generosity, honesty, decency, and so forth </span>**__<span style="font-size: 12pt;">be undertaken</span>__** <span style="font-size: 7pt;">involuntarily or</span> **__<span style="font-size: 12pt;">under coercion</span>__**. <span style="font-size: 7pt;">Rather</span>, **__<span style="font-size: 12pt;">moral conduct must be</span>__**__<span style="font-size: 12pt;"> **undertaken as a matter of conscience and free choice**; **otherwise the act loses its moral worth**. **A society that** **forces its citizens**</span>__<span style="font-size: 12pt;">, </span><span style="font-size: 7pt;">under the threat of punishment</span><span style="font-size: 12pt;">, **__to__**__, **help the less fortunate**__, **__is less__**</span>, <span style="font-size: 7pt;">not more,</span> **__<span style="font-size: 12pt;">compassionate</span>__**<span style="font-size: 12pt;">.**__Even granting__**</span>, <span style="font-size: 7pt;">then (in concert with Keynes),</span> **__<span style="font-size: 12pt;">that compassion is a noble human trait</span>__**__<span style="font-size: 12pt;">, **it does not follow that coercive regulation of human behavior fosters its development**</span>__. <span style="font-size: 7pt;">Indeed</span><span style="font-size: 12pt;">, **__just the opposite__**</span> <span style="font-size: 7pt;">conclusion should be reached.</span>
+
+
+
+<span style="font-family: 'Times New Roman';">Individuals have the ability to chose what decisions in life to make in order to find the best options for themselves. However, when forced by a moral obligation to assist others, the actor loses their ability to act of their own will. In fact, any moral assistance garnered off of the obligation must be thrown out because the only aid that is morally praiseworthy is moral work done by someone out of their free will and choice to complete such an action.</span>
+
+
+<span style="font-family: 'Times New Roman';">C2) Aiding others leads to a malevolent world view that ends in paralysis…or worse</span>
+
+<span style="font-family: 'Times New Roman';">Adams</span><span class="cite" style="font-family: 'Times New Roman';">, Clinical Psychologist and Researcher</span>
+
+<span style="font-size: 7pt;">A Nightmare View of Existence: More deeply,</span><span style="font-size: 12pt;"> **__altruism__**</span><span style="font-size: 7pt;"> is based on and </span>**__<span style="font-size: 12pt;">reinforces</span>__**,**__<span style="font-size: 12pt;"> as Ayn Rand indicates, a</span>__**<span style="font-size: 12pt;"> “**__malevolent universe__**” **__premise__**</span><span style="font-size: 7pt;">. That is, it’s not just one’s fellow man for whom one has no respect; it is the world, even the universe, in which we all live that he condemns. </span>**__<span style="font-size: 12pt;">If altruism requires that one be on constant lookout for misery in man</span>__**<span style="font-size: 12pt;">, </span><span style="font-size: 7pt;">then</span><span style="font-size: 12pt;"> **__he must__** </span><span style="font-size: 7pt;">also</span><span style="font-size: 12pt;"> **__seek out places where misery exists__**,</span><span style="font-size: 7pt;"> especially misery caused by acts of nature. </span>**__<span style="font-size: 12pt;">Events like hurricane Katrina are</span>__**<span style="font-size: 12pt;">,</span><span style="font-size: 7pt;"> to committed altruists,</span><span style="font-size: 12pt;"> **__the essence of life on earth__**. </span><span style="font-size: 7pt;">Such disasters are the normal, the to-be-expected in life. </span>**__<span style="font-size: 12pt;">To them</span>__**<span style="font-size: 12pt;">, **__man is doomed because the world is doomed__**. **__We can’t escape and the destructive path of the world cannot be changed__**. **__Therefore__**, **__give up and give in__**. </span><span style="font-size: 7pt;">Give yourself over. Submit. Obey. A Hopelessly Cynical Amorality: </span>**__<span style="font-size: 12pt;">Upon</span>__**<span style="font-size: 7pt;">reaching </span>**__<span style="font-size: 12pt;">this point</span>__**<span style="font-size: 12pt;">, **__one gives up on ethics altogether__**. **__Why bother pursuing any values__** </span><span style="font-size: 7pt;">or using any virtues </span>**__<span style="font-size: 12pt;">if one lives in a world that is doomed to destruction and is surrounded by miserable little losers</span>__**<span style="font-size: 7pt;">who can’t help themselves? Why not “go along to get along?” Why not give up? Isn’t it the meek who shall inherit the earth?</span>
+
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Helping others focuses on a world that is out-to-get individuals. If one is always on the look out for the suffering individual in need, then you would have to seek out places where these individuals exist. However by seeing the situation, one must then realize that the world is in an inescapable state of chaos and doom too. Focusing solely on one’s self and one’s own goals does not lend credence to the malevolent world theory, and as such is the better way to live one’s life to avoid a terrible doomed world.</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">If not in theory, than in reality, a doomed world is true</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">Rand states:</span>
+
+AN OBLIGATION TO THE COLLECTIVE WILL END IN BLOODY DICTATORSHIP AND NUCLEAR WAR.
+
+<span style="font-size: 12pt;">RAND, 1966</span>
+
+<span style="font-size: 8pt;">Ayn, Capitalism: The Unknown Ideal, p80</span>
+
+**__<span style="font-size: 12pt;">Consider the</span>__** plunder, the destruction, the starvation, the **__<span style="font-size: 12pt;">brutality</span>__**<span style="font-size: 12pt;">,</span> the slave-labor camps, the torture chambers, the wholesale slaughter **__<span style="font-size: 12pt;">perpetrated by dictatorships</span>__**<span style="font-size: 12pt;">. **__Yet this is what today’s alleged peace-lovers are willing to__** **__advocate__**</span> or tolerate—**__<span style="font-size: 12pt;">in the name of love for humanity</span>__**. It is obvious that **__<span style="font-size: 12pt;">the ideological root</span> of__** statism (or **__<span style="font-size: 12pt;">collectivism</span>__**<span style="font-size: 12pt;">) **__is the__** </span>tribal **__<span style="font-size: 12pt;">premise of</span>__** primordial **__<span style="font-size: 12pt;">savages who</span>__**, unable to conceive of individual rights, **__<span style="font-size: 12pt;">believed that the tribe is</span>__**<span style="font-size: 12pt;"> a **__supreme__**,</span> omnipotent ruler, **__<span style="font-size: 12pt;">that it owns the lives of its members and may sacrifice them whenever it pleases</span>__**to whatever it deems to be its own “good.” Unable to conceive of any social principles, save the rule to brute force, they believed that the tribe’s wishes are limited only by its physical power and that other tribes are its natural prey, to be conquered, looted, enslaved, or annihilated. **__<span style="font-size: 12pt;">This history of all primitive peoples is a succession of tribal wars and intertribal slaughter</span>__**<span style="font-size: 12pt;">. **__That this savage ideology now rules nations armed with nuclear weapons__**, **__should give pause to anyone concerned with mankind’s survival__**. **__Statism is a system of institutionalized violence and perpetual__** </span>civil<span style="font-size: 12pt;"> **__war__. __It leaves__**</span> men<span style="font-size: 12pt;"> **__no choice but the right to seize__** </span>political **__<span style="font-size: 12pt;">power</span>__**—to rob or be robbed,**<span style="font-size: 12pt;"> __to kill or be killed__.</span>** When brute force is the only criterion of social conduct, and unresisting surrender to destruction is the only alternative, even the lowest of men, even an animal—even a cornered rat—will fight. **__<span style="font-size: 12pt;">There can be no peace within an enslaved nation</span>__****<span style="font-size: 12pt;">.</span>**
+
+
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">In order to avoid a doomed world, protect an individual’s own right to self-preservation, and achieve morality, the neg is the better option.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=<span style="font-size: 1.6em;">[[#January-February]]January-February</span>= 
+==<span style="font-size: 1.4em;">[[#January-February-Affirmative]]Affirmative</span>== 
+==<span style="font-size: 1.4em;">[[#January-February-Negative]]Negative</span>== 
+
+=<span style="font-size: 1.6em;">[[#March-April]]March-April</span>= 
+==<span style="font-size: 1.4em;">[[#March-April-Affirmative]]Affirmative</span>== 
+==<span style="font-size: 1.4em;">[[#March-April-Negative]]Negative</span>==

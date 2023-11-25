@@ -1,0 +1,285 @@
+[[toc]]
+=Return to Home Page= 
+
+[[debatecoaches/2011-2012 - College Prep (CA) - Elsa Givan & Nicholas Yan|Return to Home Page]]
+
+[[debatecoaches/College Prep (CA) - Elsa Givan & Nicholas Yan - Affirmative|College Prep (CA) - Elsa Givan & Nicholas Yan - Affirmative]]
+[[debatecoaches/College Prep (CA) - Elsa Givan & Nicholas Yan - Disadvantages|College Prep (CA) - Elsa Givan & Nicholas Yan - Disadvantages]]
+[[debatecoaches/College Prep (CA) - Elsa Givan & Nicholas Yan - Kritiks|College Prep (CA) - Elsa Givan & Nicholas Yan - Kritiks]]
+[[debatecoaches/College Prep (CA) - Elsa Givan & Nicholas Yan - Past 2NRs|College Prep (CA) - Elsa Givan & Nicholas Yan - Past 2NRs]]
+[[debatecoaches/College Prep (CA) - Elsa Givan & Nicholas Yan - Topicality|College Prep (CA) - Elsa Givan & Nicholas Yan - Topicality]]
+
+=Counterplans= 
+
+==ESA CP== 
+===1NC Shell=== 
+**Text: The European Space Agency should <do the plan>. The European Space Agency should provide information with all relevant actors including the United States.**
+
+**<specific solvency>**
+
+===Earth Observation Solvency=== 
+**ESA can do Earth observation**
+**<span style="font-size: 16px;">Space Mart 8</span>** (Space Mart, 7/16/8, “ESA Launches Program In Support Of Earth Observation Science” http://www.spacemart.com/reports/ESA_Launches_Program_In_Support_Of_Earth_Observation_Science_999.html)
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Since the advent of Earth observation from space...Support to Science Element (STSE).</span>
+
+
+===AT: Perm=== 
+**Turn – EU Leadership**
+**Space leadership is zero sum – plan trades undermines EU leadership**
+**<span style="font-size: 16px;">Shelton and Holdridge 04</span>**<span style="font-size: 10.6667px;">-[“ The US-EU Race for Leadership of Science and Technology: Qualitative and Quantitative Indicators “-International Technology Research Institute R.D. Shelton, Director Geoffrey M. Holdridge, WTEC Division Director and ITRI Series Editor ]</span>
+
+<span style="font-size: 13.3333px;">Both the United States and the European Union have set goals</span>...<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">status of indicators of S&T leadership by U.S. versus the EU. </span>
+
+**Combined action kills EU leadership – US perceived as in charge**
+**<span style="font-size: 16px;">CSIS 07</span>**<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">-[“Modeling U.S. Policy Will Not Secure European Leadership,”Simon Serfaty, CSIS, TERMS OF ENGAGEMENT: THE EURO-ATLANTIC PARTNERSHIP AT SIXTY, March 15, 2007, </span><span style="color: #000000; font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">http://www.csis.org/media/csis/pubs/070315_euusnato.pdf</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">]</span>
+
+<span style="font-size: 13.3333px;">In the United States, the process of European integration</span>...<span style="font-size: 13.3333px;">permanent control over a weak continent.</span>
+==Ukraine CP== 
+===**1NC Shell**=== 
+
+**CP text: The United States federal government should grant permission to Ukraine Space Agency to launch the Deep Space Climate Observatory. The Ukraine Space Agency will share all data produced by the Deep Space Climate Observatory with the United States.**
+
+**Ukraine wants to do the plan – and their rockets are better**
+**<span style="font-size: 16px;">Anderson 6 </span>**(Mitchell, Vancouver based researcher and writer. He worked for eight years as a staff scientist at Sierra Legal Defence Fund and has written extensively on environmental and social policy issues for a variety of national and international publications, “Anyone for a DSCOVR Bake Sale?”, October 2nd, [[http://www.desmogblog.com/anyone-for-a-dscovr-bake-sale]])
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Sounds pretty important. What happened? Last January</span><span style="font-size: 9.33333px;">...</span><span style="font-size: 13.3333px;">otherwise known as pure political pork.</span>
+
+
+===2NC International Fiat Good=== 
+**No limits explosion – There are only a certain number of countries who could do your aff – only 4 countries have a space program budget of over 2 billion and only ONE country offered to launch DSCOVR for free**
+**<span style="font-size: 16px;">Wired 08</span>** (Is There Any Country That Doesn't Have a Space Program?, [[http://www.wired.com/science/space/magazine/16-06/st_spacerace]])
+
+<span style="font-size: 13.3333px;">As technology makes the world smaller</span>...<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">satellite to the Martian moon Phobos in 2009. </span>
+
+===AT: Links to Politics=== 
+**Republicans don’t like spending new money and that dominates their focus in politics – that means the CP can slip through the political process**
+**<span style="font-size: 16px;">The Daily News 9/16</span>** (Dionne: A new breed of political battle, [[http://tdn.com/news/opinion/article_0a7d9ad6-dfd1-11e0-90f9-001cc4c03286.html]])
+
+<span style="font-size: 13.3333px;">Our political system is not accustomed to</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> the kind </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">of</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> battle going on</span>...<span style="font-size: 13.3333px;">Republican Party now thinks we are.</span>
+==Commission CP== 
+===1NC Shell=== 
+**Text: Congress will create an independent commission tasked with evaluating United States space exploration and development policy. The President will nominate and the Senate will confirm the members of the commission. The commission will submit a series of recommendations to the President, including a directive to [plan]. The President will forward these recommendations to Congress, and they will become law after 45 days unless disapproved by a joint resolution of the Congress.**
+
+**<span style="font-size: 16px;">The counterplan solves the case and avoids policy churn</span>**
+<span style="font-size: 16px;">Newton and Atkins 10</span> (Elizabeth, Director for Space Policy- U Alabama-Huntsville, and Chuck, former Chief of Staff-House Science Committee, Take the Chaos Out of U.S. Space Policy, 10 May, 2010, http://spacenews.com/commentaries/100510-take-chaos-out-space-policy.html)
+
+<span style="font-size: 13.3333px;">Policy stability is not</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> an </span><span style="font-size: 13.3333px;">unheard-of</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">feat; examples exist...sustained for the long-term benefit of the nation. </span>
+
+
+**And it doesn’t link to politics – the mechanism of the counterplan ensures passage and provides cover**
+**<span style="font-size: 16px;">Mayer 7</span>** (Kenneth, - professor of political science at the University of Wisconsin, Madison “THE BASE REALIGNMENT AND CLOSURE PROCESS: IS IT POSSIBLE TO MAKE RATIONAL POLICY?”)
+
+
+
+<span style="font-size: 13.3333px;">The</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> conventional </span><span style="font-size: 13.3333px;">wisdom was that legislators...disapproval resolutions came anywhere close to passing.</span>
+
+
+===<span style="font-size: 110%;">2NC Say Yes</span>=== 
+**No debate**
+**<span style="font-size: 16px;">The Telegraph 10</span>** (Nashua Telegraph, "Deficit-cutting panel a missed opportunity," February 14, [[http://www.nashuatelegraph.com/opinion/editorials/612140-263/deficit-cutting-panel-a-missed-opportunity.html]])
+
+<span style="font-size: 13.3333px;">At one time, closing a military base...issue with negative political fallout</span>
+
+
+**Political cover**
+**A. Congress will say their hands were tied – the commission’s recommendations are final, so no one has to take the blame**
+**<span style="font-size: 16px;">Marshall 10</span>** (William Marshall, Progressive Fix, 2/18/2010. “Obama’s Deficit Commission,” http://www.progressivefix.com/obamas-deficit-commission)
+
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Still, such commissions</span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">are sometimes...</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">whittle down the unemployment rate.</span>
+
+
+
+**Congress can’t even deal with a 90 day limit – the 45 day limit would move right through**
+**<span style="font-size: 16px;">North 10</span>** (David, Center for Immigration Studies Fellow, August, http://www.cis.org/indirect-immigration-policy-making)
+
+
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">HR 4321 is full of many flaws and would change America’s...decision in the usual manner, directly.21</span>
+
+
+===2NC AT: Links to Politics=== 
+**The commission gives political cover and it’s __law__ if it isn’t blocked in 45 days – Congress only has to vote on going to space without ever voting on spending money**
+**<span style="font-size: 16px;">Brito 10</span>** (Jerry Brito, Senior Research Fellow- Mercatus Center at George Mason University, “Running for Cover: The BRAC Commission as a Model for Federal Spending Reform”, May 25, [[http://mercatus.org/sites/default/files/publication/WP1023_The%20BRAC%20Commission%20as%20a%20Model%20for%20Spending%20Reform%20%282%29.pdf]])
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">3. </span><span class="BoldUnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Silent Approval</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">: </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">It is often thought...</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">overcoming traditional public choice bias.96</span>
+
+===<span style="font-size: 16px;">2NC AT: Perm do CP</span>=== 
+
+**Makes them untopical – “should” denotes __immediacy__**
+**<span style="font-size: 16px;">Summer 94</span>** (Justice, Appeal from the District Court, "Kelsey v. Dollarsaver Food Warehouse of Durant," OK 123, 885 P.2d 1353, [[http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=20287#marker3fn14|http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=20287#marker3fn14]])
+
+
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 6.66667px;">4 </span><span style="font-size: 13.3333px;">The legal question to be resolved </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">by the court...abandoned by the statutory policy of this State.</span>
+
+
+
+
+
+==PPWT CP== 
+===1NC Shell=== 
+**CP text: The United States federal government should sign the Prevention of the Placement of Weapons in Outer Space Treaty and include an amendment for a world-wide ban on ASATs.**
+**The United States federal government should not <do the plan>.**
+
+**Loophole in the OST creates confusion over weaponization – the CP clarifies and creates a “zero-weapon” policy**
+**<span style="font-size: 16px;">Su 10</span>** (Jinyuan Su, is from The Silk Road Institute of International Law, School of Law, Xi'an Jiaotong University, China. Visiting Fellow, The Lauterpacht Centre for International Law, University of Cambridge, UK. Volume 26, Issue 2, May 2010, Pages 81-90 Science Direct)
+
+<span style="font-size: 13.3333px;">The non-aggression doctrine holds that, as long as they conform</span>...<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">outer space and prohibited by the PPWT. </span>
+
+**Failure to institute the PPWT guarantees a space arms race, pre-emptive attacks and nuclear war**
+**<span style="font-size: 16px;">Su 10</span>** (Jinyuan Su, is from The Silk Road Institute of International Law, School of Law, Xi'an Jiaotong University, China. Visiting Fellow, The Lauterpacht Centre for International Law, University of Cambridge, UK. Volume 26, Issue 2, May 2010, Pages 81-90 Science Direct)
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">To the USA and a few other countries, </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">there is not yet an arms race in space</span>...<span style="font-size: 13.3333px;">new legal instrument on outer space at hand</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">.70</span>
+
+==UN Mitigation CP== 
+===**1NC Shell**=== 
+**Text: The United Nations should implement a framework for international cooperation over asteroid detection as per the recommendations of the Association of Space Explorers International Panel on Asteroid Threat Mitigation.**
+
+**International framework for a coordinated response is key – without a pre-determined consensus, implementation will be delayed and we won’t be able to __deflect__ the asteroid – that turns the case**
+**ASE 8**<span style="font-size: 13.3333px; text-decoration: none;"> (Association of Space Explorers International Panel on Asteroid Threat Mitigation, “ASTEROID THREATS: A CALL FOR GLOBAL RESPONSE”, September 25, [[http://www.space-explorers.org/ATACGR.pdf]])</span>
+
+<span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Humankind possesses the first two of the elements necessary...</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">agreed upon prior to the advent of a specific threat.</span>
+
+**Three recommendations – they solve**
+**ASE 8**<span style="font-size: 13.3333px; text-decoration: none;"> (Association of Space Explorers International Panel on Asteroid Threat Mitigation, “ASTEROID THREATS: A CALL FOR GLOBAL RESPONSE”, September 25, [[http://www.space-explorers.org/ATACGR.pdf]])</span>
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Recognizing that Near Earth Object impacts represent a global...</span><span style="font-size: 13.3333px;">community in responding to the global threat of NEO impacts.</span>
+==R&D Tax Credit CP== 
+
+===1NC Shell=== 
+
+**Text: The United States federal government should create a permanent tax credit for the aerospace industry for research and development related to airframe and engine technologies.**
+
+**The counterplan revitalizes the aerospace industry- empirics.**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">**FAAC 10** (Department of Transportation’s recommendations via the Future of Aviation Advisory Committee to Congress, The Aviation Advisory Committee provides information, advice, and recommendations to the Secretary of Transportation on ensuring the competitiveness of the U.S. aviation industry and its capability to address the evolving transportation needs, challenges, and opportunities of the global economy. 2010; [[http://www.dot.gov/faac/FAAC_Recommendations.pdf]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">RECOMMENDATION # 2 <span class="UnderlineChar">RESEARCH AND DEVELOPMENT RELATED TO AIRFRAME... creation, enhance exports and improve the country‘s leadership in clean technologies. </span></span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">A permanent tax credit solves- incentivizes innovation and investment while increasing jobs and GDP.</span>**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;"> **AIA 10** Aerospace Industries Association (“Research and Development Tax Credit,” [[http://www.aia-aerospace.org/assets/RandDpaper.pdf]], May)</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">In short, a preponderance of the studies supports... would result in the creation of 162,000 jobs in the short-run.</span>
+
+==Prizes CP== 
+
+===1NC Shell=== 
+
+**Text: The United States federal government should offer 5 $100 million dollar prizes to the first company that develops [x] technology.**
+
+**Prizes have succeeded in the past – more substantial projects are now viable**
+**USSEP 4**<span style="font-size: 10pt; text-decoration: none;"> (Recommendation 5-2 from "A Journey to Inspire, Innovate, and Discover," the report of the President's Commission on the Implementation of United States Space Exploration Policy, June, [[http://www.space-settlement-institute.org/Articles/rec52.htm]])</span>
+
+<span style="font-size: 10pt;">Prizes. The Commission heard testimony from a variety of sources...funding for such a prize would be provided.</span>
+
+===2NC Solvency - Generic=== 
+
+**2011 is __uniquely__ key for space exploration but __continued__ investment in the private sector is crucial**
+**David 10**<span style="font-size: 10pt; text-decoration: none;"> (Leonard, David has been reporting on the space industry for more than five decades. He is past editor-in-chief of the National Space Society's Ad Astra and Space World magazines and has written for Space.com since 1999, “Private spaceflight ready to take off in 2011”, December 29)</span>
+
+The private space industry has long been viewed as fledgling...<span style="font-size: 10pt;">the rubber hit the road" in several fronts of this war.</span>
+
+===<span class="StyleBoldUnderline">2NC Solvency - Innovation</span>=== 
+
+<span style="font-size: 10pt;">**<span class="StyleBoldUnderline">NASA prizes spur innovation and generate public interest – that creates long term solvency</span>**</span>
+<span style="font-size: 10pt;">**Sargeant 8**<span class="StyleBoldUnderline"> (Benjamin, Subcommittee on Space and Aeronautics Committee on Science and Technology U.S. House of Representatives, “The Use of Innovation Prizes by the National Aeronautics and Space Administration: An Analysis of Future Possibilities for Fostering Research and Development”, July 28, [[http://pip.collegethink.com/media/files/papers/Sargeant_08_r.pdf]])</span></span>
+
+<span style="font-size: 10pt;">Although the progress made thus far by the Centennial Challenges...assisting NASA with low-Earth orbit operations.</span>
+
+===<span class="StyleBoldUnderline">NASA Bad</span>=== 
+
+<span style="font-size: 10pt;">**<span class="StyleBoldUnderline">NASA is over-budget and past-deadline – recent GAO report proves</span>**</span>
+<span style="font-size: 10pt;">**Mcmillan 9**<span class="StyleBoldUnderline"> (Graeme, correspondent for io9, “NASA = Fail, According To Government Report”, i09, experts on space, March 4)</span></span>
+
+<span style="font-size: 10pt;">How badly is NASA being run...</span><span class="StyleBoldUnderline">to save face if nothing else.</span>
+
+==5O States Incentive CP== 
+===**1NC Shell**=== 
+**Text: The fifty states and all relevant territories should [plan] by offering tax incentives to all relevant commercial space sectors, entities, and industry.**
+**States solve space exploration better – similar goals as the federal government but with localized attention to economic and innovative needs**
+**Blasingame 10**<span style="font-size: 13.3333px; text-decoration: none;"> (Meredith, Bureau Chair of the Mississippi Law Journal, “NURTURING THE UNITED STATES COMMERCIAL SPACE INDUSTRY IN AN INTERNATIONAL WORLD: CONFLICTING STATE, FEDERAL, AND INTERNATIONAL LAW”, Mississippi Law Journal, Winter 2010, Lexis)</span>
+
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">For the most part, </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">states' actions do not seem to create...</span><span style="font-size: 13.3333px;">purposes of the express preemption clause.</span>
+
+===<span style="font-size: 13.3333px;">2NC Solvency</span>=== 
+
+**States can offer tax incentives – prefer our evidence, it’s in the context of space exploration**
+**Blasingame 10**<span style="font-size: 13.3333px; text-decoration: none;"> (Meredith, Bureau Chair of the Mississippi Law Journal, “NURTURING THE UNITED STATES COMMERCIAL SPACE INDUSTRY IN AN INTERNATIONAL WORLD: CONFLICTING STATE, FEDERAL, AND INTERNATIONAL LAW”, Mississippi Law Journal, Winter 2010, Lexis)</span>
+
+<span style="font-size: 13.3333px;">States offer</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> a variety of </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">tax</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">, zoning, and other </span><span class="UnderlineChar" style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">incentives...</span><span style="font-size: 13.3333px;">incentives aimed at the space transportation industry</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">. </span>
+
+===AT: USFG Key=== 
+**State action is modeled by the federal government**
+**<span style="font-size: 16px;">Halberstam and Hills 1</span>**<span style="color: #000000;">- *assistant professor law at the University of Michigan Law School specializing in U.S. constitutional law and **professor of law at the University of Michigan Law School, specializing in U.S. constitutional law, local government law, the law of federalism and intergovernmental relations</span>
+<span style="color: #000000;">(Daniel Halberstam and Roderick M. Hills, Jr., The American Academy of Political and Social Science, “State Autonomy in Germany and the United States,” 03-2001, Leixs-Nexis Academic) </span>
+
+The states may exploit this power to initiate programs...continued existence of active state regulation.
+
+===AT: 50 State Fiat Bad=== 
+**The counterplan is more relevant to real world policymaking than the plan is**
+**<span style="font-size: 16px;">Etizen and Sage 9</span>**<span style="color: #000000;">- *Professor Emeritus of Sociology at Colorado State University and **Professor Emeritus of Sociology and Kinesiology at the University of Northern Colorado</span>
+<span style="color: #000000;">(D. Stanley Etizen and George H. Sage, Solutions to social problems: lessons from state and local governments, p.113-4)</span>
+
+<span style="font-size: 13.3333px;">In view of the federal government's inability to develop strategies...government programs to address these needs.</span>
+
+===AT: Perm=== 
+**Expanding federal power undermines state competence**
+**<span style="font-size: 16px;">Nivola 5</span>**<span style="color: #000000;"> - Senior Fellow, </span><span style="color: #000000; text-decoration: none;">[[http://www3.brookings.edu/governance.aspx|Governance Studies]]</span><span style="color: #000000;">, The Brookings Institution (Pietro, “Why Federalism Matters,” BROOKINGS POLICY BRIEF SERIES | # 146, </span><span style="color: #000000; text-decoration: none;">[[http://www3.brookings.edu/papers/2005/10governance_nivola.aspx]]</span>
+
+<span style="font-size: 13.3333px;">Why the paternalists in Washington cannot resist dabbling...</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">and taken greater precautions.</span>
+
+**Disad to the perm -**
+**A) Federalism is vital to a clear division of labor between state and federal governments – key to maximize US leadership**
+**<span style="font-size: 16px;">Nivola 7</span>**<span style="color: #000000;"> - Vice president and Director of Governance Studies at the Brookings Institution </span><span style="color: #000000; font-size: 10.6667px;">(Pietro, “Rediscovering Federalism”, April, </span><span style="color: #000000; font-size: 10.6667px; text-decoration: none;">[[http://www3.brookings.edu/%7E/media/Files/rc/papers/2007/07governance_nivola/07governance_nivola.pdf|http://www3.brookings.edu/~/media/Files/rc/papers/2007/07governance_nivola/07governance_nivola.pdf]]</span>
+
+<span style="color: #000000; font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Whatever else it is supposed to do, </span><span style="font-size: 13.3333px;">a federal system of government...render such tragedies harder to prevent or mitigate. </span>
+
+**B) Leadership stops multiple global nuclear wars**
+**<span style="font-size: 16px;">Lieber 5</span>** Prof. Gov and Int’l. Affairs @ Georgetown U. (Robert, “The American Era: Power and Strategy for the 21st Century”, p. 53-54)
+
+<span style="font-size: 13.3333px;">Withdrawal</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">from foreign commitments might...</span><span style="font-size: 13.3333px;">retreat into a few fortified enclaves</span>
+
+==Code of Conduct CP== 
+
+===1NC Shell=== 
+
+**Text: The United States federal government should negotiate a Code of Conduct with all space-faring nations. The United States federal government should not substantially increase the development of Operationally Responsive Space.**
+
+<span style="font-size: 10pt;">**Establishing rules of the road solves questions over space**</span>
+<span style="font-size: 10pt;">**Krepon et al 11** (Michael Krepon is the President of the Henry L. Stimson Center, also Theresa Hitchens, Director of the United Nations Institute for Disarmament Research and Michael Katz-Hyman, Research Associate at the Henry L. Stimson Center on the Space Security and South Asia Projects (, Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])</span>
+
+<span style="font-size: 10pt;"><span style="font-family: 'Arial Narrow',sans-serif;">We view a </span><span class="UnderlineChar" style="font-family: 'Arial Narrow',sans-serif;">code of conduct</span><span style="font-family: 'Arial Narrow',sans-serif;">for responsible spacefaring nations as a necessary complement...</span>prevent misunderstandings<span style="font-family: 'Arial Narrow',sans-serif;">, </span><span class="BoldUnderlineChar" style="font-family: 'Arial Narrow',sans-serif;">catastrophic actions</span><span style="font-family: 'Arial Narrow',sans-serif;"> in space, and grievances.</span></span>
+
+
+<span style="font-size: 10pt;">**Here’s our solvency advocate**</span>
+<span style="font-size: 10pt;">**Krepon and Black 9** (Michael Krepon, co-founder of Stimson, and director of the South Asia and Space Security programs, Samuel Black, Research Associate at the Stimson Center, May 2009, “Space Security or Anti-satellite Weapons?” Stimson, [[http://www.scribd.com/doc/30887749/Space-Security-or-Anti-Satellite-Weapons?query=ban|www.scribd.com/doc/30887749/Space-Security-or-Anti-Satellite-Weapons?query=ban]])</span>
+
+<span style="font-size: 10pt;">Key Elements of Stimson’s Space Code of Conduct Rights of Space-Faring States...agree upon additional measures to improve the Code’s viability and effectiveness<span style="font-family: 'Arial Narrow',sans-serif;">.</span></span>
+
+===2NC Solvency - Generic=== 
+
+<span style="font-size: 10pt;">**Even if China says no or the Code fails, initiating the process creates a new relationship that prevents miscalculation and reaffirms deterrence**</span>
+<span style="font-size: 10pt;">**Manzo 8** (Vince, CDI Research Assistant, “U.S. Policy Brief: The Need for a Strategic Dialogue with China,” 8/28, http://www.cdi.org/pdfs/StrategicDialoguePolicy.pdf)</span>
+
+<span style="font-size: 10pt;">A strategic dialogue<span style="font-family: 'Arial Narrow',sans-serif;">between the United States and China isa necessarycomponent...China does not necessarily accept or share them.”</span></span>
+
+===AT: Perm=== 
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">**Permutation __links harder__ to the DA**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">**Krepon 1** (President Emeritus of the Henry L. Stimson Center and Co-Editor of the Global Confidence Building: New Tools for Troubled Regions, May/June, Michael, “Lost in Space; The Misguided Drive Toward Antisatellite Weapons”, Foreign Affairs, lexis)</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">As the Rumsfeld report signifies...they will react accordingly.</span>
+
+===AT: Links to Politics=== 
+
+<span style="font-size: 10pt;">**__No Debate__ – CP bypasses congressional approval – negotiations can be done by the executive**</span>
+<span style="font-size: 10pt;">**Gallagher and Steinbruner 8** (Nancy Associate Director for Research at the Center for International and Security Studies and John Professor of Public Policy at the University of Maryland and Director of the Center for International and Security Studies at Maryland, Reconsidering the Rules for Space Security, [[http://www.cissm.umd.edu/papers/files/spacesecuritymonograph.pdf]])</span>
+
+<span style="font-size: 10pt;">The most readily available and most reasonably demanded...management of security policy requires that much at a minimum.</span>
+
+===<span style="font-size: 11pt;">AT: China Says No</span>=== 
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">**China wants the treaty**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">**Butt 11** (Dr. Butt, Ph.D in physics, 3/7 - physicist in the High-Energy Astrophysics Division at the Harvard-Smithsonian Center for Astrophysics, previously, he was a fellow in the Committee on International Security and Arms Control at the National Academy of Sciences, Ph.D in physics 2011, Yousaf, “Six answers to 37 senators”, [[http://www.thespacereview.com/article/1793/1]])</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt;">6) <span class="UnderlineChar">Will Russia and China be involved in the Code of Conduct...</span>substantial amounts of space debris.”</span>

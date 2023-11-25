@@ -1,0 +1,1 @@
+[[include component="pageList" hideInternal="true" tag="edgemont" limit="10" ]]

@@ -1,0 +1,311 @@
+[[toc]]
+=Greenhill Round Robin= 
+==Round 2 - GBN KS - Space Elevator== 
+1NC: T- Pre-existing, Tech K, Privatization CP, Elections DA
+2NC: T-Pre-existing, Privatization CP, Case
+1NR: Elections DA
+2NR: Elections DA and Case
+==Round 3 - CK McClatchy HS - Ice Breakers== 
+1NC: T-Substantial, T-Transportation Infrastructure, H1-B Visas CP, LOST CP, Elections DA
+2NC: T-Transportation Infrastructure, H1-B Visas CP, LOST CP, Case
+1NR: Elections DA
+2NR: Elections DA and Case
+
+==Round 5 - Stratford JS - Port Dredging== 
+1NC: T-Maintenance, T-Substantial, China Bashing CP, Corporate Tax Rate CP, States CP, Elections DA, Free Trade Bad
+2NC: China Bashing CP, Corporate Tax Rate CP, Free Trade Bad
+1NR: Elections DA
+2NR: China Bashing CP, Corporate Tax Rate CP, Elections DA
+=Greenhill= 
+==Round 2 - Law Magnet NP - Green Infrastructure== 
+1NC: T-Substantial, Tech K, States CP, Elections DA, High Dairy Prices Good
+2NC: T-Substantial, High Dairy Prices Good
+1NR: Elections DA
+2NR: High Dairy Prices Good
+
+==Round 4 - Niles North FO - Port Security== 
+1NC: T-Substantial, T - Transportation Infrastructure, Pos Peace K, Private Sector CP, Elections DA
+2NC: T- Transportation Infrastructure, Pos Peace K, Case
+1NR: Elections DA
+2NR: T - Transportation Infrastructure
+==Round 6 - Gulliver MZ - NIB== 
+1NC: T-Investment, T-Substantial, H1-B CP, States CP, Elections DA
+2NC: H1-B CP and Case
+1NR: Elections DA
+2NR: Elections DA
+==Octas - San Dieguito HW - ITS== 
+1NC: T-Substantial, EB Visas CP, Elections DA
+2NC: T-Substantial and EB Visas CP
+1NR: Elections DA
+2NR: EB Visas CP and Elections DA
+=Georgetown= 
+==Round 1 - Eastside DM - HSR== 
+1NC: T-Substantial, Tech K, States CP, Elections DA
+2NC: Tech K and Case
+1NR: Elections DA
+2NR: Tech K
+==Round 4 - Carrolton CW- Ice Breakers== 
+1NC: T-Substantial, T-Vehicles, H1-B CP, LOST CP, Elections DA
+2NC: T-Vehicles, H1-B CP, Case
+1NR: Elections DA
+2NR: H1-B CP and Elections DA
+==Round 6 - BCC GM - Politics of Disposability== 
+1NC: Framework, T-Infrastructure, Diversity Forums CP, OIS CP, Elections DA
+2NC: Framework
+1NR: T-Infrastructure and Diversity Forums CP
+2NR: T-Infrastructure
+==Doubles - Bishop Guertin SZ - Port Dredging== 
+1NC: T-Maintenance, T-Substantial, Pos Peace K, LOST CP, Elections DA, Heg Bad
+2NC: Heg Bad and Case
+1NR: Pos Peace K
+2NR: Pos Peace K
+==Octas - Acorn DT - Race== 
+1NC: Framework, T-Investment, Eco Justice K, Diversity Forums CP, Reparations CP
+2NC: Framework
+1NR: Reparations CP
+2NR: Reparations CP
+==Semis - Carrollton DS - Ice Breakers== 
+1NC: T-In/Military/Substantial/Vehicles, Gender K, Consult Russia CP, Elections DA, Russia DA
+2NC: Gender K
+1NR: T-Military/Vehicles
+2NR: Gender K
+=St. Mark's= 
+==Round 2- Coppell DM - Guam== 
+1NC: T-Military, T-Substantial, Gender K, OTEC CP, Sea Basing CP, Elections DA, Warming Good
+2NC: OTEC CP, Sea Basing CP, Warming Good
+1NR: Elections DA
+2NR: Warming Good
+==Round 3 - Coppell DE - Natives== 
+1NC: T-Substantial, Revolutionary Ethics, K, States CP, Elections DA
+2NC: States CP and Case
+1NR: Elections DA
+2NR: States CP and Elections DA
+==Round 5- Stratford JS - Dredging== 
+1NC: T-Maintenance, T-Substantial, Gender K, OIS CP, Elections DA, Keynes Bad
+2NC: Keynes Bad and Case
+1NR: Elections DA
+2NR: Elections DA and Case
+==Quarters - Woodward DS - Surface Transportation== 
+1NC: T-Maintenance, Gender K, OIS CP, Elections DA, Keynes Bad
+2NC: Keynes Bad
+1NR: Elections DA
+2NR: Keynes Bad
+==Semis - Greenhill PS - Bering Strait== 
+1NC: T-Land Grants, Gender K, JDEC CP, Elections DA, Ice Age
+2NC: Ice Age
+1NR: Asia DeDev
+2NR: Asia DeDev
+=Michigan Round Robin= 
+==Round 3 - Juan Diego KW - Over-Identification== 
+1NC: T-Substantial, New Hampshire CP, OIS CP, Heg DA, Elections DA
+2NC: T-Substantial and New Hampshire CP
+1NR: Elections DA
+2NR: New Hampshire CP and Elections DA
+==Round 5 - Dowling LS - Alaska Ports== 
+1NC: T-Substantial, Gender K, Alaska CP, Elections DA
+2NC: Alaska CP and Case
+1NR: Elections DA
+2NR: Alaska CP and Elections DA
+==Round 7 - Westminster LP - CCS== 
+1NC: T-Energy, Warming K, States CP, Elections DA, Electricity Prices DA, Ice Age
+2NC: Electricity Prices DA
+1NR: Elections DA
+2NR: Elections DA and Case
+==Round 9 - Traverse City Central CP - HSR== 
+1NC: T-Substantial, OTEC CP, States CP, Elections DA, Ice Age, Keynes Bad
+2NC: Ice Age
+1NR: Elections DA
+2NR: Elections DA and Case
+=Michigan= 
+==Round 2 - Groves CO - Port Security== 
+1NC: T-In, ACE CP, States CP, Elections DA
+2NC: T-In and ACE CP
+1NR: Elections DA
+2NR: ACE CP and Elections DA
+==Round 3 - Blake MS - Dredging== 
+1NC: T-Maintenance, Gender K, OIS CP, States CP, Elections DA, Heg Bad
+2NC: States CP and Heg Bad
+1NR: Elections DA
+2NR: Elections DA and Case
+==Round 6 - GBS CC - Inland Waterways== 
+1NC: T-Maintenance, Gender K, States CP, Elections DA, Keynes Bad, Prolif Good
+2NC: Keynes Bad
+1NR: Elections DA
+2NR: Elections DA and Case
+==Octas - Dowling LS - Alaska Ports== 
+1NC: T-Substantial, Gender K, Alaska CP, Elections DA
+2NC: Alaska CP and Case
+1NR: Elections DA
+2NR: Alaska CP and Elections DA
+==Semis - New Trier KS - Bike Paths== 
+1NC: Framework, T-Increase, Revolutionary Ethics K, States CP, Elections DA
+2NC: States CP
+1NR: Elections DA
+2NR: States CP and Elections DA
+==Finals - Chattahoochee KL - Disabilities== 
+1NC: Framework, T-Maintenance, Cap K, OIS CP, States CP, Elections DA
+2NC: Cap K
+1NR: OIS CP
+2NR: Cap K
+=Glenbrooks= 
+==Round 2 - CPS BG - Whiteness== 
+1NC: FW, T-Increase, Eco Justice K, Diversity Forums CP, Cede the Political DA, Environment DA
+2NC: Framework
+1NR: Diversity Forums CP
+2NR: Framework
+==Round 3 - Mountain Brook JS - HTF== 
+1NC: T-Gas Tax, Gas Tax CP, States CP, Fiscal Cliff DA
+2NC: Gas Tax CP and Case
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+==Round 5 - Kinkaid MJ - JARC== 
+1NC: T-Vehicles, Revolutionary Ethics K, OIS CP, States CP, Fiscal Cliff DA
+2NC: T-Vehicles and Case
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+==Round 7 - Carrollton DS - Ice Breakers== 
+1NC: T-In/Transportation Infrastructure, Gender K, States CP, Fiscal Cliff DA
+2NC: Gender K
+1NR: T-In/Transportation Infrastructure
+2NR: Gender K
+==Doubles - Iowa City West KR - Port Dredging== 
+1NC: T-Maintenance, Gender K, States CP, Fiscal Cliff DA, Keynes Bad
+2NC: Keynes Bad
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+==Octas - St. Mark's BM - NIB== 
+1NC: T-Investment, Gender K, States CP, Fiscal Cliff DA
+2NC: States CP
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+==Semis - Hooch KL - Disabilities== 
+1NC: T-Maintenance, Cap K, OIS CP, Fiscal Cliff DA
+2NC: Cap K
+1NR: OIS CP
+2NR: Cap K
+==Finals - Greenhill PS - Bering Strait== 
+1NC: T-Investment, Gender K, Consult Russia CP, Fiscal Cliff DA
+2NC: Case
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+=Scranton= 
+==Round 1 - Lexington AM - Guam== 
+1NC: T-Military, Gender K, Asian Regionalism CP, F-22 CP, Fiscal Cliff DA
+2NC: T-Military and Case
+1NR: Fiscal Cliff DA
+2NR: Fiscal Cliff DA and Case
+==Round 3 - Atholton SZ - Racially Just Transportation== 
+1NC: FW, Cap K, Diversity Forums CP, Fiscal Cliff DA
+2NC: Framework
+1NR: Diversity Forums CP
+2NR: Framework
+==Round 6 - National Cathedral HS - Climate Resiliency== 
+1NC: T-Maintenance, Gender K, States CP, Fiscal Cliff DA, Keynes Bad
+2NC: Keynes Bad
+1NR: Fiscal Cliff DA
+2NR: Keynes Bad
+=MBA= 
+==Round 2 - Lakeland - Port Security== 
+1NC: T- Maintenance, Gender K, States CP, Immigration Reform DA
+2NC: T-Maintenance and Case
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA and Case
+==Round 4 - Kinkaid - JARC== 
+1NC: T-Vehicles, Revolutionary Ethics K, States CP, Immigration Reform DA
+2NC: Revolutionary Ethics K
+1NR: T-Vehicles
+2NR: T-Vehicles
+==Round 5 - St. Mark's - NIB== 
+1NC: T-Investment, States CP, Immigration Reform DA, Keynes Bad, Space Colonization Bad
+2NC: Keynes Bad
+1NR: Space Colonization Bad
+2NR: Keynes Bad and Space Colonization Bad
+=Grady= 
+==Round 1 - Woodward PV - Surface Transportation== 
+1NC: T-Maintenance, Gender K, OIS CP, Immigration Reform DA, Keynes Bad
+2NC: Keynes Bad
+1NR: Immigration Reform DA
+2NR: Keynes Bad
+==Round 4 - Houston County BR - Solar Highways== 
+1NC: T-Energy, States CP, Immigration Reform DA, Heg Bad
+2NC: Heg Bad
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA
+==Round 5 - Roswell MR - Disabilities== 
+1NC: T-Maintenance, Cap K, OIS CP, Immigration Reform DA
+2NC: Cap K
+1NR: OIS CP
+2NR: OIS CP
+=Emory= 
+==Round 1 - Bronx MT - Climate Resiliency== 
+1NC: T-Maintenance, Gender K, States CP, Immigration Reform DA, Keynes Bad
+2NC: Keynes Bad
+1NC: Immigration Reform DA
+2NR: Immigration Reform DA and Case
+==Round 4 - Lexington MR - Guam Dredging== 
+1NC: T-Maintenance, Gender K, OIS CP, Immigration Reform DA
+2NC: OIS CP
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA and Case
+==Round 5 - Carrollton DS - Ice Breakers== 
+1NC: T-Military/Vehicles, Gender K, States CP, Immigration Reform DA
+2NC: Gender K
+1NR: T-Vehicles
+2NR: Gender K
+==Semis - Brophy MS - Disabilities== 
+1NC: FW, T-Maintenance, Cap K, OIS CP, Environment DA
+2NC: Cap K
+1NR: OIS CP
+2NR: Cap K
+==Finals - Stratford JS - Dredging== 
+1NC: Inherency, Immigration Reform DA, Spending DA
+2NC: Spending DA
+1NR: Inherency
+2NR: Inherency
+=Harvard Round Robin= 
+==Round 1 - Lexington FK - Guam== 
+1NC: T-Maintenance, Gender K, Restore Base Relocation Funding CP, Immigration Reform DA
+2NC: <span style="line-height: 1.5;">Restore Base Relocation Funding CP</span>
+<span style="line-height: 1.5;">1NR: Immigration Reform DA</span>
+2NR: Restore Base Relocation Funding CP and Immigration Reform DA
+==Round 4 - Blake MS - LNG== 
+1NC: T-Maintenance, Gender K, Privatization CP, Immigration Reform DA, Spot Pricing DA
+2NC: Spot Pricing DA
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA
+==Round 6 - Bronx BK - Climate Adaptation (Race)== 
+1NC: T-Maintenance, Warming K, OIS CP, Warming Advantage CP, Immigration Reform DA
+2NC: Warming K and Warming Advantage CP
+1NR: OIS CP
+2NR: OIS CP
+==Finals - Stratford JS - Dredging== 
+1NC: T-Maintenance, Gender K, Expedite PIC, Immigration Reform DA
+2NC: Expedite PIC and Case
+1NR: Immigration Reform DA
+2NR: Expedite PIC
+=Harvard= 
+==Round 2 - BCC SW - Rhizomatic Transportation Infrastructure== 
+1NC: Framework, T-TI, Eco Justice K, Diversity Forums CP, Transportation Infrastructure PIC, Cede the Political DA
+2NC: Framework
+1NR: Transportation Infrastructure PIC
+2NR: Transportation Infrastructure PIC
+==Round 3 - Lexington KK - NIB== 
+1NC: T-TI, States CP, Immigration Reform DA, Keynes Bad
+2NC: Keynes Bad
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA and Case
+==Round 6 - Hooch KL - Nanotech Roads== 
+1NC: T-Maintenance, Multilateral Nanotech CP, Immigration Reform DA, Keynes Bad
+2NC: Multilateral Nanotech CP
+1NR: Immigration Reform DA
+2NR: Immigration Reform DA and Case
+==Doubles - BCC BM - Politics of Disposability== 
+1NC: T-Investment, FW, Cap K, Ableist Langauge PIC, Environment DA
+2NC: FW
+1NR: Ableist Language PIC
+2NR: Ableist Language PIC
+==Quarters - Bronx Law AL - PaLante== 
+1NC: FW, Cap K, Ableist Langauge PIC, Environment DA
+2NC: FW
+1NR: Ableist Language PIC
+2NR: Ableist Language PIC

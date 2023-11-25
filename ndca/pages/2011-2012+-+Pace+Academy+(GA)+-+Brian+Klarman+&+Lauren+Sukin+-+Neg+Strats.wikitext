@@ -1,0 +1,575 @@
+[[toc]]
+
+=***Neg Strats***= 
+==Wake (Just 1NC's)== 
+===Round 1 – SPS=== 
+
+<span class="Underline">SKFTA</span>
+<span class="Underline">Weaponization</span>
+<span class="Underline">ITAR/OTEC</span>
+<span class="Underline">Security K</span>
+<span class="Underline">Heg Bad </span>
+<span class="Underline">Warming Defense </span>
+
+===Round 3 – SPS=== 
+<span class="Underline">SKFTA</span>
+<span class="Underline">Weaponization</span>
+<span class="Underline">ITAR/OTEC</span>
+Heidegger K
+<span class="Underline">Heg Defense </span>
+<span class="Underline">Warming Defense/CO2 Ag</span>
+
+===Round 6 – Weapons=== 
+COC CP
+NMD PIC
+Heidegger K
+CCP DA
+Space Heg Bad/Impact Defense
+
+===Octos – DNG/Cosmic Egg=== 
+Framework
+T Increase
+Build The Egg Without Going To Space CP
+Launches/Ozone DA
+Pictures CP
+Case Defense
+
+===Quarters – SPS=== 
+Weaponization
+Vagueness
+Visas
+Heidegger K
+CCP DA
+Case Defense
+
+==Greenhill== 
+===Round 2: Neg v. Hoflo (SPS)=== 
+1NC:
+Heidegger K
+PTX (SKFTA)
+Militarization DA
+ITAR and OTECH CP
+T: Increase = Pre-existing
+
+2NC:
+Heidegger K (Cites Are Below)
+Case
+
+1NR:
+Case
+Militarization DA
+
+2NR:
+Heidegger K
+
+
+===Round 4: Neg v. Lex (Property Rights/Lunar Mining)=== 
+1NC:
+T: Substantial
+T: Development
+PTX (SKFTA)
+China CP (China should do the plan) w/ CCP Internal Net Benefit
+Multilateral CP (Spacefaring nations should create an international framework to do the plan)
+Militarization DA
+Heidegger K
+
+2NC:
+CCP DA
+Militarization DA
+Multilateral CP
+
+1NR:
+Case
+PTX
+
+2NR:
+CCP DA
+Militarization DA
+Multilateral CP
+
+===Round 6: Neg v. Woodward (JWST)=== 
+1NC:
+T Increase = Net Increase
+Heidegger K
+PTX (SKFTA)
+EB Visas and TAFTA CP
+
+2NC:
+Case
+EB Visas and TAFTA CP
+
+1NR:
+PTX (SKFTA)
+
+2NR:
+PTX (SKFTA)
+Case
+
+==Georgetown== 
+===Round 2 – SPS=== 
+1NC:
+Interference DA
+SKFTA
+Heidegger K
+Weaponization
+Visas CP
+Case Defense
+
+2NC:
+Interference DA
+K
+Case
+
+1NR:
+Politics
+
+2NR:
+Politics
+Interference
+Case
+
+===Round 3 – Beacon (Critical Environmental Monitoring)=== 
+1NC:
+SKFTA
+T Substantial
+T Of
+WHO + Sustainable Ag CP
+Heidegger K
+Case Defense
+
+2NC:
+Case
+CP
+T Of
+
+1NR:
+Politics
+Case
+
+2NR:
+T Of
+===Round 5 – Westminster (SPS)=== 
+1NC:
+Interference DA
+SKFTA
+Heidegger K
+Weaponization
+Visas CP
+Case Defense
+
+2NC:
+Interference DA
+K
+Case
+
+1NR:
+Politics
+
+2NR:
+Politics
+Case
+
+===Doubles – GBN (Ground Based Lasers)=== 
+
+<span class="Underline">1NC:</span>
+<span class="Underline">SKFTA</span>
+<span class="Underline">Heidegger</span>
+<span class="Underline">T Beyond</span>
+<span class="Underline">Alliant Techsystems CP</span>
+<span class="Underline">Weaponization</span>
+<span class="Underline">Russia CP</span>
+<span class="Underline">Case (With Heg Turns)</span>
+
+<span class="Underline">2NC:</span>
+<span class="Underline">K</span>
+<span class="Underline">Alliant Tech CP</span>
+
+<span class="Underline">1NR:</span>
+<span class="Underline">SKFTA</span>
+<span class="Underline">Case (Only Defense) </span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">SKFTA</span>
+<span class="Underline">CP</span>
+<span class="Underline">Case</span>
+
+===Octos – Nidhi (DSCVR)=== 
+1NC:
+SKFTA
+Heidegger
+End Fossil Fuels CP (Just Text)
+T Of
+T Substantial
+Smart Grid + OTEC + Announce Warming Is Real CP
+Case
+
+2NC:
+K
+SKFTA
+
+1NR:
+Case
+CP (Just Announce Warming Is Real Without Cards)
+
+2NR:
+K
+==Saint Marks== 
+===Round 1 – MBA (China)=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">K – Heidegger</span>
+<span class="Underline">T – It’s/Increase </span>
+<span class="Underline">Politics – Education Reform</span>
+<span class="Underline">CP – Stop Arms Sales/China Talks </span>
+<span class="Underline">DA – Japan </span>
+<span class="Underline">Case Defense </span>
+
+<span class="Underline">2NR:</span>
+<span class="Underline">K</span>
+
+===Round 3 – Hooch (Nano-Sats)=== 
+ORS CP
+SSA CP
+<span class="Underline">K – Heidegger</span>
+<span class="Underline">Politics – Education Reform</span>
+<span class="Underline">T – Human</span>
+DA – Weaponization
+Heg Bad
+Case Defense
+
+2NR:
+ORS CP, Case (defense), Weaponization
+
+===Round 6 – Carrolton (SPS)=== 
+
+<span class="Underline">1NC: </span>
+<span class="Underline">K – Heidegger</span>
+<span class="Underline">T – Human</span>
+<span class="Underline">Politics – China Bashing</span>
+<span class="Underline">CP – OTEC/Visas </span>
+<span class="Underline">Heg Bad</span>
+<span class="Underline">CO2 Ag</span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">Politics, CP (Visas), Case (defense) </span>
+
+===Doubles – Winston Churchill (New K AFF)=== 
+1NC:
+Framework
+CP – Pictures
+Vagueness
+Science DA
+Heg K
+SPS PIC/SPS interference DA
+Case Defense/Util
+
+2NR:
+Framework/T—USFG
+
+===Octos – Mountain Brook (SPS)=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">K – Heidegger</span>
+<span class="Underline">Politics – China Bashing</span>
+<span class="Underline">T – Substantial </span>
+<span class="Underline">CP – Visas </span>
+DA – Weaponization
+<span class="Underline">Heg Bad</span>
+<span class="Underline">CO2 Ag</span>
+
+2NR:
+Politics, Case (defense)
+
+==UMich (RR + Tourn)== 
+===RR Round 2 – New Trier (SBMD)=== 
+1NC:
+K (Heidegger)
+Weaponization
+Politics
+CP (Nuke Testing)
+Case (W/ Heg Good And Prolif Bad)
+
+2NR:
+K
+===RR Round 4 – HoFlo (DRAGNETS)=== 
+1NC:
+Weaponization
+Consult Russia
+Nano PIC (CP test was written wrong…)
+K (Heidegger)
+Case (W/ Heg Bad)
+
+2NR:
+Weaponization/Case
+
+====HoFlo Nano Cards==== 
+1NC:
+It competes/Links
+Ziegler, 1AC Author, 7 (Dustin P. Ziegler, Major, USAF April 2007 “PERSISTENT SPACE SITUATIONAL AWARENESS: DISTRIBUTED REAL-TIME AWARENESS GLOBAL NETWORK IN SPACE (DRAGNETS)” http://www.au.af.mil/au/awc/awcgate/cst/bh_ziegler.pdf)
+Constellations of femtosats will operate with a degree of self-awareness supported by the 11 nanotechnology-enabled processing power and networking technologies projected to evolve over the next two decades. Without intervention from the ground, the system will continuously monitor its own state of health, identifying failing femtosat elements. The constellation will then perform corrective measures itself, signal to ground for instructions, or deactivate and remove the faulty elements. Similarly, the architecture will respond to external events by adapting to focus more attention on the event while passing along all relevant information to different regions of the constellation, other satellites on the network, and the ground C 2 nodes. An architecture this complex would quickly overwhelm today’s C 2 capabilities, but our 2025 ground segment will be reaping the nanotechnology rewards too.
+
+Nanotech causes arms race, unstable proliferation of the tech, economic upheaval, environmental damage, and abusive restrictions.
+CRN, 2/7/2008, The Center for Responsible Nanotechnology, is a non-profit research and advocacy think tank concerned with the major societal and environmental implications of advanced nanotechnology.
+Molecular manufacturing (MM) will be a significant breakthrough, comparable perhaps to the Industrial Revolution—but compressed into a few years. This has the potential to disrupt many aspects of society and politics. The power of the technology may cause two competing nations to enter a disruptive and unstable arms race. Weapons and surveillance devices could be made small, cheap, powerful, and very numerous. Cheap manufacturing and duplication of designs could lead to economic upheaval. Overuse of inexpensive products could cause widespread environmental damage. Attempts to control these and other risks may lead to abusive restrictions, or create demand for a black market that would be very risky and almost impossible to stop; small nanofactories will be very easy to smuggle, and fully dangerous. There are numerous severe risks—including several different kinds of risk—that cannot all be prevented with the same approach. Simple, one-track solutions cannot work. The right answer is unlikely to evolve without careful planning.
+
+1NR:
+it outweighs nuclear war.
+Bailey in ‘8 (Ronald, science editor for Reason magazine, “The End of Humanity,” July 22, http://www.reason.com/news/show/127676.html)
+While nuclear war and nuclear terrorism would be catastrophic, the presenters acknowledged that neither constituted existential risks; that is, a risk that they could cause the extinction of humanity. But the next two risks, self-improving artificial intelligence and nanotechnology, would.
+
+
+4. The plan is a competing program – leads to tech leaks and reduces the accountability and credibility of the CP
+Treder And Phoenix, 1AC Author, 8 Mike , Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the Institute for Ethics and Emerging Technologies, a consultant to the Millennium Project of the American Council for the United Nations University AND Chris Phoenix, CRN’s Director of Research, has studied nanotechnology for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. Center For Responsible Nanotechnology, “Finding a Solution that Balances Many Interests” http://www.crnano.org/everyone.htm
+A key to our proposal is the use of a flexible, carefully controlled manufacturing system. As described in our Technical Restrictions page, self-contained molecular manufacturing systems (personal nanofactories) can have restrictions built in to prevent many kinds of misuse, by allowing only approved products or classes of products to be built. This allows a fine degree of control over the whole technology—as long as the restrictions are not broken, and as long as no competing development programs exist. Competing programs are a bad idea for at least two reasons. First, they multiply the chance of a technology leak. Second, they reduce accountability and trackability, which increases uncertainty and decreases security.
+
+5. Individual nations making tech destroys the program and causes a Nano-race
+Treder And Phoenix, 1AC Author, 8 Mike , Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the Institute for Ethics and Emerging Technologies, a consultant to the Millennium Project of the American Council for the United Nations University AND Chris Phoenix, CRN’s Director of Research, has studied nanotechnology for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. Center For Responsible Nanotechnology, “Finding a Solution that Balances Many Interests” http://www.crnano.org/everyone.htm
+As long as all MNT capability is administered by an international body, with product designs being reported and tracked, it will be possible to verify the offensive and defensive capabilities of each nation. This approach depends on individual nations not developing independent MNT capabilities. Some designs will need to be kept secret. A small, diverse, trustworthy, collectively disinterested board of technology evaluators could assess the capabilities of each secret design: lethality, destructiveness, size, etc. The manufacture of each design could be tracked, allowing approximate knowledge of capabilities and intentions to be published without giving away secret details. If numerous countries do develop independent capabilities, it is hard to see how any country could be secure; even a massive (and wasteful) deployment of defensive MNT would not guarantee protection against new and unexpected kinds of weapons. As discussed in this essay by Thomas McCarthy, MNT's effect of cutting economic ties between countries greatly reduces their economic incentive to avoid war. And as discussed here by Mark Gubrud, and on CRN's Dangers page, an arms race interrupted by a preemptive strike is likely. Faced with such a scenario, all countries should be willing to accept mutual inspections to verify that there is no independent MNT development. However, the United States recently refused to allow biological inspections. Even if an international approach is the best hope for international security, it may be difficult to get it accepted. It is questionable, though, whether any one country such as the United States can successfully take on the role of international administrator.
+
+***Note: Add AT: Inevitable
+===RR Round 5 – Marist (Fem K)=== 
+
+<span class="Underline">1NC:</span>
+<span class="Underline">Framework</span>
+<span class="Underline">Politics</span>
+<span class="Underline">CP (Text: The National Aeronautics and Space Administration should restructure its corporation to include an all-female staff in honor of Roger Boisjoly.) </span>
+<span class="Underline">K (Nietzsche)</span>
+<span class="Underline">Case (W/ Corporate Dominance Good)</span>
+
+<span class="Underline">2NR:</span>
+<span class="Underline">Framework</span>
+
+===Tourn Round 1 – New Trier (SSP)=== 
+1NC:
+Weaponization
+Politics
+K (Heidegger)
+CP (OTEC)
+T (Human/Commercial)
+Case (W/ CO2 Ag and Heg Bad)
+
+2NR:
+Case/Politics
+
+===Tourn Round 3 – Pinecrest (ORS)=== 
+1NC:
+Politics
+K (Heidegger)
+T (Human/Commercial)
+CP (ITAR/Nuke Testing)
+Case (W/ Weaponization)
+
+2NR:
+K
+
+===Tourn Round 6 – Whitney Young (ORS)=== 
+1NC:
+K (Heidegger)
+CP (Hardening PIC)
+Politics
+Case (W/ Weaponization Link Turns)
+
+2NR:
+CP/Politics
+
+===Tourn Doubles – UCLab (Iran Demo)=== 
+1NC:
+Politics
+T (ITS/HUMAN/OF)
+K (Heidegger)
+CP (The United States state department should defund the global internet freedom consortium. The United States federal government should engage in multilateral dialogue about space security with China and promise full transparency. The United States Federal Government should pursue a policy of targeted sanctions against Iran, engage in a public diplomacy campaign highlighting Iran’s human rights abuses and provide full support for Voice of American and independent Iranian broadcasters that engage in anti-regime propaganda activities. The United States federal government should establish a bilateral security commitment with Iran.)
+Weaponization
+Case (W/ Demo Bad And Demo = CCP Collapse)
+
+2NR:
+T OF
+===Tourn Octos – Carrolton (SPS)=== 
+1NC:
+Weaponization
+K (Heidegger Short)
+T Human
+CP (Nuke Testing)
+Case (Warming Good CO2/Ice Age)
+
+2NR:
+CP/CO2
+
+==<span class="Underline">GBX Neg Strats</span>== 
+===<span class="Underline">Round 1 – Dowling (VSE)</span>=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">Weaponization</span>
+<span class="Underline">Heidegger</span>
+<span class="Underline">Politics</span>
+<span class="Underline">ITAR/SBSS CP</span>
+<span class="Underline">Heg Bad</span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">Heg Bad </span>
+
+===<span class="Underline">Round 4 – Cam (Satellite Defense)</span>=== 
+<span class="Underline">1NC:</span>
+<span class="Underline">Weaponization</span>
+<span class="Underline">T Human </span>
+<span class="Underline">Heidegger</span>
+<span class="Underline">Hardening PIC + Talk to China CP + Don’t first strike China CP</span>
+<span class="Underline">Politics</span>
+<span class="Underline">Heg Bad</span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">Hardening PIC</span>
+
+===<span class="Underline">Round 5 – New Trier (SPS)</span>=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">Politics</span>
+<span class="Underline">T Human</span>
+<span class="Underline">Heidegger </span>
+<span class="Underline">Sea-basing CP and OTEC CP</span>
+<span class="Underline">Space Heg Bad, Airpower Bad, Trade Bad</span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">CP, Space Heg Bad, Airpower Defense/a little offense</span>
+
+==<span class="Underline">Lex Neg Strats</span>== 
+===<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Round 2 vs. Pos Peace/Bright Lights Aff</span>=== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">1NC: Framework, T-Beyond, Nietzsche, Pictures CP, Ozone DA</span>
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">2NR: Framework</span>
+===<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Round 4 vs. St. Vincent (Spaceship of Imagination)</span>=== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">1NC: Framework, T-Beyond, Ozone DA, Pictures CP, Black Hole PIC, Nietzsche, Ban Space CP</span>
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">2NR: T-Beyond</span>
+===<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Round 6 vs. Hooch (Nanosats)</span>=== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">1NC: T-Human, T-Inherency, Heidegger, Payroll Tax PTX, Sea-basing CP</span>
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">2NR: Inherency (not T) and Space Heg Bad impact turns</span>
+===<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Doubles vs. John’s Creek (Mars Sample Return)</span>=== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">1NC: T-Space is Void, Weaponization, Heidegger, Payroll Taxes, CP: Do their internal links (The United States federal government should not launch the Mars Sample Return mission. The United States federal government should pass cap and trade as specified by 1AC evidence. The United States federal government should increase funding for earth observation satellites providing global warming data.)</span>
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">2NR: weaponization DA</span>
+
+==<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Emory Neg Strats</span>== 
+===Round 1 – Satellite Defense – Cam=== 
+1NC: Inherency, T human, Heidegger, Hardening PIC, PTC, Space heg bad, defense
+2NR: PTC, Case
+===<span style="text-align: -webkit-auto;">Round 4 – Propellant Depots – St. Marks BB</span>=== 
+1NC: T human, T increase=net, CP (Text: NASA should cease using funds for the Space Launch System program. Congress should set a funding baseline at existing levels for all other NASA programs.), Heidegger, PTC, Heg bad, defense
+2NR: K
+===Round 5 – DSCVR – Nick and Elsa CPS=== 
+1NC: T human, CP (Text: The United States federal government should ban the use of nuclear power. The United States Federal Government should implement Smart Grids to prevent meltdowns. The United States federal government should declare that global warming is real and a threat.), Heidegger, JWST DA, Ice age, Dedev
+2NR: Ice Age
+
+==Harvard RR== 
+===Round 1 Carrolton DS (SPS)=== 
+1NC:
+ASPEC
+T-Human
+Heidegger K
+DOD CP
+JWST T/O DA
+PTX DA
+Case Defense/Resource Shortages Good
+
+2NR:
+T-Human
+
+===<span class="Underline">Round 3 GDS HB (DTN)</span>=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">T-Human</span>
+<span class="Underline">PTX</span>
+<span class="Underline">Heidegger K + NCW K Card</span>
+<span class="Underline">Case Defense/ISR bad/NCS bad/Heg bad</span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">PTX/Case</span>
+
+===<span class="Underline">Round 6 Westminster HX (ExoMars)</span>=== 
+<span class="Underline">1NC: </span>
+<span class="Underline">T-Human</span>
+<span class="Underline">T-Increase</span>
+<span class="Underline">Heidegger K</span>
+<span class="Underline">EU CP</span>
+<span class="Underline">JWST T/O DA</span>
+<span class="Underline">PTX DA</span>
+<span class="Underline">Case </span>
+
+<span class="Underline">2NR: </span>
+<span class="Underline">CP/JWST</span>
+
+==Harvard== 
+===Round 2 Edina (DTN)=== 
+1NC:
+T-Human
+K
+Weaponization
+PTX
+CP: The United States Federal Government should adopt a three-tiered system for sanctioning terrorist financiers and create a National Security Sanctions Court composed of Article Three Judges. We’ll Clarify.
+Heg Bad/Case Defense
+
+2NR:
+Heg Bad
+
+===Round 4 GBS (Mars Col/Solar Sails)=== 
+1NC:
+Solar Sails/STEM CP
+JWST T/O (Mars Spec)
+K
+PTX
+Heg Bad/Case Defense
+
+2NR:
+Solar Sails CP/JWST
+
+===Round 5 Pine Crest MR (SBR)=== 
+1NC:
+T Human
+Inherency
+ORS/LIDAR CP
+PTX
+CC DA
+
+2NR:
+Inherency
+
+===Doubles GBS (SBMD)=== 
+1NC:
+Security/prolif/specific K
+T Human
+Ozone DA
+China Fund CP
+PTX
+Case Defense
+
+2NR:
+K
+
+===Octos GDS HB (DTN)=== 
+1NC:
+Heidegger
+T Human
+T Beyond
+CP: The United States federal government should fully implement the Navy’s Sea Power 21 doctrine including the Sea Strike, Sea Shield, and Sea Basing missions. The United States Federal Government should create fiber optics telecommunication networks predicated on existing infrastructure on the ground. The United States federal government should resume nuclear tests for the purposes of stockpile certification.
+Debris DA
+Case Defense
+Ice Age
+
+2NR:
+T Beyond
+==State== 
+===Round 1 Vs. Alphereta (LSP)=== 
+
+1NC: T Space, Heidegger/Tech K, PTX, JWST T/O, space heg bad
+
+2NR: PTX/Case
+===Round 3 Vs. Johns Creek (Secret Planet Defense)=== 
+
+1NC: T human, Nietzsche K, PTX, Consult Russia CP (Text: The United States federal government should submit to the US-Russia Bipartisan Presidential Commission for prior, genuine, and binding consultation that the President of the United States should develop planetary defense capabilities including development of advanced in-space propulsion and signal-intelligence technology.) Launches PIC CP (The President of the United States should covertly develop planetary defense capabilities including development of advanced in-space propulsion and signal-intelligence technology, and deploy it if and only if aliens or asteroids are an immediate threat. The President of the United States should create and fund detection technology on earth to identify alien and asteroid threats.)
+
+2NR: K
+
+===Round 5 Vs. Woodward SS (#MARS)=== 
+
+1NC: T Space, Heidegger/Tech K, PTX, JWST T/O, China CP
+
+2NR: T
+
+===Quarters Vs. Dunwoody (EOS)=== 
+1NC: T Human, Heidegger/Tech K, PTX, JWST T/O, China CP
+
+2NR: JWST/CP
+
+
+[[include page="space.template.Footer"]]

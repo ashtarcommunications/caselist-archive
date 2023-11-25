@@ -1,0 +1,274 @@
+[[toc]]
+=Round 1= 
+
+==Contention One – The Status Quo== 
+Military bandwidth demand increasing exponentially.
+<span class="Cite">NSR ‘10</span>
+<span style="text-align: justify;">(Northern Sky Research, leading international consulting firm specializing in satellite and wireless technology and applications, “Government/Military Demand for Commercial Satcom Remains Steady Despite Drawdown,” [[http://www.nsr.com/index.php?option=com_content&view=article&id=402:governmentmilitary-demand-for-commercial-satcom-remains-steady-despite-drawdown&catid=81:press-releases&Itemid=144]] //hx)//</span>
+//<span style="text-align: justify;">According to NSR's "Government and … within the next five years.</span>//
+//__Future satellite increases__ are inevitable – the only question is whether to use __commercial__ or __military__ capacity.//
+//<span style="font-size: 14.6667px;">Sears ’9</span>//
+//(Kay Sears, president of Intelsat General, “A Necessary Balance”, Space News, 10/26/09, page 10// hx)
+
+<span style="text-align: justify;">As major government … satellites and <span style="font-size: 14.6667px;">antennas?</span></span>
+Either way, commercial satellite use is high and increasing
+
+<span style="font-size: 14.6667px;">Intelsat 4/5</span> (Intelsat General Corporation, Satcom Frontier, 4/5/12, “Too Dependent on SATCOM?”)
+
+The Washington Post published a …<span style="font-size: 14.6667px;"> new military constellations to come online?</span>
+==1AC – Plan== 
+<span style="font-size: 26.6667px;">Plan: The Department of Defense should establish long term contracts for commercial satellite bandwidth beyond the Earth’s mesosphere.</span>
+==Contention Two is Military Power== 
+Choosing the military and not commercial route will fail to solve – it can’t produce a full system in less than decades.
+<span class="Cite">Rayermann ’3</span>
+(PATRICK RAYERMANN, Colonel, Director of the Communications Functional Integration Office with the NSSO “Exploiting Commercial SATCOM: A Better Way” //hx)//
+<span style="font-size: 14.6667px;">J</span>//oint// <span style="font-size: 14.6667px;">V</span>//ision <span style="font-size: 14.6667px;">2020 identifies </span>//<span style="font-size: 14.6667px;">continuous information …</span> //leasing it from commercial industry.//
+//The military will try to close this gap through __ad hoc__ purchasing of commercial satellites://
+//This has two impacts//
+//First, it deters __investment__, causing shortages – cost-assurance is key//
+
+//<span class="Cite">Rosenberg ’10</span>//
+//(Barry Rosenberg is editor-in-chief of Defense Systems, 2/25/10, “DOD's reliance on commercial satellites hits new zenith”, Defense Systems, [[http://defensesystems.com/Articles/2010/03/11/Cover-story-The-Satcom-Challenge.aspx?p=1]]// hx)
+<span class="Underline">Vital yet Ad Hoc</span><span style="font-size: 9.33333px;">…</span><span class="Cite"> //base ... and the warfighter.”//</span>
+This happens even if the industry risks the investment – they can’t predict specific government needs.
+<span class="Cite">NSTAC ’9</span>
+(THE PRESIDENT’S NATIONAL SECURITY TELECOMMUNICATIONS ADVISORY COMMITTEE, November 2009, “NSTAC Report to the President on Commercial Satellite Communications Mission Assurance” //hx)//
+//Lack of Long-Term Requirements Planning <span style="font-size: 14.6667px;">…</span> related to the future role of COMSATCOM.//
+//Second, replacing ad hoc purchasing with long-term contracts creates a partnership for cooperative __innovation__.//
+//<span style="font-size: 14.6667px;">Sears ’9</span>//
+//(Kay Sears, president of Intelsat General, “A Necessary Balance”, Space News, 10/26/09, page 10// hx)
+<span style="font-size: 14.6667px; text-align: justify;">In many ways, this debate … be an easy decision to make.</span>
+Cooperative innovation creates __new synergies__ vital to future network needs in every area.
+<span class="Cite">Prautzsch ’11</span>
+(Frank Prautzsch, Senior Vice President, Government Programs ORBCOMM , “New SATCOM Synergies”, SATCOM for ISR, Military Information Technology, Volume 15, Issue 2, March 2011 //hx)//
+//<span style="text-align: justify;"><span style="font-size: 14.6667px;">Commercial SATCOM capabilities</span>, …</span>//<span style="font-size: 14.6667px;"> Twitter feed as that of a UAV. </span>
+//Independently, the satellites the military __does__ manage to produce on its own will fail – using commercial SATCOM instead is key to “every level of military operations.”//
+//<span class="Cite">Norton ’11</span>//
+//(Keith Norton, Defense News, 8/22/11, “Commercial Satcom remains vital to military ops”, [[http://www.defensesystems.com/Articles/2011/08/08/Industry-Perspective-commercial-satellite-communications.aspx?Page=1]]// hx)
+
+<span style="text-align: justify;">Now more than ever before, the …<span style="font-size: 14.6667px;">is one of necessity</span>, not luxury.</span>
+This is already happening – new satellites the military is planning make itself will be so out-dated they’ll endanger life-or-death missions.
+<span style="font-size: 14.6667px;">Rosenberg ’10</span>
+(Barry Rosenberg is editor-in-chief of Defense Systems, 2/25/10, “DOD's reliance on commercial satellites hits new zenith”, Defense Systems, [[http://defensesystems.com/Articles/2010/03/11/Cover-story-The-Satcom-Challenge.aspx?p=1]] //hx)//
+//<span style="text-align: justify;"><span style="font-size: 14.6667px;">Narrowband to the Foxhole… are behind" schedule</span>, Cowen-Hirsh said.</span>//
+//Even if hard power is still key, information dominance is a __prerequisite__ for its deployment.//
+//<span class="Cite">Lowe ‘10</span>//
+//(Chris Lowe, Major, US Army; School of Advanced Military Studies, US Army Command and General Staff College, 2010, “From ‘Battle’ to the ‘Battle of Ideas’: The Meaning and Misunderstanding of Information Operations,” [[http://usacac.army.mil/cac2/IPO/repository/Lowe_Monograph.pdf]]// hx)
+<span style="text-align: justify;">Introducing language that would later …<span class="Cite">//<span style="font-size: 14.6667px;"> coercive power of its military force.</span>//</span></span>
+Defense cuts are coming now and ISR is key to solve the impact
+
+
+<span style="font-size: 14.6667px;">Goure 11</span> – (8/12/11, Daniel, PhD in International Relations and Russian Studies, Vice President with the Lexington Institute, a nonprofit public-policy research organization headquartered in Arlington, Virginia, “Defense Spending Cuts Should Prompt Greater Investment in Military IT,” [[http://www.lexingtoninstitute.org/defense-spending-cuts-should-prompt-greater-investment-in-military-it]] )
+<span style="font-size: 14.6667px;">It is clear now that significant</span>, …<span style="font-size: 14.6667px;"> exploiting the opportunities resident in the ongoing IT revolution</span>.
+American military engagement is k2 prevent global chaos and extinction – there’s no alternative
+
+<span style="font-size: 14.6667px;">Brzezinski, ’12</span> [Zbigniew Brzezinski, CSIS counselor and trustee and cochair of the CSIS Advisory Board, Robert E. Osgood Professor of American Foreign Policy at the School of Advanced International Studies @ Johns Hopkins University, cochair of the American Committee for Peace in the Caucasus and a member of the International Advisory Board of the Atlantic Council, recipient of numerous honors and awards. “After America”. Foreign Policy, Jan/Feb 2012. [[http://www.foreignpolicy.com/articles/2012/01/03/after_america?page=0,1]]]
+
+Not so long ago, a high-ranking Chinese official, …<span style="font-size: 14.6667px;"> itself for a dangerous slide into global turmoil.</span>
+
+
+==Contention Three is Naval Power== 
+
+<span style="font-size: 16px;">The bandwidth crunch makes naval collapse inevitable – cooperative innovations are necessary to meet supply and security needs</span>
+<span style="font-size: 9.33333px;">Grace V. </span><span class="Cite">Jean</span><span style="font-size: 9.33333px;">, Journalist, </span><span class="Cite">‘11</span><span style="font-size: 9.33333px;"> “Drone Sensor Data Will Overload Networks, Navy Officials Warn”, National Defense Magazine, NDIA Business and Technology Magazine, August,</span><span style="color: #000000; font-size: 9.33333px; text-decoration: none;">[[http://www.nationaldefensemagazine.org/archive/2011/August/Pages/DroneSensorDataWillOverloadNetworks,NavyOfficialsWarn.aspx]]</span>
+
+<span class="Underline">The expected </span>growth of un<span class="Underline">manned …</span><span style="font-size: 9.33333px;"> Adm. Gary Roughead, who is retiring.</span>
+<span style="font-size: 16px;">AND the plan solves satellite cyber-security</span>
+<span class="Cite">Butler ’4 </span>
+(Amy Butler, Defense Daily, 4/13/2004 “Heavy DoD Reliance On Commercial SATCOM Prompts Questions of Protection”)
+<span style="text-align: justify;"><span style="font-size: 14.6667px;">During</span> Operation <span style="font-size: 14.6667px;">Iraqi Freedom,</span> … conditions once the conflict is terminated.</span>
+Information-centric operations are key to sustain naval power in the face of Chinese anti-access strategies
+
+<span style="font-size: 14.6667px;">Burch ‘8</span> (Eric Burch, Master Chief Petty Officer, Information Technology Specialist (ITCM), U.S. Navy, citing a November 2002 U.S. Naval Institute Proceedings article by Vice Admiral Mike Bucchi, U.S. Navy (Ret), and Admiral Mike Mullen, U.S. Navy; “Explanation of Key Maritime Transformational Concepts,” Combined Joint Operations from the Sea, NATO Center of Excellence, March 2008, [[https://transnet.act.nato.int/WISE/COE/Individual/CJOS/MaritimeIn/MaritimeTr]])
+
+SEA SHIELD embraces emerging technologies …<span style="font-size: 14.6667px;"> securityin an uncertain century</span>
+
+<span style="font-size: 16px;">Specifically, loss of access eviscerates credibility and ensures takeover of Taiwan</span>
+
+<span style="font-size: 14.6667px;">Sollenberger, et al. ‘10</span> (Matthew Sollenberger, M.A. student at the Johns Hopkins University, SAIS, B.A. political science with high honors, Swarthmore College; Thilo Schroeter, M.A. student at the Johns Hopkins University SAIS Bologna Center, B.A. International Relations, Dresden University of Technology; Bastiaan Verink, M.A. student at the Johns Hopkins University SAIS Bologna Center, LL.M. International Security with honors, VU University Amsterdam, B.A. International Relations and Economics, Utrecht University; “Challenging US Command of the Commons: Evolving Chinese defense technologies as a threat to American hegemony?” Bologna Center Journal for International Affairs, vol. 13, Spring 2010, [[http://bcjournal.org/volume-13/challenging-us-command-of-the-commons.html]])
+
+Development of anti-access measures <span style="font-size: 14.6667px;">… in a military conflict over Taiwan</span>.
+Taiwan conflict goes global
+
+Lee J. <span style="font-size: 14.6667px;">Hunkovic 08</span> <span style="font-size: 10.6667px;">( </span>“The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America” American Military University http://www.lamp-method.org/eCommons/Hunkovic.pdf )
+
+<span style="font-size: 14.6667px;">A war between China, Taiwan …</span><span style="font-size: 10.6667px;">be considered in this study </span>
+Independently, failure to counter anti-access strategies destabilizes Asia
+<span style="font-size: 14.6667px;">Bosworth, 11</span> (LCDR Richard L Bosworth, USN, 5/4/11, Naval War College, “Effects of China’s sovereignty claims in the South China Sea”)
+
+**Conclusion** <span style="font-size: 14.6667px;">The freedom of maneuver … control in the western Pacific</span>.41
+<span style="font-size: 16px;">Nuclear war</span>
+
+<span class="Cite">Landay, 2k</span>
+(Jonathon S, national security and intelligence correspondent, “Top administration officials warn stakes for U.S. are high in Asian conflicts”, Knight Ridder)
+Few if any experts think China and Taiwan…<span style="font-size: 14.6667px;">There are elements for potential disaster."</span>
+Every factor indicates China aims to rise violently and seeks to invade Taiwan by 2013 – Deterrence is key
+Li <span style="font-size: 14.6667px;">Thian-hok</span> 4/7/<span style="font-size: 14.6667px;">11</span> [Distinguished Fellow of the International Assessment and Strategy Center in Washington, “The US cannot appease the Chinese”, [[@http://www.taipeitimes.com/News/editorials/archives/2011/04/07/2003500098/4]]]
+However, his <span style="font-size: 14.6667px;">discussion …</span>preserving Taiwan’s freedom?
+
+
+China’s territorial claims increase risks of conflicts absent us presence
+
+<span style="font-size: 14.6667px;">Dobbins et al, 11</span> (James Dobbins (<span class="st">Director, International Security and Defense Policy Center, RAND)</span>, David C. Gompert (former vice president of the RAND Corporation who served briefly as President Barack Obama’s acting director of national intelligence.), David A. Shlapak (<span class="st">Senior International Policy Analyst at the RAND Corporation.)</span>, Andrew Scobell (Senior Political analyst at RAND), 2011, “Conflict with China Prospects, Consequences, and Strategies for Deterrence”)
+
+South China Sea <span style="font-size: 14.6667px;">There … viable strategy for the next twenty years.</span>
+
+=Round 2= 
+==1NC Weaponization DA== 
+Current space doctrine is __multilateral__
+<span style="font-size: 14.6667px;">Smith 11</span>-- Space and Technology Policy Group
+(February, 2011, Marcia A., Space Policy, Vol. 27, Issue 1, p. 22-23, Science Direct,)
+
+Over succeeding months national security … at the UN in October 2010 [5].
+Only multilateral implementation prevents weapon perception and backlash – plan’s transmitter tech causes weapon freakout
+Virgiliu <span style="font-size: 14.6667px;">Pop</span>, October <span style="font-size: 14.6667px;">2000</span>, <span style="font-size: 14.6667px;">PhD Student, Law School, University of Glasgow, Scotland</span>, “Security Implications of Non-Terrestrial Resource Exploitation,” IISL-00-IISL.4.11, Paper presented at the 43rd Colloquium on the Law of Outer Space, 51st International Astronautical Congress, Rio de Janeiro, 6 October 2000, Proceedings of the 43rd Colloquium on the Law of Outer Space, pp. 335-345, http://www.spacefuture.com/archive/security_implications_of_non_terrestrial_resource_exploitation.shtml
+<span style="text-align: justify;">1. Introduction / The prospective …<span style="font-size: 14.6667px;">s attributed to the SPS by foreign States"</span>[57].</span>
+
+Causes a global space arms race
+<span style="text-align: justify;">**__Gagnon ‘99__**</span>
+<span style="font-size: 10.6667px; text-align: justify;">(Bruce Gagnon, Coordinator of the Global Network Against Weapons & Nuclear Power in Space, “Space Exploration and Exploitation,” http://www.space4peace.org/articles/scandm.htm)</span>
+<span style="text-align: justify;"><span style="font-size: 10.6667px;">But there are obstacles to U.S. …</span>**__consolidates its "control" of space?__**</span>
+Global nuclear war
+<span style="font-size: 16px;">Hitchens 08 </span>[Theresa, author of “Future Security In Space: Charting a Cooperative Course,” continues to write on space and nuclear arms control issues for a number of outside publications, March, “Space Wars”, [[http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=31334623&site=bsi-live]]]
+
+Given the proliferation of …<span class="UnderlineChar"> one would be highly problematic. </span>
+
+==1NC Multilat CP== 
+CP Text: The United States federal government should propose an international framework for development and use of solar sail technology. The United States federal government should propose an expanded United Nations department to develop and deploy solar sails beyond the Earth’s mesosphere. The United States federal government should initiate an international feasibility study open to all interested parties.
+Their author says that’s key to solve – boosts leadership
+Don <span style="font-size: 14.6667px;">Flournoy</span>, 9-13-20<span style="font-size: 14.6667px;">10</span>, <span style="font-size: 14.6667px;">professor and editor of the Online Journal of Space Communication at Ohio University</span>, “Why Not Space Solar Power?” Space News, http://spacenews.com/commentaries/100913why-not-space-solar-power.html
+<span style="text-align: justify;">The 2010 U.S. National Space Policy, …<span style="font-size: 14.6667px;">renewable energy and continued economic growth.</span></span>
+Key to global solvency
+Dr. Feng <span style="font-size: 14.6667px;">Hsu</span>, <span style="font-size: 14.6667px;">Sr. Vice President of the Space Energy Group, frmr research fellow, Brookhaven National Laboratory, NASA</span>, Winter 20<span style="font-size: 14.6667px;">10</span>, “Harnessing the Sun: Embarking on Humanity's Next Giant Leap,” Online Journal of Space Communication, Issue No. 16: Solar Power Satellites, http://spacejournal.ohio.edu/issue16/hsu.html
+<span style="text-align: justify;">Solar Energy - The Ultimate Answer to Anthropogenic …<span style="font-size: 14.6667px;"> world economy that is solar-electric powered.</span></span>
+==<span class="Underline">**<span style="font-size: 16px; text-decoration: none;">K</span>**</span>== 
+
+<span class="Underline">**Their story is backwards – interventionism is not an automatic given of US foreign policy, it is caused by discursive construction of the terror of a post-US dominated world**</span>
+This ensures endless warfare - The ever-present fear of losing control means everything is a potential threat to be exterminated
+Ira <span style="font-size: 16px;">Chernus</span>, Professor of Religious Studies and Co-director of the Peace and Conflict Studies Program at the University of Colorado-Boulder, 20<span style="font-size: 16px;">06</span>, Monsters to Destroy: The Neoconservative War on Terror and Sin
+<span class="DebateUnderline">The end of the cold war … likely it is to believe and enact the neocon story. </span>
+
+Their authors equate a threat to American values as a threat to America. This deterritorialization of security is a flawed epistemology you should reject
+Layne ‘6
+(Christopher, Associate Professor of Government and Public Service at Texas A&M University, __The Peace of Illusions__, p. 119)
+<span style="text-align: justify;"><span style="font-size: 14.6667px;">From the beginning, America’s</span> …<span style="font-size: 14.6667px;"> America’s security interests are not implicated. </span></span>
+This security discourse integrates violence into the fabric of society creating self-perpetuating cycles of war.
+<span style="font-size: 14.6667px;">Burke; 07</span>; <span style="font-size: 9.33333px;">Theory and Event; 10: 2; "Ontologies of War"</span>
+
+<span style="font-size: 10.6667px;">In his Politics Among Nations … cause of strife the idea of such an injury...[[@http://libproxy.library.unt.edu:2735/journals/theory_and_event/v010/10.2burke.html#_edn39|39]]</span>
+
+
+Reject the affirmative’s security logic – only resistance to the discourse of security can generate genuine political thought – interrogating the plan’s militaristic underpinnings come before solvency
+Mark <span style="font-size: 14.6667px;">Neocleous</span>, Prof. of Government @ Brunel, 200<span style="font-size: 14.6667px;">8</span> [//Critique of Security//, 185-6]
+<span style="font-size: 14.6667px;">The only way out of such a dilemma, … enough to return the gift."'</span>
+
+
+
+==1NC First Advantage== 
+1. Colonization impossible –
+A. Radiation and health defects
+<span style="font-size: 16px;">Discovery 11</span> **(**"How a mission to Mars could kill you", 7/18, <span style="color: #000000; text-decoration: none;">[[http://news.discovery.com/space/mission-to-mars-health-risks-110718.html]]</span>)
+<span style="font-size: 8px;">We've already 'done' the moon, but Mars still … well as devices to produce fuel for the return trip. </span>
+
+B. Gravity makes men and women infertile
+<span style="font-size: 16px;">Bacal 9 </span>(Kira, MD, PhD, MPH, January 2, //Medscape Internal Medicine// < <span style="color: #000000;">http://philosophyofscienceportal.blogspot.com/2009/01/sex-in-space-taken-seriously.html</span>>)
+<span style="font-size: 8px;">Reproduction begins with the existence of viable gametes. </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">…</span><span style="font-size: 8px;">n in male wasp mating behavior post-flight.</span><span style="color: #000000; font-size: 8px;">[35]</span>
+
+==1nc arctic== 
+
+Alt cause to communications shortages – ad hoc purchasing
+
+<span class="Cite">Rosenberg ’10</span>
+(Barry Rosenberg is editor-in-chief of Defense Systems, 2/25/10, “DOD's reliance on commercial satellites hits new zenith”, Defense Systems, [[http://defensesystems.com/Articles/2010/03/11/Cover-story-The-Satcom-Challenge.aspx?p=1]] //hx)//
+//<span class="Underline">Vital yet Ad Hoc</span><span style="font-size: 9.33333px;">…</span>//the user base ... and the warfighter.”//
+
+1.) Arctic cooperation, not conflict, is happening now – their authors write crazy stories about conflict to make more money
+Tom <span class="Cite">Fries</span><span style="font-size: 9.33333px;">, Arctic Institute, MBA at Georgetown,</span> “Perspective Correction: How we Misinterpret Arctic Conflict,” <span style="font-size: 9.33333px;">April 18th, 20</span><span class="Cite">12</span><span style="font-size: 9.33333px;">, VK</span>
+<span style="font-size: 14.6667px;">War and conflict sell papers</span> -- …<span style="font-size: 14.6667px;"> matter where you look, the arc of this relationship bends towards cooperation.</span>
+
+==1NC Solvency== 
+
+#1.) Solar sails defy the laws of physics
+<span class="Underline">**<span style="font-size: 14.6667px;">Space Daily, ‘03</span>**</span>
+“Solar Sailing breaks Laws of Physics,” http://www.spacedaily.com/news/rocketscience-03zg.html//VK
+<span class="SmalltextChar">Both NASA and the European Space Agency …</span>. "Solar sailing is possible," he insists.
+#2.) Too fragile for space
+<span class="Cite">Grierson, ‘04</span><span style="font-size: 9.33333px;">(May 2004. Bruce, social science writer. “My Rocket is Going to Get You to Leo!” Popular Science. www.popsci.com/military-aviation-space/article/2004-05/my-rocket-going-get-you-leo)</span>
+
+<span style="font-size: 9.33333px;">The canonization, though, may be premature. … en masse, at least anytime soon. </span>
+
+=Round 3= 
+
+same as round 1
+=Round 4= 
+AT: Wayzata's new gaiomes aff
+==1NC CP== 
+
+Text: the United States federal terrocrats should construct gaiomes.
+<span style="text-align: justify;">“Government” doesn’t exist – the word is a lie that hides individual responsibility and legitimizes physical violence.</span>
+Frederick <span style="font-size: 14.6667px;">Mann</span>, B.A., Communications @ Sanford University; Founder, Terra Libra, 19<span style="font-size: 14.6667px;">98</span>, “‘The Nature of Government’.”
+<span style="text-align: justify;">Human Nature and "Government" …<span style="font-size: 14.6667px;">to justify their actions.</span></span>
+This turns the case. Replacing “government” with “terrocrat” avoids the link.
+Frederick <span style="font-size: 14.6667px;">Mann</span>, B.A., Communications @ Sanford University; Founder, Terra Libra, 19<span style="font-size: 14.6667px;">98</span>, “‘The Nature of Government’.”
+<span style="text-align: justify;">"But to tear down a factory or to revolt against a government…r very useful definition of "government!" </span>
+==1NC K== 
+Humanity is evil and has no right to live much less a right to extend our life onto asteroids. From our birth we domesticated and slaughtered our non-human brothers and sisters immediately followed by an eradication of the Neanderthals, and today we continue that legacy through an ongoing extermination of all life on Earth, both human and non-human of all races and genders.
+Tarik <span style="font-size: 14.6667px;">Kochi and</span>Noam<span style="font-size: 14.6667px;">Ordan ‘8</span><span style="font-size: 12px;">*a lecturer in the School of Law @ Queen’s University, Northern Ireland. </span>
+<span style="font-size: 12px;">**a linguist and translator, conducts research in Translation Studies at Bar Ilan University, Israel.**</span>
+**[Borderlands VOLUME 7 NUMBER 3, 2008, An Argument for the Global Suicide of Humanity]**
+**<span style="font-size: 14.6667px;">Within the picture many paint of ..</span>relational or dialectical standpoint in thought.**
+**Their description of the ecological crisis in terms of its impacts on humans is symptomatic of anthropocentrism – that’s the root cause of all their hamrs**
+**Dr. Steven <span style="font-size: 14.6667px;">Best ‘7</span>**
+**[Associate Professor, Departments of Humanities and Philosophy, University of Texas, El Paso. Reviewing: Charles Patterson, The Eternal Treblinka: Our Treatment of Animals and the Holocaust New York: Lantern Books, 2002, 280 pp., Journal of Critical Animal Studies, Vol 5, Issue 2]**
+**The Origins of Hierarchy "<span style="font-size: 14.6667px;">As long … and the ongoing pogrom against animals.</span>**
+**This “silence” on oppression of other species is the dominant characteristic of anthropocentrism– without considering the more than human world, the expansion of liberties merely becomes the expansion of the exploitation of nature**
+**Anne C. <span style="font-size: 14.6667px;">Bell and</span> Constance L. <span style="font-size: 14.6667px;">Russell 2K</span>**
+**[*Faculty of Environmental Studies @ York University,** Ontario Institute for Studies in Education, “Beyond Human, Beyond Words: Anthropocentrism, Critical Pedagogy, and the Poststructuralist Turn”, Canadian Journal of Education, http://www.csse-scee.ca/CJE/Articles/FullText/CJE25-3/CJE25-3.pdf#page=22]
+We come to critical pedagogy …(Gaard, 1997; Haraway, 1989, p. 30; Selby, 1995, pp. 17–20; Spiegel, 1988).
+
+The catastrophes the affirmative depicts present us with an opportunity to reflect on this destructive legacy and seek solutions. Instead, the aff leaves all life on the planet to die for the sake of preserving some strand of the human genome – this is the same mindset that has murdered “space-ship Earth”
+Tarik <span style="font-size: 14.6667px;">Kochi and</span>Noam<span style="font-size: 14.6667px;">Ordan ‘8</span><span style="font-size: 12px;">*a lecturer in the School of Law @Queen’s University, Northern Ireland. </span>
+<span style="font-size: 12px;">**a linguist and translator, conducts research in Translation Studies at Bar Ilan University, Israel.**</span>
+**[Borderlands VOLUME 7 NUMBER 3, 2008, An Argument for the Global Suicide of Humanity]**
+
+**In 2006 on an Internet forum called Yahoo…it is time for a martian land ethic and for a land ethic that extends to all other worlds.**
+
+
+**Thus – we advocate that you imagine the global suicide of humanity – that’s key to solve**
+**The Role of the Ballot is to answer the question – is saving humanity worth the denial of life to others**
+**Voting negative means embracing an ethics centered on avoiding doing violenc**
+
+**Tarik <span style="font-size: 14.6667px;">Kochi and</span>Noam<span style="font-size: 14.6667px;">Ordan ‘8</span><span style="font-size: 12px;">*a lecturer in the School of Law @Queen’s University, Northern Ireland. </span>**
+a linguist and translator, conducts research in Translation Studies at Bar Ilan University, Israel.
+[Borderlands VOLUME 7 NUMBER 3, 2 0 0 8, An Argument for the Global Suicide of Humanity]
+It should be noted nonetheless that our …<span class="Underline">**//<span style="font-size: 14.6667px;"> perpetuation, worth the denial of life to others</span>//**</span>.
+
+
+==1NC Case== 
+The ozone is recovering now, but can still be damaged
+<span class="Cite">SN 11</span><span style="font-size: 9.33333px;">(Science News, “Ozone hole on the mend” [[http://www.sciencenews.org/view/generic/id/74280/title/Ozone_hole_on_the_mend]] ) </span>
+
+<span class="Underline">Scientists</span><span style="font-size: 9.33333px;"> may have </span><span class="Underline">spotted …</span><span style="font-size: 9.33333px;">more than scientists have ever seen (SN: 4/9/11, p. 12). </span>
+
+The aff’s “should” draws us into normative thought.
+Pierre <span style="font-size: 14.6667px;">Schlag</span>, Professor of Law @ the University of Colorado, 19<span style="font-size: 14.6667px;">91</span>, “Normativity and the Politics of Form,” Lexis-Nexis
+Against this backdrop of bureaucratic …<span class="Underline">**<span style="font-size: 14.6667px;"> intellectually explicit, they collapse.</span>**</span>
+
+
+
+=Round 5= 
+
+=Round 6= 
+same as round 1, removed the Dobbins evidence 
+
+added
+
+China’s navy is modernizing and targeted at an inevitable attack on Taiwan
+
+<span style="font-size: 14.6667px;">O’Rourke, 12</span> [Ronald O’Rourke, former naval analyst for the Congressional Research Service of the Library of Congress and naval specialist, 12 [“China Naval Modernization: Implications for U.S. Navy Capabilities—Background and Issues for Congress,” Congressional Review Service, February 8, [[http://www.fas.org/sgp/crs/row/RL33153.pdf]]]
+
+<span style="font-size: 14.6667px;">China’s naval modernization effort, ...</span>China’s status as a major world power.
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

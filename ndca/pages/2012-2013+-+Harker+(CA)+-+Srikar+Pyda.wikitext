@@ -1,0 +1,987 @@
+[[toc]]
+<span style="background-color: #ffffff;">Hey, I might also be reading stuff that is disclosed on Harker PR's page so check there too. We're a strong proponent of disclosure, so if you think we've read something that's not on here feel free to email me at srikarpyda@gmail.com.</span>
+=Theory= 
+<span style="background-color: #ffffff;">Taken almost entirely from Samir:</span>
+<span style="background-color: #ffffff;">Some people have started running an interp about disclosing interps of theory shells. I think disclosing probably only serves to proliferate theory further. If you want to chat about what I think are some examples of topical affs and what theory/T I have gone for in the past before the round I'll answer all of your questions. Im also ideological in the way that I debate so chances are, **my substantive disclosure**, which many teams reading theory disclosure dont do, **is an indicator of what theory is/is not legitimate**. Also, **it is probably irresponsible for you to be reading this theory if you havent disclosed your cases**, just saying. Also, you can disclose and not read theory in order to create a norm. I think the large increase in disclosure this year serve to prove that. **You are honestly hurting your case because when people lose to disclosure theory, they are less likely to disclose than before.**</span>
+
+=Miscut Evidence= 
+I will read theory against you if you read miscut/misrepresented evidence.
+Here are some commonly miscut cards:
+1. Velleman: "reasons are inescapable since it concedes the authority of reasons"
+2. Hasnas
+3. Rakowski
+=September-October= 
+==Affirmative== 
+===Extraordinary Rendition AC (Read throughout both Voices and Valley)=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Justice Wright defines accused as</span>
+<span style="color: #2e3338; font-family: 'Times New Roman',serif; font-size: 12pt;">Justice Wright</span><span class="apple-converted-space" style="color: #2e3338; font-family: 'Times New Roman',serif; font-size: 12pt;">, </span><span style="font-family: 'Times New Roman',serif; font-size: 12pt;">United States v. Mills, 641 F. 2d 785 - Court of Appeals, 9th Circuit 1981</span>
+<span style="background-color: white; font-family: 'Times New Roman',serif; font-size: 12pt;">The Sixth Amendment… 92 S.Ct. at 463</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Value: Morality</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">First, morality is based on survival. Any conception of morality presupposes the existence of the entity. Hagguland explains,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Martin Hagglund, a Swedish philosopher, literary theorist, and scholar of modernist literature, currently a Junior Fellow in the Harvard Society of Fellows, Radical Atheism: Derrida and the Time of Life, 2008</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Thus, survival is the pre-condition to all conceptions of morality. Government’s survival depends on its citizens: they provide the normative and physical force for the government. Kennanexplains,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Morality and Foreign Policy, George F. Kennan, http://www.foreignaffairs.com/articles/40521/george-f-kennan/morality-and-foreign-policy</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The standard must be Maximizing the Utilitarian Benefits for Citizens</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Furthermore, prefer a realist interpretation because: </span>
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">1. Ought implies can</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Every moral theory but consequentialism cannot be applied to a government actor. Woller:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Gary Woller [BYU Prof., “An Overview by Gary Woller”, A Forum on the Role of Environmental Ethics, June 1997, pg. 10]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Moreover, virtually all… advantage of society.</span>
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">2. Functionality comes before normativity </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Plan Text: The United States Congress will abolish the use of extraordinary renditions against non-citizens accused of terrorism. UPI explains the plan text,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">UPI,</span><span style="background-color: white; font-family: 'Times New Roman',serif; font-size: 12pt;"> March. 6, 2007</span><span class="apple-converted-space" style="background-color: white; font-family: 'Times New Roman',serif; font-size: 12pt;">, </span><span style="font-family: 'Times New Roman',serif; font-size: 12pt; text-decoration: none;">[[http://www.upi.com/Business_News/Security-Industry/2007/03/06/Congress-urged-to-ban-renditions/UPI-86961173206784/]]</span>
+The U.S. Congress… in a statement.
+I reserve the right to clarify.
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A. Topicality: The rendition program violates the 5th and 8th amendments. The ACLU explains,</span>
+> 
+<span style="color: #333333; font-family: 'Times New Roman',serif; font-size: 12pt;">ACLU, March 30, 2006, </span><span style="font-family: 'Times New Roman',serif; font-size: 12pt;">ACLU Urges United Nations to Investigate CIA's "Extraordinary Rendition" Policy, <span style="text-decoration: none;">[[http://www.aclu.org/human-rights/aclu-urges-united-nations-investigate-cias-extraordinary-rendition-policy]]</span></span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In its letter to,,, out abusive interrogation.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, Extraordinary rendition violates the 4th amendment. Lalmalani explains,</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">APNA G. LALMALANI, Juris Doctor candidate, American University, Washington College of Law, 2006; Masters candidate, School of International Service, Washington, D.C.; Senior Research Associate with the Public International Law & Policy Group in Washington, D.C, .Extraordinary Rendition Meets the U.S. Citizen: United States’ Responsibility Under the Fourth Amendment, VOLUME 5 FALL 2005 NUMBER 1, CONNECTICUT PUBLIC INTEREST LAW JOURNAL <span style="text-decoration: none;">[[http://www.law.uconn.edu/system/files/private/lalmalani.pdf]]</span>, the court case is about Heyes.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Under established Fourth… and personal security.</span>
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">B. Inherency: Extraordinary rendition is a policy now. Murray explains,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Mark J. Murray, 2011, Mark J. Murray is an associate at a Fortune 500 management and technology consulting firm, where he supports senior Department of Defense (DoD) leaders in the countering weapons of mass destruction domain, Extraordinary Rendition and U.S. Counterterrorism Policy, Journal of Strategic Security, Volume 4 Issue 3 2011, pp. 15-28</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Rendition is defined …filed against them.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> And, it’s used to send individuals to Europe. Eganexplains,</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Suzanne Egan, Research Paper No. 05/2012 , UCD Working Papers in Law, Criminology & Socio-Legal Studies, University College Dublin, EXTRAORDINARY RENDITION AND THE QUEST FOR ACCOUNTABILITY IN EUROPE</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In February 2006… Council of Europe.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Advantage 1 is US-Euro Relations</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">US-Euro relations low-Europe is disappointed and has no hope in the US. The Tribune</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The Tribune, September 7, 2012, <span style="text-decoration: none;">[[http://tribune.com.pk/story/432975/europe-cool-on-obama-after-high-hopes-fade/|Europe cool on Obama after high hopes fade]]</span>,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt; text-decoration: none;">[[http://tribune.com.pk/story/432975/europe-cool-on-obama-after-high-hopes-fade/]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Analysts say expectations… global economic policy.”</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Extraordinary Rendition destroys EU-US relations. Smith 1furthers,</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> MS. JULIANNE SMITH, DIRECTOR AND SENIOR FELLOW, EUROPE PROGRAM, CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES, APRIL 17, 2007, EXTRAORDINARY RENDITION IN U.S.COUNTERTERRORISM POLICY: THE IMPACT ON TRANSATLANTIC RELATIONS JOINT HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ORGANIZATIONS, HUMAN RIGHTS, AND OVERSIGHT AND THE SUBCOMMITTEE ON EUROPE OF THE COMMITTEE ON FOREIGN AFFAIRS HOUSE OF REPRESENTATIVES ONE HUNDRED TENTH CONGRESS FIRST SESSION, Serial No. 110–28, <span style="text-decoration: none;">[[http://www.fas.org/irp/congress/2007_hr/rendition.pdf]]</span></span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">When it was alleged… threatening U.S. national security.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Public outcry in Europe over rendition practices threatens EU-US relations. Smith 2 explains,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">MS. JULIANNE SMITH, DIRECTOR AND SENIOR FELLOW, EUROPE PROGRAM, CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES, APRIL 17, 2007, EXTRAORDINARY RENDITION IN U.S.COUNTERTERRORISM POLICY: THE IMPACT ON TRANSATLANTIC RELATIONS JOINT HEARING BEFORE THE SUBCOMMITTEE ON INTERNATIONAL ORGANIZATIONS, HUMAN RIGHTS, AND OVERSIGHT AND THE SUBCOMMITTEE ON EUROPE OF THE COMMITTEE ON FOREIGN AFFAIRS HOUSE OF REPRESENTATIVES ONE HUNDRED TENTH CONGRESS FIRST SESSION, Serial No. 110–28, <span style="text-decoration: none;">[[http://www.fas.org/irp/congress/2007_hr/rendition.pdf]]</span></span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Transatlantic tensions over… war on terror.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">US-EU relations are the defining bilateral relationship for global security—together they can manage all crises successfully. Conflict is inevitable absent coordination</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Haas ‘2 Richard Haass, President of the Council on Foreign Relations, June 1, 2002, p. http://www.state.gov/s/p/rem/10643.htm)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In the United States… as widely as possible.</span>
+
+===Narrative Add-on (Double Octas of Voices)=== 
+
+<span style="font-size: 12pt;">Advantage 1 is Torture: Rendition places victims as subjects of horrendous torture</span>
+<span style="font-size: 8pt;">Rebecca Leung. “His Year In Hell” </span><span style="font-size: 12pt;">CBS News</span><span style="font-size: 8pt;">online: [[http://www.cbsnews.com/2100-500164_162-594974.html]]. 2/11/</span><span style="font-size: 12pt;">2009</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">"They read me the ... underground</span><span style="font-family: 'Times New Roman',serif; font-size: 12pt;">," **__says Arar.__**</span>
+
+==Negative== 
+===<span style="background-color: #ffffff; font-family: 'Times New Roman';">Torture DA (Ran throughout Valley and Voices)</span>=== 
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">A. Uniqueness: We use torture now, and it is open to the public. Wedgewood cites Susan Crawford, Authority of Military Commissions,</span>
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">Ruth Wedgwood, Al Qaeda, Terrorism, and Military Commisions</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">The top Bush ... case" for protection.</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">B. Link: Regardless of whether or not we permit torture, it will still occur under the table. Dershowitz explains,</span>
+
+<span style="font-family: 'Times New Roman',serif;">Dershowitz, </span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Alan M., 20</span><span style="font-family: 'Times New Roman',serif;">11, </span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Reuters,The Case for Torture Warrants, [[http://blogs.reuters.com/great-debate/2011/09/07/the-case-for-torture-warrants/]]</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">Most of these ... an extreme case.</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman';">And, this is empirically proven - Obama bent the lines of the rulebook to allow for torture, the aff won't change a thing. Hentoff explains,</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman'; font-size: 10pt;">Nat Hentoff, Torture Under Obama, the CATO Institute</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman'; font-size: 10pt;">Some of the .... hours of sleep.</span>
+
+<span style="background-color: #ffffff; font-family: 'Times New Roman'; font-size: 10pt;">C. Impact:</span> <span style="font-family: 'Times New Roman',serif;">Checks and balances on the government are key to solving racism and other abuses by the government.</span>
+
+<span style="font-family: 'Times New Roman',serif;">Dershowitz</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, Alan M., 20</span><span style="font-family: 'Times New Roman',serif;">05</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, Rights from Wrongs: A Secular Theory of the Origins of Rights, pg. 156-7</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Perhaps we...that action.</span>
+
+
+
+
+<span style="font-family: 'Times New Roman',serif;">These checks can’t function in the absence of visibility.</span>
+
+<span style="font-family: 'Times New Roman',serif;">Dershowitz</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, Alan M., 20</span><span style="font-family: 'Times New Roman',serif;">08</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, Visibility, Accountability, and Discourse as Essential to Democracy, [[http://www.questia.com/read/1G1-193407111/visibility-accountability-and-discourse-as-essential]]</span>
+The recent disclosure...openly distributed.
+
+
+===<span style="background-color: #ffffff; font-family: 'Times New Roman'; font-size: 10pt;">Elections DA (Ran throughout Voices)</span>=== 
+The util fwk from the AC +
+
+A: Uniqueness: Obama will win the campaign election – even after Romney’s little win. **Washington Post – 10/4/12**
+
+<span style="font-size: 10pt;">Obama lost the first debate, but he will still win the election. By James Downie for the Washington Post. 10/4/12. </span>
+
+<span style="font-size: 10pt;">http://www.washingtonpost.com/blogs/post-partisan/post/obama-lost-the-first-debate-but-he-will-still-win-the-election/2012/10/04/9c3b7eb8-0deb-11e2-bd1a-b868e65d57eb_blog.html</span>
+
+<span style="font-family: Calibri,sans-serif; font-size: 6pt;">In case you... to a 50-50 state.</span>
+<span style="font-family: 'Times New Roman',serif;">B. Link: Obama’s counterterrorism policy is the main reason for than two thirds of America to vote for him – appearing soft on terrorism now would destroy his bid for re-election. Wilson et al explain,</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 10pt;">[[http://www.washingtonpost.com/scott-wilson/2011/03/02/ABt5vmP_page.html|Scott Wilson]] and [[http://www.washingtonpost.com/jon-cohen/2011/03/02/AF5qWcAH_page.html|Jon Cohen]],</span> <span class="timestamp" style="font-family: 'Times New Roman',serif; font-size: 10pt;"> February 7, 2012, </span><span class="entry-title" style="font-family: 'Times New Roman',serif; font-size: 10pt;">Poll finds broad support for Obama’s counterterrorism policies, </span><span style="font-family: 'Times New Roman',serif; font-size: 10pt;">[[http://www.washingtonpost.com/politics/poll-finds-broad-support-for-obamas-counterterrorism-policies/2012/02/07/gIQAFrSEyQ_story.html]]</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 6pt;">The sharpest edges... policy in this election year</span>
+<span style="font-family: 'Times New Roman'; font-size: 7pt;">C. </span><span style="font-family: 'Times New Roman',serif;">Internal Link: Romney would support an Iran strike. Hunt explains</span>
+
+<span style="font-family: 'Times New Roman',serif;">Hunt, 7/29 (Kasie, political reporter for AP, 7/29/12, Associated Press, Yahoo, http://news.yahoo.com/adviser-romney-back-strike-against-iran-072640314.html, “Adviser: Romney would back strike against Iran,” ADM)</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Mitt </span><span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Romney would... </span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">approach to Israel</span>
+
+D. Impact: <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Iran strikes would cause nuclear war and terrorists attacks, along with conventional warfare. Russell explains,</span>
+<span style="font-family: 'Times New Roman',serif;">Russell -09 (James A. Russell, managing editor of Strategic Insights, the quarterly ejournal published by the Center for Contemporary Conflict at the Naval Postgraduate School, Spring 2009, Strategic Stability Reconsidered: Prospects for Escalation and Nuclear War in the Middle East, Security Studies Center)</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Iran’s response to...</span><span style="font-family: 'Times New Roman',serif; font-size: 12pt;">potential “Armageddon” scenario.</span>
+
+
+===Democracy NC=== 
+The framework consisted of analytics and this card:
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The creation of normative beliefs is dependent on the government. Furthermore, the government has an obligation to the creation of good belief systems. Christiano explains</span>
+July 26, 2006, Tom Christiano, [[http://plato.stanford.edu/entries/democracy/]]
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Two kinds of ... and unreflective subjects</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The offense is the same as the link for elections.</span>
+
+===<span style="background-color: #ffffff; font-family: 'Times New Roman'; font-size: 10pt;">Rawls K (Octas of Voices Invitational)</span>=== 
+
+
+A. Link: Rawls’ veil of ignorance is a form of distributive justice – this cedes politics to institutions. The rights he identified are those that the state has a monopoly over.
+<span style="font-size: 13pt;">May, 2008</span> (Todd, Prof. of Philosophy @ Clemson U., “The Political Thought of Jacques Rancière,” p. 6-13)
+
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">In his masterwork ... </span><span style="font-family: Calibri,sans-serif; font-size: 11pt;">of legitimate expectations.</span>
+
+
+B. Impact: Distributive justice is unethical – it presupposes inequality on multiple levels
+
+<span style="font-size: 12pt;">May, 2008</span>(Todd, Professor of Philosophy at Clemson University, “The Political Thought of Jacques Rancière,” p.46-48)
+
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">Where do the... The specific expe- rience he is concerned with, however, is that of politics and the justi- fication of particular police orders. </span>
+
+
+C. Framework: My standard is active equality-only having equality is the basis of political decision making and can solve political crisis.
+
+
+
+<span style="font-size: 13pt;">Stannard 2006</span> (Matt, Department of Communication and Journalism, University of Wyoming, Spring 2006 Faculty Senate Speaker Series Speech, April 18, http://theunderview.blogspot.com/2006/04/deliberation-democracy-and-debate.html)
+
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">The complexity and... </span><span style="font-size: 8pt;">resist this colonization.</span>
+
+Equality is not a goal to be achieved but an unconditional axiom from which politics must begin
+<span style="font-size: 13pt;">Barbour ‘10</span> (Charles, Department of Sociology @ U. of Alberta, “Militants of Truth, Communities of Equality: Badiou and the ignorant schoolmaster,” Educational Philosophy and Theory, Vol. 42, No. 2)
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">While his work is ... is </span><span style="font-family: Calibri,sans-serif; font-size: 11pt;">axiomatically denied</span><span style="font-family: Calibri,sans-serif; font-size: 8pt;">.</span>
+
+
+D. Alternative: My alternative is rejecting the state apparatus- only radical politics outside of the state can achieve true equality. We must work to achieve equality outside of the state.
+
+
+
+<span style="font-size: 12pt;">Swyngedouw, 2008</span>(Erik Swyngedouw, Professor of Geography at the University of Manchester, March 2008, “Where is the political?,” http://www.socialsciences.manchester.ac.uk/disciplines/politics/research/hmrg/activities/documents/Swyngedouw.pdf)
+
+<span style="font-family: Calibri,sans-serif; font-size: 7pt;">The political, then,.... </span><span style="font-family: Calibri,sans-serif; font-size: 11pt;">State</span><span style="font-family: Calibri,sans-serif; font-size: 7pt;">/the police1.</span>
+
+
+
+
+Our criticism of the affirmative is enacted through the verification of equality – in the specific philosophical demonstrations we perform, democracy exists
+
+<span style="font-size: 12pt;">Ranciere, 2011</span> (“The thinking of dissensus: politics and aesthetics,” in “Reading Ranciere,” ed. Paul Bowman and Richard Stamp)
+
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">My first concern ... spheres of experience.</span>
+
+
+
+
+
+
+
+=November-December= 
+==Affirmative== 
+===Single Payer aff=== 
+Anscombe defines ought:
+G.E.M Anscombe, Modern Moral Philosophy, Philosophy 33, No. 124, January 1958, [[http://www.pitt.edu/~mthompso/mmp.pdf]]
+The terms “should”.. be required by law.
+
+Anscombe 2 continues
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Anscombe, E. (1978). “On the Source of the Authority of the State,” //Ratio// 20(1): 1–28.</span>
+Our man may… it remains unreason.
+
+
+Therefore, morality is defined by the function of the actor. Furthermore, ought implies can: Morality is defined by the Merriam Webster Dictionary<span style="font-family: Calibri,sans-serif; font-size: 11pt;">[[home#_ftn1|[1]]]</span> as “a doctrine or system of moral conduct.”
+
+And the function of the government in terms of the resolution is utilitarian.
+The government’s function is utilitarian. Goodin
+GOODIN 1995 (Robert E. Goodin, Professor of Social Sciences & Philosopher at the Research School of Social Sciences at Australian National University, Utilitarianism as a Public Philosophy, p. 8-10)
+
+The strength of utilitarianism… officials to adopt.
+
+the standard must be maximizing the expected utilitarian Benefits for Citizens within the contained universe
+
+Is the plan text: the United States Federal Government should adopt a single payer health care system that covers all of its citizens.
+
+Brown contextualizes the plan.
+What is Universal Healthcare?, Annie Brown, March 18, 2011, [[http://www.pnhp.org/news/2011/march/what-is-universal-healthcare]]
+The organization has… in. Nobody out."
+
+Inherency: ObamaCare doesn’t entail a universal health care system. EmpowerNetwork<span style="font-family: Calibri,sans-serif; font-size: 11pt;">[[home#_ftn2|[2]]]</span> continues,
+
+
+The Patient Protection… an abysmal failure.
+
+
+Econ Advantage
+Economy headed to a double-dip recession – we have to act NOW
+Sivy, 8/28 (Michael, Chartered Financial Analyst and a former securities analyst for an independent stock research firm. He was an investment columnist at Money for more than 23 years as well as a guest columnist for TIME's international edition, 8/28/12, TIME, [[http://business.time.com/author/michaelsivy/]], “Michael Sivy,” ADM)
+In addition to… of another recession.
+
+And, Health Care reform is key to economic stimulus, status quo policies consume a huge amount of our GDP.
+
+[[http://www.businessweek.com/authors/566-chris-farrell|Chris Farrell]], December 05, 2008, http://www.businessweek.com/stories/2008-12-05/want-real-stimulus-try-universal-health-carebusinessweek-business-news-stock-market-and-financial-advice, Want Real Stimulus? Try Universal Health Care
+Yet major health-… slip during the recession.
+
+And, a single payer system is key to jumpstarting the economy and helps companies. IHSP.
+
+IHSP, [[http://nurses.3cdn.net/c6fb9a313be501086e_1vm6y1duy.pdf]], Single Payer/Medicare for All: An Economic Stimulus Plan for the Nation , Prepared by the Institute for Health & Socio-Economic Policy, In consultation with Robert Fountain, Economics Consultant
+
+
+Our analysis demonstrates… nations already are.
+And, single payer would save 570 billion dollars in just initial costs.
+Gerald Friedman, is a professor of economics at the University of Massachusetts-Amherst, March/April 2012, Funding a national single-Payer system: “Medicare for all” would save billions, and could be redistributive, [[http://www.dollarsandsense.org/archives/2012/0312friedman.pdf]]
+“The Expanded & improved… the poor under Medicaid.
+Scenario 1 is Global Nuclear Conflict:
+US crisis tanks the global economy
+RAHMAN ‘11 - former Ambassador and Chairman of the Centre for Foreign Affairs Studies. (Ashfaqur . “Another global recession?”. August 21. [[http://www.thedailystar.net/newDesign/news-details.php?nid=199461]])
+Several developments… W-shaped recession.
+
+Economic decline and volatility heightens the risk of nuclear global conflict—multiple scenarios
+Burrows and Harris - Counselor in the National Intelligence Council, Member at the National Intelligence Council - 2009 (Mathew J. Burrows, Global Trends 2025: A Transformed World—an unclassified report by the NIC published every four years that projects trends over a 15-year period, has served in the Central Intelligence Agency since 1986, holds a Ph.D. in European History from Cambridge University, and Jennifer Harris, Member of the Long Range Analysis Unit at the National Intelligence Council, holds an M.Phil. in International Relations from Oxford University and a J.D. from Yale University, 2009 (“Revisiting the Future: Geopolitical Effects of the Financial Crisis,” The Washington Quarterly, Volume 32, Issue 2, April, Available Online at http://www.twq.com/09april/docs/09apr_Burrows.pdf, Accessed 08-22-2011, p. 35-37)
+Of course, the report encompasses more than economics and indeed believes the future is likely to be the result of a number of intersecting and interlocking forces. With so many possible permutations of outcomes, each with ample [end page 35] opportunity for unintended consequences, there is a growing sense of insecurity.
+Even so, history…The second scenario is poverty:
+
+UHC is critical to solving for poverty—the negative entrenches this harm.
+Anirudh Krishna, Sept. 27, 2010, Health care’s link to poverty, [[http://www.ajc.com/news/news/opinion/health-cares-link-to-poverty/nQkbf/]]
+
+The U.S. Census… for ordinary folks
+
+----
+<span style="font-family: Calibri,sans-serif; font-size: 12pt;">[[home#_ftnref1|[1]]]</span> [[http://www.merriam-webster.com/dictionary/morality]]
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">[[home#_ftnref2|[2]]]</span><span style="font-family: 'Times New Roman',serif; font-size: 10pt;">Ibid</span>
+==Negative== 
+===Elections DA=== 
+# A. Uniqueness:
+Obama holds narrow edge in the election
+Sullivan, 10/23 (Andy, Reuters, http://www.huffingtonpost.com/2012/10/23/presidential-polls-2012_n_2005850.html, “Obama Holds Narrow Edge Over Mitt Romney With Presidential Election Two Weeks Away: Poll,” ADM)
+President Barack Obama…206 electoral votes.
+# B. Link:
+Insurance industries would destroy any chance of re-election, especially after the ACA.
+
+Rob Horowitz, April 03, 2012, Rob Horowitz: The Politics Rule Out Single-Payer Health Care System, http://www.golocalprov.com/politics/rob-horowitz-the-politics-rule-out-single-payer-heath-care-system/, Rob Horowitz is a strategic and communications consultant who provides general consulting, public relations, direct mail services and polling for national and state issue organizations, various non-profits and elected officials and candidates. He is an Adjunct Professor of Political Science at the University of Rhode Island.
+
+Unfortunately, no matter… ever be realized.
+
+Passing universal healthcare would be political suicide—polls don’t account for political reality reality.
+
+[[http://talkingpointsmemo.com/josh_marshall.php|JOSH MARSHALL]], JUNE 30, 2012, About That Single Payer Boomlet, [[http://talkingpointsmemo.com/archives/2012/06/in_addition_to_the_week.php]], Josh Marshall is editor and publisher of TalkingPointsMemo.com, what Time Magazine calls "the prototype of what the successful Web-based news organization is likely to be in the future." Marshall spent his early journalistic career in traditional media, writing for such respected publications as The New Yorker, The Atlantic Monthly, The New Republic and The New York Times. Marshall received a George Polk Award in 2008 for reporting on the 2007 US Attorney firing scandal that led to the resignation of Attorney General Alberto Gonzales and a Sidney Hillman award in 2006 for reporting on President Bush's attempt to phase out Social Security. TPM also won the IPI award recognizing free and independent media in 2008.
+
+In addition to…2009 or now.
+
+And, polls show that healthcare is key to the election.
+
+[[http://www.governing.com/authors/dylan-scott.html|DYLAN SCOTT]], AUGUST 16, 2012, Poll: Health Care Will Play Key Role in 2012 Elections, [[http://www.governing.com/news/politics/gov-poll-health-care-will-play-key-role-in-2012-elections.html]],
+
+According to a… part of the ACA.
+# C. Internal Links:
+
+Romney would bash china the first day of his presidency
+Reuters 10-13(Andrea Shalal-Esa, October 13 2012, Romney hits Obama on China policies, vows action on day one, http://www.reuters.com/article/2012/10/13/us-usa-campaign-china-idUSBRE89C0HQ20121013,PS)
+"Four years after… sent them overseas.
+
+Voter:
+Treasury label intensifies a US-China trade war
+Market Watch, 10-6-2011 [[http://www.marketwatch.com/story/obama-briefly-admits-truth-on-china-currency-2011-10-06?link=kiosk]]
+
+The Treasury twice… potential trade war.
+
+LABELING CHINA A MANIPULATOR ENSURES TRADE WAR.
+FINANCIAL TIMES 3-13-10.
+Stephen Green, economist…2010," Mr Green said.
+
+
+# D. Impact:
+Economic decline and volatility heightens the risk of nuclear global conflict—multiple scenarios
+Burrows and Harris - Counselor in the National Intelligence Council, Member at the National Intelligence Council - 2009 (Mathew J. Burrows, Global Trends 2025: A Transformed World—an unclassified report by the NIC published every four years that projects trends over a 15-year period, has served in the Central Intelligence Agency since 1986, holds a Ph.D. in European History from Cambridge University, and Jennifer Harris, Member of the Long Range Analysis Unit at the National Intelligence Council, holds an M.Phil. in International Relations from Oxford University and a J.D. from Yale University, 2009 (“Revisiting the Future: Geopolitical Effects of the Financial Crisis,” The Washington Quarterly, Volume 32, Issue 2, April, Available Online at http://www.twq.com/09april/docs/09apr_Burrows.pdf, Accessed 08-22-2011, p. 35-37)
+Of course, the report encompasses more than economics and indeed believes the future is likely to be the result of a number of intersecting and interlocking forces. With so many possible permutations of outcomes, each with ample [end page 35] opportunity for unintended consequences, there is a growing sense of insecurity.
+Even so, history… dog-eat-dog world
+===Biotech DA=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A. Uniqueness: Biotech companies recovering but still vulnerable Forbes<span style="font-size: 12pt;">[[home#_ftn1|[1]]]</span> 10/11</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Biotechnology stocks. After… with this investment.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">B. Link: Universal healthcare stifles innovation in biotech. Fazio<span style="font-size: 12pt;">[[home#_ftn2|[2]]]</span></span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">America, we often…. innovation requires investment.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">C. Impact: Biotech innovation key to solve swine flu. Euro Biotech<span style="font-size: 12pt;">[[home#_ftn3|[3]]]</span></span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">If vaccine producer… based method can. </span>
+
+
+----
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">[[home#_ftnref1|[1]]]</span><span style="font-size: 10pt;"> Panos Mourdoukoutas, “IPOs, FDA Approvals, and M&A Revive the Biotechnology Industry”, //Forbes,// (Oct 11 2012) [[http://www.forbes.com/sites/panosmourdoukoutas/2012/10/11/ipos-fda-approvals-and-ma-revive-the-biotechnology-industry/]]</span>
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">[[home#_ftnref2|[2]]]</span><span style="font-size: 10pt;"> **Ryan Fazio, 2009,** “Public Option will pull the plug on medical innovation” [[http://www.thedcwriteup.com/2009/07/public-option-will-pull-the-plug-on-medical-innovation]] )</span>
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">[[home#_ftnref3|[3]]]</span><span class="StyleBoldUnderline" style="font-size: 10pt;">Euro Biotech, 7/18</span><span style="font-size: 10pt;">/09, European Biotechnology Science & Industry News, “The Future of Flu Vaccine Production”, [[http://www.eurobiotechnews.eu/service/start-page/top-news/?tx_ttnews%5btt_news%5d=10330|http://www.eurobiotechnews.eu/service/start-page/top-news/?tx_ttnews[tt_news]=10330]]</span>
+=January-February= 
+==Affirmative== 
+===CBT AC=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 1 is the Plan</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Plan Text: In the United States, all adults and juveniles will be treated in a criminal justice system that emphasizes rehabilitation over retribution through Cognitive Behavior Therapy (CBT) with anger control and interpersonal problem solving components as a mandatory program for convicted high risk offenders. I reserve the right to clarify.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Milkman and Wanberg describe the unique aspects of CBT and how it is better than other rehabilitation programs. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Harvey Milkman, Ph.D., Department of Psychology, Metropolitan State College of Denver, Denver, Colorado, Kenneth Wanberg, Th.D., Ph.D., Center for Addictions Research and Evaluation (CARE), COGNITIVE-BEHAVIORAL TREATMENT: A Review and Discussion for Corrections Professionals, May 2007 </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">History and Background…outcomes in society. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Inherency: The status quo has a harsh focus on retribution over rehabilitation. Whitman</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">[[http://www.law.yale.edu/faculty/JWhitman.htm|James Q. Whitman]] is a professor of comparative law at Yale. He is the author of "Harsh Justice: Criminal Justice and the Widening Divide between America and Europe, JANUARY 21, 2011, When the Focus Is Retribution, [[http://www.nytimes.com/roomfordebate/2011/01/20/who-qualifies-for-the-insanity-defense/when-the-focus-is-retribution]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Even before the… the mentally ill.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 2 is Topicality</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Criminal Justice is defined as: </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">[[http://legal-dictionary.thefreedictionary.com/Criminal+justice+system]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Rehabilitation is defined as</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">http://www.thefreedictionary.com/rehabilitation</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Retribution focuses on condemnation. Haist:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">MATTHEW HAIST , DETERRENCE IN A SEA OF “JUST DESERTS”: ARE UTILITARIAN GOALS ACHIEVABLE IN A WORLD OF “LIMITING RETRIBUTIVISM”?, 2009, THE JOURNAL OF CRIMINAL LAW & CRIMINOLOGY Vol. 99, No. 3, Northwestern University, School of Law, [[http://acadia.law.northwestern.edu/jclc/backissues/v99/n3/9903_789.haist.pdf]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Retributivism has always… and the punishment.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 3 is the Ethic</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Anscombe defines ought:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">G.E.M Anscombe, Modern Moral Philosophy, Philosophy 33, No. 124, January 1958, [[http://www.pitt.edu/~mthompso/mmp.pdf]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The terms “should”… required by law.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Anscombe 2 continues</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Anscombe, E. (1978). “On the Source of the Authority of the State,” //Ratio// 20(1): 1–28.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Our man may… it remains unreason.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, the purpose of the US Justice system is to prevent crime.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The US Department of Justice, March 2012, [[http://www.justice.gov/about/about.html]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Our Mission Statement…. for all Americans.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">UNICEF continues:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">UNICEF, C1. Public safety & recidivism, [[http://www.createsolutions.org/unicef/whyimportantrecidivism.html#purpose|http://www.createsolutions.org/unicef/whyimportantrecidivism.html#purpose]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Although the criminal…possible and appropriate.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 4 is the Offense</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Landenberger and Lipsey conducted a meta-analysis study that came to the conclusion that the plan would reduce recidivism by 52% as compared to a retributive approach.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">When the corresponding… in this metaanalysis.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, CBT is the best rehabilitation program. Milkman and Wanberg 2</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Harvey Milkman, Ph.D., Department of Psychology, Metropolitan State College of Denver, Denver, Colorado, Kenneth Wanberg, Th.D., Ph.D., Center for Addictions Research and Evaluation (CARE), COGNITIVE-BEHAVIORAL TREATMENT: A Review and Discussion for Corrections Professionals, May 2007 </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Traditional psychotherapy is… to their clients.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Prefer the study for five reasons:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The findings have been confirmed universally. Landenberger and Lipsey 2</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">This meta-analysis…& MacKenzie, 2005).</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The meta analytical study took 2947 studies and narrowed it down to 58 studies that met their criterion for having quality. Landenberger and Lipsey 3</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The search for… present meta-analysis</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The meta analysis took 5 factors into consideration. Landenberger and Lipsey 4</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Studies were assessed… in any language.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The program used for meta analysis was developed for this system—prefer it to generic protocol. Landenberger and Lipsey 5</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Descriptive and outcome… months post-treatment.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The study took data from over 40 years of research. Landenberger and Lipsey 6</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Nana A. Landenberger & Mark W. Lipsey, A Meta-Analysis of Factors Associated with Effective Treatment, [[http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf]], The Positive Effects of Cognitive-Behavioral Programs for Offenders, Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Computerized bibliography… none were missed.</span>
+===Death Penalty AC=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The ethic is maximizing expected utilitarian benefits within the contained universe.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Every moral theory but consequentialism cannot be applied to a government actor. Woller:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Gary Woller [BYU Prof., “An Overview by Gary Woller”, A Forum on the Role of Environmental Ethics, June 1997, pg. 10]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Moreover, virtually all…advantage of society. </span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Plan Text: The United States criminal justice system will replace the death penalty with rehabilitative programs. I reserve the right to clarify. The Socialist Alternative clarifies the plan.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Socialist Alternative, http://www.socialistalternative.org/about/</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Fight discrimination on… the death penalty.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Inherency: The death penalty still stands in the US. Equal Justice Initiative.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Equal Justice Initiative, [[http://www.eji.org/deathpenalty]], DEATH PENALTY</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">3170 people in… the federal government.</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contention 1: Racism</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">There is a statistical racial disparity in the dealing of the death penalty.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Michael Fraser, Western Connecticut State University, Social Sciences Journal Volume 10, 9 9-30-2011 Crime for Crime: Racism and the Death Penalty in the American South, http://repository.wcsu.edu/cgi/viewcontent.cgi?article=1070&context=ssj</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A study performed…trial was upheld. 13</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">When the impact is capital punishment, the blackness of a defendant influences the outcome of the trial. Eberhardt et al. 1</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Jennifer L. Eberhardt, P G. Davies, Valerie J. Purdie-Vaughns, Sheri Lynn Johnson, 5-10-2006, Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing, Cornell Law Library, Scholarship@Cornell Law: A Digital Repository, Cornell Law Faculty Publications, http://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1040&context=lsrp_papers&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Den%26client%3Dsafari%26sa%3DX%26ei%3D_oShT7HuI8n2ggfc4fCUCQ%26ved%3D0CBsQvwUoAQ%26q%3Djennifer%2Beberhardt%2Bdeathworthy%26spell%3D1%26biw%3D320%26bih%3D416#search=%22jennifer%20eberhardt%20deathworthy%22</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In the current research… determinant of deathworthiness.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Eberhardt et al. 2 continues </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Jennifer L. Eberhardt, P G. Davies, Valerie J. Purdie-Vaughns, Sheri Lynn Johnson, 5-10-2006, Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing, Cornell Law Library, Scholarship@Cornell Law: A Digital Repository, Cornell Law Faculty Publications, http://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1040&context=lsrp_papers&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Den%26client%3Dsafari%26sa%3DX%26ei%3D_oShT7HuI8n2ggfc4fCUCQ%26ved%3D0CBsQvwUoAQ%26q%3Djennifer%2Beberhardt%2Bdeathworthy%26spell%3D1%26biw%3D320%26bih%3D416#search=%22jennifer%20eberhardt%20deathworthy%22</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Why might a… cues to deathworthiness</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Racism will eventually destroy us. Barndt</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Joseph Barndt, Co-Director, Crossroads, DISMANTLING RACISM, 1991, p. 155-156</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The limitations imposed…it to continue.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contention 2: Innocents</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Thousands of innocents are murdered each year. Study proves that 82% of defendants did not deserve a death sentence. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Joshua Herman. Death Denies Due Process, DePaul Law Review, Summer 2004, https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=53+DePaul+L.+Rev.+1777&srctype=smi&srcid=3B15&key=4870ee6c55423ebcff24b6fe65f112bf</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Professor Liebman and… sentenced to death.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contention 3: Patriarchy</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The power of death over people allows the government to perpetuate the patriarchal, paternalistic ideologies that exist and cull those of the herd who do not abide by the norm. Shapiro 1</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">ANDREA SHAPIRO, J.D., 1999, Unequal before the law: men, women, and the death penalty, American University Washington College of Law; BA., 1989, Simmons College. Presently, law clerk to the Hon. Steven G. Chappelle, Circuit Court of Charles County, Maryland, [[http://www.wcl.american.edu/journal/genderlaw/08/shapiro.pdf]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Evil Woman Theory… of normative femininity. 249</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Patriarchy leads to war, proliferation, environmental destruction, and eventually extinction. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Warren and Cady 94—Warren is the Chair of the Philosophy Department at Macalester College and Cady is Professor of Philosophy at Hamline University (Karen and Duane, “Feminism and Peace: Seeing Connections”, p. 16, JSTOR, http://www.jstor.org/stable/pdfplus/3810167.pdf,) </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Operationalized, the evidence… national, and global contexts. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, theories that fail to acknowledge the prevalence of patriarchy are subject to flawed epistemology. Anderson:</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Anderson 9 [Prof of women’s studies &philosophy at Michigan, “Feminist Epistemology and Philosophy of Science,” AW] (PAGE 54)</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">These are all… enabling the reliable ones.</span>
+===<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Prison Industrial Complex AC</span>=== 
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 1: Ethic</span>**
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Moral claims have to be grounded in concrete experience, rather than abstract, ahistoric principles which are ethically bankrupt. Ethical theories must be based in actual social realities.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Ryn Claes G. **Ryn**—1992. “Universality and History:The Concrete as Normative” From <span style="color: windowtext; text-decoration: initial;">[[http://www.nhinet.org/hum.htm|HUMANITAS]]</span>, Volume VI, No. 1, Fall 1992/Winter 1993 ©<span style="color: windowtext; text-decoration: initial;">[[http://www.nhinet.org/index.htm|National Humanities Institute]]</span></span>, Washington, DC USA.
+
+
+
+
+
+The reasons why ...stifling philisophical renewal.
+
+
+
+
+
+
+
+Oppression is a social reality that ethics must be grounded in. Morality is the struggle to humanize. This struggle is contextualized by a struggle against dehumanization, the result of oppression. In order for humanization to commence, it becomes necessary to resist oppression in all its forms.
+
+
+
+
+
+Freire, Paulo. Pedagogy of the Oppressed. New York: Continuum, 2000. Print
+
+
+
+while the problem..dehumanizes the oppressed.
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> **Part 2: Plan**</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Plan Text: The United States Federal Government should abolish all correctional institutions on state and federal levels and replace them with rehabilitative programs, thereby destroying the prison-industrial complex.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In the status quo, the United States values retribution over rehabilitation. This value system has led to the explosion of the prison industry and population, thereby creating the prison-industrial complex, whereby prisoners are exploited as cheap labor. This is empirically verified by the United States’ relatively oversized prison population.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Vicky Pelaez, March 10, 2008, Global Research, The Prison Industry in the United States: Big Business or a New Form of Slavery?, <span style="color: windowtext; text-decoration: initial;">[[http://www.globalresearch.ca/the-prison-industry-in-the-united-states-big-business-or-a-new-form-of-slavery/8289]]</span></span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Human rights organizations...variety of colors.</span>
+
+
+
+
+
+
+
+
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Racism Advantage</span>**
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The punitive functions of the criminal justice system are inherently racist because of the prison.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Angela Davis, 1998, Colorlines, Masked Racism: Reflections on the Prison-Industrial Complex</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Almost two million ...numbers of prisoners.</span>
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The prison-industrial complex perpetuates a cycle of oppression whereby the undesirables of society are denied resources, profiled as criminals, and incarcerated.</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">(same cite as above)</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Mass incarceration is...of our society</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> **Capitalism Advantage** </span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The prison-industrial complex exists to the benefit of the capitalist elite. Cheap labor runs so thick inside prison walls that exploitation is inevitable.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Stephen Hartnett, 1997, Prison Labor, Slavery, and Capitalism in Historical Context</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">As the correctional...in their communities</span>
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The modern underclass in capitalist society is defined by their “unexploitable” nature; because they are denied social resources, they can’t work, and thus cannot be exploited in the system. Because they’re useless, the capitalist solution is to imprison them.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Erik Wright 1997, Class counts: comparative studies in class analysis</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In contemporary advanced...the underclass lives.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The racially disadvantaged groups of the previous section make up the members of this “unexploitable” class. While in prison, capitalists turn those who could previously not be used into the most exploitable people possible: prisoners.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Earl Smith and Angela Hattery, 2006, Societies Without Borders, If We Build It They Will Come: Human Rights Violations and the Prison Industrial Complex</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">According to Wright...in the US</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> **Solvency**</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A. Post Fiat: The call for abolition not only leads us to the ultimate overthrow of prisons, it also helps us establish steps of reform along the way.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Angela Davis, History is a Weapon, The Challenge of Prison Abolition: A Conversation,<span style="color: windowtext; text-decoration: initial;">[[http://www.historyisaweapon.com/defcon1/davisinterview.html]]</span></span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The seemingly unbreakable...resources and services.</span>
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The law-making nature of the aff plan makes it that, even if the plan is not enforced or goes into effect right away, it will begin the process of overturning the status quo. This takes out arguments about the on-face solvency of the plan; the fact that the plan is passed via fiat gives it solvency.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Edna Ullman Margalit, Cass R. Sunstein, 2001, Philosophy and Public Affairs, Inequality and Indignation</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The disadvantaged...commitment to change.</span>
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, rehabilitation empirically solves.</span>
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Knopp</span>**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> et. al. 19**76**, Instead of Prisons: a Handbook for Abolitionists, http://www.prisonpolicy.org/scans/instead_of_prisons/</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Basically, we are…cheap and effective.</span>
+
+
+
+# <span style="font-family: 'Times New Roman',serif;">B. Pre-fiat</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Talking about the prison-industrial complex is a necessary step in overturning the oppressions detailed in the case. Sudbury 3 explains. </span>
+
+
+
+<span style="font-family: 'Times New Roman',serif;">Of course, the "… and anti-globalization projects.</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif;">Debate has maximal value when we use our arguments to express our personal beliefs as democratic citizens. We move beyond making empty arguments that we don’t believe in.</span>
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif;">Role of the Ballot:</span>
+
+<span style="font-family: 'Times New Roman',serif;">The role of the ballot should be to look to whoever uses their discursive and argumentative skills to better further real-world liberation.</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif;"> My questioning of the normal system is sufficient – critiques of the system open space for discourse, because resistance ensures resistability. Giroux<span style="font-size: 12pt;">[[home#_ftn1|[1]]]</span> explains,</span>
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">These youth movements… freedom, justice and equality,</span>
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Prison denies disadvantaged youth the opportunity for real education. Debate is key not only to bring education into oppressed communities like prison, but also to give us, the privileged, perspective on real-world issues.</span>
+
+
+
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Bryan McCann, 2007, Communication and Critical/Cultural Studies, Vol. 4, No. 4, Fighting the Prison Industrial Complex: A Call to Communication and Cultural Studies Scholars to Change the World</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Consider the successful...lead to it.</span>
+
+
+----
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">[[home#_ftnref1|[1]]]</span><span style="color: #222222; font-family: 'Times New Roman',serif; font-size: 10pt;">Giroux, Henry – 2011. “Left Behind? American Youth and the Global Fight for Democracy.” Truthout</span> <span style="color: #1155cc; font-family: 'Times New Roman',serif; font-size: 10pt;">[[@http://www.truth-out.org/left-behind-american-youth-and-global-fight-democracy68042#2|http://www.truth-out.org/left-behind-american-youth-and-global-fight-democracy68042#2]]</span>
+
+
+==Negative== 
+===Fiscal Cliff DA=== 
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A. Uniqueness: Fiscal cliff scheduled to pass—lawmakers cannot risk squabbling now.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> [[http://www.csmonitor.com/About/Staff/Liz-Marlantes|Liz Marlantes]], Correspondent, December 17, 2012, Amid Newtown grief, will a 'fiscal cliff' deal quietly get done?, Decoder Wire, [[http://www.csmonitor.com/USA/DC-Decoder/Decoder-Wire/2012/1217/Amid-Newtown-grief-will-a-fiscal-cliff-deal-quietly-get-done]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Instead of a… they'll take it.</span>
+
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">B. Links:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Criminal justice reform plays a huge part in political capital</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Although this pathology… of the public.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Reform risks loss of political capital. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Since election cycles…to safer streets.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The lack of short term benefits kills political capital. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In addition, since… cheap, political response.”116</span>
+
+# <span style="font-family: 'Times New Roman',serif; font-size: 12pt;">C. Impact: Obama must use capital to secure a fiscal cliff solution—key to avoid global depression</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Sullivan, 11/9</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">(The Daily Dish, “Now, Govern,” http://andrewsullivan.thedailybeast.com/2012/11/now-govern.html)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">I'm as amazed… magnanimous. And fast.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Sequestration would be catastrophic for our national security and would trigger upheaval in the Middle East</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Hutchison, U.S. Senator from the great state of Texas, 9/21/2012</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">(Kay Bailey, “A Looming Threat to National Security,” States News Service, Lexis)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Despite warnings of… punish working families.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">That escalates globally and goes nuclear </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Primakov, ’09 (Yevgency, President of the Chamber of Commerce and Industry of the Russian¶ Federation; Member of the Russian Academy of Sciences; member of the Editorial¶ Board of Russia in Global Affairs. This article is based on the scientific report for which¶ the author was awarded the Lomonosov Gold Medal of the Russian Academy of¶ Sciences in 2008, July-September 2009, http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDMQFjAA&url=http%3A%2F%2Fhawk.ethz.ch%2Fserviceengine%2FFiles%2FISN%2F105702%2Fichaptersection_singledocument%2F71a40dca-23cb-411d-9c5d-a7ce495e2522%2Fen%2F12.pdf&ei=ndKiUKSuJobYigLH8IGABQ&usg=AFQjCNHNDNHFFr_J0IYsuZjNoZt18HNMLQ&sig2=RpdwWxE0JtGaPxuFrS1gtw, “The Middle East Problem in the Context of International Relations,” ADM)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The Middle East… such a possibility</span>
+===<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Debt Ceiling DA</span>=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> PART 1 IS UQ:</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Debt Ceiling resolution will pass – GOP is divided and can’t generate any real opposition</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Sargent, 1/4 (Greg, Plum Line, The Washington Post, 1/4/13, http://www.washingtonpost.com/blogs/plum-line/wp/2013/01/04/the-debt-ceiling-isnt-obamas-problem-its-the-gops-problem/, “The debt ceiling isn’t Obama’s problem. It’s the GOP’s problem.,” ADM)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Obama and Dems… look so strong, after all.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">PART 2 IS LINKS</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Criminal justice reform plays a huge part in political capital</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Although this pathology… of the public.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Reform risks loss of political capital. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Since election cycles… lead to safer streets.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The lack of short term benefits kills political capital. </span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">SCOTT R. HECHINGER, J.D., 2010, New York University School of Law; B.A., 2004, Duke University. 2010–11, Sinsheimer Children’s Rights Fellow, Partnership for Children’s Rights. 2011, JUVENILE LIFE WITHOUT PAROLE: AN ANTIDOTE TO CONGRESS’S ONE-WAY CRIMINAL LAW RATCHET?, N.Y.U Review of Law & Social Change, Vol. 35</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In addition, since… cheap, political response.”116</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">PART 3 IS IMPACT</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Obama PC is key to convincing the GOP to compromise on the debt ceiling and sequestration now – failure causes global economic collapse</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Shear and Weisman 1-3 – Michael and Jonathan, writers for the International Herald Tribune (Republicans ready for another battle; Beaten on tax increase, they're spoiling to take on U.S. borrowing limit, International Herald Tribune, Lexis)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">President Barack Obama's…the debt limit.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Economic collapse causes global nuclear war</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Friedberg and Schoenfeld, 2008 [Aaron, Prof. Politics. And IR @ Princeton’s Woodrow Wilson School and Visiting Scholar @ Witherspoon Institute, and Gabriel, Senior Editor of Commentary and Wall Street Journal, “The Dangers of a Diminished America” [[http://online.wsj.com/article/SB122455074012352571.html]]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Then there are… with external adventures.</span>
+
+===<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Evolution NC</span>=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 1 is the Framework</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Epistemology: Naturalism is the only way to solve for radical skepticism.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">James Maffie. “Recent Work on Naturalized Epistemology.” American Philosophical Quarterly, Vol. 27, No. 4 (Oct., 1990), pp. 281-293. Illinois UP.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Naturalists maintain it… epistemology (Goldman, 1978).</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">We do not have apriori knowledge. A naturalized epistemology is the only way to get closest to the truth through the usage of scientific rigour.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">James Maffie. “Recent Work on Nat uralized Epistemology.” American Philosophical Quarterly, Vol. 27, No. 4 (Oct., 1990), pp. 281-293. Illinois UP.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contextual continuity: Naturalists… us by science.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Meta ethic: Morality must be grounded in the natural world. Therefore, the meta ethic is Darwinian Naturalism.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">P. Wesley Edwards. A Darwinian Approach to Meta-ethics. Free Thought Debater. August 2004. Google.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Attempting to argue… being self-contradictory.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, because all things are grounded in the natural world, evolution produced moral notions in only humans. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">P. Wesley Edwards. A Darwinian Approach to Meta-ethics. Free Thought Debater. August 2004. Google.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">As many people… urges and desires.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Therefore, the standard is abiding by natural selection.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">P. Wesley Edwards. A Darwinian Approach to Meta-ethics. Free Thought Debater. August 2004. Google.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">But why is… may have become.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Evolutionary fitness is enhanced by punishing wrondoers.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The Primate Diaries, May 18, 2010, [[http://scienceblogs.com/primatediaries/2010/05/18/punishing-cheaters/]], [[http://scienceblogs.com/primatediaries/2010/05/18/punishing-cheaters/|Punishing Cheaters Promotes the Evolution of Cooperation]]</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The more recent… for individual fitness.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Retribution has been chosen by natural selection.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Robert Boyd and Peter J. Richersont, Punishment Allows the Evolution of Cooperation (or Anything Else) in Sizable Groups Zentrum fiir lnterdiszipliniire Forschung, Universiti~t Bielefeld, Bielefeld, Germany, [[http://www.des.ucdavis.edu/faculty/Richerson/PunishmentAllowsAnything.pdf]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">A number of authors… range of behaviors.</span>
+===<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Biopower K</span>=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 1: The Harms</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Prison is the beacon of biopolitics. It regulates the same illegalities it says it is supposed to prevent and puts prisoners in a state of bare life.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Michel Foucault, December 8, 2009, Theory, Culture & Society, [[http://tcs.sagepub.com/content/26/6/12]], Theory Culture Society 2009 26: 12, Alternatives to the Prison : Dissemination or Decline of Social Control?</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And it is this… its hired hands, etc.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">This means that we link turn any arguments about crime because sending people into prisons is what produces crime in the first place.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The assumption that the aff does not uncover in his speech act is that his advocacy is just a way to allow thanatopolitics to extend freely.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Michel Foucault, December 8, 2009, Theory, Culture & Society, [[http://tcs.sagepub.com/content/26/6/12]], Theory Culture Society 2009 26: 12, Alternatives to the Prison : Dissemination or Decline of Social Control?</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Secondly, the effort… economy of illegality.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">These so called “rehabilitative alternatives” are all just methods of transmitting the same biopolitical relationship that existed before, in more carceral prisons, in order to allow the government to exercise their power in freedom.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Michel Foucault, December 8, 2009, Theory, Culture & Society, [[http://tcs.sagepub.com/content/26/6/12]], Theory Culture Society 2009 26: 12, Alternatives to the Prison : Dissemination or Decline of Social Control?</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">There are others… same penal mechanisms?</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, freedom is a prerequisite to morality because in order to be a guide to action, we have to have the option of taking a separate action.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Rehabilitation is an attempt to reduce human beings to a bare life, ready to be reproduced and reprogrammed.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">David Polizzi, Indiana State University, In Search of the Ethical in Criminal Justice Practice, Journal of Theoretical and Philosophical Criminology In Search of the Ethical in Criminal Justice Practice, July, 2012, Vol. 4(2):65-90, Polizzi & Brown, [[http://www.jtpcrim.org/August-2012/6-In-Search-of-ethical-criminal-justice-Polizzi-Brown.pdf]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">If this statement… now “devalue themselves” (p. 92).</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Part 2: What Should We Do?</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The affirmative advocacy is taking the wrong approach. Our role as intellectuals is not to provide proscriptive solutions, but to offer analyses that reveal the problems with hegemonic institutions and enable their transformation. We must examine the discourses and assumptions that go unnoticed behind our arguments. This enables an ethical intellectual self-constitution which avoids how their commitment to legal reform short-circuits the efficacy of their criticism. We do not claim to somehow escape all power relations.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Foucault, 1980</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">(Michel, “Questions of Method,” in “The Foucault Effect: Studies in Governmentality,” (1991), by Michel Foucault, Graham Burchell, and Colin Gordon, p. 82-85)</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">You're quite right… realized their ideas.</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The judge should be to assume the position of a critical intellectual, interrogating the discourses and unnoticed assumptions behind arguments. The signal sent intellectually outweighs any specific policy proposal. Change occurs at molecular levels and intellectuals have the obligation of injecting that into whatever intellectual and political sphere they occupy. The only way to create change in the real world is to interrogate those unquestioned assumptions and reject them.</span>
+
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Richard Wyn Jones, 1999, Professor International Politics at Aberystwyth University, Security, Strategy, and Critical Theory, p. 155-163</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The central political…critical security studies.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Discourse comes first because it precedes any normative or political discussion of the merits of the resolution. Bleiker writes,</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Bleiker, Roland. [professor of IR @ U of Queensland] “Discourse and Human Agency.” Contemporary Political Theory, 2003</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> ‘It is within discourse… thereby becomes improbable.’</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">It is for this reason that the negative posits our thesis to reject the affirmative and give neither retribution nor rehabilitation positivity and instead open up further deliberation. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Foucalt elaborates further </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Michel Foucault, December 8, 2009, Theory, Culture & Society, [[http://tcs.sagepub.com/content/26/6/12]], Theory Culture Society 2009 26: 12, Alternatives to the Prison : Dissemination or Decline of Social Control?</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">YOU HAVE asked… succeeding pretty well.</span>
+
+===Internalism NC=== 
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Internalism is the only epistemic theory that provides justifications for having beliefs.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Richard Feldman and Earl Conee, Internalism Defended, American Philosophical Quarterly, Vol. 38, No. 1 (Jan., 2001), pp. 1-18, University of Illinois Press on behalf of North American Philosophical, http://www.jstor.org/stable/20010019</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">John Pollock writes… version of mentalism.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, epistemology comes first because we cannot reach knowledge statements without knowing the process of formulating knowledge.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">It is for this reason that all moral reasons are premised on desires. Heathwood</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Chris Heathwood, “Desire-Based Theories of Reasons, Pleasure, and Welfare.” Oxford Studies In Meta-ethics Volume 6. Ed. Russ Shafer-Landau</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">The answer is…theories of reasons.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Therefore the standard is respecting motivational internalism.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">And, motivational internalism requires retribution.</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">James Rachels, "Punishment and Desert," originally appeared in Ethics in Practice, edited by Hugh LaFollette (Oxford: Basil Blackwell, 1997), pp. 470-479.[[http://www.jamesrachels.org/punanddes.pdf]]</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">So once again… to be effective.</span>
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[media type="custom" key="10353370"]]
+[[media type="custom" key="21779904"]]
+[[include page="space.template.Footer"]]

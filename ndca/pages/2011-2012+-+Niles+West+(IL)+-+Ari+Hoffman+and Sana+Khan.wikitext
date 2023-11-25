@@ -1,0 +1,271 @@
+=GPS III AFF= 
+
+=Contention 1: Inherency= 
+
+Based on current funding, four GPS III satellites will be produced
+<span style="font-family: Georgia,serif; font-size: 12pt;">GPS.gov 12</span> ( Official U.S. Government information about the Global Positioning System (GPS) and related topics. “Space Segment.” 1-31. [[@http://www.gps.gov/systems/gps/space/#III|http://www.gps.gov/systems/gps/space/#III]])
+
+<span style="color: #222222; font-size: 8pt;">Currently under development … demands of military and civilian users alike. </span>
+
+
+Lockheed Martin is under contract to build 4 GPS III satellites but they’re capable of replacing the whole constellation 4 satellites at a time – means all your disads are non-unique
+**__<span style="font-size: 12pt;">Denver Post 2-22</span>__**(“Lockheed opens GPS III processing facility in Jeffco” http://www.denverpost.com/business/ci_20015258)
+<span style="font-size: 8pt;">The Global Positioning System is a … </span> constellation of GPS II satellites.
+
+Large-scale GPS III procurement isn’t guaranteed because of budget cuts – Boeing is offering super cheap Block IIFs
+**__<span style="font-size: 12pt;">Thompson 11</span>__**<span style="background-color: white;">(</span>Loren Thompson is the chief operating officer of the Lexington Institute. “Battle Brewing Over Future Of GPS Constellation” http://www.lexingtoninstitute.org/battle-brewing-over-future-of-gps-constellation)
+<span style="background-color: white; font-size: 8pt;">The U.S. Department of … </span> long-term fiscal challenges may be.
+
+
+
+<span style="font-size: 12pt;">Thus, the plan:</span> **<span style="font-size: 12pt;">The United States federal government should develop and deploy a full Global Positioning Satellite system using GPS III satellites.</span>**
+
+=Contention 2: Maritime Power= 
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">The risks of jamming and spoofing of GPS are rising every year</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Roberts 2/23</span> (John, former Chief White House Correspondent, University of Toronto, new anchor and journalist, “GPS at risk from terrorists, rogue nations, and $50 jammers, expert warns”, [[http://www.foxnews.com/scitech/2012/02/23/gps-emerging-threat/?test=latestnews]], 2/23/12)
+
+The Global Positioning System<span style="font-size: 8pt;"> guides our … And that sometimes has unintended consequences. </span>
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">That specifically collapses maritime power</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Williams 2/23</span> (Alison, retired yacht circumnavigator [25 years] published by Pablo Avanzini, retired naval officer [24 years], “Maritime GPS Navigation at Risk from Jammers and Spoofers”, [[http://www.pabloavanzini.com/maritime-gps-navigation-at-risk-from-jammers-and-spoofers/]], 2/23/12)
+
+Marine navigation all over the world … less than a thousand euros.
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">Maritime power solves all war – deters conflict and ensures defense</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Whiteneck and Clark</span> <span style="font-size: 12pt;">11</span> (Commander Bryan Clark U.S. Navy (Retired) and Dr. Dan Whiteneck, “Strategic Choices at the Tipping Point”, Proceedings Magazine - February 2011 Vol. 137/2/1,296)
+
+<span style="font-size: 8pt;">In light of global economic and strategic realities… U.S. Navy can no longer do so, it will indeed be at a “tipping point.”</span>
+
+
+Specifically deters Iran
+<span style="font-family: Georgia,serif; font-size: 12pt;">Klare 3/2</span><span style="font-size: 8pt;"> (Michael T., Five college professor of Peace and World Security studies, Defense correspondent at //The Nation// magazine, on the Board of Directors of Human Rights Watch, “America’s maritime power”, [[http://mondediplo.com/2012/03/06uspacific]], 3/2/12)</span>
+
+<span style="font-size: 8pt;">According to Obama and Panetta, the strategy reflects … face of opposition from China and other rising powers.</span>
+
+
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">Iran’s acquisition of nuclear weapons sparks a massive arms race – mutually assured destruction is dead</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Mitchell 3/2</span> (George, retired senator of 15 years, senate majority leader for 6 years, currently serves as co-chair of the Housing Commission at the Bipartisan Policy Center, “Former Sen. Mitchell: Nuclear Iran Would Ignite Worldwide Arms Race”, [[http://americannewsreport.com/former-sen-mitchell-nuclear-iran-would-ignite-worldwide-arms-race-8813376.html]], 3/2/12)
+
+<span style="font-size: 8pt;">Few U.S. Senators in recent history …</span> and for people all around the world.
+
+
+<span class="Underline">**<span style="font-size: 10pt;">That causes global nuclear war and extinction</span>**</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Primakov 9</span><span style="font-size: 8pt;"> (Yevgeny, President of the Chamber of Commerce and Industry of the Russian Federation; Member of the Russian Academy of Sciences; member of the Editorial Board of Russia in Global Affairs. This article is based on the scientific report for which the author was awarded the Lomonosov Gold Medal of the Russian Academy of Sciences in 2008, “The Middle East Problem in the Context of International Relations”, 9/08)</span>
+
+<span style="font-size: 8pt;">The </span>Middle East conflict is … <span style="font-size: 8pt;"> position does not completely rule out such a possibility.</span>
+
+
+=Contention 3: Readiness= 
+Jamming kills accurate GPS timing
+<span style="font-family: Georgia,serif; font-size: 12pt;">Ghioni 2/24</span> (Fabio, Strategic Advisor for USFG, expert in global security and technology, “GPS jamming: a clear and present reality”, [[http://www.fabioghioni.net/blog/2012/02/24/gps-jamming-a-clear-and-present-reality/]], 2/24/12)
+
+<span style="font-size: 8pt;">A secret network of 20 roadside listening stations … are identified and how can we prevent others using them,” says Curry.</span>
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">GPS timing is critical to the military and readiness</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">DM 12</span> (Defense Management Journal news service, “Next generation GPS”, [[http://www.defencemanagement.com/article.asp?id=342&content_name=ICT&article=10234]], 2012)
+
+<span style="font-size: 8pt;">GPS permeates almost every aspect of modern …</span> GPS, they could not function without it.
+
+**<span style="font-size: 12pt;">Readiness is key to deter attacks and sustain stability</span>**
+**<span style="font-size: 12pt;">Feaver 3</span>**<span style="font-size: 8pt;">, Professor of Political Science at Duke, Peter D., Armed Services: Agency, Oversight, and Civil-Military Relations, p.5</span>
+
+__The civil-military problematique is so vexing … then failing in the ultimate military contest.__
+
+
+
+GPS guarantees operational superiority in all combat
+Medlock 08 <span style="font-size: 10pt;">(“Worldwide Influence of GPS and the Challenges Ahead,” TSgt Theresa A., Lead Specialist Missile Warning Support Element, High Frontier, the Journal for Space & Missile Professionals, May 2008, http://www.afspc.af.mil/shared/media/document/AFD-080522-087.pdf)</span>
+
+The use of GPS data … to grow as new technology advances take hold.
+
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">Military Readiness is all that stops terrorism now – disruption means a free-for-all</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Eaglen 11</span> (Mackenzie, senior policy analyst at the Heritage foundation, “Assessing the Strategic Readiness of the U.S. Armed Forces”, Testimony before The Readiness Subcommittee of The House Committee on Armed Services, [[http://www.heritage.org/research/testimony/2011/03/assessing-the-strategic-readiness-of-the-us-armed-forces]], 3/3/11)
+
+If America’s<span style="font-size: 8pt;"> elected officials do not …That is simply no longer the case.</span>
+
+A terrorist attack causes global nuclear war
+<span style="font-family: Georgia,serif; font-size: 12pt;">Ayson 10</span> (Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington,“After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)
+
+<span style="font-size: 8pt;">A terrorist nuclear attack, and even the use of nuclear …</span> the chances of nuclear restraint.
+
+=Contention 4: Timing= 
+
+2 scenarios for conflict:
+<span style="font-family: Georgia,serif; font-size: 12pt;">1. Timing is key to the power-grid</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">NCO 11</span><span style="font-size: 8pt;"> (National Coordination Office for Space-based positioning, Navigation, and Timing, “Timing”, <span style="font-size: 10pt;">[[http://www.gps.gov/applications/timing/]]</span>, 12/28/11)</span>
+
+<span style="font-size: 8pt;">In addition to longitude, latitude, and altitude… will remain free and available to the entire world.</span>
+
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">Collapse of the power grid causes nuclear meltdown, that means extinction</span>
+
+<span style="font-family: Georgia,serif; font-size: 12pt;"> International Business Times 11</span> (Solar Flare Could Unleash Nuclear Holocaust Across Planet Earth, Forcing Hundreds of Nuclear Power Plants Into Total Meltdowns, [[http://au.ibtimes.com/articles/213249/20110914/solar-flare-could-unleash-nuclear-holocaust-across-planet-earth-forcing-hundreds-of-nuclear-power-pl.htm]])
+
+<span style="font-size: 8pt;">What happens when there's no electricity? …very small fraction of the total population.</span>
+
+2. GPS checks back clandestine nuclear testing
+<span style="font-family: Georgia,serif; font-size: 12pt;">Schwarz 11</span> (Yannick, Online marketing manager at Quantum Networks, “GPS Can Be Used to Track Clandestine Nuclear Explosions”, [[http://goinggps.com/gps-can-be-used-to-track-clandestine-nuclear-explosions/]], 6/8/11)
+
+A team of American researchers unveiled …and<span style="font-size: 8pt;"> hopefully </span>prevent them in the end.
+
+
+That causes the earth to implode from nuclear radiation
+<span style="font-family: Georgia,serif; font-size: 12pt;">Chalko 03</span> (“Can a Neutron Bomb accelerate Global Volcanic Activity?” Tom J. Chalko, MSc, PhD., Head of Geophysics Division, http://sci-e-research.com/neutron_bomb.html)
+
+Consequences of using<span style="font-size: 8pt;"> modern </span>nuclear weapons … the entire planet to explode.
+
+=Contention 5: Solvency= 
+
+<span style="font-family: Georgia,serif; font-size: 12pt;">GPS III satellites can be up in 2014 and solves jamming and spoofing</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">UPI 1/16</span> (United Press International news service, “Lockheed building more GPS III satellites”, [[http://www.upi.com/Business_News/Security-Industry/2012/01/16/Lockheed-building-more-GPS-III-satellites/UPI-25391326723087/]], 1/16/12)
+
+<span style="font-size: 8pt;">The </span>third and fourth GPS III satellites of the … for the system is scheduled for 2014
+
+Immediate implementation of a full GPS III system is uniquely key to solve – current plans to continue using Block 2F increase the risk of all of our advantages
+**__<span style="font-size: 12pt;">Thompson 11</span>__**(Loren Thompson is the chief operating officer of the Lexington Institute. He is a consultant to GPS 3 prime contractor Lockheed Martin. “There is No Alternative to GPS 3.” [[http://www.spacenews.com/commentaries/111128-no-alternative-gps.html]])
+
+<span style="font-size: 8pt;">The U.S. federal budget has entered …</span> future users of a vital national asset.
+
+
+
+
+=Affirmative - SPS= 
+=Plan Text= 
+
+Plan: The United States federal government should deploy four space-based solar power satellites.
+
+=Advantage 1: Space Development= 
+
+ASATs are the biggest threat to US technology and satellites
+**<span style="font-size: 12pt;">Lynn 11</span>**<span style="font-size: 8pt;">-deputy secretary of defense, senior fellow @ the National Defense University, Masters in Public Affairs @ Princeton University, J.D. @ Cornell Law School, B.A. @ Dartmouth College [William, Aviation Week & Space Technology, “Raising Pedigree,” April 11, 2011, interviewed by Amy Butler, LexisNexis]</span>
+
+<span style="font-size: 8pt;">Twenty or 30 ... this problem?</span>
+
+China surpassing US in tech and space leadership due to lack of engagement
+<span class="Underline">**<span style="font-size: 10pt;">AP 7/11</span>**</span><span style="font-size: 8pt;">http://hosted.ap.org/dynamic/stories/A/AS_CHINA_SPACE?SITE=DCSAS&SECTION=HOME& TEMPLATE=DEFAULT&CTIME=2011-07-11-10-14-46, “China's space program shoots for moon, Mars, Venus”</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;"> This year ... space station.</span>
+China is targeting any US satellites that have advantages, regardless of their own insecurities.
+**<span style="color: #222222;">The Space Review 11/14</span>** <span style="color: #222222;">(“Staring into the eyes of the Dragon.”, [[@http://www.thespacereview.com/article/1970/1|__http://www.thespacereview.com/article/1970/1__]], 11/14/11)</span>
+
+<span style="color: #222222; font-size: 8pt;">The first speaker...</span><span style="font-size: 8pt;">the Americans.</span>
+
+
+**The current space race risks a space attack against U.S. space assets – this will collapse the global economy and hegemony**
+**Choong, 8 -** doctorate in strategic studies at the Australian National University (William, The Straits Times, 3/24, “A Pearl Harbor in space?”, lexis)
+
+__In January ...l__ast month.
+
+Economic collapse leads to miscalc, instability, terrorism and global war
+**Auslin, 9**<span style="font-size: 8pt;"> – resident scholar at AEI (Michael “Averting Disaster”, The Daily Standard, 2/6, http://www.aei.org/article/100044</span>
+
+<span style="font-size: 8pt;">As they deal ...</span> __in the past__<span style="font-size: 8pt;">.</span>
+
+<span class="Underline">**<span style="font-size: 10pt;">Heg key to prevent arms races, miscalc, competitors and new threats</span>**</span>
+**Khalilzad 11** <span style="font-size: 8pt;">(Zahlmay was the [[http://en.wikipedia.org/wiki/United_States_Ambassador_to_the_United_Nations|United States Ambassador to the United Nations]] under President [[http://en.wikipedia.org/wiki/George_W._Bush|George W. Bush]]. He has been involved with [[http://en.wikipedia.org/wiki/Politics_of_the_United_States|U.S. policy makers]] at the [[http://en.wikipedia.org/wiki/White_House|White House]],[[http://en.wikipedia.org/wiki/State_Department|State Department]] and [[http://en.wikipedia.org/wiki/The_Pentagon|Pentagon]] since the mid-1980s. [[http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad?page=2]])</span>
+
+<span style="font-size: 8pt;">American retrenchment ...</span><span style="font-size: 10pt;"> aggression.</span>
+
+**All their turns are inevitable - Zero Chances of willful US restraint – we’ll inevitably be engaged globally – the only question is effectiveness**
+<span style="font-size: 12pt;">Shalmon and Horowitz 09</span><span style="font-size: 8pt;"> (Dan, Research associate and consultant at the Belfer Center for International Affairs at Harvard University. Michael Horowitz, assistant professor of political science at the University of Pennsylvania. “The Future of War and American Military Strategy.”Orbis, Spring)</span>
+<span class="underline0">It is important ...</span><span style="font-size: 8pt;"> global order.24 </span>
+
+
+**Vulnerability alone forces preemption and miscalc**
+**Tellis, 7** - Senior Associate at the Carnegie Endowment for International Peace (Ashley, Survival, Autumn, “China’s Military Space Strategy”, ingenta)
+
+Finally, __the growing ...__ __and win__.
+
+
+
+**Satellite hardening and reconstitution capabilities are the only thing that can prevent a preemptive ASAT attack**
+**Kueter, 07 -** is president of the George C. Marshall Institute, a nonprofit think tank dediicated to science and technology in public policy (Jeff, New Atlantis, “China's Space Ambitions -- And Ours,” Spring, lexis)
+
+On January 11... space assets.
+
+**SPS allows the U.S. to maintain space control – it can harden satellites, make them more survivable and reconstitute lost assets rapidly**
+**Ramos 2k** – US Air Force Major, Thesis submitted for the AIR COMMAND AND STAFF COLL MAXWELL Air Force Base (Kim, “Solar Power Constellations: Implications for the United States Air Force,” April, <span style="color: black;">[[http://handle.dtic.mil/100.2/ADA394928]]</span>)
+
+<span style="font-size: 6pt;">In addition to the ...</span>__<span style="background-color: yellow;">warfighter requirements</span>__.26
+
+**<span style="font-family: Times-Bold,sans-serif; font-size: 12pt;">Solar Powered Satellites are key to building the infrastructure necessary to colonize space</span>**
+**<span style="font-family: Times-Bold,sans-serif; font-size: 12pt;">Globus 05</span>**
+<span style="font-size: 12pt;">(Al Globus, Senior Research Associate for Human Factors Research and Technology at San Jose State University at NASA AmesResearch Center. He was previously visiting research associate at the Molecular Engineering Laboratory in the chemistry departmentof the University of California at Santa Cruz., Sept. 22, 2005,” Space Settlement Basics” </span><span style="color: #00009a; font-size: 12pt;">http://www.nas.nasa.gov/About/Education/SpaceSettlement/Basics/ wwwwh.html</span><span style="font-size: 12pt;">, )</span>
+<span style="font-family: Times-Roman; font-size: 8pt;">BB 3. Solar Power Satellites....</span>__<span style="background-color: yellow; font-family: Times-Roman;"> space colony</span>__<span style="font-family: Times-Roman; font-size: 8pt;">.</span>
+
+
+**<span style="font-size: 12pt;">We have a moral imperative to colonize space: Human survival is the ultimate maxim and colonizing space is the best way to minimize extinction risks</span>**
+**Bostrom**, Nick. //Astronomical Waste: The Opportunity Cost of Delayed Technological Development,”// Utilitas Vol. 15 No. 3, 20**04** pgs. 308-314, http://ww.nickbostrom.com/astronomical/waste.html
+However, the true ...existential risk!”
+
+=Advantage 2: Warming= 
+Warming is real and human induced – drastic emissions reductions are key to avoid dangerous climate disruptions
+<span style="font-size: 12pt;">Somerville 11</span> – Professor of Oceanography @ UCSD
+Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis, BJM
+
+<span class="UnderlineChar">In</span> early <span class="UnderlineChar">2007...</span> within this century.
+
+
+SPS solves – it’s the only solution and warming is comparatively the largest risk
+<span style="font-size: 12pt;">Hsu 10</span> – PhD in Engineering
+Feng, PhD in Engineering, Former head of the NASA GSFC risk management function, and was the GSFC lead on the NASA-MIT joint project for risk-informed decision-making support on key NASA programs, has over 90 publications and is coauthor of two books and co-chair of several technical committees, 12-2010, “Harnessing the Sun: Embarking on Humanity's Next Giant Leap,” Online Journal of Space Communication, http://spacejournal.ohio.edu/issue16/hsu.html
+
+It has become ...<span class="UnderlineChar"> a difference</span>.
+
+
+
+SPS key to reduce fossil fuel use and the buildup of CO2 and methane – the main contributors to warming
+Lyle M. <span style="font-size: 12pt;">Jenkins</span>, Jenkins Enterprises, Project Engineer, NASA Lyndon B. Johnson Space Center, December <span style="font-size: 12pt;">2009</span>, “Development of Space-Based Solar Power”, Intech, http://www.intechopen.com/articles/show/title/development-of-space-based-solar-power//jchen
+
+The risks ... use on Earth
+
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">Independently, warming is an __existential risk__.</span>**
+Deibel ’07<span class="StyleStyleBold12pt">—Prof IR @ National War College (Terry, “Foreign Affairs Strategy: Logic for American Statecraft,” Conclusion: American Foreign Affairs Strategy Today)</span>
+<span style="font-size: 10pt;">Finally, there is ... life on this planet</span>
+
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">Global warming leads to extinction – status quo warming effects will only escalate</span>**
+David <span class="StyleStyleBold12pt">Stein</span>, Science editor for The Guardian, 7-14-<span class="StyleStyleBold12pt">2008</span>, “Global Warming Xtra: Scientists warn about Antarctic melting,” <span style="color: windowtext; text-decoration: none;">[[http://www.agoracosmopolitan.com/home/Frontpage/2008/07/14/02463.html]]</span>
+<span style="font-size: 10pt;">Global Warming continues ... world we share. </span>
+
+=Solvency= 
+
+
+Solar Power Satellites are sustainable, cheap, and technologically feasible
+<span style="font-size: 12pt;">Lior</span>, Noam Lior, University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics, Philadelphia, PA, April <span style="font-size: 12pt;">2011</span> “Solar orbital power: Sustainability analysis”, http://www.sciencedirect.com/science/article/pii/S0360544210005931, Date accessed June 24, 2011
+We have analyzed ...energy sources<span class="UnderlineChar">.</span>
+
+
+Wireless power transmission solves energy and colonization
+**__<span style="font-size: 12pt;">NSS 12-17</span>__**<span style="font-size: 8pt;">(National Space Society. NSS Space Settlement Journal, peer-reviewed publication from the NSS. December 17, 2011. Royce Jones. “Sun-synchronous orbiting SBSP Satellites with Equatorial orbiting Reflector Satellites for Earth and Space Energy” http://www.nss.org/settlement/journal/NSSJOURNAL_TheSpaceGrid_2011.pdf)</span>
+<span style="font-size: 10pt;">Wireless Power Transmission(WPT</span><span style="font-size: 8pt;">) ...</span><span style="font-size: 10pt;">the same time. </span>
+
+
+
+**Plan leads to immediete tech benefits --- solves launch costs**
+
+**Eades, 7 -** (Jeremy, “US military proposes space-based solar power station”, Futurismic Blog, 10/17, <span style="color: black;">[[http://futurismic.com/2007/10/17/us-military-proposes-space-based-solar-power-station/]]</span>)
+
+A few weeks ago...__civilian consumption__.
+
+<span class="Underline">**<span style="font-size: 10pt;">Launching process is feasible</span>**</span>
+<span class="Underline">**<span style="font-size: 10pt;">McLinko and Basant 9</span>**</span><span style="font-size: 10pt;"> – *student in the Department of Aeronautics and Astronautics in the Space Systems Laboratory at MIT, AND **student in the Department of Mathematics at MIT (Ryan M.; and Sagar V.; 2009, International Society for Optical Engineering, “Space-based solar power generation using a distributed network of satellites and methods for efficient space power transmission,” MIT student paper prepared for the ICISIT09 Conference held in Beijing, ed. Xingrui Ma, Baohua Yang, and Ming Li, http://dspace.mit.edu/openaccess-disseminate/1721.1/57581)**</span>
+
+**<span style="font-size: 10pt;">Launching the SSP ...</span><span style="font-size: 7pt;">incorporated into the design.</span>**
+
+SSP pilot projects can be up and running within one year
+Costa, 12 **//- (Rebecca,// “Can NASA Save a Struggling America?” Clean Technica, 1/11, [[http://cleantechnica.com/2012/1/11/can-nasa-save-struggling-america/]])**
+
+**<span style="font-size: 7pt;">If we took a moment become operational.</span>**
+**<span style="font-size: 7pt;">America: </span>//<span style="font-size: 7pt;">stop chasing the market</span>//<span style="font-size: 7pt;">. Get busy getting ahead of it. </span>__We have NASA to thank for an opportunity to eclipse every other energy solution here on earth.__**
+
+Plan solves – catalyzes private action**
+<span style="font-size: 12pt;">NSSO, 2007</span>, SBSP Study Group, 2007, 10 October 2007, (National Security Space Office, Space-Based Solar Power, As an Opportunity for Strategic Security, Phase 0 Architecture Feasibility Study, [[http://www.acq.osd.mil/nsso/solar/SBSPInterimAssesment0.1.pdf]])
+
+Finding: The SBSP Study ... energy technologies.”
+
+
+=Negative=

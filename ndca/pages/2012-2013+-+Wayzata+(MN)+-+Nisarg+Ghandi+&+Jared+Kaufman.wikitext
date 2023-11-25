@@ -1,0 +1,19 @@
+[[toc]]
+=Affirmative= 
+
+=Negative= 
+T - Substantial 20%
+T - Pre Existing
+<span style="line-height: 1.5;">T - Transport =/= Vehicles</span>
+A Spec
+F Spec
+Cap K
+Ableism K
+Heidigger K
+Baudrillard K
+Schmitt K
+Hillman K
+Bio K
+Brown K
+
+[[include page="space.template.Footer"]]

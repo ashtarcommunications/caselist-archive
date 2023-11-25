@@ -1,0 +1,14 @@
+=Topicality/Framework= 
+[[debatecoaches/T-Humans|T-Humans]]
+[[debatecoaches/Framework|F/W-USFG]]
+=Counterplan= 
+[[debatecoaches/Code of Conduct|CP-Code of Conduct]]
+[[debatecoaches/ITAR|CP-ITAR]]
+[[debatecoaches/Carbon Tax|CP-Carbon Tax]]
+[[debatecoaches/ESA|CP-ESA]]
+=Kritik= 
+[[debatecoaches/Whiteness|K-Whiteness]]
+[[We PIC K|K-We]]
+=Disadvantage= 
+[[debatecoaches/Fiscal Discipline|DA-Fiscal Discipline]]
+[[debatecoaches/Militarization|DA-Militarization]]

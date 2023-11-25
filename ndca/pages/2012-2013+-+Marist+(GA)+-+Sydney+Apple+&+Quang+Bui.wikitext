@@ -1,0 +1,989 @@
+<span style="background-color: #ffffff;">On the affirmative, we will post 1AC cites and 2AC cites by request. On the negative We will post NEG strategies after every tournament, and any cites by request. Please email us at jmill126@gmail.com for cite requests.</span>
+
+
+[[toc]]
+=Port Security Affirmative= 
+==1AC—Griffin== 
+
+===**Plan**=== 
+
+Plan: The United States Department of Defense should fully fund passive radio frequency identification tags.
+
+===Advantage 1—Economy=== 
+
+The Dept. of Homeland Security is required by law to screen all cargo, but doesn’t have the efficient capabilities to do so now
+
+Kouri 12
+(Jim, Feb 22, 2012, “U.S. bound cargo remains vulnerable to terrorists, WMD,” Examiner, [[http://www.examiner.com/article/u-s-bound-cargo-remains-vulnerable-to-terrorists-wmd]])
+
+"Cargo containers that are part of the global supply chain -- the flow of
+AND
+implementing a pilot program for 100 percent scanning,” state the GAO investigators.]
+
+These faulty systems create redundancy that gut economic efficiency – only the plan can stop redundancy
+<span style="font-size: 13pt;">I-Tek 12</span>
+(Jan 3, 2012, “Port / CFS / ICD,” i-Tek, [[http://www.infoteksoftware.com/CFS-ICD-Logistics.htm]])
+
+It is critical for a CFS / ICD to have an easy, safe and
+AND
+minimizing the redundant movement and by improving visibility in stacking and retrieving operation.
+
+Only, passive RFID technology can create a better supply chain infrastructure – laundry list
+
+Estevez 5
+[Alan, assistant deputy under secretary of defense, supply chain integration, [[http://www.dau.mil/pubscats/PubsCats/atl/2005_05_06/est_mj05.pdf]]]
+
+The end state for the DoD supply chain is to be a fully integrated adaptive
+AND
+—in-transit, in-process, or on the shelf.
+
+We have four internal links to solving the economy
+First, the plan creates more secure measures to help reduce costs at screening cargo
+
+Benin 4
+(Joseph, “Radio Frequency Identification (RFID) Tags & Their Implication to Container Security” International Security Seminar Sam Nunn Security Program, April 13)
+
+Small-scale gains in converting to RFID modes of operation are best seen in
+AND
+using RFID, almost 80% of all consumer goods would be tagged!
+
+Second, the plan creates more intel sharing, community empowerment and increased tracking capabilities – key to economic growth
+Schmitt and Michahelles 08
+(Patrick, Florian, April 2008, “Economic Impact of RFID Report,” Bridge, [[http://www.bridge-project.eu/data/File/BRIDGE_WP13_Economic_impact_RFID.pdf]])
+
+At present, Radio Frequency Identification (RFID) enjoys an enormous interest from the
+AND
+challenges in establishing the value of spending on ¶ information technology [38].
+
+Third, the plan generates more productivity is key to the economy and US competitiveness
+Schmitt and Michahelles 08
+(Patrick, Florian, April 2008, “Economic Impact of RFID Report,” Bridge, [[http://www.bridge-project.eu/data/File/BRIDGE_WP13_Economic_impact_RFID.pdf]])
+
+Productivity is the most important determinant for the economic performance and ¶ competitiveness of a
+AND
+(JIS) will significantly benefit from RFID ¶ real-time information.
+Fourth, the lack of scanning is creating an eminent threat to our maritime commerce
+<span class="StyleStyleBold12pt">Fratz 12</span>
+(Douglas, July 15, 2012, “Port security: U.S. fails to meet deadline for scanning of cargo containers,” The Washington Post, [[http://www.washingtonpost.com/world/national-security/port-security-us-fails-to-meet-deadline-for-scanning-of-cargo-containers/2012/07/15/gJQAmgW8mW_print.html]])
+
+The Obama administration has failed to meet a legal deadline for scanning all shipping containers
+AND
+States before being scanned with imaging equipment and a radiation-detection device.
+
+Any disruption in our maritime commerce would severely damage the economy
+<span style="font-size: 13pt;">Bouchard, 2005</span> (Joseph F., Former Navy Captain and Doctor of Philosophy in Political Science from Stanford University, 6/15/05, Center for American Progress, http://www.americanprogress.org/issues/2005/06/b815195.html, “New Strategies to Protect America: Safer Ports for a More Secure Economy,”)
+
+The United States is a maritime nation. We rely upon and profit from global
+AND
+, not other federal departments and agencies that play important but supporting roles.
+
+
+Economic decline increases the risk of war—strong statistical support.
+<span style="font-size: 13pt;">Royal 10</span> — Jedidiah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, M.Phil. Candidate at the University of New South Wales, 2010 (“Economic Integration, Economic Signalling and the Problem of Economic Crises,” //Economics of War and Peace: Economic, Legal and Political Perspectives//, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, ISBN 0857240048, p. 213-215)
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+AND
+such, the view presented here should be considered ancillary to those views.
+
+===Advantage 2—Port Terrorism=== 
+
+Only 5% of cargo is screened now – opening the US up to a terrorist attack
+Tilford 12
+(Robert, July 3, 2012, “Only 5 percent of all cargo shipping containers in U.S. ports are screened,” Examiner, [[http://www.examiner.com/article/only-5-percent-of-all-cargo-shipping-containers-u-s-ports-are-screened]])
+
+Only about 5 percent of all cargo containers on vessels headed to the United States
+AND
+D-Mass.), a co-author of the 2007 screening law.
+
+We’re on the brink- terrorists can smuggle missiles in at any time
+Kouri 12
+(Jim, Feb 22, 2012, “U.S. bound cargo remains vulnerable to terrorists, WMD,” Examiner, [[http://www.examiner.com/article/u-s-bound-cargo-remains-vulnerable-to-terrorists-wmd]])
+
+The GAO’s findings could not have come at a worst time, on the heels
+AND
+illegal goods in sealed shipping containers using a tactic pioneered by drug smugglers.
+
+Screening all containers is key – smugglers can even use commercial ships without owners knowing
+Homeland Security News Wire 12
+(Feb 8, 2012, “Major shipping companies inadvertently aid smugglers,” [[http://www.homelandsecuritynewswire.com/dr20120208-major-shipping-companies-inadvertently-aid-smugglers]])
+
+A new study on sea trafficking reveals that the large majority of ships involved in
+AND
+, and did not perform well in safety and pollution inspections at ports.
+
+
+Two specific impact scenarios –
+Scenario 1 – Trade
+Al Qaida is targeting maritime transportation – this attack will singlehandedly destroy the world’s trade industry
+<span class="StyleStyleBold12pt">Goslin 12</span>
+(Charles Goslin, Vice President of International Operations for Duos Technologies, Inc. senior advisor to the Regional Joint Terrorism Task Forces (JTTF) in the U.S. Duos Technology Library “Maritime and Port Security White Paper” http://www.duostechnologies.com/DownloadCenter/WP-MaritimeAndPoratSecurity.pdf )
+
+Global trade is dependent mainly on maritime transport. It is estimated that more than
+AND
+He also had security passes to various airports in the U.S.
+
+<span style="font-size: 13pt;">Our internal link outweighs – 3 week timeframe</span>
+<span style="font-size: 13pt;">Flynn 03</span> (Stephen, Nat’l Sec Studies, “The Fragile state of container security,” testimony before the senate, March 20 [[http://www.cfr.org/publication.html?id=5730]])
+A year later I joined with former senators Warren Rudman and Gary Hart in preparing
+AND
+—as would much of the freight movements that make up international trade.
+Impact is war and bioterrorism
+<span style="font-size: 13pt;">Pazner 8</span> (Michael J., Faculty – New York Institute of Finance, Financial Armageddon: Protect Your Future from Economic Collapse, p. 137-138)
+
+The rise in isolationism and protectionism will bring about ever more heated arguments and dangerous
+AND
+between Muslims and Western societies as the beginnings of a new world war.
+
+
+
+Scenario 2 – Club K Missiles
+
+Terrorists very likely and would most likely use container ships to smuggle weapons
+<span style="font-size: 13pt;">Konkel, 2005,</span><span style="font-size: 8pt;">(Todd Konkel- professor Edmund A. Walsh School of Foreign Service, Georgetown University) “Container Security: Preventing a Nuclear Catastrophe”, International Policy Solutions, [[http://irps.ucsd.edu/assets/004/5372.pdf]]) </span>
+
+This nation faces a potentially greater threat, however, from a weapon of mass
+AND
+to prevent a catastrophe that could dwarf the tragedy of 9/11.
+
+
+**<span style="font-size: 13pt;">Russia, specifically, poses a major threat – they have created a container ship for this purpose</span>**
+**<span style="font-size: 13pt;">Tilford 7/3</span>** (Robert, July 3, 2012, “Only 5 percent of all cargo shipping containers in U.S. ports are screened,” Examiner, [[http://www.examiner.com/article/only-5-percent-of-all-cargo-shipping-containers-u-s-ports-are-screened]])
+
+<span class="StyleBoldUnderline">Now imagine </span>a cruise <span class="StyleBoldUnderline">….United</span><span style="font-size: 8pt;"> States and around the world.</span>
+
+And, they’re selling it now – the impact is real and has huge potential
+<span style="font-size: 13pt;">Homeland Security Newswire 10 </span>[April 28, “New Russian weapon system hides missiles in shipping container,” [[http://www.homelandsecuritynewswire.com/new-russian-weapon-system-hides-missiles-shipping-container?page=0,0]]]
+
+“This Club-K is game changing with the ability to wipe out an
+AND
+or two of them, the kinetic impact is vast…it’s horrendous.”
+
+
+
+<span style="font-size: 13pt;">And, countries can use the Club K Missile Launch Systems to launch EMPs which will freeze our national grid systems</span>
+
+<span style="font-size: 13pt;"> Vallely 11 </span>[Paul, US Army (ret), [[http://finance.townhall.com/columnists/bobbeauprez/2011/09/05/vallely_iran_goal_emps_on_us_coastal_cities_in_reach/page/full/]], 9/5]
+
+Many countries and agencies are increasingly concerned about the intelligence that Iran continues to work
+AND
+bunker that is better protected from air attack than its present enrichment facilities.
+
+**<span style="font-family: Georgia,serif;">EMP attack would kill hundreds of millions</span>**
+**<span style="font-family: Georgia,serif;">Marsteller 11 </span>**<span style="font-family: Georgia,serif;">(Jackson, November 24, 2011, “The Next Great Threat to America,” //Right Side News//, **EMP = electromagnetic pulse attack, [[http://www.rightsidenews.com/2011112415012/us/homeland-security/emps-the-next-great-threat-to-america.html]])</span>
+
+An EMP is a high-intensity burst of electromagnetic energy caused by a rapid
+AND
+of Americans from death by starvation, exposure, or lack of medicine.”
+==1AC—Lincoln County== 
+
+===**Summary of Changes**=== 
+
+**New Plan Text: The Department of Defense should fully fund nuclear scanning technology in ports in the United States.**
+
+**Advantage One: Removed Fratz and Bouchard evidence. Added one card.**
+
+Solvency Advocate
+<span style="font-size: 13pt;">Haveman and Shatz 6</span> (Jon D, founding principal of Beacon Economics, and Howard J, Senior Economist at the RAND Corporation, “Protecting the Nation’s Seaports: Balancing Security and Cost” Pg. 121-122)
+
+The burden thus falls on technology—on the intelligent deployment of existing technologies and
+AND
+the other layers of defense technology, they make penetration significantly more difficult.
+
+**Advantage Two: Removed Tilford, Flynn 3, Paznor cards. Added three cards below.**
+
+<span style="font-size: 13pt;">Terrorists are committed to detonating a nuclear weapon on American soil – U.S. ports will be the trafficking point </span>
+<span style="font-size: 13pt;">Calvan 12 </span><span style="font-size: 8pt;">(Bobby, Boston Globe Staff and former foreign reporting fellow with the D.C.-based International Center for Journalists, “US to miss target for tighter port security”, Boston Globe, 6/12/12, [[http://articles.boston.com/2012-06-12/nation/32176427_1_homeland-security-cargo-containers-nuclear-bomb/3]])</span>
+
+The Department of Homeland Security will miss an initial deadline of July 12 to comply
+AND
+have been inspected because cargo is sometimes transferred from ship to ship offshore.
+
+
+<span style="font-size: 13pt;">Lack of effective security at ports guarantees WMD smuggling into the United States – increased port security investment is key</span>
+<span style="font-size: 13pt;">Flynn 6 </span><span style="font-size: 8pt;">(Stephen, President of the Center for National Policy and CISAC Consulting Professor at Stanford, “Port Security Is Still a House of Cards” 3/9/2006 [[http://www.cfr.org/port-security/continued-vulnerability-global-maritime-transportation-system/p10074]]) </span>
+
+When it comes to port security, the buck essentially stops outside Washington, DC
+AND
+. port authorities have been reluctant to make major new investments in security.
+
+<span style="font-size: 13pt;">Terrorism causes miscalculation that draws in Russia and China and culminates in extinction.</span>
+<span style="font-size: 13pt;">Ayson 10</span>(Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington**,** “After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)
+
+A terrorist nuclear attack, and even the use of nuclear weapons in response by
+AND
+for the terrorists. This might not help the chances of nuclear restraint.
+
+==1AC—Sophomore Hoe Down== 
+
+===**Plan Text**=== 
+Plan: The United States federal government should fully fund nuclear scanning technology in ports in the United States.
+
+===**Advantage 1 - Port Terrorism**=== 
+
+Major threat of nuclear terrorism in ports now – current systems won’t solve
+
+Erwin et al 10/12 [Sandra, Stew Magnuson, Dan Parsons, Yasmin Tasjedh, “Top Five Threats to National Security in the Coming Decade”, National Defense Magazine, November 2012 Edition, http://www.nationaldefensemagazine.org/archive/2012/November/Pages/TopFiveThreatstoNationalSecurityintheComingDecade.aspx ]
+Nukes: Large stockpiles of nuclear weapons are tempting targets for nation-states or
+
+AND
+
+” that could be made with just a few grams of radioactive material.
+And ports continue to be the trafficking point
+
+Calvan 12 (Bobby, Boston Globe Staff and former foreign reporting fellow with the D.C.-based International Center for Journalists, “US to miss target for tighter port security”, Boston Globe, 6/12/12, http://articles.boston.com/2012-06-12/nation/32176427_1_homeland-security-cargo-containers-nuclear-bomb/3)
+The Department of Homeland Security will miss an initial deadline of July 12 to comply
+
+AND
+
+have been inspected because cargo is sometimes transferred from ship to ship offshore.
+Increased port security investment is key to prevent smuggling of WMD’s
+
+Flynn 6 (Stephen, President of the Center for National Policy and CISAC Consulting Professor at Stanford, “Port Security Is Still a House of Cards” 3/9/2006 http://www.cfr.org/port-security/continued-vulnerability-global-maritime-transportation-system/p10074)
+When it comes to port security, the buck essentially stops outside Washington, DC
+
+AND
+
+. port authorities have been reluctant to make major new investments in security.
+Screening all containers is key – smugglers can even use legitimate cargoes
+
+Homeland Security News Wire 12
+
+(Feb 8, 2012, “Major shipping companies inadvertently aid smugglers,” http://www.homelandsecuritynewswire.com/dr20120208-major-shipping-companies-inadvertently-aid-smugglers)
+A new study on sea trafficking reveals that the large majority of ships involved in
+
+AND
+
+, and did not perform well in safety and pollution inspections at ports.
+And, nuclear scanning technology solves dirty bombs and chemical weapons
+
+Haveman and Shatz 6 (Jon D, founding principal of Beacon Economics, and Howard J, Senior Economist at the RAND Corporation, “Protecting the Nation’s Seaports: Balancing Security and Cost” Pg. 121-122)
+The burden thus falls on technology—on the intelligent deployment of existing technologies and
+
+AND
+
+the other layers of defense technology, they make penetration significantly more difficult.
+And, smugglers will use cargo containers
+
+Konkel, 2005, (Todd Konkel- professor Edmund A. Walsh School of Foreign Service, Georgetown University) “Container Security: Preventing a Nuclear Catastrophe”, International Policy Solutions, http://irps.ucsd.edu/assets/004/5372.pdf)
+This nation faces a potentially greater threat, however, from a weapon of mass
+
+AND
+
+to prevent a catastrophe that could dwarf the tragedy of 9/11.
+Specificially Club K cargo containers will be used – detection is the only way to deter the usage
+
+Szaszdi 11 [Lajos, Ph.D from the Catholic University of America in World Politics, non staff member at the Heritage Foundation, http://blog.heritage.org/2011/08/22/the-club-k-a-deadly-%E2%80%9Cpandora%E2%80%99s-box%E2%80%9D-of-cruise-missiles/]
+Russia’s military-industrial complex is offering an ominous weapons system in the international arms
+
+AND
+
+, to make sure it will never be opened in anger against them.
+An EMP attack would kill millions – and outweighs a nuclear attack.
+
+Gertz 05 (Bill. US Seen Vulnerable to Space ‘Pulse’ Attack. Washington Times. 11/22/5. http://www.washtimes.com/national/20051121-103434-8775r.htm)
+The United States is highly vulnerable to attack from electronic pulses caused by a nuclear
+
+AND
+
+far more Americans than a nuclear weapon detonated in our most populous city."
+And, these attacks would independently put us in a recession
+
+Harrald 5 [Dr. John R. Harrald, Ph.D., served as director of The George Washington University Institute of Crisis, Disaster and Risk Management, professor in the University’s Department of Engineering Management and Systems Engineering, School of Engineering and Applied Science, Fall 2005, “Sea Trade and Security: an Assessment of the Post-9/11 Reaction,” Journal of International Affairs, 59.1. Date accessed: August 15, 2012.]
+The scenarios are indeed horrifying. Containers, for example, maybe used as a
+
+AND
+
+unemployment lines. A three-week shutdown could well spawn a global recession
+Impact’s extinction
+
+Auslin 9 (Michael, Resident Scholar – American Enterprise Institute, and Desmond Lachman – Resident Fellow – American Enterprise Institute, “The Global Economy Unravels”, Forbes, 3-6, http://www.aei.org/article/100187)
+What do these trends mean in the short and medium term? The Great Depression
+
+AND
+
+may be a series of small explosions that coalesce into a big bang.
+
+===**Advantage 2 - Nuclear Industry**=== 
+Development of nuclear power increasing worldwide – Fukushima hasn’t deterred
+
+Barber, Chief Analyst for Energy Central, 8-30
+
+[Wayne Barber, Chief of Generation for Energy Central's Generation Hub, “IAEA Report Finds Fukushima Didn't Cripple Nuclear Future,” August 30th 2012, http://www.energybiz.com/article/12/08/iaea-report-finds-fukushima-didnt-cripple-nuclear-future]
+
+Less than 18 months after the meltdown accident at Tokyo Electric Power Co.’s
+
+AND
+
+years, “although there is room for further improvement,” IAEA said.
+Cargo scanning technology will accelerate the nuclear industry – no delay and the federal government key
+
+Duke Today 11 [“Physics for Safer Ports,” http://today.duke.edu/2011/04/portsecurity]
+¶While 700 million travelers undergo TSA's intrusive scans and pat-downs each year
+
+AND
+
+a potential source of bomb materials, according to Duke physicist Anton Tonchev.
+Decline of the nuclear industry undermines non-proliferation safeguards
+
+Loudermilk, Senior Energy Associate @ NDU, ’11
+
+[Micah J. Loudermilk, Senior Associate for the Energy & Environmental Security Policy program with The Institute for National Strategic Studies at The National Defense University, “In Defense of Small Reactors: A Response,” February 23rd 2011, http://csis.org/blog/defense-small-reactors-response]
+Smith’s final contention takes issue with the argument that DOD needs to operate as a
+
+AND
+
+security standpoint, but also from a mindset of preserving the nonproliferation agenda.
+Unsecured technology will fuel a massive wave of proliferation
+
+Macalister, Guardian Energy Editor, ’09
+
+[Terry Macalister, Energy Editor of The Guardian, Recipient of The Energy of Word Award, International Media Award organized by The Global Energy Prize, “New generation of nuclear power stations 'risk terrorist anarchy',” March 16th 2009, http://www.guardian.co.uk/environment/2009/mar/16/nuclearpower-nuclear-waste]
+The new generation of atomic power stations planned for Britain, China and many other
+
+AND
+
+low-carbon energy and a stable nuclear weapons environment," he said.
+New proliferators will develop offensive postures that increase the risk of conventional and nuclear conflict
+
+Horowitz, professor of poli sci, 9 —Professor of Political Science at University of Pennsylvania (Michael Horowitz, “The Spread of Nuclear Weapons and International Conflict: Does Experience Matter?” Journal of Conflict Resolution, Volume 53 Number 2, April 2009 pg. 234-257)
+This section focuses on how acquiring nuclear weapons influences both the new nuclear state and
+
+AND
+
+to be effective, increasing the probability that an adversary will not reciprocate.
+Proliferation sparks wars that escalate to great power nuclear conflict
+
+Below 08
+
+[Tim D.Q., Wing Commander, RAF; MA in Defence Studies, King’s College London; “Options for US nuclear disarmament: exemplary leadership or extraordinary lunacy?,” June 2008, Thesis for School of Advanced Air and Space Studies, Air University Maxwell Air Force Base, Alabama]
+Proliferation. Roger Molander, of RAND Corporation, asserts that “in the near
+
+AND
+
+which is subsequently escalated into nuclear warfare by its allies or their opponents.
+And, an expanding domestic industry is key to the perception of technological leadership which solves prolif
+
+Bengelsdorf and McGoldrick, 07 [currently a Principal with the consulting firm of Bengelsdorf, McGoldrick, and Associates, held numerous senior positions in the U.S. government, including the Energy Department and its predecessor agencies, the State Department, and the U.S. Mission to the IAEA. Among his appointments, he served as the director of both key State and Energy Department offices that are concerned with international nuclear and nonproliferation affairs. Throughout his career, Mr. Bengelsdorf contributed significantly to the development and implementation of U.S. international fuel cycle and nonproliferation policies, having participated in several White House and National Security Council studies. He was involved in the negotiation of numerous bilateral and multilateral nuclear and nonproliferation agreements, including the development of full-scope IAEA safeguards (INFCIRC/153) to implement the Nuclear, THE U.S. DOMESTIC CIVIL NUCLEAR INFRASTRUCTURE AND U.S. NONPROLIFERATION POLICY A White Paper Presented by the American Council on Global Nuclear Competitiveness May 2007, http://www.nuclearcompetitiveness.org/images/COUNCIL_WHITE_PAPER_Final.pdf]
+The health of the U.S. civil nuclear infrastructure can have an important
+
+AND
+
+initiatives designed to discourage the spread of sensitive nuclear facilities to other countries.
+And, federal action is necessary to reverse industry decline and manage international nuclear adoption
+
+Wallace and Williams, 12 [Michael, Senior Adviser, U.S. Nuclear Energy Project, Sarah, CSIS, “Nuclear Energy in America: Preventing It’s Early Demise,” http://csis.org/files/publication/120417_gf_wallace_williams.pdf]
+America’s nuclear energy industry is in decline. Low natural gas prices, financing hurdles
+
+AND
+
+.S. nuclear industry and take action to prevent its early demise.
+And ending new proliferation is the only way to end inequalities between the haves and have nots
+
+Ford 11 [Chris Ford, Senior Fellow at the Hudson Institute in Washington, D.C. He previously served as U.S. Special Representative for Nuclear Nonproliferation, Principal Deputy Assistant Secretary of State, and General Counsel to the U.S. Senate Select Committee on Intelligence, 1/10/11, Havea and Have-Nots: "Unfairness in nuclear Weapons possession," [[http://www.newparadigmsforum.com/NPFtestsite/?p=658]|[[http://www.newparadigmsforum.com/NPFtestsite/?p=658]]]|www.newparadigmsforum.com/NPFtestsite/?p=658]]]]]
+First, however, let’s provide some context. As I noted above, it
+
+AND
+
+there are more important considerations in play. Let us not forget this.
+
+==1AC—Alta== 
+
+===**Summary of Changes**=== 
+
+**New Plan Text: The United States federal government should fully fund nuclear scanning infrastructure in ports in the United States.**
+
+Advantage 1 - Port Terrorism
+Same as Sophomore Hoe Down
+
+Advantage 2 - Nuclear Industry
+New cards in Nuclear Industry Advantage --- Replaced Horowitz and Below evidence with the following.
+
+<span style="font-size: 13pt;">We’re on the brink of rapid prolif – access to tech is inevitable and multilateral institutions fail</span>
+<span style="font-size: 13pt;">CFR 12 </span>[CFR 7-5-2012, "The Global Nuclear Nonproliferation Regime," Council on Foreign Relations]
+
+<span class="StyleBoldUnderline">Nuclear weapons </span>prolif<span style="font-size: 8pt;">eration, whether….world without nuclear weapons."</span>
+
+<span style="font-size: 13pt;">New proliferators will be uniquely destabilizing -- guarantees conflict escalation. </span>
+<span style="font-size: 13pt;">Cimbala, ‘8 </span>
+[Stephen, Distinguished Prof. Pol. Sci. – Penn. State Brandywine, Comparative Strategy, “Anticipatory Attacks: Nuclear Crisis Stability in Future Asia”, 27, InformaWorld]
+<span style="font-size: 7pt;">If the possibility existed of a mistaken preemption ….</span> __marginalization of major interstate warfare__<span style="font-size: 7pt;">.</span>
+
+<span style="font-size: 13pt;">Extinction. </span>
+<span style="font-size: 13pt;">Krieger, ‘9 </span>
+[David, Pres. Nuclear Age Peace Foundation and Councilor – World Future Council, “Still Loving the Bomb After All These Years”, 9-4, https://www.wagingpeace.org/articles/2009/09/04_krieger_newsweek_response.php?krieger]
+<span style="font-size: 7pt;">Jonathan </span>__Tepperman’s article__<span style="font-size: 7pt;"> in the September 7, 2009…</span> __than Mr. Tepperman?__
+
+==1AC—NCFL Qualifier== 
+
+**Same as Alta.**
+
+==1AC—NFL Qualifier== 
+
+**Same Plan Text**
+**Advantage 1 - Nuclear Industry**
+**Same as Alta**
+
+===**Advantage 2 - Maritime Domain Awareness**=== 
+
+<span style="font-size: 13pt; line-height: 1.5;">We are close to achieving effective MDA now – coordination through Interagency Operation Centers is critical</span>
+<span style="font-size: 13pt;">Caldwell 12 </span>(Stephen, Director of Homeland Security and Justice Issues, “Maritime Security Coast Guard Needs to Improve Use and Management of Interagency Operations Centers”, February, [[http://gao.gov/assets/590/588476.pdf]])
+
+To protect the nation's ports and waterways, the federal government strives to balance the
+AND
+and is using WatchKeeper as an important information sharing tool to accomplish this.
+
+<span style="font-size: 13pt;">Despite statue, lack of funding has doomed the formation of effective Interagency Operation Centers </span>
+
+<span style="font-size: 13pt;"> Lipowicz 12</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 8pt;"> (Alice, “Coast Guard info-sharing at ports slow to get started”, Federal Computer Weekly,</span> <span style="font-family: Arial,sans-serif; font-size: 8pt;">[[http://fcw.com/Articles/2012/02/14/Coast-Guard-info-sharing-at-ports-slow-to-get-started.aspx?Page=1]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 8pt;">)</span>
+
+Six years after Congress passed a law requiring that key U.S. seaports
+AND
+its sectors have achieved IOCs with full operating capability,” the GAO said.
+
+<span style="font-size: 13pt;">Increasing port funding is critical to state of the art maritime domain awareness</span>
+<span style="font-size: 13pt;">FEMA 12 </span>(Federal Emergency Management Agency, “FY2012 Port Security Grant Program (PSGP_ Funding Opportunity Announcement (FOA), ttp://www.fema.gov/pdf/government/grant/2012/fy12_psgp_foa.pdf)//
+
+//Enhancing Maritime Domain Awareness (MDA). MDA is the critical enabler that allows leaders//
+//AND//
+//information sharing agreements and international conventions and treaties will greatly assist enabling MDA.//
+
+
+//<span style="font-size: 13pt;">More specifically, new cargo inspection systems are key to MDA</span>//
+//<span style="font-size: 13pt;">NSMS 5 </span>[National Strategy for Maritime Security, “NATIONAL PLAN TO ACHIEVE//
+//MARITIME DOMAIN AWARENESS,” October, [[http://www.au.af.mil/au/awc/awcgate/uscg/mda_plan.pdf]]]//
+
+//To achieve persistent awareness in the maritime domain, Cold War legacy collection capabilities alone//
+//AND//
+//investigative actions of law enforcement officers can provide crucial insights about maritime threats.//
+
+//<span style="font-size: 13pt;">MDA is key to naval power</span>//
+//<span style="font-size: 13pt;">Mullen 7 </span>[MG, Admiral of the US Navy, “Navy Maritime Domain Awareness Concept,” [[http://www.navy.mil/navydata/cno/Navy_Maritime_Domain_Awareness_Concept_FINAL_2007.pdf]]]//
+
+//As an instrument of national power, Navy is increasingly called upon to perform maritime//
+//AND//
+//the selection and execution of the most appropriate response to any emerging threat.//
+
+//**Naval strength solves Middle East war**//
+//**Vego, 8** — professor of operations at the Naval War College, former commanding officer in the former Yugoslav Navy and former West German merchant marine (Milan N., “On Naval Power”, Joint Forces Quarterly, July 2008, http://www.ndu.edu/press/lib/pdf/jfq-50/JFQ-50.pdf, Deech)//
+//Naval forces can be employed in support of foreign policy, military (theater)//
+//AND//
+//of sufficient size and combat power to defeat opposing forces quickly and decisively.//
+
+//**And, goes __global__ and __nuclear__**//
+//<span style="font-family: Georgia,serif;">Gold, 07 </span>[Thomas J., Masters in Strategic Intelligence, Joint Military Intelligence College, Nuclear Conflict in the Middle East: An Analysis of Future Events, p. 53-55]//
+//If the political, ethnic, and military policies, and future nuclear weapons development//
+//AND//
+//with Iran. Escalation to regional or global nuclear war is now a possibility//
+
+//<span style="font-size: 13pt;">Lack of awareness makes maritime terrorism inevitable. </span>//
+
+//<span style="font-size: 13pt;"> Raj 09</span><span style="background-color: white; font-size: 8pt;"> (Andrin Raj, visting research fellow, The Japan Institute for International Affairs (JIIA) Stratad Asia Pacific Research Center, 2009, “Japan’s initiatives in security cooperation in the straits of Malacca on maritime security and in southeast asia: piracy and maritime terrorism,”</span><span style="font-size: 8pt;">[[http://www2.jiia.or.jp/pdf/fellow_report/090331-Andrin_Raj.pdf]]</span><span style="background-color: white; font-size: 8pt;">, </span>//azp//)
+
+
+
+<span style="font-size: 8pt;">Hence, the same objectives can be driven...</span>__<span style="background-color: white; font-size: 10pt;"> waters</span>__<span style="background-color: white; font-size: 8pt;"> on the Sea-Lines of Communication (SLOC).</span>
+
+<span style="font-size: 13pt;">And, these attacks would independently put us in a recession</span>
+
+<span style="font-size: 13pt;"> Harrald 5 </span><span style="font-size: 8pt;">[Dr. John R. Harrald, Ph.D., served as director of The George Washington University Institute of Crisis, Disaster and Risk Management, professor in the University’s Department of Engineering Management and Systems Engineering, School of Engineering and Applied Science, Fall 2005, “Sea Trade and Security: an Assessment of the Post-9/11 Reaction,” Journal of International Affairs, 59.1. Date accessed: August 15, 2012.]</span>
+
+The scenarios are indeed horrifying. Containers, for example, maybe used as a
+AND
+unemployment lines. A three-week shutdown could well spawn a global recession
+
+<span style="font-size: 13pt;">Impact’s extinction</span>
+<span style="font-size: 13pt;">Auslin 9</span> (Michael, Resident Scholar – American Enterprise Institute, and Desmond Lachman – Resident Fellow – American Enterprise Institute, “The Global Economy Unravels”, Forbes, 3-6, [[http://www.aei.org/article/100187]])
+
+What do these trends mean in the short and medium term? The Great Depression
+AND
+may be a series of small explosions that coalesce into a big bang.
+
+==1AC—GFCA State== 
+**Same Plan Text**
+
+**Advantage 1 - Port Terrorism**
+**Advantage 2 - Nuclear Industry**
+
+**Round 3 New Advantage**
+===**Advantage 2 - Reserves**=== 
+
+<span style="font-size: 13pt;">Demand for radiation detectors is increasing but supply of helium 3 is dwindling</span>
+<span style="font-size: 13pt;">Homeland Security Newswire 11 </span>[Feb 28, [[http://www.homelandsecuritynewswire.com/helium-3-shortage-endangers-nuclear-detection-capabilities]], “Helium-3 shortage endangers nuclear detection capabilities”
+
+Demand for radiation detectors has surged as a result of increased efforts to stop nuclear
+AND
+helium-3 sources and turning to recycling old helium-3 canisters.
+
+<span style="font-size: 13pt;">New scanning devices don’t use helium 3 – increasing our reserve by 40%</span>
+
+<span style="font-size: 13pt;"> Gowadia 12 [</span><span style="font-size: 10pt;">Huban A. Gowadia, Before the House Committee on Homeland Security, Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies, July 26, 2012]</span>
+
+Helium-3 has been widely used as a neutron detection component for radiation detection
+AND
+strategic reserve of helium-3 has increased by 40 percent since 2009.
+
+<span style="font-size: 13pt;">We solve the internal link to conflict—helium-3 fusion uniquely leads to total energy independence for every nation in the world, this results in stabilized populations and overall greater stability</span>
+<span style="font-size: 13pt;">Schmitt 06</span>
+[Jack Schmitt, Ph.D in Geology, NASA Advisory Council, former U.S. Senator, former Apollo 17 Astronaut, consultant engaged in research with the Fusion Technology Institute on the utilization of resources from space, including the feasibility of using helium-3 from the moon to supply energy on Earth, __Return to the Moon__, 2006, Praxis Publishing]
+
+Returning to the Moon for its helium-3 fusion resource constitutes the most predictable
+AND
+living with a commensurate decrease in birth rates and eventual stabilization of populations.
+
+<span style="font-size: 13pt;">And, more helium 3 means would it be the perfect electricity source - it lowers capital costs, replaces aging power plants, and will spur lower electricity prices</span>
+<span style="font-size: 13pt;">Schmitt 4</span>
+[Harrison H. Schmitt, Chair of the NASA Advisory Council, “Mining the Moon” Popular Mechanics, October 2004, [[http://www.popularmechanics.com/science/air_space/1283056.html?page=2]]]
+
+The second-generation approach to controlled fusion power involves combining deuterium and helium-
+AND
+plants were on line, replacing old conventional plants or meeting new demand.
+
+<span style="font-size: 13pt;">Low electricity prices spurs manufacturing "reshoring" and sparks US economic growth via consumer spending and investment </span>
+<span style="font-size: 13pt;">Perry 7/31/12</span> (Mark, Prof of Economics @ Univ. of Michigan, "America's Energy Jackpot: Industrial Natural Gas Prices Fall to the Lowest Level in Recent History," http://mjperry.blogspot.com/2012/07/americas-energy-jackpot-industrial.html)
+
+Building petrochemical plants could suddenly become attractive in the United States. Manufacturers will "
+AND
+seems like a win, win, win, win situation to me.
+
+<span style="font-size: 13pt;">The impact is extinction</span>
+<span style="font-size: 13pt;">Auslin 9</span> (Michael, Resident Scholar – American Enterprise Institute, and Desmond Lachman – Resident Fellow – American Enterprise Institute, “The Global Economy Unravels”, Forbes, 3-6, http://www.aei.org/article/100187)
+
+What do these trends mean in the short and medium term? The Great Depression
+AND
+may be a series of small explosions that coalesce into a big bang.
+
+==1AC—NCFL Nationals== 
+
+===New Plan Text=== 
+
+The United States federal government should substantially increase its cargo screening infrastructure in ports by installing the Multi-Mode Passive Detection System through public/private partnerships.
+===**Advantage 1 - Smuggling**=== 
+
+Advantage 1 – Smuggling
+New cargo scanning infrastructure is being developed but federal investment through PPP’s will ensure MMPDS tech
+
+Sloane 5/7 [Stanton D. Sloane, the president and CEO of Decision Sciences International Corp., has diverse experience in private industry, international business and the military. http://www.defensenews.com/article/20130507/C4ISR02/305070031/The-Power-Muon]
+Some 16 million cargo containers arrive at U.S. ports annually, and a very small percentage are
+
+being scanned before arrival. Current scanning technology has severe limitations when it comes to
+
+AND
+
+, there are many related applications where cosmic ray particles can provide solutions.
+
+And, An attack from North Korea on our ports is immenint – MMPDS solves this threat.
+
+Goure 4/8 [Daniel, Lexington Institute, Dr Goure has held senior positions in both the private sector and the U.S. Government. Most recently, he was a member of the 2001 Department of Defense Transition Team. Dr. Goure spent two years in the U.S. Government as the director of the Office of Strategic Competitiveness in the Office of the Secretary of Defense. He also served as a senior analyst on national security and defense issues with the Center for Naval Analyses, Science Applications International Corporation, SRS Technologies, R&D Associates and System Planning Corporation. http://www.lexingtoninstitute.org/us-ports-are-vulnerable-to-a-north-korean-nuclear-device?a=1&c=1171]
+As the crisis with North Korea has intensified, the focus almost exclusively has been
+
+AND
+
+countries, DHS is doing almost nothing to protect us here at home.
+
+That turns every impact and causes extinction
+
+Hayes & Hamel-Green 10 [Peter & Michael Hamel-Green, Executive Director of the Nautilus Institute for Security and Sustainable Development, a member of the Pacific Council on International Policy, the Western partner of the Council on Foreign Relations; and the US Committee of the Council for Security Cooperation in the Asia Pacific “The Path Not Taken, the Way Still Open: Denuclearizing the Korean Peninsula and Northeast Asia” Nautilus, Special Report, 10-001: January 5th, 2010, http://www.nautilus.org/fora/security/10001HayesHamalGreen.pdf]
+The consequences of failing to address the proliferation threat posed by the North Korea developments
+
+AND
+
+by no means clear how air-transported materials could similarly be intercepted.
+And, a terrorist attack DESTROYS the global economy and trade
+
+Flynn 6 (Stephen, President of the Center for National Policy and CISAC Consulting Professor at Stanford, “Port Security Is Still a House of Cards” 3/9/2006 http://www.cfr.org/port-security/continued-vulnerability-global-maritime-transportation-system/p10074)
+When it comes to port security, the buck essentially stops outside Washington, DC
+
+AND
+
+. port authorities have been reluctant to make major new investments in security.
+Trade solves all war – empirics and analysis prove
+
+Griswold 11 (Daniel, 2011, Director, Herbert A. Stiefel Center for Trade Policy Studies, Cato Institute, “Free Trade and the Global Middle Class,” Hayek Society Journal Vol. 9 (2011), http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf)
+Our more globalized world has also yielded a “peace dividend.” It may not
+
+AND
+
+and less likely those gains will be destroyed by civil conflict and war.
+And MMPDS solves human trafficking
+
+Maritime Professional 4/10 (http://mpoverello.com/2013/04/10/100-container-scanning-in-ports-a-solution-on-the-horizon/#more-4796)
+Advantages of the Decision Science scanning solution include a low physical footprint, no dangers
+
+AND
+
+of system, buyers need to think far beyond the obvious nuclear threat.
+Human Trafficking is the common form of slavery – must be rejected on face
+
+Hill 3
+
+The Hill 7/30/03, Lexis
+Slavery has existed since before recorded history. Today we call it "human trafficking
+
+AND
+
+to realize a nightmare existence of brutality, violence and rape in brothels.
+
+===Advantage 2 - Economy=== 
+A US mandate of ports is key to ensure other ports use technology – but a pay per scan would help deployment
+
+Maritime Professional 4/10 (http://mpoverello.com/2013/04/10/100-container-scanning-in-ports-a-solution-on-the-horizon/#more-4796)
+The DSIC partnership at Freeport is with Hutchinson Ports, who operates the Freeport Container
+
+AND
+
+it. Instead, a ‘pay per scan’ system could be employed.
+
+And, Federal investment includes public-private partnerships --- narrower interpretations distort the topic
+
+Heller 9 (Peter S., Former Deputy Director of the Fiscal Affairs Department – International Monetary Fund and Currently Senior Adjunct Professor of International Economics – Paul H. Nitze School of Advanced International Studies at The Johns Hopkins University, “Public Investment: Vital for Growth and Renewal, But Should it be a Countercyclical Weapon?”, http://www.unctad.org/en/Docs/webdiae20091_en.pdf)
+
+
+While any capital outlay of a government would be defined as “public investment”
+
+AND
+
+. Many kinds of infrastructural networks are subject to such natural monopoly conditions.
+
+Moreover, the public sector’s role in public investment is not limited to its own
+
+AND
+
+perhaps but part of the PPP contractual terms)—will still remain prominent.
+
+Similarly, in cases where the private sector invests in the production of goods characterized by natural monopoly conditions, government regulatory involvement is called for. In other spheres of private investment, a government regulatory or planning role may also be fundamental in order to take account of public policy objectives (in the case of externalities), though such investments would still be recognized as private.
+
+The challenge of classifying public investment is rendered even more complex in the context of
+
+AND
+
+leads to underspending on goods vital for the realization of public policy objectives.
+The pay per scan mentality will increase production causing an increase in imports
+
+Sledge 12 (Matt, Reporter for the Huffington Post based in New York. A graduate of Brown University, he was previously the Rhode Island director for FairVote. HUFFINGTON POST, 2-2)
+Many eastern …. get to market more easily.
+
+Increasing imports is the biggest internal link to the economy – overwhelms all other internals
+
+Economic Times 5/7 [“Imports support 16 million US jobs: Study”, http://articles.economictimes.indiatimes.com/2013-05-07/news/39091388_1_imports-prohibitive-tariff-laura-baughman]
+But "imports are not the bogeyman some Americans believe them to be," the
+
+AND
+
+comes as many US business groups are celebrating May as World Trade Month.
+Economic decline increases the risk of war—strong statistical support.
+
+Royal 10 — Jedidiah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, M.Phil. Candidate at the University of New South Wales, 2010 (“Economic Integration, Economic Signalling and the Problem of Economic Crises,” Economics of War and Peace: Economic, Legal and Political Perspectives, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, ISBN 0857240048, p. 213-215)
+
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+
+AND
+
+such, the view presented here should be considered ancillary to those views.
+
+===Solvency Contention/Pre-empts=== 
+
+MMPDS technology solves
+
+Sloane 12 (Dr. Stanton D. Sloane, bachelor’s degree in Professional Studies from Barry University, a master’s degree in Human Resources Management from Pepperdine University, and a Doctor of Management degree from the Weatherhead Business School at Case Western Reserve University, President and Chief Executive Officer of Decision Sciences, Earlier, he was President of Lockheed Martin’s Management/Data Systems, “Cargo Security International: Dr. Stanton D. Sloane of Decision Sciences looks at how passive detection systems can play their part in protecting the global supply chain”,http://www.decisionsciencescorp.com/cargo-security-international-dr-stanton-d-sloane-of-decision-sciences-looks-at-how-passive-detection-systems-can-play-their-part-in-protecting-the-global-supply-chain/, 10/11/12)
+¶ In our global, just-in-time economy, even small interruptions
+
+AND
+
+, the first US Secretary of Homeland Security and former Governor of Pennsylvania.
+
+
+Only defensive measures resolve terrorism – deterrent measures empirically fail – means their advantage counter-plans will fail
+
+CSIS 13 (Center for Strategic and International Studies, citing: Meggaen Neely, Researcher for the Project on Nuclear Issues, “Doubting Deterrence of Nuclear Terrorism”, http://csis.org/blog/doubting-deterrence-nuclear-terrorism, 3/21/13)
+¶ Although this shift will not make the task of preventing nuclear terrorism easier,
+
+AND
+
+detonation on American soil and on responding in the event of a detonation.
+
+Obama’s pushing new infrastructure spending now
+
+Lederman 3-29 – Josh Lederman, Associated Press, March 29th, 2013, "Obama pitches public works spending to create jobs" www.usnews.com/news/politics/articles/2013/03/29/obama-to-pitch-infrastructure-investments-in-miami
+¶ MIAMI (AP) — Trying to show that the economy remains a top
+
+AND
+
+be included in the budget Obama is scheduled to release on April 10.
+Their DA links will be about generic investment in transportation—Obama is implementing a plan that increases spending in the status quo
+
+White House 2/20
+
+Office of the Press Secretary, "Fact Sheet: The President's Plan to Make America a Magnet for Jobs by Investing in Infrastructure", Feb 20 2013, www.whitehouse.gov/the-press-office/2013/02/20/fact-sheet-president-s-plan-make-america-magnet-jobs-investing-infrastru?utm_campaign=GR-20130222-TWiW%20Email&utm_medium=email&utm_source=Eloqua
+¶ Investing in infrastructure not only makes our roads, bridges, and ports safer
+
+AND
+
+historic modernization of agency permitting and review regulations, procedures, and policies.
+
+===Round 5 - Russia Drug Scenario=== 
+
+Replaced Human Trafficking in Advantage 1 with Russia Drug Scenario
+
+drug and nuclear smuggling will increase in the squo without proper screening methods - Russian criminal organizations are involved in the organized crime of the United States and will smuggle themselves in
+
+Haas 6 (Yahoo News, Citing: J.O Fickenauer Director of the National Center of Justice, “Russian Organized Crime in America”,http://voices.yahoo.com/russian-organized-crime-america-100851.html, 10/28/6)
+Perhaps if Russia had not lost the Cold War and split into various Republics,
+
+AND
+
+next generation, well-trained in "business", has greater ambitions.
+That causes Russian instability, nuclear launch and the sale of nuclear weapons
+
+Ciluffo 97 (CSIS Watch, Number 188, October 10, 1997, www.csis.org/html/7wtch188.html)
+“If the forces ….nuclear weapons launch is at an all-time high."
+
+
+=Next Gen Affirmative= 
+==1AC—Chattahoochee & Johns Creek== 
+
+We read the Next Gen Affirmative. For cites, see this page:
+[[debatecoaches/2012-2013 - Marist (GA) - Chandler Apple & Matthew Murphy#Next%20Gen%20Affirmative-1ACChattahoochee|http://wiki.debatecoaches.org/2012-2013+-+Marist+%28GA%29+-+Chandler+Apple+%26+Matthew+Murphy#Next Gen Affirmative-1AC—Chattahoochee]]
+
+=Negative= 
+==Strategies== 
+
+__2NR Distribution__
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Total Negative Rounds - 32</span>
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">Topicality/Theory - 9% (3)</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">CP & DA - 25% (8)</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">CP & Internal Net Benefit - 13% (4)</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">DA & case – 22% (7)</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Critiques - 31% (10)</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Case - 0% (0)</span>
+
+
+===Griffin=== 
+
+**Round 2 vs. Houston County CR (HSR --- Economy & Environment)**
+1NC—Environmental Impact Statement CP, Obama Good DA, Security K, DeDev Turn, Case Defense
+2NC—Environmental Impact Statement CP, Obama Good DA
+1NR—Security K, Case Defense
+2NR—Security K, Case Defense
+
+**Round 4 vs. Houston County HP (Megaports --- Terror, Asymmetric Warfare & Navy)**
+1NC—Environmental Impact Statement CP, Obama Good DA, Security K, DeDev Turn, Case Defense
+2NC—Obama Good DA, case defense
+1NR—Environmental Impact Statement CP
+2NR—Environmental Impact Statement CP
+
+===Lincoln County=== 
+
+**Round 2 vs. Westminster Prep MP (Riverlocks --- Soybeans & Hegemony )**
+1NC—Obama Good DA, Case Defense, Hege Bad
+2NC—Obama Good DA, Case Defense
+1NR—Hege Bad
+2NR—Obama Good DA, Case Defense, Hege Bad
+
+**Round 4 vs. Sequoyah MH (Natives --- Self Determination & Waste)**
+1NC—Topicality (Terrorities), Environmental Impact Statement CP, Obama Good DA, Natives PIC, Case Defense
+2NC—Environmental Impact Statement CP, case defense
+1NR—Obama Good DA
+2NR—Environmental Impact Statement CP, Obama Good DA
+
+===<span style="background-color: #ffffff;">Chattahoochee</span>=== 
+
+**<span style="background-color: #ffffff;">Round 2 vs. Alpharetta HS (Next Gen -- Econ & Heg)</span>**
+<span style="background-color: #ffffff;">1NC—Environmental Impact Statement CP, Obama Good DA, Security K, Heg Bad, Case Defense</span>
+<span style="background-color: #ffffff;">2NC—Environmental Impact Statement CP, Obama Good DA, Security K</span>
+<span style="background-color: #ffffff;">1NR—Case Defense</span>
+<span style="background-color: #ffffff;">2NR—Security K</span>
+
+**<span style="background-color: #ffffff;">Round 3 vs. Alpharetta CK (Next Gen -- Econ & Heg)</span>**
+<span style="background-color: #ffffff;">1NC—China Fund CP, Obama Good DA, Schmitt K, Heg Bad, Case Defense</span>
+<span style="background-color: #ffffff;">2NC—China Fund CP, Obama Good DA, Case Defense</span>
+<span style="background-color: #ffffff;">1NR—Schmitt K</span>
+<span style="background-color: #ffffff;">2NR—Schmitt K</span>
+
+**<span style="background-color: #ffffff;">Round 5 vs. Johns Creek GX (Next Gen -- Oil & Warming)</span>**
+<span style="background-color: #ffffff;">1NC—China Fund CP, Obama Good DA, Security K, Case Defense</span>
+<span style="background-color: #ffffff;">2NC—China Fund CP, Case Defense</span>
+<span style="background-color: #ffffff;">1NR—Obama Good DA</span>
+<span style="background-color: #ffffff;">2NR—China Fund CP, Obama Good DA</span>
+
+===Warner Robins=== 
+
+**Round 2 vs. Pace Academy CK (Gas Tax -- Manufacturing & Energy)**
+1NC—Environmental Impact Statement CP, Obama Good DA, Electricity Prices DA, Security K, Case Defense
+2NC—Environmental Impact Statement CP, Electricity Prices DA, Case Defense
+1NR—Security K
+2NR—Severance Bad Theory
+
+**Round 4 vs. Pace Academy FQ (High Speed Rail -- Warming & Econ)**
+1NC—China Fund CP, Obama Good DA, Security K, Case Defense
+2NC—China Fund CP, Obama Good DA, case defense
+1NR—Security K
+2NR—China Fund CP
+
+===Johns Creek=== 
+
+**Round 1 vs. Westminster Schools DH (National Infrastructure Banks -- Econ)**
+1NC—States CP, Obama Good DA, Inflation DA, Case Defense, LUST Tradeoff Case Turn
+2NC—States CP, Obama Good DA
+1NR—Inflation DA, LUST Tradeoff Case Turn
+2NR—States CP, Obama Good DA
+
+**Round 4 vs. Chattahoochee (Port Security -- MDA & Terror)**
+1NC—States CP, Obama Good DA, Case Defense, Trafficking Turn
+2NC—States CP, Obama Good DA
+1NR—Case Defense, Trafficking Turn
+2NR—States CP, Obama Good DA
+
+===Sophomore Hoe Down=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Round 1 vs. New Trier (Transcom – Africa Relations & Africom)</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NC: Topicality (In the United States), Obama Good DA, Africa Reps K, Security K, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NC: Obama Good DA, case </span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NR: Africa Reps K</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NR: Africa Reps K</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Round 3 v. Notre Dame (HSR – Econ & Warming)</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NC: Environmental Impact Statement CP, Obama Good DA, Electricity Prices DA, Defense Tradeoff DA, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NC: Environmental Impact Statement CP, Electricity Prices DA, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NR: Obama Good DA</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NR: Environmental Impact Statement CP, Obama Good DA</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Round 6 v. Midway (NIBs -- Econ)</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NC: Topicality (Investment), States CP, Obama Good DA, Security K, Coercion DA, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NC: Topicality (Investment), States CP, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NR: Obama Good DA</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NR: Obama Good DA, case</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Round 7 v. Barstow (NIBs – Econ & Competitiveness)</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NC: Topicality (Investment), States CP, Obama Good DA, Coercion DA, Cost Overruns DA, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NC: Topicality (Investment), States CP, case</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">1NR: Obama Good DA</span>
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">2NR: Obama Good DA, case</span>
+
+===Sequoyah=== 
+
+**Round 2 v. Alpharetta NW (Icebreakers)**
+1NC – T-Infrastructure, Consult NATO CP, Security K, Fiscal Cliff DA, case
+2NC – Consult NATO CP, Fiscal Cliff DA, case
+1NR – Security K
+2NR – Conditionality
+
+**Round 4 v. Woodward GP (Surface Transportation)**
+1NC – Executive Order CP, Fiscal Cliff DA, Security K, case
+2NC – Fiscal Cliff DA, case
+1NR – Security K
+2NR – Fiscal Cliff DA, case
+
+===Alta=== 
+
+**Round 2 v. Wood River GH (NIB’s – Terror, State Budgets & Warming)**
+1NC – T-Investment (Direct Spending), States CP, Coercion DA, Fiscal Cliff DA, case
+2NC – T-Investment (Direct Spending), States CP, case
+1NR – Fiscal Cliff DA, case
+2NR – Fiscal Cliff DA, case
+
+**Round 3 v. Juan Diego HM (DAR – Planning & Deterrence)**
+1NC – T-Substantially, Environmental Impact Statement CP, Security K, DOD Tradeoff DA, Fiscal Cliff DA, case
+2NC – Environmental Impact Statement CP, Fiscal Cliff DA
+1NR – Security K
+2NR – Security K
+
+**Round 5 v. Alta HI (Katrina – Race)**
+1NC – T-In (Whole US), States CP, Fiscal Cliff DA, Colorline K, case
+2NC – Colorline K
+1NR – Fiscal Cliff DA, case
+2NR – Colorline K
+
+**Round 7 v. Green River YC (Electric Vehicles – Warming, Econ, Heg, Terror)**
+1NC – T-Infrastructure (Maintenance), Environmental Impact Statement CP, Fiscal Cliff DA, Electricity Prices DA, case
+2NC – T-Infrastructure (Maintenance), Environmental Impact Statement CP, Electricity Prices DA, case
+1NR – Fiscal Cliff DA, case
+2NR – Environmental Impact Statement CP, Fiscal Cliff DA, case
+
+===Cairo=== 
+
+**Round 1 v. Cairo AD (Active Transportation -- Health, Econ, & Warming)**
+1NC – States CP, Security K, Fiscal Cliff DA, case
+2NC – States CP, case
+1NR – Fiscal Cliff DA
+2NR – Fiscal Cliff DA, case
+
+**Round 3 v. Carrollton JM (Launch Vehicles to ISS -- Cooperation & Asteroids)**
+1NC – T-Transportation Infrastructure (Not Space), Impoundment CP, Space Tradeoff DA, Fiscal Cliff DA, case
+2NC – Impoundment CP, Fiscal Cliff DA, case
+1NR – T-Transportation Infrastructure (Not Space)
+2NR – Impoundment CP
+
+===Trion=== 
+
+**Round 1 vs. Rossville PS (HSR)**
+1NC – States CP, Capitalism K, Inflation DA, Russia Oil DA, case
+2NC – States CP, <span style="line-height: 1.5;">Inflation DA, Russia Oil DA</span>
+1NR – Capitalism K, case
+2NR – Capitalism K
+
+**Round 3 vs. Rossville BD (HSR)**
+<span style="line-height: 1.5;">1NC – States CP, Capitalism K, Inflation DA, Russia Oil DA, case</span>
+2NC – States CP, Inflation DA, Russia Oil DA
+1NR – Capitalism K, case
+2NR – States CP, Inflation DA
+===NCFL Qualifier=== 
+
+**Round 1 vs. Woodward PP (Federal Reserve -- Economy & Hege)**
+1NC – China Fund CP, Hagel DA, Security K, case
+2NC – China Fund CP, Hagel DA, case
+1NR – Security K
+2NR – China Fund CP, case
+===NFL Qualifier=== 
+
+**Round 2 v. Cairo BL (Hydrogen Military -- Terror & Air Power)**
+1NC – Security K, Urban Sprawl DA, Immigration Reform DA, case
+2NC – <span style="line-height: 1.5;">Urban Sprawl DA, Immigration Reform DA, case</span>
+1NR – Security K
+2NR – Security K
+
+**Round 4 v. Carrollton JM (Hydrogen Fuel)**
+1NC – T - Transportation Infrastructure, Energy K, Platinum DA, Electricity Prices DA, Poverty Speak K, case
+2NC – T- Transportation Infrastructure,<span style="line-height: 1.5;"> Platinum DA, Electricity Prices DA, case</span>
+1NR – Poverty Speak K
+2NR – Poverty Speak K
+
+**Round 6 v. Cairo BD (Gas Tax)**
+1NC – Net Zero CP, <span style="line-height: 1.5;">Electricity Prices DA, Immigration Reform DA, Coercion DA, T-Infrastructure (No Tax), case</span>
+2NC – Net Zero CP, Electricity Prices DA, case
+1NR – Immigration Reform DA
+2NR – Immigration Reform DA, case
+
+===GFCA State=== 
+
+**Round 1 v. Woodward Academy GP (Surface Transportation -- China & Economy)**
+1NC – China Fund CP, Schmitt K, Immigration Reform DA, case
+<span style="line-height: 1.5;">2NC – China Fund CP, Immigration Reform DA, case</span>
+1NR – Schmitt K
+2NR – China Fund CP
+
+**Round 4 v. Johns Creek SS (Duck & Cover)**
+1NC – T-Investment, Farley K, Immigration Reform DA, case
+<span style="line-height: 1.5;">2NC – Immigration Reform DA, case</span>
+1NR – T-Investment, Farley K
+2NR – Farley K
+
+**Round 5 v. Roswell MR (Debate Bad Aff)**
+1NC – T-Framework, Case
+<span style="line-height: 1.5;">2NC – T-Framework</span>
+1NR – Case
+2NR – T-Framework
+
+===NCFL Nationals=== 
+
+**__Round 1 vs. Newburgh Free Academy (Natives – Self D & Economy)__**
+
+1NC – States CP, Immigration Reform DA, Corporations DA, case
+2NC – States CP, Corporations DA, case
+1NR – Immigration Reform DA, case
+2NR – States CP, Corporations DA, case
+
+__**Round 4 vs. El Dorado (Rural Roads)**__

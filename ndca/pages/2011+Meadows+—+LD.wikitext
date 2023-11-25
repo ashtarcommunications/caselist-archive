@@ -1,0 +1,11 @@
+This is a list of only those LD debaters that are competing at the Meadows Invitational. It was automatically generated using tags and is not an official list. To tag entries for this tournament, add the tag "2011 meadows ld".
+
+Proper disclosure at the meadows tournament includes
+
+-an explanation of any value/criteria/fw for your case
+-the tag, complete citation (author, publication, date, page or URL) and first and last words of the portion read for each card-EVERY SINGLE ONE
+-You must post the information on the wiki page itself- you may not link to another location (website or dropbox document) that has the citations
+
+Your disclosure WILL be reviewed by Meadows tournament staff beginning at the end of round 2, and after each subsequent round to ensure all entries are in compliance. **IF YOUR WIKI PAGE IS NOT HERE IT WILL BE IN THE LINCOLN-DOUGLAS PAGE!**
+
+[[include component="pageList" hideInternal="true" tag="2011 meadows ld" limit="1000"]]

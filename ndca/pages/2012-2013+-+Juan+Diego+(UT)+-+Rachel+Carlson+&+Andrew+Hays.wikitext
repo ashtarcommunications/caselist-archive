@@ -1,0 +1,10 @@
+[[toc]]
+=Contact= 
+Rachel - Aff: rjc.debate@gmail.com
+Andrew - Neg: andrewjayhayes@gmail.com
+
+=Affirmative= 
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

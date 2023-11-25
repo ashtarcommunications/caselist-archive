@@ -1,0 +1,18 @@
+[[toc]]
+==<span style="color: #000000;">Development = Human</span>== 
+
+**<span style="color: #000000; font-family: Helvetica;">Counter-interpretation: Space development is sophisticated technological progress</span>**
+<span style="color: #000000; font-family: Helvetica;">Pekkanen and</span> <span class="spelle" style="color: #000000; font-family: Helvetica;">Kallender-Emezu</span> <span style="color: #000000; font-family: Helvetica;">2010</span><span style="color: #000000; font-family: 'Helvetica Neue';"> [</span><span class="spelle" style="color: #000000; font-family: 'Helvetica Neue';">Saadia</span><span style="color: #000000; font-family: 'Helvetica Neue';">, Job and Gertrud Tamaki Professor at the Jackson School of International Studies, and Adjunct Professor of Law at the School of Law, University of Washington, with Paul, writer and editor for Stanford University Press, “In Defense of Japan: From The Market to the Military in Space Policy” pg. 33-34]</span>
+
+<span style="color: #000000; display: block; font-family: Helvetica; text-align: justify;">Over the course of roughly two decades … civilian use and international cooperation.</span>
+**<span style="color: #000000; font-family: 'Helvetica Neue';">Robotics is a huge component of development</span>**
+<span style="color: #000000; font-family: Helvetica;">Oda et al. 03</span><span style="color: #000000; font-family: Helvetica; font-size: 12px;"> [</span><span class="spelle" style="color: #000000; font-family: Helvetica; font-size: 12px;">Mitsushige</span><span style="color: #000000; font-family: Helvetica; font-size: 12px;"> is the manager of the Space Robotics research group of the Japan Aerospace Exploration Agency's Aerospace Research and Development Directorate ( “Design and Prototype of Reusable Software Library for Controlling Space Robots”, Proceeding of the 7th International Symposium on Artificial Intelligence, Robotics and Automation in Space: [[http://robotics.estec.esa.int/i-SAIRAS/isairas2003/data/pdf/AS29paper.pdf]]]</span>
+
+<span style="display: block; text-align: justify;">As the International Space Station is …space utilization or planetary exploration</span><span style="display: block; text-align: justify;">
+</span>
+**<span style="color: #000000; font-family: Helvetica;">Lit checks--</span><span class="spelle" style="color: #000000; font-family: Helvetica;">microspace</span>****<span style="color: #000000; font-family: Helvetica;">projects like the aff are a critical discipline within space development</span>**
+<span style="color: #000000; font-family: Helvetica;">Zee 2010</span><span style="color: #000000; font-family: 'Helvetica Neue';"> [Robert, Director, Space Flight Laboratory, University of Toronto Institute for Aerospace Studies, “Microsatellite Science and Technology Center: Canada’s Center for</span> <span class="spelle" style="color: #000000; font-family: 'Helvetica Neue';">Microspace</span><span style="color: #000000; font-family: 'Helvetica Neue';">Innovation” [[http://www.utias-sfl.net/docs/LivePapersAsOfJan2011/52_Zee_ASTRO2010.pdf]]</span>
+
+<span style="display: block; text-align: justify; text-decoration: none;">The microspace approach … traditional space development approaches</span>
+
+[[include page="space.template.Footer"]]

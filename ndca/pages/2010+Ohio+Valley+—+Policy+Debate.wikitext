@@ -1,0 +1,2 @@
+This is a list of only those teams that are competing at the 2010 Ohio Valley Tournament in Policy Debate. It was automatically generated using tags and is not an official list. **To add a team to the list, tag their page with "2010 ohio valley policy".**
+[[include component="pageList" hideInternal="true" tag="2010 ohio valley policy" limit="10000"]]

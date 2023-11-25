@@ -1,0 +1,8 @@
+[[toc]]
+=Affirmative= 
+
+Plan: The United States federal government should reduce its military presence in Afghanistan to a level consistent with counter-terrorism.
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

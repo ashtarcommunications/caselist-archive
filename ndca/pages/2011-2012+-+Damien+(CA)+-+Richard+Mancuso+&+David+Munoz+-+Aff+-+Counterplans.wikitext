@@ -1,0 +1,27 @@
+[[toc]]
+==Code of Conduct== 
+**We can cheat—PACS can’t be proved as an attack and secondary payloads solve detection**
+<span style="font-size: 17.3333px;">DeSutter 2008</span> (Paula, former Assistant Secretary for Verification, Compliance, and Implementation “Is An Outer Space Arms Control Treaty Verifiable?” [[http://www.nti.org/e_research/source_docs/us/department_state/]] briefings_speeches_testimony/121.pdf)
+<span style="text-decoration: none;">One plausible cheating scenario… </span>, particularly if steps were taken to hide its true purposes.
+
+**Perm’s feasible but the CP alone takes forever**
+<span style="font-size: 17.3333px;">Bille et al 1999</span> (Matt, Senior Research Analyst for ANSER w/ a Masters in Space Systems Management, Robyn Kane, member of the Military Operations Research Society and the Society for Cost Estimating and Analysis and Systems analyst for ANSER, Martin Oetting is a Senior Satellite Systems, Engineer for ANSER, Donna Dickey is the Air Force Research Laboratory Rocket Propulsion Directorate's liaison with Air Force Space Command, “A Microsatellite “Space Guard” Force” [[http://www.smallsat.org/proceedings/13/tech-iii/ts-iii-6.pdf]])
+<span style="text-decoration: none;">The alternative to a U.S… of the Space Guard in the future</span>.
+
+**CP hypercharges our innovation internal—guts broader space tech initiatives**
+<span style="font-size: 17.3333px;">Pfaltzgraff et al 2009</span> (Robert, PhD and Professor of Int. Security Studies @ Tufts and President @ the IFPA, William Cleave, PhD and Professor @ Missouri State, Ilan Berman, VP for Policy @ the American Foreign Policy Council, Kiron Skinner, PhD and Fellow @ the Hoover Institution, Henry Cooper, Chairman @ High Frontier, H. Baker Spring, Research Fellow @ Heritage, Jacquelyn Davis, PhD and Executive VP @ IFPA, Mead Treadwell, Senior Fellow @ Institute of the North, Daniel Fine, PhD and Research Associate @ MIT, Robert Turner, Professor at University of Virginia, Robert Jastrow, PhD and Chairman of the Board @ the Marshall Institute, J.D. Williams, Vice Admiral of the USN, Thomas Karako, Director of Programs @ Claremont Institute, Paul Weyrich, CEO @ the Free Congress Research and Education Foundation, Brian Kennedy, President @ Claremont Institute, Lowell Wood, PhD and Visiting Fellow @ Hoover, Jeff Kueter, President @ the Marshall Institute, Eric Licht, Senior Analyst @ the Free Congress Research and Education Foundation, R. Daniel McMichael, Secretary @ the Carthage Foundation and the Sarah Scaife Foundation, “Report of the Independent Working Group on Missile Defense, the Space Relationship,& the Twenty-First Century,” Prepared by the Institute for Foreign Policy Analysis,” pg. 87, [[https://www.claremont.org/repository/docLib/200901291_iwg2009.pdf]] )
+In other words, … <span style="text-decoration: none;">role in space development.</span>
+
+**Self-interest overwhelms treaty commitments—only a question of our response**
+<span style="font-size: 17.3333px;">Lambakis 2001</span> (Steven, seniªor national security and international affairs analyst at the National Institute for Public Policy, “Space Weapons: Refuting the Critics” [[http://www.hoover.org/publications/policy-review/article/6612]])
+One may ask, just because the United States … <span style="text-decoration: none;">action and reaction always lies choice.</span>
+
+**Doesn’t solve our scenarios—can’t stop buildup and breakouts and inefficient response time incentivizes faster weaponization**
+<span style="font-size: 17.3333px;">DeSutter 2008</span> (Paula, former Assistant Secretary for Verification, Compliance, and Implementation “Is An Outer Space Arms Control Treaty Verifiable?” [[http://www.nti.org/e_research/source_docs/us/department_state/%20briefings_|http://www.nti.org/e_research/source_docs/us/department_state/ briefings_]]speeches_testimony/121.pdf)
+<span style="text-decoration: none;">There would be a high potential …. the most promising defensive response options.</span>
+
+**Links to politics—Republicans hate Codes of Conduct**
+<span style="font-size: 17.3333px;">Lake 2011</span> (Eli, Washington Post staff writer, “Republicans wary of EU code for space activity” [[http://www.washingtontimes.com/news/2011/feb/3/republicans-wary-of-eu-code-for-space-activity/]])
+<span style="text-decoration: none;">Republican opposition</span> … Senate <span style="text-decoration: none;">Minority Whip</span> Jon <span style="text-decoration: none;">Kyl</span> of Arizona.
+
+[[include page="space.template.Footer"]]

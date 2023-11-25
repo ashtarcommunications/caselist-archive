@@ -1,0 +1,128 @@
+[[toc]]
+=Advantage Counterplans= 
+==Water CP== 
+===1NC Shell=== 
+<span class="HeaderChar">**<span style="font-size: 10pt;">TEXT: The United States federal government should implement pilot programs throughout the globe to promote the development of clean water access projects focusing on the regions most at need while increasing public-private partnerships to mobilize resources and technologies to improve global access to water.</span>**</span>
+
+**<span style="font-size: 10pt;">Water leadership is crucial to effective foreign policy</span>**
+**CSIS 05**<span style="font-size: 8pt;"> [Center for Strategic and International Studies, “Addressing our Global Water Future” White Paper, September 30th (http://water.csis.org/050928_ogwf.pdf)]</span>
+<span style="font-size: 7pt;">Finding 13: </span><span class="HeaderChar">__<span style="background-color: lime; font-size: 10pt;">Water can be a powerful</span>____<span style="font-size: 10pt;"> … </span>__</span><span style="font-size: 7pt;">water as a foreign policy priority.</span>
+
+===Tech Leadership Solvency=== 
+**<span style="font-size: 10pt;">Mobilizing technology for water spurs innovation and allows us to lead in technology globally</span>**
+**CSIS 05**<span style="font-size: 8pt;"> (Center for Strategic and International Studies, Global Water Futures, http://water.csis.org/about.html) </span>
+<span style="font-size: 8pt;">In mid-2004, the Washington, D.C.-based … project is designed to address.</span>
+
+=Process Counterplans= 
+==OMB CP== 
+**TEXT: The Office of Management and Budget and its Office of Information and Regulatory Affairs will utilize their Scorecard system and issue a red score rating to the appropriate federal agency for failure to [INSERT MODIFIED PLAN]**
+
+Without force of law, “Traffic-Lights” cause change– __bragging rights__ and __quarterly updates__ prove.
+<span style="font-size: 13pt;">Breul ‘8</span><span style="font-size: 8pt;">(Jonathan D . Breul – IBM Center for the Business of Government – “Federal Government Reform: Lessons from Clinton’s Reinventing Government and Bush’s “Management Agenda” Initiatives. Public Administration Review 68 (6): 1009-1026. – obtained via EBSCOhost database)</span>
+<span style="font-size: 8pt;"> “Traffic light” scorecard . </span>The … <span style="font-size: 8pt;">show him the scorecard ( Frank 2003 ).</span>
+
+**Red-lights cause voluntarily implementation of the Aff.** 
+<span style="font-size: 13pt;">Peckenpaugh ‘3 </span><span style="font-size: 8pt;">(Jason Peckenpaugh – the “he told” in this card is internally quoting Clay Johnson, deputy director for management at the Office of Management and Budget. Peckenpaugh is a frequent contributor to Government Executive and affiliated with Stanford University Criminal Justice Center – Government Executive – http://www.govexec.com/dailyfed/0503/052703p1.htm)</span>
+<span style="font-size: 8pt;">"</span><span class="Underline">The management agenda has … </span>-to-be-underestimated motivation for these agencies<span style="font-size: 8pt;">."</span>
+
+The counterplan’s //__initial__// OMB action won’t be viewed as the White House.
+<span style="font-size: 13pt;">Tomkin ’98 </span><span style="font-size: 8pt;">(Shelley Lynne Tomkin is Associate Professor of Political Science at Trinity College, Washington, DC – Inside OMB: politics and process in the President's Budget Office – p.27-28)</span>
+<span class="Underline">As </span>head o<span class="Underline">f</span><span style="font-size: 8pt;"> BOB/</span>OMB<span class="Underline">, … </span><span style="font-size: 8pt;">, "abandoned cultural commentary for awhile."37</span>
+
+==Title VI CP== 
+===1NC Shell=== 
+
+<span style="font-size: 13pt;">The United States federal government should offer <plan> if, and only if, the recipient of the investment adopts a decision-making process that evaluates potential disparate impacts of <plan>. The United States federal government should withhold funding for <plan> if, and only if, the result of the investment violates disparate impact regulations as set forth in Title VI of the Civil Rights Act.</span>
+
+<span style="font-size: 13pt;">Solves the whole aff and is key to prevent discrimination—current applications of Title VI are limited to lawsuits after the project’s implementation and require proof of intentional discrimination—evaluating potential disparate impacts </span><span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">before</span>__</span><span style="font-size: 13pt;"> the implementation and making funding contingent is key</span>
+
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Harvard Law Review, ’03</span>__</span><span style="font-size: 8pt;"> [April, 2003, 116 Harv. L. Rev. 1774, “After Sandoval: Judicial Challenges and Administrative Possibilities in Title VI Enforcement”, lexis nexis]</span>
+
+<span class="Underline">Federal agencies must adopt alternative measures …</span><span style="font-size: 8pt;"> to effectuate the purposes of Title VI.</span>
+
+**That’s key – an equity impact statement must precede planning and implementation to make transportation infrastructure less racist and more accessible**
+<span class="Heading2Char">Levinson '02 </span><span style="font-size: 8pt;">[David Levinson, Department of Civil Engineering at University of Minnesoata, "Identifying Winners and Losers in Transportation", pg. online @ Levinson nexus.umn.edu/Papers/winnersandlosers.pdf//]</span>
+<span style="font-size: 8pt;">Environmental justice is a good beginning, … addressed by examining income equity</span>
+
+===AT: Perm Do Both=== 
+**Doing the impact assessment before the plan is key—permutation distorts the baseline for measurements which doesn’t accurately reflect the equity implications**
+<span class="Heading2Char">USAID, ’08</span><span style="font-size: 8pt;"> [June 2008, Impact Assessment Primer Series Publication # 7, “Common Problems In Impact Assessment Research”, [[http://pdf.usaid.gov/pdf_docs/PNADN201.pdf]]]</span>
+The timing of the impact assessment may//…//<span class="Underline">a heavy reliance on retrospective questions. </span>
+
+**We must explicitly recognize issues of equity before implementation to prevent them from becoming political problems**
+<span style="font-size: 13pt;">Levinson '03 </span>
+<span style="font-size: 8pt;">[David Levinson, Department of Civil Engineering at University of Minnesoata, December 2003, "Perspectives on efficiency in transportation", pg. online @ [[http://www.sciencedirect.com/science/article/pii/S1471405104000035/|www.sciencedirect.com/science/article/pii/S1471405104000035//]]]</span>
+The general focus on systematic …problems before they manifest themselves<span class="Underline">.</span>
+
+**We must engage the public early and genuinely to solve**
+<span class="Heading2Char">Sanchez et al, ’03</span><span style="font-size: 8pt;"> [2003, The Civil Rights Project at Harvard University. Thomas W. Sanchez is an associate professor of Urban Affairs and Planning and research fellow in the Metropolitan Institute at Virginia Tech in Alexandria, Virginia. Rich Stolz is Senior Policy Analyst at Center for Community Change. Jacinta S. Ma is a Legal and Policy Advocacy Associate at The Civil Rights Project at Harvard., “MOVING TO EQUITY: Addressing Inequitable Effects of Transportation Policies on Minorities”, http://civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/transportation/moving-to-equity-addressing-inequitable-effects-of-transportation-policies-on-minorities/sanchez-moving-to-equity-transportation-policies.pdf]</span>
+
+<span class="Underline">Several MPOs</span><span style="font-size: 8pt;">, in complying with these mandates, </span><span class="Underline">…</span> //the public involvement process includes underserved communities.//
+
+**It has to happen before the plan**
+<span style="font-size: 13pt;">Opportunity Agenda ‘09</span>
+<span style="font-size: 8pt;">[The Opportunity Agenda—a communications, research, and advocacy organization dedicated to building the national will to expand opportunity in America, 2009 (“The Opportunity Impact Statement,” Poverty & Race, Volume 18, Issue 2, March/April, Available Online to Subscribing Institutions via Alt Press Watch)</span>
+<span class="Underline">The</span><span style="font-size: 8pt;"> Opportunity Impact Statement (</span><span class="Underline">OIS</span><span style="font-size: 8pt;">) </span><span class="Underline">is a road … on the development of publicly subsidized</span><span style="font-size: 8pt;"> or authorized </span><span class="Underline">projects</span><span style="font-size: 8pt;">.</span>
+
+
+===AT: Perm Do EIS Then Plan Anyways=== 
+
+**Perm doesn’t solve -**
+**The CP guarantees that the results of the statement are followed and the permutation doesn’t—that’s critical to equity**
+<span class="Heading2Char">Sanchez et al, ’03</span><span style="font-size: 8pt;"> [2003, The Civil Rights Project at Harvard University. Thomas W. Sanchez is an associate professor of Urban Affairs and Planning and research fellow in the Metropolitan Institute at Virginia Tech in Alexandria, Virginia. Rich Stolz is Senior Policy Analyst at Center for Community Change. Jacinta S. Ma is a Legal and Policy Advocacy Associate at The Civil Rights Project at Harvard., “MOVING TO EQUITY: Addressing Inequitable Effects of Transportation Policies on Minorities”, http://civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/transportation/moving-to-equity-addressing-inequitable-effects-of-transportation-policies-on-minorities/sanchez-moving-to-equity-transportation-policies.pdf]</span>
+Transportation policies<span style="font-size: 8pt;"> not only </span><span class="Underline">have inequitable …</span>//to move us toward equity for all//<span class="Underline">.</span>
+
+**Only constant monitoring ensures feedback mechanisms – that’s key**
+**World Bank, ’99**<span style="font-size: 8pt;"> [Social Development Department/Transport Division, The World Bank, November 1999, “Managing the Social Dimensions of Transport: The Role of Social Assessment”, http://www4.worldbank.org/afr/ssatp/Resources/HTML/Gender-RG/Source%20%20documents/Tool%20Kits%20&%20Guides/Social%20Analysis/TLAN1%20SocialDimensionsofTransportSector(429KbPDF).pdf]</span>
+Monitoring<span class="Underline"> and evaluation</span><span style="font-size: 8pt;"> contributes to a better understanding of poverty, </span>//…//<span style="font-size: 8pt;">and how they are changing will inform development policy.</span>
+
+===AT: CP Normal Means=== 
+
+**It’s required but not taken seriously**
+<span class="Heading2Char">Sanchez et al, ’03</span><span style="font-size: 8pt;"> [2003, The Civil Rights Project at Harvard University. Thomas W. Sanchez is an associate professor of Urban Affairs and Planning and research fellow in the Metropolitan Institute at Virginia Tech in Alexandria, Virginia. Rich Stolz is Senior Policy Analyst at Center for Community Change. Jacinta S. Ma is a Legal and Policy Advocacy Associate at The Civil Rights Project at Harvard., “MOVING TO EQUITY: Addressing Inequitable Effects of Transportation Policies on Minorities”, http://civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/transportation/moving-to-equity-addressing-inequitable-effects-of-transportation-policies-on-minorities/sanchez-moving-to-equity-transportation-policies.pdf]</span>
+
+<span style="font-size: 8pt;">The </span>requirements o<span class="Underline">f</span><span style="font-size: 8pt;"> The National Environmental Policy Act of 1969 (</span>NEPA) <span class="Underline">…</span><span style="font-size: 8pt;"> growth initiatives because inequitable growth is not “smart.”</span>
+
+**No enforcement now**
+<span class="Heading2Char">Harvard Law Review, ’03</span><span style="font-size: 8pt;"> [April, 2003, 116 Harv. L. Rev. 1774, “After Sandoval: Judicial Challenges and Administrative Possibilities in Title VI Enforcement”, lexis nexis]</span>
+<span style="display: block; text-align: center;">
+</span>
+<span style="font-size: 8pt;">This Note has been optimistic, albeit reservedly, about the …</span>//rather than merely pro forma conditions.//
+
+===1NC Race NB=== 
+**Status quo transportation decisions are based __solely__ on efficiency and costs—this ignores issues of equity and maintains status quo hierarchies**
+<span class="Heading2Char">Sanchez et al, ’03</span><span style="font-size: 8pt;"> [2003, The Civil Rights Project at Harvard University. Thomas W. Sanchez is an associate professor of Urban Affairs and Planning and research fellow in the Metropolitan Institute at Virginia Tech in Alexandria, Virginia. Rich Stolz is Senior Policy Analyst at Center for Community Change. Jacinta S. Ma is a Legal and Policy Advocacy Associate at The Civil Rights Project at Harvard., “MOVING TO EQUITY: Addressing Inequitable Effects of Transportation Policies on Minorities”, http://civilrightsproject.ucla.edu/research/metro-and-regional-inequalities/transportation/moving-to-equity-addressing-inequitable-effects-of-transportation-policies-on-minorities/sanchez-moving-to-equity-transportation-policies.pdf]</span>
+
+<span style="font-size: 8pt;">Before examining the specific economic and …</span><span class="Underline"> opportunities </span>must be understood in this broader context<span class="Underline">.</span>
+
+**Placing a commitment to transportation equality at the center of our decision-making calculus is critical to break-down racial inequality—necessary to challenge institutional and structural racism that pervades the status quo**
+<span class="Heading2Char">JCPES 11</span><span style="font-size: 8pt;"> – The Joint Center for Political and Economic Studies, an NGO with the goal of improving the socioeconomic status of African Americans and other people of color, expanding their effective participation in the political and public policy arenas, and promoting communications and relationships across racial and ethnic lines, April 13, 2011, “Structural Racism, Privilege, and Policy: A Systems Perspective,” online: [[http://www.jointcenter.org/hpi/sites/all/files/DL14%20Concept%20Paper%2004%2001%2011.pdf]]</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">Given the nation’s ongoing economic crises, </span>//<span style="font-family: Georgia,serif; font-size: 11pt;">…</span>//<span class="Underline"> that will</span>//<span style="font-family: Georgia,serif; font-size: 11pt;">facilitate real and lasting equity</span>//<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+===1NC Disabilities NB=== 
+
+<span style="font-size: 13pt;">Transportation inaccessibility excludes disabled people from the community</span>
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">AAPD, 2012</span>__</span><span style="font-size: 8pt;"> (The American Association of People With Disabilities, “Equity in Transportation for People with Disabilities”, May 23, http://www.infrastructureusa.org/equity-in-transportation-for-people-with-disabilities/)</span>
+
+**__Transportation and mobility play …__**<span style="font-size: 8pt;"> often rely on accessible taxis, a lack of requirements has meant very uneven progress.</span>
+
+**Specifically—These seemingly innocuous investment decisions render differently-abled people prisoner to a transportation infrastructure system that forces immobility upon them.**
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Langan, 2001</span>__</span><span style="font-size: 8pt;"> (Celeste, Associate Professor of English at the University of California Berkeley, “Mobility Disability”, Public Culture, Vol. 13 No. 3, Fall, Project Muse)</span>
+
+**__To think about mobility disability is to …__**<span style="font-size: 8pt;"> ADA’s “individuals with wheelchairs”: the mass-transit dependent. </span>
+
+**This relationship to those who are differently abled culminates in the genocidal impulse – the institutional spaces of exclusion epitomized by transportation policies legitimize state-sponsored violence**
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Hughes, 2002</span>__</span><span style="font-size: 8pt;"> (Bill, Professor of Social Policy at the University Glasgow, Disability Studies, p. 60-62)</span>
+
+<span style="font-size: 8pt;">The </span><span class="Underline">dominant framework for understanding disability</span><span style="font-size: 8pt;"> in …</span> reductionism may<span style="font-size: 8pt;"> at its worst </span>**__translate into a politics of genocide__**<span style="font-size: 8pt;">. </span>
+
+
+===2NC Disabilities Transportation Key=== 
+
+**Lack of mobility lies at the heart of exclusion – transportation for the disabled is key**
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Mattson, Hough, and Abeson, 2010</span>__</span><span style="font-size: 8pt;"> (Jeremy, Jill, Alan, Faculty at North Dakota State University, “Assessing Existing and Needed Community Transportation for People with Disabilities in North Dakota”, Small Urban & Rural Transit Center, Upper Great Plains Transportation Institute, North Dakota State University, November)</span>
+
+**__Mobility is fundamental for people to live full and …__**<span style="font-size: 8pt;">beyond North Dakota for collecting similar information.</span>
+
+
+[[include page="space.template.Footer"]]

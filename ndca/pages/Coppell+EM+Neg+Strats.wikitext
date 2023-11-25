@@ -1,0 +1,70 @@
+[[toc]]
+=Berkeley= 
+
+**Round 1 vs Whitney Young PS (oppressed no plan)**
+1NC: Framework, Cap/Mann K, Speaking of Others K, zompetti turns on case
+2NC: Cap/Mann K, Case
+1NR: Framework
+2NR: Case
+
+
+
+=Colleyville= 
+
+**Round 1 vs Barstow RS (NIB)**
+1NC: T - Expenditure, HSR PIC, PTIX, States CP, case
+2NC: HSR PIC, States CP, case
+1NR: PTIX
+2NR: HSR PIC
+
+**Round 3 vs Highland Park SH (MTS)**
+1NC: States CP, PTIX, Environment DA, Cap, heg turns, train tradeoff on case
+2NC: Cap, heg turns, case
+1NR: PTIX
+2NR: PTIX and Case
+
+**Round 5 vs Casady DP (CCS)**
+1NC: T - Pipelines, States CP, PTIX, Cap, warming turns
+2NC: T, Cap, Case, States
+1NR: PTIX
+2NR: Extra T and Cap
+
+
+=Heritage Hall= 
+
+**Round 2 vs Casady KP (CCS)**
+1NC: T - energy infs., states cp, politics - immigration, clean tech trade off, warming turns on case
+2NC: Politics - immigration, states cp, case
+1NR: T - energy infs. and case
+2NR: Politics - immigration, states cp
+
+**Round 3 vs Highland Park WW (Chaos)**
+1NC: Framework, author pic, anthro k, case
+2NC: Framework, case
+1NR: Anthro k
+2NR: Framework
+
+**Round 6 vs C.E. Byrd GN (graffiti)**
+1NC: T - Sub / tinf, anthro k, terrocrats pic, politics, Stavrakakis case turn
+2NC: terrocrats, Stavrakakis, case
+1NR: anthro
+2NR: anthro
+
+**Round 7 vs Edmond Santa Fe HL (disabilities)**
+1NC: cap k, states, politics, T - not repairs, Stavrakakis case turn
+2NC: cap k, Stavrakakis, 1/2 case
+1NR: politics, 1/2 case
+2NR: cap k
+
+
+
+=Plano East= 
+
+**Round 2 vs Grapevine JU (ITS)**
+1NC: T - not systems, China steel da, nanotech cp, cap k, GMO turns on case
+2NC: T, CP, turns
+1NR: DA
+2NR: nanotech cp + GMO turns
+
+
+[[include page="space.template.Footer"]]

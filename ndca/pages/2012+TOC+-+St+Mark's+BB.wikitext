@@ -1,0 +1,26 @@
+[[toc]]
+=Round 1= 
+<span style="background-color: #ffffff; display: block; font-family: arial,sans,sans-serif; text-align: left;">vs. Greenhill BR (SpaceGuard) - Plan Flaw (can't fiat a Space Guard), Obama Good - Jackson Vanik Repeal, Cooperation DA (Plan is a unilateral action, destroys current international coop in space, leads to arms race), Case Defense</span>
+=Round 2= 
+
+aff is same as newest version on wiki except took out the EU coop scenario and added this card at the bottom
+
+**Depots are critical to effective space access**
+**Marchetta, engineering prof, et al. 9** <span style="font-size: 8px;">(Jeffrey Marchetta PhD, The University of Memphis, AND Jonathan A. Goff, Masten Space Systems, Inc., AND Bernard F. Kutter and Frank Zegler, United Launch Alliance, AND Dallas Bienhoff, The Boeing Company, AND Frank Chandler, The Boeing Company, “Realistic Near-Term Propellant Depots: Implementation of a Critical Spacefaring Capability”, American Institute of Aeronautics and Astronautics, [[http://ulalaunch.com/site/docs/publications/PropellantDepots2009.pdf]], ZBurdette)</span>
+
+Orbital cryogenic propellant depots ……t level of technological maturity.
+
+
+=Round 3= 
+neg. v. st. vincent depaul and they read a cosmology sagan aff
+2nr: pic out of the state
+=Round 4= 
+we were aff
+read same aff as above
+=Round 5= 
+
+=Round 6= 
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

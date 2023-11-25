@@ -1,0 +1,30 @@
+<span style="display: block; text-align: center;"><span style="color: #ff0000;">TO EDIT THE WIKI, YOU NEED TO **REGISTER FOR AN ACCOUNT** AND **REQUEST TO JOIN THE WIKI.**</span>
+
+<span style="text-align: center;"><span style="font-family: 'Arial Black',Gadget,sans-serif; font-size: 260%;">Welcome To The NDCA Wiki</span>
+**<span style="font-size: 120%;">Skip Right To: [[Policy Debate]] | [[Lincoln-Douglas Debate]]</span>**
+[[toc|flat]]
+</span><span style="display: block; text-align: center;">**<span style="font-size: 120%;">[[Changes in 2012-2013]] | [[https://www.wikispaces.com/user/join?goto=http%3A%2F%2Fwiki.debatecoaches.org%2F|Create An Account]]</span>**</span>
+<span style="display: block; text-align: center;">**<span style="font-size: 120%;">[[How To Add A Team Or Debater To The Wiki]]</span>**</span>
+</span>
+
+=Mission Statement=
+Welcome to the National Debate Coaches' Association's National Argument List. This wiki is an attempt to compile and share information about arguments made by high school debate teams throughout the country. The goal of this project is to democratize the process of intelligence gathering so that all high school debate teams have access to the information that has been compiled by all other squads. In this way, the wiki can both improve the quality of the information available and increase the accessibility of that information.
+
+=How To Use The Wiki= 
+Only registered users can modify the wiki—if you do not have an account, click on the "Sign In" link in the upper right hand corner of the screen and then click on [[https://www.wikispaces.com/user/join?goto=http%3A%2F%2Fwiki.debatecoaches.org%2F|Join Wikispaces Now!]] to register for one. If you cannot figure out how to register for an account and post text onto the wiki, please ask a friend for assistance — it is very easy.
+
+=Naming Conventions= 
+Each individual team in policy and debater in LD has their own page that houses information about both their affirmative and negative arguments. Please keep the index on this page in alphabetical order and follow the standard format: 2012-2013 followed by a hyphen followed by the school name (omitting "high school" or "school" unless needed to distinguish between schools with similar names), the school's state abbreviation in parentheses, a hyphen, and the first and last names of each debater separated by an ampersand. For example, John Apple and Jane Vista from Southwest Technical High School in Texas would be listed as 2012-2013 - Southwest Technical (TX) - John Apple & Jane Vista. If you don't follow the format, the administrator of the wiki will fix it but you can save him some time by doing it correctly right away.
+
+**Note: Enforcing the use of emdashes proved too difficult, so please just use a simple hyphen (the key next to +/= on most keyboards).**
+
+=What To Include= 
+When possible, complete citations should be provided. If citations are not available, basic information about the arguments made is still very helpful. For affirmatives, a summary of the plan and advantages as well as information about major 2AC add-ons or responses would be appreciated. For negatives, information about the arguments made in the 1NC as well as information about the 2NR strategies that the team has settled upon are ideal.
+
+It is our hope that squads will contribute all of the information that they gather about other teams' arguments. Hoarding intelligence to gain a strategic advantage undermines the overall quality of the information available to all squads and is antithetical to the spirit of clash inherent in contest round debating. Democratizing the process of intelligence gathering distributes the burden onto a much greater number of people, enabling students and teachers to spend more time generating and discussing arguments and less time chasing down citations.
+
+=What Not To Include= 
+Please treat this space with respect: do not post jokes, diatribes about disclosure, chat conversations, images, etc. and do not deface the wiki. While you might think that you are being funny, you are really just creating more work for the volunteers that manage this resource.
+
+=Opting Out= 
+While we strongly encourage all squads to participate in this project, those that wish to "opt-out" can do so [[mailto:billbatterman@gmail.com|by emailing Bill Batterman]].

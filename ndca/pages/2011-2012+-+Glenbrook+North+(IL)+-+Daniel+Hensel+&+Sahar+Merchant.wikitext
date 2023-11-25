@@ -1,0 +1,6 @@
+=<span style="font-family: Arial,Helvetica,sans-serif;">Team Info</span>= 
+=<span style="font-family: Arial,Helvetica,sans-serif;">Affirmative</span>= 
+=<span style="font-family: Arial,Helvetica,sans-serif;">Negative</span>= 
+<span style="font-family: Arial,Helvetica,sans-serif;">
+</span><span style="font-family: Georgia,serif;">[[toc]]
+</span>

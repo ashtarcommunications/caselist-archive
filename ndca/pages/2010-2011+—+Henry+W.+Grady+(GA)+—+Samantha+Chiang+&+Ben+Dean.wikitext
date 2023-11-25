@@ -1,0 +1,6 @@
+[[toc]]
+=Affirmative= 
+See Grady BC's wiki--it's more or less the same
+=Negative= 
+
+[[include page="space.template.Footer"]]

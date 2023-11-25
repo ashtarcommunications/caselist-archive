@@ -1,0 +1,8 @@
+This is a list of only those teams that are competing at the 2012 TOC. It was automatically generated using tags and is not an official list. In order to easily identify new TOC arguments, there is a section below for new arguments at the TOC.
+
+TOC Pages:
+
+[[include component="pageList" hideInternal="true" tag="2012 toc pages policy" limit="1000"]]
+
+Regulard Season Pages:
+[[include component="pageList" hideInternal="true" tag="2012 toc policy" limit="1000"]]

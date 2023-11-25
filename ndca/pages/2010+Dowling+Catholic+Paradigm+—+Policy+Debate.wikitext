@@ -1,0 +1,3 @@
+This is a list of only those teams that are competing at the 2010 Dowling Catholic Paradigm. It was automatically generated using tags and is not an official list. I have tagged some partnerships that will not be debating together at the tournament because it's the only wiki for either debater
+
+[[include component="pageList" hideInternal="true" tag="2010 dowling" limit="1000" ]]

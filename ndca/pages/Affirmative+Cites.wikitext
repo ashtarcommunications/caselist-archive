@@ -1,0 +1,172 @@
+**<span style="font-size: 230%;">WESTMINSTER HW</span>**
+[[debatecoaches/2011-2012 - Westminster (GA) - Dillon Hall & Bryant Wang|H]]ome
+[[toc]]
+=<span style="background-color: #ffffff; text-decoration: none;">1ac AIS Version 1 (Grady)</span>= 
+==<span style="background-color: #ffffff;">[[#x1ac AIS Version 1-Plantext:]]<span style="text-decoration: none;">Plantext:</span></span>== 
+**<span style="background-color: #ffffff; font-family: Georgia,serif;">Plan: The United States federal government should deploy satellites integrated with Automatic Identification Systems and Synthetic Aperture Radar beyond the Earth’s mesosphere.</span>**
+
+**<span style="background-color: #ffffff;">Maritime Domain Awareness is on the decline due to the inability to track vessels – holes in security will be exploited– space-based AIS is the only way to reinvigorate it</span>**
+**<span style="background-color: #ffffff;">Allan 11 –</span>**<span style="background-color: #ffffff; font-size: 8pt;"> VP Global Sales & Marketing at Exact Earth, (John W. Allan, March 23, 2011, “S-AIS - Redefining maritime security”,[[http://www.geospatialworld.net/index.php?option=com_content&view=article&id=21883]])</span>
+
+<span style="background-color: #ffffff;">Few security commentators would dispute … </span><span style="background-color: #ffffff; font-size: 8pt;">forward in maritime surveillance capability. </span>
+
+**<span style="background-color: #ffffff;">A satellite integrated with SAR and AIS can provide accurate real time data of all naval vessels—18 satellites is enough to solve</span>**
+**<span style="background-color: #ffffff;">Singh 10</span>**<span style="background-color: #ffffff; font-size: 8pt;"> Master of Science in Defense Analysis, Naval School Postgraduate, Captain of Indian Navy (Jaswinder Singh, “Countering Small Boat Terrorism In Territorial Sea”, December 2010, [[http://www.hsdl.org/?view&did=10996]])</span>
+
+<span style="background-color: #ffffff;">AIS signals can easily be … definitely provide near-real MST.</span>
+
+**<span style="background-color: #ffffff;">An Increase In MDA is vital</span>**
+**<span style="background-color: #ffffff;">Singh 10</span>**<span style="background-color: #ffffff; font-size: 8pt;"> Master of Science in Defense Analysis, Naval School Postgraduate, Captain of Indian Navy (Jaswinder Singh, “Countering Small Boat Terrorism In Territorial Sea”, December 2010, [[http://www.hsdl.org/?view&did=10996]], DR. H)</span>
+
+<span style="background-color: #ffffff; text-decoration: none;">The recent piracy cases off … by the international maritime community</span><span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;">.34 </span>
+
+
+
+==<span style="background-color: #ffffff;">[[#x1ac AIS Version 1-Contention 1 is Naval Power]]<span style="text-decoration: none;">Contention 1 is Naval Power</span></span>== 
+<span class="Underline" style="background-color: #ffffff;">**<span style="text-decoration: none;">MDA is key to naval power and missions through increased transparency and detection capabilities</span>**</span>
+<span class="Underline" style="background-color: #ffffff;">**<span style="text-decoration: none;">Mullen 07 </span>**</span><span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;">United States Navy four-… </span><span style="background-color: #ffffff; font-size: 8pt;">, DR. H) </span>
+
+<span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;">As an instrument of national power</span><span style="background-color: #ffffff; text-decoration: none;"> … response to any emerging threat.</span>
+
+**<span style="background-color: #ffffff;">Increased Naval Power is key to hegemony</span>**
+**<span style="background-color: #ffffff;">Ealgen and McGrath 6/6</span>**<span style="background-color: #ffffff; font-size: 8pt;">, Mackenzie Eaglen is Research Fellow for National Security in the Douglas and Sarah Allison Center for Foreign Policy Studies, a division of the Kathryn and Shelby Cullom Davis Institute for International Studies, at The Heritage Foundation. Bryan McGrath is a retired naval officer and the Director of Delex Consulting, Studies and Analysis in Vienna, Virginia. On active duty, he commanded the destroyer USS Bulkeley (DDG 84) and served as the primary author of the current maritime strategy. (6/6/11, Mackenzie, Bryan, “A Day Without US Sea Power” [[http://www.heritage.org/Research/Commentary/2011/06/A-Day-Without-US-Seapower]]) AT </span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Back to 2011: </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">How might we … </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">it before it’s too late.</span>
+
+**<span style="background-color: #ffffff;">We will inevitably cling to heg even with an inevitable decline—delaying collapse is crucial to prevent transition wars</span>**
+<span style="background-color: #ffffff; font-size: 13pt;">Pape 09</span> <span style="background-color: #ffffff; font-size: 8pt;">– Robert A., Professor of political science at the University of Chicago (Jan-Feb. 2009, “Empire Falls,”[[http://findarticles.com/p/articles/mi_m2751/is_99/ai_n32148803/?tag=content;col1]] originally from The National Interest)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">All of </span><span style="background-color: #ffffff;">this has led … merely accelerating our own downfall.</span>
+
+**<span style="background-color: #ffffff;">Heg is the anchor of global stability that solves every scenario for nuclear war and solidifies the world economy—offshore balancing can’t solve</span>**
+<span style="background-color: #ffffff; font-size: 13pt;">Kagan 11</span> <span style="background-color: #ffffff; font-size: 8pt;">– Robert, Senior Fellow in foreign policy at the Brookings Institution (January 24, 2011, “The Price of Power,”[[http://www.weeklystandard.com/articles/price-power_533696.html?page=3]])</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">Others have. For decades “</span><span style="background-color: #ffffff;">realist” … table will not fall over.</span>
+
+**<span style="background-color: #ffffff;">Plan also solves Port Terrorism</span>**
+**<span style="background-color: #ffffff;">Trent 10</span>**<span style="background-color: #ffffff; font-size: 8pt;"> The Center for Secure and Resilient Maritime Commerce(Michael Trent, Waleed Alsaedi, Joseph Bongi, Felisa Fernandez, Blake Picolo, Catherine Strez, July 28, 2010, “ Satellite Applications for Port Security and Resilience”, [[http://www.stevens.edu/csr/fileadmin/csr/SRI_Papers_Presentations/SatelliteTeam_Final_SRI2010Report_.pdf]])</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">In today’s world we are … strengthened by is full implementation. </span>
+
+**<span style="background-color: #ffffff;">Nuclear Terror is the most likely scenario of Nuclear conflict</span>**
+**<span style="background-color: #ffffff;">Ackerman 08</span>** <span style="background-color: #ffffff; font-size: 8pt;">(Gary Anthony, Research Director at START, MA from Yale in International relations (Strategic Studies – terrorism), post Director of the Center for Terrorism and Intelligence Studies United States Senate Committee on Homeland Security and Governmental Affairs Hearing on “Nuclear Terrorism: Assessing the Threat to the Homeland” April 2 2008)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">Chairman Lieberman, Ranking Member Collins … being proactive in this regard.</span>
+
+**<span style="background-color: #ffffff;">Nuclear Terror leads to nuclear war</span>**
+**<span style="background-color: #ffffff;">Ayson 10</span>**<span style="background-color: #ffffff; font-size: 8pt;"> (Robert Ayson, Professor of Strategic Studies, Director of Strategic Studies: New Zealand, Senior Research Associate with Oxford’s Centre for International Studies. “After a Terrorist Nuclear Attack: Envisaging Catalytic Effects. //Studies in Conflict and Terrorism//, Volume 33, Issue 7, July 2010, pages 571-593)</span>
+
+<span style="background-color: #ffffff;">Washington's early response to a terrorist … </span><span style="background-color: #ffffff; font-size: 8pt;">unable or unwilling to provide.</span>
+
+
+==<span style="background-color: #ffffff;">[[#x1ac AIS Version 1-Contention 2 is Somalian Piracy]]<span style="text-decoration: none;">Contention 2 is Somalian Piracy</span></span>== 
+
+**<span style="background-color: #ffffff;">MDA is key to Counter-Piracy Operations</span>**
+**<span style="background-color: #ffffff;">Salerno 09</span>** <span style="background-color: #ffffff; font-size: 8pt;">assistant commandant for marine safety security and stewardship (RADM Brian M. Salerno, May 20, 2009, “On The Piracy Against U.S. Flagged Vessels: Lessons Learned” Department of Homeland Security, [[http://www.marad.dot.gov/documents/Testimony-RADM_Brian_M_Salerno-USCG.pdf]])</span>
+
+<span style="background-color: #ffffff;">Counter-piracy forces must be … </span><span style="background-color: #ffffff; font-size: 8pt;">homeland and national security partners. </span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">Somalian Piracy is on the Rise and is Spreading throughout the Gulf of Aden—Inability to monitor the Maritime Domain causes status quo containment policies to fail</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">Gettleman 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> East Africa bureau chief for The New York Times (Jeffrey Gettleman, “Suddenly, a Rise in Piracy’s Price” NY Times, 2-26-2011, [[http://www.nytimes.com/2011/02/27/weekinreview/27pirates.html?pagewanted=all]])</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">On Tuesday, </span><span style="background-color: #ffffff;">Somali pirates shot … more or perhaps escalated atrocities. ‘’</span>
+
+**<span style="background-color: #ffffff;">Piracy within the Gulf of Aden is the main factor of Yemen instability – it allows Al Quaeda regrouping and attacks</span>**
+**<span style="background-color: #ffffff;">Atarodi 10</span>** <span style="background-color: #ffffff; font-size: 8pt;">Defense Analyst (Alexanderia Atarodi, March 2010, “Yemen in Crisis – Consequences for the Horn of Africa” Swedish Defense Research Agency,[[http://www.foi.se/upload/asia/FOI-R--2968--SE.pdf]]) </span>
+
+
+
+
+<span style="background-color: #ffffff; font-size: 8pt;">Pirate attacks in the waters … for the Horn of Africa. </span>
+
+**<span style="background-color: #ffffff;">If AQAP Can Successfully Regroup In Yemen, Instability Goes Regional</span>**
+**<span style="background-color: #ffffff;">Reger 09</span>** <span style="background-color: #ffffff; font-size: 8pt;">Researcher at Kettering Foundation and Security Analyst at the Center for American Progress (Jeff Reger, July 13, 2009, “Yemen Threatens Regional Stability” [[http://www.americanprogress.org/issues/2009/07/yemen.html]]) </span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">Indeed, </span><span style="background-color: #ffffff;">Yemen is both a source </span><span style="background-color: #ffffff; font-size: 8pt;">… </span><span style="background-color: #ffffff;">a regional problem with a regional solution.</span>
+
+**<span style="background-color: #ffffff;">Regional instability goes Nuclear</span>**
+**<span style="background-color: #ffffff;">Trabanco 09</span>** <span style="background-color: #ffffff; font-size: 8pt;">– Independent researcher of geopolitical and military affairs, Global Research [José Miguel Alonso Trabanco (Degree in IR @ Monterrey Institute of Technology and Higher Studies, Mexico City & frequent contributor to Global Research), “The Middle Eastern Powder Keg Can Explode at Anytime,” Global Research, January 13, 2009, pg. [[http://www.globalresearch.ca/index.php?context=va&aid=11762]]]</span>
+
+<span style="background-color: #ffffff;">China has become an important … </span><span style="background-color: #ffffff; font-size: 8pt;">the middle of a powder keg.</span>
+
+**<span style="background-color: #ffffff;">AQAP Plans To Acquire and Use CBWs in Attacks</span>**
+**<span style="background-color: #ffffff;">Baldor 11</span>** <span style="background-color: #ffffff; font-size: 8pt;">Counterterrorism Reporter at Associated Press (Lolita Baldor, February 14, 2011, “U.S. Plans to Train Yemeni Counter-Terrorism Unit”,[[http://www.cnsnews.com/news/article/us-plans-train-yemeni-counter-terrorism]])</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">Senior U.S. intelligence officials told Congress … , reportedly </span><span style="background-color: #ffffff;">is hiding in Yemen</span><span style="background-color: #ffffff; font-size: 8pt;">. </span>
+
+**<span style="background-color: #ffffff;">Bioweapons cause extinction</span>**
+<span style="background-color: #ffffff; font-size: 13pt;">Ochs 02</span><span style="background-color: #ffffff; font-size: 8pt;"> former president of the Aberdeen Proving Ground Superfund Citizens Coalition, member of the Depleted Uranium Task force of the Military Toxics Project, member of the Chemical Weapons Working Group [Richard Ochs, , June 9, 2002, “Biological Weapons Must Be Abolished Immediately,”[[http://www.freefromterror.net/other_articles/abolish.html]]]</span>
+
+<span style="background-color: #ffffff; text-decoration: none;">Of all the weapons of … </span><span style="background-color: #ffffff; font-size: 8pt;">? How slippery is this slope?</span>
+
+**<span style="background-color: #ffffff;">A Biological terrorist attack will occur this year</span>**
+**<span style="background-color: #ffffff;">AP 08</span>** <span style="background-color: #ffffff; font-size: 8pt;">Associated Press, On MSNBC Security section, (December 1, 2008, “Panel warns biological attack likely by 2013”,[[http://www.msnbc.msn.com/id/28006645/ns/us_news-security/t/panel-warns-biological-attack-likely/#.TtjGI2O5P1Q|http://www.msnbc.msn.com/id/28006645/ns/us_news-security/t/panel-warns-biological-attack-likely/#.TtjGI2O5P1Q]], DR. H)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">WASHINGTON — </span><span style="background-color: #ffffff;">The United States </span><span style="background-color: #ffffff; font-size: 8pt;">… </span><span style="background-color: #ffffff;">nuclear device</span><span style="background-color: #ffffff; font-size: 8pt;">," states the report. </span>
+
+<span class="Underline" style="background-color: #ffffff;">**<span style="text-decoration: none;">Nuclear War causes extinction</span>**</span>
+**<span style="background-color: #ffffff;">Extinction</span>**
+**<span style="background-color: #ffffff;">Mosher 11</span>**<span style="background-color: #ffffff; font-size: 8pt;"> Wired Science (Dave Mosher, February 25, 2011, “How one nuclear skirmish could wreck the planet”,[[http://www.wired.com/wiredscience/2011/02/nuclear-war-climate-change/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wiredscience+(Blog+-+Wired+Science)]], WEA)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">WASHINGTON — </span><span style="background-color: #ffffff;">Even a small nuclear exchange … </span><span style="background-color: #ffffff; font-size: 8pt;">are also very susceptible to UV.</span>
+
+<span class="Underline" style="background-color: #ffffff;">**<span style="text-decoration: none;">AIS and SAR causes quick interception of suspicious activities among the sea</span>**</span>
+<span class="Underline" style="background-color: #ffffff;">**<span style="text-decoration: none;">MDA </span>**</span><span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;">(“Security and Environmental Monitoring to Safeguard Your Investment”, [[http://www.mdaoilandgas.com/services/maritime-security-and-environmental-monitoring.cfm]], DR. H)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;">MDA can integrate space based </span><span style="background-color: #ffffff; text-decoration: none;">SAR</span><span style="background-color: #ffffff; font-size: 8pt; text-decoration: none;"> … </span><span style="background-color: #ffffff; text-decoration: none;">airborne or ship borne assets.</span>
+
+===Updates to this Version=== 
+**-No Port terrorism Scenario**
+
+**Al Qaeda regrouping leads to attacks in India sparking a nuclear indo-pak war causing extinction**
+**Dreazen** **10** <span style="font-size: 8pt;">(Yochi J. Dreazen, “Gates Warns of Militants in South Asia”, Wall Street Journal January 21, 2010, http://www.deccanchronicle.com/editorial/dc-comment/india-needs-360%C2%B0-terror-appraisal-659 ]</span>
+
+<span style="font-size: 8pt;"> It is clear that notwithstanding the numerous ... who may have trained at Lashkar-i-Taiba camps.</span>
+
+**Now is Key Timeframe to Act – Yemen is at the Breaking Point**
+**Steward 11** <span style="font-size: 8pt;">BS in IR, Washington D.C.-based military affairs and intelligence reporter, covered terrorism, foreign affair, reported from more than 30 countries, including Afghanistan, Iraq, Pakistan, Russia, Saudi Arabia, China and Egypt (Phil Stewart, March 22, 2011, “U.S. concerned about Yemen instability, Qaeda fight”, http://www.reuters.com/article/2011/03/22/us-yemen-usa-gates-idUSTRE72L3CL20110322)</span>
+
+<span style="font-size: 8pt;"> (Reuters) - Defense Secretary Robert </span>__Gates__<span style="font-size: 8pt;"> ...</span> __pushed his administration to breaking point.__
+
+===**UGA Arctic Conflict Scenario**=== 
+
+**<span style="font-family: Georgia,serif;">Arctic territorial competition is increasing—resource exploitation fuels competition</span>**
+**<span style="font-family: Georgia,serif;">Saran 2/1 </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Shyam Saran, Febuary 1, 2012, “India's stake in Arctic cold war”, [[http://www.thehindu.com/opinion/op-ed/article2848280.ece]], DR. H)</span>
+
+__<span style="font-family: Georgia,serif;">The five nations which ring the Arctic Ocean, namely the U.S. Canada, Denmark, Norway and Russia, disagree, though they themselves have competing territorial claims. The stakes are enormous:</span>__
+__<span style="font-family: Georgia,serif;">The Arctic Circle encloses 21 million … </span>__<span style="font-family: Georgia,serif; font-size: 8pt;">waters of a hitherto forbidden zone. </span>
+
+**Naval power is solves Arctic conflict—reassures Canadian-US Arctic alliance**
+**Posner 07** <span style="font-size: 8pt;">(Eric, professor of law at the University of Chicago, is co-author of "The Limits of International Law, “The New Race for the Arctic” http://online.wsj.com/article/SB118610915886687045.html?mod=opinion_main_commentaries)</span>
+__<span style="font-family: Georgia,serif;">Melting polar ice and the … </span>____or use of nuclear weapons.”__
+
+
+**Unchecked Arctic competition goes nuclear**
+**Staples 09**<span style="font-size: 8pt;">Rideau Institute: Danish Institute for International Studies (Steven Staples, August 10, 2009, “Steps toward an arctic nuclear weapon free zone”, http://www.diis.dk/graphics/Events/2009/Presentation%20Staples.pdf)</span>
+
+<span style="font-size: 8pt;"> The fact is, </span>__the Arctic is__<span style="font-size: 8pt;"> becoming </span>__a__<span style="font-size: 8pt;">n </span>__zone of …__ __use of nuclear weapons.”__
+
+===**UGA 1ac cards vs Heg bad team**=== 
+**-No Arctic conflict scenario**
+
+**We promise heg is good**
+**Pinker 9/24**-11, <span style="font-size: 8pt;">Steven, Professor of Psychology at Harvard University. “Violence Vanquished” Wall Street Journal, http://online.wsj.com/article/SB10001424053111904106704576583203589408180.html?mod=WSJ_hp_LEFTTopStories NEH)</span>
+
+<span style="font-size: 8pt;"> On the day this … </span>__enlightenment that made it possible.__
+
+
+**Empiricism is the most useful form of knowledge for policymakers—useful in making theories to shape policy**
+**Walt, 5**<span style="font-size: 8pt;">– Prof, Kennedy School of Government @ Harvard (Stephen M., Annu. Rev. Polit. Sci. 2005. 8:23–48, </span>__pg. 25-26,__<span style="font-size: 8pt;"> “The Relationship Between Theory and Policy in International Relations,” http://www.iheid.ch/webdav/site/political_science/shared/political_science/3452/walt.pdf)</span>
+
+__Policy decisions can be influenced by several … hermeneutical or interpretivist approaches.__
+
+
+**Positivism is best - its self-reflective, recognizes there’s no absolute truth, and uses observable regularities to inform action – focus on epistemology causes a retreat from policy relevance**
+**Houghton ’08** <span style="font-size: 8pt;">– Associate Professor of International Relations Theory at the University of Central Florida (David Patrick, “Positivism ‘vs’ Postmodernism: Does Epistemology Make a Difference?” International Politics (2008) 45)</span>
+
+<span style="font-size: 8pt;">As long ago as 1981, Yale Ferguson and Richard … </span><span class="Style1"> to be what divides the international relations scene today.</span>
+
+
+**Hegemony creates structural disincentives for war—theoretical and empirical evidence**
+**Wohlforth 09**<span style="font-size: 8pt;"> professor of government at Dartmouth (William, “Unipolarity, Status Competition, and Great Power War,” World Affairs, January, project muse)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">The upshot is a near scholarly consensus that unpolarity’s …</span>__<span style="color: #222222; font-family: Georgia,serif; font-size: 11pt;">are consistent with the theory’s expectations</span>____<span style="color: #222222; font-family: Arial,sans-serif; font-size: 11pt;">. </span>__

@@ -1,0 +1,477 @@
+[[toc]]
+=Affirmative= 
+=**<span style="font-family: Georgia,serif; font-size: 17pt;">Electric Vehicles Charging Infrastructure 1AC</span>**= 
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Plan:</span>**== 
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The United States federal government should substantially increase its investment in charging infrastructure for electric vehicles.</span>**
+
+
+
+
+
+
+==**<span style="color: #00000a; font-family: Georgia,serif; font-size: 13pt;">Inherency:</span>**== 
+**//<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">1. Lack of charging outlets is the major barrier for EV market penetration - only 3,300 exist and they are unevenly distributed</span>//**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Kemp</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">, 5/25/</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">12</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– Senior Market Analyst and writer for Reuters specializing in commodities and energy (John, “Column- Will US Federal Fleet Help Alternative Fuel Switch?,” Reuters, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.reuters.com/article/2012/05/25/column-kemp-cars-idUSL5E8GP8YG20120525]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">) //AMG//</span>
+
+//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Federal law defines alternative fuel […] not many in the rest of the country</span>//
+
+
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">2. Expiration of charging infrastructure tax credits threatens the nascent industry</span>**
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Heron 11</span>//**//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– journalist, author, online community manager, etc., covering electric vehicles from Silicon Valley (David, “Electric Vehicle charging station tax credits a victim of US Govt budget battles”, Torque News, 29 Dec 2011,</span>//[[http://www.torquenews.com/1075/electric-vehicle-charging-station-tax-credits-victim-us-govt-budget-battles|//http://www.torquenews.com/1075/electric-vehicle-charging-station-tax-credits-victim-us-govt-budget-battles//]]//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">BI</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The latest round of the U.S. Federal […] buy along with the electric car.</span>
+
+
+
+
+
+
+===**<span style="font-family: Georgia,serif; font-size: 13pt;">Economy:</span>**=== 
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">1. Economy is stalling - growth and jobs numbers prove</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Morici</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">, 6/4/</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">12</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">--- Professor of Economics at the Smith School of Business, University of Maryland (Peter, “Depressed by a US jobs stalemate,” </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.businessspectator.com.au/bs.nsf/Article/US-jobs-US-economic-recovery-US-unemployment-pd20120604-UWRHY?opendocument&src=rss]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The US economy added only […] small numbers of jobs were lost.</span>
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">We isolate two internal links to the economy. First is clean energy.</span>**
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">A. EV technology leadership can drive economic recovery by stimulating growth, manufacturing, and green jobs</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Greenwald and Nigro, 12</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– Judi Greenwald is the Project Director at the Center for Climate and Energy Solutions, and Nick Nigro is the Project Manager at the Center for Climate and Energy Solutions (“An Action Plan To Integrate Plug-in Electric Vehicles With The U.S. Electrical Grid”, Center for Climate Change and Energy Solutions, March, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.c2es.org/docUploads/PEV-action-plan.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)//AL//</span>
+
+//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">America’s reliance on imported oil […] thousands of jobs in the United States.</span>//
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Second is the auto industry.</span>//**
+
+
+
+**//<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">B. Auto industry is key to solid growth and produces a huge multiplier effect</span>//**
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Chandra and Homan 12</span>//**//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– reporters for Bloomberg News (Shobhana and Timothy R., “What’s Good for GM is Good for the Economy” Bloomberg BusinessWeek, May 17, 2012,</span>//[[http://www.businessweek.com/articles/2012-05-17/whats-good-for-gm-is-good-for-the-economy|//http://www.businessweek.com/articles/2012-05-17/whats-good-for-gm-is-good-for-the-economy//]]//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">ctc</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Now for the ripple effect […] suppliers and their employees.</span>
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">C. Economic decline leads to nuclear war</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Harris and Burrows 9</span>** <span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">- Matthew, PhD European History at Cambridge/Counselor in the National Intelligence Council (NIC), Jennifer, Member of NIC’s Long Range Analysis Unit (“Revisiting the Future: Geopolitical Effects of the Financial Crisis” </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.ciaonet.org/journals/twq/v32i2/f_0016178_13952.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">, AM)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Increased Potential for Global Conflict […] in a more dog-eat-dog world.</span>
+
+
+
+
+
+**<span style="color: #222222; font-family: Georgia,serif; font-size: 10pt;">D. </span>****<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Growth eliminates the only rational incentives for war</span>**
+
+**<span style="color: #222222; font-family: Georgia,serif; font-size: 10pt;">Gartzke 11</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– Associate Professor of Political Science at the University of California, San Diego PhD from Iowa and B.A. from UCSF (Erik, "SECURITY IN AN INSECURE WORLD," </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.cato-unbound.org/2011/02/09/erik-gartzke/security-in-an-insecure-world/|www.cato-unbound.org/2011/02/09/erik-gartzke/security-in-an-insecure-world/]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>
+
+<span style="color: #222222; font-family: Georgia,serif; font-size: 10pt;">Almost as informative as the decline </span><span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">[…] war becomes a durable anachronism.</span>
+
+
+
+
+
+
+
+== == 
+==**<span style="color: #00000a; font-family: Georgia,serif; font-size: 13pt;">Hegemony:</span>**== 
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">1. EVs are key to maintaining global competitiveness in the automobile industry – other countries are vying to take the lead</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Smith ’11 </span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– Writer for Market Urbanism, Forbes, Reason, and the National Review – specializes in the politics, economics, and history of urbanism (Stephen, “Obama’s Sprawl-Promoting Industrial Policy: Electric Cars,” Market Urbanism, August 27 2011, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://marketurbanism.com/2011/08/27/obamas-sprawl-promoting-industrial-policy-electric-cars/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MarketUrbanism+%28Market+Urbanism%29]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">) //AMG//</span>
+
+//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">During the past few decades […] Asian countries have done so as well</span>//
+
+
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">We isolate two internal links to heg. First is the industrial base.</span>//**
+
+
+
+**//<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">A. Maintaining global auto competitiveness is key to our industrial base and tech leadership</span>//**
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Ronis 06 </span>//**//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">STATEMENT OF DR. SHEILA RONIS, DIRECTOR MBA/MS PROGRAMS, WALSH COLLEGE; VICE PRESIDENT, NATIONAL DEFENSE UNIVERSITY FOUNDATION, TROY, MICHIGAN CHINA’S IMPACT ON THE U.S. AUTO AND AUTO PARTS INDUSTRIES HEARING BEFORE THE U.S.­CHINA ECONOMIC AND SECURITY REVIEW COMMISSION ONE HUNDRED NINTH CONGRESS SECOND SESSION _ July 17, 2006</span>//[[http://www.uscc.gov/hearings/2006hearings/transcripts/july_17/06_07_17_trans.pdf|//http://www.uscc.gov/hearings/2006hearings/transcripts/july_17/06_07_17_trans.pdf//]]
+
+//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">What isn't understood is the reality […] we need to explore this issue as a nation.</span>//
+
+
+
+**//<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Second is electrical vehicles.</span>//**
+
+
+
+**//<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">B. Development of EVs and batteries is vital to communication and creating a small military footprint</span>//**
+
+**//<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">Clark, ‘8</span>//**//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">- retired Army general and former supreme allied commander of NATO, is a senior fellow at the Burkle Center for International Relations at the University of California at Los Angeles. (Wesley K., “What’s Good for G.M. Is Good for the Army”, New York Times, November 16, 2008, </span>//[[http://www.nytimes.com/2008/11/16/opinion/16clark.html?_r=3|//http://www.nytimes.com/2008/11/16/opinion/16clark.html?_r=3//]]//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">) </span>//<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">CH</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">AMERICA’S automobile industry is ] […] fundamentally, about national security.</span>
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">C. Hegemony solves all wars</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Kagan, 7</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">- senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">This is a good thing, and it should continue […] global involvement will provide an easier path.</span>
+
+
+
+
+
+
+
+
+
+
+==**<span style="color: #00000a; font-family: Georgia,serif; font-size: 13pt;">Solvency:</span>**== 
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">1. EV price will no longer be a barrier – comparable to conventional cars by 2014 – and battery prices will only continue to fall</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;"> **Kelly, 10** – Assistant Secretary of DOE/Ph.D Physics Harvard University (Henry, February 23, Hearing Before a Subcommittee on the Committee on Appropriations, United States Senate, “Opportunities and Challenges Presented in Increasing the Number of Electric Vehicles in the Light Duty Automotive Sector,” </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 10pt;">[[http://www.gpo.gov/fdsys/pkg/CHRG-111shrg56643/pdf/CHRG-111shrg56643.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">, p. 13)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The promise of advanced lithium-ion […] can become viable products. </span>
+
+
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">2. Solving the refueling problem gets consumers on board – charging stations will be so profitable that they can subsidize EVs</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Thompson 09</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– Contributing Editor NYT/Specializes in Technology (Clive, “Batteries Not Included”, New York Times, April 19, 2009, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://solar.gwu.edu/index_files/Resources_files/NYT_BatteriesNotIncluded.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">.)//HLR </span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The only way to get consumers […] few hundred a month for unlimited driving.</span>
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">3. Fast-charging technology already exists - government investment is needed to develop the new market</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Kaplan et al., 10</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">– *affiliated with Frontier Group, a think tank that issues issue experts, writers and analysts to produce ideas and research to promote a cleaner environment and a fairer and more democratic society, **Brad Heavner, B.A. from the University of Michigan, Senior Policy Advisor for Environment America and State Director of Environment Maryland, AND** *Rob Sargent, graduate of the University of Vermont, Energy Program Director for Environment America and oversees policy and strategy development for energy and global warming campaigns throughout the U.S., more than two decades of experience leading a wide range of environmental and public interest campaigns (Siena, “Charging Ahead: Curbing Oil Consumption with Plug-in Cars,” Environment Maryland Research & Policy Center, June, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.environmentmaryland.org/sites/environment/files/reports/Charging-Ahead.pdf)/BI|http://www.environmentmaryland.org/sites/environment/files/reports/Charging-Ahead.pdf)//BI]]</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">If a family is relying on an electric […] plug-in vehicle market is developing</span>
+
+
+
+
+
+**<span style="color: #00000a; font-family: Georgia,serif; font-size: 10pt;">4. Technology is already available – infrastructure support enables a whole new transportation system in just a few years</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;"> **Smith, ’10** - FedEx CEO/Member of Electrification Coalition (Frederick, February 23, Hearing Before a Subcommittee on the Committee on Appropriations, United States Senate, “Opportunities and Challenges Presented in Increasing the Number of Electric Vehicles in the Light Duty Automotive Sector,” </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 10pt;">[[http://www.gpo.gov/fdsys/pkg/CHRG-111shrg56643/pdf/CHRG-111shrg56643.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">, p. 22-23)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">This is not a question of technology […] and a matter of execution.</span>
+
+
+
+
+
+
+
+
+=**<span style="font-family: Georgia,serif; font-size: 17pt;">Mississippi Reroute 1AC</span>**= 
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Inherency</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Every thousand years the Mississippi changes its course to the Gulf of Mexico, currently it's trying to reroute itself via the Atchafalaya River, but the Army Corps of Engineers is just barely stopping it now </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Lewis, '09</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Thomas, adjunct instructor, Department of Mass Communication Frostburg State University, critically acclaimed author, writer for National Wildlife Magazine and The World Almanac, Brace For Impact, Outskirts Press, 10/9/09 TD)</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">There is an event coming to […] it is only prudent to prepare for it.</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">River control destroys domestic agriculture – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Sosnowski, 2011</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">,</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">Alex, Expert Senior Meteorologist, “Army Corps of Engineers Blast Mississippi River Levee” [</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.accuweather.com/en/weather-news/record-flooding-along-lower-mi/49095]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">]</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">As record flooding continues along the Mississippi River […] cities being flooded by muddy inundations.</span>
+
+
+
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Plan:</span>**== 
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The USFG will re-route the Mississippi River to reach the Gulf of Mexico via the Atchafalaya River. The Army Corps of Engineers should construct the necessary infrastructure to make the Atchafalaya a safe outlet and eliminate the Old River Control Structure. We reserve the right to clarify in cross-ex.</span>**
+
+
+
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Solvency</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Re-routing is good for the environment and industry – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Alderman ‘11 </span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Richard Alderman, “The Consequences Of Controlling A River Course”, American Rivers, 5/8/11, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.americanrivers.org/newsroom/blog/jstrickland-20110508-the-consequences-of-controlling-river-course.html]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">, date accessed- 7/5/11 MC)</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">However, in ecological terms, the Louisiana coast […] and commercial fishery integrity of the system.</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">AND, allowing the river to re-route itself destroys Gulf industry – only a gradual, guided transition solves – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Offutt, 2011</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">[Steve Offutt, environmental consultant behind the Energy Star program, head of the EPA's SmartWay program, MBA from UPenn's Wharton School of Business, “When the Mississippi River Finally Wins. Let’s Start Planning,” </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.steveoffutt.com/2011/06/when-mississippi-river-finally-wins.html]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">, accessed 7/3/2012] TD</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">This change of route will be devastating […] Atchafalaya in advance of the full change.</span>
+
+
+
+
+
+
+
+== == 
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Food Adv</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The 2011 flood makes flooding in the region inevitable; more floods will cause a spike in food prices. Amadeo, 2012</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">[Kimberly Amadeo, writer for the US Economy Guide, “Mississippi River Flooding,” About.com, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://useconomy.about.com/od/criticalssues/a/Mississippi-River-Floods.htm]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">]</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">How much damage do Mississippi River floods cause […] but provides boon to fertilizer companies</span>
+
+
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 10pt;">Food price spikes cut off food supplies to a majority of the globe.</span>**
+
+**<span style="font-family: Georgia,serif; font-size: 10pt;">Brown, '07</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Lester R., Director – Earth Policy Institute, “Update 65”, 3-21, </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.earth-policy.org/Updates/2007/Update65.htm]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;"> TD)</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Urban </span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">food </span><span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Protests in response […] consumption below the survival level</span>
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Food is a basic human right, necessary for the right to life. Providing food is a moral imperative equal to preserving all other rights</span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;"> **UN Universal Charter of Human rights, 1948** (</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 10pt;">[[http://www.un.org/en/documents/udhr/index.shtml|http://www.un.org/en/documents/udhr/index.shtml#a11]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">)Article 25.</span>
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">(1) Everyone has the right to […] shall enjoy the same social protection.</span>
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Violation of human rights is a prerequisite to dehumanization</span>**
+
+**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">Esmeir 06</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;"> (Esmeir, Samera LL.M., PhD, New York University Associate Professor teaching the intersection of legal and political thought, Middle Eastern history and colonial and post-colonial studies. "On Making Dehumanization Possible." Oct. 2006</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 10pt;">[[http://urbanstudiesprogram.files.wordpress.com/2011/07/pages-from-esmeir-human.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">)</span>
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">Second, the transformation of humanity […] claims jurisdiction over the declaration of this status.</span>
+
+
+
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Shipping Adv</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">The Mississippi Gulf area is essential to the international export of agricultural products and oil</span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Burkett et al. 08</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(What are the Implications of Climate Change and Variability for Gulf Coast Transportation? In: Impacts of Climate Change and Variability on Transportation Systems and Infrastructure: Gulf Coast Study, Phase I. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research Department of Transportation. 2-1 </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.climatescience.gov/Library/sap/sap4-7/final-report/sap4-7-final-ch4.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">; AR)</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">In addition, the central Gulf Coast’s […] domestic Outer Continental Shelf oil and gas</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Continued flooding caused by failure to re-route collapses multiple major sectors of the economy – shipping, farming, energy, and manufacturing – drives us back into recession – </span>**
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">Christine </span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Hauser</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">Published: May 17,</span><span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;"> **2011** </span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">Hauser, Christine. "Flooding Takes Vast Economic Toll, and It's Hardly Done." The New York Times. The New York Times, 18 May 2011. Web. 05 July 2012. <</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.nytimes.com/2011/05/18/us/18river.html]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">>. Hauser received a B.A. degree in Middle Eastern Studies from the University of Colorado and a M.A. degree on Middle Eastern Languages and Cultures from Columbia University. Hauser became a reporter for the continuous news desk at The New York Times in September 2003, JB</span>
+
+
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">The swollen Mississippi River […] said Kevin Allexon, a company spokesman. </span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Economic decline causes war – scholarly consensus – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Royal, 2010</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Jedediah, Director of Cooperative Threat Reduction at the U.S. Department of Defense, 2010, Economic Integration, Economic Signaling and the Problem of Economic Crises, in Economics of War and Peace: Economic, Legal and Political Perspectives, ed. Goldsmith and Brauer, p. 213-215 TD)</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Less intuitive is how periods of […] economic-security debate and deserves more attention.</span>
+
+
+
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Oil Adv</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Self-reroute destroys the US petrochemical industry – Sargent, 2011</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">[William Sargent, William Sargent is a Nova consultant, blogger, and author of over a dozen books about science and the environment, “Letting Mississippi run its natural course could save New Orleans from hurricanes,” Christian Science Monitor, 5/19/2011, CG]</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">For thousands of years[…] Baton Rouge, with unforeseen consequences.</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Oil shortages cause US-China war – lateral pressure theory proves – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Hatemi and Wedeman 07</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Hatemi, professor at the University of Nebraska-Lincoln and Wedeman, associate professor and chair of Asian Studies at the University of Nebraska-Lincoln, 2007 ( Peter Hatemi is a professor at the University of Nebraska-Lincoln. Andrew Wedeman is associate professor and chair of Asian Studies at the University of Nebraska-Lincoln., China Security, Vol. 3 No. 3 Summer 2007, pp. 95 - 118 2007 World Security Institute, “Oil and Conflict in Sino-American Relations” accessed 6/27/11 </span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.wsichina.org/cs7_5.pdf]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">)</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Power transition theory is not the only […] China equal access to oil supplies.</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">China-U.S. War causes extinction – </span>**
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Takai, '09</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">Mitsuo Takai -- retired colonel and former researcher in the military science faculty of the Staff College for Japan’s Ground Self Defense Force, (2009, “U.S.-China nuclear strikes would spell doomsday”, October 7,</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.upiasia.com/Security/2009/10/07/us-china_nuclear_strikes_would_spell_doomsday/7213/]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">) </span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">What would happen if China […] is worth heeding by nuclear hard-liners.</span>
+
+
+
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 13pt;">Environment Adv</span>**== 
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Squo river control efforts destroy the Louisiana marshlands and coastal ecosystem – only re-route solves – </span>**
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Melville, '06</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Kate, VP at Mullen industries and professional freelance journalist, 5/15, scienceagogo.com, “Redirect River to Save Louisiana, Says Engineer”,</span><span style="color: blue; font-family: Arial,sans-serif; font-size: 6pt;">[[http://www.scienceagogo.com/news/20060414235232data_trunc_sys.shtml]]</span><span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;"> TH)</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Vince Neary, an associate professor […] the official start of hurricane season</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Louisiana’s coastal wetlands are key to biodiversity – they're the basis of many food webs – </span>**
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;"> **CWPPRA, '97** (coastal wetlands planning, protection, and restoration act website, Lacoast.gov; , 4/97 TH)</span>
+
+<span style="background-color: white; font-family: Arial,sans-serif; font-size: 12pt;">Natural wetland functions that produce […] direct effects on local communities and cultures.</span>
+
+
+
+
+
+**<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">Loss of biodiversity independently causes human extinction – each new species loss magnifies the risk – Diner, '94</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 6pt;">(Maj. David, Instructor at the US Army JAG School, 143 Mil. L. Rev. 161)</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 10pt;">1. Why Do We Care? -- No species has […] mankind may be edging closer to the abyss.</span>
+
+=**<span style="font-family: Georgia,serif; font-size: 16pt;">V-22 Osprey 1AC</span>**= 
+
+==**<span style="font-family: Georgia,serif; font-size: 12pt;">Observation One is Inherency</span>**== 
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey has lived up to its hype but Congress has refused to fund the last phase of the project. Thompson, 2011</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[Dr. Loren B. Thompson, Loren B. Thompson is Chief Operating Officer of the non-profit Lexington Institute and Chief Executive Officer of Source Associates, a for-profit consultancy. Prior to holding his present positions, he was Deputy Director of the Security Studies Program at Georgetown University and taught graduate-level courses in strategy, technology and media affairs at Georgetown, “V-22 Is The Safest, Most Survivable Rotorcraft The Marines Have,” 16 February 2011, [[http://www.lexingtoninstitute.org/v-22-is-the-safest-most-survivable-rotorcraft-the-marines-have?a=1&c=1171]]]</span><span style="font-family: Georgia,serif; font-size: 12pt;"> CG</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">Over the last ten […]</span>__<span style="font-family: Georgia,serif; font-size: 12pt;">stay on track</span>__<span style="font-family: Georgia,serif; font-size: 12pt;">.</span>
+
+
+
+
+
+==**<span style="font-family: Georgia,serif; font-size: 12pt;">Plan</span>**== 
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Thus the Plan: To increase the investment in transportation infrastructure the USFG will fully fund production of the V-22 Osprey aircraft. The Osprey will be made the primary aircraft for active transport in the United States Military in addition to being the aircraft of choice for responding to disasters within the United States. Additionally, the USFG will also make the V-22 Osprey available for purchase to foreign governments. We reserve the right to fiat and will clarify in CX and all affirmative speeches. </span>**
+
+==**<span style="font-family: Georgia,serif; font-size: 14pt;">Next is Solvency</span>**== 
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey key to efficient military deployment and maintaining deterrence posture. Fackler 12</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">(Fackler, Martin. "U.S. Sends New Aircraft to Okinawa, Despite Fierce Opposition." The New York Times. The New York Times, 02 Oct. 2012. </span><span style="color: windowtext; font-family: Georgia,serif; font-size: 6pt; text-decoration: none;">[[http://www.nytimes.com/2012/10/02/world/asia/united-states-military-sends-ospreys-to-okinawa-despite-fierce-opposition.html?_r=3&]]</span><span style="font-family: Georgia,serif; font-size: 6pt;"> ) </span><span style="font-family: Georgia,serif;">RR</span>
+__<span style="font-family: Georgia,serif;">The first […]hot spots like Taiwan</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> and a group of disputed islands in the East China Sea known as the Senkaku in Japan and the Diaoyu in China.</span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey aircraft can help with rescue missions and the delivery of precious supplies including artillery, medical supplies, and troops while assisting with disaster response. Lenzo, 2011</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[Lance Cpl. Timothy Lenzo, U.S. Marine combat correspondent and DVIDS Journalist, “Dawn Blitz prepares Marines for rapid crisis response,” DVIDShub.net, 28 September 2011, [[http://www.dvidshub.net/news/77741/dawn-blitz-prepares-marines-rapid-crisis-response#.UOE2xLYVwy7|http://www.dvidshub.net/news/77741/dawn-blitz-prepares-marines-rapid-crisis-response#.UOE2xLYVwy7]]]</span><span style="font-family: Georgia,serif;"> CG</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">CH-53E Super Stallions […] that,” said Rader</span><span style="font-family: Georgia,serif;">.</span>
+==**<span style="font-family: Georgia,serif; font-size: 18pt;">Advantage One is Disaster Strikes</span>**== 
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Iran poses a bioterrorist threat Globally</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Bansak 11</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[Kirk C. Bansak is a graduate student at the¶ Fletcher School of Law and Diplomacy at¶ Tufts University, 11/1/2011, Bulletin of The Atomic Scientist, Managing networks of risk:¶ A tailored approach to Iran’s¶ biological warfare threat¶ potential, EbscoHost] </span><span style="font-family: Georgia,serif;">ER</span>
+<span style="font-family: Georgia,serif; font-size: 6pt;">While Iran’s strategic […](Central Intelligence¶ Agency, 2003).</span>
+
+
+
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Specifically, Bioterror attack in 2013</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Graham and Talent 2010</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[Chairman Bob Graham and Vice Chairman Jim Talent,</span>
+<span style="font-family: Georgia,serif; font-size: 6pt;">Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism, “Hearing on the Weapons of Mass Destruction Prevention and Preparedness Act of 2010”, </span><span style="color: windowtext; font-family: Georgia,serif; font-size: 6pt; text-decoration: none;">[[http://www.heritage.org/research/testimony/hearing-on-the-weapons-of-mass-destruction-prevention-and-preparedness-act-of-2010]]</span><span style="font-family: Georgia,serif; font-size: 6pt;">] </span><span style="font-family: Georgia,serif;">ER</span>
+<span style="font-family: Georgia,serif; font-size: 6pt;">The Commission's Report […] nation state from its use.</span>
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey aircraft are k2 cutting down response time and sanitizing large scenes; this helps with disaster response. Dwyer, 2010</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[Captain Dwyer Osprey pilot; experienced under multiple missions, “The Osprey: Bedrock For Con-Ops Change,” 8 October 2010, [[http://www.sldinfo.com/new-river-update-on-the-osprey-osprey-speed-and-range-enables-change/]]]</span><span style="font-family: Georgia,serif;"> CG</span>
+__<span style="font-family: Georgia,serif;">Because of speed[..]</span>__<span style="font-family: Georgia,serif;"> __amazing__ </span><span style="font-family: Georgia,serif; font-size: 8pt;">for me</span><span style="font-family: Georgia,serif;">.</span>
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Quick Response k2 stop Spread</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Tyshenko 07 </span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[MICHAEL G, PhD, MPA, McLaughlin Center for Population Health Risk Assessment, Bioethics, “MANAGEMENT OF NATURAL AND BIOTERRORISM INDUCED PANDEMICS” EbscoHost] </span><span style="font-family: Georgia,serif;">ER</span>
+<span style="font-family: Georgia,serif; font-size: 6pt;">Given the increasing […]</span>__<span style="font-family: Georgia,serif;">greatly reduced.</span>__
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Not containing a biological attack leads to extinction</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Ochs 02</span>** <span style="font-family: Georgia,serif; font-size: 6pt;">[MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park [Richard, “BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY,” Jun 9, </span><span style="color: windowtext; font-family: Georgia,serif; font-size: 6pt; text-decoration: none;">[[http://www.freefromterror.net/other_articles/abolish.html]]</span><span style="font-family: Georgia,serif; font-size: 6pt;">] </span><span style="font-family: Georgia,serif;">ER</span>
+__<span style="font-family: Georgia,serif;">Of all the […] </span>__<span style="font-family: Georgia,serif; font-size: 6pt;">bioweapons could cause</span><span style="font-family: Georgia,serif;">. </span>
+
+==**<span style="font-family: Georgia,serif; font-size: 18pt;">Advantage Two is Hegemony</span>**== 
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey are the future of military forward deployment; the time is now</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Rholes 11 </span>**<span style="font-family: Georgia,serif; font-size: 6pt;">(Ryan Rholes combat correspondent in support of the International Security Assistance Forces "From Concept to Reality: MV-22 "Osprey" Proves Itself in Combat." Boeing: Defense, Space & Security 2011 http://www.boeing.com/ospreynews/2011/issue_02/proven_s31_p2.html) </span><span style="font-family: Georgia,serif;">RR</span>
+__<span style="font-family: Georgia,serif;">The</span>__<span style="font-family: Georgia,serif; font-size: 6pt;"> MV-22 </span>__<span style="font-family: Georgia,serif;">Osprey</span>__<span style="font-family: Georgia,serif; font-size: 6pt;">[…]</span>__<span style="font-family: Georgia,serif;"> get into action.</span>__
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">We isolate three internal links for why Osprey is key to United States Hegemony; first is Air Superiority</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey provides the military with capabilities unmatched by any other aircraft; it can improve military functions substantially. Pike, 2011</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[John Pike, site maintainer for GlobalSecurity.org, “V-22 Osprey,” GlobalSecurity.org, 7 July 2011, [[http://www.globalsecurity.org/military/systems/aircraft/v-22.htm]]]</span><span style="font-family: Georgia,serif;"> CG</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">The aircraft is […] future maintenance actions</span><span style="font-family: Georgia,serif;">.</span>
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">The second internal link is Military Readiness</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">O</span>****<span style="font-family: Georgia,serif; font-size: 14pt;">sprey usage key to U.S. military readiness</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Braganca 12</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">(Braganca, Eric. Lieutenant Colonel Eric Braganca, USAF (Ret.), is a Consultant on Joint Operations with Whitney Bradley and Brown. His last military assignment was as Chief Systems Engineer for the CV-22 in the Joint Program Office."The V-22 Osprey:From Troubled Past to Viable and Flexible Option." JFQ-66: The V-22 Osprey. N.p., Oct. 2012. Web. 25 Dec. 2012. </span><span style="color: windowtext; font-family: Georgia,serif; font-size: 6pt; text-decoration: none;">[[http://www.ndu.edu/press/v-22-osprey.html]]</span><span style="font-family: Georgia,serif; font-size: 6pt;">) </span><span style="font-family: Georgia,serif;">RR</span>
+<span style="font-family: Georgia,serif; font-size: 6pt;">Combat operations are […] reliance on sometimes questionable allies is </span>
+
+**<span style="font-family: Georgia,serif; font-size: 14pt;">The third internal link is Power Projection</span>**
+**<span style="font-family: Georgia,serif; font-size: 14pt;">Osprey aircraft can be used for a variety of missions in multiple branches of the military; this improves power projection. Pike, 2011</span>**<span style="font-family: Georgia,serif; font-size: 6pt;">[John Pike, site maintainer for GlobalSecurity.org, “V-22 Osprey,” GlobalSecurity.org, 7 July 2011, [[http://www.globalsecurity.org/military/systems/aircraft/v-22.htm]]]</span><span style="font-family: Georgia,serif;"> CG/RR</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">The V-22 "Osprey" […]</span>__<span style="font-family: Georgia,serif;"> maximum extent possible</span>__<span style="font-family: Georgia,serif;">.</span>
+
+
+
+=Negative= 
+Contact George Hill at <span style="line-height: 1.5;">gwh666777@gmail.com or Jaryn Phillips at jphill1015@gmail.com for neg information</span>
+
+
+[[include page="space.template.Footer"]]

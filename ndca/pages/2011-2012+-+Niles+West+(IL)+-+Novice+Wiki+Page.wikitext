@@ -1,0 +1,267 @@
+[[toc]]
+=Affirmative= 
+
+==*READ THIS NOTE*== 
+
+The affirmatives below are the generic "starter" 1AC's that they began the season with - I cannot guarantee that the 1AC's below are the exact ones that will be read in the round for, as we know, novices grow faster over the season and thus some will have the time to add more things. Please feel free to ask the team that is being debated from Niles West if the 1AC they plan on reading is the same as the one that you see here. They may actually have their own wiki, in which case you should go look at that one instead of this one.
+
+Good luck!
+==Asteroids Affirmative== 
+
+==Plan Text== 
+**The United States federal government should increase its exploration of near-Earth objects and its development of near-Earth object deflection systems, including telescopes, radar, and deflection technology.**
+
+==Contention 1: Inherency== 
+
+**Near-Earth Object detection is underfunded --- preventing NASA from beginning critical projects**
+<span class="Heading3Char">New Yorker 11</span> (“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+
+<span style="font-size: 8pt;">At the moment, the number of asteroids ...</span><span class="underline"> would be "too </span><span class="StyleBoldUnderline">costly."</span><span style="font-size: 8pt;">)</span>
+
+
+**<span class="StyleStyleBold12pt">Current //detection// and //deflection// measures will fail</span>**
+
+<span class="Heading3Char">New Yorker 11</span> (“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+
+<span style="font-size: 8pt;">That was a long time ago, even ...</span><span class="underline"> missions.' The issue's an </span>//orphan//<span style="font-size: 8pt;">."</span>
+
+===<span style="font-size: 11px; line-height: 16px;"> Advantage 1: NEO Strikes</span>=== 
+
+**Huge numbers of NEOs could hit at any time without warning and cause extinction --- lack of detection technology leaves us helpless**
+<span class="Heading3Char">NRC 10</span> (National Research Council, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies”, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.ed u/catalog.php?record_id=12842)
+
+2. In December 2004, astronomers ...<span class="underline"> occurrence in the relatively </span>//near future//.
+
+**Strikes are likely --- two distinctions:**
+
+**1st --- //__Long-Period Comets__// --- they’re likely, evade current defenses, and risk extinction**
+<span class="StyleStyleBold12pt">IAA 9</span> (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+
+Detection of Long-Period Comets ... before one impacts the Earth.
+
+**2nd --- //__Small NEOs__// --- they’re extremely frequent and pass through current detection**
+<span class="StyleStyleBold12pt">Binzel 11</span> (Richard, Professor of Planetary Sciences – MIT, “Richard Binzel on Near-Earth Asteroids”, Space Daily, 7-1, http://www.spacedaily.com/reports/Richard_Binzel_on_near_Earth_asteroids_999.html)
+
+Actually, <span class="underline">asteroids of this size ...</span> be caught in their search pattern.
+
+**It’s __try-or-die__ --- comet or asteroid impact is __inevitable__**
+<span class="StyleStyleBold12pt">Verschuur 96</span> (Gerrit, Adjunct Professor of Physics – University of Memphis, Impact: The Threat of Comets and Asteroids, p. 158)
+
+In the past few years, the comet ... //nature//<span class="underline"> that will determine our fate</span>.
+
+**The impact is __extinction__ --- //high magnitude// and //aperiodic strikes// shatter traditional considerations of “timeframe” and mean we should treat NEO threats as __immanent threats__**
+<span class="Heading3Char">Brownfield 4</span> (Roger, Gaishiled Project, “A Million Miles a Day”, Presentation at the Planetary Defense Conference: Protecting Earth From Asteroids, 2-26, [[http://www.airpower.maxwell.af.mil/airchronicles/cc/france2.html?pageid=406&gTable=%20Paper&g|http://www.aiaa.org/content.cfm?pageid=406&gTable= Paper&g]] ID=17092)
+
+<span style="font-size: 6pt;">Once upon a time there was a Big Bang ... expectation... and its attendant fear. </span>
+
+
+**//Undetected// small objects trigger military early-warning systems, sparking accidental nuclear war**
+
+<span class="Heading3Char">David 2</span> (Leonard, Senior Space Writer – Space.com, “First Strike or Asteroid Impact?”, 6-6, http://abob.libs.uga.edu/bobk/ccc/cc060702.html)
+
+<span style="font-size: 8pt;">Military strategists and space scientists ... and </span><span class="underline">detect small asteroids</span><span style="font-size: 8pt;">, he said.</span>
+
+
+**That escalates to __global nuclear war__**
+
+<span class="Heading2Char3">Forrow 98</span> (Lachlan, MD, et al, “Accidental Nuclear War – A Post-Cold War Assessment”, New England Journal of Medicine, <span class="a">iis-db.stanford.edu/pubs/20625/acciden_nuke_war.pdf)</span>
+
+<span style="font-size: 9pt;">Earlier assessments have documented ...</span><span class="Style11pt"> indirect </span>//casualties worldwide//<span class="Style11pt">. </span>
+
+===<span class="Style11pt"> Advantage 2: Nuclear Option</span>=== 
+
+
+**U.S. //attempts// at NEO deflection are __inevitable__ --- the only question is //what form// it’ll take**
+
+<span class="StyleStyleBold12pt">Koplow 5</span> (Justin, JD Candidate – Georgetown University Law Center, Georgetown International Environmental Law Review, Lexis)
+
+<span style="font-size: 8pt;">C. ROCKS NOT ROCKETS ... deals and understandings. </span>
+
+
+**Nuclear deflection will be used now --- only the combination of detection and deflection forces the U.S. away**
+
+<span class="Heading3Char">Chapman 6</span> (Clark, Senior Scientist – Southwest Research Institute Dept. of Space Studies, and Member of the Board – B612 Foundation, “Critique of "2006 Near-Earth Object Survey and Deflection Study: Final Report" Published 28 Dec. 2006 by NASA Hq. Program Analysis & Evaluation Office”, http://www.b612foundation.org/papers/NASA-CritChap.doc)
+
+
+
+Furthermore, <span class="underline">the Report takes ...</span> the techniques in our tool-kit.
+
+**Nuclear deflection //fails// and sends warheads //back to Earth// --- risks extinction**
+<span class="StyleStyleBold12pt">IAA 9</span> (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+
+There is a persistent notion ... used to get them to the NEO (see ref. 4).
+
+**The plan solves the “nuclear option” --- and even if it doesn’t, radar and telescopes provide data to make it effective**
+<span class="StyleStyleBold12pt">Schweickart 4</span> (Russell, Chair of the B612 Foundation, former astronaut, Executive Vice President of CTA Commercial Systems, Inc. and Director of Low Earth Orbit (LEO) Systems and research, and scientist at the Experimental Astronomy Laboratory of the Massachusetts Institute of Technology (MIT), “Asteroid Deflection; Hopes and Fears,” Aug., Presented at the World Federation of Scientists Workshop on Planetary Emergencies, Erice, Sicily, August 2004 http://www.b612foundation.org/papers/Asteroid_Deflection.doc)
+
+<span class="underline">The nuclear explosive options ... Earth from asteroid impacts.</span>
+
+==<span class="underline"> Contention 2: Solvency</span>== 
+
+
+**Plan allows new telescopes, radar, and development of deflection tech**
+
+<span class="Heading3Char">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span style="font-size: 8pt;">The committee outlined three ... characterization and </span><span class="underline">mitigation</span><span style="font-size: 8pt;">.</span>
+
+
+**Research on deflection methods //now// is key to effectiveness --- detection alone means tech will be undeveloped and untested**
+
+<span style="font-size: 12pt;">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span style="font-size: 8pt;">WARNING TIME FOR MITIGATION </span>...<span style="font-size: 8pt;"> the most likely one.</span>
+
+
+**Combination of ground and space-based observations is key --- they provide complementary data necessary to accurately deflect**
+
+<span class="StyleStyleBold12pt">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span class="underline">Combined ground- and space-based surveys ...</span><span style="font-size: 6pt;"> change in risk over that time.</span>
+
+
+----
+
+----
+
+----
+
+
+==<span style="font-size: 11pt;">SPS Affirmative</span>== 
+
+==Plan Text== 
+
+**Plan: The United States federal government should deploy four space-based solar power satellites.**
+==Contention 1: Inherency== 
+
+**Lack of federal investment has undermined SPS development**
+**Cox, 3/26**
+[William John, retired prosecutor and public interest lawyer, author and political activist, The Peoples Voice, [[http://www.thepeoplesvoice.org/TPV3/Voices.php/2011/03/26/the-race-for-space-solar-energy]], BJM]
+
+Space-solar energy is the ...<span class="UnderlineChar"> futuristic space projects</span>.
+
+===Advantage 1: Development=== 
+
+**Space militarization increasing inevitably, US military and commercial assets are at risk of ASAT attacks**
+**Redifer, 11** - LtCol, USMC, paper submitted in fulfillment of a degree from the Air War College at Air University (Stephen, “TAKING THE INITIATIVE – PROTECTING US INTERESTS IN SPACE ,” 2/16,
+<span class="Underline">[[https://www.afresearch.org/skins/rims/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=downloadpaper&objectid=be97b3ea-7800-44ee-b6ff-76dcdb7c2960&rs=PublishedSearch]]</span>
+
+The execution of such tasks ... __defending its equities in space__.
+
+**The current space race risks a space Pearl Harbor against U.S. space assets – this will collapse the global economy and hegemony**
+**Choong, 8 -** doctorate in strategic studies at the Australian National University (William, The Straits Times, 3/24, “A Pearl Harbor in space?”, lexis)
+
+__In January last year, China <span style="font-size: 11px; line-height: 16px;">...</span>__Congressional testimony last month.
+
+**Economic collapse causes global war**
+**Auslin, 9** – resident scholar at AEI (Michael “Averting Disaster”, The Daily Standard,<span class="apple-converted-space"> 2/6, </span>http://www.aei.org/article/100044
+
+As they deal with a collapsing ... __international systems in the past__.
+
+<span class="Underline">**Heg key to prevent arms races, miscalc, competitors and new threats**</span>
+**Khalilzad 11** <span style="font-size: 8pt;">(Zahlmay was the [[http://en.wikipedia.org/wiki/United_States_Ambassador_to_the_United_Nations|United States Ambassador to the United Nations]] under President [[http://en.wikipedia.org/wiki/George_W._Bush|George W. Bush]]. He has been involved with [[http://en.wikipedia.org/wiki/Politics_of_the_United_States|U.S. policy makers]] at the [[http://en.wikipedia.org/wiki/White_House|White House]],[[http://en.wikipedia.org/wiki/State_Department|State Department]] and [[http://en.wikipedia.org/wiki/The_Pentagon|Pentagon]] since the mid-1980s. [[http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad?page=2]])</span>
+
+<span style="font-size: 8pt;">American retrenchment could have ...</span> facing Chinese hegemony and aggression.
+
+**Vulnerability alone forces preemption and miscalc**
+**Tellis, 7** - Senior Associate at the Carnegie Endowment for International Peace (Ashley, Survival, Autumn, “China’s Military Space Strategy”, ingenta)
+
+Finally, __the growing Chinese ...__ __defence arms race, and win__.
+
+**Satellite hardening and reconstitution capabilities are the only thing that can prevent a preemptive ASAT attack**
+**Kueter, 07 -** is president of the George C. Marshall Institute, a nonprofit think tank dediicated to science and technology in public policy (Jeff, New Atlantis, “China's Space Ambitions -- And Ours,” Spring, lexis)
+
+On January 11, 2007, a ... of American space assets.
+
+**SSP allows the U.S. to maintain space control – it can harden satellites, make them more survivable and reconstitute lost assets rapidly**
+**Ramos 2k** – US Air Force Major, Thesis submitted for the AIR COMMAND AND STAFF COLL MAXWELL Air Force Base (Kim, “Solar Power Constellations: Implications for the United States Air Force,” April, <span style="color: black; text-decoration: none;">[[http://handle.dtic.mil/100.2/ADA394928]]</span>)
+
+**Space**
+<span style="font-size: 6pt;">In addition to the terrestrial ... </span>__<span style="background-color: yellow;"> as well as transfer data</span>__<span style="background-color: yellow;">.</span>
+
+
+**Reconstitution**
+<span style="font-size: 6pt;">As outlined in Air University study ... satellites which facilitates rapid launches.</span>
+
+
+**Small Satellites**
+__<span style="background-color: yellow;">Small satellites not only ... </span>____<span style="background-color: yellow;">and launch requirements</span>__.
+
+
+**Maneuver**
+__One of the vulnerabilities ...____<span style="background-color: yellow;"> to meet warfighter requirements</span>__.26
+
+**<span style="font-family: Times-Bold,sans-serif; font-size: 12pt;">Solar Powered Satellites are key to building the infrastructure necessary to colonize space</span>**
+**<span style="font-family: Times-Bold,sans-serif; font-size: 12pt;">Globus 05</span>**
+<span style="font-size: 12pt;">(Al Globus, Senior Research Associate for Human Factors Research and Technology at San Jose State University at NASA AmesResearch Center. He was previously visiting research associate at the Molecular Engineering Laboratory in the chemistry departmentof the University of California at Santa Cruz., Sept. 22, 2005,” Space Settlement Basics” </span><span style="color: #00009a; font-size: 12pt;">http://www.nas.nasa.gov/About/Education/SpaceSettlement/Basics/ wwwwh.html</span><span style="font-size: 12pt;">, )</span>
+
+<span style="font-family: Times-Roman; font-size: 8pt;">BB 3. Solar Power Satellites. Electrical ... </span>__<span style="background-color: yellow; font-family: Times-Roman;">to build the first space colony</span>__<span style="font-family: Times-Roman; font-size: 8pt;">.</span>
+
+
+**<span style="font-size: 12pt;">We have a moral imperative to colonize space: Human survival is the ultimate maxim and colonizing space is the best way to minimize extinction risks</span>**
+**Bostrom**, Nick. //Astronomical Waste: The Opportunity Cost of Delayed Technological Development,”// Utilitas Vol. 15 No. 3, 20**04** pgs. 308-314, http://ww.nickbostrom.com/astronomical/waste.html
+
+However, the true lesson is ... maxim “Minimize existential risk!”
+
+===Advantage 2: Warming=== 
+
+**Warming is real and human induced – drastic emissions reductions are key to avoid dangerous climate disruptions**
+**<span style="font-size: 12pt;">Somerville 11</span>** – Professor of Oceanography @ UCSD
+Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis, BJM
+
+<span class="UnderlineChar">In</span> early <span class="UnderlineChar">2007</span>, at the ... near zero well within this century.
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">Prefer our scientific assessments over single scientists or fringe theories</span>**
+<span class="StyleStyleBold12pt">**Alley 10** – Professor of Geoscience @ Penn State</span>
+Richard, Professor of Geoscience @ Penn State, authored over 200 refereed scientific papers, which are "highly cited" according to a prominent indexing service, erved with distinguished national and international teams on major scientific assessment bodies, 11-17-2010, “CLIMATE CHANGE SCIENCE; COMMITTEE: HOUSE SCIENCE AND TECHNOLOGY;
+SUBCOMMITTEE: ENERGY AND ENVIRONMENT,” CQ Congressional Testimony, Lexis
+
+Background on Climate Change and Global ...<span style="font-size: 10pt;"> has removed them entirely</span>.
+
+**Must act now – solves risky and expensive solutions in crisis**
+**<span style="font-size: 12pt;">Carnesale 11</span>** – Professor of Engineering @ UCLA
+Albert, PhD in Nuclear Engineering, UCLA Chancellor Emeritus, Professor of Public Policy and Mechanical and Aerospace Engineering, 3-2011, “America’s Climate Choices,” http://americasclimatechoices.org/ACC_Final_Report_Brief04.pdf
+
+In the judgment of ... stringent than actually needed.
+
+
+**SPS solves – it’s the only solution and warming is comparatively the largest risk**
+**<span style="font-size: 12pt;">Hsu 10</span>** – PhD in Engineering
+Feng, PhD in Engineering, Former head of the NASA GSFC risk management function, and was the GSFC lead on the NASA-MIT joint project for risk-informed decision-making support on key NASA programs, has over 90 publications and is coauthor of two books and co-chair of several technical committees, 12-2010, “Harnessing the Sun: Embarking on Humanity's Next Giant Leap,” Online Journal of Space Communication, http://spacejournal.ohio.edu/issue16/hsu.html
+
+It has become increasingly evident ...<span class="UnderlineChar"> chance to make a difference</span>.
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">Independently, warming is an __existential risk__.</span>**
+**Deibel ’07**<span class="StyleStyleBold12pt">—Prof IR @ National War College (Terry, “Foreign Affairs Strategy: Logic for American Statecraft,” Conclusion: American Foreign Affairs Strategy Today)</span>
+
+<span style="font-size: 10pt;">Finally, there is one major existential </span><span style="font-size: 11px; line-height: 16px;">...</span><span style="font-size: 10pt;"> continued existence of life on this planet</span>
+
+**<span style="font-size: 12pt;">SPS is the only viable mechanism to solve warming</span>**
+Al **__<span style="font-size: 12pt;">Globus, ’10</span>__**, chairman of the Space Settlement Committee of the National Space Society, Winter 2010, (Office Journal of Space Communication, Space Solar Power, Lunar Mining and the Environment, Issue No. 16: Solar Power Satellites, [[http://spacejournal.ohio.edu/issue16/globus2.html]])
+
+__Consider the environmental impact ...__ will certainly not be free.
+
+==Contention 2: Solvency== 
+
+**Plan solves – catalyzes private action**
+**<span style="font-size: 12pt;">NSSO, 2007</span>**, SBSP Study Group, 2007, 10 October 2007, (National Security Space Office, Space-Based Solar Power, As an Opportunity for Strategic Security, Phase 0 Architecture Feasibility Study, [[http://www.acq.osd.mil/nsso/solar/SBSPInterimAssesment0.1.pdf]])
+
+Finding: The SBSP Study Group ... of advanced energy technologies.”
+**Solar Power Satellites are sustainable, cheap, and technologically feasible**
+**<span style="font-size: 12pt;">Lior</span>**, Noam Lior, University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics, Philadelphia, PA, April **<span style="font-size: 12pt;">2011</span>** “Solar orbital power: Sustainability analysis”, http://www.sciencedirect.com/science/article/pii/S0360544210005931, Date accessed June 24, 2011
+We have analyzed some economic, ... other sustainable energy sources<span class="UnderlineChar">.</span>
+
+**Plan leads to immediete tech benefits --- solves launch costs**
+**Eades, 7 -** (Jeremy, “US military proposes space-based solar power station”, Futurismic Blog, 10/17, <span style="color: black;">[[http://futurismic.com/2007/10/17/us-military-proposes-space-based-solar-power-station/]]</span>)
+
+A few weeks ago, Tobias ... __technology for civilian consumption__.
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">It won’t be weaponized</span>**
+**IAA 11** (April, 2011, International Academy of Aeronautics, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg311/sg311finalreport.pdf)
+
+Policy Issue Summary. __The ...__ at the longitude of the US.
+
+
+=Negative= 
+
+[[include page="space.template.Footer"]]
