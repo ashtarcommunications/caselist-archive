@@ -1,0 +1,416 @@
+== == 
+[[toc|flat]]
+=Meadows= 
+==Round 2 vs. Hamilton CP (Icebreakers)== 
+===1NC-=== 
+T-In/T-Transportation Infrastructure
+Cap (Rev)
+TIGER CP
+Elections
+Case
+
+===2NC-=== 
+Cap
+Case
+
+===1NR-=== 
+T
+
+===2NR-=== 
+T w/ Theory Answers
+
+==Round 3 vs. Rowland Hall GB (CCS)== 
+===1NC-=== 
+T-Pipelines
+T-Increase
+Nietzsche
+TIGER
+Elections
+Case
+
+===2NC-=== 
+Nietzsche
+Case
+
+===1NR-=== 
+T-Increase
+Elections
+
+===2NR-=== 
+Nietzsche
+
+==Round 5 vs. Gulliver Prep (NextGen)== 
+===1NC-=== 
+Nietzsche
+Case
+
+===2NC-=== 
+Nietzsche
+
+===1NR-=== 
+Case
+
+===2NR-=== 
+Nietzsche
+Case
+
+=Whitman= 
+==Notes== 
+I went to Whitman with Josh Marrott, but I was still the 2N
+==Round 2 vs. Rowland Hall BP (CCS)== 
+===1NC-=== 
+T-Pipelines
+Heidegger
+TIGER CP
+Elections
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+===1NR-=== 
+Elections
+
+===2NR-=== 
+Elections
+TIGER
+
+==Round 4 vs. Eagle (Icebreakers)== 
+===1NC-=== 
+T-TI/In
+Nietzsche
+TIGER CP
+Elections
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+===1NR-=== 
+Elections
+
+===2NR-=== 
+Elections
+Case
+
+==Round 6 vs. Juan Diego MW (Defense Access Roads)== 
+===1NC-=== 
+T-Military
+Cap (Rev)
+TIGER CP
+Elections
+Food Prices DA
+Case
+
+===2NC-=== 
+Cap
+Case
+
+===1NR-=== 
+Finishing Case
+Elections
+
+===2NR-=== 
+Elections
+Case
+
+=Silver and Black= 
+==Round 2 vs. Hunter (TIGGER)== 
+===1NC-=== 
+T-TI
+Cap (Reps)
+TIGER
+Politics
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+===1NR-=== 
+Politics
+
+===2NR-=== 
+Politics
+Case
+
+==Round 4 vs. Notre Dame PV (NextGen Equipage Fund)== 
+===1NC-=== 
+T-Telecommunications
+Cap (Reps)
+TIGER
+Politics
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+1NR-
+Case
+Politics
+
+===2NR-=== 
+Inherency
+TIGER
+Politics
+
+==Round 5 vs. Juan Diego CE (DAR)== 
+===1NC-=== 
+T - Military
+Cap (Reps)
+Reform CP
+Politics
+Case
+
+===2NC-=== 
+Reform CP
+Case
+
+===1NR-=== 
+Politics
+
+===2NR-=== 
+Reform CP
+Politics
+
+==Round 7 vs. Worland KK (Cargo Submarines)== 
+===1NC-=== 
+T - Vehicles
+Cap (Reps)
+TIGER
+Politics
+Case
+
+===2NC-=== 
+Cap
+TIGER
+Case
+
+===1NR-=== 
+T (Changed plan-text = voting issue)
+Politics
+
+===2NR-=== 
+T (Used as defense against advocating perms)
+TIGER
+Politics
+
+=ASU= 
+==Round 2 vs. San Dieguito DZ (ITS)== 
+===1NC-=== 
+T - TI
+Luke
+TIGER
+Politics
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+===1NR-=== 
+Case
+Politics
+
+===2NR-=== 
+TIGER
+Politics
+
+==Round 3 vs. Polytechnic HM (Tribal Infrastructure Bank)== 
+===1NC-=== 
+T - In
+Nietzsche
+PIC out of "Native American" and "Reservations"
+Politics
+Case
+
+===2NC-=== 
+Nietzsche
+Case
+
+===1NR-=== 
+T
+Politics
+
+===2NR-=== 
+Nietzsche
+
+==Round 6 vs. PCDS (Sky Tower/Airport)== 
+===1NC-=== 
+T - TI
+Nietzsche
+Kappeler PIC
+TIGER
+
+Politics
+Case
+
+===2NC-=== 
+Case
+Nietzsche
+PIC
+
+===1NR-=== 
+T
+Politics
+
+===2NR-=== 
+Nietzsche
+
+==Octos vs. Leland AV (NIB)== 
+===1NC-=== 
+T - Increase
+Heidegger
+Redirection CP
+Politics
+Case
+
+===2NC-=== 
+T
+Redirection
+Case
+
+===1NR-=== 
+Politics
+
+===2NR-=== 
+Redirection
+Politics
+
+==Quarters vs. Leland KL (NIB)== 
+===1NC-=== 
+T - Increase
+Heidegger
+TIGER (Different CP Text for NIB)
+Politics
+Case
+
+===2NC-=== 
+TIGER
+Case
+
+===1NR-=== 
+Politics
+
+===2NR-=== 
+TIGER
+Politics
+
+=Golden Desert= 
+==Round 1 vs. Bellarmine (CCS)== 
+===1NC-=== 
+T - Pipelines
+Luke
+TIGER
+Politics
+Case
+
+===2NC-=== 
+T
+TIGER
+Case
+
+===1NR-=== 
+Politics
+
+===2NR-=== 
+TIGER
+Politics
+
+==Round 4 vs. Nevada Union GW (Ruralism)== 
+===1NC-=== 
+Framework
+Cap
+Coke K
+Rural Areas CP
+Case
+
+===2NC-=== 
+Coke
+Cap
+CP
+
+===1NR-=== 
+Fuck K
+Case
+
+===2NR-=== 
+Fuck K
+Cap
+CP
+
+==Round 6 vs. Highland AB (Poverty Mass Transit)== 
+===1NC-=== 
+T - Vehicles
+Nietzsche
+TIGER
+Politics
+Case
+
+===2NC-=== 
+T
+Nietzsche
+TIGER
+Case
+
+===1NR-=== 
+Case (Framing)
+Politics
+
+===2NR-=== 
+TIGER
+Politics
+
+=Berkeley= 
+==Round 1 vs. College Prep PW (Genealogical Race)== 
+===1NC-=== 
+Nietzsche
+Case
+
+===2NC-=== 
+Nietzsche
+
+===1NR-=== 
+Case
+
+===2NR-=== 
+Case
+Nietzsche
+
+==Round 4 vs. Glenbrook North CH (Port Dredging)== 
+===1NC-=== 
+Bataille
+Case
+
+===2NC-=== 
+Bataille
+
+===1NR-=== 
+Case
+
+===2NR-=== 
+Case
+Bataille
+
+==Round 6 vs. Homewood Flossmoor (Aircraft Carriers)== 
+===1NC-=== 
+Bataille
+Case
+
+===2NC-=== 
+Bataille
+
+===1NR-=== 
+Case
+
+===2NR-=== 
+Case
+Bataille
+
+=Utah 5A State= 
+<span style="font-size: 13px; line-height: 1.5;">I went to State with Josh Marrott. I was still the 2N.</span>
+
+Went for Bataille and Case every round.

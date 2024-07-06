@@ -1,0 +1,6 @@
+[[toc]]
+=Affirmative= 
+Space Weapons or Nano Satellites with MPMD
+=Negative= 
+
+[[include page="space.template.Footer"]]

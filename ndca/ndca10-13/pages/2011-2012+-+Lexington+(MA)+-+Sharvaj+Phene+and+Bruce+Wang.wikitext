@@ -1,0 +1,147 @@
+[[toc]]
+=Affirmative= 
+=Harvard Affirmative= 
+=Plan Text= 
+The United States Federal Government should develop and demonstrate space-based solar power.
+=1AC – Hegemony= 
+Contention One is Hegemony
+We’ll isolate two internal links:
+1. First is aerospace – the U.S. aerospace industrial base is deteriorating – lack of funding and procurement hamstrings R&D
+<span style="font-size: 12pt;">Grant 11</span><span style="font-size: 8pt;"> (Rebecca Grant, Ph.D. in International Relations from the London School of Economics, Director of the General William Mitchell Institute for Airpower Studies, worked for RAND and the offices of the Secretary of the Air Force and Chief of Staff of the Air Force, president of IRIS Independent Research, contributor to Air Force Magazine, has written extensively on airpower, 6/20/11, “Crunch Time for the Industrial Base”, http://www.airforce-magazine.com/MagazineArchive/Pages/2011/June%202011/0611base.aspx | AK)</span>
+
+<span class="UnderlineChar">Defense budgets are flat</span><span style="font-size: 8pt;">. </span><span class="UnderlineChar">Procurement...fixed-wing </span>development programs<span style="font-size: 8pt;">. (The newly approved KC-46A begins life as a commercial airframe.)</span>
+
+2. And, collapse of the industrial base and aerospace industry tanks U.S. competitiveness and innovation
+<span style="font-size: 12pt;">Albaugh 11</span><span style="font-size: 8pt;"> (Jim Albaugh, Executive Vice President of The Boeing Company, President and Chief Executive Officer of Boeing Commercial Airplanes, former President and Chief Executive Officer of Boeing Integrated Defense Systems, former President and CEO of Boeing Space and Communications, former President of Rocketdyne Power & Propulsion, Honorary Fellow of the American Institute of Aeronautics and Astronautics, serves as Board Chairman of the Aerospace Industries Association, B.A. in Mathematics and Physics from Willamette University, M.A. in Civil Engineering from Columbia University, 4/27/11, “Keeping America’s Lead in Aerospace””, http://www.aia-aerospace.org/assets/speech_042711_albaugh.pdf | AK)</span>
+<span style="font-size: 8pt;">Today </span>we take America’s industrial base for...<span style="font-size: 8pt;">launch vehicle. To me, that’s unconscionable.</span>
+
+3. Independently, SPS expands the workforce and fosters innovation – both are key to U.S. competitiveness
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>
+
+<span style="font-size: 8pt;">FINDING: The SBSP Study Group found that </span>SBSP...<span class="UnderlineChar">aims of the </span>American Competitiveness<span class="UnderlineChar"> Initiative.</span>
+
+4. That’s key to U.S. economic stability and growth
+<span style="font-size: 12pt;">Herrnstadt 8</span><span style="font-size: 8pt;"> (Owen E. Herrnstadt, director of the Trade and Globalization Department at the International Association of Machinists and Aerospace Workers, 4/17/08, “OFFSETS AND THE LACK OF A COMPREHENSIVE U.S. POLICY: What Do Other Countries Know That We Don’t?”, http://www.sharedprosperity.org/bp201/bp201.pdf | AK)</span>
+
+Aerospace is an<span class="UnderlineChar"> especially </span>important industry for a nation's...<span style="font-size: 8pt;">let alone implemented (Aerospace Industries Commission 2002, 8-12).</span>
+
+5. Economic decline causes global nuclear war
+<span style="font-size: 12pt;">Friedberg and Schoenfeld 8</span><span style="font-size: 8pt;"> (Aaron, prof. of politics and IR at Princeton University's Woodrow Wilson School, and Gabriel, senior editor of Commentary, visiting scholar at the Witherspoon, 10/21/08, “The Dangers of a Diminished America,” [[http://online.wsj.co...4012352571.html]]  //KX)//</span>
+
+//<span style="font-size: 8pt;">With the global financial system in serious trouble, is...</span>be the straw that breaks the camel's back<span class="UnderlineChar">.</span>//
+
+//6. Federal investment into SPS is necessary to revitalize the industrial base and secure U.S. aerospace dominance – signals a commitment to space leadership//
+//<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office of the United States Federal Government, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>//
+
+//<span style="font-size: 8pt;">FINDING: The SBSP Study Group found that </span><span class="UnderlineChar">SBSP...</span>powerful expression of this imperative.//
+
+//7. And, aerospace dominance secures U.S. leadership and hegemony//
+//<span style="font-size: 12pt;">Walker 2</span><span style="font-size: 8pt;"> (Robert Walker, Chair of the Commission on the Future of the United States Aerospace Industry Commissioners, November 2002, “Final Report of the Commission on the Future of the United States Aerospace Industry Commissioners”, http://www.trade.gov/td/aerospace/aerospacecommission/AeroCommissionFinalReport.pdf | AK)</span>//
+
+//<span class="UnderlineChar">Defending our nation against its enemies is the...</span>position as the world’s<span class="UnderlineChar"> preeminent </span>military power<span class="UnderlineChar">.</span>//
+
+//8. Hegemony solves all global problems – prefer it to all other alternatives//
+//<span style="font-size: 12pt;">Thayer 6</span><span style="font-size: 8pt;"> [Bradley Thayer, Associate Professor in the Department of Defense and Strategic Studies at Missouri State University, “In Defense of Primacy”, The National Interest, December (lexis)]</span>//
+
+//<span class="UnderlineChar">THROUGHOUT HISTORY, peace and </span>stability have been<span class="UnderlineChar"> great...</span><span style="font-size: 8pt;">the economic prosperity it provides.</span>//
+
+//Second is forward deployment://
+//9. Operational demands means military oil dependence isn’t sustainable in the long-term – alternatives are key//
+//<span style="font-size: 12pt;">Crowley et al. 7</span><span style="font-size: 8pt;"> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 7 </span>// KX)
+
+<span style="font-size: 8pt;">Recent experience indicates that </span><span class="UnderlineChar">the nature of the threat facing the...efficient consumption across all aspects of military operations</span><span style="font-size: 8pt;">. </span>
+
+10. Continued reliance on oil tanks heg – it imposes strategic, operational, and fiscal burdens that reduce military effectiveness
+<span style="font-size: 12pt;">Crowley et al. 7</span><span style="font-size: 8pt;"> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 8-9  //KX)// </span>
+
+//<span class="UnderlineChar">The goal of our security strategies is to...operating costs and logistic support requirements. </span>//
+
+//11. SPS key to forward deployment – solves fuel, logistics, and equipment burdens//
+//<span style="font-size: 12pt;">Ramos 2K</span> (Kim, Major in the United States Air Force and 82nd Training Group Commander, April 2000, “Solar Power Constellations//
+//Implications for the United States Air Force”, [[http://www.dtic.mil/cgibin/GetTRDoc?AD=ADA394928&Location=U2&doc=GetTRDoc.pdf]] pg. 13-15//  KX)
+
+<span style="font-size: 8pt;">In addition to information superiority, </span><span class="UnderlineChar">one of </span>the emerging operational...<span class="UnderlineChar">war readiness</span><span style="font-size: 8pt;"> spares kits, tools, and spillage clean up kits.</span>
+
+12. And, military usage ensures rapid development
+<span style="font-size: 12pt;">Lemonick 9</span><span style="font-size: 8pt;"> (Michael D., senior writer at Climate Central, a nonpartisan organization whose mission is to communicate climate science to the public, former senior writer at Time magazine, citing Paul Damphousse, Chief Engineer for the Communications Functional Integration Office of the National Security Space Office, 8/31/09, “Solar Power from Space: Moving Beyond Science Fiction”, [[http://e360.yale.edu/content/feature.msp?id=2184]] // KX)</span>
+
+<span style="font-size: 8pt;">The first, he said, is that “</span><span class="UnderlineChar">we’re obviously interested in...have a stake in space-based power</span><span style="font-size: 8pt;">.</span>
+13. Loss of forward deployment power causes globewide nuclear war
+<span style="font-size: 12pt;">Kagan 7</span><span style="font-size: 8pt;"> – Robert, senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund, August-September, “End of Dreams, Return of History,” Hoover Policy Review, [[http://www.hoover.org/publications/policyreview/8552512.html]]</span>
+123
+<span style="font-size: 6pt;">Finally, there is the United States itself. As a matter of national policy...</span>__American influence and global involvement will provide an easier path__<span style="font-size: 6pt;">.</span>
+
+14. Your impact turns are inevitable – the U.S. will always drive for heg – it’s only a question of effectiveness
+<span style="font-size: 12pt;">Edelman 10</span><span style="font-size: 8pt;"> (Eric S. Edelman, former Under Secretary of Defense for Policy and former Principal Deputy Assistant to the Vice President for National Security Affairs, February 2010, “Understanding America’s</span>
+<span style="font-size: 8pt;">Contested Primacy”, online at [[http://belfercenter.ksg.harvard.edu/files/CSBA_UACP_web.pdf]], pg. 7-8)</span>
+
+<span style="font-size: 8pt;">Today </span>there is no<span style="font-size: 8pt;"> equivalent to the Anglo-American relationship...Foreign Relations President Richard </span><span class="UnderlineChar">Haass believes is now upon us</span><span style="font-size: 8pt;">.</span>
+
+=1AC – Environment= 
+Contention Two is the Environment
+We’ll isolate two internal links:
+1. First is warming – it’s anthropogenic – our evidence represents the scientific consensus
+<span style="font-size: 12pt;">NYT 11</span> <span style="font-size: 8pt;">(NYTimes, Online Newspaper, 1/13/11, “Global Warming”, [[http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html]])</span>
+
+<span class="UnderlineChar">Scientists learned long ago that the earth's...</span>alerting the world to warming's risks.
+
+2. Runaway warming will make adaption impossible – emission cuts now are key
+<span style="font-size: 12pt;">Hansen 8</span><span style="font-size: 8pt;"> (Professor of Earth and Environmental Science James E. Hanson, head of the NASA Goddard Institute for Space Studies in New York City and adjunct professor in the Department of Earth and Environmental Science at Columbia University, Al Gore’s science advisor, “Briefing before the Select Committee on Energy Independence and Global Warming,” US House of Representatives, 6-23-2008, “Twenty years later: tipping points near on global warming,” [[http://www.columbia.edu/~jeh1/2008/TwentyYearsLater_20080623.pdf]])</span>
+
+Fast feedbacks—<span class="UnderlineChar">changes that occur quickly...</span>A major casualty in all this will be wildlife.
+
+3. SPS can replace the vast majority of fossil-fuel consumption – solves warming
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;"> (Dr. Feng Hsu, Sr. Vice President of Systems Engineering & Risk Management Space Energy Group, 2010, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, [[http://spacejournal.ohio.edu/issue16/hsu.html]])</span>
+
+<span style="font-family: 'Arial Narrow';">It has become increasingly evident that...</span><span class="BoldUnderlineChar" style="font-family: 'Arial Narrow';">in a significant way that has a chance to </span><span style="font-family: 'Arial Narrow';">make a difference</span><span class="BoldUnderlineChar" style="font-family: 'Arial Narrow';">.</span>
+
+4. Independently, warming causes extinction
+<span style="font-size: 12pt;">Tickell 8</span><span class="SmallChar" style="font-size: 8pt;">(Oliver Tickell, Environmental Researcher, 2008, “On a planet 4C hotter, all we can prepare for is extinction”, http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange)</span>
+
+<span style="font-family: 'Arial Narrow'; font-size: 8pt;">We need to get prepared for four degrees of global w...</span>__**propel us towards a similar hothouse Earth**__<span style="font-size: 8pt;">.</span>
+Second is Terrorism:
+5. SPS is the only form of alternative energy that can relieve fossil fuel dependence – optimum efficiency and feasibility
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;"> (Dr. Feng Hsu, Sr. Vice President of Systems Engineering & Risk Management Space Energy Group, 2010, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, [[http://spacejournal.ohio.edu/issue16/hsu.html]])</span>
+
+<span style="font-size: 8pt;">We must set priorities and choose wisely.</span>..<span style="font-size: 8pt;">However, in addition to continuing our quest for low cost RLV (reusable launch vehicle) technologies, </span><span class="UnderlineChar">there are business models for overcoming these issues</span><span style="font-size: 8pt;">.</span>
+
+6. Continued oil dependence causes terrorism
+<span style="font-size: 12pt;">Bengston 8</span> <span style="font-size: 8pt;">[Ron Bengston writer for American Energy Independence, a website dedicated towards the concept of US energy independence, compilation of articles from: U.S. News & World Report, The Saudi Connection, Friedman (Pulitzer Prize winning columnist), New York Times, Center for Strategic and International Studies, The Detroit Economic Club, and Brookings Institution on U.S. Energy Security, 2008, [[http://www.americanenergyindependence.com]] ]</span>
+
+<span style="font-size: 8pt;">A powerful idea is spreading through America...</span>__the conditions on which terrorists prey.__<span style="font-size: 8pt;">” </span>
+
+7. Terrorism leads to extinction
+Morgan 9<span style="font-size: 8pt;">(Dennis Ray Morgan, Hankuk University of Foreign Studies, Yongin Campus - South Korea Futures, Volume 41, Issue 10, December 2009, Pages 683-693,</span>__<span style="font-size: 10pt;">World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race</span>__<span style="font-size: 8pt;">)</span>
+
+<span style="font-size: 8pt;">In a remarkable website on nuclear...misery and suffering in a nuclear winter. </span>
+
+=1AC – Solvency= 
+Contention Three is Solvency
+
+1. Initial government demonstration is key to catalyze full private sector development of an SPS industry
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power: As an Opportunity for Strategic Security”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA473860&Location=U2&doc=GetTRDoc.pdf)]]</span>
+
+<span style="font-size: 8pt;">The SBSP Study Group concludes </span><span class="UnderlineChar">that </span>s<span style="font-size: 8pt;">pace</span><span style="font-family: 'Cambria Math'; font-size: 8pt;">‐</span>b<span style="font-size: 8pt;">ased </span>s<span style="font-size: 8pt;">olar </span>p<span style="font-size: 8pt;">ower...</span>early demonstrator<span class="BoldUnderlineChar">/adopter/customer o</span>f SBSP and incentivize its development.
+
+2. The technology exists now – all that remains is government inaction
+<span style="font-size: 12pt;">Goldenberg 9</span><span style="font-size: 8pt;"> (Suzzane Goldenberg, is the [[http://www.guardian.co.uk/environment|US environment correspondent ]]of the Guardian, “ US power company to tap solar energy in space”) </span>
+
+<span style="font-size: 8pt;">Solaren has released relatively few details about the project...i</span>s not really a technology issue<span class="UnderlineChar">."</span>
+
+3. Demonstration of SPS would only cost $500 million – launch costs reduce dramatically following initial demonstration
+<span style="font-size: 12pt;">Rubenchik 9</span><span style="font-size: 8pt;"> (Alexander M Rubenchik, is a physicist at Lawrence Livermore National Laboratory, April </span><span class="Author-Date" style="font-size: 8pt;">2009</span><span style="font-size: 8pt;">, “Solar Power Beaming: From Space to Earth”, http://scholar.google.com/scholar?q=%E2%80%9CThe+cost+to+deploy+the+first+space-based+solar+energy+system+is+estimated+at+approximately+%24500+million.+A+significant+percentage+of+this+cost+is+attributed+to+the+laser%2C+the+solar+reflector%2Fcollector+systems%E2%80%9D+&hl=en&btnG=Search&as_sdt=1%2C30&as_sdtp=on, Date accessed June 24, 2011)</span>
+
+<span style="font-family: 'Arial Narrow';">The cost to deploy the first...in the not too distant future.</span>
+
+4. No risk of space debris – SPS DE-orbits them
+<span style="font-size: 12pt;">NASA 7</span>(NASA, October 10, 2007 “Space Based Solar Power as an Opportunity for Strategic Security” Phase 0 Architecture Feasibility Study)
+
+The technology to beam power over long...such as Dr. Robert Forward’s StarWisp Concept.
+
+5. Perceived military threats posed by SPS can be alleviated through multilateral cooperation
+<span style="font-size: 12pt;">Space Law Journal 83</span> (Paul G. <span style="font-size: 12pt;">Dembling and</span> Delbert D. <span style="font-size: 12pt;">Smith</span>, “Solar Power Satellites and Security Considerations: The Case for Multilateral Agreements”, 11 J. Space L. 82 **(**<span style="font-size: 12pt;">1983</span>**)** HeinOnline)
+From an "Owner State" point of view...would manage the distribution of benefits from or otherwise monitor such facilities. 14
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,1 @@
+<span style="background-color: #ffffff; font-family: monospace,Courier; text-align: start;">{{db-g7}}</span>

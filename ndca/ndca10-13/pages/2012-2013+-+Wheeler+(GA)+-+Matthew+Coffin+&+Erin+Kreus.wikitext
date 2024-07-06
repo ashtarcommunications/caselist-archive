@@ -1,0 +1,7 @@
+[[toc]]
+=Affirmative= 
+See Pranav and Lucy's wiki
+=Negative= 
+
+
+[[include page="space.template.Footer"]]

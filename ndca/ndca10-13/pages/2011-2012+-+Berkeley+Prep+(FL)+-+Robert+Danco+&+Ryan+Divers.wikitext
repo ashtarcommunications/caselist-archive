@@ -1,0 +1,1369 @@
+==Cite Requests== 
+Aff: [[mailto:robert.danco1@gmail.com|robert.danco1@gmail.com]]
+Neg: [[mailto:rdivers11@gmail.com|rdivers11@gmail.com]]
+
+
+[[toc]]
+=Affirmative= 
+
+==AEHF Aff 1AC (EASE) - Wake Forest== 
+
+===Plan=== 
+
+The United States Congress should provide advance appropriations sufficient to fully fund acquisition of Advanced Extremely High Frequency communications satellite payloads.
+
+
+===1AC Military Satellite Communications=== 
+
+Failure to secure advance appropriations is delaying Air Force acquisition of new communications satellites
+**__Brinton ‘11__** (Turner Brinton, “Conaton: Budget Pressure Necessitates Satellite Block Buys,” Space News, 7-1-2011, http://www.spacenews.com/military/110701-budget-necessitates-sat-block-buys.html)
+With the U.S. Congress pushing … **__but only if the government is all in__**,” Maguire said.
+
+Advance appropriations are key – buying the full constellation now is essential to reduce program costs and avoid production breaks
+**__Thompson ‘11__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “An Easy Way To Save Billions Of Dollars On Military Satellites,” 3-30-2011, http://www.lexingtoninstitute.org/an-easy-way-to-save-billions-of-dollars-on-military-satellites?a=1&c=1171)
+Deficit reduction doesn't always mean … change is indicated.
+
+===1AC Transmission Security (Heg Version)=== 
+
+Funding delays for communication satellites will cause production breaks, creating capability gaps
+**__Conaton ‘11__** (Erin C. Conaton, Under-Secretary of the Air Force, “Fiscal Year 2012 Air Force Space Posture,” Presentation to the Subcommittee on Strategic Forces, Committee on Armed Services, U.S. House of Representatives, 3-15-2011, http://integrator.hanscom.af.mil/2011/March/03172011/03172011-20.htm)
+Before going into detail … undermines those efficiency efforts.
+
+
+Scenario A: Net-Centric Warfare
+
+Gaps in communications are filled by leasing commercial bandwidth, creating vulnerabilities that prevent networked operations
+**__Thompson ‘10__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “Lack Of Protected Satellite Communications Could Mean Defeat For Joint Force In Future War,” 4-14-2010, http://www.lexingtoninstitute.org/lack-of-protected-satellite-communications-could-mean-defeat-for-joint-force-in-future-war?a=1&c=1171)
+In the years since … **__and__** **__then kill them__**.
+
+
+Secure communications are essential to net-centric warfare
+**__Rosario ‘9__** (José del Rosario, senior member of the consulting team at NSR, an international market research and consulting firm specializing in satellite telecommunications, former Program Leader of the Mobile Communications Group, and Senior Analyst & Program Leader of the Satellite Communications Group at Frost & Sullivan, M.A. Applied Economics, American University, B.S. Political Science/International Relations, University of Santa Clara, “Briefing - Advanced Milcom on Commercial Sat Systems,” Milsat Magazine, March 2009, http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=1663150938)
+Except for the WGS-1 satellite … __in the commercial realm__.
+
+
+Net-centric warfare is doctrinally entrenched – it’s only a question of effectiveness
+**__Groh ‘10__** (Jeffrey L. Groh, Professor of Information and Technology in Warfare in the Department of Distance Education at the U.S. Army War College, retired Armor Officer, D.Sc., Robert Morris University, “Chapter 23: The Network-Centric Warfare Journey: Realizing the Power of Information,” in The U.S. Army War College Guide to National Security Issues, Volume I: Theory of War and Strategy, 4th Ed., J. Boone Bartholomees, Jr., July 2010, http://www.scribd.com/doc/63365888/4thEditionStategyofWarSSI)
+Now that the literature … synergy on the battlefield.
+
+Only NCW makes hegemony sustainable
+**__<span style="color: #000000;">Arquilla 10</span>__**(John Arquilla, professor of defense analysis at the U.S. Naval Postgraduate School, MARCH/APRIL 2010, “The New Rules of War”, http://www.foreignpolicy.com/articles/2010/02/22/the_new_rules_of_war)
+Nothing could be further … swarm enemies, large or small.
+
+Heg prevents global nuclear war
+**Kagan 7** **–** senior associate, Carnegie Endowment for International Peace (Robert, July, End of Dreams, Return of History,
+http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html, AG/JMP)
+__Were__ the __U__nited __S__tates __to diminish__ … __nationalist movements__
+
+All their turns are inevitable – the US will inevitably be engaged globally, it’s only a question of effectiveness
+<span class="cite0">__Shalmon and Horowitz ‘9__</span>(Dan Shalmon, Senior Analyst at Lincoln Group, LLC., and a graduate student at Georgetown University, Michael Horowitz, postdoctoral fellow at the Belfer Center for Science and International Affairs at Harvard University, PhD in the Department of Government at Harvard University, Sidney R. Knafel Fellow at the Weatherhead Center for International Affairs, predoctoral fellow at the Olin Institute for Strategic Studies at Harvard, previously worked at Science Applications International Corporation and at the Center for Strategic and International Studies as a Research Assistant in the International Security Program, served as a consultant for the Department of Defense on a range of international security issues, work published in The Journal of Conflict Resolution, The Journal of Strategic Studies, Orbis, and The Washington Quarterly, “The Future of War and American Military Strategy,” Orbis Peer Reviewed Journal, Spring)
+<span style="display: block; text-align: justify;">It is important to recognize … role in the global order.24</span>
+Independently, net-centric warfare deters future conflicts and prevents escalation
+**__Wilson ‘7__** (Clay Wilson, Specialist in Technology and National Security, Foreign Affairs, Defense, and Trade Division, Congressional Research Service, “Network Centric Operations: Background and Oversight Issues for Congress,” 3-15-2007, CRS Report for Congress RL32411, http://www.fas.org/sgp/crs/natsec/RL32411.pdf)
+NCO is a theory which … coalition __NCO operations__.
+
+Scenario B: Cyber-terrorism
+
+Only the plan ensures control of the nuclear force is resilient to cyber attacks
+**__Ray ‘10__** (Justin Ray, “Air Force Launches Advanced New Military Satellite,” Space.com, 8-14-2010, http://www.space.com/8950-air-force-launches-advanced-military-satellite.html)
+"The team of folks … with Milstar and __AEHF__.
+
+Resiliency is essential to prevent inevitable cyber-terrorism from escalating to nuclear war
+**__Johnson ‘9__** (Bobbie Johnson, citing a study by the International Commission on Nuclear Non-proliferation and Disarmament, “Terrorists could use internet to launch nuclear attack: report,” The Guardian (UK), 7-24-2009, http://www.guardian.co.uk/technology/2009/jul/24/internet-cyber-attack-terrorists)
+__Terrorists groups could soon__ … **__into a nuclear response__**.
+
+Extinction
+**__Morgan ‘9__** (Dennis Ray Morgan, Hankuk University of Foreign Studies, South Korea, “World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race,” Futures, 41(10), December 2009, ScienceDirect)
+In a remarkable website … __in a nuclear winter__.
+
+
+===1AC Transmission Security=== 
+Funding delays for communication satellites will cause production breaks, creating capability gaps
+**__Conaton ‘11__** (Erin C. Conaton, Under-Secretary of the Air Force, “Fiscal Year 2012 Air Force Space Posture,” Presentation to the Subcommittee on Strategic Forces, Committee on Armed Services, U.S. House of Representatives, 3-15-2011, http://integrator.hanscom.af.mil/2011/March/03172011/03172011-20.htm)
+Before going into detail … undermines those efficiency efforts.
+
+
+Scenario A: Net-Centric Warfare
+
+Gaps in communications are filled by leasing commercial bandwidth, creating vulnerabilities that prevent networked operations
+**__Thompson ‘10__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “Lack Of Protected Satellite Communications Could Mean Defeat For Joint Force In Future War,” 4-14-2010, http://www.lexingtoninstitute.org/lack-of-protected-satellite-communications-could-mean-defeat-for-joint-force-in-future-war?a=1&c=1171)
+In the years since … **__and__** **__then kill them__**.
+
+
+Secure communications are essential to net-centric warfare
+**__Rosario ‘9__** (José del Rosario, senior member of the consulting team at NSR, an international market research and consulting firm specializing in satellite telecommunications, former Program Leader of the Mobile Communications Group, and Senior Analyst & Program Leader of the Satellite Communications Group at Frost & Sullivan, M.A. Applied Economics, American University, B.S. Political Science/International Relations, University of Santa Clara, “Briefing - Advanced Milcom on Commercial Sat Systems,” Milsat Magazine, March 2009, http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=1663150938)
+Except for the WGS-1 satellite … __in the commercial realm__.
+
+
+Net-centric warfare is doctrinally entrenched – it’s only a question of effectiveness
+**__Groh ‘10__** (Jeffrey L. Groh, Professor of Information and Technology in Warfare in the Department of Distance Education at the U.S. Army War College, retired Armor Officer, D.Sc., Robert Morris University, “Chapter 23: The Network-Centric Warfare Journey: Realizing the Power of Information,” in The U.S. Army War College Guide to National Security Issues, Volume I: Theory of War and Strategy, 4th Ed., J. Boone Bartholomees, Jr., July 2010, http://www.scribd.com/doc/63365888/4thEditionStategyofWarSSI)
+Now that the literature … synergy on the battlefield.
+
+Net-centric operations are key to sustain naval power in the face of anti-access strategies
+__**Burch ‘8**__ (Eric Burch, Master Chief Petty Officer, Information Technology Specialist (ITCM), U.S. Navy, citing a November 2002 U.S. Naval Institute Proceedings article by Vice Admiral Mike Bucchi, U.S. Navy (Ret), and Admiral Mike Mullen, U.S. Navy; “Explanation of Key Maritime Transformational Concepts,” Combined Joint Operations from the Sea, NATO Center of Excellence, March 2008, https://transnet.act.nato.int/WISE/COE/Individual/CJOS/MaritimeIn/MaritimeTr)
+SEA SHIELD embraces emerging technologies … security in an uncertain century.
+
+
+Specifically, __China__ – loss of access ensures takeover of Taiwan
+**__Sollenberger, et al. ‘10__** (Matthew Sollenberger, M.A. student at the Johns Hopkins University, SAIS, B.A. political science with high honors, Swarthmore College; Thilo Schroeter, M.A. student at the Johns Hopkins University SAIS Bologna Center, B.A. International Relations, Dresden University of Technology; Bastiaan Verink, M.A. student at the Johns Hopkins University SAIS Bologna Center, LL.M. International Security with honors, VU University Amsterdam, B.A. International Relations and Economics, Utrecht University; “Challenging US Command of the Commons: Evolving Chinese defense technologies as a threat to American hegemony?” Bologna Center Journal for International Affairs, vol. 13, Spring 2010, http://bcjournal.org/volume-13/challenging-us-command-of-the-commons.html)
+Development of anti-access measures…in a military conflict over Taiwan.
+
+
+Triggers multiple scenarios for Asian conflicts
+**__Mazza ‘11__** (Michael Mazza, senior research associate in Asian Studies in the Foreign and Defense Policy Studies department at the American Enterprise Institute, former policy analyst assistant at SAIC, has lived and studied in China, M.A.s in Strategic Studies and International Economics from the Johns Hopkins University Paul H. Nitze School of Advanced International Studies, cum laude and Phi Beta Kappa at Cornell University, “Why Taiwan Matters,” The Diplomat, 3-8-2011, http://www.aei.org/article/103283)
+Indeed, Washington's mistake… continued peace in Asia.
+
+
+Most probable scenario for escalation to nuclear war
+**__Landy 2K__** (Jonathon Landy, National Security and International Correspondent, Knight Ridder, March 10, l/n)
+Few if any experts think China and Taiwan…international nonproliferation regime.
+
+
+
+
+Independently, loss of __global sea power__ accesses every impact – promoting diplomacy, protecting growth and trade, rebuilding failed states, preventing WMD terrorism, dissuading arms races, deterring and de-escalating any conflict
+**__McGrath ‘10__** (Commander Bryan G. McGrath, U.S. Navy (ret.), Director of Consulting, Studies, and Analysis, Delex Systems, “The Value of Preponderant American Seapower,” 10-19-2010, http://www.informationdissemination.net/2010/10/seapower-manifesto.html)
+Why Seapower? American Seapower is…support of ongoing land operations.
+
+
+
+
+__Scenario B: Cyber-terrorism__
+
+
+Only the plan ensures control of the nuclear force is resilient to cyber attacks
+**__Ray ‘10__** (Justin Ray, “Air Force Launches Advanced New Military Satellite,” Space.com, 8-14-2010, http://www.space.com/8950-air-force-launches-advanced-military-satellite.html)
+"The team of folks behind the…communications with Milstar and AEHF.
+
+
+Resiliency is essential to prevent inevitable cyber-terrorism from escalating to nuclear war
+**__Johnson ‘9__** (Bobbie Johnson, citing a study by the International Commission on Nuclear Non-proliferation and Disarmament, “Terrorists could use internet to launch nuclear attack: report,” The Guardian (UK), 7-24-2009, http://www.guardian.co.uk/technology/2009/jul/24/internet-cyber-attack-terrorists)
+Terrorists groups could…nation into a nuclear response.
+
+
+Extinction
+**__Morgan ‘9__** (Dennis Ray Morgan, Hankuk University of Foreign Studies, South Korea, “World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race,” Futures, 41(10), December 2009, ScienceDirect)
+In a remarkable …in a nuclear winter.
+
+===1AC Aerospace Industrial Base=== 
+
+The plan spurs broader adoption of evolutionary acquisition
+**__Butler ‘11__** (Amy Butler, Aviation Week, “U.S. Military Space Budget Boosted,” 2-18-2011, http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=space&id=news/awst/2011/02/21/AW_02_21_2011_p31-290680.xml&headline=U.S.%20Military%20Space%20Budget%20Boosted)
+__The Pentagon’s first__ … Lockheed Martin’s **__GPS III__**.
+
+This uniquely solves the aerospace industry
+**__Scully ‘11__** (Megan Scully, staff writer, defense and national security, National Journal, former writer for several defense trade publications, B.A. Journalism, American University, “Pentagon Worries About Space Industry With End of Shuttle Program,” National Journal, 7-20-2011, http://www.nationaljournal.com/nationalsecurity/pentagon-worries-about-space-industry-with-end-of-shuttle-program-20110719)
+**__As the space-shuttle era__** … 10 percent cost savings.
+
+Certainty trumps all other internal links - recent cancellations prove
+**ASAP ‘11**
+[Aerospace Safety Advisory Panel, released January 13, [[http://www.nasa.gov/pdf/510098main_2010_ASAP_Annual_Report.pdf]], NKN]
+For a considerable period, … ultimately must be addressed.
+
+Scenario A: Deterrence
+
+Independent of hegemony, a weak aerospace industry undercuts deterrence – the impact is great power counterbalancing and conflict
+<span class="TagChar">__Snead 7__</span>
+Mike Snead, Aerospace engineer, consultant focusing on Near-future space infrastructure development, “How America Can and Why America Must Now Become a True Spacefaring Nation,” Spacefaring America Blog, 6/3, http://spacefaringamerica.net/2007/06/03/6--why-the-next-president-should-start-america-on-the-path-to-becoming-a-true-spacefaring-nation.aspx
+__Great power status__ … administration should exercise.
+
+Scenario B: Economic Leadership
+
+Aerospace competitiveness drives economic growth - purely private sector approaches guarantee failure
+Hernnstadt 8
+Owen, director of the Trade and Globalization Department, International Association of Machinists and Aerospace Workers, “Offsets and the lack of a comprehensive U.S. policy,” Economic Policy Institute, http://www.sharedprosperity.org/bp201.html
+__Aerospace is an especially important__ … __well-developed industrial policies__.
+
+Leadership is key to resiliency – absence causes nuclear conflicts
+**__Mandelbaum__** __**‘5**__(Michael Mandelbaum, Professor and Director of the American Foreign Policy Program at Johns Hopkins, The Case for Goliath: How America Acts As the World’s Government in the Twenty-First Century, 2005, p.192-195)
+Although the spread … __cars without gasoline.__
+
+**Loss of economic leadership ensures global conflicts**
+**__Mandelbaum__** __**‘5**__(Michael Mandelbaum, Professor and Director of the American Foreign Policy Program at Johns Hopkins, The Case for Goliath: How America Acts As the World’s Government in the Twenty-First Century, 2005, p.224)
+At best, an American withdrawal … __of nuclear weapons__.
+
+
+==AEHF Aff 1AC (EASE) - St. Marks Sophomore Hoedown== 
+
+===1AC Military Satellite Communications=== 
+
+Failure to secure advance appropriations is delaying Air Force acquisition of new communications satellites
+**__Brinton ‘11__** (Turner Brinton, “Conaton: Budget Pressure Necessitates Satellite Block Buys,” Space News, 7-1-2011, http://www.spacenews.com/military/110701-budget-necessitates-sat-block-buys.html)
+With the U.S. Congress pushing … **__but only if the government is all in__**,” Maguire said.
+
+Advance appropriations are key – buying the full constellation now is essential to reduce program costs and avoid production breaks
+**__Thompson ‘11__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “An Easy Way To Save Billions Of Dollars On Military Satellites,” 3-30-2011, http://www.lexingtoninstitute.org/an-easy-way-to-save-billions-of-dollars-on-military-satellites?a=1&c=1171)
+Deficit reduction doesn't always mean … change is indicated.
+
+
+===1AC Transmission Security=== 
+
+
+Funding delays for communication satellites will cause production breaks, creating capability gaps
+**__Conaton ‘11__** (Erin C. Conaton, Under-Secretary of the Air Force, “Fiscal Year 2012 Air Force Space Posture,” Presentation to the Subcommittee on Strategic Forces, Committee on Armed Services, U.S. House of Representatives, 3-15-2011, http://integrator.hanscom.af.mil/2011/March/03172011/03172011-20.htm)
+Before going into detail … undermines those efficiency efforts.
+
+
+Scenario A: Net-Centric Warfare
+
+Gaps in communications are filled by leasing commercial bandwidth, creating vulnerabilities that prevent networked operations
+**__Thompson ‘10__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “Lack Of Protected Satellite Communications Could Mean Defeat For Joint Force In Future War,” 4-14-2010, http://www.lexingtoninstitute.org/lack-of-protected-satellite-communications-could-mean-defeat-for-joint-force-in-future-war?a=1&c=1171)
+In the years since … **__and__** **__then kill them__**.
+
+
+Secure communications are essential to net-centric warfare
+**__Rosario ‘9__** (José del Rosario, senior member of the consulting team at NSR, an international market research and consulting firm specializing in satellite telecommunications, former Program Leader of the Mobile Communications Group, and Senior Analyst & Program Leader of the Satellite Communications Group at Frost & Sullivan, M.A. Applied Economics, American University, B.S. Political Science/International Relations, University of Santa Clara, “Briefing - Advanced Milcom on Commercial Sat Systems,” Milsat Magazine, March 2009, http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=1663150938)
+Except for the WGS-1 satellite … __in the commercial realm__.
+
+
+Net-centric warfare is doctrinally entrenched – it’s only a question of effectiveness
+**__Groh ‘10__** (Jeffrey L. Groh, Professor of Information and Technology in Warfare in the Department of Distance Education at the U.S. Army War College, retired Armor Officer, D.Sc., Robert Morris University, “Chapter 23: The Network-Centric Warfare Journey: Realizing the Power of Information,” in The U.S. Army War College Guide to National Security Issues, Volume I: Theory of War and Strategy, 4th Ed., J. Boone Bartholomees, Jr., July 2010, http://www.scribd.com/doc/63365888/4thEditionStategyofWarSSI)
+Now that the literature … synergy on the battlefield.
+
+Net-centric operations are key to sustain naval power in the face of anti-access strategies
+__**Burch ‘8**__ (Eric Burch, Master Chief Petty Officer, Information Technology Specialist (ITCM), U.S. Navy, citing a November 2002 U.S. Naval Institute Proceedings article by Vice Admiral Mike Bucchi, U.S. Navy (Ret), and Admiral Mike Mullen, U.S. Navy; “Explanation of Key Maritime Transformational Concepts,” Combined Joint Operations from the Sea, NATO Center of Excellence, March 2008, https://transnet.act.nato.int/WISE/COE/Individual/CJOS/MaritimeIn/MaritimeTr)
+SEA SHIELD embraces emerging technologies … security in an uncertain century.
+
+<span style="font-size: 10.5pt;">Specifically, __Iran__ – loss of access ensures closure of the Strait of Hormuz</span>
+**__<span style="mso-bidi-font-size: 10.5pt;">Dyer ‘10</span>__**<span style="mso-bidi-font-size: 10.5pt;"> (J.E. Dyer, journalist and former intelligence analyst, served internationally for US Naval Intelligence from 1983 to 2004, “Naval Decline: It Starts with the Small Stuff,” 5-12-2010, http://theoptimisticconservative.wordpress.com/2010/05/12/naval-decline-it-starts-with-the-small-stuff/)</span>
+Each of the services has come in … – and lots of them.
+
+
+
+<span style="font-size: 10.5pt;">And draws out intervention to clear the Strait, risking escalation</span>
+**__<span style="mso-bidi-font-size: 10.5pt;">Talmadge ‘8</span>__**<span style="mso-bidi-font-size: 10.5pt;"> (Caitlin Talmadge, doctoral candidate in political science at the Security Studies Program, Massachusetts Institute of Technology, former fellow at the John M. Olin Institute for Strategic Studies at Harvard University, “Closing Time: Assessing the Iranian Threat to the Strait of Hormuz,” International Security, 33(1), Summer 2008, p.115-116, http://web.mac.com/caitlintalmadge/Site/Publications_files/Talmadge%20article.pdf)</span>
+The United States’ ultimate military … would seem likely.
+
+
+
+<span style="font-size: 10.5pt;">Triggers nuclear use and extinction</span>
+**__<span style="mso-bidi-font-size: 10.5pt;">Hirsch ‘5</span>__**<span style="mso-bidi-font-size: 10.5pt;"> (Jorge, Professor of Physics, University of California, San Diego, Ph.D., University of Chicago, “Can a Nuclear Strike on Iran Be Averted”, 11-21-2005, [[http://www.antiwar.com/orig/hirsch.php?articleid=8089]])</span>
+Now that we have outlined what is … Earth's population many times over.
+
+
+
+
+Independently, loss of __global sea power__ accesses every impact – promoting diplomacy, protecting growth and trade, rebuilding failed states, preventing WMD terrorism, dissuading arms races, deterring and de-escalating any conflict
+**__McGrath ‘10__** (Commander Bryan G. McGrath, U.S. Navy (ret.), Director of Consulting, Studies, and Analysis, Delex Systems, “The Value of Preponderant American Seapower,” 10-19-2010, http://www.informationdissemination.net/2010/10/seapower-manifesto.html)
+Why Seapower? American Seapower is…support of ongoing land operations.
+
+
+
+
+__Scenario B: Cyber-terrorism__
+
+
+Only the plan ensures control of the nuclear force is resilient to cyber attacks
+**__Ray ‘10__** (Justin Ray, “Air Force Launches Advanced New Military Satellite,” Space.com, 8-14-2010, http://www.space.com/8950-air-force-launches-advanced-military-satellite.html)
+"The team of folks behind the…communications with Milstar and AEHF.
+
+
+Resiliency is essential to prevent inevitable cyber-terrorism from escalating to nuclear war
+**__Johnson ‘9__** (Bobbie Johnson, citing a study by the International Commission on Nuclear Non-proliferation and Disarmament, “Terrorists could use internet to launch nuclear attack: report,” The Guardian (UK), 7-24-2009, http://www.guardian.co.uk/technology/2009/jul/24/internet-cyber-attack-terrorists)
+Terrorists groups could…nation into a nuclear response.
+
+
+Extinction
+**__Morgan ‘9__** (Dennis Ray Morgan, Hankuk University of Foreign Studies, South Korea, “World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race,” Futures, 41(10), December 2009, ScienceDirect)
+In a remarkable …in a nuclear winter.
+
+
+===1AC Acquisition Reform=== 
+
+Defense acquisitions can’t keep pace with global threats – ensures loss of military technological leadership
+
+**__Haggerty & Wood ‘10__** (Alan Haggerty, Deputy Under Secretary of Defense for International Technology Security, former U.S. Navy officer for 27 years, including 15 years as an engineer and acquisition professional; Dr. Roy L. Wood, Dean of the School of Program Managers at the Defense Acquisition University, former Naval Engineering Duty Officer and former DoD senior executive, PhD Organization and Management, “The P-51 Mustang: A Case Study in Defense Acquisition,” Defense Acquisition University, October 2010, http://www.dau.mil/pubscats/PubsCats/AR%20Journal/arj56/Haggerty_ARJ56.pdf)
+
+__The world is an__ … transform the trajectory of warfare.
+
+
+
+The plan spurs broader adoption of evolutionary acquisition
+
+**__Butler ‘11__** (Amy Butler, Aviation Week, “U.S. Military Space Budget Boosted,” 2-18-2011, http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=space&id=news/awst/2011/02/21/AW_02_21_2011_p31-290680.xml&headline=U.S.%20Military%20Space%20Budget%20Boosted)
+
+__The Pentagon’s first__ … **<span style="mso-bidi-font-weight: normal;">__and__</span>** Lockheed Martin’s **<span style="mso-bidi-font-weight: normal;">__GPS III__</span>**.
+
+
+
+Evolutionary acquisition is essential to revitalize military technological leadership
+
+**__Montroll ‘2__** (Mark L. Montroll, Professor of Acquisition at the National Defense University’s Industrial College of the Armed Forces, former Director of Innovative Technology Initiatives in the Signatures Directorate at the Naval Surface Warfare Center, Ph.D. Acoustics, M.S. Electrical Engineering, Catholic University, B.S. Engineering and Applied Sciences, University of Rochester, “Chapter 14—Maintaining the Technological Lead,” in //<span style="mso-bidi-font-style: normal;">Transforming America’s Military</span>//, ed. Hans Binnendijk, 2002, http://www.au.af.mil/au/awc/awcgate/ndu/tam/16_ch14.htm)
+
+Throughout World War II, … **<span style="mso-bidi-font-weight: normal;">__new weapons systems more quickly__</span>**.
+
+
+Two Internal Links:
+
+
+
+First is China
+
+
+Even if we maintain quantitative force superiority, China will believe they can successfully annex Taiwan
+
+**__Cliff, et al. ‘7__** (Roger Cliff, political scientist at RAND, specializes in Chinese military strategy, science and technology, and U.S. defense policy in the Asia-Pacific region; Evan Medeiros, political scientist at RAND, specializes in Chinese national security policy, military and defense industrial affairs; Keith Crane, economist at RAND, specializes in defense and international economics; “Keeping the Pacific: An American Response to China’s Growing Military Might,” RAND Review, Spring 2007, http://www.rand.org/publications/randreview/issues/spring2007/pacific.html)
+
+**<span style="mso-bidi-font-weight: normal;">__If the U.S. military does not__ </span>**… **<span style="mso-bidi-font-weight: normal;">__<span style="border: 1pt solid windowtext; mso-border-alt: solid windowtext .5pt; padding: 0in;">U</span>__</span>**nited **<span style="mso-bidi-font-weight: normal;">__<span style="border: 1pt solid windowtext;">S</span>__</span>**tates **<span style="mso-bidi-font-weight: normal;">__could ultimately prevail if it desired__</span>**.
+
+
+
+The impact is extinction
+
+**__Straits Times 2K__** (“No one gains in war over Taiwan,” 6-25-2000, l/n)
+
+<span style="tab-stops: .5in;">THE DOOMSDAY SCENARIO __THE high-intensity__ … __puts sovereignty above everything else__.</span>
+
+
+
+Second is India
+
+
+India will model U.S. defense acquisition reform
+
+**__Singh ‘9__** (Harinder Singh, Research Fellow at Institute for Defence Studies and Analyses, MSc Defense Studies, former high-ranking officer in the Indian military, “Defence Acquisitions: The Question of Systemic Inefficienices and Effectiveness,” IDSA Comment, 12-3-2009, http://www.idsa.in/idsacomments/DefenceAcquisitions_HSingh_031209)
+
+**<span style="mso-bidi-font-weight: normal;">__Defence acquisitions in the__</span>** … several suggestions on this score.
+
+
+
+Indian defense acquisition reform is key to military modernization in the face of Chinese aggression
+
+**__Pant ‘11__** (Harsh V. Pant, professor at King’s College, London, “Tale of two defense policies,” The Japan Times, 3-16-2011, http://search.japantimes.co.jp/cgi-bin/eo20110316a2.html)
+
+China has declared that its official … __external and internal security challenges__.
+
+
+
+Otherwise, China will attack by 2012
+
+**__Verma ‘9__** (Capt. Bharat Verma, former Cavalry Officer, Editor, Indian Defence Review, “Unmasking China,” Indian Defence Review, 24(3), Jul-Sep 2009, http://www.indiandefencereview.com/2009/08/unmasking-china.html)
+
+**__China will launch an attack on India before__** **…** from Lalgarh to Tawang.
+
+
+==AEHF Aff 1AC (CHP) - Glenbrooks, Pine Crest, Emory== 
+
+
+===Plan=== 
+Plan:
+
+The United States Congress should substantially increase acquisition of commercially hosted Advanced Extremely High Frequency satellite payloads.
+
+
+===1AC Transmission Security=== 
+Advantage one is transmission security
+
+There’s a massive and rapidly growing shortage of protected satellite bandwidth – the military’s current plan to supplement new AEHF communications satellites with long-term commercial leases will fail – ensures vulnerability to jamming and interference
+**__Werner ‘11__** (Debra Werner, “Demanding times: U.S. military forges new relationship with satcom industry,” C4ISR Journal, 6-1-2011, http://www.c4isrjournal.com/story.php?F=6320183)
+Fifteen years ago…with a sudden surge in demand.
+
+
+Switching to hosted payloads enables a substantial increase in AEHF capability at a lower cost
+**__Butler ‘11__** (Amy Butler, “Hosted Payload Hailed For New Business Model,” Aviation Week, 9-14-2011, http://www.aviationweek.com/aw/generic/story.jsp?id=news/asd/2011/09/13/02.xml&headline=Hosted%20Payload%20Hailed%20For%20New%20Business%20Model&channel=defense)
+__Though U.S. Air Force…__ White Sands Missile Range, N.M.
+
+
+And ensures bandwidth shortages are resolved without sacrificing military-grade protection
+**__Erwin ‘11__** (Sandra Erwin, “For the Satellite Industry, Lines Blur Between Military and Commercial Markets,” National Defense, NDIA’s business and technology magazine, 3-18-2011, http://www.nationaldefensemagazine.org/blog/Lists/Posts/Post.aspx?ID=350)
+In contrast to their skeptical… a big way.
+
+We’ll isolate two scenarios:
+
+First is __Network-Centric Operations__
+
+Only hosted payloads can provide sufficient protected communications to support net-centric operations
+**__Rosario & Rousseau ‘9__** (J. Del Rosario, and C. Rousseau, Northern Sky Research, LLC, “An Analysis of Hosted Payloads and Dual-use Satellites as Middle Ground between Commercial Outsourcing and Internal Asset Deployment,” paper presented at the ISU 13th Annual International Symposium: Space for a Safe and Secure World, February 18-20, 2009)
+__The government and military vertical … in terms of fully developing “Netcentricity.”__
+
+And, continuing reliance upon commercial leasing will only increase vulnerability
+**__Thompson ‘10__** (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “Lack Of Protected Satellite Communications Could Mean Defeat For Joint Force In Future War,” 4-14-2010, http://www.lexingtoninstitute.org/lack-of-protected-satellite-communications-could-mean-defeat-for-joint-force-in-future-war?a=1&c=1171)
+In the years since the Cold War ended, …__joint force and then kill them__.
+
+Net-centricity is doctrinally entrenched – only a question of effectiveness
+**__Groh ‘10__**(Jeffrey L. Groh, Professor of Information and Technology in Warfare in the Department of Distance Education at the U.S. Army War College, retired Armor Officer, D.Sc., Robert Morris University, “Chapter 23: The Network-Centric Warfare Journey: Realizing the Power of Information,” in The U.S. Army War College Guide to National Security Issues, Volume I: Theory of War and Strategy, 4th Ed., J. Boone Bartholomees, Jr., July 2010, http://www.scribd.com/doc/63365888/4thEditionStategyofWarSSI)
+Now that the literature … synergy on the battlefield.
+
+Net-centric operations are key to sustain naval power in the face of anti-access strategies
+**__Burch ‘8__** (Eric Burch, Master Chief Petty Officer, Information Technology Specialist (ITCM), U.S. Navy, citing a November 2002 U.S. Naval Institute Proceedings article by Vice Admiral Mike Bucchi, U.S. Navy (Ret), and Admiral Mike Mullen, U.S. Navy; “Explanation of Key Maritime Transformational Concepts,” Combined Joint Operations from the Sea, NATO Center of Excellence, March 2008, https://transnet.act.nato.int/WISE/COE/Individual/CJOS/MaritimeIn/MaritimeTr)
+SEA SHIELD embraces emerging technologies …__stability and security in an uncertain century__.
+
+Specifically, __China__ – loss of access ensures takeover of Taiwan
+**__Sollenberger, et al. ‘10__** (Matthew Sollenberger, M.A. student at the Johns Hopkins University, SAIS, B.A. political science with high honors, Swarthmore College; Thilo Schroeter, M.A. student at the Johns Hopkins University SAIS Bologna Center, B.A. International Relations, Dresden University of Technology; Bastiaan Verink, M.A. student at the Johns Hopkins University SAIS Bologna Center, LL.M. International Security with honors, VU University Amsterdam, B.A. International Relations and Economics, Utrecht University; “Challenging US Command of the Commons: Evolving Chinese defense technologies as a threat to American hegemony?” Bologna Center Journal for International Affairs, vol. 13, Spring 2010, http://bcjournal.org/volume-13/challenging-us-command-of-the-commons.html)
+Development of anti-access measures __… in a military conflict over Taiwan__.
+
+Triggers multiple scenarios for Asian conflicts
+**__Mazza ‘11__** (Michael Mazza, senior research associate in Asian Studies in the Foreign and Defense Policy Studies department at the American Enterprise Institute, former policy analyst assistant at SAIC, has lived and studied in China, M.A.s in Strategic Studies and International Economics from the Johns Hopkins University Paul H. Nitze School of Advanced International Studies, cum laude and Phi Beta Kappa at Cornell University, “Why Taiwan Matters,” The Diplomat, 3-8-2011, http://www.aei.org/article/103283)
+Indeed, Washington's mistake … __continued peace in Asia__.
+
+Most probable scenario for escalation to nuclear war
+**__Landy 2K__** (Jonathon Landy, National Security and International Correspondent, Knight Ridder, March 10, l/n)
+Few if any experts think China…__international nonproliferation regime__.
+
+Second is __Nuclear Command and Control__
+
+Entanglement and intervention in future conflicts is inevitable – the effectiveness of nuclear command and control will determine whether they escalate to nuclear use
+**__Lieber and Press ‘9__** (Keir A. Lieber, Associate Professor in the Security Studies Program at Georgetown University’s Edmund A.Walsh School of Foreign Service; Daryl G. Press, Associate Professor of Government at Dartmouth College and Coordinator of the War and Peace Studies Program at the John Sloan Dickey Center for International Understanding, "The Nukes We Need: Preserving the American Deterrent," Foreign Affairs, Nov/Dec 2009, [[http://www.afa.org/Edop/PDFs/Nukes_We_Need_Lieber&Press.pdf]])
+The success of nuclear …leadership for using nuclear weapons.
+
+Nuclear forces are currently unable to communicate with command during war – lack of AEHF capability is the only roadblock
+**__Wood ‘10__** (Jason D. Wood, Policy Analyst with Science Applications International Corporation, working in support of the Defense Threat Reduction Agency’s Advanced Systems and Concepts Office, former Research Associate at the Institute for Foreign Policy Analysis, M.S. with distinction and Earhart Foundation Fellow, Missouri State University’s Graduate Department of Defense and Strategic Studies, “Strategic Security: Toward an Integrated Nuclear, Space, and Cyber Policy Framework,” paper presented at the 2010 Nuclear Scholars Initiative, http://csis.org/files/publication/110916_Wood.pdf)
+One area where this synchronization … __terminals – the forerunner to AEHF__.28
+
+These protected communications are essential to deter aggression and prevent escalation of nuclear crises
+**__DoD ‘11__** (Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs, U.S. Department of Defense, Chapter 4: Nuclear Command, Control, and Communications System, Nuclear Matters Handbook, Expanded Edition, 2011, http://www.acq.osd.mil/ncbdp/nm/nm_book_5_11/chapter_4.htm)
+__The U.S. nuclear command… to a nuclear crisis__.[2]
+
+Specifically, rapid AEHF deployment is critical to ensure bombers on nuclear missions can be recalled
+**__Hodges ‘10__** (Jim Hodges, “Out of Sync,” C4ISR Journal, 7-1-2010, http://www.c4isrjournal.com/story.php?F=4640624)
+When defense …way to the highest levels.”
+
+Recall capability uniquely controls signaling during crises – otherwise, pre-emptive deployments trigger escalation instead of restraint
+**__Johnson, et al ‘9__** (Dana Johnson, senior analyst with the Northrop Grumman Analysis Center, study was commissioned by the Mitchell Institute for Airpower Studies, “Triad, Dyad, Monad? Shaping the Nuclear Force for the Future,” December, http://www.afa.org/mitchell/reports/MP5_Triad_1209.pdf)
+Signaling alert/readiness changes: __… decreasing crisis stability__.
+
+The impact is global WMD wars with Russia, China, North Korea, Iran, and Syria
+**__Schneider ‘8__** (Dr. Mark Schneider, Senior Analyst at the National Institute for Public Policy, “The Future of the US Nuclear Deterrent,” Comparative Strategy, 27(4), Jul-Sep 2008, EBSCOhost)
+__Are there actual existing threats to the survival…__constraints upon U.S. conventional capabilities.
+
+
+===1AC Hosted Payloads=== 
+
+__Advantage Two is Hosted Payloads__
+
+The NSP signaled benign intent in space development, but political controversy and residual global uncertainty over its implementation continue to deny effective multilateral cooperation on space security
+**__Huntley ‘11__** (Wade L. Huntley, Ph.D., senior lecturer in the National Security Affairs department at the Naval Postgraduate School, “The 2011 U.S. National Space Security Policy: Engagement as a Work in Progress,” Disarmament Times, Spring 2011, http://disarm.igc.org/index.php?option=com_content&view=article&id=429:the-2011-us-national-space-security-policy-engagement-as-a-work-in-progress&catid=154:disarmament-times-spring-2011&Itemid=2)
+__U.S. space policy__ in the two …__may lurk in these details__.
+
+
+Specifically, the NSP rhetorically committed to hosted military payloads, but it won’t be implemented for a decade
+**__Hudson ‘11__** (Katie Hudson, “National Security Space Strategy Brings Opportunity for Hosted Payloads,” Hosted Payloads: presented by Space News, 2-7-2011, http://www.hostedpayload.com/blog/national-security-space-strategy-brings-opportunity-for-hosted-payloads)
+Last Friday…policy is actually implemented?
+
+
+That’s because they’re restricted to experimental missions – Congressional action is key
+**__Selding ‘11__** (Peter B. de Selding, “CHIRP Delay Holds Lessons for U.S. Air Force, Industry,” Space News, 9-12-2011, http://www.spacenews.com/military/110912-chirp-delay-lessons-af-industry.html)
+In a presentation here Sept. 12 at the … their __lack of availability__.
+
+
+The plan is essential to move beyond the lip service of the NSP – creates a formal procurement mechanism and standardizes technical interfaces
+**__Rhodes ‘11__** (Rhodes Communications, “To Catch a Moving Train,” Space News International, 5-2-2011, http://rhodescomm.com/_literature_102214/To_Catch_a_Moving_Train)
+__The U.S. Defense Department's … an underutilized commercial space resource__.
+
+
+This uniquely cements cooperation in three ways – __institutionalizes__ engagement, provides the __diplomatic capital__ to pursue a multilateral agenda, and ensures the U.S. is __perceived__ as committed
+**__Berteau ‘10__** (David Berteau, adjunct professor at Georgetown University, Senior Adviser and Director, CSIS DIIG, and Gregory Kiley, Senior Associate focusing on national security and economics, both Project Directors, CSIS Defense-Industrial Initiatives Group, Center for Strategic and International Studies, “National Security and the Commercial Space Sector,” July 2010, p.32-36, [[http://csis.org/files/publication/100726_Berteau_CommcialSpace_WEB.pdf]])
+A. Option Set I: Leverage foreign launch providers __…competition, economic stability, and democracy__.
+
+
+That prevents aggression in space
+**__Lynn ‘11__** (William J. Lynn, III, U.S. Deputy Secretary of Defense, “A Military Strategy for the New Space Environment,” The Washington Quarterly, Summer 2011, http://www.twq.com/11summer/docs/11summer_Lynn.pdf)
+__To respond to the proliferation of … space capabilities from attack__.
+
+
+Otherwise, miscalculation makes conflicts and escalation to extinction inevitable
+**__Mitchell, et al ‘1__** (Gordon M. Mitchell, Assoc. Prof of Communications, University of Pittsburgh, Kevin Ayotte & David Cram Helwich, “Missile Defense: Transatlantic Diplomacy at a Cross-Roads”, ISIS Briefing on Ballistic Missile Defense No. 6, July 2001)
+__A buildup of space … most destructive military conflict ever seen__.
+
+
+==AEHF Aff 1AC (CHP) - Harvard== 
+
+<span style="display: block; font-size: 10pt; text-align: left;">Plan</span>
+<span style="display: block; font-size: 10pt; text-align: left;">Plan:</span>
+<span style="font-size: 10pt;">The United States Congress should substantially increase acquisition of commercially hosted Advanced Extremely High Frequency satellite payloads.</span>
+
+
+===1AC Transmission Security=== 
+
+
+<span style="font-size: 10pt;">Advantage one is transmission security</span>
+
+<span style="font-size: 10pt;">The military’s current plan to supplement AEHF communications satellites with long-term commercial leases fails – no protected bandwidth ensures vulnerability to jamming and interference </span>
+__Werner ‘11__ (Debra Werner, “Demanding times: U.S. military forges new relationship with satcom industry,” C4ISR Journal, 6-1-2011, http://www.c4isrjournal.com/story.php?F=6320183)
+Fifteen years ago, when U.S. military leaders were trying …that would allow the department to cope with a sudden surge in demand.
+
+
+<span style="font-size: 10pt;">Switching to hosted payloads enables a substantial increase in AEHF capability at a lower cost</span>
+__Butler ‘11__ (Amy Butler, “Hosted Payload Hailed For New Business Model,” Aviation Week, 9-14-2011, http://www.aviationweek.com/aw/generic/story.jsp?id=news/asd/2011/09/13/02.xml&headline=Hosted%20Payload%20Hailed%20For%20New%20Business%20Model&channel=defense)
+__Though U.S. Air Force officials are hailing…__West Coast of the U.S. as well as at White Sands Missile Range, N.M.
+
+
+<span style="font-size: 10pt;">And ensures bandwidth shortages are resolved without sacrificing military-grade protection</span>
+__Erwin ‘11__ (Sandra Erwin, “For the Satellite Industry, Lines Blur Between Military and Commercial Markets,” National Defense, NDIA’s business and technology magazine, 3-18-2011, http://www.nationaldefensemagazine.org/blog/Lists/Posts/Post.aspx?ID=350)
+In contrast to their skeptical attitude about refueling technologies… the sector in a big way.
+
+<span style="font-size: 10pt;">We’ll isolate two scenarios:</span>
+
+<span style="font-size: 10pt;">First is __Network-Centric Operations__</span>
+
+<span style="font-size: 10pt;">Only hosted payloads can provide sufficient protected communications to support net-centric operations</span>
+__Rosario & Rousseau ‘9__ (J. Del Rosario, and C. Rousseau, Northern Sky Research, LLC, “An Analysis of Hosted Payloads and Dual-use Satellites as Middle Ground between Commercial Outsourcing and Internal Asset Deployment,” paper presented at the ISU 13th Annual International Symposium: Space for a Safe and Secure World, February 18-20, 2009)
+__The government and military vertical has been a … fully developing “Netcentricity.”__
+
+<span style="font-size: 10pt;">And, continuing reliance upon commercial leasing will only increase vulnerability</span>
+__Thompson ‘10__ (Loren B. Thompson, Chief Operating Officer of the Lexington Institute, former Professor and Deputy Director of the Security Studies Program at Georgetown University, Ph.D., M.A., Government, Georgetown University, B.S., Political Science, Northeastern University, “Lack Of Protected Satellite Communications Could Mean Defeat For Joint Force In Future War,” 4-14-2010, [[http://www.lexingtoninstitute.org/lack-of-protected-satellite-communications-could-mean-defeat-for-joint-force-in-future-war?a=1&c=1171]])
+In the years since the Cold War ended…__joint force and then kill them__.
+
+<span style="font-size: 10pt;">Net-centricity is doctrinally entrenched – only a question of effectiveness</span>
+__Groh ‘10__ (Jeffrey L. Groh, Professor of Information and Technology in Warfare in the Department of Distance Education at the U.S. Army War College, retired Armor Officer, D.Sc., Robert Morris University, “Chapter 23: The Network-Centric Warfare Journey: Realizing the Power of Information,” in The U.S. Army War College Guide to National Security Issues, Volume I: Theory of War and Strategy, 4th Ed., J. Boone Bartholomees, Jr., July 2010, http://www.scribd.com/doc/63365888/4thEditionStategyofWarSSI)
+Now that the literature review is complete, it is … and LandWarNet (U.S. Army) to achieve synergy on the battlefield.
+
+
+<span style="font-size: 10pt;">Net-centric operations are key to sustain naval power in the face of anti-access strategies</span>
+__Burch ‘8__ (Eric Burch, Master Chief Petty Officer, Information Technology Specialist (ITCM), U.S. Navy, citing a November 2002 U.S. Naval Institute Proceedings article by Vice Admiral Mike Bucchi, U.S. Navy (Ret), and Admiral Mike Mullen, U.S. Navy; “Explanation of Key Maritime Transformational Concepts,” Combined Joint Operations from the Sea, NATO Center of Excellence, March 2008, [[https://transnet.act.nato.int/WIt. SE/COE/Individual/CJOS/MaritimeIn/MaritimeTr]])
+SEA SHIELD embraces emerging technologies … __defeat adversaries in the decades ahead, providing stability and security in an uncertain century__.
+
+
+<span style="font-size: 10pt;">Specifically, __China__ – loss of access ensures takeover of Taiwan</span>
+__Sollenberger, et al. ‘10__ (Matthew Sollenberger, M.A. student at the Johns Hopkins University, SAIS, B.A. political science with high honors, Swarthmore College; Thilo Schroeter, M.A. student at the Johns Hopkins University SAIS Bologna Center, B.A. International Relations, Dresden University of Technology; Bastiaan Verink, M.A. student at the Johns Hopkins University SAIS Bologna Center, LL.M. International Security with honors, VU University Amsterdam, B.A. International Relations and Economics, Utrecht University; “Challenging US Command of the Commons: Evolving Chinese defense technologies as a threat to American hegemony?” Bologna Center Journal for International Affairs, vol. 13, Spring 2010, http://bcjournal.org/volume-13/challenging-us-command-of-the-commons.html)
+Development of anti-access measures __China is aware that…in a military conflict over Taiwan__.
+
+<span style="font-size: 10pt;">Triggers multiple scenarios for Asian conflicts</span>
+__Mazza ‘11__ (Michael Mazza, senior research associate in Asian Studies in the Foreign and Defense Policy Studies department at the American Enterprise Institute, former policy analyst assistant at SAIC, has lived and studied in China, M.A.s in Strategic Studies and International Economics from the Johns Hopkins University Paul H. Nitze School of Advanced International Studies, cum laude and Phi Beta Kappa at Cornell University, “Why Taiwan Matters,” The Diplomat, 3-8-2011, http://www.aei.org/article/103283)
+Indeed, <span class="Underline">Washington's mistake is in …</span>__continued peace in Asia__.
+
+<span style="font-size: 10pt;">Most probable scenario for escalation to nuclear war</span>
+__Landy 2K__ (Jonathon Landy, National Security and International Correspondent, Knight Ridder, March 10, l/n)
+Few if any experts think China and Taiwan, North Korea …__shaky international nonproliferation regime__.
+
+<span style="font-size: 10pt;">Independently, Naval Power solves all of your DA’s</span>
+__McGrath ‘10__ (Commander Bryan G. McGrath, U.S. Navy (ret.), Director of Consulting, Studies, and Analysis, Delex Systems, “The Value of Preponderant American Seapower,” 10-19-2010, http://www.informationdissemination.net/2010/10/seapower-manifesto.html)
+Why Seapower? __American Seapower is the most flexible …<span class="Underline"> power in support of ongoing land operations</span>__.
+
+
+<span style="font-size: 10pt;">The only relevant cause of war is the permissive cause – our focus on creating material obstacles to war through preponderance of power is the only theory which can command robust empirical support</span>
+__Levy ‘98__ (Jack S. Levy, Board of Governors' Professor of Political Science at Rutgers University, and Senior Associate at the Saltzman Institute of War and Peace Studies at Columbia University, former president of the International Studies Association, and of the Peace Science Society, “The Causes of War and the Conditions of Peace,” Annual Review of Political Science, vol. 1, 1998, http://fas-polisci.rutgers.edu/levy/1998%20causes%20of%20war%20&%20conditions%20of%20peace.pdf)
+Despite this consensus on what we are trying to explain, __… empirical literature__ (Kugler & Lemke 1996).
+
+
+<span style="font-size: 10pt;">This is especially true when dealing with China – threat denialists overlook important material and discursive indicators of revisionist capabilities and intentions</span>
+__Siddall ‘2K__ (Alexandra Siddall, Second Secretary, Embassy of Australia in Russia, Ph.D., Department of Government, University of Queensland, “The misapplication of defensive realism: the security dilemma and rising powers in East Asia,” paper presented at the 42nd Australian Political Studies Association Annual Conference, 10-5-2000, apsa2000.anu.edu.au/confpapers/siddell.rtf)
+__The difficulty for defensive…the rise of Chinese power__ (Friedberg 1993-94).
+
+
+===1AC Hosted Payloads=== 
+
+
+
+
+__<span style="font-size: 10pt;">Advantage Two is Hosted Payloads</span>__
+
+<span style="background-color: white; font-size: 10pt;">The NSP signaled benign intent in space development, but political controversy and residual global uncertainty over its implementation continue to deny effective multilateral cooperation on space security</span>
+
+**__<span style="background-color: white;">Huntley ‘11</span>__**<span style="background-color: white; font-size: 10pt;"> (Wade L. Huntley, Ph.D., senior lecturer in the National Security Affairs department at the Naval Postgraduate School, “The 2011 U.S. National Space Security Policy: Engagement as a Work in Progress,” Disarmament Times, Spring 2011,</span><span style="font-size: 10pt;">[[http://disarm.igc.org/index.php?option=com_content&view=article&id=429:the-2011-us-national-space-security-policy-engagement-as-a-work-in-progress&catid=154:disarmament-times-spring-2011&Itemid=2]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;"> __U.S. space policy__ in the two …</span><span class="apple-converted-space" style="font-size: 10pt;">__may lurk in these details__.</span>
+
+
+
+<span style="font-size: 10pt;">Specifically, the NSP rhetorically committed to hosted military payloads, but it won’t be implemented for a decade</span>
+
+**__<span style="background-color: white;">Hudson ‘11</span>__**<span style="background-color: white; font-size: 10pt;"> (Katie Hudson, “National Security Space Strategy Brings Opportunity for Hosted Payloads,” Hosted Payloads: presented by Space News, 2-7-2011,</span> <span style="font-size: 10pt;">[[http://www.hostedpayload.com/blog/national-security-space-strategy-brings-opportunity-for-hosted-payloads]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;">Last Friday…policy is actually implemented?</span>
+
+
+
+<span style="font-size: 10pt;">That’s because they’re restricted to experimental missions – Congressional action is key</span>
+
+**__<span style="background-color: white;">Selding ‘11</span>__**<span style="background-color: white; font-size: 10pt;"> (Peter B. de Selding, “CHIRP Delay Holds Lessons for U.S. Air Force, Industry,” Space News, 9-12-2011,</span><span style="font-size: 10pt;">[[http://www.spacenews.com/military/110912-chirp-delay-lessons-af-industry.html]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;">In a presentation here Sept. 12 at the … their __lack of availability__.</span>
+
+
+
+<span style="font-size: 10pt;">The plan is essential to move beyond the lip service of the NSP – creates a formal procurement mechanism and standardizes technical interfaces</span>
+
+**__<span style="background-color: white;">Rhodes ‘11</span>__**<span style="background-color: white; font-size: 10pt;"> (Rhodes Communications, “To Catch a Moving Train,” Space News International, 5-2-2011,</span><span style="font-size: 10pt;">[[http://rhodescomm.com/_literature_102214/To_Catch_a_Moving_Train]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;"> __The U.S. Defense Department's … an underutilized commercial space resource__.</span>
+
+
+
+<span style="font-size: 10pt;">This uniquely cements cooperation in three ways – __institutionalizes__</span><span class="apple-converted-space" style="font-size: 10pt;"> engagement, provides the </span><span style="font-size: 10pt;">__diplomatic capital__</span><span class="apple-converted-space" style="font-size: 10pt;"> to pursue a multilateral agenda, and ensures the U.S. is </span><span style="font-size: 10pt;">__perceived__</span><span class="apple-converted-space" style="font-size: 10pt;"> as committed</span>
+
+**__<span style="background-color: white;">Berteau ‘10</span>__**<span style="background-color: white; font-size: 10pt;"> (David Berteau, adjunct professor at Georgetown University, Senior Adviser and Director, CSIS DIIG, and Gregory Kiley, Senior Associate focusing on national security and economics, both Project Directors, CSIS Defense-Industrial Initiatives Group, Center for Strategic and International Studies, “National Security and the Commercial Space Sector,” July 2010, p.32-36,</span><span style="font-size: 10pt;">[[http://csis.org/files/publication/100726_Berteau_CommcialSpace_WEB.pdf]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;">A. Option Set I: Leverage foreign launch providers __…competition, economic stability, and democracy__.</span>
+
+
+
+<span style="font-size: 10pt;">That prevents aggression in space</span>
+
+**__<span style="background-color: white;">Lynn ‘11</span>__**<span style="background-color: white; font-size: 10pt;"> (William J. Lynn, III, U.S. Deputy Secretary of Defense, “A Military Strategy for the New Space Environment,” The Washington Quarterly, Summer 2011,</span> <span style="font-size: 10pt;">[[http://www.twq.com/11summer/docs/11summer_Lynn.pdf]]</span><span style="background-color: white; font-size: 10pt;">)</span>
+
+<span style="font-size: 10pt;"> __To respond to the proliferation of … space capabilities from attack__.</span>
+
+
+
+<span style="font-size: 10pt;">Otherwise, miscalculation makes conflicts and escalation to extinction inevitable</span>
+
+**__<span style="background-color: white;">Mitchell, et al ‘1</span>__**<span style="background-color: white; font-size: 10pt;"> (Gordon M. Mitchell, Assoc. Prof of Communications, University of Pittsburgh, Kevin Ayotte & David Cram Helwich, “Missile Defense: Transatlantic Diplomacy at a Cross-Roads”, ISIS Briefing on Ballistic Missile Defense No. 6, July 2001)</span>
+
+<span style="font-size: 10pt;"> __A buildup of space … most destructive military conflict ever seen__.</span>
+<span style="font-size: 10pt;">Prefer our methodology – deterrence can only function when grounded in cooperation and trust</span>
+__Lupovici ‘8__ (Amir Lupovici, Post-Doctoral Fellow at the Munk Centre for International Studies, University of Toronto, “Why the Cold War Practices of Deterrence are Still Prevalent: Physical Security, Ontological Security and Strategic Discourse,” http://www.cpsa-acsp.ca/papers-2008/Lupovici.pdf )
+__Since deterrence can become …expectations of avoiding violence__.
+
+
+==Mars== 
+
+===1AC Existential Risk=== 
+
+__Contention One: Existential Risk__
+
+Extinction’s inevitable—consensus of experts.
+**__Matheny ‘7__** (Jason G. Matheny, Research Associate at the Future of Human Institute at Oxford University, Ph.D. Candidate in Applied Economics at Johns Hopkins University, holds a Master’s in Public Health from the Bloomberg School of Public Health at Johns Hopkins University and an M.B.A. from the Fuqua School of Business at Duke University, 2007, “Reducing the Risk of Human Extinction,” //Risk Analysis//, Volume 27, Issue 5, October, Available Online at http://jgmatheny.org/matheny_extinction_risk.htm, Accessed 07-04-2011)
+It is possible for humanity<span style="font-size: 10.66px;"> …</span> in extinction countermeasures<span style="font-size: 10.66px;">.</span>
+
+
+And, you should evaluate impacts through a one-thousand year lens—exclusive focus on the short term makes extinction inevitable.
+**__Tonn ‘4__** (Ph. D., leader of the Policy Analysis Systems Group at Oak Ridge National Laboratory, a professor in the Department of Political Science, University of Tennessee [Bruce E. Tonn, “Integrated 1000-year planning,” Futures, 36 (2004) 91–108, http://longnow.org/static/djlongnow_media/press/pdf/0200402-Tonn-Integrated1000yearplanning.pdf]
+__Why tackle 1000 years and not shorter, more imaginable …__<span style="font-size: 10.66px;">, challenging and integrated global plans.</span>
+
+
+
+
+Ignoring timeframe considerations is essential to accurately assess comparative risk – the greatest dangers to humanity are unknown and unthinkable
+**__Rees 8__** (Sir Martin J. Rees, Professor of Cosmology and Astrophysics and Master of Trinity College at the University of Cambridge, Astronomer Royal and Visiting Professor at Imperial College London and Leicester University, Director of the Institute of Astronomy, Research Professor at Cambridge, “Foreward,” Global Catastrophic Risks, Edited by Nick Bostrom and Milan M. Cirkovic, Published by Oxford University Press, ISBN 9780198570509, 2008, p. x-xi)
+<span style="font-size: 10.66px;">These concerns are not remotely …m scientists, policy-makers and ethicists.</span>
+
+
+Suspend your disbelief – psychological biases make you more likely to fear familiar and specific disad scenarios when the actual risk of them is tiny compared to the unknown
+**__Yudkowsky 8 – foremost expert on Artificial Intelligence and rationality__** (Eliezer, is a Research Fellow at the Singularity Institute for Artificial Intelligence. “Cognitive biases potentially affecting judgement of global risks” This essay appears in a larger book called “Global Catastrophic Risk” edited by Nick Bostrom, pg 85, Donnie)
+A general principle underlying … never yet encountered an extinction event.2
+
+
+Their specific scenarios may seem persuasive, but every detail and every link drastically reduces their probability
+**__Yudkowsky ‘6__** (Eliezer Yudkowsky, Co-founder and Research Fellow of the Singularity Institute for Artificial Intelligence—a non–profit research institute dedicated to increasing the likelihood of, and decreasing the time to, a maximally beneficial singularity, one of the world’s foremost experts on Artificial Intelligence and rationality, “Cognitive Biases Potentially Affecting Judgment Of Global Risks,” Draft of a chapter in Global Catastrophic Risks, edited by Nick Bostrom and Milan Cirkovic, August 31st, 2006, Available Online at http://singinst.org/upload/cognitive-biases.pdf, Accessed 11-11-2010)
+__According to probability theory, adding … implausibly detailed risk scenarios__<span style="font-size: 10.66px;">.</span>
+
+
+
+This means they have to win that the cumulative probability of all of their disad claims is greater than the simple probability that the plan is able to get off the rock – the nature of mathematical risk assessment makes this impossible
+**__Yudkowsky ‘6__** (Eliezer Yudkowsky, Co-founder and Research Fellow of the Singularity Institute for Artificial Intelligence, one of the world’s foremost experts on Artificial Intelligence and rationality, “Cognitive Biases Potentially Affecting Judgment Of Global Risks,” Draft of a chapter in //Global Catastrophic Risks//, eds. Nick Bostrom and Milan Cirkovic, 8-31-2006, http://singinst.org/upload/cognitive-biases.pdf)
+<span style="font-size: 9.33px;">More generally, </span>__people tend to overestimate conjunctive …, disjunctions make for an awkward and unpoetic-sounding prophecy__<span style="font-size: 9.33px;">. </span>
+
+
+
+And, reducing existential risk by even a tiny amount outweighs every other impact — the math is conclusively on our side.
+**__Bostrom ’11 PhD in philosophy and foremost expert on existential risk__** (Nick Bostrom, Professor in the Faculty of Philosophy & Oxford Martin School, Director of the Future of Humanity Institute, and Director of the Programme on the Impacts of Future Technology at the University of Oxford, recipient of the 2009 Eugene R. Gannon Award for the Continued Pursuit of Human Advancement, holds a Ph.D. in Philosophy from the London School of Economics, 2011, “The Concept of Existential Risk,” Draft of a Paper published on ExistentialRisk.com, Available Online at [[http://www.existentialrisk.com/concept.html]], Accessed 07-04-2011)
+<span style="font-size: 10.66px;">Holding probability constant, risks become …</span> positive value of the direct benefit of such an action<span style="font-size: 10.66px;">.[13]</span>
+
+
+
+The role of the ballot is to minimize existential risk—even if the probability is low the stakes are too high.
+**__Anissimov ‘4__** (Michael Anissimov, science and technology writer focusing specializing in futurism, founding director of the Immortality Institute—a non-profit organization focused on the abolition of nonconsensual death, member of the World Transhumanist Association, associate of the Institute for Accelerating Change, member of the Center for Responsible Nanotechnology's Global Task Force, 2004 (“Immortalist Utilitarianism,” Accelerating Future, May, Available Online at [[http://www.acceleratingfuture.com/michael/works/immethics.htm]], Accessed 09-09-2011)
+<span style="font-size: 10.66px;">The value of contributing to Aubrey de …making prevention of such risks a central focus.</span>
+
+
+
+This requires you to ignore many familiar impact scenarios – they are unfortunate but unlikely to pose an existential risk – humanity will recover
+**__Bostrom ‘2__** (Nick Bostrom, Professor in the Faculty of Philosophy & Oxford Martin School, Director of the Future of Humanity Institute, and Director of the Programme on the Impacts of Future Technology at the University of Oxford, recipient of the 2009 Eugene R. Gannon Award for the Continued Pursuit of Human Advancement, holds a Ph.D. in Philosophy from the London School of Economics, “Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards,” Journal of Evolution and Technology, Volume 9, Number 1, 2002, http://www.nickbostrom.com/existential/risks.html, Accessed 07-04-2011)
+__Existential risks are distinct from …__<span style="font-size: 10.66px;"> human civilization </span>__for all time to come__<span style="font-size: 10.66px;">.</span>
+
+
+No war – modern day costs and known consequences
+<span style="font-size: 16px;">Mandelbaum 99</span> (Michael, prof, http://www.ciaonet.org/conf/cfr10/, dw: 2-25-1999, da: 7-4-2011, lido)
+So if I am right, …<span class="underline0"> the places where World War III could begin.</span>
+
+No war - Deterrence
+**Waltz, 1981** [Kenneth, a member of the faculty at Columbia University, one of the most prominent scholars of international relations (IR) alive today, co-founder of neorealism, or structural realism, in international relations theory, “The Spread of Nuclear Weapons: More May Better,” //Adelphi Papers//, Number 171 (London: International Institute for Strategic Studies]
+__<span style="font-size: 14.66px;">The presence … become ever costlier and more destructive</span>__<span style="font-size: 9.33px;">. </span>
+
+
+No escalation
+**Martin, 1982** (Brian, Professor of Social Sciences in the School of Social Sciences, Media and Communication at the University of Wollongong, Journal of Peace Research, Vol. 19, No. 4, pp. 287-300 [[http://www.uow.edu.au/arts/sts/bmartin/pubs/82jpr.html]])
+__It often has been argued … of nuclear war__ in the first place.[29]
+
+
+
+Doesn’t cause extinction
+<span style="font-size: 16px;">Nyquist 99</span> (JR, writer and expert, http://www.wnd.com/news/article.asp?ARTICLE_ID=19722, da: 7-4-2011, dw: 7-5-1999, lido)
+As I write about …<span class="underline0">Nuclear Explosions"</span> (Science, December 1983).
+
+it won’t cause extinction.
+**Martin, 1982** (Brian, Professor of Social Sciences in the School of Social Sciences, Media and Communication at the University of Wollongong, Journal of Peace Research, Vol. 19, No. 4, pp. 287-300 [[http://www.uow.edu.au/arts/sts/bmartin/pubs/82jpr.html]])
+
+To summarise the … in nuclear extinction are quite sincere.[15]
+
+
+Thus, the plan:
+
+The United States federal government should permanently settle Mars.
+
+
+===1AC Risk Diversification=== 
+__Contention Two: Risk Diversification__
+
+Permanently settle means launching a one-way mission
+**__Gunn ‘98__** (Thomas A. Gunn, “PLANET MARS HOME PAGE© SOME RESULTS AFTER THREE YEARS OPERATION,” 1998, http://www.marspapers.org/papers/MAR98013.pdf)
+<span style="font-size: 10.66px;">Another of the fundamental areas …</span>__human settlement of Mars__<span style="font-size: 10.66px;">.</span>
+
+
+This is the only feasible way to diversify existential risk in the __immediate term__
+**__Schulze-Makuch & Davies ‘10__** (Dirk Schulze-Makuch, Ph.D., School of Earth and Environmental Sciences, Washington State University; and Paul Davies, Ph.D., Beyond Center, Arizona State University; “To Boldly Go: A One-Way Human Mission to Mars,” Journal of Cosmology, vol.12, October-November, 2010, http://journalofcosmology.com/Mars108.html)
+<span style="font-size: 10.66px;">The exploration of Mars has been …</span> __current chemical rocket technology__<span style="font-size: 10.66px;">. </span>
+
+
+That’s because only Mars insulates humanity from __unknown__ risks
+**__Gott ‘9 – Professor of Astrophysics__** (J. Richard Gott, Professor of Astrophysics at Princeton University, recipient of the Robert J. Trumpler Award, an Alfred P. Sloan Fellowship, the Astronomical League Award, and Princeton's President's Award for Distinguished Teaching, “A Goal for the Human Spaceflight Program,” NASA, 7-17-2009, [[http://www.nasa.gov/pdf/368985main_GottSpaceflightGoal.pdf]])
+<span style="font-size: 10.66px;">The goal of the human spaceflight program should be ….</span>__<span style="font-size: 16px;">, </span>____Mars would seem the logical place to start____<span style="font-size: 24px;">.</span>__
+
+
+
+And, only a one-way mission can __launch quickly__ enough to beat their disad timeframe
+**__Gott ‘11__** (J. Richard Gott, Professor of Astrophysics at Princeton University, recipient of the Robert J. Trumpler Award, an Alfred P. Sloan Fellowship, the Astronomical League Award, and Princeton's President's Award for Distinguished Teaching, “A One-Way Trip to Mars,” Journal of Cosmology, vol.13, 2011, [[http://journalofcosmology.com/Mars151.html]])
+<span style="font-size: 10.66px;">"</span>__The goal of the …__<span style="font-size: 10.66px;"> we be wise enough to do this? </span>
+
+
+
+And, it resolves concerns about radiation, gravity, and reproduction
+**__Boyle ‘10__** (Alan Boyle, “Going to Mars ... on a one-way trip,” MSNBC, 10-18-2010, http://cosmiclog.msnbc.msn.com/_news/2010/10/18/5312576-going-to-mars-on-a-one-way-trip)
+<span style="font-size: 10.66px;">Schulze-Makuch and Davies don't …</span> __exploration of the outer solar system and the asteroid belt__<span style="font-size: 10.66px;">."</span>
+
+
+
+And, prevents back contamination
+**__Schulze-Makuch & Davies ‘10__** (Dirk Schulze-Makuch, Ph.D., School of Earth and Environmental Sciences, Washington State University; and Paul Davies, Ph.D., Beyond Center, Arizona State University; “To Boldly Go: A One-Way Human Mission to Mars,” Journal of Cosmology, vol.12, October-November, 2010, http://journalofcosmology.com/Mars108.html)
+<span style="font-size: 10.66px;">While the pragmatic advantages of …</span>__botched sample return mission__<span style="font-size: 10.66px;"> (Rummel et al. 2002). </span>
+
+
+
+Radiation isn’t a problem anyway
+**__Zubrin ’11 – leading expert on Mars research__** (Robert Zubrin, formerly a senior astronautical engineer at Lockheed Martin, chairman of the executive committee of the National Space Society, President of Pioneer Astronautics, a space-exploration research and development firm, and president of the Mars Society, a space advocacy group, “5: KILLING THE DRAGONS, AVOIDING THE SIRENS,” Chapter 5, //The Case for Mars: The Plan to Settle the Red Planet and Why We Must//, 6-28-2011, Kindle)
+<span style="font-size: 10.66px;">One of the leading dragons barring the path to …</span> __for a piloted Mars mission__<span style="font-size: 10.66px;">. </span>
+
+
+Neither is zero-gravity
+**__Zubrin ’11__** (Robert Zubrin, formerly a senior astronautical engineer at Lockheed Martin, chairman of the executive committee of the National Space Society, President of Pioneer Astronautics, a space-exploration research and development firm, and president of the Mars Society, a space advocacy group, “5: KILLING THE DRAGONS, AVOIDING THE SIRENS,” Chapter 5, //The Case for Mars: The Plan to Settle the Red Planet and Why We Must//, 6-28-2011, Kindle)
+<span style="font-size: 10.66px;">Another dragon barring the path to … be for zero gravity.” Get the picture?</span>
+
+
+Neither is exobacteria
+**__Zubrin ’11__** (Robert Zubrin, formerly a senior astronautical engineer at Lockheed Martin, chairman of the executive committee of the National Space Society, President of Pioneer Astronautics, a space-exploration research and development firm, and president of the Mars Society, a space advocacy group, “5: KILLING THE DRAGONS, AVOIDING THE SIRENS,” Chapter 5, //The Case for Mars: The Plan to Settle the Red Planet and Why We Must//, 6-28-2011, Kindle)
+<span style="font-size: 10.66px;">The last of the five …only we had a sample of Martian life in our hands.</span>
+
+NASA is key to colonize Mars
+**<span style="font-size: 14.66px;"> Seedhouse 2009 </span>**(Erik, aerospace scientist and staffed spaceflight consultant, Martian Outpost, p.10) Modified for gendered language
+__The cautious approach of … for a manned [staffed] mission to Mars.__
+
+
+
+==AEHF Aff 2ACs (CHP)== 
+
+===2AC Politics=== 
+
+
+**<span style="background-color: white;">Obama is pushing advance appropriations for AEHF now</span>**
+__<span style="background-color: white;">Executive Office of the President ‘11</span>__ (Executive Office of the President, Office of Management and Budget, “Statement of Administration Policy,” 5-24-2011,http://www.whitehouse.gov/sites/default/files/omb/legislative/sap/112/saphr1540r_20110524.pdf)
+Advance Appropriations: The Administration appreciates the Committee’s stated support for the Administration’s new strategy for reforming space acquisition. However**,** **__the Administration is disappointed...__**__cost discipline approach__**.**
+
+**<span style="background-color: white;">Congress hates that – there’s only a risk that shifting to a different mechanism is more popular</span>**
+__<span style="background-color: white;">House Armed Services Committee ‘11</span>__ (Subcommittee on Strategic Forces, Armed Services Committee, U.S. House of Representatives, “H.R. 1540 - Fy12 National Defense Authorization Bill,”http://armedservices.house.gov/index.cfm/files/serve?File_id=2d22f281-e250-48ab-b141-93db2ffe7985)Summary Of Bill Language Title I-Procurement Section 132-Procurement of Advanced Extremely High Frequency Satellites
+This section would authorize...__future budget requests__ .
+
+**<span style="background-color: white;">Their links don’t assume that the plan is perceived as a cost-cutting mechanism – any spending spin argument just bolsters the link turn</span>**
+__<span style="background-color: white;">Morring & Taverna ‘11</span>__ (Frank Morring, Jr., Michael A. Taverna, “U.S. Budget Crunch May Boost Hosted Payloads,” Aviation Week, 3-18-2011,http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=space&id=news/awst/2011/03/07/AW_03_07_2011_p88-292937.xml&headline=U.S.%20Budget%20Crunch%20May%20Boost%20Hosted%20Payloads)
+__Satellite operators who..,to__ __meet government needs__.
+
+**<span style="background-color: white;">The concept’s been introduced and approved – it’s just a question of follow-through now</span>**
+__<span style="background-color: white;">Simpson 11-1</span>__ (Jim Simpson, Vice President of Business Development, Space and Intelligence Systems, Boeing, “View From The Top: Jim Simpson Vice President, Business Development, Boeing,” Via Satellite, 11-1-2011, l/n)
+Via Satellite: Has the U.S. government's...the next couple of years.
+
+
+===<span style="background-color: white;">2AC T - Humans</span>=== 
+
+<span style="font-family: Arial,sans-serif;">Counter-interpretation – increase applies to existing programs</span>
+**__<span style="font-family: Arial,sans-serif;">Buckley et al ‘6</span>__**<span style="font-family: Arial,sans-serif;"> (Jeremiah Buckley, Founding partner of BUCKLEY KOLLAR LLP, serves as general counsel for Electronic Signatures and Records Association, and GOODWIN PROCTOR LLP, November 13, 2006, Supreme Court, http://supreme.lp.findlaw.com/supreme_court/briefs/06-84/06-84.mer.ami.mica.pdf) </span>
+<span style="font-family: Arial,sans-serif; font-size: 8pt;">First, the court said that the…</span>__<span style="font-family: Arial,sans-serif;">of an already-existing policy</span>__
+
+<span style="font-family: Arial,sans-serif;">And, development means putting stuff in space</span>
+**__<span style="font-family: Arial,sans-serif;">SDPA ‘5</span>__**<span style="font-family: Arial,sans-serif;"> (Space Development Promotion Act of the Republic of Korea, 5-31-2005, reprinted in the UN Committee on Peaceful Uses of Outer Space, http://www.unoosa.org/pdf/limited/c2/AC105_C2_2009_CRP14E.pdf) </span>
+<span style="font-family: Arial,sans-serif; font-size: 8pt;">The terms in this act are…as activities that promote such activities</span>
+
+<span style="font-family: Arial,sans-serif;">And in the context of governmental development, that means NASA and DoD space programs</span>
+**__<span style="font-family: Arial,sans-serif;">GAO ‘10</span>__**<span style="font-family: Arial,sans-serif;"> (US Government Accountability Office, “United States Government Stewardship Information (Unaudited) for the Years Ended September 30, 2010, and 2009 Stewardship Investments,” http://www.gao.gov/financial/fy2010/10stew.pdf)</span>
+<span style="font-family: Arial,sans-serif; font-size: 8pt;">With regard to development…with the current suite of missions</span>
+<span style="font-family: Arial,sans-serif;">And there are infinite potential human activities in space </span>
+**__<span style="font-family: Arial,sans-serif;">Weeks ‘10</span>__**//<span style="font-family: Arial,sans-serif;"> - </span>//<span style="font-family: Arial,sans-serif;">teaches courses on international relations, space law and outer space development at Webster University and Washington University in St. Louis, and has presented a variety of papers at the International Astronautical Federation Congress and is a member of the International Institute of Space Law (Edyth, “Outer Space Development: Including Everyone in the Process,” 7/9, [[http://www.e-ir.info/?p=4545]])</span>
+__<span style="font-family: Arial,sans-serif;">Outer space development studies…</span>__<span style="font-family: Arial,sans-serif; font-size: 8pt;">in tangible careers opportunities</span>
+<span style="font-family: Arial,sans-serif;">Counter-interpretation – development is communications and surveillance satellites </span>
+**__<span style="font-family: Arial,sans-serif;">Hickman & Dolman ‘2</span>__****<span style="font-family: Arial,sans-serif;"> – </span>**<span style="font-family: Arial,sans-serif;">both are professors at Berry College (John and Everett, Comparative Strategy, “Resurrecting the Space Age: A State–Centered Commentary on the Outer Space Regime,” 21:1-20, ebsco)</span>
+<span style="font-family: Arial,sans-serif; font-size: 8pt;">The impracticality of…or locations beyond LEO</span>
+
+
+
+=Negative= 
+==Topicality== 
+
+===1NC T-Humans=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">**A) Interpretation: space development is limited to staffed commercial projects** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Livingston 07** – former adjunct professor in the Graduate School of Business at Golden Gate University his doctoral dissertation was titled “Outer Space Commerce: Its History and Prospects” citing Eric Westling co-author of “The Space Elevator” and numerous papers on space tech and development [quals in card] (9/10/07, “This Week On The Space Show: Eric Westling”, </span><span style="color: #000000; font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">[[http://www.thespaceshow.com/guest.asp?q=298|__http://www.thespaceshow.com/guest.asp?q=298__]]</span><span style="font-family: Arial,Helvetica,sans-serif;">)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Modified for gendered language</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Eric Westling is a science writer... __manned [staffed] commercial projects in space__.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**And exploration means expanding human presence into space**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Logsdon, 9 -** professor of political science at George Washington, former director of the Space Policy Institute (John, “Fifty Years of Human Spaceflight //Why Is There Still a Controversy?,”// </span><span style="color: #000000; font-family: Arial,Helvetica,sans-serif;">[[@http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100025875_2010028362.pdf]]</span><span style="font-family: Arial,Helvetica,sans-serif;">) Exploration as a Compelling Rationale Many believe that the only sustainable rationale ...also to some of the several “secondary objectives.”</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**B) Violation: the aff doesn’t send humans into space, that’s distinct from tech**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**C) Vote neg**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">1) **Predictable limits** – we exclude the hundreds of potential satellite and military affs that justify sending or modifying anything into space 2) **Ground** – military and satellite affs require radically different disad and CPs than staffed commercial expeditions – they justify multiple topics worth of research</span>
+===1NC T-Mesosphere/Beyond=== 
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**“Beyond” limits topical action outside the defined limit**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Cambridge ‘10 (Dictionaries Online, “beyond”, [[http://dictionaries.cambridge.org/define.asp?key=beyond*2+0&dict=A]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__beyond__** (OUTSIDE A LIMIT) **__preposition__**, adverb **__outside__** or after **__a stated limit__**</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**That means aff action must occur in space, at least 100 km above the surface – this reflects an international scientific consensus** **WiseGeek No Date** </span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px; text-decoration: none;">(wiseGEEK is a team of researchers, writers and editors dedicated to providing short, clear and concise answers to common questions, “What is the Kármán line?” [[http://www.wisegeek.com/what-is-the-karman-line.htm]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__The Kármán line...__**designation as the Kármán line.</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC T-Its</span>=== 
+
+**A. Interpretation-**
+
+**‘Its’ is a possessive pronoun showing ownership**
+Glossary of English Grammar Terms, 2005 ([[http://www.usingenglish.com/glossary/possessive-pronoun.html]])
+Mine, yours, his, hers... shows that it belongs to me.)
+
+**And, NASA support of commercial space development is distinct from ‘its own’ space development programs**
+Berger 11 - Houston Chronicle's space, weather and science reporter. (“NASA still being torn between commercial space and its own rockets,” Houston Chronicle Blog, 2/14, [[http://blog.chron.com/sciguy/2011/02/nasa-still-being-torn-between-commercial-space-and-its-own-rockets/]]
+The president’s budget for NASA ... new NASA rocket and crew vehicle.
+
+**B. Violation- the plan increases the ability of private companies to develop space- that’s distinct from federally owned projects**
+**C. It’s a voting issue:**
+**A sub point is Limits- allowing private companies explodes the topic- infinite possibilities for extension of legal frameworks into space means that we would need to prep out case negs to each different legal chance- that also destroys our ability to read disads against government space programs, which is a core question on the topic.**
+**B Subpoint is Effects topicality is bad:**
+**kills limits – Literally any action can eventually lead to topical action forcing impossible burdens on the negative**
+**Undermines Ground – the affirmative can use their extra steps to spike out of disad links and counter-plans shredding negative ground**
+**Functional Future Fiat – by the time that the topical effect of the plan takes place the uniqueness for disadvantages would be unpredictable.**
+**Steals Negative Ground – effects topicality allows the affirmative to sap negative counter-plan ground**
+==Kritiks== 
+
+===1NC Astropolitics K=== 
+<span style="font-size: 110%;">**The affirmative’s call for space exploration and/or development is a __pretense__ — __dual-use capabilities__ ensure military space technologies are deployed to achieve __new forms of political killing.__**</span>
+<span style="font-size: 110%;">**Duvall and Havercroft 6** — Raymond D. Duvall, Professor of Political Science at the University of Minnesota, and Jonathan Havercroft, Lecturer in Political Science at the University of Victoria, 2006 ("Taking Sovereignty Out of This World: Space Weaponization and the Production of Late-Modern Political Subjects," Paper Presented At The Annual Meeting Of The International Studies Association, Panel SC08: Reading Outer Space, March 22nd-25th, Available Online via All Academic at http://citation.allacademic.com/meta/p_mla_apa_research_citation/0/9/8/6/8/p98680_index.html, Accessed 07-18-2011)</span>
+
+The weaponization of space—the act of placing weapons in outer space ... of each of these new modes of political killing.
+
+
+**This militarization of space expands US sovereignty to __legitimize violence__—the aff reduces the world to __Bare Life__.**
+<span style="font-size: 110%;">**Duvall and Havercroft 6** — Raymond D. Duvall, Professor of Political Science at the University of Minnesota, and Jonathan Havercroft, Lecturer in Political Science at the University of Victoria, 2006 ("Taking Sovereignty Out of This World: Space Weaponization and the Production of Late-Modern Political Subjects," Paper Presented At The Annual Meeting Of The International Studies Association, Panel SC08: Reading Outer Space, March 22nd-25th, Available Online via All Academic at http://citation.allacademic.com/meta/p_mla_apa_research_citation/0/9/8/6/8/p98680_index.html, Accessed 07-18-2011)</span>
+
+Thus, application of force from outer space would ... the use of space weapons that constituted this sovereign in the first place.
+
+
+**That risks __extinction__.**
+**Dean 1** — Mitchell Dean, Professor of Sociology at Macquarie University (Australia), 2001 (“'Demonic Societies': Liberalism, Biopolitics, and Sovereignty,” //States of Imagination: Ethnographic Explorations of the Postcolonial State//, Edited by Thomas Blom Hansen and Finn Stepputat, Published by Duke University Press, ISBN 0822327988, p. 53-56)
+
+This allows us, first, to consider ... in the functioning of the modern state.
+
+
+<span style="font-size: 110%;">**The alternative is to reject the affirmative’s call for space domination in favor of critical geopolitics—this is a prerequisite to effective space exploration.**</span>
+<span style="font-size: 110%;">**MacDonald 7** **—** Fraser MacDonald, Lecturer in Human Geography at the School of Anthropology, Geography and Environmental Studies at the University of Melbourne, 2007 ("Anti-Astropolitik – outer space and the orbit of geography," //Progress in Human Geography//, Volume 31, Number 5, Available Online to Subscribing Institutions via SAGE Publications Online)</span>
+Conclusions Stephen Graham, following Eyal Weizmann ... Through such means, can space be given a truly human geography.
+
+==Counterplans== 
+===1NC Privatization CP=== 
+
+**Text: The United States federal government should offer a prize of up to 100 million dollars for the first privately owned company which ___.__**
+
+__**100 million solves, provides enough of an incentive for companies to develop technology for space exploration and development**__
+**<span class="citesChar">Jobes, 4</span>**__(Douglas O president of The Space Settlement Institute. “Will government-sponsored space prizes fly? November 15th http://www.thespacereview.com/article/270/1)
+The major news services haven’t picked up the story yet ...<span class="Underline"> even more ambitious government-funded </span>competition<span class="Underline">.</span>
+
+===1NC Treaty CP=== 
+
+<span style="display: block; text-align: justify;">**The President of the United States should sign the Outer Space Security and Development Treaty, encourage other countries to sign the treaty, and announce that the United States intends to be bound by the treaty.**</span>
+<span style="display: block; text-align: justify;">**Article I bans all present and potential weaponization**</span>
+<span style="display: block; text-align: justify;">**OSSDT ‘11**(Dr. Carol Rosin, an aerospace consultant, educator, and Founder of the Institute for Security and Cooperation in Outer Space, Dr. C. B. Scott Jones, a former navy jet fighter pilot and nuclear weapons delivery pilot who briefed scientific and technical intelligence to the President’s Scientific Advisory Committee, former senior aide to U.S. Senator Claiborne Pell, and Founder of P.E.A.C.E Inc. to establish global dialogue on extraterrestrial contact and disclosure, Apollo astronaut Dr. Edgar Mitchell who Founded the Institute of Noetic Sciences researching new studies of the brain, mind and consciousness and outspoken expert on the reality of Cosmic Cultures, retired Boeing aerospace company executive Abe Krieger, and retired Commander Will Miller, military advisor to a number of experts in the UFO field, “Outer Space Security and Development Treaty of 2011,” Submitted 2/15/11, ISCOS, __<span style="color: #0000ff;">http://www.peaceinspace.com/2-19-2011OuterSpaceTreaty.pdf</span>__)</span>
+<span style="display: block; text-align: justify;">1. Each Nation State…treaty of 2011.</span>
+<span style="display: block; text-align: justify;">**Key to space leadership, soft power, global stability and space exploration**</span>
+<span style="display: block; text-align: justify;">**Briggs ’10** (Michael Joseph Deane Briggs, Graduate of the Air Command and Staff College and Major in the USAF, “Policy Recommendation for the United States Regarding the Weaponization Of Space,” March 2010, Maxwell AFB)</span>
+The third approach … of space law.
+
+
+===1NC ESA CP (Generic)=== 
+**Text: The European Space Agency should request cooperation with the U.S. on ___.**
+
+**ESA can do satellites**
+**Pasco 6** (Xavier, PhD in political science, professor at the University of Maryland, July 2006, Center for International and Security Studies at Maryland, “A European Approach to Space Security,” <span style="color: #000000;">http://www.cissm.umd.edu/papers/files/pasco2006.pdf</span> MGE)
+The United States and Europe ... European knowledge and know-how.11
+===1NC ESA CP (NEOs)=== 
+**Text: The European Space Agency should request cooperation with the U.S. on ___.**
+
+**The ESA and NASA want to work together on Asteroid deflection — solves Aff but avoids Net Benefit**
+Space Daily 2010 (An International Response To Earth Threatening Asteroids, 11/7, lexis)
+Planetary Defense <span class="underline0">The workshop brought together ... </span>very preventable natural hazard."
+
+**<span style="font-size: 13.33px;">CP solves tracking – the EU has extensive knowledge and experience due to NEO mission studies</span>**
+Galvez 11 (Andres, General Studies Programme manager at European Space Agency, “ESA asteroid mission studies – what have we learnt?” 2011 IAA Planetary Defense Conference, 5/11/11, <span style="color: #000000;">[[http://cms.dynaweb3.nl/users/esa/docs/11C03_Planetary_Defense/session5.htm|__http://cms.dynaweb3.nl/users/esa//docs/11C03_Planetary_Defense/session5.htm__]]</span>)
+A great amount of practical ... the definition of NEO mission campaigns.
+===1NC ESA CP (DSCOVR)=== 
+**The European Space Agency should develop and deploy the TRUTHS and Solar Sentinels satellites. The European Space Agency should invite the United States Federal Government to collaborate and offer data-sharing.**
+
+
+**TRUTHS solves climate data, global calibration, and warming**
+**__Science Daily ‘11__** (“Uncertain Climate Models Impair Long-Term Climate Strategies: New Calibration Satellite Required to Make Accurate Predictions, Say Scientists,” 9-20-2011)
+<span style="font-size: 9.33px;">Secondly, although the space industry </span> __**...**__<span style="font-size: 9.33px;"> big international business in the near future."</span>
+
+
+**And, Solar Sentinels solve space weather warning**
+**__Dooling ‘6__** (Dave Dooling, education and public outreach officer, National Solar Observatory, “Solar Sentinels,” NASA Science News, 9-1-2006, http://science.nasa.gov/science-news/science-at-nasa/2006/01sep_sentinels/)
+<span style="font-size: 9.33px;">"</span>**__NASA needs reliable forecasts ...__**<span style="font-size: 9.33px;">. Meanwhile, Solar Cycle 24 is beginning.</span>
+
+===<span style="font-size: 110%;">1NC Near Space CP</span>=== 
+
+**Competition – counterplan is not in space**
+
+**__Tomme ‘5__** (Lieutenant Colonel Edward B. Tomme, Ph.D. Physics, Department of Physics, U.S. Air Force Academy, Air Force Space Battlelab, Air Force Space Command, “The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler,” Airpower Research Institute, College of Aerospace Doctrine, Research and Education, Air University, Research Paper 2005-001, 2005, http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf)
+
+<span style="font-size: 9.33px;">At a recent … </span>**__the boundary of space__**<span style="font-size: 9.33px;">. </span>
+
+
+
+
+**Solves the aff – the technology is ready to go and can carry any payload**
+
+**__Tomme ‘5__** (Lieutenant Colonel Edward B. Tomme, Ph.D. Physics, Department of Physics, U.S. Air Force Academy, Air Force Space Battlelab, Air Force Space Command, “The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler,” Airpower Research Institute, College of Aerospace Doctrine, Research and Education, Air University, Research Paper 2005-001, 2005, http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf)
+
+<span style="font-size: 9.33px;">Now that we have seen … </span>**__a new place to operate__**<span style="font-size: 9.33px;">. </span>
+==Disadvantages== 
+===1NC SKFTA (Wake Forest)=== 
+
+<span style="font-size: 110%;">**SKFTA will pass- Obama is pushing** </span>
+<span style="font-size: 110%;">**__TheHill.com, 9/6__** (Vicki Needham, “GOP leaders urge action on trade bills,” http://thehill.com/homenews/news/179717-gop-leaders-urge-quick-passage-of-trade-bills)</span>
+
+Passing three pending free-trade agreements remains ... according to analysis by the Coalition for GSP.
+
+**Plan saps PC**
+**< < < > > >**
+
+**PC key to SKFTA**
+__**Joogang Daily, 7/6**__ (Joogang Daily- Korean newspaper part of the International Herald Tribune, “Endgame for KORUS,” http://joongangdaily.joins.com/article/view.asp?aid=2938477)
+
+They will also be used by opponents of the president’s strategy ... <span class="underline">whether he can succeed in his audacious gamble. </span>
+
+<span style="font-size: 110%;">**Korus is key to relations with South Korea** </span>
+__**Arirang, 8/30**__ (Arirang is a Korea-based television station, “US Think Tank Warns 'Failure or Delay' in KORUS FTA Threatens Bilateral Ties,” http://www.arirang.co.kr/News/News_View.asp?nseq=119778&code=Ne2&category=2)
+
+The US Congressional Research Service on Monday ...<span class="underline"> beef, labor and the environment. </span>
+
+
+<span style="font-size: 110%;">**Relations solve multiple scenarios of nuclear war**</span>
+**__Pritchard et al, 9__** [<span style="font-size: 110%;">Jack, President, Korea Economic Institute, John Tilelli, Chairman and CEO, Cypress Int’l, and Scott Snyder, Adjunct Senior Fellow for Korea Studies, “A New Chapter for U.S.-South Korea alliance” Council on Foreign Relations -- June 16http://www.cfr.org/publication/19635/new_chapter_for_ussouth_korea_alliance.html]</span>
+
+While all eyes have been trained on North Korea's belligerent and aggressive actions in recent weeks ... the potential of alliance cooperation in the service of our shared interests.
+
+
+**North Korean nuclear use will lead to catastrophe – destroys the ozone layer, global agriculture, the economy, and the global nonproliferation regime**
+__**Hayes and Green, 10**__ __-__ *Victoria University AND **Executive Director of the Nautilus Institute (Peter and Michael, “-“The Path Not Taken, the Way Still Open: Denuclearizing the Korean Peninsula and Northeast Asia”, 1/5, [[http://www.nautilus.org/fora/security/10001HayesHamalGreen.pdf]])
+The consequences of failing to address ... one that warrants priority consideration from the international community.
+
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC China Bashing DA (St. Marks, Glenbrooks)</span>=== 
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Boehner is holding off China bashing legislation in the House now – but capital is key** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Cornwell 10-13__** (Susan Cornwell, “Analysis: Boehner stands firm against China currency bill,” Reuters, 10-13-2011, [[http://uk.reuters.com/article/2011/10/12/us-china-usa-yuan-idUKTRE79B07M20111012]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;"> __<span style="font-size: 13.33px;">A controversial U.S. bill aimed at **forcing China to**</span>__...**__<span style="font-size: 13.33px;">other Republicans or Democrats</span>__**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">.</span>
+
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Gets blame, saps capital** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Garrett ‘11__** (Major Garrett, “A Kinder, Gentler Speaker?” The Atlantic, 6-5-2011, [[http://www.theatlantic.com/politics/archive/2011/06/a-kinder-gentler-speaker/239935/]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">On the eve of a potential government shutdown in April, a deal was finally on the table to avert the crisis. House Speaker John Boehner stared at President Obama, Senate Majority Leader Harry Reid, and a retinue of White House and Hill aides knowing that his decision would be the most fateful of his young speakership. He understood that his handling of this first clash with Obama would reverberate for months--and quite possibly define his negotiating authority with the White House and with his 87-member freshman class. The tension was palpable. Boehner, reticent both publicly and privately to delve into the divine, did so now. "Mr. President, I'd like to go home and pray." The moment bespoke Boehner's complicated role in Washington's new power structure. </span><span style="font-family: Arial,Helvetica,sans-serif;">**__<span style="font-size: 13.33px;">Obama can't make big deals without Boehner</span>__**...**__<span style="font-size: 13.33px;">negotiations will only get tougher</span>__**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">.</span>
+
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Triggers trade wars – collapsing the global economy, free trade, and escalating to war with China** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Droke ‘10__** (Clif Droke, editor of Momentum Strategies Report, Green Faucet, “America and the Next Major War,” 3-29-2010, [[http://www.greenfaucet.com/technical-analysis/america-and-the-next-major-war/79314]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">In the current phase of relative peace and stability we now enjoy, </span><span style="font-family: Arial,Helvetica,sans-serif;">**__<span style="font-size: 13.33px;">many are questioning when</span>__**...**__<span style="font-size: 13.33px;">entire world will suffer</span>__**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">," writes Barker.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Extinction** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Straits Times 2K__** (“No one gains in war over Taiwan,” 6-25-2000, l/n)</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">THE DOOMSDAY SCENARIO </span><span style="font-family: Arial,Helvetica,sans-serif;">__<span style="font-size: 13.33px;">THE high-intensity scenario</span>__...__<span style="font-size: 13.33px;">China puts sovereignty above everything else</span>__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">.</span>
+
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC Keystone XL DA (Pine Crest, Emory)</span>=== 
+**Obama will block approval of the Keystone XL pipeline now – but pressure is mounting**
+**__Bloomberg 1-12__** (Jim Efstathiou Jr., Bloomberg, “Keystone Pipeline Backers Press Obama for Decision in Week,” Bloomberg Businessweek, 1-12-2012, http://www.businessweek.com/news/2012-01-12/keystone-pipeline-backers-press-obama-for-decision-in-week.html)
+**__Supporters of__** TransCanada Corp.’s **__Keystone XL oil pipeline ...__** the people of Nebraska, this will take some time.”
+
+**<<< insert link >>>**
+
+**Political capital is key to resist pressure to approve the pipeline**
+**__Collinson 12-21__** (Stephen Collinson, AFP, “Tax deal hands Obama rare win against Republicans,” 12-21-2011, [[http://www.google.com/hostednews/afp/article/ALeqM5hbcqFAO25pRFKyBbCvsTYZsVlWEg?docId=CNG.80399cc727f238aad1aa13330649b4c9.1a1]])
+__The plan to build an extension...__thousands of American jobs," McConnell said.
+
+
+**The pipeline rapidly collapses the Ogallala aquifer**
+**__Penner & Rakestraw ‘11__** (Dylan Penner, Media Officer, Council of Canadians, and Darcey Rakestraw, Communications Director, Food & Water Watch, “TransCanada admits Keystone Pipeline could be used for bulk water removals,” The Council of Canadians, 8-16-2011, [[http://www.canadians.org/media/water/2011/16-Aug-11.html]])
+The Council of Canadians and Food & Water Watch ... President Obama from approving the Keystone pipeline.
+
+**Triggers global drought and famine, and widespread food and water wars – empirically collapses civilizations**
+**__Edwards ‘8__** (Mark Edwards, Ph.D.s in Mechanical Engineering, Oceanography, and Meteorology, and Marketing and Consumer Behavior, professor of food marketing and world entrepreneurship at Arizona State University, //Biowar I: Why Battles over Food and Fuel Lead to World Hunger//, 2008, 13-14, googlebook)
+Elizabeth Kolbert chronicled a list ... __food growing regions will be barren__.
+
+**Escalates to nuclear conflict and collapses U.S. primacy**
+**__NASCA ‘4__** (National Association for Scientific and Cultural Appreciation, “Water shortages – Only a matter of time,” 2004, [[http://www.nasca.org.uk/Strange_relics_/water/water.html]])
+__The spectre of **a world water shortage ...**__ there will be no obvious answer.
+
+====**1NC Warming Impact (Emory)**==== 
+**Keystone is game over for climate change – makes it irreversible**
+**__<span style="font-size: 13.33px;">Hansen ‘11</span>__**<span style="font-size: 13.33px;"> (Jim Hansen, director of the NASA Goddard Institute for Space Studies, adjunct professor in the Department of Earth and Environmental Sciences, Columbia University, Ph.D. Physics, M.S. Astronomy, B.A. Physics and Mathematics, University of Iowa, “Science is Deadly,” 6-3-2011, http://www.columbia.edu/~jeh1/mailings/2011/20110603_SilenceIsDeadly.pdf)</span>
+<span style="font-size: 9.33px;">The U.S. Department of State seems likely to approve ... if unconventional fossil fuels are exploited.</span>
+**Warming ensures extinction**
+**__Tickell ‘8__** (Oliver Tickell, Environmental Researcher, 8-11-2008, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange|____http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange____]])
+<span style="font-size: 9.33px;">We need to get prepared for ... </span>**__a similar hothouse Earth__**<span style="font-size: 9.33px;">.</span>
+
+====**2NC Warming Impact**==== 
+**Evaluate the magnitude of warming first**
+__<span style="color: #000000;">Strom 07</span>__<span style="color: #000000;"> (Robert, Prof. Emeritus Planetary Sciences @ U. Arizona and Former Dir. Space Imagery Center of NASA, “Hot House: Global Climate Change and the Human Condition”, Online: SpringerLink, p. 246)</span>
+Keep in mind that the current consequences …The time for action is now.
+
+**Climate change is comparatively the only existential threat**
+<span class="Underline">**Doebbler 11.**</span> Curtis, International Human Rights Lawyer. Two threats to our existence. Ahram Weekly. July 2011. [[http://weekly.ahram.org.eg/2011/1055/envrnmnt.htm]]
+__Climate change is … They continue in this vein.__
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC Keystone Rider DA</span>=== 
+**Obama will veto current attempts to pass the Keystone XL pipeline as a rider – but Republicans are determined to stick it to anything that moves**
+**__Battistoni 2-14__** (Alyssa Battistoni, “Trench warfare rages over Keystone pipeline,” Salon, 2-14-2012, http://www.salon.com/2012/02/14/trench_warfare_rages_over_keystone_pipeline/)
+<span style="font-size: 10.66px;">When the Obama administration… is to defeat Barack Obama.”</span>
+
+
+**The plan’s must-pass status is the only scenario for the pipeline**
+**__Beinecke 12-14__** (Frances Beinecke, “Stop the Riders: GOP Lawmakers Slow Down Bills with Anti-Environmental Attacks,” NRDC Switchboard, 12-14-2011, http://switchboard.nrdc.org/blogs/fbeinecke/stop_the_riders_gop_lawmakers.html)
+<span style="font-size: 9.33px;">Last night </span>**__the House of Representatives__**<span style="font-size: 9.33px;">… </span> **__public health safeguards__**<span style="font-size: 9.33px;">.</span>
+
+**Keystone is game over for climate change – makes it irreversible**
+**__Hansen ‘11__** (Jim Hansen, director of the NASA Goddard Institute for Space Studies, adjunct professor in the Department of Earth and Environmental Sciences, Columbia University, Ph.D. Physics, M.S. Astronomy, B.A. Physics and Mathematics, University of Iowa, “Science is Deadly,” 6-3-2011, http://www.columbia.edu/~jeh1/mailings/2011/20110603_SilenceIsDeadly.pdf)
+The U.S. Department of State seems … if unconventional fossil fuels are exploited.
+
+**Warming ensures extinction**
+**__Tickell ‘8__** (Oliver Tickell, Environmental Researcher, 8-11-2008, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange|____http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange____]])
+<span style="font-size: 9.33px;">We need to get prepared for four … </span>**__a similar hothouse Earth__**<span style="font-size: 9.33px;">.</span>
+===1NC NSP DA=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">**Obama is pursuing cooperation in space – the NSP’s multilateral framework bans the plan**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Huntley, 11**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;"> - senior lecturer in the National Security Affairs department at the Naval Postgraduate School in Monterey, California (Wade, “The 2011 U.S. National Space Security Policy: Engagement as a Work in Progress”, Disarmament Times, Spring, [[http://disarm.igc.org/index.php?option=com_content&view=article&id=429:the-2011-us-national-space-security-policy-engagement-as-a-work-in-progress&catid=154:disarmament-times-spring-2011&Itemid=2]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">As is well understood, the space policies of the Bush administration were decidedly oriented toward military...Many devils may lurk in these details. </span>
+
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**The plan’s unilateralism undermines the NSP – it occurs without genuine consultation and will be __perceived__ as abandoning the commitment to international partnership**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Smith 11__**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">-- Space and Technology Policy Group (February, 2011, Marcia A., Space Policy, Vol. 27, Issue 1, p. 22-23, Science Direct, FS)</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">Over succeeding months </span><span style="font-family: Arial,Helvetica,sans-serif;">__national security officials began speaking about how the USA__...</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">cooperation would be more likely. </span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Status quo cooperation is vital to preventing arms race, miscalculation, first strike, and global war** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Hitchens, 8**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;"> – president of the Center for Defense Information (Theresa, “Space Wars - Coming to the Sky Near You?”, Scientific American, February, [[http://www.sciam.com/article.cfm?id=space-wars-coming-to-the-sky-near-you]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">__Perhaps of even greater concern is that several other nations__ ... </span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;">The likely alternative would be unacceptable to all.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Miscalc triggers space war, risks extinction** </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Mitchell, et al 1**</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 10.66px;"> -Associate Professor of Communication and Director of Debate at the University of Pittsburgh (Dr. Gordon, ISIS Briefing on Ballistic Missile Defence, “Missile Defence: Trans-Atlantic Diplomacy at a Crossroads”, No. 6 July, [[http://www.isisuk.demon.co.uk/0811/isis/uk/bmd/no6.html]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">__A buildup of space weapons might begin with noble intentions of 'peace through strength' deterrence__ ... __plunge the world into the most destructive military conflict ever seen.__</span>
+
+===1NC HEO Orbit DA=== 
+**Link: The plan puts satellites in Highly Elliptical Molniya Orbit.**
+**<<Card>>**
+
+**Molniya orbits have the highest probability of colliding with debris in LEO**
+**__Crowther, et al ‘95__** (R. Crowther, R. Walker, J.S.B. Dick, S.F. Green, and J. Marchant, “Detectability of Satellite Fragmentations in Highly Eccentric Orbits,” Adv. Space Res. 16(11), 1995, http://www.spaceinsight.co.uk/downloads/jsbdpaper1.pdf)
+__The probability of collision ...__ __**with a debris object in LEO**__<span style="font-size: 9.33px;">.</span>
+
+**Triggers accidental nuclear war with Russia**
+**__Lewis ‘4__** (Jeffrey Lewis, postdoctoral fellow, Advanced Methods of Cooperative Security Program, Center for International and Security Studies, University of Maryland School of Public Policy, formerly worked in the Office of the Undersecretary of Defense for Policy, graduated magna cum laude, Augustana College, with degrees in Philosophy and Political Science, “What if Space Were Weaponized?” July 2004, http://www.cdi.org/PDFs/scenarios.pdf)
+<span style="font-size: 9.33px;">This is the second of two scenarios ... national nuclear forces to operate safely.</span>
+
+====<span style="font-size: 110%;">**ORS Link**</span>==== 
+The aff places hundreds of satellites in highly elliptical Molniya orbits for relocation on demand
+**__Nash & Case ‘10__** (Mr. Dale K. Nash, Chief Executive Officer, Alaska Aerospace Corporation, BS, Engineering, University of Utah, MBA, University of Florida; Lt Gen Thomas R. Case, USAF (ret.), President and Chief Operating Officer, Alaska Aerospace Corporation, BS, US Air Force Academy, MS, Systems Management, University of Southern California, National War College and US Army Command and General Staff College; “Operationally Responsive Space: A Spaceport Perspective,” High Frontier, 6(3), May 2010, http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf)
+__Facilities, procedures, and a workforce ...__ <span style="font-size: 10.66px;">within a day after the crisis. </span>
+
+===<span style="font-size: 110%;">1NC SSO DA</span>=== 
+**Link - plan puts satellites in Sun Synchronous Orbit**
+**<<<>>>**
+**Crowding in this orbit is on the brink – the plan triggers interference and collisions in the polar zones**
+**__SWF ‘10__** (Secure World Foundation, “Space Sustainability: a practical guide,” 2010, http://swfound.org/media/1808/space_sustainability_booklet.pdf)
+<span style="font-size: 9.33px;">Yet… …</span>**__the ability to provide … both satellites and debris__**<span style="font-size: 9.33px;">.</span>
+
+
+**Risks destroying all Earth observation satellites and multiple scenarios for global extinction**
+**__Williamson ‘8__** (Ray A. Williamson, Ph.D., editor of Imaging Notes and Executive Director of the Secure World Foundation, “Minding the (Space) Environment,” Imaging Notes, 23(1), Spring 2008, http://www.imagingnotes.com/go/article_free.php?mp_id=131)
+__Most **remote sensing satellites …**__ <span style="font-size: 9.33px;">relatively collision free.</span>
+====**<span style="font-size: 110%;">EOS Link</span>**==== 
+**EOS satellites will be put in sun-synchronous orbit**
+**__Williamson ‘9__** (Ray A. Williamson, Ph.D., editor of Imaging Notes and Executive Director of the Secure World Foundation, “Space Debris: Positional Data Needed Commercially,” Imaging Notes, Spring 2009, http://www.imagingnotes.com/go/article_free.php?mp_id=170)
+<span style="font-size: 10.66px;">Collisions with debris are not … and orbital crowding pose.</span>
+==SPS Neg== 
+===1NC FSE CP=== 
+**Text: The United States Federal Government should increase development for Free Space Electron Power.**
+
+**Collecting electrons instead of photons solves better than the aff**
+**__Thomas ‘8__** (Michael E. Thomas, CEO, President, and Chairman of Colossal Storage Corporation, over 25 years in microelectronics, “Renewable - Free Energy for the World – Forever,” 7-21-2008, [[http://www.prlog.org/10091881-renewable-free-energy-for-the-world-forever.html]])
+__Wireless power transmission and **space power satellites** ...____many more satellites the energy output to Earth goes up dramatically__<span style="font-size: 9.33px;">.</span>
+
+===**<span style="color: #000000;">2NC FSE CP - AT: Deficit</span>**=== 
+<span style="color: #000000; display: block; text-align: justify;">**Any deficit flows neg –**</span>
+<span style="color: #000000; display: block; text-align: justify;">**a) Free electron collectors** **are more efficient and durable than solar**</span>
+<span style="color: #000000; display: block; text-align: justify;">**__Patel ‘5__** (Mukund R. Patel, PhD, PE, professor, U.S. Merchant Marine Academy, deeply involved in design and development programs at the General Electric Space Division and Lockheed Martin Space Systems, Chapter 23, “Electric Propulsion,” //Spacecraft Power Systems//, 2005, p.583-586, googlebook)</span>
+<span style="display: block; text-align: justify;"><span style="color: #000000;">23.9 Tether Power Propulsion </span>**__<span style="color: #000000;">Space tether is being ...is not subject to day/night cycles as are solar arrays</span>__**<span style="color: #000000;">. </span></span>
+<span style="color: #000000; display: block; text-align: justify;">**b) Lower costs and higher profit margins** </span>
+<span style="color: #000000; display: block; text-align: justify;">**__Thomas ‘8__** (Michael E. Thomas, Michael E. Thomas, CEO, President, and Chairman of Colossal Storage Corporation, over 25 years in microelectronics, “New Approach to Space Based Solar Power from Satellites,” 2008, <span style="color: #0000ff;">[[http://www.scribd.com/doc/17234145/Microwave-Power-Transmission-Satellite]]</span>) </span>
+<span style="color: #000000; display: block; text-align: justify;">__Today’s space power systems proposed by all others talks of cost__ ... Killing our planet and its people </span>
+<span style="color: #000000; display: block; text-align: justify;">**Free space electrons uniquely access low earth orbits for power transmission** </span>
+<span style="color: #000000; display: block; text-align: justify;">M. **__Thomas__**, 7-21-200**__8__**, “Renewable - Free Energy for the World – Forever,” PRLog, <span style="color: #0000ff;">[[http://www.prlog.org/10091881-renewable-free-energy-for-the-world-forever.html]]</span> </span>
+<span style="color: #000000; display: block; text-align: justify;"> **__A satellite using electron subatomic beam particles__** ...output to Earth goes up dramatically. </span>
+===<span style="color: #000000; font-size: 90%;">**2NC FSE CP - solves GEO DA**</span>=== 
+<span style="color: #000000;">**This solves conflict over orbital slots – multiple warrants:** </span>
+
+<span style="color: #000000;">**International law allows unrestricted use of LEOs** </span>
+<span style="color: #000000;">Kemal **__Baslar__**, 19**__98__**, “Outer Space and the Common Heritage of Mankind,” The Concept of Common Heritage of Mankind in International Law, p.199, googlebooks </span>
+<span style="color: #000000;">**__The possibility that the GSO__ ...** reducing telephone costs up to one-tenth of hand-held telephones.213 </span>
+<span style="color: #000000;">**We counterplan the uniqueness – shifting to LEO changes the competitive framework for orbit rights, making conflict over slots irrelevant** </span>
+<span style="color: #000000;">Monroe E. **__Price__**, October, 19**__99__**, “Satellite Broadcasting as Trade Routes in the Sky,” Programme in Comparative Media Law and Policy, Centre for Socio-Legal Studies, Wolfson College, University of Oxford, <span style="color: #0000ff;">[[http://www.transcomm.ox.ac.uk/working%20papers/traderouteshk.PDF]]</span> </span>
+<span style="color: #000000;">__Transitions from one direct broadcast satellite format to another__ ... **__reach out to their diaspora populations__**. </span>
+<span style="color: #000000;">**Stationing in LEO solves risk of conflict over orbital slots and interference** </span>
+<span style="color: #000000;">**__Jones ‘10__** [Winter 2010, Royce Jones, degrees in Constuction Management , Computer Programing, and Aided Design, also a Space Technology entrepreneur, venture manager, IP Developer, and investor; Alternative Orbits A New Space Solar Power Reference Design, <span style="color: #0000ff;">[[http://spacejournal.ohio.edu/issue16/jones.html]]</span>; WBTR] </span>
+<span style="color: #000000;">This paper offers a new space solar power reference design based on an elliptical 3-Hour sub-Molniya orbit. </span>__<span style="color: #000000;">Most studies of space-based solar power (SBSP)</span>__<span style="color: #000000;"> ... has the potential to substantially reduce SSP satellite mass.</span>
+===1NC GEO DA=== 
+**Solar power satellites will be placed in geosynchronous orbit**
+**__NSSO__**, 200**__8__**, National Space Security Office, Space-Based Solar Power Study Group, Ad Astra, “Strategic Importance” Spring 2008, pg. 28, [[http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]]
+<span style="font-size: 110%;">Enter the four-decade-old concept of space solar power (SSP). ...volatile fuel expenses and vulnerabilities of conventional energy systems. </span>
+
+
+
+**Scarcity of GEO slots ensures competition**
+**__POST__**, 200**__6__**, Parliamentary Office of Science and Technology, UK, postnote, December, Number 273, “Military uses of space,” [[http://www.parliament.uk/documents/upload/postpn273.pdf]]
+Satellites orbit the earth at anything from a few ... __**less competition for orbital slots than in GEO**__.
+
+
+
+**Creates multiple scenarios for conflict**
+Frank G. **__Klotz__**, Jan 19**__99__**, Space, Commerce, and National Security, Council on Foreign Relations, p.23-4
+**__The scramble for geosynchronous ...__** global information infrastructure-is a case in point.
+
+
+
+**Conflict in space risks extinction**
+Gordon M. **__Mitchell__**, July 200**__1__**, Assoc. Prof of Communications, University of Pittsburgh, Kevin Ayotte & David Cram Helwich, “Missile Defense: Transatlantic Diplomacy at a Cross-Roads”, ISIS Briefing on Ballistic Missile Defense No. 6
+__It is chilling to contemplate the possible effects of a space war__ ... __**the most destructive military conflict ever seen**__.
+
+
+===1NC Moon Mining DA=== 
+**SPS ensures development of moon mining for construction**
+Mark **__Hempsell__**, 200**__6__**, University of Bristol, “Space power as a response to global catastrophes,” Acta Astronautica, vol.59, science direct
+<span style="font-size: 9.33px;">Bond and Varvill [36] have ... </span>**__not require separate development__**<span style="font-size: 9.33px;">. </span>
+
+
+**Moon mining causes the moon to drift away from the earth, causing extinction**
+Lance **__Winslow__**, 10-7-200**__7__**, retired Franchisor, Business Consultant, Philantropist and I run a Think Tank, “Over Mining the Moon - Earth Moon System Hangs in the Balance,” [[http://ezinearticles.com/?Over-Mining-the-Moon---Earth-Moon-System-Hangs-in-the-Balance&id=771162]]
+**__If__** __all **the nations of the World ...**__ <span style="font-size: 9.33px;">that it would affect us here? </span>
+===1NC Politics Link=== 
+**<span style="color: #000000;">SPS is politically unpopular—energy interests opposition and perceived as too long term</span>**
+**<span style="color: #000000;">Schubert 10</span>**<span style="color: #000000;">—PhD in computer and electrical engineering, investigates recipients of federal grant money for energy projects (Winter 2010, Peter, Online Journal of Space Communication, “Costs, Organization, and Roadmap for SSP”, Issue No. 16, <span style="color: #000000;">[[http://spacejournal.ohio.edu/issue16/schubert.html]]</span> , FS)</span>
+__<span style="color: #000000;">S</span>__<span style="color: #000000; font-size: 10.66px;">pace </span>__<span style="color: #000000;">S</span>__<span style="color: #000000; font-size: 10.66px;">olar </span>__<span style="color: #000000;">P</span>__<span style="color: #000000; font-size: 10.66px;">ower </span>__<span style="color: #000000;">will be ... </span>__<span style="color: #000000; font-size: 10.66px;">how to prepare for the miracle. </span>
+
+===<span style="color: #000000;">2NC Politics Links</span>=== 
+**Saps Capital – Multiple warrants**
+
+**<span style="color: #000000;">Costs and energy lobbies </span>**
+**<span style="color: #000000;">Glaser, 08</span>**<span style="color: #000000;"> - aerospace engineer, vice president at Arthur D. Little, consulting on consulting projects in aerospace, solar energy, and materials science (Peter, Ad Astra 20 no1 26-7 Spr 2008, Interview, “An energy pioneer looks back”, Ajones)</span>
+<span style="color: #000000;"> AD ASTRA: You had the right idea, but evidently …</span><span class="Underline">**<span style="color: #000000;">to reject limitless energy from the sun</span>**</span>**<span style="color: #000000;">. </span>**
+
+**Legal issues**
+<span class="Underline">**Wallach 10**</span> (Mark I. Wallach, Winter 2010, “Legal Issues for Space Based Solar Power”, Online Journal of Space Communication, http://spacejournal.ohio.edu/issue16/wallach.html)
+With the extraordinary financial stakes…legislatures, and the **U.S. Congress**.
+
+**Economics**
+**__Mahan__** **7** (Rob, creator of citizens for //Space Based// Solar Power, C-SBSP, [[http://c-sbsp.org/sbsp-faq/]])
+__The financial solution will admittedly be… the highest hurdle of all.__
+==ORS Neg== 
+===1NC Near Space CP=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">**Text: The United States federal government should substantially increase the development of Operationally Responsive Space for the purpose of developing a military launch infrastructure that allows for launch on demand, <span style="color: #000000;">improvement of space situational awareness, </span>rapid reconstitution, maneuverability, hardening of military satellites, and the deployment of small satellites in Near-Space.**</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Competition – counterplan is not in space**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Tomme ‘5__** (Lieutenant Colonel Edward B. Tomme, Ph.D. Physics, Department of Physics, U.S. Air Force Academy, Air Force Space Battlelab, Air Force Space Command, “The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler,” Airpower Research Institute, College of Aerospace Doctrine, Research and Education, Air University, Research Paper 2005-001, 2005, [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">At a recent conference designed to assess the state of the art in near-space,34 </span><span style="font-family: Arial,Helvetica,sans-serif;">__**a panel of experts agreed to loosely define near-space**__ ... __**defining the boundary of space**__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Solves better than the aff – war games prove**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Tomme ‘5__** (Lieutenant Colonel Edward B. Tomme, Ph.D. Physics, Department of Physics, U.S. Air Force Academy, Air Force Space Battlelab, Air Force Space Command, “The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler,” Airpower Research Institute, College of Aerospace Doctrine, Research and Education, Air University, Research Paper 2005-001, 2005, [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Near-space does__** __indeed__ **__seem to be the “obvious, correct solution”__<span style="font-size: 9px;"> ... </span>**__The time for near-space is definitely now__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">. </span>
+===1NC Air-Force DA=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">**Funding for a new long-range bomber depends on current savings in the Air Force budget – new programs kill it**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Majumdar ‘11__** (Dave Majumdar, Defense News, “U.S. Air Force Bomber Plans Hinge On Savings,” 1-17-2011, [[http://www.defensenews.com/story.php?i=5469848]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__If the U.S. Air Force wants its bomber__** __and satellite **plans to bear fruit**__ **...** __Not to worry__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">," he said.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Cancellation of the bomber program triggers deterrence failures**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Gunzinger ‘10__** (Mark A. Gunzinger, Senior Fellow at CSBA, former Deputy Assistant Secretary of Defense for Forces Transformation and Resources, former Director for Defense Transformation, Force Planning and Resources on the National Security Council staff, a key player in every major defense review since the end of the Cold War, retired Air Force Colonel and Command Pilot, M.S. National Security Strategy, National War College, Master of Airpower Art and Science, School of Advanced Air and Space Studies, Master of Public Administration from Central Michigan University, and B.S. Chemistry, U.S. Air Force Academy, “Sustaining America’s Strategic Advantage in Long-Range Strike,” Center for Strategic and Budgetary Assessments, 9-14-2010, p.76, [[http://www.csbaonline.org/wp-content/uploads/2010/09/2010.09.14-Sustaining-Americas-Strategic-Advantage-in-Long-Range-Strike.pdf]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">Sustaining the Air Leg of the Nuclear Triad </span><span style="font-family: Arial,Helvetica,sans-serif;">**__The Air Force needs to have a plan__ ...** __and declaring it as nuclearcapable__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**This creates three unique scenarios for nuclear war – allied proliferation, hostile aggression, and crisis escalation**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**__Williams ‘10__** (David E. Williams, Jr., Major, U.S. Air Force, career Security Forces Officer currently serving as the Chief of Nuclear Security Inspections, Defense Threat Reduction Agency, former Squadron Commander, Staff Officer, Operations Officer, Flight Commander, and Convoy Commander within the Air Force nuclear community, also a certified SWAT Team Leader, Trainer, Designated Marksman, and Crisis Negotiator, M.A. Security Studies, M.A. Counseling & Human Behavior, B.A. Psychology, “A Review of U.S. First-Strike Ambiguity and the Triad Nuclear Force,” Defense Threat Reduction University Journal, 1(2), October 2010, [[http://www.dtra.mil/dtru/documents/V1_2/US%20First%20Strike%20Ambiguity%20-%20Williams.pdf]])</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">The Case for Continuity The case for the continuity of current U.S. nuclear policies and structure involves consideration of their benefits in terms of security, international prestige, domestic politics, and technology.8 From a security perspective, nuclear weapons ensure security because </span><span style="font-family: Arial,Helvetica,sans-serif;">**__the potential usage of nuclear weapons__ ...** </span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9.33px;">This threat resulted in very quick U.S. reassurances about troop levels and its commitment to defending South Korea.</span>
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC Notification DA</span>=== 
+
+**Turn – Plan gets confused with ICBM launches**
+**Brown 6** (Lieutenant Colonel Brown, College of Aerospace Doctrine, Kendall, Ph.D. & Researcher at the College of Aerospace Doctrine, Research, & Education at Maxwell Airforce Base & Liquid-Rocket-Engine System Engineer at the NASA Marshall Space Fligth Center, “Is Operationally Responsive Space the Future of Access to Space for the US Air Force?,” Air & Space Power Journal, Summer)
+<span style="font-size: 10.66px;">No: </span>__Expectations for an ORS Launch System ...__ __confusion with strategic ICBM launches.__
+
+**That causes accidental nuclear war**
+**Finlay 7**<span style="font-size: 10.66px;"> (Brian, Director of the Nuclear Threat Reduction Campaign of the Vietnam Veterans Of America Foundation, former Program Officer at the Century Foundation where he specialized in arms control and nonproliferation, MA. In International Relations from Norman Paterson School of International Affairs, & Graduate Diploma from from the Johns Hopkins School of Advanced International Studies, “U.S.-Russian Ballistic-Missile Early-Warning Cooperation,” </span>//Weapons of Mass Destruction Reference Guide: Protecting America: Nuclear, Biological, and Chemical Threat Reduction//<span style="font-size: 10.66px;">, December 11, [[http://www.veteransforamerica.org/wp-content/uploads/2008/01/22-early-warning-final.pdf]])</span>
+<span style="font-size: 10.66px;">The United States’ combination of space-based sensors ... </span>__whether to launch a retaliatory response.__
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC Asymmetric Warfare DA</span>=== 
+**Space dominance kills irregular warfare capability which is key to solve WMD threats from terrorism, rogue states, and failed states and extinction. The plan can’t solve<span style="color: #000000;">.</span>**
+**<span style="color: #000000;">Elhefnawy, ’10</span>**<span style="color: #000000; font-size: 10.66px;"> – </span><span style="color: #000000;">Nader, B.A. in IR, frequent writer on international affairs, national security and space issues, contributor to the Space Review (April 1, Originally published in PARAMETERS, Spring 2003, pp. 124-132. </span>[[http://naderelhefnawy.blogspot.com/2010/04/four-myths-about-space-power.html]]<span style="color: #000000;">)</span>
+<span style="color: #000000; font-size: 10.66px;">Some might have us believe ... proliferation of weapons of mass destruction.</span>
+**Nuke terror causes extinction**
+**<span style="color: #000000;">Speice ‘6</span>**<span style="color: #000000;"> (Patrick F., Jr. "Negligence and nuclear nonproliferation: eliminating the current liability barrier to bilateral U.S.-Russian nonproliferation assistance programs." William and Mary Law Review 47.4 (Feb 2006): 1427(59). Expanded Academic ASAP.)</span>
+__<span style="color: #000000;">The potential consequences of the unchecked spread ... </span>__<span style="color: #000000;">__the use of nuclear weapons.__ (53)</span>
+
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">1NC Cyber Attacks DA</span>=== 
+**Even if the aff creates the perception that satellites are invulnerable, that causes countries to asymmetrically retaliate against ground stations and space assets**
+<span style="font-size: 90%;">**<span style="color: #000000;">Harrison et al 9</span>**<span style="color: #000000;"> [“Space and Defense Scholarly Journal of the United States Air Force Academy Eisenhower Center for Space and Defense Studies” Volume Three ▪ Number One ▪ Summer 2009 Eisenhower Center for Space and Defense Studies G. Harrison, Deron R. Jackson, and Collins G. Shackelford <span style="font-family: Times New Roman;">[[http://web.mac.com/rharrison5/Eisenhower_Center_for_Space_and_Defense_Studies/Space_Deterrence_files/Space_and_Defense_3_1%20Space%20Deterrence.pdf]]</span>]</span></span>
+<span style="color: #000000; font-family: Times New Roman; font-size: 10.66px;">Like other space strategic concepts... </span>__<span style="color: #000000; font-family: Times New Roman; font-size: 16px;"> loss of initiative could well be fatal.</span>__
+
+
+**Cyberspace attacks are more likely than space attacks and they have __the same impact__**
+**Lambeth, 11** – senior staff member at RAND, where he also directed the International Security and Defense Policy Program in 1989–1990 (Benjamin, Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])
+__If the case for proceeding ...__ __any of our current opponents.__
+==Nanotech Neg== 
+===1NC DoD CP=== 
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 110%;">**Text: The United States Department of Defense Should substantially increase necessary use of nanotechnology beyond the Earth’s Mesosphere.**</span>
+
+
+**Competitiveness - USFG is divided into three branches**
+**__ROTUNDA 01__** (18 Const. Commentary 319, “THE COMMERCE CLAUSE, THE POLITCAL QUESTION DOCTRINE, AND MORRISON,” lexis)
+
+**__The Framers of our Constitution__ ...** **__by splitting it between two Houses of Congress.__**
+
+
+**<span style="font-family: Arial,Helvetica,sans-serif; font-size: 110%;">INCREASED COMMITMENT OF dod RESOURCES TO NANOTECHNOLOGY IS CRITICAL TO RAPID DEVELOPMENT</span>**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 110%;">**__Senate Armed Services Committee__**, 9-12-200**__1__**, National Defense Authorization Act for Fiscal Year 2002 Report on Authorizing Appropriations for Fiscal Year 2002 for Military Activities of the Department of Defense, for Military Construction, and for Defense Activities of the Department of Energy, to Prescrive Personnel Strengths for Such Fiscal Year for the Armed Forces, and for Other Purposes, [[http://www.globalsecurity.org/military/library/congress/2001_rpt/sr062.htm]]</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 110%;">National nanotechnology initiative The budget request included ... investments to combat future terrorist and chemical and biological agent threats. </span>
+
+
+**military development is critical to ensure regulation and control**
+Glenn Harlan **__Reynolds__**, November, 200**__2__**, prof of law @ Univ of Tennessee College of Law - graduate of Yale Law School. "Forward to the Future: Nanotechnology and Regulatory Policy" Pacific Research Institute
+PAINT IT BLACK **__One approach short of prohibition might be an effort to keep__ ...** On a negative note, populations might similarly be induced to love Big Brother.
+
+===1NC China DA=== 
+**china is racing to beat the u.s. to nanotech – Civilian u.s. development ensures china wins**
+John Robert **__Marlow__**, April, 200**__4__**, novelist and nonfiction author, freelance journalist, and nanotechnology columnist, John was nominated for the 2004 Foresight Institute Prize in Communication "Nanosecurity and the Future (if Any)" NanoNews Now Monthly Report, a publication of Nanotechnology Now, [[http://johnrobertmarlow.com/a__homedex.html]]
+
+The Chinese Question According to an October, 2003 article in Small Times magazine, ... the People's Liberation Army and the National Defense Science and Engineering Committee. [17]
+
+**ALL SCENARIOS FOR NANOTECH DEVELOPMENT END IN NANO-ANNIHILATION AT THE HANDS OF THE CHINESE – EXCEPT ONE – RAPID GOVERNMENT DEVELOPMENT**
+Lev **__Navrozov__**, 2-6-200**__4__**, NewsMax.com columnist and journalist, one of the most brilliant minds in the world, according to many distinguished Westerners and Russians. Published over 1,000 columns and articles on the destiny of civilization, world culture, foreign policy, strategy, defense, and intelligence work since his emigration from Russia in 1972. Winner of the Albert Einstein Prize for outstanding intellectual achievements. More than twenty of his articles are in the United States Congressional Record. The Center for Responsible Nanotechnology 'Plans Ahead,' [[http://newsmax.com/archives/articles/2004/2/5/182324.shtml]]
+
+On Jan. 21-26, 2004, the Center for Responsible Nanotechnology (CRN) posted a six-page article ... __**and as a result can rule the world." Surely this is better than nano annihilation**__.
+
+
+==Negative Strategies== 
+===Wake Forest=== 
+
+Round 2 – Bishop Guertin CZ (NEOs)
+1NC: Astropolitics K, SKFTA DA, Privatization CP, Case
+2NR: Politics, CP, Solvency
+
+Round 3 – Calhoun BM (Satellite Hardening)
+1NC: Astropolitics K, SKFTA DA, Privatization CP, Case
+2NR: SKFTA DA, Case
+
+Round 5 – National Cathedral GS (DSCOVR)
+1NC: Astropolitics K, SKFTA DA, Ukraine CP, Case
+2NR: SKFTA DA, Ukraine CP, Case
+
+
+===St. Marks=== 
+
+Round 2 – New Trier WW (SPS)
+1NC: China Bashing DA, FSE CP, GEO DA, Moon Mining DA, Case
+2NR: China Bashing DA, GEO DA, Case
+
+Round 4 – Hendrickson HT (SPS)
+1NC: China Bashing DA, GEO DA, FSE CP, Moon Mining DA, Case
+2NR: FSE CP, GEO DA
+
+Round 6 – Kinkaid RI (Nanotech)
+1NC: China Bashing DA, NSP DA, China DA, DoD CP, Case
+2NR: China DA, DoD CP
+
+===Glenbrooks=== 
+
+Round 2 – Desert Vista RZ (DSCOVR)
+1NC: China Bashing DA, NSP DA, ESA CP, Case
+2NR: China Bashing DA, Case
+
+Round 4 – Bronx Science LS (ORS)
+1NC: T – Mesosphere/Beyond, China Bashing DA, Air Force DA, Near Space CP, Case (Defense, Notification DA)
+2NR: Air Force DA, Near Space CP
+
+Round 6 – New Trier KS (BMD)
+1NC: T – Humans, Treaty CP, China Bashing DA, NSP DA, Case
+2NR: NSP DA, Treaty CP, Case
+
+Octas – Mountain Brook RS (SPS)
+1NC: GEO DA, China Bashing DA, Moon Mining DA, FSE CP
+2NR: FSE CP, GEO DA
+
+===Pine Crest=== 
+
+Round 2 – Gulliver CH (Asteroids)
+1NC: T – Humans, Keystone XL DA, ESA CP, Case
+2NR: Keystone XL DA, ESA CP
+
+Round 4 – Cypress Bay FS (District 9 Narrative Aff)
+1NC: Anti-Politics DA, Keystone XL DA, Narratives PIC, Framework, Case
+2NR: Framework, Anti – Ptx DA
+
+Round 6 – Ft. Lauderdale KM (ORS)
+1NC: T – Mesosphere/Beyond, HEO DA, Air Force DA, Near Space CP, Case (Defense, Notification DA, Asymmetric Warfare DA, Cyber Attacks DA)
+2NR: Near Space CP, HEO DA
+
+Quarters – Juan Diego KW (SPS)
+1NC: GEO DA, Keystone XL DA, FSE CP, Case
+2NR: Keystone XL DA, Case
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">Specifically, __Iran__ – loss of access ensures closure of the Strait of Hormuz</span>
+===Emory=== 
+
+
+Round 1 – Lexington MA (Lunar Property Rights)
+1NC: T – Its, T – Effects, Keystone XL DA, Constitutional Convention CP, Case
+2NR: Keystone XL DA, Constitutional Convention CP
+
+
+Round 4 – College Prep GY (DSCOVR)
+1NC: Keystone XL DA, ESA CP, NSP DA, Case
+2NR: Keystone XL DA, ESA CP
+
+
+Round 5 – Bronx Science DG (ORS)
+1NC: T – Mesosphere/Beyond, HEO DA, Keystone XL DA, Near Space CP, Case (Defense, Notification DA, Asymmetry DA, Cyber Attacks DA)
+2NR: Notification DA, Case
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">**__Dyer ‘10__** (J.E. Dyer, journalist and former intelligence analyst, served internationally for US Naval Intelligence from 1983 to 2004, “Naval Decline: It Starts with the Small Stuff,” 5-12-2010, http://theoptimisticconservative.wordpress.com/2010/05/12/naval-decline-it-starts-with-the-small-stuff/)</span>
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">Each of the services has come in … – and lots of them.</span>
+===Harvard=== 
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">And draws out intervention to clear the Strait, risking escalation</span>
+Round 2 – National Cathedral SW (Race EOS)
+1NC – Keystone Rider DA, SSO DA, Near Space CP, Framework, Case
+2NR – Near Space CP, SSO DA
+
+
+Round 3 – GDS HB (DTN)
+1NC – T – Humans, XO CP, Keystone Rider DA, Air Force Tradeoff DA, Case
+2NR – XO CP, Keystone Rider DA
+
+===Woodward=== 
+
+Round 2 – Newburgh Free RY (DSCOVR)
+1NC – T – Humans, Ex-Im Bank DA, ESA CP, NCW Adv. CP, Case (NCW--Nanotech DA, Cyber-warfare DA; Warming--Ice Age DA, Agriculture DA)
+2NR – ESA CP, Politics, NCW Turns
+
+Round 3 – Chattahoochee GS (Multipurpose Nanomissile System)
+1NC – Ex-Im Bank DA, Launches DA, SSO DA, Near Space CP, Case (Nanotech DA, Case Flaw)
+2NR – Near Space CP, Politics
+
+Round 6 – Bishop Guertin CZ (Asteroids)
+1NC – Ex-Im Bank DA, ESA CP, SSO DA, Impact Framing
+2NR – ESA CP, Politics
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: -25px; width: 1px;">**__almadge ‘8__** (Caitlin Talmadge, doctoral candidate in political science at the Security Studies Program, Massachusetts Institute of Technology, former fellow at the John M. Olin Institute for Strategic Studies at Harvard University, “Closing Time: Assessing the Iranian Threat to the Strait of Hormuz,” International Security, 33(1), Summer 2008, p.115-116, http://web.mac.com/caitlintalmadge/Site/Publications_files/Talmadge%20article.pdf)</span>
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">The United States’ ultimate military … would seem likely.</span>
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">Triggers nuclear use and extinction</span>
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">**__Hirsch ‘5__** (Jorge, Professor of Physics, University of California, San Diego, Ph.D., University of Chicago, “Can a Nuclear Strike on Iran Be Averted”, 11-21-2005, [[http://www.antiwar.com/orig/hirsch.php?articleid=8089]])</span>
+<span style="display: block; height: 1px; left: -40px; overflow-x: hidden; overflow-y: hidden; position: absolute; top: -25px; width: 1px;">Now that we have outlined what is … Earth's population many times over.</span>

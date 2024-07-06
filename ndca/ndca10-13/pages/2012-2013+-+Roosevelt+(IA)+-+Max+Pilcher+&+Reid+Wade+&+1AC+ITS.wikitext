@@ -1,0 +1,177 @@
+=1AC UNI (Max Pilcher was with Jacob Appel)= 
+==1AC Computational Science== 
+====Contention 1 is Computational Science==== 
+
+====Scenario 1 is Nanotech - Computational science is key to nanotech development==== 
+**Strayer 4**
+<span style="font-size: 8pt;">[Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, </span><span style="color: blue; font-size: 8pt;">[[http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf]]</span><span style="font-size: 8pt;">]</span>
+Because nanoscience and nanotechnology involve manipulation at the molecular level, variables come into play
+AND
+power of the extra transistor density went directly into floating-point rate.
+====US leadership is key – it uniquely guides development==== 
+**Forrest 89**
+<span style="font-size: 8pt;">[David, President of the Institute for Molecular Manufacturing and a Senior Fellow at the Foresight Nanotech Institute, member of the Working Group for the International Technology Roadmap for Productive Nanosystems, and of the Technical Advisory Group to the American National Standards Institute (ANSI) on the ISO Technical Committee on Nanotechnology (TC/229), “Regulating Nanotechnology Development,” 3-23, http://www.foresight.org/nano/forrest1989.html]</span>
+If we tried to block or slow the development of nanotechnology in the United States
+AND
+it seems clear that we should begin the task as soon as possible.
+====That prevents an arms race and grey goo==== 
+**Trader and Phoenix 8**
+<span style="font-size: 8pt;">[Mike , Executive Director of CRN, BS Biology, University of Washington, Research Fellow with the Institute for Ethics and Emerging Technologies, a consultant to the Millennium Project of the American Council for the United Nations University AND Chris Phoenix, CRN’s Director of Research, has studied nanotechnology for more than 15 years. BS, Symbolic Systems, MS, Computer Science, Stanford University. Center For Responsible Nanotechnology, “The Need for International Control” [[http://www.crnano.org/int_control.htmOverview2/|http://www.crnano.org/int_control.htm]]]</span>
+International administration appears to be necessary for several reasons. Some of the risks of
+AND
+body with global jurisdiction, perhaps analogous to the International Atomic Energy Agency.
+====Each independently causes extinction – international frameworks are key==== 
+**Nagel 7**
+<span style="font-size: 8pt;">[MC - , “Do the potential dangers of nanotechnology to society outweigh the potential benefits,” Science Clarified, Volume 1, http://www.scienceclarified.com/dispute/Vol-1/Do-the-potential-dangers-of-nanotechnology-to-society-outweigh-the-potential-benefits.html]</span>
+Against the background of the many promises of nanotechnology, there is a strong and
+AND
+engineering, or nanotechnology and robotics, could result in even more danger.
+====Scenario 2 is Biotech – first, the biotech industry is weakening now==== 
+**Kircher 11**
+<span style="font-size: 8pt;"> [Manfred. Executor of the Cluster Industrielle Biotechnologie. “The Pharmaceutical Industry Needs More Innovation in Bioprocesses.” Future Medical Chemistry 3(14). http://www.future-science.com/doi/pdf/10.4155/fmc.11.124]</span>
+Despite increasing R&D efforts, the new drug pipeline is not as sufficient
+AND
+today, compared with $1.6 trillion in 2000 [102].
+====Biotech solves disease and bioterror which causes extinction==== 
+**Maurer 7**
+<span style="font-size: 8pt;">[Stephen M. Maurer, J.D. Director of the Goldman School Project at the University of California, Berkeley on Information Technology and Homeland Security Lifeboat Foundation BioShield http://lifeboat.com/ex/bio.shield 2007]</span>
+The new realities of terrorism and suicide bombers pull us one step further. How
+AND
+threat of bioengineered malevolent viruses and microbial organisms. Time is running out.
+====Independently, Disease spread causes extinction==== 
+**Yu, 9**
+<span style="font-size: 8pt;">[Victoria, Graduate of Dartmouth University. “Human Extinction: The Uncertainty of Our Fate,” Dartmouth Undergraduate Journal of Science, May 22, 2009 [[http://dujs.dartmouth.edu/spring-2009/human-extinction-the-uncertainty-of-our-fate]]][Citing the CDC and R. Calsbeek, a lecturer at Dartmouth]</span>
+A pandemic will kill off all humans. In the past, humans have indeed
+AND
+could only infect birds — into a human-viable strain (10).
+====Computational Science is key to biotech==== 
+**Strayer 4**
+<span style="font-size: 8pt;">[Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, </span><span style="color: blue; font-size: 8pt;">[[http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf]]</span><span style="font-size: 8pt;">]</span>
+Progress in biology depends on the emergence of a new quantitative, predictive, and
+AND
+to the scientific goals that can be accomplished in the future in biology.
+====Scenario 3 is Chemistry - Computational science is key to chemistry – that’s key to solve warming and ozone depletion==== 
+**Strayer 4**
+<span style="font-size: 8pt;">[Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, </span><span style="color: blue; font-size: 8pt;">[[http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf]]</span><span style="font-size: 8pt;">]</span>
+Chemistry is a central science. It is an intellectual quest in its own right
+AND
+expand, enveloping a far broader range of chemical phenomena than possible today.
+====Warming causes extinction==== 
+<span class="cite">Tickell 8</span>
+<span style="font-size: 8pt;">[Oliver, Environmental Researcher, The Guardian, August 11, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange]], JMB, accessed 6-23-11]</span>
+We need to get prepared for four degrees of global warming, Bob Watson told
+AND
+the warming caused by human emissions could propel us towards a similar hothouse Earth
+====Ozone depletion causes extinction==== 
+**<span style="background-color: white; font-family: Georgia,serif;">Smith and Daniel 99</span>**
+<span style="background-color: white; font-size: 8pt;">[Tyrrel W. Smith, Jr., Ph.D. TRW Space & Electronics Group and John R. Edwards Daniel Pilson Environmental Management Branch “Summary of the Impact of Launch Vehicle Exhaust and Deorbiting Space and Meteorite Debris on Stratospheric Ozone”</span><span style="font-size: 8pt;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA414306]]</span><span style="background-color: white; font-size: 8pt;">]</span>
+The ozone layer is critical to life on Earth because it absorbs biologically damaging solar
+AND
+aquatic ecosystems also may occur (Martin [1998], WMO [1998]).
+====Scenario 4 is Scientific Leadership – it’s dwindling now, but computational science is the key internal link to solve it==== 
+**PITAC 5**
+<span style="font-size: 8pt;">[President’s Information Technology Advisory Committee, “Computational Science: Ensuring America’s Competitiveness”, June 2005, [[http://www.nitrd.gov/pitac/reports/20050609_computational/computational.pdf]], mtp]</span>
+The President’s Information Technology Advisory Committee (PITAC) is pleased to submit to you
+AND
+and innovations in agency roles and portfolios to support advances in computational science.
+====That’s key to soft power – independently solves conflict escalation – empirics prove==== 
+**Coletta, 09**
+<span style="font-size: 8pt;">[Duke University , Ph.D. in Political Science, Harvard University , Master in Public Policy, 1993 Stanford University , Master in Electrical Engineering, 1989 Stanford University , B.S.E.E., 1988, September 2009, Damon Coletta, “Science, Technology, and the Quest for International Influence,” http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA536133&Location=U2&doc=GetTRDoc.pdf]</span>
+Science and International Leadership In their book on Leading Sectors and World Powers (1996
+AND
+epistemic communities, where the best minds gather to resolve international policy disputes.
+
+====That solves extinction==== 
+**Nye 8**
+<span style="background-color: white; font-size: 8pt;">[Distinguished service professor and former dean of Harvard’s Kennedy School of Government, PhD in Political Science from Harvard, March 7, 2008, Joseph S. Nye Jr., “Security and Smart Power,”</span> <span style="font-size: 8pt;">[[http://abs.sagepub.com/cgi/content/abstract/51/9/1351]]</span><span style="background-color: white; font-size: 8pt;">]</span>
+Etzioni is correct that a successful policy of security first will require the combi-
+AND
+, that he had spent a few more pages developing one for Iran.
+
+====Plan uniquely key to computational science – it provides the necessary research and spills over==== 
+<span style="font-family: 'Times New Roman',serif;">Winter et al 10 </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">[Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, http://www.cs.uic.edu/~boxu/mp2p/39-135-1-SM.pdf]</span>
+In the near future, vehicles, travelers, and the transportation infrastructure will collectively
+AND
+intelligent. So “computational transportation science” seems to say it all.
+==1AC Econ== 
+====Contention 2 is Econ==== 
+====The revenue output of the transportation industry is continuously declining, along with our economy —ITS is key to revive both==== 
+**Keeling and Mooney 11**
+<span style="font-size: 8pt;">[Mary Keeling and Gerard M. Mooney, Mary Keeling is a Manager of the IBM Institute for Business Value Center for Economic Analysis and Gerard M. Mooney is currently General Manager, Global Smarter Cities, Transportation and economic development Why smarter transport is good for jobs and growth, IBM, 2011, pages 1-10]</span>
+High unemployment, languid economic growth and growing urbanization make transport’s role in driving growth
+AND
+via the goods and services they purchase and those employed to provide them.
+
+**Economic collapse causes resource wars, democratic backslide, and nuclear terrorism**
+**Harris and Burrows 9**
+<span style="font-size: 8pt;">[Mathew, PhD European History @ Cambridge, counselor in the National Intelligence Council (NIC) and Jennifer is a member of the NIC’s Long Range Analysis Unit “Revisiting the Future: Geopolitical Effects of the Financial Crisis” [[http://www.ciaonet.org/journals/twq/v32i2/f_0016178_13952.pdf]]]</span>
+Increased Potential for Global Conflict Of course, the report encompasses more than economics and
+AND
+within and between states in a more dog-eat-dog world.
+
+====That also collapses trade==== 
+**Khachatryan and Casavant 11**
+<span style="font-size: 8pt;">[Hayk Khachatryan is a research associate at Freight Policy Transportation Institute School of Economic Sciences. Ken Casavant is a director and professor at Freight Policy Transportation Institute School of Economic Sciences. (“THE RELATIONSHIP BETWEEN U.S. TRANSPORT INFRASTRUCTURE]</span>
+U.S. supply chain and export competitiveness is essentially dependent on the national
+AND
+the U.S. transportation networks on the ¶ country’s export competitiveness.
+====Trade stops conflict escalation—individuals won’t risk opportunity costs==== 
+**Kleinberg et al 12**
+<span style="font-size: 8pt;">[Kleinberg, Katja B., Robinson, Gregory, French, Stewart L., professors at Binghamton University and Saginaw Valley State University, March 2012, “Trade Concentration and Interstate Conflict”, The Journal of Politics, p. 529-40, FS]</span>
+In the most commonly cited formulation of the liberal peace, the argument begins with
+AND
+belligerence toward a trading partner and with it the likelihood of interstate conflict.
+====Trade is key to democracy==== 
+**Griswold 4**
+<span style="font-size: 8pt;">[Associated Director of the Center for Trade Policy Studies @ CATO (Daniel, Trade Policy Analysis #26, “Trading Tyranny for Freedom; How Open Markets Till the Soil for Democracy”, January 6http://www.freetrade.org/pubs/pas/tpa-026es.html, RG]</span>
+In the aftermath of September 11, the foreign policy dimension of trade has reasserted
+AND
+policy by tilling foreign soil for the spread of democracy and human rights.
+
+====Democracy solves nuclear war, and extinction==== 
+**Diamond 95**
+<span style="font-size: 8pt;">[Larry, Senior Fellow – Hoover Institution, “Promoting Democracy in the 1990s”, December, [[http://www.carnegie.org/sub/pubs/deadly/dia95_01.html|http://www.carnegie.org//sub/pubs/deadly/dia95_01.html]]]</span>
+OTHER THREATS This hardly exhausts the lists of threats to our security and well-
+AND
+which a new world order of international security and prosperity can be built.
+====ITS benefits competitiveness and growth – Congestion, mobility, exports, productivity and multipliers==== 
+**Ezell 10**
+<span style="font-size: 8pt;">[Stephen Ezell, Senior Analyst, ¶ Information Technology and Innovation Foundation, led the Global Service Innovation Consortium, 1-10, “ Intelligent Transportation ¶ Systems¶ Explaining intErnational it application lEadErship,” The Information Technology¶ & Innovation Foundation, http://trid.trb.org/view.aspx?id=911843, E. Liu]</span>
+ITS maximize the capacity of infrastructure, reduc-¶ ing the need to build additional
+AND
+30.2 billion, a 25 to 1 benefit-cost ratio.
+====Collapse causes great power war – it also kills hegemony==== 
+**Baru 9**
+<span style="font-size: 8pt;">[March 2009, Sanjaya Barus is visiting Professor at the Lee Kuan Yew School of Public Policy in Singapore Geopolitical Implications of the Current Global Financial Crisis, Strategic Analysis, Volume 33, Issue 2 March 2009, pages 163 – 168]</span>
+The management of the economy, and of the treasury, has been a vital
+AND
+they will do so once again in today’s America remains to be seen.
+====Heg prevents major war==== 
+**Zhang and Shi ‘11**
+<span style="font-size: 8pt;">[Yuhan Zhang is a leader for Carnegie Endowment for International Peace and Lin Shi is a professor at Columbia University; “America’s decline: A harbinger of conflict and rivalry”January 22nd 2011; [[http://www.eastasiaforum.org/2011/01/22/americas-decline-a-harbinger-of-conflict-and-rivalry/]]]</span>
+Over the past two decades, no other state has had the ability to seriously
+AND
+forecast in a future that will inevitably be devoid of unrivalled US primacy.
+==1AC Plan== 
+====Plan text: The United States federal government should substantially increase its investment in cloud computing based Intelligent Transportation Systems.==== 
+==1AC Solvency== 
+====Contention 3 is Solvency==== 
+
+====Federal action AND investment is key==== 
+**Ezell 10**
+<span style="font-size: 8pt;">[Stephen Ezell, Senior Analyst, ¶ Information Technology and Innovation Foundation, led the Global Service Innovation Consortium, 1-10, “ Intelligent Transportation ¶ Systems¶ Explaining intErnational it application lEadErship,” The Information Technology¶ & Innovation Foundation, [[http://trid.trb.org/view.aspx?id=911843]], E. Liu]</span>
+I¶ nformation technology (IT) has transformed many industries, ¶ from education
+AND
+and training for already deployed ¶ ITS at the state and regional levels.
+====US transportation investment is inevitable – but without ITS it will fail==== 
+
+====Ezell 10==== 
+<span style="font-size: 8pt;">[Stephen Ezell, senior analyst with the information technology and innovation foundation (itif), Explaining International IT Application Leaderhip:Intelligent Transportation Systems, http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf]</span>
+Over the next five years, the United States is poised to invest more than
+AND
+, which are beginning to make substantial investments in ITS development and deployment.
+====And, Cloud computing overcomes your solvency deficits==== 
+**Trivedi et al 12**
+<span style="font-size: 8pt;">[Mr. Prashant Trivedi, Research Scholar IT, LNCT College, Bhopal(M.P.), India. Ms Kavita Deshmukh, Assistant Professor IT Depratment, LNCT College, Bhopal(M.P.), India, Dr. Manish Shrivastava, HOD, IT Department, LNCT College, Bhopal(M.P.), India. “Cloud Computing for Intelligent Transportation System”, July 2012, International Journal of Soft Computing and Engineering (IJSCE), Accessed Online, mtp]</span>
+V. INTELLIGENT TRAFFIC CLOUDS Urban-traffic management systems using intelligent traffic clouds have overcome the issues we’ve described. With the support of cloud computing technologies, it will go far beyond than any other multi agent traffic management systems, addressing issues such as infinite system scalability, an appropriate agent management scheme, reducing the upfront investment and risk for users, and minimizing the total cost of ownership. VI. PROTOTYPE Urban-traffic management systems based on cloud computing has two roles: service provider and customer. All the service providers such as the test bed of typical traffic scenes, ATS, traffic strategy database, and traffic strategy agent database are all veiled in the systems core: intelligent traffic clouds. The clouds customers such as the urban-traffic management systems and traffic participants exist outside the cloud. The intelligent traffic clouds could provide traffic strategy agents and agent-distribution maps to the traffic management systems, traffic-strategy performance to the traffic-strategy developer, and the state of urban traffic transportation and the effect of traffic decisions to the traffic managers. It could also deal with different customers’ requests for services such as storage service for traffic data and strategies, mobile traffic-strategy agents, and so on. With the development of intelligent traffic clouds, numerous traffic management systems could connect and share the clouds’ infinite capability, thus saving resources. Moreover, new traffic strategies can be transformed into mobile agents so such systems can continuously improve with the development of transportation science. VII. INTERSECTION MANAGER PRICE UPDATE Input: Different kinds of traffic loads, costs and demand. 1.) We are taking the different numbers of driver agents. 2.) One driver agent supply the traffic loads to another agent. 3.) All the agents will be working intersection operation with the intersection manager. 4.) Intersection manager control the excess load allocation process 5.) Excess numbers of requests can be handled with updated cost. 6.) We are updating the route and provide the new route identification. 7.) Apply the assumption function and increases the driver agent’s creation process, create the new agents prototype. 8.) Apply the transportation from one driver agent to another driver agent. 9.) Numbers of requests are travel till for finding the desired route identification process. 10.) According to capacity provide the sufficient agents. 11.) It can works on decision making strategies for getting the good densities specification process. 12.) Provides transportation with minimization cost specifications. Output:Equilibrium results identification. Here, artificial systems serve mainly as a platform for conducting computational experiments or for systematic, continuous application of computer simulation programs to analyze and predict behaviors of actual systems in different situations. In addition, we can use this mode to estimate, evaluate, and validate the performance of proposed solutions for online and offline decision making. VIII. ARCHITECTURE According to the basic structure of cloud computing, [12] an intelligent traffic clouds have four architecture layers: application, platform, unified source, and fabric. Figure 5 shows the relationship between the layers and the function of each layer. The application layer contains all applications that run in the clouds. It supports applications such as agent generation, agent management, agent testing, agent optimization, agent oriented task decomposition, and traffic decision support. The clouds provide all the services to customers through a standard interface. The platform layer is made of ATS, provided platform as a service. [1],[2] This layer contains a population synthesizer, weather simulator, path planner, 3D game engine, and so on to provide services to upper traffic applications and agent development. Fig. 5 Intelligent traffic clouds have fabric, unified source layer, platform and application layers. The unified source layer governs the raw hardware level resource in the fabric layer to provide infrastructure as a service. It uses virtualization technologies such as virtual machines to hide the physical characteristics of resources from users to ensure the safety of data and equipment. It also provides a unified access interface for the upper and reasonable distribute computing resources. All those will help solve information silo problems in urban traffic and help fully mine useful information in the traffic data. Lastly, the fabric layer contains the raw hardware level resources such as computing, storage, and network resources. The intelligent traffic clouds use these International Journal of Soft Computing and Engineering (IJSCE) ISSN: 2231-2307, Volume-2, Issue-3, July 2012 572 distributed resources to cater the peak demand of urban-traffic management systems, support the running of agents and ATS test beds, and efficiently store traffic strategy agents and their performances. [1],[2] IX. SUMMARY Increased traffic congestion and the associated pollution are forcing everyone in transportation to think about rapid changes in traffic processes and procedures to keep our mobility safe, comfortable, and economical. Cloud computing based intelligent transportation systems (ITSs) concept has recently emerged to meet this challenge. Many people see this emergence as part of normal evolutionary adaptation to new traffic conditions and technology. They consider current ITS applications perfectly adequate to the times and a safer, wiser response to today’s and tomorrow’s transportation problems.

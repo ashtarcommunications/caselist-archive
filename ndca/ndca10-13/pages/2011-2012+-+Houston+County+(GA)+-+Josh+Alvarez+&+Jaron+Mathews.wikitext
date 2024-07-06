@@ -1,0 +1,6 @@
+[[toc]]
+=Affirmative= 
+Space Weapons
+=Negative= 
+
+[[include page="space.template.Footer"]]

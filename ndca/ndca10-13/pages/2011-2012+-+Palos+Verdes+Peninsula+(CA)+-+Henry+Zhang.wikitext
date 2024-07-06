@@ -1,0 +1,22 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+
+Welcome to the Monkey House
+==Negative== 
+
+The Monkey King
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

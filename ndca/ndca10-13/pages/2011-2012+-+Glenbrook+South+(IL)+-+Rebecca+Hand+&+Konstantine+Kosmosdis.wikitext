@@ -1,0 +1,88 @@
+[[toc]]
+Email Beca072@gmail.com for questions/cites.
+
+:.]]
+=Affirmative= 
+==1AC: SSA== 
+
+**<span style="color: black; font-size: 12pt;"> Text: The United States federal government should substantially increase its civil space situational awareness by creating a Space Guard.</span>**
+
+**<span style="color: red; font-size: 12pt;">Contention 1: Crisis Stability</span>**
+**<span style="color: black;">US space assets are currently vulnerable-multiple different adversaries with different military doctrines invite attack</span>**
+**<span style="color: black;">Rendleman, 10</span>**<span style="color: black; font-size: 8pt;"> - Colonel, U.S. Air Force (Retired), (James, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science)</span>
+
+<span style="color: black; font-size: 8pt;">"The 11 January 2007 test of a Chinese...robust enough to counter now 21st Century adversary attack capabilities."</span>
+
+**<span style="color: black;">Only increasing SSA can reduce vulnerability – failure guarantees instability</span>**
+<span style="color: black; font-size: 8pt;">Bruce W. </span>**<span style="color: black;">MacDonald</span>**<span style="color: black; font-size: 8pt;"> Assistant director for national security at the White House Office of Science and Technology Policy (1995-1999), Senior director for science and technology on the National Security Council (1995-1999) BSE and MA, Princeton, Aerospace Engineering, Rocket Propulsion and Public and International Affairs </span>**<span style="color: black;">2009</span>**
+
+<span style="color: black; font-size: 8pt;">"Our space assets are exposed and fragile...more frequent space collisions and growing instability in space."</span>
+
+**<span style="color: black;">Increasing vulnerability creates first strike incentives that make escalation more probable</span>**
+**<span style="color: black;">MacDonald, 11</span>**<span style="color: black; font-size: 8pt;"> - Senior Director, Nonproliferation and Arms Control Program, U.S. Institute of Peace (Bruce, CQ Congressional Testimony, “MILITARY AND CIVIL SPACE PROGRAMS IN CHINA”, 5/11, lexis)</span>
+
+<span style="color: black; font-size: 8pt;">"One characteristic of too many wars...space instability seems high and likely to grow."</span>
+
+**<span style="color: black;">This will cause crises to go nuclear</span>**
+**<span style="color: black;">Belois and Garwin et. al. 2004</span>**<span style="color: black; font-size: 8pt;"> Bruce M. DeBlois is Directorof Systems Integration at British Aerospace, formerly Adjunct Senior Fellow for Science and Technology at the Council on Foreign Relations Richard L. Garwin is IBM Fellow Emeritus, Watson Research Center of IBM formerly Senior Fellow for Science and Technology at CFR Scott Kempis a Fulbright Fellow to the European Union and research staff at the Program on Science and Global Security at Princeton University, CFR. Jeremy C. Marwell is a Furman Scholar at New York University International Security, Vol. 29, No. 2 (Fall 2004), pp. 50-84</span>
+
+<span style="color: black; font-size: 8pt;">"Techniques for denying an adversary's satellite reconnaissance...US and Soviet reconnaissance satellites and their overflight rights."</span>
+
+**<span style="color: black;">The world is committed to measures to improving space stability – a lack of US commitment is the only obstacle</span>**
+<span style="color: black; font-size: 8pt;">Meyer 2011 – Paul Meyer, Ambassador to the Office of the United Nations and Ambassador for Disarmament in Geneva, representing Canada, April 4, 2011, “Diplomatic Options for Reinforcing Outer Space Security,” http://www.unidir.ch/pdf/conferences/pdf-conf1042.pdf</span>
+
+<span style="color: black; font-size: 8pt;">"One of the striking features of the outer space...what the judge said about pornography - the US will know it when it sees it."</span>
+
+**<span style="color: black;">The US military isn’t trusted by international actors – only a Space Guard provides the balance of civil and military involvement necessary to foster SSA data sharing</span>**
+**<span style="color: black;">Bennett 10</span>**<span style="color: black; font-size: 8pt;"> – James C. Bennett, President and Chairman of the Board of Internet Transactions Transnational, Inc.; co-founded Space Enterprise Consultants, the first consulting firm devoted entirely to commercial space development; member of the 1983 White House Task Force on Space Commercialization; Adjunct Senior Fellow of the Hudson Institute; Director of the Foresight Institute; member of the Board of Advisors for the National Space Society; October 2010, “The Coast Guard Model: A Third Organizational Option For International SSA Data Sharing and Other US Space Responsibilities,” George Washington University Space Policy Institute, http://www.gwu.edu/~spi/assets/docs/CoastGuardModel-GWUpaper.pdf, p. 16-17</span>
+
+<span style="color: black; font-size: 8pt;">"An organizational home for non-military SSA data functions...discussion and study of this concept is merited."</span>
+
+**<span style="color: red; font-size: 12pt;">Contention 2: Space debris</span>**
+
+**<span style="color: black;">First, All Qualified experts agree – Orbital debris is at the tipping point – failure to control it collapses our space assets</span>**
+<span style="color: black; font-size: 8pt;">The Telegraph 11 (Heidi Blake, staffwriter, “Space so full of junk that a satellite collision could destroy communications on Earth,” February, pg online @ http://www.telegraph.co.uk/science/space/8295546/Space-so-full-of-junk-that-a-satellite-collision-could-destroy-communications-on-Earth.html) np</span>
+
+<span style="color: black; font-size: 8pt;">"The volume of abandoned rockets...switch the television to watch the World Cup next month in Johannesburg."</span>
+
+**<span style="color: black;">Current SSA fails, 3 reasons – lack of Southern hemisphere coverage, outdated technology, and lack of data sharing </span>**
+**<span style="color: black;">Weeden and Kelso 9</span>**<span style="color: black; font-size: 8pt;"> [Brian Weeden, Technical Advisor for Secure World Foundation and former US Air Force officer, T.S. Kelso, Senior Research Astrodynamicist at the Center for Space Standards and Innovation, 2009, “Analysis Of The Technical Feasibility Of Building An International Civil Space Situational Awareness System,” http://swfound.org/media/1719/iac-09_bw.pdf]</span>
+
+**<span style="color: black;">"</span>**<span style="color: black; font-size: 8pt;">The main drawback of the US military's SSA capabilities...potentially losing track of an object."</span>
+
+**<span style="color: black;">Situational Awareness is at a CRITICAL Stage-a lack of a new dedicated civilian organization means current efforts at space debris removal will fail</span>**
+**<span style="color: black;">Bennett 10 </span>**<span style="color: black; font-size: 8pt;">(James, C. Research Associate @ George Washington University’s Space Policy Institute, “The Coast Guard Model:A Third Organizational Option For InternationalSSA Data Sharing and Other US Space Responsibilities,” George Washington University, Space Policy Institute, pg online @ http://www.gwu.edu/~spi/assets/docs/CoastGuardModel-GWUpaper.pdf) np</span>
+
+<span style="color: black; font-size: 8pt;">"Recent events have underscored the reality...distrustful of the USAF as a collaborative partner."</span>
+
+**<span style="color: black;">Acknowledging the existent of space debris would cause a spillover to removal measures</span>**
+**<span style="color: black;">David 11</span>**<span style="color: black; font-size: 8pt;"> [ Leonard David: Space.com, How to Clean Up Space Junk: Darpa’s Orbital Catcher’s Mitt, 5-13-2011, http://www.space.com/11657-space-junk-orbital-debris-cleanup-darpa.html]</span>
+
+<span style="color: black; font-size: 8pt;">"Although space is not an ecosystem...cause the future growth in the debris population."</span>
+
+**<span style="color: black;">Reliable space traffic management systems would prevent a cascade effect – security limitations means the US military can’t perform this task</span>**
+**<span style="color: black;">Weeden 9</span>**<span style="color: black; font-size: 8pt;"> [Brian Weeden, Technical Advisor for Secure World Foundation and former US Air Force officer, March 2009, “Space Sustainability: To Preserve And Protect...,” Satellite Magazine, http://www.satmagazine.com/cgi-bin/display_article.cgi?number=1415465455]</span>
+
+<span style="color: black; font-size: 8pt;">"In the meantime, space actors must...ensure that no collisions happen."</span>
+
+**<span style="color: black;">Without effective space debris control, US space assets which are crucial to US hegemony are put at risk</span>**
+**<span style="color: black;">Marshall, 8</span>**<span style="color: black; font-size: 8pt;"> - NASA Ames Research Center (Will, Astropolitics, 6:154–199, “REDUCING THE VULNERABILITY OF SPACE ASSETS: A MULTITIERED MICROSATELLITE CONSTELLATION ARCHITECTURE,” Ebsco Political Science)</span>
+
+<span style="color: black; font-size: 8pt;">"Space assets are one of the most critical...topic that could benefit from further research."</span>
+
+**<span style="color: black;">This could result in global nuclear conflicts in every region of the world</span>**
+**__<span style="color: black;">KAGAN, 7</span>__**<span style="color: black; font-size: 8pt;"> (Robert, senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)</span>
+
+<span style="color: black; font-size: 8pt;">"This is a good thing, and it should...global involvement will provide and easier path."</span>
+
+**<span style="color: red; font-size: 12pt;">Contention 3: Solvency</span>**
+
+**<span style="color: black;">The plan establishes a Space Guard built on Civilian SSA – that spills-over to shift functions from other agencies</span>**
+
+<span style="font-size: 8pt;">Bennett 11 (James C. Bennett, Research Associate @ George Washington University’s Space Policy Institute, the author of The Anglosphere Challenge, has been involved in space entrepreneurship, consulting, and advocacy for more than three decades “Proposing a ‘Coast Guard’ for Space,” pg online @ //http://www.thenewatlantis.com/publications/proposing-a-coast-guard-for-space//)</span><span style="color: black; font-size: 8pt;"> np</span>
+
+<span style="color: black; font-size: 8pt;">"New responsibilities. In addition to these...to alleviate its chronic span-of-control issues."</span>
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

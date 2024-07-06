@@ -1,0 +1,17 @@
+email for full text
+neg cites: andrewjones232@gmail.com
+aff cites: hemanthponnapula@gmail.com
+<span style="background-color: #ffffff; color: #777777; display: block; font-family: arial,sans-serif; font-size: 12px; text-align: start;">
+</span>
+
+[[@Affirmative -- Stratford JS 2012-2013|Affirmative]]
+
+
+[[@Negative -- Strategies -- Stratford JS 2012-2013|Negative -- Strategies]]
+[[@Negative -- Topicality Stratford JS 2012-2013|Negative -- Topicality]]
+[[@Negative -- Kritiks Stratford JS 2012-2013|Negative -- Kritiks]]
+[[@Negative -- Counterplans Stratford JS 2012-|Negative -- Counterplans]]
+[[@Negative -- Disadvantages Stratford JS 2012-201|Negative -- Disads]]
+
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,22 @@
+[[toc]]
+The NDCA National Argument list is moving from MediaWiki to Wikispaces for the 2010-2011 season. This page describes the transition and its effects on users of the wiki.
+
+=Wikispaces= 
+The new wiki is hosted by [[www:home|Wikispaces]], the same site that hosts the [[opencaselist:home|College Caselist]]. Why have we switched to Wikispaces? It provides a more user-friendly editing environment while outsourcing server administration and hosting responsibilities onto a third-party hosting provider. This should result in an easier-to-use wiki that is faster and more reliable. A comprehensive [[help:home|help page]] is available that will familiarize new users to the wikispaces software.
+
+=WYSIWYG and WikiText= 
+Wikispaces provides two ways to edit wiki pages: a robust [[help:Editor Toolbar|WYSIWYG (what you see is what you get) interface]] and [[help:Wikitext|a text language called Wikitext]]. For most users, the WYSIWYG editor will make editing the wiki much easier: it makes editing the wiki as easy as editing a document in a word processor. For power users, the Wikitext language provides a similar experience to the one they are used to with last year's wiki; while some of the formatting code is slightly different, the overall language is nearly identical.
+
+=Tags= 
+The wikispaces software allows users to [[http://blog.wikispaces.com/2010/06/tips-and-tricks-tags.html|create tags and apply them to individual pages]]. This feature will allow users to automatically generate lists of specific teams or debaters based on their tags. For example, all teams that are participating in the Greenhill Round Robin in policy debate have been tagged [[http://wiki.debatecoaches.org/tag/view/2010+greenhill+rr+policy|2010 greenhill rr policy]] and a page has been created that [[2010 Greenhill Round Robin — Policy Debate|lists them]].
+
+Tags will follow a standardized format:
+* Policy debate teams should be labeled "2010-2011 policy teams.
+* LD debaters should be labeled "2010-2011 ld debaters".
+* Policy tournaments should be labeled "Year (name of tournament) policy".
+* LD tournaments should be labeled "Year (name of tournament) ld".
+
+=Questions?= 
+Have a question about how to use the wikispaces software? Try the [[help:home|help page]] first. If that doesn't answer your question, try the [[help:FAQ|Frequently Asked Questions]] page. If that doesn't work, either, try the [[http://www.wikispaces.com/message/list/home|Wikispaces Discussion Forum]]. If you still can't figure something out, then and only then [[mailto:billbatterman@gmail.com|email the administrator, Bill Batterman]].
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,1248 @@
+[[toc]]
+=Negative= 
+<span style="font-family: Arial,Helvetica,sans-serif;">Cites: [[mailto:MikeDemers1@gmail.com|MikeDemers1@gmail.com]]</span>
+== == 
+==Topicality== 
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">ITS Vagueness</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Vote Neg – Kills stable link ground – Intelligent Transportation Systems can be an infinite number of different things – lets them spike out of specific DAs and CPs</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">ITIF 10</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (The Information Technology and Innovation Foundation, “Intelligent Transportation Systems,” January, <span style="color: blue;">[[http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Intelligent transportation systems … and other vehicles.</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Capital Spending </span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">A. Interpretation—Investment is capital spending on infrastructure’s physical capital</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">CBO, 9</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> – Congressional Budget Office (“Subsidizing Infrastructure Investment with Tax-Preferred Bonds”, October, http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/106xx/doc10667/10-26-taxpreferredbonds.pdf)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">In this analysis, … __and development__</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">B. Violation—the affirmative is financing not investment—they raise capital for the purpose of investment but don’t invest</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Chan, et al., 9</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, <span style="color: blue;">[[http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf]]</span>)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">The study is concerned</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> … criteria of allocative efficiency</span>
+=== === 
+===**<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Communications</span>**=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation—transportation infrastructure is highways, roads, bridges, intermodal transit, inland waterways, ports, aviation, and rail systems</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Congress, 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (The US House of Representatives – the 112th Congress of the United States. “HR 402 – National Infrastructure Development Bank Act of 2011” 1/24/11 <span style="color: blue;">[[http://www.govtrack.us/congress/bills/112/hr402/text/Cal-JV|http://www.govtrack.us/congress/bills/112/hr402/text//Cal-JV]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">(25) TRANSPORTATION INFRASTRUCTURE PROJECT- … __freight rail systems__.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">And, “communications” is a distinct category of infrastructure—it’s massive</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Faulkenberry, 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Ken, MBA – University of Southern California, “Infrastructure Investment: Energy, Transportation, Communications, & Utilities”, Arbor Asset Allocation Model Portfolio Blog, September, http://blog.arborinvestmentplanner.com/2011/09/infrastructure-investment-energy-transportation-communications-utilities/)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Transportation Infrastructure</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> Over the last … developing the __communications infrastructure__.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Violation—ITS includes communications technology</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">ETSI 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (“Intelligent Transport Systems,” <span style="color: blue;">[[http://www.etsi.org/website/technologies/intelligenttransportsystems.aspx]]</span>, LVS)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Intelligent Transport Systems … specialized technologies.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Predictability—communications only contrast with transportation infrastructure</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Peters, 7</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– Secretary of Transportation (Mary, Statement by her made before the committee on the budget – US house of representatives 10/25/07 http://testimony.ost.dot.gov/test/pasttest/07test/peters9.htm)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Because __transportation system__ … __pipelines, and railroads.__</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-In</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">“In” means inclusion within a place—“investment” must be within the United States</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Random House 12</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Unabridged Dictionary, “in”, http://dictionary.reference.com/browse/in?s=t)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">in   [in] Show IPA … spoken in French.</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Maintenance</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation - Infrastructure investment is distinct from maintenance</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Lemer 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">- worked at The National Academies and studied at Harvard University (Andrew, “How Much Infrastructure Spending Is “Enough?’”, http://www.andrewlemer.com/2011/02/26/how-much-infrastructure-spending-is-%E2%80%9Cenough%E2%80%9D/)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">What has been neglected … squeezed, forcing neglect.</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Military</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation—“transportation infrastructure” is strictly defined as facilities of transport—this excludes security, law enforcement, and military support</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Musick, 10</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Nathan, Microeconomic and Financial Studies Division – United States Congressional Budget Office, Public Spending on Transportation and Water Infrastructure, p. 2)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Although different definitions</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> … Hurricane __Katrina__ in 2005).</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Planning</span>=== 
+
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The aff’s extra-topical – determining whether infrastructure “maximizes utility” deals with planning, which is distinct from investment</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Department of Transportation, 8</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Dr. Catherine L. Ross, Principal Investigator, September 2008, CENTER FOR QUALITY GROWTH AND REGIONAL DEVELOPMENT, Georgia Institute of Technology, <span style="color: blue;">[[http://www.fhwa.dot.gov/planning/publications/megaregions_report/megaregions.pdf]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Megaregions are … of the megaregion.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">DOT agrees – planning is outside of investment – they’re two different things</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Department of Transportation, 8</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Dr. Catherine L. Ross, Principal Investigator, September 2008, CENTER FOR QUALITY GROWTH AND REGIONAL DEVELOPMENT, Georgia Institute of Technology, __<span style="color: blue;">http://www.fhwa.dot.gov/planning/publications/megaregions_report/megaregions.pdf</span>__)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Megaregions: Literature … more useful __to planners and policy-makers__.</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Pipelines</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation—transportation infrastructure is roadways, railways, harbors, airports, railroads, and highways—pipeline are explicitly excluded</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">United States Chamber of Commerce, 10</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (“Transportation Performance Index – Summary Report” 9/23/10 http://www.uschamber.com/sites/default/files/lra/files/LRA_TPI%20_Summary_Report%20Final%20092110.pdf)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Step 1 – Definition… **of __energy infrastructure.__**</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Predictability—pipelines only contrast with transportation infrastructure</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Peters, 7</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– Secretary of Transportation (Mary, Statement by her made before the committee on the budget – US house of representatives 10/25/07 http://testimony.ost.dot.gov/test/pasttest/07test/peters9.htm)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Because __transportation system__ … __electricity, pipelines, and railroads.__</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-P3's</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation—“its” is a possessive pronoun showing ownership</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Glossary of English Grammar Terms, 5</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (http://www.usingenglish.com/glossary/possessive-pronoun.html)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Mine, yours, his, hers, its, … it belongs to me.)</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">And, transportation investment is federal funding</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Warner, 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> – US Senator who introduced this bill into the Senate (introduced by Mark Warner and Mark Kirk, “S. 1968: A bill to require the Secretary of Transportation to establish a pilot program to increase accountability with respect to outcomes of transportation investments, and for other purposes,” December 8, 2011, <span style="color: blue;">[[http://www.govtrack.us/congress/bills/112/s1968/text%29/RD|http://www.govtrack.us/congress/bills/112/s1968/text)]]</span></span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">‘(5) TRANSPORTATION INVESTMENT- … 135 of title 23.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">P3’s aren’t topical—they have the federal government raise money for the private sector to invest as opposed to federal investment</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Chan, et al., 9</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(March 2009, Chris Chan, Danny, Forwood, Heather Roper, Chris Sayers, “Public Infrastructure Financing: An International Perspective”, <span style="color: blue;">[[http://www.pc.gov.au/__data/assets/pdf_file/0008/86930/public-infrastructure-financing.pdf]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Similar to privatisation, … __public sector__ (chapter 8).</span>
+=== === 
+===<span style="font-family: Arial,sans-serif; font-size: 10pt;">T-Vehicles</span>=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Interpretation—Infrastructure is fixed, permanent equipment</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">GAO 98</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– U.S. General Accounting Office (“Best Practices: Elements Critical to Successfully Reducing Unneeded RDT&E Infrastructure: Report to Congressional Requesters,” GAO Website, Jan. 1998, http://www.gao.gov/assets/160/156058.pdf)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">DoD generally defines …and software tools.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Violation—the affirmative increases investment in vehicles – they’re distinct</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">CFST 06</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– Campaign for Sensible Transportation, collection of organizations for better transportation in the Santa Cruz area (“Aboard Transportation”, 2006, <span style="color: blue;">[[http://www.cfst.org/transportation.html]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Transportation or transport … air traffic control, and etc.</span>
+== == 
+==Disads== 
+=== === 
+===Coast Guard Budget DA=== 
+
+**<span style="background-color: white;">Coast guard budget is tight – the cutter is on the chopping block now</span>**
+**Helvarg 12** – executive director of the Blue Frontier Campaign, an ocean conservation and policy group and author of "Rescue Warriors - The U.S. Coast Guard, America's Forgotten Heroes." (David, http://www.sfgate.com/opinion/openforum/article/SOS-from-Coast-Guard-on-Obama-plan-to-cut-budget-3357265.php)
+
+As the most active Coast Guard rescue … away its muscle in the name of cutting fat.
+
+**<Link>**
+
+**Coast Guard budget is key preventing drift-net fishing**
+<span class="StyleStyleBold12pt">**Perera 12**</span>, David March 7, 2012 executive editor of the FierceMarkets Government Group ‘Coast Guard could cut back operations without NSCs, says Papp” [[http://www.fiercehomelandsecurity.com/story/coast-guard-could-cut-back-operations-without-nscs-says-papp/2012-03-07]]
+
+The Coast Guard could be … to be cut back, Papp added.
+
+**Drift-Net Fishing causes ecosystem collapse**
+<span class="StyleStyleBold12pt">**FAO 91** </span>Food And Agriculture Organization Of The United Nations, ‘Driftnet fisheries and their impacts on non-target species: a worldwide review’ [[http://www.fao.org/DOCREP/003/T0502E/T0502E00.HTM]]
+
+Although many of the controversies … beds are two such examples.
+
+**Extinction**
+<span class="StyleStyleBold12pt">**Craig 03** </span>(Robin Kundis, Associate Professor of Law, Indiana University School of Law, 34 McGeorge L. Rev. 155)
+
+<span style="font-family: Arial,sans-serif; font-size: 13.3333px;">Biodiversity and ecosystem function … out of business as a result.</span>
+
+
+=== === 
+===Debt Ceiling DA=== 
+
+**Debt ceiling compromise likely now but political capital is key – the impact is economic collapse**
+**Klein, 1/2** – Ezra, politics writer for the Washington Post. “The lessons of the fiscal cliff,” 2013, <span style="color: windowtext;">[[http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/02/the-lessons-of-the-fiscal-cliff/?wprss=rss_ezra-klein]]</span>
+
+There is a narrative in American politics that … **unleashing economic havoc.**
+
+**<Link>**
+
+**Going over collapses the global economy**
+Zachary **Goldfarb**, WaPo, **1/1**/13, ‘Fiscal cliff’ deal does little to tame threats from debt ceiling, high unemployment rates, www.washingtonpost.com/business/fiscal-cliff/fiscal-cliff-deal-does-little-to-tame-threats-from-debt-ceiling-high-unemployment-rates/2013/01/01/8e4c14aa-5393-11e2-bf3e-76c0a789346f_story.html
+
+In many ways, the threat of … bonds play in the global economy.
+
+**Global economic crisis causes nuclear war**
+**Merlini 11** (Cesare Merlini, BA in humanities, holds a diploma for industrial engineering, nonresident Senior Fellow at the Center on the United States at the Brookings Institute, Chairman of the Board of Trustees of the Italian Institute of International Affairs, President of the Italian Institute of International Affairs, founder and former Executive-Vice-Chairman of the Council for the United States and Italy, former co-editor of Global-FP, an Italian magazine associated with Foreign Affairs, former member of the Trilateral Commission, member of the Board of the International Institute for Strategic Studies, previously held the chair of Nuclear Technologies at the Polytechnic University of Turin, nuclear scientist at the Argonne National Laboratory in Illinois, expert on transatlantic relations, European integration, nuclear non-proliferation, and the impact of change in society on international relations, 2011, “A Post-Secular World?”, published in Survival volume 53 number 2, page 117, http://www.brookings.edu/~/media/Files/rc/articles/2011/04_international_relations_merlini/04_international_relations_merlini.pdf)
+
+Two neatly opposed scenarios for the … self-perception of rising influence and power.
+
+=== === 
+===Elections DA=== 
+
+**Obama winning now—undecided voters, battleground states, and welfare attacks**
+**Sargent 9/4** (Greg Sargent, news reporter for The Washington Post, former writer for Talking Points Memo, New York Magazine and the New York Observer; “Talking Points Memo, New York Magazine and the New York Observer,” 9/4/2012, http://www.washingtonpost.com/blogs/plum-line/post/why-the-obama-campaign-is-cautiously-confident-in-victory/2012/09/04/67206a1e-f6ac-11e1-8398-0327ab83ab91_blog.html
+
+Nevertheless, the Obama … ‘Okay, he’s not doing it.’ ”
+
+**<Link>**
+
+**Independents will blame Obama**
+**Resurgent Republic, 11**(according to a poll by Resurgent Republic, “VOTERS BELIEVE AMERICA IS WORSE OFF THAN WHEN OBAMA TOOK OFFICE” 11/8, [[http://www.resurgentrepublic.com/research/voters-believe-america-is-worse-off-than-when-obama-took-office]])
+
+Resurgent Republic conducted a … in control by 39 to 34 percent
+
+**And, Swing State Independents hold the key to victory**
+**Galston, 5/10** (Walliam A., Ezra Zilkha Chair in the Brookings Institution’s Governance Studies Program, where he serves as a senior fellow. A former policy advisor to President Clinton “Six Months To Go: Where the Presidential Contest Stands as the General Election Begins” 5/10/12 http://www.brookings.edu/research/papers/2012/05/~/media/Research/Files/Papers/2012/5/10%20obama%20campaign%20galston/Where%20the%20Presidential%20Contest%20Stands.pdf)
+
+Independent voters in … chance of winning..
+
+**Romney kills US-Russia relations**
+**Larison 6/27**(Daniel Larison, contributing editor at The American Conservative and writes a column for The Weekonline, Ph.D. graduate from the University of Chicago, “U.S.-Russian Relations Would Get Much Worse Under Romney”, http://www.theamericanconservative.com/larison/u-s-russian-relations-would-get-much-worse-under-romney/, 6/27/12, Bhattacharyya)
+
+Putin might share some … they have in the last year.
+
+**The impact is extinction—and relations solves their terminal impacts**
+**Allison 11**(Graham, 10/30, Director of the Belfer Center for Science and International Affairs at Harvard’s Kennedy School of Government, “10 reasons why Russia still matters,” http://dyn.politico.com/printstory.cfm?uuid=161EF282-72F9-4D48-8B9C-C5B3396CA0E6)
+
+That central point is that … U.N. Security Council resolutions.
+
+==== ==== 
+====**China Bashing Impact**==== 
+
+**Romney labels China a currency manipulator**
+**Dawson and Mason, 12** <span class="StyleStyleBold12pt">Stella and Jeff, Columnists @ Reuters, 2/13, http://www.reuters.com/article/2012/02/13/us-usa-campaign-obama-china-idUSTRE81C0DG20120213</span>
+
+<span class="IntenseEmphasis1">Tough calculus for Obama in</span> … we have differences."
+
+**Causes nuclear war, kills relations and the economy**
+**MCNALLY 9.** [Chris, research fellow and political economist @ East-West Center, “CHINA-U.S. ECONOMIC RELATIONS: FROM SYMBIOSIS TO RUPTURE?” East West Center -- Feb 8 -- [[http://www.eastwestcenter.org/news-center/east-west-wire/china-us-economic-relations-from-symbiosis-to-rupture/]]]
+
+The unraveling of this … through tough times.
+==== ==== 
+====**Economy Impact**==== 
+
+**Obama is key to economic recovery**
+<span class="StyleStyleBold12pt">**Sullivan** 5/29/**12** </span>(Andrew Sullivan 29 May 2012 12:32 PM How Obama Can Win, political correspondant [[http://andrewsullivan.thedailybeast.com/2012/05/sizing-up-the-2012-race.html]])
+
+It's clear enough by now … and sluggish growth<span class="IntenseEmphasis1">.</span>
+==== ==== 
+====**EU Missile Defense Impact**==== 
+
+**Obama win key to stop European missile defense – failure collapses Russia’s nuke deterrent and causes war**
+**Levi 12**
+(David Meir, Prof of History @ San Jose State University and writes and lectures on Middle East topics, “Russia Wants Obama Re-Elected” May 11th, 2012, <span style="color: windowtext;">[[http://frontpagemag.com/2012/david-meir-levi/russia-wants-obama-re-elected/]]</span>)
+
+At an international conference on Thursday, May 3, … __Well, actually there is: Obama’s re-election.__
+
+**Extinction**
+**Sharavin et al 7**
+(Major General Alexander Vladimirov, Vice President of the Military Expert Board; - Colonel General Vladimir Yesin, Senior Vice President of the Russian Academy of the Problems of Security, Defense, and Law; - Colonel General Leonid Ivashov, President of the Academy of Geopolitical Problems; and - Alexander Sharavin, Director of the Institute of Political and Military Analysis, Defense and Security, July 20)
+
+Ivashov: Numerous scenarios and options are possible. … __between Russia and the United States.__
+
+==== ==== 
+====**Healthcare Impact**==== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Republic Victory Means Repeal of Health Care</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Sloane 11 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">[Harvey Sloane, a physician, was mayor of Louisville from 1973-77 and 1982-86, and he served as Jefferson County Judge/Executive from 1986-90, "Health care reform worth defending," 1/2/11, [[http://www.courier-journal.com/print/article/20110102/OPINION04/301020041/Harvey-Sloane-Health-care-reform-worth-defending]],] </span>
+<span class="DebateUnderline">__<span style="font-family: Arial,sans-serif;">Healthcare reform is</span>__</span><span style="font-family: Arial,sans-serif;"> … </span><span class="DebateUnderline">__<span style="font-family: Arial,sans-serif;">they will have to win the presidency.</span>__</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Lack of solid health care makes the US more susceptible to bioterrorism – high probability of attack</span>**
+<span style="font-family: Arial,sans-serif;">Shane K. </span>**<span style="font-family: Arial,sans-serif;">Green</span>**<span style="font-family: Arial,sans-serif;">, Director of Outreach at the Ontario Genomics Institute,</span>**<span class="Author-Date" style="font-family: Arial,sans-serif;"> 04</span>**
+<span style="font-family: Arial,sans-serif;">[“Bioterrorism and Health Care Reform: No Preparedness Without Access,” [[http://virtualmentor.ama-assn.org/2004/05/pfor2-0405.html]]]</span>
+<span style="font-family: Arial,sans-serif;">Butwith the US presently</span><span class="DebateUnderline" style="font-family: Arial,sans-serif;"> … easy access to health care.</span>
+
+**And, it’s an existential threat**
+**<span class="StyleStyleBold12pt">Matheny 07 </span>**- MPH from Johns Hopkins, PhD Candidate @ Johns Hopkins (Jason, research associate with the Future of Humanity Institute at Oxford University, where his work focuses on technology forecasting and risk assessment - particularly of global catastrophic risks and existential risks.[1] He previously worked for the World Bank, the Center for Biosecurity, the Center for Global Development, and on national security projects for the US government. He is a Sommer Scholar and PhD candidate in Applied Economics at Johns Hopkins University. He holds an MPH from Johns Hopkins, an MBA from Duke University, and a BA from the University of Chicago, Department of Health Policy and Management, Bloomberg School of Public Health, Johns Hopkins University, “Reducing the Risk of Human Extinction,” http://www.physics.harvard.edu/~wilson/pmpmta/Mahoney_extinction.pdf)
+
+__Of current extinction risks,__ … to be worth the risks.
+==== ==== 
+====**India Relations Impact**==== 
+
+**Romney win undermines US-India relations**
+<span class="StyleStyleBold12pt">**Larrison 7/6** </span>(Daniel Larison, writer for the American Conservative; “Romney and U.S.-Indian Relations," 7/6/2012, http://www.theamericanconservative.com/larison/romney-and-u-s-indian-relations)
+
+Of course, this raises … <span style="font-size: 14.6667px;">too</span><span style="font-family: Arial,sans-serif;"> closely with ours</span>.
+
+**Strong India relations solve inevitable Asian war – litany of reasons**
+Richard L. **__Armitage et al 10__**, Deputy Secretary of State from March 2001 to February 2005, “Natural Allies”, October, http://www.cnas.org/files/documents/publications/CNAS_Natural%20Allies_ArmitageBurnsFontaine.pdf
+
+__The U.S. relationship with India__ … regional and __global partnership__.
+
+**Asian wars go nuclear**
+<span class="StyleStyleBold12pt">**Landay**</span>, National Security Expert @ Knight Ridder, 3/10/**’**<span class="StyleStyleBold12pt">**2K**</span>
+(Jonathan, Knight Ridder, lexis)
+
+__Few__ if any __experts__ … to the Commerce Department.
+
+==== ==== 
+====**Iran Strikes Impact**==== 
+
+**Obama’s win is key to hold off strikes on Iran**
+**__Hurst, ’12__** (Stephen, AP, 4/18/12, <span style="color: blue;">[[http://www.breitbart.com/Big-Peace/2012/04/18/Romneys-foreign-policy-may-mean-hardball-is-back]]</span>)
+
+Even so, __Romney__ … __a nuclear weapon."__
+
+**Iran strikes causes multiple scenarios for extinction.**
+**__Chossudovsky 6.__** (Michel Chossudovsky, The Next Phase of the Middle East War, Global Research, http://www.globalresearch.ca/index.php?context=va&aid=3147)
+
+The Bush Administration has … __of the Russian Federation.__
+==== ==== 
+====**Warming Impact**==== 
+
+**Obama is key to solve climate – the impact is extinction**
+**Buffalo News**, “Stakes are high in race for president,” 4/22/20**12**, [[http://www.buffalonews.com/editorial-page/viewpoints/article822432.ece]]
+
+Despite what you hear … this life-and-death issue.
+
+**Romney destroys warming regulation**
+**Pittsburg Post-Gazette 12** (Pittsburgh Post-Gazette, Largest daily newspaper serving [[file:///E:/wiki/Pittsburgh_metropolitan_area|metropolitan]] [[file:///E:/wiki/Pittsburgh,_Pennsylvania|Pittsburgh, Pennsylvania]],June 17, 2012, “Unhealthy politics: On mercury and soot, the EPA is a strong guardian”, [[http://www.post-gazette.com/stories/opinion/editorials/unhealthy-politics-on-mercury-and-soot-the-epa-is-a-strong-guardian-640722/]])
+
+One of the questions … regulatory powers.
+=== === 
+===Food Prices DA=== 
+
+**Russian economy is strong now but agriculture is critical to keep it diverse—that’s key to the global economy**
+**Delaney, 11** (Martin, “Russia: The Wild East,” Investment And Pensions Europe)
+
+However, many would argue they are … the great fortunes of the future are being made.
+
+**The plan lowers grain prices by increasing US grain exports**
+**TCS, 11** (“US Grain Transportation System Not Keeping Pace,” The Crop Site, 3/1/11, [[http://www.thecropsite.com/news/7727/us-grain-transportation-system-not-keeping-pace]])
+
+For decades, US farmers raised more grain … Waterways move our economy and they need attention,” he said.
+
+**High food prices key to Russian growth**
+**<span style="font-size: 12pt;">AP NEWSWIRE</span> 9-10-20<span style="font-size: 12pt;">08</span>**(www.newsday.com/business/investing/wire/sns-ap-russian-breadbasket,0,5647019.story)
+
+An American-made combine harvests barley … out of the same plot, he said.
+
+**Russian economic collapse causes prolif, terrorism, pandemics, environmental collapse and nuke war**
+**David 99** (Steven, Professor of Political Science at Johns Hopkins, Foreign Affairs, Jan/Feb 1999)
+
+If internal war does strike Russia, economic … that would follow a Russian civil war.
+==== ==== 
+===Fiscal Cliff DA=== 
+
+**Obama will solve fiscal cliff in the lame duck**
+**Marcus**, staff writer for the Washington Post, **10/27**/2012
+(Ruth, “How will fiscal cliff get fixed? It depends on who wins,” http://azstarnet.com/news/opinion/how-will-fiscal-cliff-get-fixed-it-depends-on-who/article_32ad6002-981e-52fd-abbb-597f60771dec.html)
+
+Betting on Congress to do something - … __budget deal as a legacy moment__.
+
+**<Link>**
+
+**Presidential leadership is key to a compromise – the alternative is the collapse of hegemony, a double-dip recession, and war in the Middle East**
+**Hutchison**, U.S. Senator from the great state of Texas, **9/21**/2012
+(Kay Bailey, “A Looming Threat to National Security,” States News Service, Lexis)
+
+__Despite warnings of the **dire consequences**__, … stall economic growth and punish working families.
+
+**Middle East goes nuclear**
+James A. **Russell****,** Senior Lecturer, National Security Affairs, Naval Postgraduate School, **‘9** (Spring) “Strategic Stability Reconsidered: Prospects for Escalation and Nuclear War in the Middle East” IFRI, Proliferation Papers, #26, http://www.ifri.org/downloads/PP26_Russell_2009.pdf
+
+__Strategic stability__ __in the region is__ thus … of the __region, with substantial risk for the entire world__.
+=== === 
+===Guam Environment DA=== 
+==== ==== 
+====**Dredging**==== 
+
+**Guam dredging destroys coral reefs**
+**Natividad and Kirk ‘10** <span style="background-color: white;">(LisaLinda Natividad, PhD is an assistant professor with the Division of Social Work at the University of Guam. She is also president of the Guahan Coalition for Peace and Justice. Gwyn Kirk, PhD is visiting faculty in Women's and Gender Studies at University of Oregon (2009-10) and a founder member of Women for Genuine Security (www.genuinesecurity.org), “Fortress Guam resists US military buildup,” Asia Times, </span>[[http://www.atimes.com/atimes/Japan/LE14Dh04.html]]<span style="background-color: white;">) </span>
+
+__<span style="background-color: white;">Another highly controversial proposal is</span>__<span style="background-color: white;"> … of acres of live coral. </span>
+
+**Extinction**
+**GR, 12**– Green Reefs environmental magazine (“About Us; Who Are We?” 4/22/12, [[http://green-reefs.com/GreenReefAboutUs.html]])
+
+Here at Green Reefs we are dedicated … the moon than the ocean floor.
+==== ==== 
+====**Roads**==== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Guam hurts the environment – habitat destruction and invasive species</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Guam PDN, 10</span>**
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">“RECORD OF DECISION for Guam and CNMI Military Relocation including Relocating Marines from Okinawa Transient Nuclear Aircraft Carrier Berth Air and Missile Defense Task Force,” September 2010, http://www.guampdn.com/assets/pdf/M0164364922.PDF</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">The FEIS concludes that __…__ impacts to less than significant.</span>
+
+**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;">These are now the MAIN THREATS to bio-diversity – Guam is particularly vulnerable – building infrastructure is a major cause</span>**
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Weeks 12</span>**<span style="background-color: white; font-family: Arial,sans-serif; font-size: 10pt;"> (Jennifer, quoting Harvard Biology Professor E.O. Wilson, “Native Species Suffer When Invasives Thrive”, </span><span style="font-family: Arial,sans-serif; font-size: 10pt;">http://library.cqpress.com/cqresearcher/document.php?id=cqresrre2012021700, 2/17/12)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Invasive species and endangered … **__and other infrastructure.__**</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Biodiversity loss causes extinction</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Science Daily, 11</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> ("Biodiversity Key to Earth's Life-Support Functions in a CHanging World," Cites Albert-Ludwigs-Universitat Freiburg, August 11, <span style="color: windowtext; text-decoration: none;">[[http://www.sciencedaily.com/releases/2011/08/110811084513.htm|www.sciencedaily.com/releases/2011/08/110811084513.htm]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">ScienceDaily (Aug. 11, 2011) — </span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;">The biological diversity of organisms</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> on … </span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Earth's life-support functions</span>____<span style="font-family: Arial,sans-serif; font-size: 10pt;">.</span>__
+
+=== === 
+===Immigration DA=== 
+
+
+**Immigration reform coming now – new Republican shifts**
+**The Hill, 1/25** (“Republicans shift gears on immigration ahead of reform debate with Obama,” 2013, http://thehill.com/homenews/house/279221-gop-girds-for-immigration-debate-with-obama)
+
+House **__Republicans have__** … whose background is in immigration law.
+
+**<Link>**
+
+**Capital key**
+**DMN 1/2** (Dallas Morning News, "Editorial: Actions must match Obama’s immigration pledge," [[http://www.dallasnews.com/opinion/editorials/20130102-editorial-actions-must-match-obamas-immigration-pledge.ece]])
+
+The president’s words to NBC’s … __Nothing but action will count__.
+
+**Solves high tech visas**
+**Smith 11/7** (Gerry Smith, “Technology Industry Puts Immigration Reform As Top Hope For Obama's Second Term,” http://www.huffingtonpost.com/2012/11/07/technology-immigration-reform-obama_n_2087457.html)
+
+__Many startups__ in New York's … Center for Responsive Politics.
+
+**Solves cyber security**
+**McLarty 9** (Thomas F. III, President – McLarty Associates and Former White House Chief of Staff and Task Force Co-Chair, “U.S. Immigration Policy: Report of a CFR-Sponsored Independent Task Force”, 7-8, http://www.cfr.org/ publication/19759/us_immigration_policy.html)
+
+We have seen, **__when you__** … our system, **__our security needs__**.
+
+**Nuclear war – turns the case**
+**Fritz 9** Masters in International Relations, Researcher for International Commission on Nuclear Nonproliferation and Disarmament (Jason, 2009, “Hacking Nuclear Command and Control,” http://icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf)//DR. H
+
+This paper will analyse the threat of … __and control centres directly.__
+
+
+
+
+=== === 
+===LNG Exports DA=== 
+==== ==== 
+====**Russia**==== 
+
+**Collapses the Russian economy**
+**Paillard**, Head of the Industrial and Technological Trends Department – French Ministry of Defense's Strategic Affairs Office, **‘10**
+(Christophe-Alexandre, “Rethinking Russia: Russia and Europe’s Mutual Energy Dependence,” Columbia Journal of International Affairs Vol. 63, No. 2, p. 65-84)
+
+__Russia’s economy is__ heavily … Russian gas over the long-term.
+
+**And, brings down Putin—causes a civil war**
+**Berry**, has covered Russian politics for CBS News since 1995, **3/6**/’12
+(Lynn, “Analysis: Putin faces steep challenge in protests,” CBS News Opinion)
+
+__How Putin responds to the challenge, and__ … protests instead, __he's doomed.__
+
+**Nuclear war**
+**David**, Prof Poli Sci – Johns Hopkins University, **‘99**
+(Steven, //Foreign Affairs//, Jan/Feb)
+
+AT NO TIME since the civil war of … __follow a Russian civil war.__
+==== ==== 
+====**Manufacturing**==== 
+
+**Domestic LNG demand is up – exports kill manufacturing**
+**Cicio 9/27** (Paul N., President, Industrial Consumers of America, Cicio graduated from Youngstown State University with a BS in Business Administration and Economics. "The 10% 10% in 2016 Gas Export Problem" [[http://energy.nationaljournal.com/2012/09/sizing-up-the-role-of-natural.php]])
+
+__The shale gas boom is the greatest__ … __a fuel and/or exporting it.__
+
+**LNG exports result in market overexposure – collapses manufacturing, the chemical and steel industries, and leads to more oil dependency and warming**
+**Markey 9/28**/12 (Rep. Ed Markey, D-Mass. Ranking Member, House Natural Resources Committeehttp://energy.nationaljournal.com/2012/09/sizing-up-the-role-of-natural.php~~%232246213)
+
+The boom in American natural … and gas companies.
+
+**Oil dependence causes extinction**
+**Lendmen 07**
+(Stephen, “Resource Wars - Can We Survive Them?”, 6-6-7, http://www.rense.com/general76/resrouce.htm)
+
+Near the end of WW II, Franklin … of it, would have survived.
+
+=== === 
+===Sacred Cow DA=== 
+
+**<span style="font-size: 9pt;">The plan’s untouchable fiat designates it as an off-budget project — this has a snowball effect and ensures every pet project gets funded</span>**
+**<span style="font-size: 9pt;">Boskin, 96</span>**<span style="font-size: 9pt;"> (Michael Boskin, senior fellow at the Hoover Institute; Congressional Record, 142 Con Rec H, 4/17/1996, http://www.gpo.gov/fdsys/pkg/CREC-1996-04-17/html/CREC-1996-04-17-pt1-PgH3497-3.htm)</span>
+
+<span style="font-size: 9pt;">I believe __it is likely that__ … __tax and budget policy impossible__.</span>
+
+**<span style="font-size: 9pt;">Guarantees the ABL</span>**
+**<span style="font-size: 9pt;">Hodge 11</span>**<span style="font-size: 9pt;"> (Nathan Hodge, WSJ; “Pentagon Loses War to Zap Airborne Laser From Budget,” 2/11/2011, http://online.wsj.com/article/SB10001424052748704570104576124173372065568.html)</span>
+
+<span style="font-size: 9pt;">But __if the administration's budget request__ … Combat Systems. (The FCS's overall cost: $18 billion.)</span>
+
+**<span style="font-size: 9pt;">Nuclear war</span>**
+**<span style="font-size: 9pt;">Rozoff, 10</span>**<span style="font-size: 9pt;"> – contributor to The Centre for Research on Globalization (Rick, “U.S. Tightens Missile Shield Encirclement Of China And Russia”, 3/4/2010, http://www.globalresearch.ca/index.php?context=va&aid=17948)</span>
+
+<span style="font-size: 9pt;">The U.S. has not substituted the missile encirclement … __conventional and nuclear first strikes__.</span>
+
+=== === 
+===Saudi Relations DA=== 
+
+**Oil dependence is key to US-Saudi relations**
+**Mouawad 9** (Jad, “Saudi Blasts American Energy Policy” 9/25/9, New York Times, [[http://green.blogs.nytimes.com/2009/08/25/saudi-blasts-american-energy-policy/]])
+
+The question of American “energy independence” … how fast will the transition take?
+
+**Breakdown of relations spurs Saudi prolif**
+**Lippman, 8/5**(Sr. Adjunct Scholar-Council on Foreign Relations, http://www.susris.com/2011/08/05/saudi-arabia’s-nuclear-policy-lippman/)
+So let us suppose that … secure, rather than more.
+
+**That causes global nuclear war**
+**Edelman, 11**
+
+(Jan/Feb, Distinguished Fellow at the Center for Strategic and Budgetary Assessments & Former U.S. Undersecretary of Defense for Policy, Foreign Affairs, http://www.foreignaffairs.com/articles/67162/eric-s-edelman-andrew-f-krepinevich-jr-and-evan-braden-montgomer/the-dangers-of-a-nuclear-iran)
+
+There is, however, at … unpredictable consequences.
+
+==== ==== 
+====**Fifth Fleet Impact**==== 
+
+**Saudi relations key to make US military presence in the Gulf effective**
+**Telhami and Hill, 2** (Shibley - Anwar Sadat Professor for Peace and Development at the University of Maryland, College Park, and non-resident senior fellow at the Saban Center at the Brookings Institution, and Hill - Director, Center on the United States and Europe Senior Fellow, Foreign Policy The Stephen and Barbara Friedman Senior Fellow at the Brookings Institute, “Does Saudi Arabia Still Matter? Differing Perspectives on the Kingdom and Its Oil”, Foreign Affairs, November/December 2002, http://www.foreignaffairs.com/articles/58444/shibley-telhami-fiona-hill-et-al/does-saudi-arabia-still-matter-differing-perspectives-on-the-kin?page=show) Mike
+
+Given America's ongoing … case of a war with Iraq.
+
+**The fifth fleet is key to check Iran’s influence**
+<span class="StyleStyleBold12pt">**Winegard, 11**</span> [Ben Winegrad, writer; 3/11/11, “Understanding Bahrain: How Bahrain Shines a Light on Imperial Policies”,]
+
+“Stability,” per Noam Chomsky, … Fifth Fleet would be essential.
+
+**Failure to contain Iran causes Middle East war – goes nuclear**
+<span class="StyleStyleBold12pt">**Ben-Meir 7** (Alon Ben-Meir, professor of international relations at the Center for Global Affairs at NYU, UPI; February 6, 2007, Realpolitik: Ending Iran's defiance)</span>
+
+That Iran stands today able <span class="StyleBoldUnderline">…</span> halting its nuclear program.
+
+==== ==== 
+====**Heg Impact**==== 
+
+**Collapse of the alliance ends dollar primacy**
+**SHAW 2004** (Charles, Editor-in-Chief, “Make the Greeleap,” Newtopia Magazine, Summer, [[http://www.newtopiamagazine.org/issue17/features/greenleap.php]])
+
+The second critical issue …fields till they run dry.
+
+**Key to heg**
+**Looney, 4** (Robert E, professor of National Security Affairs, and Associate Chairman of Instruction, Department of National Security Affairs at the Naval Postgraduate School. “From Petrodollars to Petroeuros: Are the Dollar's Days as an International Reserve Currency Drawing to an End?” Middle East Policy No. 1 Vol. 11, p. 26 http://www.ccc.nps.navy.mil/si/nov03/middleEast.asp
+
+Political power and prestige. … alternative to the dollar.[12]
+
+=== === 
+===Spending Bad=== 
+==== ==== 
+====**Bond Market DA**==== 
+
+**Additional stimulus spending causes a bond market backlash – that turns the case**
+**Samuelson, 11**- Washington Post columnist specializing in economic affairs (Robert, “Bye-bye, Keynes?,” Washington Post, 12/18, [[http://www.washingtonpost.com/opinions/bye-bye-keynes/2011/12/16/gIQAS2oD3O_story.html]])
+
+The eclipse of Keynesian economics … offers no panacea today.
+==== ==== 
+====**Private Sector Crowd-out DA**==== 
+
+**Infrastructure spending multipliers will be negative – delay, lack of targeting, and permanence of infrastructure spending**
+**de Rugy and Mitchell, 11**– both are senior research fellows at the Mercatus Center at George Mason University (Veronique and Matthew, “Would More Infrastructure Spending Stimulate the Economy?” September, [[http://mercatus.org/sites/default/files/publication/infrastructure_deRugy_WP_9-12-11.pdf%29/DH|http://mercatus.org/sites/default/files/publication/infrastructure_deRugy_WP_9-12-11.pdf)]]
+
+Notwithstanding the confidence of … when we can ill afford it.
+
+**Crowd-out effects mean the multiplier is zero and infrastructure spending won’t increase GDP**
+**Tatom, 9**– Director of Research of the Networks Financial Institute at Indiana State University, former vice president of the Federal Reserve Bank of St. Louis, former professor of economics at DePaul (John, “The Limits of Fiscal Policy,” CESifo Forum 2/2009, http://www.cesifo-group.de/portal/pls/portal/docs/1/1191492.PDF)
+
+Tatom (1991) uses a private sector … of infrastructure spending.
+
+**Crowdout decreases net productivity and causes economic decline in the short term**
+**Leeper et al, 2009** professor of Economics at Indiana University and is also affiliated with Monash University and the National Bureau of Economic Research (Eric M., “GOVERNMENT INVESTMENT AND FISCAL STIMULUS IN THE SHORT AND LONG RUNS,” July 2009, [[http://www.nber.org/papers/w15153.pdf?new_window=1]])
+
+So long as public capital is productive, … distortionary ﬁscal instruments.
+== == 
+==Counterplans== 
+
+=== === 
+===Climate Adaptation CP=== 
+
+**The United States federal government should revise relevant laws, infrastructure plans, standards, and agency guidance to mandate incorporation of climate adaption into public and private transportation infrastructure.**
+
+**Solves the aff**
+**<span style="font-size: 12pt;">Neumann, 9</span>** (James Neumann, Resources for the Future is an independent, nonpartisan think tank that about energy, environmental, natural resource, and public health issues, Issue Brief 09-15, “Adaptation to Climate Change: Revisiting Infrastructure Norms,” December 2009, LVS)
+
+The main threats presented by climate …climate change and extreme events.
+=== === 
+===EIS CP=== 
+
+**<span style="background-color: #ffffff; font-size: 13.333333969116211px;">Text: The Department of Transportation should submit a proposal for Joint Power Projection Support and Deployment Distribution Support Platform transportation infrastructure for a National Environmental Policy Act Environmental Impact Statement. The United States federal government should implement the least environmentally damaging alternative identified in the Environmental Impact Statement.</span>**
+
+**CP solves the aff and avoid environmental consequences**
+<span class="StyleStyleBold12pt">**Gilpin 2k**</span> (Dr. Alan, Commissioner of Inquiry for Environment and Planning with the New South Wales Government, Environmental Impact Assessment (EIA): Cutting Edge for the Twenty-first Century, p. 14-15)
+
+<span class="StyleBoldUnderline">Life </span>__cycle EIA is a procedure__ … __and major infrastructure developments.__
+
+**Reforming the process is __critical__ for transportation policy**
+**Schenck 09** – Institute for Environmental Research and Education American Center for Life Cycle Assessment (Rita, February 22nd, “The Business Case for Life Cycle Assessment in US Policy and Legislation” [[http://lcacenter.org/Data/Sites/1/SharedFiles/whitepapers/thebusinesscaseforlca.pdf]])
+
+Over the last forty years, … __impacts they absorb.__
+
+**CP builds international support and spills over– that solves resource wars, the economy, and environmental destruction**
+**Purvis, 03** – Nonresident Senior Fellow in Foreign Policy at the Brookings Institute (Nigel, “Greening U.S. Foreign Aid through the Millennium Challenge Account” Brookings Institute, June, http://www.brookings.edu/research/papers/2003/06/energy-purvis)
+
+Third, __the__ global __environment__ …<span class="StyleBoldUnderline">for U.S. companies.</span>
+=== === 
+===ISS/Russia CP=== 
+
+**Text: The United States federal government should substantially increase its support for the International Space Station National Laboratory, including launch and utilization support for parties interested in research on the International Space Station. The United States federal government should substantially increase its investment in the Russian hydrocarbon industry.**
+
+**ISS is the biggest internal link to scientific diplomacy**
+**Hauser and John, 9** (Marty Hauser, VP, Washington Operations, Research and Analysis, AND Mariel John, Research analyst at the Space Foundation, Space Foundation; “The International Space Station: Decision 2015," 2009, http://www.spacefoundation.org/docs/ISS_Decision_2015.pdf)
+
+If the United States allows … conducted by other nations.
+
+**Investment in Russian hydrocabron solves Arctic conflict and the Russian economy – icebreakers crush the US economy and don’t solve for 10 years**
+**Pate, 10** (Chad P. Pate, Major, United States Air Force B.S., Iowa State University, 1996 M.S. Troy University, 2008; “EASING THE ARCTIC TENSION: AN ECONOMIC SOLUTION,” December 2010, www.hsdl.org/?view&did=11038)
+
+If tensions were to escalate, the U.S. … security of the United States’ northernmost border.
+=== === 
+===<span class="StyleBoldUnderline">LOST CP</span>=== 
+
+**Text: The United States Senate should ratify the United Nations Law of the Sea convention**
+
+**Law of the Sea is key to U.S naval power credibility maritime force.**
+**Department of Defense, 12**(“Winnefeld: Time for U.S. to Join Law of Sea Convention,” The Maritime Executive, June 15th 2012, [[http://www.maritime-executive.com/article/winnefeld-time-for-u-s-to-join-law-of-sea-convention]])
+
+<span class="StyleBoldUnderline">Accession to the longstanding …</span> and consent,” he said.
+=== === 
+===NoKo CP=== 
+
+**The United States federal government should request that the People’s Republic of China provide refuge and political asylum for North Korean leadership and their families through a golden parachute plan.**
+
+**That solves**
+**Lieber and Press, their authors, 4/1**(<span style="background-color: white;">Keir A. Lieber, is an Associate Professor in the Edmund A. Walsh School of Foreign Service and Department of Government at Georgetown University, Daryl G. Press, is an Associate Professor in the Government Department at Dartmouth College and Coordinator of War and Peace Studies at Dartmouth’s John Sloan Dickey Center for International Understanding, Foreign Affairs, 4/1/13, “The Next Korean War”, </span><span style="color: blue;">[[http://www.foreignaffairs.com/articles/139091/keir-a-lieber-and-daryl-g-press/the-next-korean-war?page=show]]</span>) gz
+
+__Third, American and South Korean__ … as a first shot is fired.
+=== === 
+===Privatization CP=== 
+
+**Text –**
+
+**The United States federal government should:**
+
+**-- devolve all control over high speed rail to state and local governments, including returning any current federal funding spent on high speed rail to the states.**
+
+**-- eliminate any barriers to greater private sector investment in high speed rail.**
+
+**--grant states permission to transfer ownership high speed rail to the private sector.**
+
+**Solves the case – the CP encourages state experimentation with full privatization – this raises more capital than the plan and stimulates the economy without federal funding**
+**Edwards, 11** - director of tax policy studies at Cato. Before joining Cato, Edwards was a senior economist on the congressional Joint Economic Committee, a manager with PricewaterhouseCoopers, and an economist with the Tax Foundation (Chris, “Federal Infrastructure Investment” Congressional Testimony, 11/16, [[http://www.cato.org/publications/congressional-testimony/federal-infrastructure-investment%29/DH|http://www.cato.org/publications/congressional-testimony/federal-infrastructure-investment)]]
+
+Decentralizing Infrastructure FinancingThe U.S. economy needs infrastructure, … very favorable results.31
+
+**The CP’s experiment creates the political will for full-scale infrastructure privatization**
+**Winston, 10**- applied microeconomist and senior fellow in the Economic Studies Program at the [[http://en.wikipedia.org/wiki/Brookings_Institution|Brookings Institution]]. He specializes in the analysis of and has written extensively on industrial organization, regulation, and transportation (Clifford, Last Exit: Privatization and Deregulation of the U.S. Transportation System, p. 2-3)
+
+Do the current problems … the system’s performance.
+==== ==== 
+====**Coercion Net Benefit**==== 
+
+**Funding for transportation infrastructure is government coercion and destroys liberty**
+**Rothbard, 02**—dean of the Austrian School of economics (Murray N., “The Nature of the State”, excerpted from The Ethics of Liberty ch. 22-25, 2002, [[http://www.lewrockwell.com/rothbard/rothbard160.html%29/EM|http://www.lewrockwell.com/rothbard/rothbard160.html)]]
+
+The State indeed performs … if he should continue to resist.
+
+**Moral side constraint**
+**Petro**, Wake Forest Professor in Toledo Law Review, **1974**
+(Sylvester, Spring, page 480)
+
+However, one may still insist, … resisted with undying spirit.
+==== ==== 
+====**Maintenance Net Benefit**==== 
+
+**Net benefit:**
+
+**Maintenance turn—**
+
+**A. Public ownership guts it**
+**Bratland, 10**– economist from the US Department of the Interior (John, The Independent Review, v. 15, n. 1, Summer 2010, ISSN 1086–1653, Copyright © 2010, pp. 35–51, [[http://www.independent.org/pdf/tir/tir_15_01_3_bratland.pdf]])
+
+One prevailing but misleading concept … maintenance of all infrastructure.
+
+**B. Privatization creates economic incentives for maintenance**
+**Norcross and Sautet, 9**– both are senior research fellows at the Mercatus Center at George Mason University (Eileen and Frederic, “THE AMERICAN RECOVERY AND REINVESTMENT ACT: Will More Public Spending Pave the Way to a Better Infrastructure?” SSRN)
+
+Market mechanisms are far more … allocation decisions to build it.
+=== === 
+===Mayport CP=== 
+
+**Text: The United States federal government should substantially increase its funding of port security necessary for the development and implementation of visualization and imaging technology, new computer software, offshore screening, and nuclear capability at the Norfolk port in Norfolk, Virginia.**
+
+**The U.S. Department of Energy should terminate its plan for 334 barge shipments carrying giant highlevel radioactive waste containers on the James River from the Surry nuclear power plant in Gravel Neck, Virginia to travel the Port of Norfolk.**
+
+**New visualization and imaging technology resolves any vulnerability at Norfolk**
+**PPIC 6** (Public Policy Institute of California, Citing: Jon D. Haveman, RAND policy expert and Joward Shatz, Senior Economist at RAND, “Protecting the Nation’s Seaports: Balancing Security and Cost”, <span style="color: windowtext; text-decoration: initial;">[[http://www.ppic.org/content/pubs/report/r_606jhr.pdf]]</span>, 2006) Mike
+
+As documentation cannot … which are then detected.
+
+**New computer and software means no solvency deficits**
+**PPIC 6** (Public Policy Institute of California, Citing: Jon D. Haveman, RAND policy expert and Joward Shatz, Senior Economist at RAND, “Protecting the Nation’s Seaports: Balancing Security and Cost”, <span style="color: windowtext; text-decoration: initial;">[[http://www.ppic.org/content/pubs/report/r_606jhr.pdf]]</span>, 2006) Mike
+
+In-Port Imaging. Non-intrusive … and agile retreads. 50
+
+**Net benefit---**
+**The plan threatens the Florida Manatee and the North American right whale**
+**Petersen 9** – Military Legislative Assistant Office of Senator Jim Webb (Gordon I., “The U.S. Navy’s Proposed Homeporting of Additional Surface Ships at Naval Station Mayport, Florida A Critical Assessment,” Office of Senator Jim Webb January 2009 http://webb.senate.gov/issuesandlegislation/upload/CriticalAssessmentMayportHomeporting.pdf)
+
+Issue 2: __The Navy’s proposal__ … __aircraft carrier at Mayport.__
+
+**Right Whale is key to biodiversity**
+**CEC No Date –** (Commission for Environmental Cooperation, North America, http://www.cec.org/soe/files/en/SOE_SpeciesCommon_en.pdf)
+
+__Umbrella species are those__ … __organisms they support__.
+
+**And, so is the Florida Manatee**
+**Bonde 12 –** Employed by the U.S. Fish and Wildlife Service as part of the Sirenia Project. He continues to work for the Sirenia Project, now under the U.S. Geological Survey, where he has been studying manatee biology for more than 31 years. (Robert Knudsen, “Population genetics and conservation of the Florida manatee: Past, present, and future,” 2012, http://udini.proquest.com/view/population-genetics-and-goid:304666393/)
+
+25 implemented at the turn … of the Florida manatee.
+
+**Ocean biodiversity loss causes extinction**
+**Davidson 3** (Founder – Turtle House Foundation and Award-Winning Journalist, Fire in the Turtle House, p. 47-51)
+
+But surely the Athenians had … oceans and just twelve on land.
+=== === 
+===States CP=== 
+
+**Text: The United States federal government should devolve all authority over <plan> to the 50 state governments, the territories and Washington DC. The 50 state governments, the territories, and Washington DC should uniformly and substantially increase investment in <plan>. The 50 state governments, the territories, and Washington DC should audit their transportation programs and authorize the development of state infrastructure banks including any necessary increase in user fees to finance the funding.**
+
+**State agency reform and performance audits allow them to increase new transportation investments at no cost**
+**Puentes, 11** - senior fellow with the Brookings Institution’s Metropolitan Policy Program where he also directs the Program's Metropolitan Infrastructure Initiative (Robert, “State Transportation Reform: Cut to Invest in Transportation to Deliver the Next Economy,”
+[[http://www.brookings.edu/~/media/research/files/papers/2011/2/22%20infrastructure%20puentes/0222_infrastructure_puentes.pdf]]
+
+III. A New State Approach <span class="IntenseEmphasis1">…</span> this kind of self-help.
+== == 
+==Critiques== 
+=== === 
+===Anthro=== 
+
+**The Affirmative Misunderstands the Source of Value in the Cosmos – Value is NOT Something that Can Be Isolated and Preserved for Future Generations, Rather Value is Only a Function of Difference.**
+**A 1AC Without Value is By Definition Meaningless –**
+**Presume Negative Until they Can Present a Value System that Does NOT Collapse Upon Itself or Evacuate Meaning.**
+**Henning, 9** (Brian; Associate Professor of Philosophy at Gonzaga University; “Trusting in the 'Efficacy of Beauty: A Kalocentric Approach to Moral Philosophy”; Ethics & the Environment- Volume 14, Number 1)
+
+Final truths (whether in religion, morality, or science) … every form of existence.
+
+**Poststructuralism locates power within human rationality and communicative practices – causes violence against animal life.**
+**Bell and Russel, 2000** (Anne C. Bell, department of education, York University, Canada, and Constance L. Russel, Associate Professor, Faculty of Education, Lakehead University, Co-Editor, Canadian Journal of Environmental Education, “Beyond Human, Beyond Words: Anthropocentrism, Critical Pedagogy, and the Poststructuralist Turn,” CANADIAN JOURNAL OF EDUCATION 25, 3 (2000):188–203, http://www.csse-scee.ca/CJE/Articles/FullText/CJE25-3/CJE25-3-bell.pdf)
+Although we acknowledge the… aspirations as educators.
+
+**Humanism naturalizes a form of biopolitical control that authorizes insidious forms of violence – turns the case**
+Dinesh **Wadiwel**, University of Western Sydney, **04** [“Animal by Any Other Name? Patterson and Agamben Discuss Animal (and Human) Life”, Borderlands Journal, vol. 2, no. 1.]
+
+There is a certain humanist line … à la Stalin" (Singer in Patterson, 2002: 199).
+
+**Our alternative is to vote negative to affirm a non-anthropocentric value system for action and deliberation.**
+**Break with the familiar. Do not imagine plan implementation, but instead embrace the energetic cosmology of the kritik. Open yourself up to the strange and non-familiar.**
+**Sandilands, 2000** Catriona Sandilands, Environmental Studies at York University, 2000 [Ethics and the Environment 4.2]
+
+But it strikes me that … can he shown to he common.
+=== === 
+===Anthro vs. Frank Wilderson=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The 1ac’s construction of the black body as an “inhuman” other relies on the annexation of animality, the signifiers that we use to represent animality are stolen by the 1ac speech act – homo sapiens cannot occupy the category of the inhuman or the inhuman is denied its difference, it is fundamentally annexed – the signifier of its very foreignness is liquidated and dissolved, this denial of difference is what paves the way for the factory farm. In response, we’ll ask: what gives you the right?</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Baudrillard in 1995 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Jean, Simulacra Simulations, from the chapter “The Animals: Territory and Metamorphoses”)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Once animals had a more sacred</span>____<span style="font-family: Arial,sans-serif; font-size: 10pt;">, more</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> … __fact that they do not speak.__</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The 1AC’s failure to incorporate the non-human world ensures the replication of prevailing anthropocentric power relations</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Bell and Russell 2K</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Anne C. by graduate students in the Faculty of Environmental Studies, York University and Constance L. a graduate student at the Ontario Institute for Studies in Education, University of Toronto, Beyond Human, Beyond Words: Anthropocentrism, Critical Pedagogy, and the Poststructuralist Turn, http://www.csse-scee.ca/CJE/Articles/FullText/CJE25-3/CJE25-3-bell.pdf)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">For this reason, the various movements … passes unchallenged. 1</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Anthropocentrism guarantees violence—there claim of ontological uniqueness if false, humanism is the //original// hierarchy—we need politics that can respect more than human life. Their politics dooms us to a future that endlessly repeats the oppression of the status quo.</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Best 2007 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Steven – Chair of Philosophy @ University of Texas – El Paso, Review of Charles Patterson’s “The Eternal Treblinka: Our Treatment of Animals and the Holocaust”, Journal for Critical Animal Studies, <span style="color: windowtext; text-decoration: none;">[[http://www.drstevebest.org/EternalTriblenka.pdf]]</span>) Mike </span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">While a welcome advance over … __official Christianity left behind.__</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The alternative is to reject the affirmative and endorse the global suicide of humanity – our total rejection of human agency and the continuation of human life functions as a valuable thought experiment that allows us to end the oppression of the squo</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Kochi and Ordan, 8</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– (Dec. 2008, Tarik Kochi, PhD, Lecturer in Law & International Security, University of Sussex, Noam Ordan, linguist and translator, conducts research in Translation Studies at Bar Ilan University, research focus on human cultural history, “An argument for the global suicide of humanity,” Borderlands, <span style="color: windowtext; text-decoration: none;">[[http://www.borderlands.net.au/vol7no3_2008/kochiordan_argument.pdf]]</span>)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">For some, guided by the pressure of</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> … suppress or repress it.</span>
+=== === 
+===Cap=== 
+
+**Infrastructure investment is a tool of the capitalist state—people, values and goods all become commodities to be transported**
+**Giddens and Held 82** (Anthony and David; M.A. and Ph.D. in economics, Prof. at Cambridge, Director of the London School of Economics, he has 15 honorary degrees; Master of University College, Durham, professor of politics and international relations at Durham University; “Classes, Power and Conflict: Classical and Contemporary Debates”; Pg. 253)
+
+7. Policies which pursue the goal … of the capitalist class itself.
+
+**Uncritically accepting the imperative for economic growth perpetuates global inequity. Reject the false dichotomy of growth versus no growth.**
+**Mészáros 11** (István Mészáros, Professor Emeritus at the University of Sussex; “The Only Viable Economy”, 6/17/2011, http://monthlyreview.org/2007/04/01/the-only-viable-economy)
+
+Thus, there can be no alternative to … by the degree of its social utility.
+
+**The drive for hegemonic imperialism is inevitable according to the logic of capitalism – vacating the system solves extinction**
+**Foster 5** (John Bellamy Foster, professor of sociology at the University of Oregon, editor of the //Monthly Review//, September, Volume 57, Number 4, http://monthlyreview.org/2005/09/01/naked-imperialism)
+
+From the longer view offered by a … against the new naked imperialism.
+
+**Ethics come first and only we access them – capitalism’s objectification of human beings destroys value to life and is the most unethical system ever**
+**Morgareidge 98** (Clayton Morgareidge, Prof of Philosophy at Lewis & Clark College; “Why Capitalism is Evil, 8/22/1998, http://www.lclark.edu/~clayton/commentaries/evil.html)
+
+Now none of these philosophers are … have a seat at the table.
+
+**The alternative is to vote neg to reject capitalism**
+**Herod 4** (James Herod, faculty at the University of Massachusetts at Boston, January 2004, “Getting Free,” <span style="color: blue; text-decoration: initial;">[[http://www.jamesherod.info/?sec=book&id=1]]</span>, 4th Edition)
+
+It is time to try to describe, at first … the shape of their social world.
+
+=== === 
+====**Wiltgen**==== 
+
+**The time of a rational economy has come and gone. Economic science is problematized by the infusion of ressentiment and abuse-exchange into the economy. The sadistic economy of rational values turns us all into slaves.**
+**Wiltgen 05** (James Wiltgen, bachelor’s in Political Science from the University of Iowa and professor on modernity and capitalism, megacities, Latin American film and video, music of the Americas, biopolitics, subjectivities, technology, and border politics; “Sado-Monetarism or Saint Fond-Saint Ford,” in Consumption in the Age of Information, ed. Cohen and Rutsky, Berg, New York, p. 102-3)
+
+Another way to think the … __between the individual and the system__.
+==== ==== 
+====**Zizek**==== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">By locating existential threats as problems to be solved by the state, the affirmative solidifies the larger-than-life nature of capitalism – individual agency is key</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Zizek 8 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Slavoj Zizek,Professor of Sociology at the Institute for Sociology, Ljubljana University; “Censorship Today: Violence, or Ecology as a New Opium for the Masses,” 2/2/2008)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">In spite of the infinite adaptability … of a historian on this accident.</span>
+
+
+=== === 
+===Control=== 
+
+**Their notion of a controllable, predictable world generates a mindset of world domination that endlessly recreates and magnifies their impacts – vote neg to question these paradigms and subvert drives for control**
+**Peat, 8** (F. David Peat, theoretical physicist, Ph.D., founder of the Pari Centre for New Learning; “Gentle Action: Surviving Chaos and Change,” http://www.gentleaction.org/library/paper2.php)
+
+Many rapid changes that are taking place … appropriate to each new situation.
+
+=== === 
+===DnG vs. Race AFF=== 
+
+**Their continued usage of racial binaries makes racism more concrete because they are still measuring blackness as compared to a white face—this reinforces difference informed by racial identity and makes people think that there is a concrete difference between themselves, making racial conflict inevitable.**
+**Deleuze and Guattari 80** Gilles Deleuze, professor of philosophy at the University of Paris VIII, A Thousand Plateaus, and Felix Guattari, radical psychoanalyst, A Thousand Plateaus, 1980, pg. 177-178
+
+Under the second aspect, … incompetence and naivete.
+=== === 
+===Guam=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">You should reject the affirmative</span>**
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">First, their invocation of the Japanese relationship gags the voices of protesters – their representations justify the exclusion of Okinawans from the political sphere</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Inoue, 7</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Masamichi S. Inoue, Ph.D. in cultural anthropology from Duke University and assistant professor of the Japan Studies Program and the Department of Modern and Classical Languages, Literatures, and Cultures at the University of Kentucky, Visiting Associate Professor in the Department of Engineering of the Shibaura Institute of Technology; “Okinawa and the U.S. Military: Identity Making in the Age of Globalization,” 4/15/2007, pg. 25-27)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">These two political and conceptual … for reasons to be specified in the course of this study. </span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">You have an obligation to end the sufferings of the Okinawans</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Taylor, no date</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">– (Jonathan Taylor, asst. professor, Ph.D Geography Department, California State University, Fullerton; “Anti-Military and Environmental Movements in Okinawa,” http://www.uky.edu/~ppkaran/conference/Anti-Military%20and%20Environmental%20Movements%20in%20Okinawa.pdf)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">It is important to recognize the … __and peace movements.__ </span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Second, presence in Guam is the epitome of colonial land-confiscation and environmental destruction</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Lutz, 10 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Catherine Lutz, professor and writer for Global Research; “American Military Bases on Guam: The US Global Military Basing System,” 8/2/2010, <span style="color: blue;">[[http://www.globalresearch.ca/american-military-bases-on-guam-the-us-global-military-basing-system]]</span>)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Such is no less true now … __social analysts of political forms__.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">This imperial logic ensures extinction</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Santos 6</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Juan Santos, editor of Mexica Tlahtolli, a Chicano-Native American newspaper in Los Angeles; “Apocalypse No!”, 7/31/2006, http://www.energybulletin.net/node/18788) </span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">It's simple. And obvious. … **__a permanent new Reich.__**</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Third, realignment is the zero point of disposability and cultural destruction – the 1AC sacrifices the native people of Guam in the name of military interests</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Alexander 10</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Ronni Alexander, PhD in International Relations from Sophia University, MA in public administration from the International Christian University, BA in psychology from Yale University, professor of Transnational Relations at Kobe University, 2-17-10 “Bio-Politics, Militarization and Memory: Implications of Women Remembering Hiroshima, Okinawa, and Guam,” presented at the annual meeting of //Theory vs. Policy? Connecting Scholars and Practioners,// __<span style="color: blue;">http://citation.allacademic.com//meta/p_mla_apa_research_citation/4/1/3/2/0/pages413207/p413207-1.php//</span>__//) gz//</span>
+
+//<span style="font-family: Arial,sans-serif; font-size: 10pt;">As noted above, __the relocation plan__ … **__and cultural invisibility is life as bare life.__** </span>//
+
+//**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The sovereign’s understanding of populations as objects to be manipulated to a desired political end leads to extinction - eventually, all populations will be sacrificed</span>**//
+//**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Dean, 1</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;"> (Mitchell, Professor of Sociology at Macquarie University in Australia, </span>//States of Imagination,// Eds: Hansen and Stepputat, (53-56)
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Consider again the contrastive terms … of the modern state (232).</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The alternative is to reject the affirmative and introduce specific intellectualism into Guam debates – opening up academic space for the voices of the oppressed to be heard produces a better critical method—it spills over and allows us to better evaluate other instances of power.</span>**
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">David **Owen**, professor of social sciences at Southampton University, 19**97**, “Maturity and Modernity: Nietszche, Weber, Foucault and the ambivalence of reason,” Routledge publishers, published July 22, 1997</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">In our reflections on Foucault’s … of determinations of who we are. </span>
+
+=== === 
+===Introna=== 
+
+**They seek a technological fix to these threat constructions – this creates an artificial binary between the machine and the human that traps us into purely calculative modes of thought**
+**Introna 10** – Professor of Organization, Technology and Ethics at Lancaster University
+(Lucas, “The ‘Measure of a Man’ and the Ethos of Hospitality: Towards an Ethical Dwelling with Technology”, AI and Society Vol 25 no 1, pg 93-102)
+
+When referring to an ‘ethics of technology’ or an ‘ethics … we encounter the other, ethically, in its otherness? This is what I will no turn to.
+
+**Their framing of existence in terms of human value creates the world as standing reserve and legitimizes endless genocide – the only way to escape this cycle is to vote negative to affirm the infinite value of all forms of Being**
+**Introna 9** – Professor of Organization, Technology and Ethics at Lancaster University
+(Lucas, “Ethics and the Speaking of Things,” //Theory, Culture & Society// 2009 vol 26 no 4, 25-46)
+
+In the ethics of hybrids <span class="IntenseEmphasis1">… of letting-be of all beings.</span>
+=== === 
+===Kappeler=== 
+
+**Mike and I advocate substantially increasing investment in evacuation transportation infrastructure in Louisiana**
+
+**By locating their imagination in the state, the 1ac relocates violence outside of the self. The end point is stasis and atrocity.**
+**KAPPELER 1995** [Susanne Kappeler, The Will To Violence: The Politics of Personal Behavior, pg 1-4]
+
+What is striking is that … does indeed 'pay off'.
+
+**The result is terminal failure. Localized politics is key.**
+**KAPPELER 1995** [Susanne Kappeler, The Will To Violence: The Politics of Personal Behavior, pg 4-5]
+
+If we nevertheless continue … centre of political reflection.''
+
+**Their advocacy internalizes powerlessness and effaces agency.**
+**Colebrook 2** (Claire, Understanding Deleuze, Pg. xxxviii)
+
+Human freedom became … organises our bodies.
+=== === 
+===Marxism=== 
+
+**A. The failure of the Left**
+
+**More than a decade and a half ago, the intellectual climate in Germany collapsed into philosophy. German philosophers emphasized the transformative potential of ideas, and sought to emancipate themselves and politics through transformations in consciousness.**
+
+**It was in this intellectual climate that Karl Marx emerged. His central thesis was that this philosophy of ideas not only distracted attention from the very real material conditions that structure our existence, but also made progressive social change impossible.**
+
+**The insights of Karl Marx are perhaps even more pertinent today, when the liberal academy and intellectuals have begun to assert that discourse and performance are avenues for confronting oppressive power structures. This trend of the Left today is embodied in the affirmative’s politics, in their naïve and unproblematic endorsement of discourse as they desperately struggle to believe that what they have done in this debate is itself transformative and empowering.**
+
+**Against this paralyzing politics, it is more important that ever to return to Marx, and to emphasize his insight that transformations in consciousness can never lead to social transformations—only struggling to transform the real material conditions that structure social relations can bring about social change**
+**Marx, 1845** (Karl, The German Ideology, http://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm)
+
+__This conception of history depends__ … as men make circumstances.
+
+**Unfortunately, Marx’s insight has been all but discarded by the new left, with its emphasis on being postmodern, postcolonial, post-structural, post-Marxist, or post-anything. This post-al politics of the contemporary left focuses on discourse and language at the expense of analyzing real material conditions and is complicit with capitalism, especially insofar as it obscures the operation of political economy and the material reality of capitalism**
+**Zavarzadeh, 94** (Mas’ud, Dept English @ Syracuse, 1994, “The Stupidity that Consumption is Just as Productive as Production”, The Alternative
+Orange, V 4, Fall/Winter, http://www.etext.org/Politics/AlternativeOrange/4/v4n1_cpp.html)
+
+The task of this text[1] is to lay bare … argument but a tropological description.[5]
+
+**And, Criticism itself can never generate revolutionary action—they get stuck in utopian appeals or ethical gestures which mollifies us into avoiding practical, material action**
+**Alea, Cuban Film Theorist, 1985** (Tomas Gutierrez, “The Viewer's Dialectic”, Jump Cut, No 30, March,
+http://www.ejumpcut.org/archive/onlinessays/JC30folder/ViewersDialectic2.html)
+
+__There's a **paralyzing effect** in criticizing__ … and all other types of theory."[11]
+
+**This appeal to performance renders the judge into a spectator position that creates reactionary tendencies and makes social transformation impossible**
+**Alea, 85** (Tomas Gutierrez,Cuban Film Theorist, “The Viewer's Dialectic”, Jump Cut, No 30, March, http://www.ejumpcut.org/archive/onlinessays/JC30folder/ViewersDialectic2.html)
+
+Some assume, with the greatest of good will, … such a sustained acceptance.
+
+**Transportation is the linchpin of capitalist accumulation.**
+<span class="StyleStyleBold12pt">**Sheppard, 90**</span>(E. Shepard "Transportation in a capitalist space-economy: transportation demand, circulation time, and transportation innovations" Environment and Planning A 22(8) 1007 – 1024)
+
+Transportation, as the service of moving … and thus in underwriting capital accumulation.
+
+**B) The impacts**
+
+**Unrestrained capitalism leads to extinction**
+**Harman, 97** Editor of the Socialst Worker 1997(Chris, Economics of the madhouse, Pg 90-1)
+
+The system may have entered a new phase. … __low lying countries turning fertile regions into desert__
+
+**And, capitalism destroys the environment and locks in oppression**
+**Latin America Solidarity Coalition, 3** (“Getting to the Roots: Ecology and Environmental Justice”, [[http://www.lasolidarity.org/papers/enviro.htm]])
+
+__The globalization of capital__ __and the__ … desperation, degradation and suffering.
+
+**And, our kritik short circuits their impacts—discourse and performance can never transform structures of oppression—the effectiveness of this political strategy is disproven by the failure of the left in the status quo**
+**Poitevin, 1** (Rene Francisco, “The end of anti-capitalism as we knew it: Reflections on postmodern Marxism”, The Socialist Review, http://www.findarticles.com/p/articles/mi_qa3952/is_200101/ai_n8932891)
+
+From Radical Democracy to Revolutionary … for some reformist agenda is not going to do it either.
+
+**And, no turns—language cannot change the OBJECTIVE reality of oppression—this means that their framework can never access our capitalism impacts**
+**Zavarzadeh, 94** (Mas’ud, Dept English @ Syracuse, 1994, “The Stupidity that Consumption is Just as Productive as Production”, The Alternative
+Orange, V 4, Fall/Winter, http://www.etext.org/Politics/AlternativeOrange/4/v4n1_cpp.html)
+
+__The__ __unsurpassable objectivity which is__ … __is made more tolerable, justifiable and naturalized.__
+
+**C) The alternative**
+
+**Reject their assertion that discourse and performance can change material social realities—the roll of the ballot is to affirm the methodology that best resists capitalism.**
+
+**<span style="font-family: Arial,sans-serif; font-size: 13.3333px;">We must return to Marx, recognizing that the only hope for human survival is a politics which engages in struggles to change material social relations rather than discursive attempts to change assumptions—any attempt to work within the system of capitalism is doomed to failure—our alternative is the only hope for human survival</span>**
+**Harman, 1997** (Chris, Economics of the madhouse, Pg 99-100)
+
+‘A reprise in the early 21st century of … __the lives of the mass of people.__
+=== === 
+===Neolib=== 
+
+**The IDEOLOGICAL commitment to energy producivism key to consumption -causes tech positivism, ecoinjustice and neoliberal expansionism - EXTINCTION**
+**Byrne et al 9**
+[[http://bst.sagepub.com/content/29/2/81.full.pdf+html]]
+
+“Living Well”: Growth Without … __threat to life in all forms__.5
+=== === 
+===Norm=== 
+
+**<span style="background-color: #ffffff;">Text: We affirm the entirety of the 1ac except for the plan text.</span>**
+
+**<span style="background-color: #ffffff;">It’s net beneficial – it solves better because it doesn’t start at the place of the state or include the pretended fiated action we will get links to.</span>**
+
+**<span style="background-color: #ffffff;">It’s legit – they get 100% of the plan to generate offense versus the cp, this is a necessary test against critical affirmatives.</span>**
+
+**<span style="background-color: #ffffff;">There is no internal link between the plan text and the solvency.</span>**
+**<span style="background-color: #ffffff;">Schlag 90</span>**<span style="background-color: #ffffff;"> (Pierre Schlag, professor of law@ univ. Colorado, stanford law review, november, page lexis)</span>
+<span style="background-color: #ffffff;">In fact, normative legal thought is so much … of its wonderful normative advice into effect.</span>
+
+**<span style="background-color: #ffffff;">The assumption of 1AC solvency papers over the rough edges of the world with warm and fuzzy normative legal talk, emotionally disconnecting them from the implications of the speech act</span>**
+**<span style="background-color: #ffffff;">Delgado 91</span>**<span style="background-color: #ffffff;"> (richard delgado , colorado law professor, 139 pa. L. Rev. 933, april)</span>
+<span style="background-color: #ffffff;">But what is the cash value of all this priest-talk in the law …clearest [*955] examples of this are found in cases where the Supreme Court has been faced with subsistence claims.</span>
+
+**<span style="background-color: #ffffff;">They are more interested in playing hermeneutic games than engaging in politics, the preoccupation with pretending to be policymakers traps them in a spectator position and bars them from recognizing the bureaucratic violence of legal praxis.</span>**
+**<span style="background-color: #ffffff;">Schlag 90</span>**<span style="background-color: #ffffff;"> (Pierre Schlag, professor of law@ univ. Colorado, stanford law review, november, page lexis)</span>
+<span style="background-color: #ffffff;">All of this can seem very funny. That's because it is very funny. It is also … constructions of bureaucratic practices -- academic and otherwise.</span>
+=== === 
+===Ocular-centrism=== 
+
+**Mike and I offer a new pedagogy through the examination of the underpinnings of the disposability of populations as understood by transportation infrastructure employed during the Hurricane Katrina evacuation.**
+
+**The affirmative attempts to judge its problems solely on its sight, but this ocularcentric reliance on vision and light blinds from the true oppression and violence in the world**
+**Taylor 6** Taylor, Chloi. "Hard, Dry Eyes and Eyes That Weep: Vision and Ethics in Levinas and Derrida." Postmodern Culture. University of Toronto, 2006. Web. 22 June 2011. <http://pmc.iath.virginia.edu/text-only/issue.106/16.2hipsky.txt>.
+
+Returning to "Violence and Metaphysics," … experience mediated by language.
+=== === 
+===Security=== 
+
+**<span style="line-height: 1.5;"><span class="Tag">Disorder and insecurity are inevitable. Attempting to control danger is the impetus for global destruction</span></span>**
+**Der Derian 98** (James Der Derian, professor of international studies at the Watson Institute, professor of political science at Brown University, director of the Watson Institute’s Global Security Program, Visiting Scholar at University of Southern California, Visiting Scholar at the Massachusetts Institute of Technology, Visiting Scholar at Harvard University, Visiting Scholar at Oxford University, Visiting Scholar at the Institute for Advanced Study at Princeton, M. Phil and D. Phil in International Relations from Oxford University, recipient of the Bosch Berlin Prize in Public Policy, Fellow at the American Academy in Berlin, 1998, “The Value of Security: Hobbes, Marx, Nietzsche, and Baudrillard,” can be found in “Critical Practices of International Theory: Selected Essays,” which was published in 2009, http://www.gendocs.ru/docs/32/31660/conv_1/file1.pdf)
+
+The rapidity of change in the international system, … __calcifying into a fearful sameness__.
+
+**The alternative is to vote neg to reject the dominant framing of security – this is a prerequisite to policymaking**
+**Bruce and Cheeseman 96** (Robert, Associate Professor in Social Science – Curtin University and Graeme Cheeseman, Senior Lecturer – University of New South Wales, Discourses of Danger and Dread Frontiers, p. 5-9)
+
+This goal is pursued in ways which … or choose not to understand them, and why?
+=== === 
+====**Disease**==== 
+
+**<span class="Tag">Specifically, the fear of disease securitizes the alien body of the infected – justifies ethnic cleansing in pursuit of the “perfect human”</span>**
+**Gomel 2000** (Elana Gomel, English department head at Tel Aviv University, Winter 2000, published in Twentieth Century Literature Volume 46, [[http://www.findarticles.com/p/articles/mi_m0403/is_4_46/ai_75141042]])
+
+__In the secular apocalyptic__ … construction of the apocalyptic body.
+==== ==== 
+====**Economy**==== 
+
+**Economic threat predictions will cause the US to manipulate regimes in a non-democratic fashion---link turns the whole case and empirically kills millions**
+**Neocleous**, Prof of Gov, **08** [Mark Neocleous, Prof. of Government @ Brunel, //Critique of Security//, p95-]
+
+In other words, the new international … of the security strategy proposed.111
+==== ==== 
+====**Hegemony**==== 
+
+**Their so called benign hegemonic strategy legitimizes a series of self-fulfilling prophecies in which any nation that steps outside of the globalized order is destroyed**
+SAMIR **AMIN** director of the African office (in Dakar, Senegal) of the Third World Forum, an international nongovernmental association for research and debate, and chair of the World Forum for Alternatives. He is the author of numerous books and articles including Beyond U.S. Hegemony 25 FEB **2003** (“The Alternative to the neoliberal system of globalization and militarism Imperialism Today and the Hegemonic Offensive of the United States.”)
+
+28. The hegemonic strategy of … in the Amazon (Plan Colombia), etc.
+
+**Peace through strength is the ultimate justification for violence—their rhetoric of deterrence blurs the line between war and peace making destruction inevitable**
+**Chernus ’98** /Ira, teaches teaches religious studies at the University of Colorado at Boulder, Peace Review. Palo Alto: Dec 1998.Vol.10, Iss. 4; pg. 605/
+
+Of course the U.S. would still be at war, … our peaceful objectives."
+==== ==== 
+====**North Korea**==== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The affirmative’s discourse of North Korean aggression creates a geopolitical Dr Evil irrationally attempting to destroy the world – these problematic representations inflicts mass structural violence on North Korean civilians, marked as “cannibals,” “baby-killers,” and “drones” and justifies international coercion, forcing threat actualization</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Cunningham 3/13 </span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Finian Cunningham, expert in international affairs specializing in the Middle East, former journalist expelled from Bahrain due to his revealing of human rights violations committed by the Western-backed regime, 3-13-13, “Western Media Set Up North Korea for War,” http://nsnbc.me/2013/03/13/western-media-set-up-north-korea-for-war/) gz</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Western</span>____<span style="font-family: Arial,sans-serif; font-size: 10pt;"> so-called news media</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> … __and sick than the Western fiction.__</span>
+==== ==== 
+====**<span style="font-size: 1.066em; line-height: 1.5;">Space</span>**==== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">The 1AC’s fantasy of “opening access to space to facilitate world peace and security” is the culmination of the long western imperial project of organizing the world in its own image—space is merely the final frontier onto which the aff projects its fear of instability in an attempt at total control which creates the conditions for warfare and extinction</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Brennan 93</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Teresa Brennan, 1993, Professor of at Cambridge, History After Lacan, 40-45</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">From the beginning, Lacan … __(rightly) for its own **survival**.__</span>
+
+=== === 
+===Schmitt=== 
+
+**The 1AC’s utopian ethics and discourse results in the endless production and destruction of a violent other in the name of difference. Imagining Russia as an equal ally perpetuates an inclusive concept of foreign policy that creates endless wars**
+**Odysseos, 8** – Dr. Louiza Odysseos, University of Sussex Department of International Relations, “Against Ethics? Iconographies of Enmity and Acts of Obligation in Carl Schmitt’s Theory of the Partisan,” Practices of Ethics: Relating/Responding to Difference in International Politics Annual Convention, International Studies Association, 2008
+
+In The Concept of the Political Schmitt had … by Foucault under the heading of ‘self government’(2007b).
+
+**Their attempt to include Russia feeds the depoliticized world order, justifying endless wars in the name of peace**
+**Pourciau 6** (Sarah, Johns Hopkins University, “Bodily Negation: Carl Schmitt on the Meaning of Meaning” MLN 120.5, Project Muse MGE)
+
+A __worldview__ __that does not allow for__ the role … sondern definitiv vernichtet werden muß" (36)].
+
+**The alternative is to reject the affirmative**
+
+**Only endorsement of enmity opens political space for pluralization of political difference, ending the perpetuation of violence.**
+**Enmity is critical to defining ourselves and our political being. We must break down “obligations” to create inclusive socio-political orders.**
+**Odysseos, 8** – Dr. Louiza Odysseos, University of Sussex Department of International Relations, “Against Ethics? Iconographies of Enmity and Acts of Obligation in Carl Schmitt’s Theory of the Partisan,” Practices of Ethics: Relating/Responding to Difference in International Politics Annual Convention, International Studies Association, 2008
+
+The paper ends with a discussion of obligation. … __of the field of politics, of politics as pluriverse.__
+
+**Empirically solves—Cold War was the peak of enmity without violence**
+**Rasch, 3** (William, Henry H. H. Remak Professor of Germanic Studies at Indiana University. He is the author of Niklas Luhmann's Modernity: The Paradoxes of Differentiation, editor of a collection of essays by Luhmann called Theories of Distinction: Redescribing the Descriptions of Modernity, and coeditor (with Cary Wolfe) of Observing Complexity: Systems Theory and Postmodernity. A collection of his essays on Carl Schmitt and the political will be published in German translation in 2003.,“Human Rights as Geopolitics Carl Schmitt and the Legal Form of American Supremacy” Cultural Critique 54 (2003) 120-147, Project Muse MGE)
+
+Carl Schmitt, who may be said to be the inspiration for those, … __United States, would determine the shape of things to come.__
+=== === 
+===Sci-Fi Bad=== 
+
+**Science fiction conflates fantasy with fact—this uniquely undermines civic engagement and destroys scientific education**
+**Kluger, 11** – senior writer for TIME (Jeffery, “ Scientific Illiteracy After the Shuttle: Are America's Smartest Days Behind Her?” [[http://www.time.com/time/health/article/0,8599,2082213,00.html]])
+
+The problem is, __the land of the free__ and home … __again if the U.S. is going to keep its edge__.
+
+**Science is necessary for freedom and technological innovation**
+**Taggart, 10 –** PhD and philosophical counselor, Andrew “With what authority does a public philosopher speak?” [[http://www.butterfliesandwheels.org/2010/with-what-authority-does-a-public-philosopher-speak/]]
+
+Fourth, neither can he allude to … __reason for being from scientific sources.__
+
+**Reject the affirmative**
+
+**They can’t meet falsifiable review—only a scientific approach produces the best epistemology and can avert extinction**
+**Coyne, 6** – Author and Writer for the Times (Jerry A., “A plea for empiricism”, FOLLIES OF THE WISE, Dissenting essays, 405pp. Emeryville, CA: Shoemaker and Hoard, 1 59376 101 5)
+
+<span style="font-family: Arial,sans-serif;">Supernatural forces and events, essential</span><span style="font-size: 12pt;">…</span> need to heed Crews’s plea for empiricism.
+=== === 
+===Spanos=== 
+
+**The affirmative’s hegemonic subjectivity relies on western conceptions of the end of history**
+**Spanos 2k** (William V., Prof. of Comparative Lit @ Suny-Binghamton, __America’s Shadow__, pgs. xvii-xviii)
+
+This accommodational strategy … __Turner to Fukuyama and Haass.__
+
+**This metaphysical grounding justifies extermination and makes their epistemology suspect**
+**Spanos 5** (William Spanos, professor of English and comparative literature at Binghamton University, “Humanism and Studia Humanitatis after 9/11/01: Rethinking the Anthropologos,” published in symploke volume 13 number 1-2)
+
+In 1991, following the disintegration and … __anthropological structure remains invisible__.
+
+**The alternative is the judge should vote negative to embrace ontological exile – only a rethinking of thinking itself can break the shackles of Western hegemonic dominance**
+**Spanos 2k** (William Spanos, professor of English and comparative literature at Binghamton University, 2000, “America’s Shadow: An Anatomy of Empire,” page 192-3)
+
+Reconstellated into the context … difficult of tasks not impossible.
+
+**Every affirmation is fundamentally a decision and an affirmation of a particular interpretation of what it means to decide – their attempt to elevate their particular method of decision to the status of metaphysics links to all of our offense and begs the question of their justification for exclusion**
+**Dillon 99** (Michael Dillon, professor of international relations at the University of Lancaster, PhD in philosophy, April 1999, “Another Justice,” published in Political Theory Volume 27 Number 2, page 157-8)
+
+I wish to argue, in addition, that … of the ontological in continental thought.
+=== === 
+===Sublime=== 
+
+**The 1AC is a move towards the sublime, a void of aesthetic meaning. This heroic gesture of avant-garde resistance causes sacrificial violence in the name of transcendence**
+**Klinger**, visiting professor of philosophy – University of Tübingen, **‘95**
+(Cornelia, “The Concepts of the Sublime and the Beautiful In Kant and Lyotard,” Constellations, Vol. 2, Iss. 2, p. 207-223)
+
+As far as similarities are concerned it …fortunately - a very unlikely project.
+
+**Using indeterminacy as a negative tool cedes politics and narrative to conservatives – that normalizes mass violence**
+**Engström**, professor of philosophy – Rochester Institute of Technology, **‘93**
+(Timothy, “The Postmodern Sublime?: Philosophical Rehabilitations and Pragmatic Evasions,” boundary 2, 20:2)
+
+The formality of the philosophical sublime … narratizability in general.
+
+**Ivory Tower DA: Destructive beauty is actually destructive for the people who live outside of philosophical privilege -- and the 1AC legitimates murder in the name of philosophical advancement**
+**Ray**, theory and history of contemporary art – University of Hawai'i at Manoa, German Chancellor's Scholar – Alexander von Humboldt Foundation, **‘4**
+(Gene, “Reading the Lisbon Earthquake: Adorno, Lyotard, and the Contemporary Sublime,” The Yale Journal of Criticism 17.1 (2004) 1-18)
+
+Eagleton's Marxist account reminds … course of the next century.
+
+**The alternative is to refuse to calculate and embrace life.**
+
+**Choosing not to calculate the unknown solves the case, but it doesn’t utilize the sublime as a political/aesthetic strategy**
+**Engström**, professor of philosophy – Rochester Institute of Technology, **‘93**
+(Timothy, “The Postmodern Sublime?: Philosophical Rehabilitations and Pragmatic Evasions,” boundary 2, 20:2)
+
+The rhetorical, as opposed to …provincial aesthetic ideology.
+
+**Refusing to engage unknowability as a philosophical concept solves best**
+**O’Gorman**, assistant professor of speech communication – University of Illinois, **‘6**
+(Ned, “The Political Sublime: An Oxymoron,” Millennium: Journal of International Studies, Vol. 34, No. 3, p. 889-915)
+
+Rodriguez’s voice – shaped by … ‘ordinary’ voices.
+=== === 
+===<span class="IntenseEmphasis1">Terror Talk </span>=== 
+
+**Our obsession with terrorism is a self-fulfilling prophecy – we force ourselves to envision terrorism where it doesn’t exist and pre-emptively act which creates the situations we see today. We have born it into existence**
+<span class="StyleStyleBold12pt">**Zulaika, 3**</span>, (Joseba, PROFESSOR, CENTER FOR BASQUE STUDIES, AT THE UNIVERSIY OF NEVADA “The self-fulfilling prophesies of counterterrorism”, Radical History Review [[http://rhr.dukejournals.org/cgi/reprint/2003/85/191.pdf]], pg 191-3
+
+<span style="display: block; text-align: left;">__<span style="font-family: 'Arial','sans-serif';">In the 1980s Brian</span>__<span style="font-family: 'Arial','sans-serif';"> … futurology are thus vindicated. PG 191-3</span></span>
+
+**The paradigm of security develops infinite opponents locked in a mutually reinforcing relationship and leads to worldwide civil war that destroys all forms of coexistence**
+<span class="StyleStyleBold12pt">**Enns, 4**</span> Diane, Philosophy Department at the University of Toronto, John Hopkins University Press,
+
+“Bare Life and the Occupied Body”, Theory & Event - Volume 7, Issue 3, 2004 [[http://muse.jhu.edu/journals/theory_and_event/v007/7.3enns.html]]
+
+<span style="display: block; font-family: Arial,sans-serif; text-align: left;">In 1940 Walter Benjamin … __all modes of struggle?__</span>
+
+**We have a responsibility to challenge status quo dominant discourse that allows us to open up a critical space to creating new, emancipator forms of knowledge and practice**
+<span class="StyleStyleBold12pt">**Jackson, 7**</span> (Richard, Ph.D in conflict resolution, 2007, Government and Opposition, Vol. 42, No. 3, pp. 394–426, “Constructing Enemies: ‘Islamic Terrorism’ in Political and Academic Discourse)
+<span style="display: block; font-family: Arial,sans-serif; text-align: left;">The purpose of this … __discourse of ‘Islamic terrorism’.__</span>
+
+**We cannot be forced into choosing us or them – The alternative is a rejection of the affirmative’s essentializing discourse to create space for “the terrorist” to explain their struggles. Without the alternative we create this split choice creates an ethical catastrophe. We must take an unconditional solidarity with all victims. We cannot be regulated by terrorist discourse and we must resist all attempts to imply the innocence in one and the evil in others.**
+<span class="StyleStyleBold12pt">**Zulaika, 3**</span>, PROFESSOR, CENTER FOR BASQUE STUDIES, AT THE UNIVERSIY OF NEVADA “The self-fulfilling prophesies of counterterrorism”, Radical History Review [[http://rhr.dukejournals.org/cgi/reprint/2003/85/191.pdf]], pg 198
+
+__Our choice cannot be between__ Bush … __global terrorism discourse.__
+=== === 
+===Warming=== 
+
+**Framework – Global instability and environmental crises are all a product of a flawed epistemic approach to international relations – investigating their approach to orthodox IR has to be a prior question – only the K solves their impacts**
+**Ahmed 12** (Dr. Nafeez Mosaddeq Ahmed, Executive Director of the Institute for Policy Research and Development, an independent think tank focused on the study of violent conflict, and teacher at the Department of International Relations, University of Sussex; "The international relations of crisis and the crisis of international relations: from the securitisation of scarcity to the militarisation of society," Global Change, Peace & Security Volume 23, Issue 3, 2011 Taylor Francis)
+
+__The twenty-first century heralds__ … __culminate in violent conflict__.
+
+**Environmental apocalypticism causes eco-authoritarianism and mass violence against those deemed environmental threats – also causes political apathy which turns case**
+**Buell 3** (Frederick Buell, cultural critic on the environmental crisis and a Professor of English at Queens College and the author of five books; “From Apocalypse To Way of Life,” pg. 185-186)
+
+Looked at critically then, … __clearly terminal “nature.__”
+
+**That causes mass wars**
+**Brzoska 8** (Michael Brzoska, Institute for Peace Research and Security Policy at the University of Hamburg; “The securitization of climate change and the power of conceptions of security,” Paper prepared for the International Studies Association Convention, 2008)
+
+In the literature on securitization … __thus leading to arms races__.
+
+**<span style="line-height: 1.5;">The alternative is to replace the affirmative’s apocalyptic framing of climate change with alternative frames that emphasize human agency and responsibility. This rejection of the affirmative’s catastrophic telos is crucial: vote negative to productively frame climate change.</span>**
+**Foust et al. 8** (Christina R. Foust, Assistant Professor in the Department of Human Communication Studies at the University of Denver, et al., with William O. Murphy, Doctoral Student and Graduate Teaching Instructor in the Department of Human Communication Studies at the University of Denver, and Chelsea Stow, Doctoral Student and Graduate Teaching Instructor in the Department of Human Communication Studies at the University of Denver, 2008, “Global Warming and Apocalyptic Rhetoric: A Critical Frame Analysis of US Popular and Elite Press Coverage from 1997-2007,” Paper Submitted to the Environmental Communication Division of the National Communication Association Convention in San Diego, 11/20, p. 22-23)
+
+In conclusion, we hope to … __with climate change__.
+
+=== === 
+===Queer Theory=== 
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Notions of preserving some sort of future for our species valorize reproductive, heterogenital sex, while subordinating queer sex to nothing more than “meaningless acrobatics.” This impregnates heterosexuality with the future of signification, necessitating violence against queerness and proves our standing reserve argument </span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Edelman 2004</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Lee Edelman, Prof. English at Tufts University, “No Future: Queer Theory and the Death Drive,” 2004, pp. 11-13)</span>
+
+__<span style="font-family: Arial,sans-serif; font-size: 10pt;">Charged,</span>__<span style="font-family: Arial,sans-serif; font-size: 10pt;"> after all, __with__ … “meaning,” despite itself, means.</span>
+
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Heteronormativity instills a fundamental fear of impurity in society; this amplifies systemic violence against queerness and places our species on a trajectory towards omnicide</span>**
+**<span style="font-family: Arial,sans-serif; font-size: 10pt;">Sedwick</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">, **90**(Eve Sedgwick, Professor of English CUNY, “Epistemology of the Closet,” 1990, pp. 127-130.)</span>
+
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">From at least the biblical … __and opened and opened?__</span>
+
+
+
+
+== == 
+==Impact Turns== 
+=== === 
+===CO2 Ag=== 
+
+**CO2 boosts plant performance and prevents mass starvation—avoids extinction**
+**Singer**, PhD physics – Princeton University and professor of environmental science – UVA, consultant – NASA, GAO, DOE, NASA, Carter, PhD paleontology – University of Cambridge, adjunct research professor – Marine Geophysical Laboratory @ James Cook University, and Idso, PhD Geography – ASU, **‘11**
+(S. Fred, Robert M. and Craig, “Climate Change Reconsidered,” 2011 Interim Report of the Nongovernmental Panel on Climate Change)
+
+Regarding the first of these … **__promoted by atmospheric CO2 enrichment.__**
+=== === 
+===Heg Bad=== 
+
+**<span style="line-height: 1.5;">Hegemony causes prolif—doubt US commitment and fear American intervention</span>**
+<span class="StyleStyleBold12pt">**Jervis ‘8**</span> /Robert, professor of international politics at Columbia “Unipolarity: A Structural Perspective,” Volume 61, Number 1, October, Muse/
+
+<span style="font-family: Arial,sans-serif;">Failure would not … __its program others in the region may follow suit.__ Thus both __American overexpansion__ and the fear that it will eventually withdraw __will encourage others to get nuclear weapons.__ </span>
+
+**Prolif results in nuclear shootout**
+<span class="StyleStyleBold12pt">**Utgoff, 2**</span> (survival v. 44 no 2 summer, p. 90)
+
+<span style="font-family: Arial,sans-serif;">Widespread __proliferation__ … __or even **whole nations.**__</span>
+=== === 
+===<span style="font-family: Arial,sans-serif;">Retrenchment Good</span>=== 
+
+
+**US power can only be sustainable in the world of status quo retrenchment—the plan’s movement away makes decline inevitable**
+
+**MacDonald and Parent 11**(Paul K., Assistant Professor of Political Science at Williams College and a former International Security Program research fellow at the Belfer Center for Science and International Affairs, Joseph M., Assistant Professor of Political Science at the University of Miami, “Graceful Decline? The Surprising Success of Great Power Retrenchment,” International Security 35:4, <span style="color: blue;">[[http://belfercenter.ksg.harvard.edu/files/ISEC_a_00034-MacDonald_proof2.pdf]]</span>, LVS)
+
+
+
+We advance the neorealist … __feel their power ebbing.__
+
+
+
+
+[[include page="space.template.Footer"]]
+
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;"><span class="Tag"><span style="font-size: 12.0pt; mso-bidi-font-size: 11.0pt;">“In” means inclusion within a place—“investment” must be within the United States</span></span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;"><span class="StyleStyleBold12pt"><span style="font-size: 12.0pt; mso-bidi-font-size: 11.0pt;">Random House 12</span></span><span style="mso-bidi-font-family: Arial;"> (Unabridged Dictionary, “in”, http://dictionary.reference.com/browse/in?s=t)</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;"><span class="MsoIntenseEmphasis"><span style="font-size: 11.0pt; mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;">in</span></span><span style="mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;">   [in] Show IPA preposition, adverb, adjective, noun, verb, inned, in·ning.</span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;">preposition</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;"><span style="mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;">1. </span><span class="MsoIntenseEmphasis"><span style="font-size: 11.0pt; mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;">(used to indicate </span></span>**<span style="mso-bidi-font-weight: normal;">__<span style="mso-bidi-font-family: Arial;">inclusion within</span>__</span>**<span class="MsoIntenseEmphasis"><span style="font-size: 11.0pt; mso-bidi-font-family: Arial; mso-bidi-font-size: 10.0pt;"> space, a place, or limits): walking in the park.</span></span></span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;">2. (used to indicate inclusion within something abstract or immaterial): in politics; in the autumn.</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;">3. (used to indicate inclusion within or occurrence during a period or limit of time): in ancient times; a task done in ten minutes.</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;">4. (used to indicate limitation or qualification, as of situation, condition, relation, manner, action, etc.): to speak in a whisper; to be similar in appearance.</span>
+<span style="display: block; height: 1px; left: -40px; overflow: hidden; position: absolute; top: 6937.5px; width: 1px;">5. (used to indicate means): sketched in ink; spoken in French.</span>

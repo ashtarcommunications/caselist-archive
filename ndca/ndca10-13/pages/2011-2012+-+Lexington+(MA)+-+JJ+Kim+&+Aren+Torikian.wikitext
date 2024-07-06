@@ -1,0 +1,627 @@
+[[toc]]
+**Aff Cites: jjkim96[AT]gmail[DOT]com**
+**Neg Cites: arenthebeast[AT]gmail[DOT]com**
+=Affirmative= 
+==1AC Harvard== 
+===TEXT: The United States Federal Government should deploy and demonstrate Space Based Solar Power in non-geostationary orbit.=== 
+====Contention One is Inherency –==== 
+
+**Tech barriers to SPS have been resolved – all that remains is government inaction**
+<span style="display: block; text-align: left;"><span style="font-size: 12pt;">Mardon and Balogun 6/12</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> (Austin Mardon received an honourary doctorate of laws from the University of Alberta on Friday. He is a member of the Order of Canada and is a full member of the International Academy of Astronautics . Pauline Balogun is a U of A student who is interested in green technologies for the future, 6/12/</span><span style="font-size: 8pt;">11</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">, “Solar satellites key to green energy”, http://www.edmontonjournal.com/technology/Solar+satellites+green+energy/4933251/story.html)</span></span>
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">With gas prices on the rise, the race is... take a back seat to longevity and longevity may just be found in outer space.</span>
+
+====Contention Two is Aerospace -==== 
+**The U.S. aerospace industrial base is deteriorating – lack of funding and procurement hamstrings R&D**
+<span style="font-size: 12pt;">Grant 11</span><span style="font-size: 8pt;"> (Rebecca Grant, Ph.D. in International Relations from the London School of Economics, Director of the General William Mitchell Institute for Airpower Studies, worked for RAND and the offices of the Secretary of the Air Force and Chief of Staff of the Air Force, president of IRIS Independent Research, contributor to Air Force Magazine, has written extensively on airpower, 6/20/11, “Crunch Time for the Industrial Base”, http://www.airforce-magazine.com/MagazineArchive/Pages/2011/June%202011/0611base.aspx | AK)</span>
+
+Defense budgets are flat<span style="font-size: 8pt;">. </span>Procurement...<span style="font-size: 8pt;"> KC-46A begins life as a commercial airframe.)</span>
+
+**<span style="font-size: 12pt;">It’s reverse causal – U.S. aerospace collapse is inevitable absent the plan</span>**
+<span style="font-size: 12pt;">Matai 10</span><span style="font-size: 8pt;"> (D.K., PhD in Engineering, won The Queen’s Award for Enterprise in the category of Innovation for Bespoke Security Architecture in 2003, authority on countering complex global threats; strategic risk management & visualisation; contingency planning; Information Operations (IO); electronic defence; biometric authentication; secure payment systems and Open Source hardened kernel solutions, 6-13-2010, “Japan Takes Lead in Wireless Power? 21stC Global Energy Supply,” Asymmetric Threats Contingency Alliance, [[http://www.mi2g.com/cgi/mi2g/frameset.php?pageid=http%3Awww.mi2g.com/cgi/mi2g/press/130610.php]])</span>
+
+**And, collapse of the industrial base and aerospace industry tanks U.S. competitiveness and innovation**
+<span style="font-size: 12pt;">Albaugh 11</span><span style="font-size: 8pt;"> (Jim Albaugh, Executive Vice President of The Boeing Company, President and Chief Executive Officer of Boeing Commercial Airplanes, former President and Chief Executive Officer of Boeing Integrated Defense Systems, former President and CEO of Boeing Space and Communications, former President of Rocketdyne Power & Propulsion, Honorary Fellow of the American Institute of Aeronautics and Astronautics, serves as Board Chairman of the Aerospace Industries Association, B.A. in Mathematics and Physics from Willamette University, M.A. in Civil Engineering from Columbia University, 4/27/11, “Keeping America’s Lead in Aerospace””, http://www.aia-aerospace.org/assets/speech_042711_albaugh.pdf | AK)</span>
+<span style="font-size: 8pt;">Today </span>we take America’s ....<span style="font-size: 8pt;"> orbit in a U.S. launch vehicle. To me, that’s unconscionable.</span>
+
+**Independently, SPS expands the workforce and fosters innovation – both are key to U.S. competitiveness**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>
+
+<span style="font-size: 8pt;">FINDING: The SBSP Study Group found that </span>SBSPoffers ... directly support the underlying aims of the American Competitiveness Initiative.
+
+**That’s key to U.S. economic stability and growth**
+<span style="font-size: 12pt;">Herrnstadt 8</span><span style="font-size: 8pt;"> (Owen E. Herrnstadt, director of the Trade and Globalization Department at the International Association of Machinists and Aerospace Workers, 4/17/08, “OFFSETS AND THE LACK OF A COMPREHENSIVE U.S. POLICY: What Do Other Countries Know That We Don’t?”, http://www.sharedprosperity.org/bp201/bp201.pdf | AK)</span>
+
+Aerospace is an especially important industry ...<span style="font-size: 8pt;"> let alone implemented (Aerospace Industries Commission 2002, 8-12).</span>
+
+**Economic decline causes global nuclear war**
+<span style="font-size: 12pt;">Friedberg and Schoenfeld 8</span> (Aaron, prof. of politics and IR at Princeton University's Woodrow Wilson School, and Gabriel, senior editor of Commentary, visiting scholar at the Witherspoon, 10/21/08, “The Dangers of a Diminished America,” [[http://online.wsj.co...4012352571.html/|http://online.wsj.co...4012352571.html]] // KX)
+
+<span style="font-size: 8pt;">With the global financial system in serious trouble...</span> crisis could be the straw that breaks the camel's back.
+
+**Economic benefits happen before any component is ever in space**
+<span style="font-size: 12pt;">SEC 8</span><span style="font-size: 8pt;"> (Space Enterprise Council, 2008, NSS, http://www.nss.org/settlement/ssp/library/2008-SECSpaceBasedSolarPowerWhitePaper.pdf)</span>
+
+SBSP is unusual among renewable energy ...<span style="font-size: 8pt;"> rather than a competitor with, terrestrial solar power generation.</span>
+
+====<span style="font-family: 'Arial Narrow',sans-serif;">Contention Three is Warming -</span>==== 
+**It’s anthropogenic – our evidence represents the scientific consensus**
+<span style="font-size: 12pt;">NYT 11</span><span style="font-size: 8pt;">(NYTimes, Online Newspaper, 1/13/11, “Global Warming”, [[http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html]])</span>
+
+Scientists learned long ago ... Al Gore for alerting the world to warming's risks.
+
+**Decreasing emissions now is key to avoid runaway warming**
+<span style="font-size: 12pt;">Somerville 11</span><span style="font-size: 8pt;"> (Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis)</span>
+
+<span style="font-size: 8pt;">1n early 2007, at the time of the publication of... reaching near zero well within this century.</span>
+
+**Independently, warming is the __most probable__ scenario for extinction**
+<span style="font-size: 12pt;">Deibel 7</span><span style="font-size: 8pt;">(Terry L, Professor of IR @ National War College, “Foreign Affairs Strategy: Logic for American Statecraft”, Conclusion: American Foreign Affairs Strategy Today)</span>
+
+<span style="font-size: 8pt;">Finally, </span>there is one major existential threat...<span style="font-size: 8pt;"> but potentially </span>to the continued existence of life on this planet<span style="font-size: 8pt;">.</span>
+
+**And warming causes ocean acidification – independently leads to extinction – counterplans can’t solve**
+<span style="font-size: 12pt;">Romm 9</span> (Joe, a Fellow at American Progress and is the editor of Climate Progress, “Imagine a World without Fish: Deadly ocean acidification — hard to deny, harder to geo-engineer, but not hard to stop — is subject of documentary,” http://thinkprogress.org/romm/2009/09/02/204589/a-sea-change-imagine-a-world-without-fish-ocean-acidification-film/, AM)
+
+<span style="font-size: 8pt;">Global </span>warming is “capable of wrecking ... to start slashing carbon dioxide emissions is now.
+
+**<span style="font-size: 12pt;">SPS offsets all previous greenhouse gas emissions and is exported globally – solves warming</span>**
+<span style="font-size: 12pt;">Mankins 8</span><span style="font-size: 8pt;">(John, Preeminent Global Expert on SSP, President of SPA = Space Power Association, President of ARTEMIS Innovation Management Solutions, Worked @ NASA for 25 Years, “Space-Based Solar Power: Inexhaustible Energy From Orbit,” Spring, Ad Astra, </span><span style="color: windowtext; font-size: 8pt;">[[http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]]</span><span style="font-size: 8pt;">, EMM)</span>
+
+<span style="font-size: 8pt;">At an altitude of 22,240 miles above Earth, </span>a... separated by thousands of miles<span style="font-size: 8pt;">.</span>
+
+**Perception of SPS development independently causes international cooperation on warming**
+<span style="font-size: 12pt;">Medin 10</span> (Kristen, Chief Industrial Designer, NewSpace DesignLabs, “Disruptive Technology: A Space-Based Solar Power Industry Forecast,” Online Journal of Space Communication, Issue no. 16, Winter 2010, [[@http://spacejournal.ohio.edu/issue16/medin.html]])
+
+<span style="background-color: white; font-size: 6pt;">Now,</span> multiple nations are exploring the ... with increased global cooperation<span style="background-color: lime;">.</span>
+
+
+====<span style="font-family: 'Arial Narrow',sans-serif;">Contention Four is GMTIs -</span>==== 
+
+
+
+**US intervention is inevitable – fears of instability ensure action**
+
+<span style="font-size: 12pt;">Kagan 11</span><span style="font-size: 8pt;"> (Robert, former Senior Associate with the Carnegie Endowment for International Peace, senior fellow at the Brookings Institution in the Center on United States and Europe, 1/24/11, “The Price of Power”, http://www.weeklystandard.com/articles/price-power_533696.html?page=3)</span>
+
+
+
+<span style="font-size: 8pt;">Thanks to Haass’s clever formulation, </span>there ... years powerful isolationists could not prevent it<span style="font-size: 8pt;">.</span>
+
+
+
+**Ground forces are key – failure causes heg collapse and regional conflicts – it’s a question of effectiveness, not force size**
+
+<span style="font-size: 12pt;">Leed and Freier 11</span><span style="font-size: 8pt;"> (Maren Leed, senior fellow and director of the CSIS New Defense Approaches Project, and Nathan Freier, Visiting Professor of Strategy, Policy, and Risk Assessment at the U.S. Army’s Peacekeeping and Stability Operations Institute and a Senior Fellow in the International Security Program at the Center for Strategic and International Studies, 2011, “THE ROLE OF LAND FORCES IN FUTURE CONFLICT”, Global Forecast 2011, online at [[http://csis.org/files/publication/110610_Cohen_GlobalForecast2011.pdf]], pg. 14-16 // KX)</span>
+
+
+
+<span style="font-size: 8pt;">Still engaged in an Afghan war ...</span> and it may well be for a war that cannot be won decisively without combat-ready ground forces<span style="font-size: 8pt;">.</span>
+
+
+
+**The impact is multiple nuclear wars – all other alternatives fail**
+
+<span style="font-size: 12pt;">Kagan 7</span><span style="font-size: 8pt;"> – Robert, senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund, August-September, “End of Dreams, Return of History,” Hoover Policy Review, [[http://www.hoover.org/publications/policyreview/8552512.html]]</span>
+
+
+
+<span style="font-size: 6pt;">Finally, there is </span>__the U__<span style="font-size: 6pt;">nited </span>__S__<span style="font-size: 6pt;">tates ...</span> __influence and global involvement will provide an easier path__<span style="font-size: 6pt;">.</span>
+
+
+
+**A transition to multipolarity is impossible – experts agree that heg collapse causes violent instability**
+
+<span style="font-size: 12pt;">Edelman 10</span><span style="font-size: 8pt;"> (Eric S. Edelman, former Under Secretary of Defense for Policy and former Principal Deputy Assistant to the Vice President for National Security Affairs, February 2010, “Understanding America’s</span>
+
+<span style="font-size: 8pt;">Contested Primacy”, online at [[http://belfercenter.ksg.harvard.edu/files/CSBA_UACP_web.pdf]], pg. 7-8)</span>
+
+
+
+<span style="font-size: 8pt;">Today </span>there is no<span style="font-size: 8pt;">equivalent to the Anglo-American ... Relations President Richard Haass believes is now upon us.</span>
+
+
+
+**GMTI is key to effective ground forces in future conflicts – enables coordination, situational awareness, and reduces troop requirements**
+
+<span style="font-size: 12pt;">Dunn et al. 4</span><span style="font-size: 8pt;"> (Richard J. Dunn III, Senior Analyst at the Northrop Grumman Analysis Center, Price T. Bingham, retired Air Force Lieutenant Colonel and manager for business development for Northrop Grumman Corporation’s Airborne Ground Surveillance & Battle Management Systems, Charles A. “Bert” Fowler, former member and past Chairman of the Defense Science Board and the Defense Intelligence Agency (DIA) Advisory Board and a former member of the Air Force Scientific Advisory Board, February 2004, “Ground Moving Target Indicator Radar And the Transformation of U.S. Warfighting”, [[http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf%20/|http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf //]] KX)</span>
+
+
+
+<span style="font-size: 8pt;">Looking at GMTI’s contribution in the past four conflicts and ... these </span>strike aircraft were able to engage more targets per sortie<span style="font-size: 8pt;">.</span>
+
+
+
+**Development is inevitable – it’s only a question of power source and satellite size**
+
+<span style="font-size: 12pt;">Dunn et al. 4</span><span style="font-size: 8pt;"> (Richard J. Dunn III, Senior Analyst at the Northrop Grumman Analysis Center, Price T. Bingham, retired Air Force Lieutenant Colonel and manager for business development for Northrop Grumman Corporation’s Airborne Ground Surveillance & Battle Management Systems, Charles A. “Bert” Fowler, former member and past Chairman of the Defense Science Board and the Defense Intelligence Agency (DIA) Advisory Board and a former member of the Air Force Scientific Advisory Board, February 2004, “Ground Moving Target Indicator Radar And the Transformation of U.S. Warfighting”, [[http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf%20/|http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf //]] KX)</span>
+
+
+
+New technological advances are now being ... significantly greater power and antenna size.
+
+
+
+**SPS solves – enables a constant supply of energy and reduces satellite size, overcoming political barriers**
+
+<span style="font-size: 12pt;">Dinerman 7</span><span style="font-size: 8pt;"> (Taylor Dinerman, author and journalist based in New York City, 7/16/07, “Solar power satellites and space radar”, [[http://www.thespacereview.com/article/910/1%20/|http://www.thespacereview.com/article/910/1 //]] KX)</span>
+
+
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">One of </span><span style="font-size: 10pt;">the</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> great </span><span style="font-size: 10pt;">showstoppers for</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> the </span><span style="font-size: 10pt;">Space Radar</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">(SR) ... would like to see in future LEO-based spacecraft, but they would be a step in the right direction.</span>
+
+====<span style="font-family: 'Arial Narrow',sans-serif; font-size: 12pt;">Contention Five is Solvency -</span>==== 
+
+**Initial government demonstration is key to catalyze full private sector development of an SPS industry**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power: As an Opportunity for Strategic Security”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA473860&Location=U2&doc=GetTRDoc.pdf)]]</span>
+
+<span style="font-size: 8pt;">The SBSP Study Group concludes </span>that ... of SBSP and incentivize its development
+**Non-geostationary orbit is key - makes SPS cost competitive and avoids your disads**
+Jones 10<span style="font-size: 8pt;"> (Royce, Space Technology Entrepeneur, BA in Construction Management, Computer Programming, and Computer Aided Design, Former Marine Corps NCO, Expert on SPS, " Alternative Orbits: A New Space Solar Power Reference Design," Online Journal of Space Communication, Winter, http://spacejournal.ohio.edu/issue16/jones.html, EMM)</span>
+
+<span style="font-size: 8pt;">This paper offers a new space solar power reference ...</span> the potential to substantially reduce SSP satellite mass.
+
+**A pilot program can be up and running in a year – NASA has been working on the concept**
+<span style="font-size: 12pt;">Costa 10</span><span style="font-size: 8pt;">(sociobiologist, expertise is to spot and explain emerging trends in relationship to human evolution, global markets, and new technologies, a popular speaker at thought-leader and technology conferences as well as major universities, the former CEO of Silicon Valley start-up Dazai Advertising, Inc. Costa’s clients included technology giants such as Apple Computer, Hewlett- Packard, Oracle Corporation, 3M, Amdahl, Seibel Systems and General Electric, Rebecca, “Can NASA Save a Struggling America?” Clean Technica, 11/1/2010, [[http://cleantechnica.com/2010/11/01/can-nasa-save-struggling-america/]] | ZA)</span>
+
+<span style="font-size: 8pt;">If we took a moment to rank every government.... We have NASA to thank for an opportunity to eclipse every other energy solution here on earth. </span>
+==1AC Ridge== 
+===TEXT: The United States Federal Government should deploy and demonstrate Space Based Solar Power in non-geostationary orbit.=== 
+====Contention One is Inherency –==== 
+
+**Tech barriers to SPS have been resolved – all that remains is government inaction**
+<span style="display: block; text-align: left;"><span style="display: block; text-align: left;"><span style="font-size: 12pt;">Mardon and Balogun 6/12</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> (Austin Mardon received an honourary doctorate of laws from the University of Alberta on Friday. He is a member of the Order of Canada and is a full member of the International Academy of Astronautics . Pauline Balogun is a U of A student who is interested in green technologies for the future, 6/12/</span><span style="font-size: 8pt;">11</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">, “Solar satellites key to green energy”, http://www.edmontonjournal.com/technology/Solar+satellites+green+energy/4933251/story.html)</span></span></span>
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">With gas prices on the rise, the race is... take a back seat to longevity and longevity may just be found in outer space.</span>
+
+====Contention Two is Aerospace -==== 
+**The U.S. aerospace industrial base is deteriorating – lack of funding and procurement hamstrings R&D**
+<span style="font-size: 12pt;">Grant 11</span><span style="font-size: 8pt;"> (Rebecca Grant, Ph.D. in International Relations from the London School of Economics, Director of the General William Mitchell Institute for Airpower Studies, worked for RAND and the offices of the Secretary of the Air Force and Chief of Staff of the Air Force, president of IRIS Independent Research, contributor to Air Force Magazine, has written extensively on airpower, 6/20/11, “Crunch Time for the Industrial Base”, http://www.airforce-magazine.com/MagazineArchive/Pages/2011/June%202011/0611base.aspx | AK)</span>
+
+Defense budgets are flat<span style="font-size: 8pt;">. </span>Procurement...<span style="font-size: 8pt;"> KC-46A begins life as a commercial airframe.)</span>
+
+**<span style="font-size: 12pt;">It’s reverse causal – U.S. aerospace collapse is inevitable absent the plan</span>**
+<span style="font-size: 12pt;">Matai 10</span><span style="font-size: 8pt;"> (D.K., PhD in Engineering, won The Queen’s Award for Enterprise in the category of Innovation for Bespoke Security Architecture in 2003, authority on countering complex global threats; strategic risk management & visualisation; contingency planning; Information Operations (IO); electronic defence; biometric authentication; secure payment systems and Open Source hardened kernel solutions, 6-13-2010, “Japan Takes Lead in Wireless Power? 21stC Global Energy Supply,” Asymmetric Threats Contingency Alliance, [[http://www.mi2g.com/cgi/mi2g/frameset.php?pageid=http%3Awww.mi2g.com/cgi/mi2g/press/130610.php]])</span>
+
+<span style="font-size: 8pt;"> In the footsteps of Nikola Tesla, </span>Japan ...<span style="font-size: 8pt;">. There is no turning back from this final frontier in the 21st century and beyond!</span>
+**Federal investment into SPS is necessary to revitalize the industrial base and secure U.S. aerospace dominance – signals a commitment to space leadership**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office of the United States Federal Government, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>
+
+<span style="font-size: 8pt;">FINDING: The SBSP Study Group found that ...</span> be a powerful expression of this imperative.
+
+**Aerospace dominance secures U.S. leadership and hegemony**
+<span style="font-size: 12pt;">Walker 2</span><span style="font-size: 8pt;"> (Robert Walker, Chair of the Commission on the Future of the United States Aerospace Industry Commissioners, November 2002, “Final Report of the Commission on the Future of the United States Aerospace Industry Commissioners”, http://www.trade.gov/td/aerospace/aerospacecommission/AeroCommissionFinalReport.pdf | AK)</span>
+
+Defending our nation against its enemies ... as the world’s preeminent military power.
+
+**Hegemony solves all global problems – collapse of primacy risks great power conflict**
+<span style="font-size: 12pt;">Zhang and Shi 11</span><span style="font-size: 8pt;"> (Yuhan Zhang, researcher at the Carnegie Endowment for International Peace, Washington, D.C., Lin Shi, from Columbia University, serves as an independent consultant for the Eurasia Group and a consultant for the World Bank in Washington, D.C., 1/22/11, “America’s decline: A harbinger of conflict and rivalry”, http://www.eastasiaforum.org/2011/01/22/americas-decline-a-harbinger-of-conflict-and-rivalry/)</span>
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">This does not necessarily mean that the US is in systemic ... that will inevitably be devoid of unrivalled US primacy.</span>
+
+
+====<span style="font-family: 'Arial Narrow',sans-serif;">Contention Three is Warming -</span>==== 
+**It’s anthropogenic – our evidence represents the scientific consensus**
+<span style="font-size: 12pt;">NYT 11</span><span style="font-size: 8pt;">(NYTimes, Online Newspaper, 1/13/11, “Global Warming”, <span style="color: black; text-decoration: none;">[[http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html]]</span>)</span>
+
+Scientists learned long ago ... Al Gore for alerting the world to warming's risks.
+
+**Decreasing emissions now is key to avoid runaway warming**
+<span style="font-size: 12pt;">Somerville 11</span><span style="font-size: 8pt;"> (Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis)</span>
+
+<span style="font-size: 8pt;">1n early 2007, at the time of the publication of... reaching near zero well within this century.</span>
+
+**Independently, warming is the __most probable__ scenario for extinction**
+<span style="font-size: 12pt;">Deibel 7</span><span style="font-size: 8pt;">(Terry L, Professor of IR @ National War College, “Foreign Affairs Strategy: Logic for American Statecraft”, Conclusion: American Foreign Affairs Strategy Today)</span>
+
+<span style="font-size: 8pt;">Finally, </span>there is one major existential threat...<span style="font-size: 8pt;"> but potentially </span>to the continued existence of life on this planet<span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 12pt;">Additionally, CO2 emissions will destroy the ocean – that causes extinction</span>**
+<span style="font-size: 12pt;">Sify 10</span><span style="font-size: 8pt;">(Sify News, Citing Ove Hoegh-Gulberg, Professor @ University of Queensland and Director of the Global Change Institute AND Citing John Bruno, Associate Professor of Marine Science @ UNC, “Could unbridled climate changes lead to human extinction?,” June 19th, <span style="color: windowtext; text-decoration: none;">[[http://www.sify.com/news/could-unbridled-climate-changes-lead-to-human-extinction-news-international-kgtrOhdaahc.html]]</span>, WEA)</span>
+
+<span style="font-size: 8pt;">Sydney: </span>Scientists have sounded ...<span style="font-size: 8pt;"> some cases </span>beginning to fail'<span style="font-size: 8pt;">, he added.</span>
+
+**<span style="font-size: 12pt;">SPS offsets all previous greenhouse gas emissions and is exported globally – solves warming</span>**
+<span style="font-size: 12pt;">Mankins 8</span><span style="font-size: 8pt;">(John, Preeminent Global Expert on SSP, President of SPA = Space Power Association, President of ARTEMIS Innovation Management Solutions, Worked @ NASA for 25 Years, “Space-Based Solar Power: Inexhaustible Energy From Orbit,” Spring, Ad Astra, <span style="color: windowtext; text-decoration: none;">[[http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]]</span>, EMM)</span>
+
+<span style="font-size: 8pt;">At an altitude of 22,240 miles above Earth, </span>a... separated by thousands of miles<span style="font-size: 8pt;">.</span>
+
+**The plan spills over and solves globally**
+<span style="font-size: 12pt;">Kammen 7</span><span style="font-size: 8pt;">(Daniel, Professor of Public Policy @ UC Berkeley, "Green Jobs Created by Global Warming Initiative," September 25th,http://www.unep.org/civil_society/GCSF9/pdfs/karmen-senate.pdf) </span>
+
+<span style="font-size: 8pt;">In addition to supporting domestic job creation,...</span>and the actions of a number of emerging economies to ‘go green’.
+
+
+====<span style="font-family: 'Arial Narrow',sans-serif;">Contention Four is GMTIs -</span>==== 
+
+**US intervention is inevitable – fears of instability ensure action**
+<span style="font-size: 12pt;">Kagan 11</span><span style="font-size: 8pt;"> (Robert, former Senior Associate with the Carnegie Endowment for International Peace, senior fellow at the Brookings Institution in the Center on United States and Europe, 1/24/11, “The Price of Power”, http://www.weeklystandard.com/articles/price-power_533696.html?page=3)</span>
+
+<span style="font-size: 8pt;">Thanks to Haass’s clever formulation, </span>there ... years powerful isolationists could not prevent it<span style="font-size: 8pt;">. </span>
+
+**Ground forces are key – failure causes heg collapse and regional conflicts – it’s a question of effectiveness, not force size**
+<span style="font-size: 12pt;">Leed and Freier 11</span><span style="font-size: 8pt;"> (Maren Leed, senior fellow and director of the CSIS New Defense Approaches Project, and Nathan Freier, Visiting Professor of Strategy, Policy, and Risk Assessment at the U.S. Army’s Peacekeeping and Stability Operations Institute and a Senior Fellow in the International Security Program at the Center for Strategic and International Studies, 2011, “THE ROLE OF LAND FORCES IN FUTURE CONFLICT”, Global Forecast 2011, online at [[http://csis.org/files/publication/110610_Cohen_GlobalForecast2011.pdf]], pg. 14-16 // KX)</span>
+
+<span style="font-size: 8pt;">Still engaged in an Afghan war ...</span> and it may well be for a war that cannot be won decisively without combat-ready ground forces<span style="font-size: 8pt;">.</span>
+
+**The impact is multiple nuclear wars – all other alternatives fail**
+<span style="font-size: 12pt;">Kagan 7</span><span style="font-size: 8pt;"> – Robert, senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund, August-September, “End of Dreams, Return of History,” Hoover Policy Review, [[http://www.hoover.org/publications/policyreview/8552512.html]]</span>
+
+<span style="font-size: 6pt;">Finally, there is </span>__the U__<span style="font-size: 6pt;">nited </span>__S__<span style="font-size: 6pt;">tates ...</span> __influence and global involvement will provide an easier path__<span style="font-size: 6pt;">.</span>
+
+**A transition to multipolarity is impossible – experts agree that heg collapse causes violent instability**
+<span style="font-size: 12pt;">Edelman 10</span><span style="font-size: 8pt;"> (Eric S. Edelman, former Under Secretary of Defense for Policy and former Principal Deputy Assistant to the Vice President for National Security Affairs, February 2010, “Understanding America’s</span>
+<span style="font-size: 8pt;">Contested Primacy”, online at [[http://belfercenter.ksg.harvard.edu/files/CSBA_UACP_web.pdf]], pg. 7-8)</span>
+
+<span style="font-size: 8pt;">Today </span>there is no<span style="font-size: 8pt;">equivalent to the Anglo-American ... Relations President Richard Haass believes is now upon us.</span>
+
+**GMTI is key to effective ground forces in future conflicts – enables coordination, situational awareness, and reduces troop requirements**
+<span style="font-size: 12pt;">Dunn et al. 4</span><span style="font-size: 8pt;"> (Richard J. Dunn III, Senior Analyst at the Northrop Grumman Analysis Center, Price T. Bingham, retired Air Force Lieutenant Colonel and manager for business development for Northrop Grumman Corporation’s Airborne Ground Surveillance & Battle Management Systems, Charles A. “Bert” Fowler, former member and past Chairman of the Defense Science Board and the Defense Intelligence Agency (DIA) Advisory Board and a former member of the Air Force Scientific Advisory Board, February 2004, “Ground Moving Target Indicator Radar And the Transformation of U.S. Warfighting”, [[http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf%20/|http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf //]] KX)</span>
+
+<span style="font-size: 8pt;">Looking at GMTI’s contribution in the past four conflicts and ... these </span>strike aircraft were able to engage more targets per sortie<span style="font-size: 8pt;">. </span>
+
+**Development is inevitable – it’s only a question of power source and satellite size**
+<span style="font-size: 12pt;">Dunn et al. 4</span><span style="font-size: 8pt;"> (Richard J. Dunn III, Senior Analyst at the Northrop Grumman Analysis Center, Price T. Bingham, retired Air Force Lieutenant Colonel and manager for business development for Northrop Grumman Corporation’s Airborne Ground Surveillance & Battle Management Systems, Charles A. “Bert” Fowler, former member and past Chairman of the Defense Science Board and the Defense Intelligence Agency (DIA) Advisory Board and a former member of the Air Force Scientific Advisory Board, February 2004, “Ground Moving Target Indicator Radar And the Transformation of U.S. Warfighting”, [[http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf%20/|http://www.es.northropgrumman.com/solutions/mprtip/assets/gmti.pdf //]] KX)</span>
+
+New technological advances are now being ... significantly greater power and antenna size.
+
+**SPS solves – enables a constant supply of energy and reduces satellite size, overcoming political barriers**
+<span style="font-size: 12pt;">Dinerman 7</span><span style="font-size: 8pt;"> (Taylor Dinerman, author and journalist based in New York City, 7/16/07, “Solar power satellites and space radar”, [[http://www.thespacereview.com/article/910/1%20/|http://www.thespacereview.com/article/910/1 //]] KX)</span>
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">One of </span><span style="font-size: 10pt;">the</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> great </span><span style="font-size: 10pt;">showstoppers for</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> the </span><span style="font-size: 10pt;">Space Radar</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">(SR) ... would like to see in future LEO-based spacecraft, but they would be a step in the right direction.</span>
+
+====<span style="font-family: 'Arial Narrow',sans-serif; font-size: 12pt;">Contention Five is Solvency -</span>==== 
+
+**Initial government demonstration is key to catalyze full private sector development of an SPS industry**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power: As an Opportunity for Strategic Security”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA473860&Location=U2&doc=GetTRDoc.pdf)]]</span>
+
+<span style="font-size: 8pt;">The SBSP Study Group concludes </span>that ... of SBSP and incentivize its development.
+
+**A pilot program can be up and running in a year – NASA has been working on the concept**
+<span style="font-size: 12pt;">Costa 10</span><span style="font-size: 8pt;">(sociobiologist, expertise is to spot and explain emerging trends in relationship to human evolution, global markets, and new technologies, a popular speaker at thought-leader and technology conferences as well as major universities, the former CEO of Silicon Valley start-up Dazai Advertising, Inc. Costa’s clients included technology giants such as Apple Computer, Hewlett- Packard, Oracle Corporation, 3M, Amdahl, Seibel Systems and General Electric, Rebecca, “Can NASA Save a Struggling America?” Clean Technica, 11/1/2010, [[http://cleantechnica.com/2010/11/01/can-nasa-save-struggling-america/]] | ZA)</span>
+
+<span style="font-size: 8pt;">If we took a moment to rank every government agency in... for an opportunity to eclipse every other energy solution here on earth. </span>
+
+**Demonstration of SPS would only cost $500 million – launch costs reduce dramatically following initial demonstration**
+<span style="font-size: 12pt;">Rubenchik 9</span><span style="font-size: 8pt;"> (Alexander M Rubenchik, is a physicist at Lawrence Livermore National Laboratory, April </span><span class="Author-Date" style="font-size: 8pt;">2009</span><span style="font-size: 8pt;">, “Solar Power Beaming: From Space to Earth”, http://scholar.google.com/scholar?q=%E2%80%9CThe+cost+to+deploy+the+first+space-based+solar+energy+system+is+estimated+at+approximately+%24500+million.+A+significant+percentage+of+this+cost+is+attributed+to+the+laser%2C+the+solar+reflector%2Fcollector+systems%E2%80%9D+&hl=en&btnG=Search&as_sdt=1%2C30&as_sdtp=on, Date accessed June 24, 2011)</span>
+
+The cost to deploy the first space-based solar energy ... economic realization in the not too distant future
+
+**Non-geostationary orbit is key - makes SPS cost competitive and avoids your disads**
+Jones 10<span style="font-size: 8pt; text-decoration: none;"> (Royce, Space Technology Entrepeneur, BA in Construction Management, Computer Programming, and Computer Aided Design, Former Marine Corps NCO, Expert on SPS, " Alternative Orbits: A New Space Solar Power Reference Design," Online Journal of Space Communication, Winter, http://spacejournal.ohio.edu/issue16/jones.html, EMM)</span>
+
+<span style="font-size: 8pt;">This paper offers a new space solar power ...</span> to substantially reduce SSP satellite mass.
+
+
+
+==**<span style="font-size: 18px; line-height: 27px;">1AC Bronx</span>**== 
+
+===**TEXT: The United States Federal Government should deploy and demonstrate Space Based Solar Power.**=== 
+
+====**Contention One is Hegemony –**==== 
+
+**We’ll isolate three internal links:**
+**First is aerospace – the U.S. aerospace industrial base is deteriorating – lack of funding and procurement hamstrings R&D**
+<span style="font-size: 12pt;">Grant 11</span><span style="font-size: 8pt;"> (Rebecca Grant, Ph.D. in International Relations from the London School of Economics, Director of the General William Mitchell Institute for Airpower Studies, worked for RAND and the offices of the Secretary of the Air Force and Chief of Staff of the Air Force, president of IRIS Independent Research, contributor to Air Force Magazine, has written extensively on airpower, 6/20/11, “Crunch Time for the Industrial Base”, http://www.airforce-magazine.com/MagazineArchive/Pages/2011/June%202011/0611base.aspx | AK)</span>
+
+Defense budgets are flat<span style="font-size: 8pt;">. </span>Procurement...<span style="font-size: 8pt;"> begins life as a commercial airframe.)</span>
+
+**And, collapse of the industrial base and aerospace industry tanks U.S. competitiveness and innovation**
+<span style="font-size: 12pt;">Albaugh 11</span><span style="font-size: 8pt;"> (Jim Albaugh, Executive Vice President of The Boeing Company, President and Chief Executive Officer of Boeing Commercial Airplanes, former President and Chief Executive Officer of Boeing Integrated Defense Systems, former President and CEO of Boeing Space and Communications, former President of Rocketdyne Power & Propulsion, Honorary Fellow of the American Institute of Aeronautics and Astronautics, serves as Board Chairman of the Aerospace Industries Association, B.A. in Mathematics and Physics from Willamette University, M.A. in Civil Engineering from Columbia University, 4/27/11, “Keeping America’s Lead in Aerospace””, http://www.aia-aerospace.org/assets/speech_042711_albaugh.pdf | AK)</span>
+<span style="font-size: 8pt;">Today </span>we take...<span style="font-size: 8pt;"> that’s unconscionable.</span>
+
+**Independently, SPS expands the workforce and fosters innovation – both are key to U.S. competitiveness**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>
+
+<span style="font-size: 8pt;">FINDING: The SBSP...</span> American Competitiveness Initiative.
+
+**That’s key to U.S. economic stability and growth**
+<span style="font-size: 12pt;">Herrnstadt 8</span><span style="font-size: 8pt;"> (Owen E. Herrnstadt, director of the Trade and Globalization Department at the International Association of Machinists and Aerospace Workers, 4/17/08, “OFFSETS AND THE LACK OF A COMPREHENSIVE U.S. POLICY: What Do Other Countries Know That We Don’t?”, http://www.sharedprosperity.org/bp201/bp201.pdf | AK)</span>
+
+Aerospace is an especially...<span style="font-size: 8pt;"> let alone implemented (Aerospace Industries Commission 2002, 8-12).</span>
+
+**Economic decline causes global nuclear war**
+<span style="font-size: 12pt;">Friedberg and Schoenfeld 8</span><span style="font-size: 8pt;"> (Aaron, prof. of politics and IR at Princeton University's Woodrow Wilson School, and Gabriel, senior editor of Commentary, visiting scholar at the Witherspoon, 10/21/08, “The Dangers of a Diminished America,” [[http://online.wsj.co...4012352571.html/|http://online.wsj.co...4012352571.html]] //KX)//</span>
+
+//<span style="font-size: 8pt;">With the global financial system... </span>straw that breaks the camel's back.//
+
+**Second is aerospace dominance – Federal investment into SPS is necessary to revitalize the industrial base and secure U.S. aerospace dominance – signals a commitment to space leadership**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office of the United States Federal Government, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power As an Opportunity for Strategic Security”, http://science.ksc.nasa.gov/shuttle/nexgen/Nexgen_Downloads/SBSPInterimAssesment0.1.pdf | AK)</span>
+
+<span style="font-size: 8pt;">FINDING: The SBSP... </span>expression of this imperative.
+
+**And, aerospace dominance secures U.S. leadership and hegemony**
+<span style="font-size: 12pt;">Walker 2</span><span style="font-size: 8pt;"> (Robert Walker, Chair of the Commission on the Future of the United States Aerospace Industry Commissioners, November 2002, “Final Report of the Commission on the Future of the United States Aerospace Industry Commissioners”, http://www.trade.gov/td/aerospace/aerospacecommission/AeroCommissionFinalReport.pdf | AK)</span>
+
+Defending our nation against... preeminent military power.
+
+**Hegemony solves all global problems – prefer it to all other alternatives**
+<span style="font-size: 12pt;">Thayer 6</span><span style="font-size: 8pt;"> [Bradley Thayer, Associate Professor in the Department of Defense and Strategic Studies at Missouri State University, “In Defense of Primacy”, The National Interest, December (lexis)]</span>
+
+THROUGHOUT HISTORY, peace...<span style="font-size: 8pt;"> economic prosperity it provides.</span>
+
+**Third is forward deployment:**
+**Operational demands means military oil dependence isn’t sustainable in the long-term – alternatives are key**
+<span style="font-size: 12pt;">Crowley et al. 7</span><span style="font-size: 8pt;"> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 7 </span> KX)
+
+<span style="font-size: 8pt;">Recent experience indicates...</span> of military operations<span style="font-size: 8pt;">. </span>
+
+**Continued reliance on oil tanks heg – it imposes strategic, operational, and fiscal burdens that reduce military effectiveness**
+<span style="font-size: 12pt;">Crowley et al. 7</span><span style="font-size: 8pt;"> (Thomas D. Crowley, Tanya D. Corrie, David B. Diamond, Stuart D. Funk, Wilhelm A. Hansen, Andrea D. Stenhoff, Daniel C. Swift, analysts at LMI Government Consulting, April 2007, “Transforming the Way DOD Looks at Energy: An Approach to Establishing an Energy Strategy”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA467003]], pg. 8-9 KX) </span>
+
+The goal of our security... and logistic support requirements.
+
+**SPS solves forward deployment – it’s cost competitive**
+<span style="font-size: 12pt;">Charania et al. 11</span><span style="font-size: 8pt;"> (A.C. Charania, President of SpaceWorks Commercial, John R. Olds, Assistant Professor in the School of Aerospace Engineering at Georgia Tech and Director of Georgia Tech’s Space Systems Design Laboratory, and Dominic DePasquale, Director of Washington D.C. Operations for SpaceWorks Commercial, 2011, “Operational Demonstration of Space Solar Power (SSP): Economic Analysis of a First Revenue Satellite (FRS)”, [[http://www.nss.org/settlement/ssp/library/Economic_Analysis_of_a_First_Revenue_Satellite_for_SSP_(2011).pdf]] </span> KX)
+
+<span style="font-size: 8pt;">It may be the case that </span>specific...<span style="font-size: 8pt;"> monthly consumption estimate from June 2008 given earlier). </span>
+
+**And, military usage ensures rapid development**
+<span style="font-size: 12pt;">Lemonick 9</span><span style="font-size: 8pt;"> (Michael D., senior writer at Climate Central, a nonpartisan organization whose mission is to communicate climate science to the public, former senior writer at Time magazine, citing Paul Damphousse, Chief Engineer for the Communications Functional Integration Office of the National Security Space Office, 8/31/09, “Solar Power from Space: Moving Beyond Science Fiction”, [[http://e360.yale.edu/content/feature.msp?id=2184]] // KX)</span>
+
+<span style="font-size: 8pt;">The first, he said, is that... </span>would have a stake in space-based power<span style="font-size: 8pt;">.</span>
+**Loss of forward deployment power causes globewide nuclear war**
+<span style="font-size: 12pt;">Kagan 7</span><span style="font-size: 8pt;"> – Robert, senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund, August-September, “End of Dreams, Return of History,” Hoover Policy Review, [[http://www.hoover.org/publications/policyreview/8552512.html]]</span>
+
+<span style="font-size: 6pt;">Finally, there is </span>the U<span style="font-size: 6pt;">nited </span>S<span style="font-size: 6pt;">tates</span>... involvement will provide an easier path<span style="font-size: 6pt;">.</span>
+
+**Your impact turns are inevitable – the U.S. will always drive for heg – it’s only a question of effectiveness**
+<span style="font-size: 12pt;">Edelman 10</span><span style="font-size: 8pt;"> (Eric S. Edelman, former Under Secretary of Defense for Policy and former Principal Deputy Assistant to the Vice President for National Security Affairs, February 2010, “Understanding America’s</span>
+<span style="font-size: 8pt;">Contested Primacy”, online at [[http://belfercenter.ksg.harvard.edu/files/CSBA_UACP_web.pdf]], pg. 7-8)</span>
+
+<span style="font-size: 8pt;">Today </span>there is no<span style="font-size: 8pt;">... </span>Haass believes is now upon us<span style="font-size: 8pt;">.</span>
+
+====<span style="font-size: 11pt;">Contention Two is the Environment -</span>==== 
+**We’ll isolate three internal links:**
+
+**First is warming – it’s anthropogenic – our evidence represents the scientific consensus**
+<span style="font-size: 12pt;">NYT 11</span><span style="font-size: 8pt;">(NYTimes, Online Newspaper, 1/13/11, “Global Warming”, <span style="color: black;">[[http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html]]</span>)</span>
+
+<span style="font-size: 10pt;">Scientists learned long ago that the earth's climate...</span> Vice President Al Gore for alerting the world to warming's risks.
+
+**Runaway warming will make adaption impossible – emission cuts now are key**
+<span style="font-size: 12pt;">Hansen 8</span><span style="font-size: 8pt;"> (Professor of Earth and Environmental Science James E. Hanson, head of the NASA Goddard Institute for Space Studies in New York City and adjunct professor in the Department of Earth and Environmental Science at Columbia University, Al Gore’s science advisor, “Briefing before the Select Committee on Energy Independence and Global Warming,” US House of Representatives, 6-23-2008, “Twenty years later: tipping points near on global warming,” [[http://www.columbia.edu/~jeh1/2008/TwentyYearsLater_20080623.pdf]])</span>
+
+Fast feedbacks—<span style="font-size: 10pt;">changes that occur quickly...</span> A major casualty in all this will be wildlife.
+
+**SPS can replace the vast majority of fossil-fuel consumption – solves warming**
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;"> (Dr. Feng Hsu, Sr. Vice President of Systems Engineering & Risk Management Space Energy Group, 2010, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, <span style="color: black;">[[http://spacejournal.ohio.edu/issue16/hsu.html]]</span>)</span>
+
+<span style="font-family: 'Arial Narrow',sans-serif;">It has become increasingly evident that... </span><span style="font-size: 10pt;">we start to do something in a significant way that has a chance to make a difference.</span>
+
+**Independently, warming causes extinction**
+<span style="font-size: 12pt;">Tickell 8</span><span class="SmallChar" style="font-size: 8pt;">(Oliver Tickell, Environmental Researcher, 2008, “On a planet 4C hotter, all we can prepare for is extinction”, http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange)</span>
+
+<span style="font-size: 8pt;">We need to get prepared for four degrees... </span>__**propel us towards a similar hothouse Earth**__<span style="font-size: 8pt;">.</span>
+**Second is Terrorism:**
+**SPS is the only form of alternative energy that can relieve fossil fuel dependence – optimum efficiency and feasibility**
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;"> (Dr. Feng Hsu, Sr. Vice President of Systems Engineering & Risk Management Space Energy Group, 2010, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, <span style="color: black;">[[http://spacejournal.ohio.edu/issue16/hsu.html]]</span>)</span>
+
+<span style="font-size: 8pt;">We must set priorities and... </span>there are business models for overcoming these issues<span style="font-size: 8pt;">.</span>
+
+**Continued oil dependence causes terrorism**
+<span style="font-size: 12pt;">Bengston 8</span><span style="font-size: 8pt;">[Ron Bengston writer for American Energy Independence, a website dedicated towards the concept of US energy independence, compilation of articles from: U.S. News & World Report, The Saudi Connection, Friedman (Pulitzer Prize winning columnist), New York Times, Center for Strategic and International Studies, The Detroit Economic Club, and Brookings Institution on U.S. Energy Security, 2008, [[http://www.americanenergyindependence.com/|http://www.americanenergyindependence.com]] ]</span>
+
+<span style="font-size: 8pt;">A powerful idea is spreading through... </span>__helps sustain__ __the conditions on which terrorists prey.__<span style="font-size: 8pt;">” </span>
+
+**Terrorism leads to extinction**
+Morgan 9<span style="font-size: 8pt; text-decoration: none;">(Dennis Ray Morgan, Hankuk University of Foreign Studies, Yongin Campus - South Korea Futures, Volume 41, Issue 10, December 2009, Pages 683-693,</span>__<span style="font-size: 10pt;">World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race</span>__<span style="font-size: 8pt; text-decoration: none;">)</span>
+
+<span style="font-size: 8pt;">In a remarkable website on nuclear war... unimaginable misery and suffering in a nuclear winter. </span>
+
+<span style="font-size: 10pt;">**Third is resource wars:**</span>
+
+**SPS is integral in averting global conflict and resource wars by transforming our global regular energy uses into clean sustainable energy**
+<span style="font-size: 12pt;">Hsu 10</span><span style="font-size: 8pt;">[Feng Hsu, PhD and Former Head of NASA Goddard Center’s Risk Management, Former Research Engineer @ Brookhaven National Laboratory, “Harnessing the Sun: Embarking on Humanity's Next Giant Leap,” Online Journal of Space Communication, 2010, [[http://spacejournal.ohio.edu/issue16/hsu.html]] ]</span>
+
+It has become increasingly evident that... making our way into the energy technology frontiers in the sky.
+
+<span style="font-size: 10pt;">**Resource wars cause extinction** </span>
+<span style="font-size: 12pt;">Cairns 4 </span>[John, Distinguished Professor in the Department of Biological Sciences, Virginia Polytechnic Institute and State University, 17 October 2004, “Avoiding a Posthuman World”, Sci. & Soc. 3(1), 2005, pp 17-28]
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">Durant and Durant (1968) remarked:</span><span style="font-size: 10pt;"> __<span style="font-family: 'Arial Narrow',sans-serif;">nature</span>__...</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> adjust to enormous population size in an increasingly urbanized world.</span>
+
+====Contention Three is Solvency -==== 
+**Initial government demonstration is key to catalyze full private sector development of an SPS industry**
+<span style="font-size: 12pt;">NSSO 7</span><span style="font-size: 8pt;"> (National Security Space Office, 10/10/07, “Space</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span><span style="font-size: 8pt;">Based Solar Power: As an Opportunity for Strategic Security”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA473860&Location=U2&doc=GetTRDoc.pdf)]]</span>
+
+<span style="font-size: 8pt;">The SBSP Study Group concludes </span>that s<span style="font-size: 8pt;">pace</span><span style="font-family: 'Cambria Math',serif; font-size: 8pt;">‐</span>b<span style="font-size: 8pt;">ased </span>s<span style="font-size: 8pt;">olar </span>p<span style="font-size: 8pt;">ower... </span>an early demonstrator/adopter/customer of SBSP and incentivize its development.
+
+**A pilot program can be up and running in a year – NASA has been working on the concept**
+<span style="font-size: 12pt;">Costa 10</span><span style="font-size: 8pt;">(expertise is to spot and explain emerging trends in relationship to human evolution, global markets, and new technologies, a popular speaker at thought-leader and technology conferences as well as major universities, the former CEO of Silicon Valley start-up Dazai Advertising, Inc. Costa’s clients included technology giants such as Apple Computer, Hewlett- Packard, Oracle Corporation, 3M, Amdahl, Seibel Systems and General Electric, Rebecca, “Can NASA Save a Struggling America?” Clean Technica, 11/1/2010, [[http://cleantechnica.com/2010/11/01/can-nasa-save-struggling-america/]] | ZA)</span>
+
+<span style="font-size: 8pt;">If we took a moment to rank... to eclipse every other energy solution here on earth. </span>
+
+**Demonstration of SPS would only cost $500 million – launch costs reduce dramatically following initial demonstration**
+<span style="font-size: 12pt;">Rubenchik 9</span><span style="font-size: 8pt;"> (Alexander M Rubenchik, is a physicist at Lawrence Livermore National Laboratory, April </span><span class="Author-Date" style="font-size: 8pt;">2009</span><span style="font-size: 8pt;">, “Solar Power Beaming: From Space to Earth”, http://scholar.google.com/scholar?q=%E2%80%9CThe+cost+to+deploy+the+first+space-based+solar+energy+system+is+estimated+at+approximately+%24500+million.+A+significant+percentage+of+this+cost+is+attributed+to+the+laser%2C+the+solar+reflector%2Fcollector+systems%E2%80%9D+&hl=en&btnG=Search&as_sdt=1%2C30&as_sdtp=on, Date accessed June 24, 2011)</span>
+
+The cost to deploy the first space-based solar energy... be an economic realization in the not too distant future.
+=Negative= 
+==Counterplans== 
+===XO CP=== 
+**TEXT: The President of the United States should <<<INSERT PLAN ACTION>>>**
+
+**Observation 1: Competition**
+
+**A. Definitional: “The” means all parts – they’re definitionally bound to defending all branches**
+<span class="Heading3Char">**<span style="font-family: 'Arial Narrow',sans-serif; font-size: 12pt;">Merriam-Webster's</span>**</span>Online Collegiate Dictionary, <span class="Heading3Char">**<span style="font-family: 'Arial Narrow',sans-serif; font-size: 12pt;">No Date</span>**</span><span style="font-family: 'Arial Narrow',sans-serif;">,</span>
+http://www.m-w.com/cgi-bin/dictionary
+
+
+<span style="font-family: 'Arial Narrow',sans-serif;">used</span><span style="font-size: 8pt;"> as a function word before a noun or a substantivized adjective </span><span style="font-family: 'Arial Narrow',sans-serif;">to indicate reference to a group as a whole</span><span style="font-size: 8pt;"> <the elite> </span>
+**B. Resolutional – Resolved means legislative action**
+<span style="font-size: 12pt;">Lousiana House of Representatives 5</span> (http://house.louisiana.gov/house-glossary.htm)
+
+
+<span style="font-family: 'Arial Narrow',sans-serif;">Resolution A legislative instrument that</span><span style="font-size: 8pt;"> generally </span><span style="font-family: 'Arial Narrow',sans-serif;">is used for</span><span style="font-size: 8pt;"> making declarations, stating </span><span style="font-family: 'Arial Narrow',sans-serif;">policies</span><span style="font-size: 8pt;">, and making decisions where some other form is not required. A bill includes the constitutionally required enacting clause; a resolution uses the term "resolved". Not subject to a time limit for introduction nor to governor's veto. ( Const. Art. III, §17(B) and House  Rules 8.11 , 13.1 , 6.8 , and 7.4)</span>
+
+
+
+**Observation 2: Solvency**
+
+**<<<INSERT SPECIFIC AFF SOLVENCY>>>**
+
+
+**Observation 3: Prez Powers**
+
+<span style="font-size: 10pt;">**Unilateral executive action expands presidential power and sets a precedent – each order is key. The counterplan fiats uniqueness to the link**</span>
+<span style="font-size: 12pt;">Mayer 01</span><span style="font-size: 8pt;"> (Kenneth R., Professor of Political Science @ U of Wisconsin-Madison, With the Stroke of a Pen: Executive Orders and Presidential Power, p. 56)</span>
+
+<span style="font-size: 8pt;">Much of the time, analyses of </span><span style="font-family: 'Arial Narrow',sans-serif;">the...</span><span class="Heading3Char">**<span style="font-family: 'Arial Narrow',sans-serif;"> and can fix the meaning of the Constitution</span>**</span><span style="font-size: 8pt;">.”</span>
+
+**Obama needs to take unilateral action to solve warming**
+<span style="font-size: 12pt;">Westmoreland 10</span><span style="font-size: 8pt;"> (Joshua Westmoreland, Boston College Environmental Affairs Law Review, 1/1/10 “Global Warming and Originalism: The Role of the EPA in the Obama Administration:” [[http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=1027&context=ealr&sei-redir=1#search=%22presidential%20power%20global%20warming%20obama%22|http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=1027&context=ealr&sei-redir=1#search=%22presidential%20power%20global%20warming%20obama%22]])</span>
+
+Mapping the national and international...<span style="font-size: 8pt;"> issue GHG-emission-limiting regulations pursuant to the CAA.</span>
+
+**Extinction**
+<span style="font-size: 12pt;">Tickell 8</span><span style="font-size: 8pt;"> – Environmental Researcher (Oliver, 8/11, [[http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange]]) [Quals Added]</span>
+
+<span style="font-size: 8pt;">We need to get prepared for... </span> __towards a similar hothouse Earth__<span style="font-size: 8pt;">.</span>
+
+==Kritiks== 
+===Security K=== 
+**<<<SPECIFIC LINK>>>**
+
+**Discourses of security make the aff harms a self-fulfilling prophecy**
+<span style="font-size: 12pt;">Chernus 1</span><span style="font-size: 8pt;"> (PROFESSOR OF RELIGIOUS STUDIES UNIVERSITY OF COLORADO AT BOULDER, Ira, [[http://spot.colorado.edu/~chernus/WaronTerrorismEssays/IsraelAndUSInsecurityState.htm|Israel and the United States: Fighting Terror in the National Insecurity State]], http://spot.colorado.edu/~chernus/SinceSeptember11.htm)</span>
+
+<span style="font-size: 8pt;">In this sense, too, the U.S. is in Israel’s shoes...</span> __that seems to offer no way out.__
+**Reject the plan - opens up the space necessary for emancipation from endless securitization**
+<span style="font-size: 12pt;">Neocleous 8</span> (Mark, Professor of the Critique of Political Economy; Head of Department of Politics & History Brunel Univ, Critique of Security, 185-6)
+
+The only way out of such a dilemma... to be brave enough to return the gift."'
+
+==Disadvantages== 
+===Legitimacy DA=== 
+<span style="font-size: 10pt;">**A new global economy encourages multilateral strategies that the US is adopting for diplomatic measures**</span>
+<span style="font-size: 12pt;">Berliner 10 </span><span style="font-size: 8pt;">(</span>Jake Berliner, Deputy Policy Director of the New Democratic Network’s Globalization Initiative, April 23, 2010, “The Rise of the Rest: How New Economic Powers are Reshaping the Globe,” online: http://ndn.org/essay/2010/04/rise-rest-how-new-economic-powers-are-reshaping-globe)
+
+<span style="font-size: 8pt;">The </span>structure of the global economy has... institutions representative of the new global economy.
+
+<span style="font-size: 10pt;">**The plan’s increase of the material power gap collapses hegemony—causes global backlash against U.S. power that makes effective exercise of leadership impossible**</span>
+<span style="font-size: 12pt;">Maher 11</span><span style="font-size: 8pt;"> (Richard Maher, Ph.D. in Political Science from Brown University, Winter 2011, “The Paradox of American Unipolarity: Why the United States May Be Better Off in a Post-Unipolar World,” Orbis, Vol. 55, No. 1, p. 53-68)</span>
+
+<span style="font-size: 8pt;">Since the disintegration of the Soviet Union... best to position itself in the ‘‘post-unipolar’’ world.</span>
+
+<span style="font-size: 10pt;"> **US accommodation of great powers is key to cooperation but that does not preclude US predominance**</span>
+<span style="font-size: 12pt;">Larson 10</span><span style="font-size: 8pt;"> (</span>Larson & Shevchenko 10 – Deborah Welch Larson, Professor of Political Science at the University of California, Los Angeles, and Alexei Shevchenko, Assistant Professor of Political Science at California State University, Fullerton, Spring 2010, “Status Seekers: Chinese and Russian Responses to U.S. Primacy,” International Security, Vol. 34, No. 4, p. 63-95)
+
+<span style="font-size: 8pt;">Since the end of the Cold War... otherwise puzzling Chinese and Russian behavior.</span>
+
+
+**Multilateralism solves every impact**
+
+<span style="font-size: 12pt;">Koh 3</span> (Harold Hongju Koh, Gerard C. and Bernice Latrobe Smith Professor of International Law, Yale Law School, 1998-2001, May, “FOREWORD: On American Exceptionalism,” 55 Stan. L. Rev. 1479, Lexis)
+
+
+<span style="font-size: 8pt;">Similarly, the oxymoronic concept of "imposed democracy"...</span> or the renewed nuclear militarization of North Korea.
+
+===War DA (Solar Flares Good)=== 
+**The PLA is preparing for a massive space conflict – goes nuclear**
+<span style="font-size: 12pt;">Wortzel 8</span> (Larry, Retired, Colonel, United States Army, “The Chinese People’s Liberation Army and Space Warfare,” Astropolitics, 6:112–137, Ebsco Political Science)
+
+<span style="font-size: 8pt;">The PLA Considers Tools of Space Warfare</span>... <span style="font-size: 8pt;">logistical support--in any future conflict.</span>
+**The US is afraid – first strike is coming now**
+<span style="font-size: 12pt;">Tellis 7</span> (Ashley, Senior Associate @ Carnegie, Survival, Autumn, “China’s Military Space Strategy”, ingenta)
+
+<span style="background-color: white; font-size: 8pt;"> Finally, </span>the growing Chinese capability for space... complications of accidents and further misperception<span style="background-color: white; font-size: 8pt;">.96</span>
+**China is building up the South China Sea for a second strike capability now - that means total nuclear war**
+<span style="font-size: 12pt;">Spitzer 9/21</span> (Kirk Spitzer, Time Magazine, 9/21/11 “Japan Worries About China Nukes“ [[http://battleland.blogs.time.com/2011/09/21/japan-worries-about-china-nukes/]])
+
+<span style="font-size: 8pt;">Never mind natural resources or national... believed to hold large deposits of oil and gas. </span>
+**Iran is making a bomb now – they’ve refused all negotiations – war is inevitable now from a first strike**
+<span style="font-size: 12pt;">AFP 9/27</span><span style="font-size: 8pt;"> (AFP 9/27/11 “Iran nuclear drive heightens risk of strike: France” [[http://www.google.com/hostednews/afp/article/ALeqM5i4zVv7-IFmsZxVB2z5sa8InHaGQw?docId=CNG.62ff50855d2b78b61f1d52af57781292.6b1]])</span>
+
+Iran<span style="font-size: 8pt;"> insists its nuclear enrichment program is... </span>that any additional uranium would be used to make weapons.
+
+**Modern missiles need Satellites to function**
+<span style="font-size: 12pt;">Powers 11</span><span style="font-size: 8pt;"> (Rod Powers, US Military Guide for About.com, 2011 “U.S. Military Weapons of War” </span>
+
+<span style="font-size: 8pt;">M</span>ost (I'm tempted to say all) military missiles...<span style="font-size: 8pt;"> or personnel on the ground to illuminate the target with a laser beam.</span>
+
+**All missiles – conventional and nuclear – use electricity**
+<span style="font-size: 12pt;">United States Navy 59</span><span style="font-size: 8pt;"> (United States Navy, 1959 “PRINCIPLES OF GUIDED MISSILES AND NUCLEAR WEAPONS” http://www.hnsa.org/doc/missile/index.htm)</span>
+
+All guided missiles contain...<span style="font-size: 8pt;"> in basic texts on electricity and electronics.</span>
+
+**Even then – an UNPREDICTED solar storm creates 0 risk of guidance and launch**
+<span style="font-size: 12pt;">United States Navy 59</span><span style="font-size: 8pt;"> (United States Navy, 1959 “PRINCIPLES OF GUIDED MISSILES AND NUCLEAR WEAPONS” http://www.hnsa.org/doc/missile/index.htm)</span>
+
+Some missile may use the strength... can be taken into account in the missile guidance system<span style="font-size: 8pt;">.</span>
+
+====2NC War DA==== 
+**All military communications use satellites**
+<span style="font-size: 12pt;">Sherman 99</span> (Robert Sherman, Federation of American Scientists, <http://www.fas.org/spp/military/docops/afwa/U2.htm>)
+
+The desire to go to higher frequencies... <span class="DebateUnderline">systems have been undergoing development since the early 1960s. </span>
+=2NRs= 
+==Bronx== 
+Round 2
+Neg vs Capitol Debate BZ (I think they're "Atholton BZ" on this wiki) - DSCOVR
+1NC: T-Substantial, XO CP, Security K, Case
+2NR: XO CP
+
+
+Round 4
+Neg vs Edgemont JN - SUSTAIN
+1NC: Security K, XO CP, Legitimacy DA, Case
+2NR: Security K
+
+
+Round 6
+Neg vs Centennial MK - DSCOVR
+1NC: War DA, Security K, Case
+2NR: Security K
+
+==Ridge== 
+Round 1
+Neg vs Monticello MP - SPS
+1NC: Payroll Tax Cuts, Security K, Case
+2NR: Payroll Tax Cuts, Case
+
+Round 4
+Neg vs Bronx Science DG - ORS
+1NC: Bomber DA, Security K, Case
+2NR: Bomber DA, Case
+
+Round 5
+Neg vs Edgemont JN - SUSTAIN
+1NC: Security K, XO CP, Payroll Tax Cuts, Case
+2NR: Payroll Tax Cuts, Case
+
+==Harvard== 
+Round 2
+Neg vs West Des Moines Valley LL - SBL
+1NC: Pan K, Military Energy DA, China War Good, Case
+2NR: Military Energy DA, China War Good, Case
+
+Round 4
+Neg vs Barstow DW - Asteroid Detection
+1NC: XO CP (Warming), Military Energy DA, Case
+2NR: XO CP (Warming). Military Energy DA
+
+Round 5
+Neg vs Bishop Guertin CZ - Asteroid Detection
+1NC: XO CP (Warming), Military Energy DA, Dedev, Case
+2NR: XO CP (Warming), Military Energy DA
+
+Doubles
+Neg vs Thomas Jefferson GW - SPS Poverty
+1NC: Sub-Molniya CP, GEO DA, Clipping Cards Bad
+2NR: Sub-Molniya CP, GEO DA, Clipping Cards Bad
+
+Quarters
+Neg vs Brooklyn Tech DS - Performance Racism Aff
+1NC: Framework, T-Resolution, Cap K
+2NR: Framework, T-Resolution
+
+==Lakeland== 
+Round 3
+Neg vs NFA MS - DSCOVR
+1NC: GOES CP, Military Energy DA, Psychoanalysis K
+2NR: Psychoanalysis K
+
+Round 6
+Neg vs National Cathedral SF* - Neolib Whiteness Aff
+1NC: Framework, Util Good, Neolib Good, Case
+2NR: Framework, Util Good, Neolib Good, Case
+[[include page="space.template.Footer"]]

@@ -1,0 +1,6 @@
+[[toc]]
+=Affirmative= 
+[[file:1AC - Short.docm]]
+=Negative= 
+
+[[include page="space.template.Footer"]]

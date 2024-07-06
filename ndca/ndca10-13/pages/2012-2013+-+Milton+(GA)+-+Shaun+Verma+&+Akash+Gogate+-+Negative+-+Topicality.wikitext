@@ -1,0 +1,33 @@
+[[toc]]
+=T-Energy= 
+**Transportation infrastructure is the fixed facilities that permit people and goods to traverse space, energy is distinct.**
+**<span style="color: #222222;">US Chamber of Commerce 10</span>**
+<span style="color: #222222; font-size: 8pt;">United States Chamber of Commerce, “Transportation Performance Index – Summary Report”,[[@http://www.uschamber.com/sites/default/files/lra/files/LRA_TPI%20_Summary_Report%20Final%20092110]].pdf</span>
+<span style="color: #222222; font-size: 8pt;">Step 1 – </span>//<span style="color: #222222;">Definition</span>//__<span style="color: #222222;">: Transportation Infrastructure </span>__<span style="color: #222222; font-size: 8pt;">It is important to establish a ... </span>__<span style="color: #222222;">it is</span>__<span style="color: #222222; font-size: 8pt;"> considered an element of </span>__<span style="color: #222222;">energy infrastructure</span>__<span style="color: #222222; font-size: 8pt;">.</span>
+=T-Substantial= 
+**A substantial investment is over 20%**
+**Traficant et. al 89**<span style="font-size: 8pt;"> – former member of US House of Representatives(James, written with other Congressmembers, Bill Summary & Status 101st Congress (1989 - 1990) H.R.2489, 5/24/89, http://thomas.loc.gov/cgi-bin/bdquery/z?d101:h.r.02489:)</span>
+<span style="font-size: 8pt;">(</span>__C) SUBSTANTIAL INVESTMENT DEFINED- T...__<span style="font-size: 8pt;"> on the first day of such period.</span>
+
+**Transportation infrastructure spending is $48.1 billion**
+**GAO 11** <span style="font-size: 8pt;">– Investigative arm of Congress charged with examining matters relating to the receipt and payment of public funds (Government Accountability Office, Funding Used for Transportation Infrastructure Projects, but Some Requirements Proved Challenging, 6/29/11, http://www.gao.gov/products/GAO-11-600)</span>
+
+__This report responds to two GAO mandates ...__<span style="font-size: 8pt;"> reviewed prior work and other studies; and interviewed DOT, state, and local officials.</span>
+
+=T-Preexisting= 
+**Increase requires pre-existence**
+<span style="font-family: Georgia,serif; font-size: 11pt;">Brown</span><span style="font-family: Georgia,serif; font-size: 8pt;">(US Federal Judge for the US district court for the district of Oregon) 20</span><span style="font-family: Georgia,serif; font-size: 11pt;">03</span><span style="font-family: Georgia,serif; font-size: 8pt;">. (Elena Mark and Paul Gustafson, Plaintiffs vs. Valley Insurance Company and Valley Property and Casualty, defendants)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">FCRA does not define the term "increase." </span><span class="DebateUnderline">__<span style="font-family: Georgia,serif; font-size: 11pt;">The</span>__</span><span style="font-family: Georgia,serif; font-size: 8pt;"> ...of the premium for that insured's insurance [**23] coverage at a lower price. </span>
+
+=T-Increase [Effects]= 
+**<span style="font-family: Georgia,serif;">Increase must be an immediate net increase</span>**
+**<span style="font-family: Georgia,serif;">Rogerts ‘5 </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Judge Rogers, STATE OF NEW YORK, ET AL., 6-24-05, PETITIONERS v. U.S. ENVIRONMENTAL PROTECTION AGENCY, RESPONDENT, NSR MANUFACTURERS ROUNDTABLE, ET AL., INTERVENORS, 2005 U.S. App.)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;"> [**48] Statutory Interpretation. <span style="color: windowtext; text-decoration: none;">[[http://www.lexis.com/research/retrieve?_m=1fe428155fdfc9074f3623f0dae9d78a&docnum=14&_fmtstr=FULL&_startdoc=1&wchp=dGLbVlz-zSkAW&_md5=0ebd338d6a7793de8561db53b915effd&focBudTerms=term%20increase&focBudSel=all#clscc16|HN16]]</span>While ... not the value of the car five or ten years ago when the engine was in perfect condition.</span>
+
+=T-Vehicles= 
+<span class="StyleStyleBold12pt">transportation infrastructure is fixed physical assets</span>
+<span class="StyleStyleBold12pt">CFST 06</span><span style="font-size: 8pt;"> – Campaign for Sensible Transportation, collection of organizations for better transportation in the Santa Cruz area (“Aboard Transportation”, 2006, http://www.cfst.org/transportation.html)</span>
+<span style="font-size: 8pt;">Transportation or transport is the carrying of people …</span> __ramp meters, railroad switches, air traffic control, and etc.__
+
+
+[[include page="space.template.Footer"]]

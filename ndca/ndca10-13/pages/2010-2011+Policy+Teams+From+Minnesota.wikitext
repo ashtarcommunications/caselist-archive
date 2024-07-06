@@ -1,0 +1,44 @@
+[[toc]]
+=List of Teams= 
+
+The following is an automatically-generated list of all of the 2010-2011 policy debate teams from Minnesota that have a page on the wiki. It only displays pages that were tagged correctly and so is not necessarily a comprehensive list; if you notice an Minnesota team's page that hasn't been tagged, please tag it so that this list is accurate.
+
+[[include component="pageList" hideInternal="true" tag="2010-2011 policy teams from mn" limit="100" ]]
+
+=Rosemount Round Robin= 
+
+Tentative Rosemount Round Robin Field (teams who have Wikis)
+
+
+[[include component="pageList" hideInternal="true" tag="2010 mn rr" limit="100" ]]
+
+
+=2011 Minnesota State Tournament= 
+
+**Section 3**
+1. [[2010-2011 — Eagan (MN) — Leah Norman & Kyra Stephenson|Eagan NS - Norman & Stephenson]]
+2. [[2010-2011 — Rosemount (MN) — Ryan Kirkley & Matt Stefanko|Rosemount BS - Beard & Stefanko]]
+3. [[2010-2011 — Rosemount (MN) — Wesley Just & Ryan Kirkley|Rosemount JK - Just & Kirkley]]
+4. Eagan EW - Engels & Wagner
+5. Mankato KK - Kearney & Kearney
+
+**Section 4**
+1. [[2010-2011 — Saint Paul Central (MN) — Imanol Avendano & Hannah Nesser|St. Paul Central AN - Avendano & Nesser]]
+2. [[2010-2011 — Saint Paul Como Park (MN) — Guleed Ali & Dai'Quan Robinson|Como Park AR - Ali & Robinson]]
+3. [[2010-2011 — Highland Park (MN) — Andrew Hall & Marie Sheehan|Highland Park HS - Hall & Sheehan]]
+4. Como Park AT - Ahmed & Thompson
+5. St. Paul Central SW - Smith & WareJonces
+
+**Section 5**
+1. [[2010-2011 — Blake (MN) — Michael McGrath & Kentucky Morrow|Blake MM - McGrath & Morrow]]
+2. [[2010-2011 — Blake (MN) — Adele Watkins & Hannah Stafford|Blake SW - Stafford & Watkins]]
+3. Patrick Henry - Yang & Bender
+4. [[2010-2011 — Minneapolis South (MN) — Jacob Boucher & Cole Johnson Jensen|South BJ - Boucher & Johnson-Jensen]]
+5. [[2010-2011 — Minneapolis South (MN) — Izak Gallini-Matyas & Oskar Tauring-Traxler|South GT - Gallini-Matyas & Tauring-Traxler]]
+
+**Section 6**
+1. [[2010-2011 — Edina (MN) — Mimi Sergent-Leventhal & Erin Sielaff|Edina SS - Sergent-Leventhal & Sielaff]]
+2. [[2010-2011 — Wayzata (MN) — Alex Bahls & Luke Plutowski|Wayzata BP - Bahls & Plutowski]]
+3. [[2010-2011 — Wayzata (MN) — Miranda Ehrlich & Meghna Sohoni|Wayzata ES - Ehrlich & Sohoni]]
+4. [[2010-2011 — Edina (MN) — Dustin Meyers-Levy & Jon Yang|Edina MY - Meyers-Levy & Yang]]
+5. [[2010-2011 — Eden Prairie (MN) — Akila Pai & Baiqiao Zhang|Eden Prairie PZ - Pai & Zhang]]

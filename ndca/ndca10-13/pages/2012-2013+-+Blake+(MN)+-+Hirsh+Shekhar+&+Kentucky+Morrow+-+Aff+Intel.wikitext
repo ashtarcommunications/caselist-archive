@@ -1,0 +1,116 @@
+[[toc]]
+=Statistics (up to date as of St. Mark's)= 
+We've given eleven 2ARs so far this season.
+PER Split: eight prelims, zero elims, three rr rounds.
+Aff Split: two Guam, nine Diego Garcia.
+
+==Percentage (All)== 
+T--military: 27.3%
+Cap K: 9.1%
+Cocos CP: 9.1%
+Britain CP and Elections/Ptx: 18.2%
+States CP and Federalism: 9.1%
+Elections DA: 27.3%
+
+==Percentage (Guam Aff)== 
+States CP and Federalism: 50.0%
+Elections DA: 50.0%
+
+==Percentage (Diego Garcia Aff)== 
+T--military: 33.3%
+Cap K: 11.1%
+Cocos CP: 11.1%
+Britain CP: 22.2%
+Elections DA: 22.2%
+==Percentage (Prelims)== 
+T--military: 25.0% (2-0)
+Britain CP: 25.0% (1-1)
+States CP and Federalism: 12.5% (0-1)
+Elections DA: 37.5% (3-0)
+
+==Percentage (Elims)== 
+
+==Percentage (RRs)== 
+T--military: 33.3% (1-0)
+Cap K: 33.3% (0-1)
+Cocos CP: 33.3% (0-1)
+
+=Grapevine= 
+==Round 2 vs. Moore HN== 
+1AC: Guam (Alliance, Deterrence, and Guam Economy advantages)
+1NC: T--in, Security K, States CP, Elections DA (Obama good, Russia relations), Heg Bad
+2AC: Coral Reefs add-on (on States CP), Africa Wars add-on (on States CP)
+2NR: Elections DA and Case Defense
+
+==Round 4 vs. Caddo Magnet JA== 
+1AC: Guam (Alliance, Deterrence, and Guam Economy advantages)
+1NC: T--Military, Predictions K, States CP (with federalism da), Elections DA (Obama good)
+2AC: No add-ons
+2NR: States CP (with federalism da)
+
+=Greenhill RR= 
+==Round 2 vs. Greenhill GR== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, Nunn McCurdy CP, States CP, Politics DA (FISA Obama good)
+2AC: Japan Relations add-on (on Nunn McCurdy), India Relations add-on (on States CP)
+2NR: T--military
+
+==Round 4 vs. CK McClatchy HS== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, T--In, Cap K, Social Justice K, Debt DA, Heg Bad
+2AC: No add-ons
+2NR: T--military, Cap K (cap k was the vast majority of the 2nr)
+
+==Round 5 vs. Chattahoochee KL== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, T--In, Security K, Cocos CP (internal nb), Elections DA (Russia rels Obama good)
+2AC: India Relations Add-on (on Cocos CP)
+2NR: Cocos CP
+
+=Greenhill= 
+==Round 1 vs. Westminster PY== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, Security K, Nuclear Modernization Tradeoff DA, Elections DA (Russia rels Obama good)
+2AC: India Relations Add-on (on Asia Advantage)
+2NR: Elections DA and Case Defense
+
+==Round 3 vs. CK McClatchy KH== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, Capitalism K, Social Justice CP, Debt DA, Heg Bad
+2AC: No add-ons
+2NR: T--military
+
+==Round 6 vs. Sage Ridge CL== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, Deleuze K, Deterrence Adv. CP (multiple planks), Elections DA (Obama good, isolationism)
+2AC: Africa Wars Add-on (on the Deterrence Adv. CP)
+2NR: T--military
+
+=St. Mark's= 
+==Round 2 vs. Pine Crest LM== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, T--substantial, T--United States, OMB CP, Maintain Presence CP, Britain CP, Elections DA (Obama good, china bashing), Politics (Fiscal Cliffs Obama good)
+2AC: Terrorism Add-on (on Britain CP), India Relations Add-on (on Britain CP), Japan Relations Add-on (on Britain CP),
+2NR: Britain CP, Elections DA
+
+==Round 4 vs. Pace CK== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--in, T--military, Britain CP, Virilio K, Elections DA (Obama good, china bashing)
+2AC: Terrorism Add-on (on Britain CP), India Relations Add-on (on Britain CP), Japan Relations Add-on (on Britain CP)
+2NR: Britain CP, Elections DA
+
+==Round 5 vs. Notre Dame BD== 
+1AC: Diego Garcia (Power Projection, Asia, and Straight of Hormuz advantages)
+1NC: T--military, Security K, Power Gap DA, DoD CP+aspec, Elections DA (Obama good, financial regulation-->econ)
+2AC: Japan Relations add-on (on DoD CP)
+2NR: Elections DA and Case Defense
+
+=Michigan= 
+==Round 2 vs. University Prep DR== 
+
+==Round 3 vs. Pace ES== 
+
+==Round 5 vs. Pine Crest GJ== 
+
+
+[[include page="space.template.Footer"]]

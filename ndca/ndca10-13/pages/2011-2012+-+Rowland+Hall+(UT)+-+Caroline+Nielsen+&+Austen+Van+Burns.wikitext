@@ -1,0 +1,578 @@
+=Affirmative[[#Affirmative]]= 
+[[toc]]
+==1AC ORS== 
+**Plan: The United States federal government should substantially increase the development of Operationally Responsive Space capabilities, including a military launch infrastructure that enables launch on demand, small satellite development, reconstitution, maneuverability, and hardening of military satellites.**
+
+
+**Contention 1 is Deterrence –**
+
+**Current vulnerabilities in US space assets invite attacks from multiple adversaries—a broad deterrence strategy beyond the threat of retaliation is necessary to defend against different military doctrines.**
+<span style="font-size: 16px;">Rendleman 10</span><span style="font-size: 10.6667px;"> (James, Col in US Air force, Astropolitics 8(220), “A Strategy for Space Assurance,” Ebsco, JT)</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">The 11 January 2007 test of a Chinese </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">to counter new 21st Century adversary attack capabilities</span><span style="font-size: 10.6667px;">.</span>
+
+
+
+**Space attacks are inevitable in the status quo because of reliance on space for terrestrial warfare**.
+<span style="display: block; text-align: left;"><span style="font-size: 16px;">Smith 11</span><span style="font-family: Calibri; font-size: 10.6667px;">(M.V., Colonel, PhD in Politics and IR @ University of Reading, Citing Colin Gray, “Chapter 17: Security and Spacepower, Part of “Toward a Theory of Spacepower,” Edited by Charles Lutes and Peter Hays, National Defense University Press, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]])</span></span>
+<span style="font-size: 17.3333px;">It is a rule in strategy, one </span>
+AND
+<span style="font-size: 17.3333px;">once or stretch them slowly over time</span><span style="font-size: 10.6667px;">.21 </span>
+
+
+
+
+**40 countries are on the brink of space weapons – the US must act now to guarantee safe access to space and prevent conflict.**
+<span style="font-size: 16px;">Donahue 10</span><span style="font-family: Calibri; font-size: 10.6667px;">(Jack, Major in USAF, April, “CATASTROPHE ON THE HORIZON: A SCENARIO-BASED FUTURE EFFECT OF ORBITAL SPACE DEBRIS,” [[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_af691818-359f-4999-be24-f88ca154bd94/display.aspx?rs=enginespage]], accessed: 2 September 2011)</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">Currently, the configuration of global space technologies </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">) and becoming potential hazards to other satellites.</span>
+
+
+
+**Specifically, China is preparing to attack US space assets to limit US warfighting capability – current ORS capabilities are too minimal to be a credible deterrent.**
+<span style="display: block; text-align: left;"><span style="font-size: 16px;">Sejba 10</span><span style="font-size: 10.6667px;">- Lt Col Timothy A. Sejba, BS, Computer Engineering, University of Minnesota-Duluth, MBA, San Jose State University, congressional budget liaison officer, budget and appropriations liaison directorate, deputy assistant secretary for budget, Secretary of the Air Force, May 2010, “Deterrence for Space: Is Operationally Responsive Space Part of the Solution?” </span>//<span style="font-family: Calibri; font-size: 10.6667px;">High Frontier Journal</span>//<span style="font-size: 10.6667px;">, pg 39-43, http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf</span></span>
+<span style="font-size: 17.3333px;">People’s Liberation Army’s (PLA) view of </span>
+AND
+<span style="font-size: 17.3333px;">credence to the need for new deterrence practices.</span>
+
+
+
+
+**The PLA is more likely to initiate a space attack in a crisis because of miscalculation and instability.**
+<span style="font-size: 16px;">MacDonald 11</span><span style="font-size: 10.6667px;"> (Bruce, Sen Dir Nonproliferation and Arms Control Program@U.S. Institute of Peace, May 11, “MILITARY AND CIVIL SPACE PROGRAMS IN CHINA,” Testimony before congress, accessed: 5 September 2011, LexisNexis)</span>
+<span style="font-size: 17.3333px;">One characteristic of too many wars in the </span>
+AND
+<span style="font-size: 17.3333px;">for crisis and conflict</span><span style="font-size: 10.6667px;">in the years ahead.</span>
+
+**China just demonstrated unique space capabilities – absent action they’ll overtake the US as the world leader.**
+<span style="font-size: 16px;">Eimer, 11/5</span><span style="font-family: Calibri;"> (“China's huge leap forward into space threatens US ascendancy over heavens,” By David, [[http://www.telegraph.co.uk/news/worldnews/asia/china/8872196/Chinas-huge-leap-forward-into-space-threatens-US-ascendancy-over-heavens.html]])</span>
+
+<span style="font-size: 17.3333px;">Floating 200 miles above earth is the latest </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">its technology remain barriers to any meaningful partnership.</span>
+
+
+**Conflict causes a US-China nuclear war.**
+<span style="font-size: 16px;">Forden 8</span><span style="font-size: 10.6667px;">(Geoffrey, PhD and Research Associate at MIT, “How China Loses the Coming Space War (Pt. 2),” 1/10, </span><span style="font-family: Calibri; font-size: 10.6667px;">[[http://www.wired.com/dangerroom/2008/01/inside-the-ch-1/]]</span><span style="font-size: 10.6667px;">,)</span>
+<span style="font-size: 17.3333px;">The United States has</span><span style="font-family: Calibri; font-size: 10.6667px;">five </span><span style="font-size: 17.3333px;">satellites</span><span style="font-family: Calibri; font-size: 10.6667px;">in geostationary </span>
+AND
+<span style="font-size: 17.3333px;">a </span>//<span style="font-size: 17.3333px;">nuclear war</span>//<span style="font-size: 17.3333px;"> without a clear military goal. </span>
+
+
+**US China war escalates to extinction**
+<span style="display: block; text-align: justify;"><span style="font-size: 16px;">Cheong 2k</span><span style="font-family: Calibri; font-size: 10.6667px;"> (Ching, Senior Writer at the Strait Times, “No one gains in a war over Taiwan,” June 25th, Lexis)</span></span>
+<span style="font-family: Calibri; font-size: 10.6667px;">THE high-intensity scenario postulates</span><span style="font-size: 17.3333px;">a cross</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">,</span><span style="font-size: 17.3333px;">we would see the</span>//<span style="font-size: 17.3333px;">destruction of civilization</span>//<span style="font-size: 14.6667px;">.</span>
+
+
+**Independently, perceived vulnerability causes the US to preemptively strike China—that escalates**
+
+<span style="font-size: 16px;">Tellis, 7</span><span style="font-size: 10.6667px;"> (Ashley, Senior Associate at Carnegie, Survival, Autumn, “China’s Military Space Strategy”, ingenta)</span>
+
+<span style="font-size: 10.6667px;"> Finally, </span><span style="font-size: 17.3333px;">the growing Chinese capability for </span>
+AND
+<span style="font-size: 17.3333px;">complications of accidents and further misperception</span><span style="font-size: 10.6667px;">.96</span>
+
+
+
+**ORS provides a credible deterrent and limits the result of any attack that occurs.**
+<span style="font-size: 16px;">Sejba 10</span><span style="font-size: 10.6667px;"> (Timothy, Secretary of the Air Force, May, “Deterrence for Space: Is Operationally Responsive Space Part of the Solution?” High Frontier, 6(3), p. 39, accessed: 5 September 2011)</span>
+<span style="font-size: 17.3333px;">The space domain, often referred to as </span>
+<span style="font-size: 17.3333px;">AND </span>
+<span style="font-size: 17.3333px;">by attacking the asymmetric advantages enabled by space. </span>
+
+
+**And the deterrent ORS provides also prevents weaponization of space**
+<span style="font-size: 16px;">Schendzielos 8</span><span style="font-size: 10.6667px;"> – </span><span style="font-family: Calibri;">major in the USAF, School of Advanced Military Studies (April 30, 2008, Major Kurt Schendzielos, “Protection in Space: A Self-Defense Acquisition Priority for U.S. Satellites”, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA485553]])</span>
+
+<span style="font-size: 17.3333px;">The first</span><span style="font-size: 10.6667px;">and most obvious</span><span style="font-size: 17.3333px;">advantage </span>
+AND
+//<span style="font-size: 17.3333px;">prohibitions</span>//<span style="font-size: 17.3333px;"> against ASATs and </span>//<span style="font-size: 17.3333px;">space weapons</span>//<span style="font-size: 17.3333px;">.</span>
+
+
+
+**Infinite number of ‘root causes’ means only deterrence solves—only deterrence theory meets empirical standards**
+
+<span style="font-size: 16px;">Moore 4–</span><span style="font-size: 10.6667px;"> Dir. Center for Security Law @ University of Virginia (7-time Presidential appointee, & Honorary Editor of the American Journal of International Law, Solving the War Puzzle: Beyond the Democratic Peace, John Norton Moore, page xxii-xxvi</span>
+
+<span style="font-size: 17.3333px;">The "cause" of</span><span style="font-size: 10.6667px;"> the "democratic </span><span style="font-size: 17.3333px;">peace" </span>
+AND
+<span style="font-size: 10.6667px;">make an at least modest contribution to its goal.</span>
+
+
+
+
+**Contention 2 is Hegemony –**
+**First is surveillance:**
+**Current SSA capabilities are inadequate because of old systems and coverage gaps- ORS solves through joint operations.**
+<span style="font-size: 16px;">Sejba 10</span><span style="font-size: 10.6667px;">- Lt Col Timothy A. Sejba, BS, Computer Engineering, University of Minnesota-Duluth, MBA, San Jose State University, congressional budget liaison officer, budget and appropriations liaison directorate, deputy assistant secretary for budget, Secretary of the Air Force, May 2010, “Deterrence for Space: Is Operationally Responsive Space Part of the Solution?” </span>//<span style="font-family: Calibri; font-size: 10.6667px;">High Frontier Journal</span>//<span style="font-size: 10.6667px;">, pg 39-43, http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf</span>
+<span style="font-size: 17.3333px;">One area of greatest concern to the US </span>
+AND
+<span style="font-size: 17.3333px;">true on-orbit ORS Tier 1 capability.</span>
+
+
+**Information superiority in space is critical to sustaining hegemony.**
+<span style="font-size: 16px;">Baines 5- </span><span style="font-size: 10.6667px;">Philip J, Senior Advisor, Science and Technology, Non-Proliferation, Arms Control and Disarmament Division, Department of Foreign Affairs, United Nations Institute of Disarmament Research, March 21-22 2005, “Safeguarding Space Security: Prevention of an Arms Race in Outer Space” kms1.isn.ethz.ch/.../Files/.../2005_SafeguardingSpaceSecurity-full.pdf</span>
+<span style="font-size: 10.6667px;">This leads to an argument that </span><span style="font-size: 17.3333px;">outer space </span>
+<span style="font-size: 10.6667px;">AND </span>
+<span style="font-size: 10.6667px;">against an opposing space-based weapon deployment. </span>
+
+
+**Enhanced SSA solves miscalculation- tracking abilities creates distinctions between threats and non-threats**
+<span style="font-size: 16px;">MacDonald ’08</span><span style="font-family: Calibri; font-size: 10.6667px;"> – former assistant director for national security at the White House Office of Science and Technology Policy as well as senior director for science and technology on the National Security Council staff (Bruce W, “China, Space Weapons, and U.S. Security,” i.cfr.org/content/publications/attachments/China_Space_CSR38.pdf, RBW)</span>
+<span style="font-family: Calibri; font-size: 10.6667px;"> SSA is the ability to track and </span>
+AND
+<span style="font-size: 17.3333px;">prerequisite to any effective retaliation or deterrence strategy</span><span style="font-family: Calibri; font-size: 10.6667px;">.</span>
+
+
+**Miscalculation in space escalates to nuclear and biological warfare**
+<span style="font-size: 16px;">Mitchell 1</span><span style="font-family: Calibri;"> [Gordon R., Member of the Center for Strategic and International Studies Working Group on Theater Missile Defenses in the Asia-Pacific Region., Winter “Japan-U.S. Missile Defense Collaboration: Rhetorically Delicious, Deceptively Dangerous”, **http://www.pitt.edu/~gordonm/JPubs/JapanTMD.pdf**]</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">Any clear-cut distinction between offensive and </span>
+AND
+<span style="font-size: 17.3333px;">into the most destructive military conflict ever seen.</span>
+
+
+**Second is the Aerospace Industry:**
+
+**The fast and simple ORS procurement process revitalizes the aerospace industry**
+<span style="font-size: 16px;">Hunt 10</span><span style="font-size: 10.6667px;">- William G. Hart, BS and MS, Electrical Engineering, Northeastern University, vice president and general manager of Space Systems for Raytheon Company’s Space and Airborne Systems business, May 2010, “SMALLER is Better: Technical Considerations for Operationally Responsive Space,” //High Frontier Journal//, page 33- 38, http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf</span>
+<span style="font-size: 17.3333px;">There are some things that government can do </span>
+AND
+<span style="font-size: 17.3333px;">knowledge transfer through continuous, connected development work</span><span style="color: #000000; font-family: Times; font-size: 10.6667px;">.</span>
+
+
+**The aerospace industry is key to the economy**
+<span style="font-size: 16px;">Bugos 10</span><span style="font-family: Calibri;"> (Glenn, Historian @ Prologue Group, “The History of the Aerospace Industry,” 1 February, [[http://eh.net/encyclopedia/article/bugos.aerospace.industry.history]], JT)</span>
+
+<span style="font-size: 17.3333px;">The aerospace industry ranks among the world's largest </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">that fly through our atmosphere and outer space. </span>
+
+
+
+**Further economic decline causes global war**
+<span style="font-size: 16px;">Mead 9</span><span style="font-family: Calibri;"> (Walter, US Foreign Policy @ Council on Foreign Relations, “Only Makes You Stronger,” The New Republic, February 4, [[http://www.tnr.com/article/only-makes-you-stronger]], JT)</span>
+
+<span style="font-family: Calibri; font-size: 10.6667px;">So far, such half-hearted experiments </span>
+AND
+<span style="font-size: 17.3333px;">track, we may still have to fight.</span>
+
+
+**A collapsing aerospace sector takes down key sectors of US hegemony**
+<span style="font-size: 16px;">Walker et al 2 </span><span style="font-size: 10.6667px;">– Robert Walker, et cal, Chair of the Commission on the Future of the United States Aerospace Industry Commissioners, 2002, “Final Report of the Commission on the Future of the United States Aerospace Industry Commissioners,” [[http://www.trade.gov/td/aerospace/aerospacecommission/AeroCommissionFinalReport.pdf]]</span>
+<span style="font-size: 10.6667px;">Defending our nation against its enemies is the </span>
+AND
+<span style="font-size: 17.3333px;">our position as the </span>//<span style="font-size: 17.3333px;">world’s preeminent military power</span>//<span style="font-size: 10.6667px;">. </span>
+
+
+**Third is the military:**
+**Weakened space capabilities has put the US military at risk**
+
+<span style="font-size: 16px;">Campbell 10</span><span style="font-family: Calibri;"> (Kevin, Commander Joint Functional Component Command Integrated Missile Defense, May, “The Warfighter's Perspective on Space Support,” High Frontier, 6(3), p. 5, accessed: 3 September 2011, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf]], JT)</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">Eight plus years of persistent conflict has taught </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">ensure information flows to our lower echelon units.</span>
+
+
+**ORS is key to effective military capabilities**
+
+<span style="font-size: 16px;">Doggrell 6</span><span style="font-family: Calibri;"> (Les, senior project engineer with the Aerospace Corporation, June 1, “Operationally Responsive Space,” Air and Space Power Journal, [[http://www.airpower.maxwell.af.mil/airchronicles/apj/apj06/sum06/doggrell.html]], accessed: 29 August 2011, JT)</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">In future conflicts, </span><span style="font-size: 17.3333px;">military space forces will </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">acquisition, all at a lower cost.”3</span>
+
+
+**Military power maintains international stability and hegemony**
+<span style="font-size: 16px;">Thayer 7</span><span style="font-family: Calibri;"> (Bradley, associate professor in the Department of Defense and Strategic Studies at Missouri State University, “American Empire: A Debate”, Routledge, pg 43-44)</span>
+<span style="font-family: Calibri;">Another critical question is not simply how much </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">like-minded states to advance common interests.</span>
+
+
+**The impact is massive transition wars across the globe that lead to extinction**
+<span style="font-size: 16px;">Brzezinski 5</span><span style="font-family: Calibri;"> (Zbigniew National Security Advisor in the Carter Administration, Professor of Foreign Policy at Johns Hopkins University, “The Choice: Global Domination or Global Leadership”, p. 2-4) </span>
+<span style="font-family: Calibri;">History is a record of change, a </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">common effort to shape a secure international environment.</span>
+
+
+**American leadership solves nuclear wars in every region**
+<span style="font-size: 16px;">Khalilzad 11</span><span style="font-size: 10.6667px;">- Zalmay Khalilzad, served as U.S. ambassador to Afghanistan, Iraq, and the United Nations, now serves as a counselor to the Center for Strategic and International Studies, February 8, 2011, “The Economy and National Security,” The National Review Online, http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad?page=2</span>
+<span style="font-size: 10.6667px;">We face this domestic challenge while other major </span>
+AND
+<span style="font-size: 17.3333px;">most significant barrier facing Chinese hegemony and aggression</span><span style="font-size: 10.6667px;">.</span>
+
+
+**And, realism and power politics are inevitable – this means the United States will inevitably act to ensure its own security and so will foreign powers – the only question is whether we can back it up**
+<span style="font-size: 16px;">Mearsheimer 5</span> (John, poli sci@U of Chicago, “The Rise of China will not be peaceful at all,” The Australian, 18 November, LexisNexis, JT)
+
+<span style="font-family: Calibri; font-size: 10.6667px;">The question at hand is simple and profound</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">AND </span>
+<span style="font-family: Calibri; font-size: 10.6667px;">, the only great power in the system. </span>
+
+**Vulnerabilities have put US hegemony on the brink – only ORS can sustain space capabilities and reinvigorate heg**
+<span style="font-size: 16px;">Sheridan 10</span><span style="font-family: Calibri; font-size: 10.6667px;"> (John, commander of US Space and Missile Systems Center&exec officer, May, “Operationally Responsive Space and the National Security Space Architecture,” High Frontier, 6(3), p. 3, accessed: 3 September 2011, [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf]], JT)</span>
+<span style="font-size: 17.3333px;">For nearly 60 years, the US has </span>
+AND
+<span style="font-size: 17.3333px;">responsive capabilities at the operational and tactical levels</span>**<span style="font-family: Calibri; font-size: 10.6667px;">.</span>**
+
+
+
+**Contention 3 is Solvency-**
+
+**Technology exists for ORS, it’s a question of adopting it**
+<span style="font-size: 16px;">Wertz, 8</span><span style="font-size: 10.6667px;"> - president of Microcosm, a space technology small business in Los Angeles, and the general chairman for the first five Responsive Space Conferences (James, “It’s time to get our ORS in gear,” The Space Review, 1/7, [[http://www.thespacereview.com/article/1032/1]])</span>
+<span style="font-size: 17.3333px;">Does the technology exist to do ORS? </span>
+<span style="font-size: 10.6667px;">AND </span>
+<span style="font-size: 10.6667px;">April 28–May 1 in Los Angeles.)</span>
+
+
+
+**Investment is ORS will accelerate small satellite technology**
+<span style="font-size: 16px;">Felt 10-</span><span style="font-size: 10.6667px;"> Lt Col Eric J. Felt, PhD, Electrical Engineering and Computer Sciences, University of California, Berkeley, commander of the Space Test Operations Squadron, Space Test Group, Space Development and Test Wing, Kirtland AFB, New Mexico, May 2010, “Responsive Space Funding Challenges and Solutions: Avoiding a Tragedy of the Commons,” </span>//<span style="font-family: Calibri; font-size: 10.6667px;">High Frontier Journal</span>//<span style="font-size: 10.6667px;">, pg 27-32, http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA521878&Location=U2&doc=GetTRDoc.pdf</span>
+<span style="font-size: 17.3333px;">Technology advances making small satellites more</span>
+AND
+<span style="font-size: 17.3333px;">responsive space systems will further accelerate</span><span style="font-size: 10.6667px;">.</span>
+
+==1AC Golden Desert== 
+**<span style="font-size: 14pt;">Advantage 1 is Deterrence</span>**
+
+**<span style="font-size: 14pt;">Current vulnerabilities in US space assets invite attacks from multiple adversaries—a broad deterrence strategy beyond the threat of retaliation is necessary to defend against different military doctrines.</span>**
+<span style="font-size: 12pt;">Rendleman 10</span><span style="font-family: Calibri; font-size: 11pt;"> (James, Col in US Air force, Astropolitics 8(220), “A Strategy for Space Assurance,” Ebsco, JT)</span>
+
+<span style="font-family: Calibri; font-size: 8pt;">The 11 January 2007 test of a Chinese </span>
+<span style="font-family: Calibri; font-size: 8pt;">AND </span>
+<span style="font-family: Calibri; font-size: 8pt;">to counter new 21st Century adversary attack capabilities</span><span style="font-family: Calibri; font-size: 11pt;">.</span>
+
+**<span style="font-size: 14pt;">Space attacks are inevitable in the status quo because of reliance on space for terrestrial warfare. </span>**
+<span style="display: block; text-align: left;"><span style="display: block; text-align: left;"><span style="font-size: 12pt;">Smith 11</span>(M.V., Colonel, PhD in Politics and IR @ University of Reading, Citing Colin Gray, “Chapter 17: Security and Spacepower, Part of “Toward a Theory of Spacepower,” Edited by Charles Lutes and Peter Hays, National Defense University Press, <span style="color: windowtext; text-decoration: none;">[[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]]</span>)</span></span>
+
+<span style="font-size: 13pt;">It is a rule in strategy, one </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">once or stretch them slowly over time</span><span style="font-size: 8pt;">.21 </span>
+
+**<span style="font-size: 14pt;">40 countries are on the brink of space weapons – the US must act now to guarantee safe access to space and prevent conflict.</span>**
+<span style="font-size: 12pt;">Donahue 10</span>(Jack, Major in USAF, April, “CATASTROPHE ON THE HORIZON: A SCENARIO-BASED FUTURE EFFECT OF ORBITAL SPACE DEBRIS,” <span style="color: windowtext; text-decoration: none;">[[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_af691818-359f-4999-be24-f88ca154bd94/display.aspx?rs=enginespage]]</span>, accessed: 2 September 2011)
+
+<span style="font-family: Calibri; font-size: 8pt;">Currently, the configuration of global space technologies </span>
+<span style="font-family: Calibri; font-size: 8pt;">AND </span>
+<span style="font-family: Calibri; font-size: 8pt;">) and becoming potential hazards to other satellites.</span>
+
+**<span style="font-size: 14pt;">Specifically, the Chinese are rapidly building up military capabilities in space and plan to attack US space assets</span>**
+<span style="font-size: 12pt;">Day 11/14</span> (Dwayne A. Day, works for the Space Studies Board of the National Research Council/National Academy of Sciences, received a doctorate degree in political science from The George Washington University, writer for The Space Review, Monday, November 14, 2011, “Staring into the eyes of the Dragon,” http://www.thespacereview.com/article/1970/1)
+<span style="font-size: 13pt;">Last Wednesday China launched an observation satellite. </span>
+AND
+are inheriting the same vulnerabilities as the Americans.
+
+**<span style="font-size: 14pt;">The PLA is more likely to initiate a space attack in a crisis because of miscalculation and instability. </span>**
+<span style="font-size: 12pt;">MacDonald 11</span>(Bruce, Sen Dir Nonproliferation and Arms Control Program@U.S. Institute of Peace, May 11, “MILITARY AND CIVIL SPACE PROGRAMS IN CHINA,” Testimony before congress, accessed: 5 September 2011, LexisNexis)
+
+<span style="font-size: 13pt;">One characteristic of too many wars in the </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">for crisis and conflict</span><span style="font-size: 8pt;">in the years ahead.</span>
+
+**<span style="font-size: 14pt;">Conflict causes a US-China nuclear war. </span>**
+<span style="font-size: 12pt;">Forden 8</span>(Geoffrey, PhD and Research Associate at MIT, “How China Loses the Coming Space War (Pt. 2),” 1/10, <span style="color: windowtext; text-decoration: none;">[[http://www.wired.com/dangerroom/2008/01/inside-the-ch-1/]]</span>,)
+
+<span style="font-size: 13pt;">The United States has</span><span style="font-family: Calibri; font-size: 8pt;">five </span><span style="font-size: 13pt;">satellites</span><span style="font-family: Calibri; font-size: 8pt;">in geostationary </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">a </span>//<span style="font-size: 13pt;">nuclear war</span>//<span style="font-size: 13pt;"> without a clear military goal. </span>
+**<span style="font-size: 14pt;">This escalates to extinction </span>**
+<span style="font-size: 12pt;">Cheong 2k</span>(Ching, Senior Writer at the Strait Times, “No one gains in a war over Taiwan,” June 25th, Lexis)
+
+<span style="font-family: Calibri; font-size: 8pt;">THE high-intensity scenario postulates</span><span style="font-size: 13pt;">a cross</span>
+<span style="font-family: Calibri; font-size: 8pt;">AND </span>
+<span style="font-family: Calibri; font-size: 8pt;">,</span><span style="font-size: 13pt;">we would see the</span>//<span style="font-size: 13pt;">destruction of civilization</span>//<span style="font-size: 11pt;">.</span>
+
+**<span style="font-size: 14pt;">Independently, perceived vulnerability causes the US to preemptively strike China—that escalates</span>**
+
+<span style="font-size: 12pt;">Tellis, 7</span>(Ashley, Senior Associate at Carnegie, Survival, Autumn, “China’s Military Space Strategy”, ingenta)
+
+<span style="font-size: 8pt;"> Finally, </span><span style="font-size: 13pt;">the growing Chinese capability for </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">added complications of accidents and further misperception</span><span style="font-size: 8pt;">.96</span>
+
+**<span style="font-size: 14pt;">Current deterrent strategies aren’t enough. Other countries will keep developing satellites better tech- only Nanotechnology creates assured deterrence for decades to come</span>**
+<span style="font-size: 12pt;">Colon 10</span> (Miguel, Lt Col in USAF – deputy commander of Space Group responsible for testing space and missle weapon systems, “Deterrence 2035 – The Role of Transparency and Diversity in a World of Nanosats,” <span style="color: windowtext; text-decoration: none;">[[https://www.afresearch.org]]</span>, JT)
+
+<span style="font-size: 8pt;">A New Approach to Space Deterrence The book </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">dictate </span>//<span style="font-size: 13pt;">not to attack</span>//<span style="font-size: 8pt;">; effectively deterring him.</span>
+
+**<span style="font-size: 14pt;">And the deterrent nanotech provides also prevents weaponization of space</span>**
+<span style="font-size: 12pt;">Schendzielos 8</span><span style="font-size: 8pt;"> – </span>major in the USAF,
+//<span style="font-size: 13pt;">AND </span>//
+//<span style="font-size: 13pt;">and lasting prohibitions</span>//<span style="font-size: 13pt;"> against ASATs and </span>//<span style="font-size: 13pt;">space weapons</span>//<span style="font-size: 13pt;">.</span>
+
+**<span style="font-size: 14pt;">Unchecked, the weaponization of space causes miscalculation leading to nuclear and biological warfare</span>**
+<span style="font-size: 12pt;">Mitchell 1</span> [Gordon R., Member of the Center for Strategic and International Studies Working Group on Theater Missile Defenses in the Asia-Pacific Region., Winter “Japan-U.S. Missile Defense Collaboration: Rhetorically Delicious, Deceptively Dangerous”, **http://www.pitt.edu/~gordonm/JPubs/JapanTMD.pdf**]
+<span style="font-size: 8pt;">Any clear-cut distinction between offensive and </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">into the most destructive military conflict ever seen.</span>
+
+**<span style="font-size: 14pt;">Infinite number of ‘root causes’ means only deterrence solves—only deterrence theory meets empirical standards</span>**
+
+<span style="font-size: 12pt;">Moore 4</span><span style="font-size: 8pt;">– Dir. Center for </span>
+<span style="font-size: 8pt;">AND </span>
+<span style="font-size: 8pt;">an at least modest contribution to its goal.</span>
+
+
+**<span style="font-size: 14pt;">Advantage 2 is Hegemony</span>**
+**<span style="font-size: 14pt;">Nanotech facilitates continued US dominance in war fighting technology and communication</span>**
+Eva S. <span style="font-size: 12pt;">Jenkins </span>3/18/20<span style="font-size: 12pt;">09 </span>– Colonel; Vice Commander of the Air Force Technical Applications Center, Patrick Air Force Base, Fla; B.S. in mathematics at University of Miami; winner of the Defense Meritorious Service Medal with two oak leaf clusters, Meritorious Service Medal with one oak leaf cluster, Joint Service Achievement Medal Air Force Commendation Medal with oak leaf cluster
+
+<span style="font-size: 13pt;">The U.S. is at a </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">space viability and dominance</span><span style="font-size: 8pt;"> in 2035 and beyond.</span>
+
+**<span style="font-size: 14pt;">Information and technological superiority is critical to sustaining hegemony.</span>**
+<span style="font-size: 12pt;">Baines 5- </span><span style="font-size: 8pt;">Philip J, Senior Advisor, Science and Technology, Non-Proliferation, Arms Control and Disarmament Division, Department of Foreign Affairs, United Nations Institute of Disarmament Research, March 21-22 2005, “Safeguarding Space Security: Prevention of an Arms Race in Outer Space” kms1.isn.ethz.ch/.../Files/.../2005_SafeguardingSpaceSecurity-full.pdf</span>
+<span style="font-size: 8pt;">This leads to an argument that </span><span style="font-size: 13pt;">outer space </span>
+<span style="font-size: 8pt;">AND </span>
+<span style="font-size: 8pt;">against an opposing space-based weapon deployment. </span>
+
+
+**<span style="font-size: 14pt;">Nanotechnology also maintains global competitiveness and US space dominance</span>**
+Eva S. <span style="font-size: 12pt;">Jenkins </span>3/18/20<span style="font-size: 12pt;">09 </span>– Colonel; Vice Commander of the Air Force Technical Applications Center, Patrick Air Force Base, Fla; B.S. in mathematics at University of Miami; winner of the Defense Meritorious Service Medal with two oak leaf clusters, Meritorious Service Medal with one oak leaf cluster, Joint Service Achievement Medal Air Force Commendation Medal with oak leaf cluster
+Global Competitors. To date <span style="font-size: 13pt;">over 60 nations</span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">future in space will look like is paramount.</span>
+**<span style="font-size: 14pt;">Space dominance is key to maintaining hegemony</span>**
+<span style="font-size: 12pt;">Young 8</span> (A. Thomas, chairman of Institute for Defense Analysis, July, “Leadership, Management, and Organization for National Security Space,” accessed: 4 September 2011, <span style="color: windowtext; text-decoration: none;">[[http://dodreports.com/pdf/ada486551.pdf]]</span>, JT)
+<span style="font-size: 8pt;">Today, </span><span style="font-size: 13pt;">U.S. leadership in </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">are predicated upon</span><span style="font-size: 8pt;"> the availability of </span><span style="font-size: 13pt;">space capabilities</span><span style="font-size: 8pt;">.</span>
+
+
+**<span style="font-size: 14pt;">The impact is massive transition wars across the globe that lead to extinction</span>**
+<span style="font-size: 12pt;">Brzezinski 5</span><span style="font-family: Calibri; font-size: 10pt;">(Zbigniew National Security Advisor in the Carter Administration, Professor of Foreign Policy at Johns Hopkins University, “The Choice: Global Domination or Global Leadership”, p. 2-4) </span>
+<span style="font-family: Calibri;">History is a record of change, a </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">common effort to shape a secure international environment.</span>
+
+**<span style="font-size: 14pt;">American leadership solves nuclear wars in every region</span>**
+<span style="font-size: 12pt;">Khalilzad 11</span> (Zalmay, previous US ambassador to Afghanistan/Iran/UN now counselor@CSIS, February 8, “The Economy and National Security,” The national Review Online, <span style="color: windowtext; text-decoration: none;">[[http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad?page=2]]</span>, JT)
+
+<span style="font-size: 8pt;">We face this domestic challenge while other major </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">most significant barrier facing Chinese hegemony and aggression</span><span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 14pt;">And, realism and power politics are inevitable – this means the United States will inevitably act to ensure its own security and so will foreign powers – the only question is whether we can back it up</span>**
+<span style="font-size: 12pt;">Mearsheimer 5</span> (John, poli sci@U of Chicago, “The Rise of China will not be peaceful at all,” The Australian, 18 November, LexisNexis, JT)
+
+<span style="font-size: 8pt;">The question at hand is simple and profound</span>
+<span style="font-size: 8pt;">AND </span>
+<span style="font-size: 8pt;">, the only great power in the system. </span>
+
+
+**<span style="font-size: 14pt;">Plan Text</span>**
+**<span style="font-size: 14pt;">Thus the plan: The United States Department of Defense should substantially increase its deployment of nanotechnology capabilities beyond the earth’s mesosphere.</span>**
+
+**<span style="font-size: 14pt;">Solvency</span>**
+**<span style="font-size: 14pt;">Nanotechnology use in space is inevitable- only further US government investment now ensures US dominance and the long-term effectiveness of space assets.</span>**
+Eva S. <span style="font-size: 12pt;">Jenkins </span>3/18/20<span style="font-size: 12pt;">09 </span>– Colonel; Vice Commander of the Air Force Technical Applications Center, Patrick Air Force Base, Fla; B.S. in mathematics at University of Miami; winner of the Defense Meritorious Service Medal with two oak leaf clusters, Meritorious Service Medal with one oak leaf cluster, Joint Service Achievement Medal Air Force Commendation Medal with oak leaf cluster (NANOTECHNOLOGY – ENABLING FUTURE SPACE VIABILITY)
+
+<span style="font-size: 8pt;">It is hard to imagine life in the </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">. Space is the frontier of the future</span><span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 14pt;">Nanotechnology is an essential component in future US space projects- we have the tech, the government just needs to jump on board</span>**
+<span style="font-size: 12pt;">Rustan 07</span> (Dr. Pete Rustan, Director, Advanced Systems and Technology, National Reconnaissance Office, May 2007, “Developing and Maintaining the Innovative Edge,” pg 7, //The High Frontier//, http://www.afspc.af.mil/shared/media/document/AFD-070524-021.pdf)
+Nanotechnology and Miniature Components In addition to the
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">improved capabilities to the military and intelligence communities.</span>
+
+**<span style="font-size: 14pt;">Military development of nanotech prevents unregulated use</span>**
+<span style="font-size: 12pt;">Reynolds, 2002</span> <span style="font-size: 8pt;">(Glenn Harlan, prof of law @ Univ of Tennessee College of Law - graduate of Yale Law School. "Forward to the Future: Nanotechnology and Regulatory Policy" Pacific Research Institute November 2002)</span>
+
+PAINT IT BLACK <span style="font-size: 13pt;">One approach short of prohibition </span>
+AND
+might similarly be induced to love Big Brother.
+
+
+==1AC Berkeley== 
+**Observation One: A Failure of Imagination**
+**War is normal and inevitable – our history is one of wars – between 2 and 3 per year for all of human history. But we misrepresent and distort the significance of war as victory, instead war’s meaning lies in the battle itself.**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">During the 5,600 years of written </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">the war, but by the battle itself.</span>
+
+**Our American consciousness cannot comprehend the love of battle- our hatred for war and our desire for wars for the sake of peace cause us to commit violence against even war itself**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">Our American consciousness has extreme difficulty with Mars</span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">, overkill as a way to end war.</span>
+
+**Modern society conflates civil and military archetypal perspectives- this masking of war causes us to erupt violently in our never-ending quest against delusional enemies**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">Our immigrant dream of escape</span><span style="font-family: Calibri;"> from conscription into </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">, and as paranoid defenses against delusional enemies</span><span style="font-family: Calibri;">.</span>
+
+**The imagination of war without the imagination of the spiritual and the mythical results in dangerous literalism- making war and apocalypse more likely**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">We do not know much nowadays about imagining </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">his warriors to separate themselves from his dominion.</span>
+
+**War is the primary psychological task that shapes all of our notions about society. Unless we come to terms with the war in each of us, our desire for war will lash out and push us closer and closer to annihilation.**
+<span style="font-size: 12pt;">Hillman 04</span><span style="font-family: Calibri;"> (James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 1-3)</span>
+<span style="font-size: 13pt;">One sentence in one scene from one film</span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">. That is the purpose of this book.</span>
+
+
+**Observation Two: Dropping the Bomb**
+**The current U.S. production of space is one of control- space is utilized as a way to maintain order and sanitize war**
+<span class="StyleStyleBold12pt">Orr, 4</span><span style="font-family: Calibri; font-size: 6pt;"> – Professor of Sociology at Syracuse University (Jackie, The Militarization of Inner Space, Critical Sociology, Sage Journals)</span>
+<span style="font-size: 13pt;">“[Every American is a soldier” now</span>
+**__<span style="font-family: Calibri;">AND </span>__**
+**__<span style="font-family: Calibri;">of civil society for</span>__**<span style="font-size: 13pt;">the production of</span>//<span style="font-size: 13pt;">violence.</span>//
+
+**The movement of war up into space doesn’t engage our desire to fight- we view war as a curable affliction**
+<span style="font-size: 12pt;">Hillman 04</span><span style="font-family: Calibri; font-size: 10pt;"> (James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 90-92)</span>
+<span style="font-family: Calibri; font-size: 10pt;">Why dwell on this archaic god of war </span>
+<span style="font-family: Calibri; font-size: 10pt;">AND </span>
+<span style="font-family: Calibri; font-size: 10pt;">and maneuvers of the mind would be enough.</span>
+
+
+**This rejection of war has pushed the martial into the nuclear- we cannot think of war without thinking about the bomb**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-family: Calibri;">So far </span><span style="font-size: 13pt;">I have been stressing the distinction </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">trains, hedgerows, bad weather, impedimenta</span><span style="font-family: Calibri;">.</span>
+
+**This nuclear imagination results in psychic numbness and the destruction of the soul**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">Quite different is the transcendent experience of the </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">those same, not their own, Gods?</span>
+
+**A destroyed psyche is the root of all violence. Genocide and extinction are the end result of a soulless understanding of the world.**
+<span style="font-family: Calibri;">Walter A. </span><span style="font-size: 12pt;">Davis in 2001</span><span style="font-family: Calibri;"> (//Deracination: Historicity, Hiroshima, and the Tragic Imperative.// State Univesrity of New York Press, p. 95-96)</span>
+<span style="font-size: 13pt;">It is never enough</span><span style="font-family: Calibri;"> however. Inner discord </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">ghostly articulation in Kant’s struggle with the sublime. </span>
+
+
+**Observation Three: The Role of the Ballot**
+**A) Psyche first**
+**The psyche exists and comes first – it shapes our understanding of the world – everything depends on it. The resolution should only be evaluated on its psychological qualities.**
+<span style="font-size: 12pt;">Jung 06</span><span style="font-family: Calibri;"> (Carl G., renowned scholar of psychoanalysis and founder of the Jung Institute, __The Undiscovered Self__, New American Library, New York, 81-83)</span>
+<span style="font-size: 13pt;">For more than fifty years we have known</span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">observed every day and can happen to everyone.</span>
+==== ==== 
+**Refusing to operate on the terrain of the psyche ensures a loss of soul. This state of dehumanization destroys any meaning to life and risks death.**
+<span style="font-size: 12pt;">Hillman 1990</span><span style="font-family: Calibri;"> (James, has written dozens of critically acclaimed books, received his PhD from the </span><span style="color: windowtext; font-family: Calibri; text-decoration: none;">[[http://en.wikipedia.org/wiki/University_of_Zurich|University of Zurich]]</span><span style="font-family: Calibri;">, and is a retired Director of the Jung Institute, “A Blue Fire”, //a blue fire//, Routledge; 1 edition p. 17-18)-mikee</span>
+<span style="font-family: Calibri;">Anthropologists describe a condition among "primitive" </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">"modern man in search of a soul</span><span style="font-family: Calibri;">."</span>
+
+**<span style="font-family: Calibri; font-size: 14pt;">B) Our interpretation:</span>**
+
+**<span style="font-family: Calibri; font-size: 14pt;">The judge should endorse the best psychological approach to the resolution.</span>**
+
+**<span style="font-family: Calibri; font-size: 14pt;">This necessarily requires affirmation. It requires saying ‘yes’ to Mars, ‘yes’ to exploration, and ‘yes’ to the topic itself.</span>**
+
+**<span style="font-family: Calibri; font-size: 14pt;">Therefore, we psychologically and emphatically affirm the text:</span>**
+
+**<span style="font-family: Calibri; font-size: 14pt;">The United States federal government should substantially increase its exploration of Mars.</span>**
+
+**<span style="font-family: Calibri; font-size: 14pt;">All we have in this debate space is our imagination and our relationships. The ballot is the most tangible form of relating and it signifies an endorsement of the best types of relationships. If we win our plan is psychologically beneficial, you should vote aff.</span>**
+
+**C) Solvency**
+**Every ancient culture has associated the red planet with its god of war. Even our modern name for this planet invokes the Roman god who ruled over the battlefield**
+<span class="StyleStyleBold12pt">Cochrane 97</span><span style="font-family: Calibri;"> (Ev Cochrane, the publisher of Aeon, and the author of several books, and numerous articles on comparative mythology and archaeoastronomy, associate editor of Kronos, October 1997, //Martian Metamorphoses: The Planet Mars in Ancient Myth and Religion//, Preface</span>
+<span style="font-size: 13pt;">Earthlings have long been fascinated by the planet </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">with the cycle of myths associated with Heracles.</span>
+
+**We need to look again at Mars and revaluate our relationship to war- love and war, Venus and Mars, are not alternatives but inextricably bound together**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-size: 13pt;">Love and war have traditionally been coupled in </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">Achilles on which is engraved the whole world</span><span style="font-family: Calibri;">.</span>
+
+**Only by embracing Mars, by entering into its archetypal image, can we ever prevent the worst forms of war. We cannot solve our problems by avoiding them, but we need to sympathetically imagine them.**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin)</span>
+<span style="font-family: Calibri;"> I seem to have been making a </span>
+<span style="font-size: 13pt;">AND </span>
+<span style="font-size: 13pt;">images: the magic of sacred protection</span><span style="font-family: Calibri;">. 3</span>
+
+I**nvoking Mars, the god of awakenings, is the only way to cut through the thicket in our numbed minds**
+<span class="StyleStyleBold12pt">Hillman 87 </span><span style="font-family: Calibri;">(James, A Founding Fellow of the Dallas Institute of Humanities and Culture, “Wars, Arms, Rams, Mars: On the Love of War,” in Facing Apocalypse edited by Valerie Andrews, Robert Bosnak, Karen Goodwin) </span>
+<span style="font-size: 13pt;">My thoughts have been intended to regain </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">into plowshares, hammered, twisted, wrought.</span>
+
+**D) Our Method**
+**The negative will attempt to map out the topic and psychologically attempt to silence the soul within the topic by trying to empiricize and literalize it, looking at implementation, and attempting to get the upper hand. The entire ethos of traditional debate is one that tries to fix, control, and cure the symptoms and problems in the world instead of being open to the world as it presents itself. This is the plan of archetypal psychology: to explore our deep psychological commitments and affirm our most terrorizing images of the world**
+<span style="font-size: 12pt;">Hillman 1990</span><span style="font-family: Calibri;"> (James, has written dozens of critically acclaimed books, received his PhD from the </span><span style="color: windowtext; font-family: Calibri; text-decoration: none;">[[http://en.wikipedia.org/wiki/University_of_Zurich|University of Zurich]]</span><span style="font-family: Calibri;">, and is a retired Director of the Jung Institute, “A Blue Fire”, //a blue fire//, Routledge; 1 edition p. 10-11)-mikee</span>
+<span style="font-family: Calibri;">Hillman's later essays flash with the passion he </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">of soulful work, love, and play. </span>
+<span style="font-size: 13pt;">our commitment to allies and friends</span><span style="font-family: Calibri;">, underwrites regional stability, gains us familiarity with overseas operating environments, promotes combined training among the forces of friendly countries and provides timely initial response capabilities.</span>
+
+**To explore is to is to be open to, or to stand in wonder of. By entering into the image of Mars and discovering its archetypal qualities, we can metaphorically empower our conception of the red planet**
+<span style="font-size: 12pt;">Hillman 1990</span><span style="font-family: Calibri;"> (James, has written dozens of critically acclaimed books, received his PhD from the </span><span style="color: windowtext; font-family: Calibri; text-decoration: none;">[[http://en.wikipedia.org/wiki/University_of_Zurich|University of Zurich]]</span><span style="font-family: Calibri;">, and is a retired Director of the Jung Institute, “A Blue Fire”, //a blue fire//, Routledge; 1 edition p. 24-26)-mikee</span>
+<span style="font-family: Calibri;">Te use of allegory as a defense continues </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">in Whitehead's sense), a word that values.</span>
+
+
+== == 
+=Negative= 
+==Politics== 
+**Golden Desert- Payroll**
+**Berkeley- Jackson Vanick**
+==Disadvantages== 
+**Space Cooperation**
+**Colonization**
+
+==Hillman K== 
+**A) Framework**
+**The psyche exists and comes first – it shapes our understanding of the world – everything depends on it**
+<span style="font-size: 16px;">Jung 57 </span><span style="font-family: Calibri;">(Carl G., renowned scholar of psychoanalysis and founder of the Jung Institute, __The Undiscovered Self__, New American Library, New York, 81-83)</span>
+<span style="font-size: 17.3333px;">For more than fifty years we have known</span>
+<span style="font-family: Calibri; font-size: 13.3333px;">AND </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">observed every day and can happen to everyone.</span>
+
+**B) War is normal and inevitable – our history is one of wars – between 2 and 3 per year for all of human history**
+<span style="font-size: 16px;">Hillman 04</span><span style="font-family: Calibri; font-size: 13.3333px;"> (James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 17-18)</span>
+<span style="font-size: 17.3333px;">Halt! Is war abnormal? I find </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">AND </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">societies-</span><span style="font-size: 17.3333px;">commemorate the salvational aspect of battle</span><span style="font-family: Calibri; font-size: 13.3333px;">.</span>
+
+**C) Link: Modern warfare exchanges the battlefield for distant command centers where the enemy can be eliminated with the push of a button – this doesn’t engage our desire to fight - instead of hating war we should embrace it – only then can we repair the psyche**
+<span style="font-size: 16px;">Hillman 04</span><span style="font-family: Calibri; font-size: 13.3333px;"> (James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 90-92)</span>
+<span style="font-family: Calibri; font-size: 13.3333px;">Why dwell on this archaic god of war </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">AND </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">and maneuvers of the mind would be enough.</span>
+
+**D) Impacts**
+**Peace is merely the absence of war – it leaves us in a state of psychic numbness**
+<span style="font-size: 16px;">Hillman 04 </span><span style="font-family: Calibri;">(James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 30-31)</span>
+<span style="font-size: 17.3333px;">The worst of war is that it ends </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">AND </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">offended Jesus that he declared for a sword.</span>
+
+**And, that takes out the soul – humans become hollow beings that can’t relate to the world around us**
+<span style="font-family: Calibri;">Walter A</span><span style="font-size: 16px;"> Davis in 2001</span><span style="font-family: Calibri;"> (//Deracination: Historicity, Hiroshima, and the Tragic Imperative.// State Univesrity of New York Press, p. 95-96)</span>
+<span style="font-size: 17.3333px;">It is never enough</span><span style="font-family: Calibri;"> however. Inner discord </span>
+<span style="font-family: Calibri;">AND </span>
+<span style="font-family: Calibri;">ghostly articulation in Kant’s struggle with the sublime. </span>
+
+**E) The alternative is to love war.**
+**Instead of going to war in the name of peace, we should enter war for war’s own sake. This means setting aside our fear and distaste for conflict so we can imagine ourselves embroiled in beautiful strife.**
+**Also, the alternative comes first and is a prerequisite to aff solvency because war is the primary psychological task that shapes all of our notions about society – unless we come to terms with the war in each of us, our desire for war will lash out and push us closer and closer to annihilation.**
+<span style="font-size: 16px;">Hillman 04</span><span style="font-family: Calibri; font-size: 13.3333px;"> (James, retired Director of the Jung Institute, “A Terrible Love of War”, The Penguin Press, ISBN 1-59420-011-4, pgs 1-3)</span>
+<span style="font-family: Calibri; font-size: 13.3333px;">One sentence in one scene from one film</span>
+<span style="font-family: Calibri; font-size: 13.3333px;">AND </span>
+<span style="font-family: Calibri; font-size: 13.3333px;">. That is the purpose of this book.</span>
+
+== ==

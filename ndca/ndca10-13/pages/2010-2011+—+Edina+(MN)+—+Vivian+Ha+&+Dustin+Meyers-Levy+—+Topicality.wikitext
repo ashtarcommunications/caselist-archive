@@ -1,0 +1,160 @@
+[[toc]]
+[[2010-2011 — Edina (MN) — Vivian Ha & Dustin Meyers-Levy|Main page]]
+=Topicality= 
+
+==ASPEC== 
+
+===Long Shell=== 
+
+They don't specify a branch of the USFG - that's a voting issue for fairness and education - we lose agent-specific disads and CPs, and specific education is predicated off of the agent
+==T - Non-Combat== 
+
+
+**A. Interpretation - Presence requires regular, non-combat activities – forces engaged in combat or one-time noncombat missions aren’t part of U.S. presence**
+**Thomason, 2** – Project Leader, Institute for Defense Analysis (James, “Transforming US Overseas Military Presence: Evidence and Options for DoD,<span style="font-family: Calibri,sans-serif;">”</span> July, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.1144&rep=rep1&type=pdf 
+
+<span style="font-family: Times,serif; font-size: 12pt;">WHAT IS OVERSEAS MILITARY PRESENCE? </span>
+Our working definition of US overseas military... ...__evolving security operation or contingency should call for them__<span style="font-family: Times,serif; font-size: 12pt;">.</span>
+
+**B. Violation** – **the aff ends combat missions, not presence missions.**
+
+**C. Voting issue -**
+
+**1. limits – allowing combat missions allows affs to change specific strategies in Afghanistan or Iraq, like ending cluster bombing without actually reducing forces themselves, it explodes the literature base**
+
+**2. negative ground – presence missions are about deterrence and reassurance – including combat missions avoids core negative disads**
+
+
+==T its== 
+
+===1NC=== 
+
+
+**A. Interpretation – its implies ownership**
+**Glossary of English Grammar Terms, 2005**
+(<span style="color: black;">http://www.usingenglish.com/glossary/possessive-pronoun.html</span>) 
+
+<span style="color: black;">Mine, yours, his, hers, __<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">its</span>__, ours, theirs __are__ the __<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">possessive</span>__ pronouns __<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">used t</span>o substitute a__ noun __and to <span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">show possession</span> or ownership.__ </span>
+<span style="color: black;">EG. This is your disk and that's mine. (Mine substitutes the word disk and shows that it belongs to me.) </span>
+
+**Military means belonging to the armed forces**
+**Cambridge Advanced Learner’s Dictionary, 10** (http://dictionary.cambridge.org/dictionary/british/military_1) 
+
+__<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">military</span>__ adjective 
+relating to or __<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">belonging to the armed forces</span>__
+//foreign military intervention//
+
+
+**B. Violation –** private military contractors aren’t owned by the government, they are independent 
+
+**C. Voting issue –**
+
+1. limits – including PMCs doubles our Iraq and Afghanistan research, and it’s a huge, entirely separate body of research that risks overstretch 
+
+2. negative ground – few of our generic disads to presence apply to PMCs, because the aff maintains all normal US presence
+
+
+===2NC Overview=== 
+
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Private contractors are distinct entities from the federal government </span>**
+**Barbier, 7** – US District Judge (Carl, TIEN VAN COA, ET AL VERSUS GREGORY WILSON, ET AL CIVIL ACTION NO: 07-7464 SECTION: J(1) UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA 2007 U.S. Dist. LEXIS 87653, lexis) 
+
+As to federal question jurisdiction, Defendants... ...see also <span style="color: black;">Powell v. U.S. Cartridge Co., 339 U.S. 497, 70 S. Ct. 755, 94 L. Ed. 1017 (1950)</span>.
+
+
+
+
+==T - in=throughout== 
+
+
+**Interpretation: The word ‘in’ means throughout**
+**Words and Phrases, 8** (Permanent Edition, vol. 20a, p. 207) 
+
+<span style="color: #0d0d0d;">Colo. 1887. In the Act of 1861 providing that justices of the peace shall have jurisdiction “in” their respective counties to hear and determine all complaints, __<span style="background-attachment: initial; background-clip: initial; background-color: yellow; background-image: initial; background-origin: initial; background-position: initial initial; background-repeat: initial initial;">the word “in” should be construed to mean “throughout</span>”__ such counties. Reynolds v. Larkin, 14, p. 114, 117, 10 Colo. 126. </span>
+
+<span style="tab-stops: 246.75pt;">**Violation: the aff only removes military presence from one area in a topic country.** </span>
+
+<span style="tab-stops: 246.75pt;">**Reasons to prefer:** </span>
+<span style="tab-stops: 246.75pt;">**Limits – their interpretation justifies affs that remove one base or presence from one area of a country** </span>
+
+<span class="Underline">**Ground – kills link to core disads like deterrence and alliance – neg ground is vital to preserve on such a large topic** </span>
+
+==<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.1em; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">**T - Substantial**</span>== 
+
+
+
+**A. Interpretation – presence refers to the totality of US military power in a country**
+**Blechman et al, 97** – President of DFI International, and has held positions in the Department of Defense, the U.S. Arms Control and Disarmament Agency, and the Office of Management and Budget (Barry, Strategic Review, Spring, “Military Presence Abroad in a New Era: The Role of Airpower,” p. 14)
+
+The highly complex nature of military presence… …the requisite infrastructure and sustainment capabilities.”2
+
+**A substantial reduction in presence requires at least a 50% decrease**
+**Comprehensive Base Closure Reform and Recovery Act, 92** (1992 H.R. 4421 ; 102 H.R. 4421, text of the Comprehensive Base Closure Reform and Recovery Act of 1992, introduced by Olympia Snowe, lexis)
+
+TITLE I-ENVIRONMENTAL RESTORATION AT MILITARY… …reassigned and moved to another installation.
+
+**B. Violation – the affirmative is a minor reduction in presence**
+
+**C. Voting issue –**
+
+**1. limits – the aff allows countless variations of small affs like reducing a single type of intelligence gathering or a covert op in Afghanistan or arms sales to Japan**
+
+**2. negative ground – topic disads don’t link to minor modifications, and generic ground is vitally important to protect since there are 6 different countries with diverse literature bases**
+
+
+
+==<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.1em; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">**[[#Negative-Topicality-T - Presence]]T - Presence**</span>== 
+
+
+===<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.066em; font-weight: normal; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">[[#Negative-Topicality-T - Presence-1NC]]1NC</span>=== 
+
+**A Interpretation-Substantially means including the main part**
+**Words and phrases, 1964, p. 818.**
+“Substantially” means in substance; __in the main__; essentially; by including the material or essential part.
+
+**B. Presence requires stationing forces within a country**
+**Harmon 3 – [US Army Major William, “The Korean Question: Is There a Future for Forward-Based American Forces in a Unified Korea?] ” <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; color: black; padding-right: 10px;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA415880&Location=U2&doc=GetTRDoc.pdf]]</span>) (All bolding is in the original)**
+__In <span style="background-color: yellow;">American</span>__<span style="font-size: 8pt;"> security writings and </span>__military doctrine… …__<span style="font-size: 8pt;">by the engagement </span>__and <span style="background-color: yellow;">visibility of the forces</span>__<span style="font-size: 8pt;">. </span>
+
+**C. Violation- The Aff removes weapons, not personnel**
+
+**D. Reject the team**
+
+**1. Limits – allows for an explosion of small unpredictable affirmatives that the United States uses – also allows for utilization in other countries that aren’t part of topic literature.**
+
+**2. Ground – links are based off troop and security commitments – that’s key to redeployment and deterrence disadvantages.**
+
+**3. Context – cites a U.S. army major with an intent to define military presence under a resolutional context**
+
+**Topicality is a jurisdictional A Priori issue that determines the relevance of the debate in the first place**
+
+
+
+===<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.066em; font-weight: normal; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">[[#Negative-Topicality-T - Presence-1NR Overview]]1NR Overview</span>=== 
+
+**There are a multitude of topical affirmatives under our interpretation**
+<span style="font-weight: normal;">J.E. </span>**Peterson**<span style="font-weight: normal;">, Ph.D. Fellow at the Foreign Policy Research Institute, Middle East Institute, an Adjunct Fellow at the Center for Strategic and International Studies, worked at the International Institute for Strategic Studies in London, and more. </span>200**8**<span style="font-weight: normal;">. “Foreign Military Presence and its Role in Reinforcing Regional Security: A Double-Edged Sword.” </span>Emirates Center for Strategic Studies and Research. pp. 183-205.<span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; padding-right: 10px;">[[http://www.jepeterson.net/sitebuildercontent/sitebuilderfiles/Foreign_Military_Presence_in_the_Gulf.pdf]]</span>
+
+Table 7.2 <span class="DebateHighlighted"><span style="font-family: Garamond,serif;">Levels of Foreign Military Presence… </span></span>...or irredentist movements; Cuba in Africa
+
+
+
+
+===<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.066em; font-weight: normal; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">[[#Negative-Topicality-T - Presence-AT: Thomason]]AT: Thomason</span>=== 
+
+**Thomason explodes the topic**
+<span class="Heading2Char">Thomason 02</span> -- James S. Thomason, Project Leader with Institute for Defense Analyses, "Transforming US Overseas Military Presence: Evidence and Options for DoD," July 2002, <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; padding-right: 10px;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA415954]]</span>.
+
+
+__This is generally consistent, for example, with… …<span style="background-color: aqua;">co-production of military equipment with other nations</span>.”__
+
+
+
+
+===<span style="border-bottom-color: #cccccc; border-bottom-style: solid; border-bottom-width: 1px; font-size: 1.066em; font-weight: normal; margin: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">[[#Negative-Topicality-T - Presence-AT: Overlimits]]AT: Overlimits</span>=== 
+
+**No Link- Presence can exclude weapons and still include force deployments, training, exercises, drug interdiction, disaster relief, and intelligence gathering.**
+<span class="Heading2Char">Brady 92</span> - Lieutenant Commander, United States Navy (Patrick, “IMPLICATIONS FOR THE U.S. NAVY OF A 50 PERCENT DECREASE IN DEFENSE SPENDING,” <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; padding-right: 10px;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA261766&Location=U2&doc=GetTRDoc.pdf]]</span>)
+
+<span style="font-size: 12pt;">In </span><span style="font-size: 6pt;">this new era of regional threats the need… …</span>__<span style="font-size: 12pt;">reporting vessels involved in terrorist-related activities</span>__

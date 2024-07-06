@@ -1,0 +1,11 @@
+[[toc]]
+=GBN HK 2013-2014= 
+This is our wiki page. We don't do Open Source and I am fed up with dealing with the website and I prefer this much better.
+
+Danny Hensel is the 2A -- hensel.danny@gmail.com
+Jacob Kahn is the 2N -- jacobkahn1@gmail.com
+=Affirmative= 
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

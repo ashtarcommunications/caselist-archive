@@ -1,0 +1,168 @@
+[[toc]]
+=Affirmative= 
+==**Plan**== 
+**<span style="font-family: Georgia; font-size: 13.3333px;">The United States federal government should substantially increase its space-based efforts to survey Near Earth Objects.</span>**
+
+==**Adv 1 – Collision**== 
+
+<span class="StyleBoldUnderline">**Status quo efforts to monitor near-Earth objects are insufficient—dangerous objects are still undiscovered** </span>
+<span style="font-size: 16px;">NRC 2010</span><span class="StyleStyleBold12pt"> (National Research Council Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies,” http://www.nap.edu/catalog.php?record_id=12842)</span>
+<span style="font-size: 16px;">Ground-based telescopes have difficulty …NEO population as possible</span><span style="font-size: 9.33333px;">, especially imminent impactors.</span>
+
+
+**The impact is extinction**
+<span style="font-size: 16px;">McGUIRE 2002</span><span class="StyleStyleBold12pt"> (Bill, Professor of Geohazards at University College London and is one of Britain's leading volcanologists, A Guide to the End of the World, p. 159-168)</span>
+<span style="font-size: 10.6667px;">The Tunguska events pale into insignificance when compared to what happened </span><span style="font-size: 16px;">off the coast of Mexico's Yucatan Peninsula …</span><span style="font-size: 8px;">. sufficient warning we might be able to nudge an asteroid out of the Earth's way but due to its size, high velocity, and sudden appearance, wc could do little about a new comet heading in our direction. </span>
+
+
+**Mass extinction from an asteroid is categorically different than other impacts- kills 100% of humanity and future descendants**
+<span class="StyleStyleBold12pt">Jason G. </span><span style="font-size: 16px;">Matheny</span><span class="StyleStyleBold12pt">- Department of Health Policy and Management, Bloomberg School of Public Health, Johns Hopkins University- 2007, Reducing the Risk of Human Extinction, Risk Analysis. Volume 27, Number 5, </span><span style="font-size: 16px;">2007</span><span class="StyleStyleBold12pt">, http://www.upmc-biosecurity.org/website/resources/publications/2007/2007-10-15-reducingrisk.html</span>
+
+<span style="font-size: 16px;">Even if extinction events are improbable...that threaten 99% of humanity and those that threaten 100%.</span>
+
+
+**Only asteroid strikes cause immediate compound environmental crises—nothing else comes close**
+<span style="font-size: 16px;">CHAPMAN 04</span><span class="StyleStyleBold12pt"> (Senior Scientist at the Southwest Research Institute, Dept. of Space Studies, “the Hazard of near-Earth asteroid impacts on earth”, Earth and Planetary Science Letters 222)</span>
+<span style="font-size: 10.6667px;">I have argued [59] that </span><span style="font-size: 16px;">impacts must be exceptionally more lethal … having left traces in the fossil record.</span>
+
+
+**Even if the timeframe is long it’s irrelevant—we should evaluate impacts in a frame of millennia**
+<span style="font-size: 16px;">VERSCHUUR 1996</span><span class="StyleStyleBold12pt"> (Gerrit, Adjunct Prof of Physics at U of Memphis, Impact: the Threat of Comets and Asteroids, p. 216)</span>
+<span style="font-size: 9.33333px;">There is an even more subtle reason why </span><span style="font-size: 16px;">we are unlikely to take … </span><span style="font-size: 9.33333px;"> that we care that our species will be around for a long time, and that this question is worth thinking about.</span>
+
+
+**Constant asteroid risk means that we only have to be wrong a single time and the human species will end**
+<span style="font-size: 16px;">BARBEE 2009</span><span class="StyleStyleBold12pt"> (4/1, Brent W., BS, Aerospace Engineering degree from UT Austin; MS in Engineering from the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas, Austin specializing in Astrodynamics and Spacecraft Mission Design, currently working as an Aerospace Engineer and Planetary Defense Scientist with the Emergent Space Technologies company in Greenbelt, Maryland, teaches graduate Astrodynamics in the Department of Aerospace Engineering at The University of Maryland, College Park, “Planetary Defense”, </span><span style="color: #000000;">[[http://www.airpower.au.af.mil/apjinternational/apj-s/2009/1tri09/barbeeeng.htm|http://www.airpower.au.af.mil/apjinternational//apj-s/2009/1tri09/barbeeeng.htm]]</span><span class="StyleStyleBold12pt">)//DT</span>
+<span style="font-size: 16px;">It is generally accepted that statistics and probability … we must define the limit for how useful probability theory is in the decision-making process for defense against NEOs.</span>
+
+
+**Even a small asteroid impact is worse than a nuclear explosion**
+<span class="StyleStyleBold12pt">Russell L. </span><span style="font-size: 16px;">Schweickart</span><span class="StyleStyleBold12pt">- Chairman, B612 Foundation- April 07, </span><span style="font-size: 16px;">2004</span><span class="StyleStyleBold12pt">, Astronauts Rusty Schweickart and Ed Lu on deflecting an NEA , Testimony before the U.S. Senate Subcommittee on Science, Technology and Space dealing with defense against asteroid impacts., http://impact.arc.nasa.gov/news_detail.cfm?ID=140</span>
+<span style="font-size: 10.6667px;">First I'd like to thank you for the invitation to speak with you today about this emerging public policy issue of near Earth objects (NEOs) threatening life on Earth. One might have thought…</span><span style="font-size: 16px;"> powerful than the blast from the most powerful nuclear weapon in the current U.S. nuclear arsenal. </span>
+
+
+==[[#_Toc178347692]]Adv 2 – Miscalculation== 
+
+**Small NEOs can be misinterpreted as nuclear explosions – hundreds are still undetected**
+<span style="font-size: 16px;">Norris, 04</span><span class="StyleStyleBold12pt">. (Guy Norris is the award-winning West Coast editor for Flight International, cites an international group of scientists and engineers. March 30, 2004, “Deep impact; How serious a threat do near Earth objects pose, and what is being done to prevent the devastation that a collision would inevitably cause?” lexis)</span>
+Then there are the<span style="font-size: 16px;">smaller NEOs,</span>such as the one that grazed the atmosphere on 18 March, which<span style="font-size: 16px;">have the potential to cause disaster if they are misinterpreted by a tense nation as …</span> help characterise the nature of different NEO types and could also be used to "tag" them with transponders.
+
+
+**Exploding NEOs cause nuclear escalation – only the US has the ability to tell asteroids and nuclear detonations apart.**
+<span style="font-size: 16px;">Munro, 02</span><span class="StyleStyleBold12pt">. (Margaret Munro is an award-winning science correspondent for the National Post, a Canadian newspaper. November 22, 2002, “How small asteroids could trigger nuclear war,” lexis)</span>
+<span style="font-size: 16px;">A leading space scientist is warning that small asteroids from space that detonate like bombs as they crash into …</span><span style="font-size: 10.6667px;">explosion occurred over the South Pacific in February, 1994, releasing between 30 and 70 kilotonnes of energy, more than the bomb dropped on Hiroshima in 1945.</span>
+
+
+**These false alarms happen 30 times a year – will cause escalation between India and Pakistan**
+<span style="font-size: 16px;">Recer, 02.</span><span class="StyleStyleBold12pt"> (Paul is the science writer for the Associated Press. October 4, 2002, “War danger seen from asteroids; Air Force general says blasts could be mistaken for a nuclear attack,” lexis)</span>
+<span style="font-size: 10.6667px;">WASHINGTON - Asteroids regularly explode over the Earth with the intensity of a nuclear bomb and </span><span style="font-size: 16px;">there is a chance the explosions could be …</span><span style="font-size: 10.6667px;"> said telescopes and instruments weighing less than 150 pounds could easily be launched to establish an observing network.</span>
+
+
+**Even a limited nuclear war between India and Pakistan causes extinction**
+<span style="font-size: 16px;">Fox,‘8 </span><span class="StyleStyleBold12pt">(Maggie, April 8, “India-Pakistan Nuclear War Would Cause Ozone Hole” </span>[[http://www.planetark.com/dailynewsstory.cfm/newsid/47829/story.htm]]<span class="StyleStyleBold12pt">)</span>
+<span style="font-size: 10.6667px;">WASHINGTON - </span><span style="font-size: 16px;">Nuclear war between India and Pakistan would cause more than slaughter and destruction -- it … conflict is capable of triggering ozone losses even larger than losses that were predicted following a full-scale nuclear war</span><span style="font-size: 10.6667px;">," Toon said in a statement.</span>
+
+
+**Space-based detection is key to prevent nuclear war from small asteroid strikes**
+<span style="font-size: 16px;">DAVID 2002</span><span class="StyleStyleBold12pt"> (Leonard, Senior Space Writer, Space.com, “First Strike or Asteroid Impact?” June 6, http://abob.libs.uga.edu/bobk/ccc/cc060702.html)</span>
+<span style="font-size: 10.6667px;">Military strategists and space scientists that wonder and worry about a run-in </span><span style="font-size: 16px;">…</span><span style="font-size: 10.6667px;"> space sentinels </span><span style="font-size: 16px;">could</span><span style="font-size: 10.6667px;"> serve double-time and </span><span style="font-size: 16px;">detect small asteroids</span><span style="font-size: 10.6667px;">, he said.</span>
+
+
+**Nuclear taboo in the status quo prevents a nation from launching first but doesn’t stop them from retaliating – miscalculation is the only scenario in which the taboo is broken**
+<span style="font-size: 16px;">Paul</span><span class="StyleStyleBold12pt">, Professor of International Relations at McGill University, </span><span style="font-size: 16px;">‘5</span><span class="StyleStyleBold12pt"> (T.V, “The Risk of Nuclear War Does Not Belong to History” published in ‘The Waning of Major War: Theories and Debates’ by Raimo Vayryen, p 113-135)</span>
+<span style="font-size: 10.6667px;">Risk of nuclear war during the Cold War era At this point, a discussion of the </span><span style="font-size: 16px;">…</span><span style="font-size: 10.6667px;">follow through with their plans to target non-nuclear states in order to deter chemical or biological attacks by these states as well as by terrorist groups.</span>
+
+
+
+==[[#_Toc178347693]]Solvency== 
+
+**Resources will be mobilized to deflect identified asteroids – but early detection is key**
+<span style="font-size: 16px;">NRC 2010</span><span class="StyleStyleBold12pt"> (National Research Council Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies,” http://www.nap.edu/catalog.php?record_id=12842)</span>
+
+In contrast to other known natural hazards, there has been no significant …<span style="font-size: 16px;"> as far in advance of a damaging impact event as feasible</span>.
+
+
+**Space-based observations are key – ground-based telescopes can’t provide continuous measurements**
+<span style="font-size: 16px;">Park et al 05</span><span class="StyleStyleBold12pt"> (Daniel D. Mazanek, Carlos M. Roithmayr, and Jeffrey Antol Langley Research Center, Hampton, Virginia Sang-Young Park, Robert H. Koons, and James C. Bremer Swales Aerospace, Inc., Hampton, Virginia Douglas G. Murphy, James A. Hoffman, Renjith R. Kumar, and Hans Seywald Analytical Mechanics Associates, Inc., Hampton, Virginia Linda Kay-Bunnell and Martin R. Werner Joint Institute for Advancement of Flight Sciences (JIAFS) The George Washington University, Hampton, Virginia Matthew A. Hausman Colorado Center for Astrodynamics Research The University of Colorado, Boulder, Colorado Jana L. Stockum San Diego State University, San Diego, California, “Comet/Asteroid Protection System (CAPS): Preliminary Space-Based System Concept and Study Results” NASA, May 2005, </span>[[http://www.nss.org/resources/library/planetarydefense/2005-CometAsteroidProtectionSystem%28CAPS%29-NASA.pdf%29|http://www.nss.org/resources/library/planetarydefense/2005-CometAsteroidProtectionSystem(CAPS)-NASA.pdf)]]<span class="StyleStyleBold12pt"> Rory</span>
+
+<span style="font-size: 16px;">While terrestrial-based telescopes can address many aspects of NEO … through both remote observations and rendezvous missions with the NEO. </span>
+
+
+**The US is key – no other country has the necessary technology**
+<span style="font-size: 16px;">NAS09</span><span class="StyleStyleBold12pt"> (National Academy of Sciences, “National Research Council, Near-Earth Object Surveys and Hazard Mitigation Strategies: Interim Report,” August 2009, </span>[[http://www.nasa.gov/pdf/378691main_NRC-Aug12InterimReport.pdf]]<span class="StyleStyleBold12pt">)[JHegyi14]</span>
+
+<span style="font-family: Georgia; font-size: 10.6667px;">Despite expressions of interest in various countries around the globe, </span><span style="font-size: 16px;">the majority of search efforts …no other countries have committed funding for a “next generation” NEO-discovery program</span><span style="font-family: Georgia; font-size: 10.6667px;">."</span>
+
+
+=Negative= 
+==Astropolitics K 1NC== 
+===[[#Astropolitics K 1NC-Military Link]]Military Link=== 
+
+**<span style="font-size: 12pt; text-decoration: none;">The Aff’s vision of space as a realm to be controlled results in an extension of violence and militaristic domination—This turns the aff by encouraging the very anti-democratic wars they hope to prevent</span>**
+<span style="font-size: 12pt; text-decoration: none;">MacDonald 07, Fraser MacDonald, Professor of Anthropology, Geography, and Environmental Studies at Melbourne University in Australia, “Anti-Astropolitik – outer space and the orbit of geography,” //Progress in Human Geography,// 2007, Pages 592-615.</span>
+<span style="font-size: 8pt; text-decoration: none;">Two things should now be clear...</span><span style="font-size: 12pt;">various other ‘spaces of exception’.</span>
+
+===[[#Astropolitics K 1NC-Non-Military Link]]Non-Military Link=== 
+[[#Astropolitics K 1NC-Non-Military Link-The affirmative’s call for space exploration and/or development is a Trojan Horse__—__dual-use capabilities__ ensure that the military capitalizes on space technologies to achieve __new forms of political killing.]]**The affirmative’s call for space exploration and/or development is a __Trojan Horse__—__dual-use capabilities__ ensure that the military capitalizes on space technologies to achieve __new forms of political killing__.**
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Duvall and Havercroft 6</span> — Raymond D. Duvall, Professor of Political Science at the University of Minnesota, and Jonathan Havercroft, Lecturer in Political Science at the University of Victoria, 2006 ("Taking Sovereignty Out of This World: Space Weaponization and the Production of Late-Modern Political Subjects," Paper Presented At The Annual Meeting Of The International Studies Association, Panel SC08: Reading Outer Space, March 22nd-25th, Available Online via All Academic at[[http://citation.allacademic.com/meta/p_mla_apa_research_citation/0/9/8/6/8/p98680_index.html]], Accessed 07-18-2011)
+<span style="font-size: 12pt;">The weaponization of space...each of these new modes of political killing. </span>
+
+===[[#Astropolitics K 1NC-Asteroids Link]]Asteroids Link=== 
+[[#Astropolitics K 1NC-Asteroids Link-The Affirmative’s construction of cosmic threats makes militarization inevitable—their narrative is not a neutral depiction of the world, but instead actively constructs the need for technological domination.]]**The Affirmative’s construction of cosmic threats makes militarization inevitable—their narrative is not a neutral depiction of the world, but instead actively constructs the need for technological domination.**
+<span class="StyleStyleBold12pt">Felicity </span><span style="font-size: 12pt;">Mellor</span><span class="StyleStyleBold12pt">, Science Communication—Imperial College, </span><span style="font-size: 12pt;">2007</span>
+<span class="StyleStyleBold12pt">“Colliding Worlds: Asteroid Research and the Legitimization of War in Space”, Social Studies of Science, 37(4), August, p. 499-502</span>
+<span style="font-size: 8pt;">Since the late 1980s, ...</span><span style="font-size: 12pt;">legitimize the militarizationof space.</span>
+
+===[[#Astropolitics K 1NC-1NC – Impact/Alt]]1NC – Impact/Alt=== 
+**The aff turns the US into Big Brother—anyone, anywhere is subject to surveillance and attack—The impact is violent total domination of the globe**
+<span style="font-size: 12pt;">Havercroft and Duvall 9</span><span class="StyleStyleBold12pt"> (Jonathan, Ph.D. Minnesota) specializes in political theory. His primary research focus is on the historical transformation of sovereignty in the discourses of political philosophy from the 17th century to the present. He has also published essays grappling with conceptions of freedom, power, and sovereignty in early modern and contemporary political thought. His work has appeared in Constellations and Review of International Studies, and Raymond, professor of political science at the University of Minnesota, “Critical astropolitics: The geopolitics of space control and the transformation of state sovereignty” From Securing Outer Space, pg. 56-57) RF</span>
+<span style="font-size: 8pt;">Conclusion: (bare) life under empire of the future In his </span>//<span style="font-size: 8pt;">Astropolitik ...</span>//<span style="font-size: 12pt;">is very slim indeed.</span>
+
+
+**The impossible quest to secure life from itself can only result in __extinction__.**
+<span style="font-size: 12pt;">Dillon and Reid ‘9</span><span class="StyleStyleBold12pt">(Michael, Prof. of IR @ Lancaster University, Julian, Lecturer in IR @ King’s College London, The Liberal Way of War: Killing to make life live, pgs. 30-33)</span>
+<span style="font-size: 8pt;">One way of expressing the core...infinity of securitization and fear.</span>
+
+
+**The alternative is to reject the affirmative in lieu of problematizing space as a realm to be dominated. Our strategy is key—contesting space as a site for control is the most effective method for preventing war**
+<span style="font-size: 12pt;">Grondin, 06</span><span class="StyleStyleBold12pt"> David Grondin Assistant Professor, School of Political Studies, University of Ottawa (as of July 2006) Paper presented at the ISA Convention, San Diego March 25, 2006 Panel “Reading Outer Space I: The International Politics of Outer Space - Approaches and Themes” THE (POWER) POLITICS OF SPACE: THE US ASTROPOLITICAL DISCOURSE OF GLOBAL DOMINANCE IN THE WAR ON TERROR</span>
+<span style="font-size: 8pt;">Indeed, </span><span style="font-size: 12pt;">we have no way ...to still be possible, if not inevitable.</span>
+
+
+=India Launch 1NC Shell= 
+
+===India has a more feasible launch service that gives it a competitive edge over the US=== 
+
+Deb<span class="Heading3Char">Swati</span>, Commodity Online,<span class="Heading3Char">‘8 </span>(“Nuke deal or not, India is already a super power” July 17th 2008, http://www.commodityonline.com/news/topstory/Nuke-deal-or-not-India-is-already-a-super-power-10445-2.html
+
+
+
+<span style="font-size: 12pt;">India has launched 10 remote sensing satellites since 1998, ... </span><span style="font-size: 12pt;">"We would like to maintain our leadership position," emphasizes Nair.</span>
+
+
+
+===Commercial launches key to Indian economy=== 
+
+Satish <span style="font-size: 12pt;">Jha</span>, March 27, <span style="font-size: 12pt;">2011</span>. http://www.dnaindia.com/india/report_expedite-space-based-applications-manmohan-singh_1525010
+
+<span style="font-size: 12pt;">Prime Minister Dr Manmohan Singh urged scientists ...</span><span style="font-size: 8pt;"> and Village Resource Centre services deserve high priority.</span>
+
+<span style="display: block; text-align: left;">Indian economic decline causes India-Pakistan conflict</span>
+<span style="display: block; text-align: left;">Mamoon and Murshed, 2010 <span style="font-size: 10pt;">(Dawood, Netherlands Fellowship holder at the Institute of Social Studies (ISS) in The Hague, where he is reading for a PhD on trade, poverty, inequality and security. He is also a visiting research associate and consultant at the Sustainable Development Policy Institute, Pakistan; S. Mansoob, Professor of the Economics of Conflict and Peace, Institute of Social Studies, the Netherlands; “The conflict mitigating effects of trade in the India-Pakistan case”, Economics of Governance, Vol. 11, No. 2, SpringerLink)</span></span>
+However, if India is able to export or import more, ... edged towards greater democracy with elections in February 2008.
+
+
+
+===Pakistan collapse causes Indo-Pak nuclear war=== 
+
+<span style="font-size: 12pt;">Perkovich</span><span class="StyleStyleBold12pt0">, Vice President for Studies at Carnegie, </span><span style="font-size: 12pt;">’11</span><span class="StyleStyleBold12pt0"> (George, November, “The West’s New International Security Challenges” Centre for Economics and Foreign Policy Studies, http://edam.org.tr/document/EDAM_DP_G_Perkovich.pdf)</span>
+
+=====<span style="font-size: 6pt;">Since 2008, </span><span style="font-size: 12pt;">Pakistan has continued ... </span><span style="font-size: 6pt;"> by being so willing to sell India what it wants.</span>===== 
+
+===Even a limited nuclear war between India and Pakistan causes extinction=== 
+
+<span style="font-size: 12pt;">Fox</span><span class="StyleStyleBold12pt0"> Independent Journalist ‘</span><span style="font-size: 12pt;">8</span><span class="StyleStyleBold12pt0"> (Maggie, April 8, “India-Pakistan Nuclear War Would Cause Ozone Hole” </span><span style="color: windowtext; text-decoration: none;">[[http://www.planetark.com/dailynewsstory.cfm/newsid/47829/story.htm]]</span><span class="StyleStyleBold12pt0">)</span>
+
+<span style="font-family: Georgia; font-size: 10pt;">WASHINGTON - </span><span style="font-size: 12pt;">Nuclear war between India and Pakistan ...</span><span style="font-family: Georgia; font-size: 10pt;"> Toon said in a statement</span>
+
+[[include page="space.template.Footer"]]

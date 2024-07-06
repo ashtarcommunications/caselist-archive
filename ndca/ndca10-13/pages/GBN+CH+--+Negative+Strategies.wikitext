@@ -1,0 +1,816 @@
+<span style="font-family: Arial,Helvetica,sans-serif;">[[toc]]
+</span>
+
+
+
+
+
+
+=<span style="font-family: Arial,Helvetica,sans-serif;">Negative Strategies</span>= 
+==<span style="font-family: Arial,Helvetica,sans-serif;">Niles</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- Maine East SS</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: HSR</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Oil Dependence</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP (Fuel Tax Indexing Mechanism)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Restoring America's Future CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA -- Jackson Vanik</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA (Canada Shift scenario, Iran scenario)</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--RAF CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA -- Jackson Vanik</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Kind of everything extended in the block</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- [[@2012-2013 - Glenbrook South (IL) - Rosie Kelly and Harrison Kenner|Glenbrook South KK]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Mayport</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Terrorism, Hegemony</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Topicality -- Exclude Military</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Elections DA -- GOP Congress Bad</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Florida CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Offense on Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Florida CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Elections DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Offense on Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2AR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Conditionality is Bad</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- [[@2012-2013 - Dowling Catholic (IA) - Ben Weinhardt & Greyson Zaun|Dowling Catholic WZ]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Alaska Ports</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Oil Spills, Arctic War</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Topicality -- In = Throughout</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA -- Jackson Vanik</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Biodiversity DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Octofinals -- [[@2012-2013 - Oak Park River Forest (IL) - John Martin and Morgan Murphy|Oak Park & River Forest MM]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Relational Planning</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra Topicality</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Virilio DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Environmental Objectification DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Transportation Planning K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--CP -- 50 States should do multi-scalar analysis for non-transportation infrastructure projects</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA (CTL is funded -- warming)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Offense on Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra Topicality</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Technology Romanticism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra Topicality</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">Georgetown</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- [[@debatecoaches/2012-2013 - Lakeland (NY) - Priten Shah & Mihir Paradkar|Lakeland PS]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Port Security</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Terrorism, Economy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP (User Fees/Audits Mechanism)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Build America Bonds CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Specification -- Funding Mechanism</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA (ABL is funded -- deterrence bad impact)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA -- Jackson Vanik</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Specification</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Build America Bonds CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Specification</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Build America Bonds CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Politics DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- [[@debatecoaches/2012-2013 - Centennial (MD) - Ben Hawtof & Gabriel Koo|Centennial HK]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Climate Adaptation </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Seaports, Highways</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Maintenance</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Biodiversity DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Elections DA (Obama Good – Russia Relations)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA (ABL funded – Deterrence)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Data Cooking</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Data Cooking</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Elections DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Elections DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Sacred Cow DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- [[@debatecoaches/2012-2013 - Westminster Schools (GA) - Mallika Madhusudan & Catherine Zhang|Westminster MZ]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Port Dredging</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Competitiveness, Agriculture</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Maintenance</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Excludes Ports</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--ASPEC</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil/Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Cotton DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Biodiversity DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Coercion DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil/Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Cotton DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Excludes Ports</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil/Ethanol DA</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">New Trier</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 2 -- [[@debatecoaches/2012-2013 - Rowland Hall (UT) - Ethan Arsht & Corinne Sugino|Rowland Hall-St. Mark's AS]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: CCS</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Warming, Yes/No War</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Pipelines</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Heidegger K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Coercion DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- [[@debatecoaches/2012-2013 - West Des Moines Valley (IA) - Sam Basler & Brody Diehn|West Des Moines Valley BD]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NIB</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: P3’s, NextGen, Protectionism</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP that didn't solve Space Colonization</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Coercion DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Increase = pre-existing</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Investment =/= loan guarantees</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- Niles West CS</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Title XI</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Navy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC: </span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP that didn't solve Oil Dependence</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail Tradeoff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Substantial</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Dependence Good</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Dependence Good</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Dependence Good</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">University of Michigan</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 2 -- [[@debatecoaches/2012-2013 - Northside (IL) - Aidan Sadowski and Nicholas White|Northside SW]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NIB</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Direct Spending/Effects T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Bataille K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Stimulus Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--AT: State Budgets Add-on</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- [[@debatecoaches/2012-2013 - Glenbrook South (IL) - Bobby Shaw & Ben Wolch|Glenbrook South SW]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Georeferencing</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Terrorism</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Consumption DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP that didn't solve Congestion</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Bataille K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Bataille K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Bataille K</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- University Prep DK</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: I don’t know but they rapped and talked about water</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Farley K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">Barrington</span>== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Jason was the 2N with Laila Abdelmonem.</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- Niles West SP</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Port Security</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Terrorism</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Farm Bill Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Container Costs DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Container Costs DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Farm Bill Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Container Costs DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- Glenbrook South MJ</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NextGen</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Hegemony</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Farm Bill Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States Texting Conditions CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedev</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedev</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States Texting Conditions CP</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedev</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 5 -- [[@debatecoaches/2012-2013 - Niles West (IL) Gershom Chan|Niles West CC]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Inland Waterways</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Naval Power</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Farm Bill Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedev</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedev</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Freight Rail DA</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">Dowling</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- [[@debatecoaches/2012-2013 - Oak Park River Forest (IL) - John Martin and Morgan Murphy|Oak Park & River Forest MM]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Relational Planning</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Environmental Objectification DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case [Management Good, Predictions Good, Util, Other offense]</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Environmental Objectification DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Predictions Good</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 3 -- [[@debatecoaches/2012-2013 - University of Chicago Lab (IL) - James Duran & Sam Leiter|University of Chicago Laboratory DL]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Port Dredging</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Navy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--LNG DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Navy Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Navy Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--LNG DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA (Monoculture/Biodiversity was impact turned)</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--LNG DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 5 -- [[@debatecoaches/2012-2013 - Glenbrook South (IL) - Brent Mitchell and Neil Patel|Glenbrook South MP]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: LNG</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Iran, Warming</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Russia DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Algeria DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ice Age</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Iran Economy Good</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Russia DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case Defense</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">Blake</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 2 -- [[@debatecoaches/2012-2013 - Rowland Hall (UT) - Cameron Ballard & Julia Goldman|Rowland Hall-St. Mark's BG]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: CCS</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Warming, Yes/No War</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Super Chimneys CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Clean Tech DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Pipelines</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Super Chimneys CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Clean Tech DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Super Chimneys CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Clean Tech DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 4 -- [[@debatecoaches/2012-2013 - CK McClatchy (CA) - Keenan Harris & John Spurlock|C.K. McClatchy HS]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Icebreakers</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Science, Mapping</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Cutters DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T Vehicles</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Dependence Good [at: add-on]</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- [[@debatecoaches/2012-2013 - St. Paul Como Park (MN) - Dai'Quan Robinson & Stryker Thompson|Como Park RT]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Whiteness</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Music PIC</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Music PIC</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--False Heroism K</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 7 -- [[@debatecoaches/2012-2013 - Wayzata (MN) - Kate Gehling & Haley Larsen|Wayzata GL]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Alaska Ports</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Oil Spills, Hegemony</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T In = Throughout</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Spills Good</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil Spills Good</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Alaska CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Fiscal Cliff DA</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">Montgomery Bell Academy</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- [[@debatecoaches/2012-2013 - Sage Ridge (NV) - Mac Cronin & Kristen Lowe|Sage Ridge CL]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: PPSP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Manufacturing, Mobility</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Military</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra-T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Downgrade DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--NMS CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--CMR DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra-T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Downgrade DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 3 -- [[@debatecoaches/2012-2013 - Berkeley Prep (FL) - Ryan Divers & Yunhan Xu|Berkeley Prep XD]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NIB</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Ex-Im, Diplomacy, Agriculture</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Excludes Loan Guarantees</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Physical Projects</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra-T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ableism K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Trade Bad</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Turkey Relations Bad</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--High Food Prices Good</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Water DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- [[@debatecoaches/2012-2013 - Westminster Schools (GA) - Eileen Li & James Pavur|Westminster LP]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NIB</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Adv: Economy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra-T</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ableism K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Dedevelopment</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Hegemony Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Extra-T</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Octofinals -- [[@debatecoaches/2012-2013 - Bronx Science (NY) - Abla Belhachmi & Anastasia Kazteridis|Bronx Science BK]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Climate Adaptation</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Hegemony</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--T-Maintenance</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Oil DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Ethanol DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Case: Coercion DA, Federalism DA, RTA Good, Downgrade DA, Hegemony Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Downgrade DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Qatar CP</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">--Immigration Politics DA</span>
+
+==<span style="font-family: Arial,Helvetica,sans-serif;">University of California, Berkeley</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 1 -- BAUDL GX</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NextGen</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Hegemony, Warming</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- EU-Japan Relations DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Launches DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Dedev</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Terrorism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Launches DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- EU-Japan Relations DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- New 2NC Arguments Good</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 3 -- Wayzata CH</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Electric Vehicles</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, Oil, Grid</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- T-Vehicle Fueling Infrastructure</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Security K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Dedev</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Case</span>
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 5 -- College Prep PW</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Race Genealogy</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Framework</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Wetlands DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Ableism K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- False Heroism K</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Speaking for Others Bad</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- False Heroism K</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Framework</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- False Heroism K</span>
+==<span style="font-family: Arial,Helvetica,sans-serif;">NFL Districts</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 2 -- [[@debatecoaches/2012-2013 - Niles West (IL) - Miranda Kang & Vinay Patel|Niles West KP]]</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Port Security</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Drug Trafficking, Sex Trafficking</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- T Excludes Security</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Immigration Politics DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- States CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Container Commerce DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Federalism DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Warming Good -- Ice Age</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NC:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Commerce Equity DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Trade DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Case</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">1NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Container Commerce DA</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">2NR:</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Advantage CP</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Commerce Equity DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Trade DA</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">-- Container Commerce DA</span>
+==<span style="font-family: Arial,Helvetica,sans-serif;">Tournament of Champions</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 2 -- Stuyvesant CL</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Consumerism</span>
+
+1NC: Framework, States CP, Federalism DA, Guns Rider DA, Ableism K, Psychoanalysis Bad
+
+2NC: States CP, Federalism DA, Guns Rider DA
+
+1NR: Ableism K
+
+2NR: Ableism K
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 3 -- Niles West NP</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Kinda China Cooperation?</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Warming, China Relations</span>
+
+1NC: States CP, Advantage CP, Oil DA, Buy America DA, Federalism DA, Ice Age, Korea War Good
+
+2NC: Advantage CP, Ethanol DA, Oil DA
+
+1NR: Korea War Good, Case
+
+2NR: Advantage CP, Ethanol DA
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 6 -- Leland AV</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: NIB</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">Advs: Economy, State Budgets, Manufacturing</span>
+
+1NC: Advantage CP, States CP, Immigration Reform Politics DA, Oil Consumption DA, Stimulus Bad
+
+2NC: Advantage CP, Ethanol DA, Transportation Bad Turns, Water Infrastructure DA, Mass Transit Bad DA, Case
+
+1NR: Oil DA
+
+2NR: Basically the 2NC
+
+===<span style="font-family: Arial,Helvetica,sans-serif;">Round 7 -- Bingham GH</span>=== 
+<span style="font-family: Arial,Helvetica,sans-serif;">Aff: Give Immigrants Water</span>
+1NC: False Heroism K, States CP, Federalism DA, Wetlands DA, T--Transportation Infrastructure, Framework
+
+2NC: States CP, Federalism DA, Case
+
+1NR: T
+
+2NR: States CP, Federalism DA

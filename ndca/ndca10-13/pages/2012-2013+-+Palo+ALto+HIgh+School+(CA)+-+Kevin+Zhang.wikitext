@@ -1,0 +1,293 @@
+[[toc]]
+=November December= 
+----
+==Affirmative:== 
+===HurrahBoo AC=== 
+Ought = moral obligation (Dictionary.com)
+First, we need to understand the meaning behind language in statements to interpret them
+Ayer 1: "However, interpretation of... philosophical analysis consists"
+<span style="color: #23262a; font-size: 8pt;">Ayer, A. J. (1936): </span>//<span style="color: #23262a; font-family: Calibri,sans-serif; font-size: 8pt;">Language, Truth and Logic</span>//<span style="color: #23262a; font-size: 8pt;">, London, Gollanc</span>
+
+<span style="color: #23262a; line-height: 0px; overflow: hidden;">Moral propositions are created from the expression of emotions - they cannot be categorized as true/false, they're only used to convince others of an idea</span><span style="overflow: hidden;">.</span>
+<span style="overflow: hidden;">Ayer 2: 'We begin by ... truth or falsehood."</span>
+<span style="color: #23262a; font-size: 8pt;">Ayer, A. J. (1936): </span>//<span style="color: #23262a; font-family: Calibri,sans-serif; font-size: 8pt;">Language, Truth and Logic</span>//<span style="color: #23262a; font-size: 8pt;">, London, Gollanc</span>
+
+<span style="overflow: hidden;">Also, the reason why non-cognitivism arose int he first place is because philosophers felt that truth-functional morality is bad</span>
+
+<span style="overflow: hidden;">The emotive meaning of a word is derived from its tendency to produce response in individuals</span>
+<span style="overflow: hidden;">Stevenson 1: "The will be... them as meanings"</span>
+<span style="font-size: 8pt;">The Emotive Meaning of Ethical Terms Author(s): Charles Leslie Stevenson Source: Mind, New Series, Vol. 46, No. 181 (Jan., 1937), pp. 14-31 Published by: Oxford University Press on behalf of the Mind Association Stable URL: http://www.jstor.org/stable/2250027</span>
+
+Moral statements are used to shape other's interests
+Stevenson 2: "The interest already... and irrigating it."
+<span style="font-size: 8pt;">The Emotive Meaning of Ethical Terms Author(s): Charles Leslie Stevenson Source: Mind, New Series, Vol. 46, No. 181 (Jan., 1937), pp. 14-31 Published by: Oxford University Press on behalf of the Mind Association Stable URL: http://www.jstor.org/stable/2250027</span>
+
+<span style="overflow: hidden;">Emotional/Moral statements are influenced and spread throughout communities</span>
+<span style="overflow: hidden;">Stevenson 3: "Thus, ethical terms... have different attitudes."</span>
+<span style="font-size: 8pt;">The Emotive Meaning of Ethical Terms Author(s): Charles Leslie Stevenson Source: Mind, New Series, Vol. 46, No. 181 (Jan., 1937), pp. 14-31 Published by: Oxford University Press on behalf of the Mind Association Stable URL: http://www.jstor.org/stable/2250027</span>
+
+Cont 1:
+Subpoint A: People naturally emphasize with others
+Lamm: "In recent years...in emphatic responses"
+<span style="font-size: 8pt;">Claus Lamm </span><span style="color: blue; font-size: 8pt;">a</span><span style="font-size: 8pt;">,</span><span style="color: blue; font-size: 8pt;">b</span><span style="font-size: 8pt;">,</span><span style="color: blue; font-size: 8pt;">c</span><span style="font-size: 8pt;">,</span><span style="color: blue; font-size: 8pt;">⁎</span><span style="font-size: 8pt;">, Jean Decety </span><span style="color: blue; font-size: 8pt;">c</span><span style="font-size: 8pt;">, Tania Singer 2010</span>
+//<span style="font-size: 8pt;">Meta-analytic evidence for common and distinct neural networks associated with directly experienced pain and empathy for pain</span>//
+
+Decety: "Children between the... someone was hurt"
+<span style="font-family: Times,serif; font-size: 7pt;">Jean Decety University of Chicago. "Children Are Naturally Prone To Be Empathic And Moral." //ScienceDaily//, 11 Jul. 2008. Web. 31 Oct. 2011. </span><span style="color: #000099; font-family: Times,serif; font-size: 7pt;">[[http://www.sciencedaily.com/releases/2008/07/080711080957.htm]]</span>
+
+Heavey: "Nearly 45000 people... interview with Reuters."
+<span style="font-size: 9pt;">Susan Heavey, 2009 [[http://www.reuters.com/article/2009/09/17/us-usa-healthcare-deaths-idUSTRE58G6W520090917]]</span>
+
+B: Polls verify
+Americans believe government is better for health care
+Sack: "But they clearly... they were opposed."
+<span style="background-color: white; font-size: 8pt;">Reporting., Kevin Sack And Marjorie Connelly; Marina Stefan And Dalia Sussman Contributed. "Poll Finds Wide Support for Idea Of Government-Run Health Plan."//The New York Times//. The New York Times, 21 June 2009. Web. 30 June 2012. <http://www.nytimes.com/2009/06/21/health/policy/21poll.html>.</span>
+
+CBS: "Most Americans believe... healthcare costs down."
+
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">[[http://www.cbsnews.com/2100-500160_162-2528357.html]], June 14 2010</span>
+
+
+NPR: "A large majority... opposed to it"
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">2009 [[http://www.npr.org/templates/story/story.php?storyId=112818960]]</span>
+----
+===Util AC=== 
+Ought = moral obligation (webster definition)
+Guarantee = assurance for fultillment of a condition (webster definition)
+
+neg must weigh impacts against ac benefits regardless of specific prohibitions
+letting the neg delink forces aff to preempt every right in the ac which
+a) makes affirming impossible - too many to preempt or
+b) allows the neg to moot the whole AC
+Torrey - "universal healthcare or...through single-payer systems"
+<span style="font-size: 8px;">Torrey, Trisha. “What is Universal Healthcare Coverage?” About.com guide. October 16, 2008</span>
+
+
+V: morality
+S: minimizing suffering
+1. only purpose of ethical theories is to serve the pragmatic role of living well
+Philstrom: "One of the... in this sense"
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">Sami Pihlstom. Professor of Practical Philosophy University of Jyväskylä. PRAGMATIC MORAL REALISM: A Transcendental Defense. 2005. </span>
+
+2. Maximizing well-being is the only way to respect the equality of humans
+3. based on equal value of all individuals, it is necessary to trade off between them
+Cummiskey: "In such a... to save many"
+<span style="font-size: 8pt;">David Cummiskey, Kantian Consequentialism 2009 [[http://www.bates.edu/Prebuilt/kantian.pdf]]</span>
+
+Cont 1: UHC insurance would be cheaper than our current system
+Subpoint A: decreased cost of health care keeps big industries - keeps economy from collapsing
+Mohit "It was just... for American manufacturers"
+<span style="font-size: 8pt;">Behzad Mohit, Author, Physician, May 11 2009 [[http://www.huffingtonpost.com/dr-behzad-mohit/universal-health-care-can_b_201154.html]]</span>
+
+Subpoint B: Not only is UHC feasible, it brings in money int he long run
+Chua: "General Motors reports... matter of soul."
+<span style="font-size: 8px;">Chua, Kao-Ping. “The Case for Universal Health Care.” Jack Rutledge Fellow. http://www.amsa.org/AMSA/Libraries/Committee_Docs/CaseForUHC.sflb.ashx</span>
+
+Cont 2: Lack of UHC leads to widespread death and suffering
+A: Thousands of people die each year from a lack kof HC
+Heavey: "Nearly 45000 people... interview with Reuters."
+<span style="font-size: 9pt;">Susan Heavey, 2009 [[http://www.reuters.com/article/2009/09/17/us-usa-healthcare-deaths-idUSTRE58G6W520090917]]</span>
+
+Chua 2: "The most visible...and potentially ruinous."
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">Chua, Kao-Ping. “The Case for Universal Health Care.” Jack Rutledge Fellow. </span><span style="font-family: Calibri,sans-serif; font-size: 6pt;">http://www.amsa.org/AMSA/Libraries/Committee_Docs/CaseForUHC.sflb.ashx</span>
+
+
+People don't receive treatment due to lack of health care - leads to a vicious circular cycle
+Gladwell: "The U.S. health-care... with the pain."
+<span style="font-size: 6pt;">Malcolm Gladwell—2005[Journalist for the new Yorker] “THE MORAL-HAZARD MYTH”</span><span style="color: windowtext; font-size: 6pt; text-decoration: none;">[[http://rfrost.people.si.umich.edu/courses/SI110/readings/InfoEcon/Gladwell%20on%20Moral%20Hazard.pdf]]</span><span style="font-size: 6pt;"> TC</span>
+
+
+Cont 3: Bioterrorism leads to existential risks
+Squo emergency control fails; we must use a universal system
+Green: "But with the... a bioterrirsm attack."
+<span style="font-size: 9pt;">Shane K Green, PhD University of Toronto, //Bioterrorism and Health Care Reform: No Preparedness without Action// [[http://virtualmentor.ama-assn.org/2004/05/pfor2-0405.html]]</span>
+
+In addition, UHC allows the government to react quickly to bioterrorism
+Kahn: "In addition, countries... universal health-care coverage."
+<span style="color: #333333; font-family: Arial,sans-serif; font-size: 7pt;">Kahn [</span><span style="color: #454545; font-family: Arial,sans-serif; font-size: 7pt;">An interview with Laura H. Kahn</span> <span style="color: #234786; font-family: Arial,sans-serif; font-size: 7pt;">[[@http://www.thebulletin.org/web-edition/columnists/laura-h-kahn/interview]]</span><span style="color: #454545; font-family: Arial,sans-serif; font-size: 7pt;">]</span>
+
+Bioterrorism threatens the survival of humanity
+Matthney: "We already invest... respond to pandemics."
+<span style="color: #454545; font-family: Calibri,sans-serif; font-size: 8pt;">Jason G. Mathney, 07 (MBA is a Consultant to the Center for Biosecurity of UPMC. Sommer Scholar s at Johns Hopkins' )</span> <span style="font-family: Calibri,sans-serif; font-size: 6pt;">[[http://www.upmc-biosecurity.org/se/util/display_mod.cfm?MODULE=/se-server/mod/modules/semod_printpage/mod_default.cfm&PageURL=/website/resources/publications/2007_orig-articles/2007-10-15-reducingrisk.html&VersionObject=A09EDA45D011A282BA7021E754D0B39C&Template=79799&PageStyleSheet=81604]]</span>
+
+CPWPT: "The commission believes...shrinking, not growing."
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">[“W O R L D A T R I S K” The Report of the Commission on the Prevention of WMD Proliferation and Terrorism. First Vintage Books Edition: December 2008</span>
+
+
+<span style="color: #454545; font-size: 12px;">Democracy AC</span>
+
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Mosby's medical dictionary definition:" a health insurance program...citizens of that nation."</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Presume aff </span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Resolution requires context for comprehension</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Prefer reasonable aff interps</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">s=consistency with democratic principles</span>
+
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Democracy comes first</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">haste1:"the metaphor of...of our understanding." </span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">[1]</span> <span style="font-family: 'Times New Roman','serif'; font-size: 16px;">Haste, Helen. “Morality, culture, and the dialogic self: taking cultural pluralism seriously.” 2008. http://www.tandfonline.com/doi/pdf/10.1080/03057240802227502</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">1. Democracy is key to objectivity</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Mouffe: it is always...impose their power</span>
+
+**<span style="font-family: 'Times New Roman','serif'; font-size: 10.6667px;">Chantal Mouffe</span>**<span style="font-family: 'Times New Roman','serif'; font-size: 10.6667px;"> [Belgian Political theorist, Professor from Politics and International Relations from University of Westminster , UK) The Return Of The Political “Modern or Post modern?” Pg 15.2005. Print. Pg 15.</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">2. Democracy gives people a voice</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Christiano1: "Many have noticed...forms of rule."</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Christiano, T., 2004, “The Authority of Democracy,” //<span style="font-family: 'Calibri','sans-serif';">Journal of Political Philosophy</span>//, Vol. 12, n. 3 (August): pp. 266-290.</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">3. Democracies have checks that prevent bad decisions</span>
+<span style="color: #454545; font-family: Arial,sans-serif; font-size: 6pt;">Christiano2: "Epistemology democracy is...interests of citizens..."</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Christiano, T., 2004, “The Authority of Democracy,” //<span style="font-family: 'Calibri','sans-serif';">Journal of Political Philosophy</span>//, Vol. 12, n. 3 (August): pp. 266-290.</span>
+4. Democracy treats people equally
+Christiano3: "Many democratic theorists...over decisionmaking"
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Christiano, T., 2004, “The Authority of Democracy,” //<span style="font-family: 'Calibri','sans-serif';">Journal of Political Philosophy</span>//, Vol. 12, n. 3 (August): pp. 266-290.</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">C1) Polls afffirm</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">CBS Polls: </span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">"when asked which...healthcare costs down"</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">[[http://www.cbsnews.com/2100-500160_162-2528357.html]], June 14 2010</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">New York Times: Majority supports $500 plus</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">"American showed a...of recent years."</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Toner, Robin. "Polls show majority Back Healthcare for All." March 1, 2007.</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Kaiser: 67% favor UHC-strongly</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">[[http://www.kff.org/kaiserpolls/upload/7943.pdf]]</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Popular support of UHC changed in taiwan</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Lu: popular support from 40% to 60%</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Jui Fen Rachel Liu and William C. Hsiao. "Does Universal Health Insurance Make Health Care Unaffordable? Lessons From Taiwan." Health Affairs, 22, no. 3 (2003); 77-88.</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">c2) Discrimination</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Yamin: </span>Discrimination accepts multiple...the American nation."
+Discriminatory access to health care is just just a health issue. It's a democracy issue. Alicia Ely Yamin. Harvard School of Public Health: human rights attorney who at the time of writing was worth with nongovernmental organizations in latin america.
+Garson: "The belief in...of their society"
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">RIGHT TO HEALTH HAS BASIS IN SOCIAL JUSTICE AND UTILITARIAN VIEWS. ENGELHARD, CAROLYN L. GARSON, ARTHUR. </span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Democracy is key to minimizing util impacts</span>
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">Diamond: "The experience of...agreements in secret."</span>
+Larry diamond, promoting democracy in the 1990s: actors and instruments, issues and imperatives.
+==Negative:== 
+----
+===Illich NC=== 
+----
+V: Morality
+Need to look at the morality of health care
+First, medicalization/institutionalization of pain removes critical thinking - cultural healing solves
+Illich 1: "For an experience...health into pain"
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">Ivan </span><span style="font-size: 8pt;">Illich 03</span><span style="font-family: Calibri,sans-serif; font-size: 8pt;"> [Journal of Epidemiology and Community Health </span><span style="font-family: Calibri,sans-serif; font-size: 7pt;">2003;57:919-922, “Medical nemesis,” http://jech.bmj.com/cgi/content/full/57/12/919,]</span>
+
+
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">institutionalized health denies autonomous health</span>
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">Illich 2: " "Health," after all,... and technically instrumented"</span>
+
+<span style="font-size: 8pt;">Ivan </span><span style="font-size: 9pt;">Illich</span><span style="font-size: 8pt;">, philosopher and social critic, </span><span style="font-size: 9pt;">95</span><span style="font-size: 8pt;"> [“Limits to Medicine,” 7-8]</span>
+
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">s: preventing meaningless pain.</span>
+
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">cont 1: Universal health care leads to further institutionalized/consumerized health care</span>
+<span style="font-size: 8pt;">Medicine causes suffering and dies autonomy</span>
+<span style="font-size: 12px;">Illich 3: "Rising irreparable damage... world-wide hospital ward"</span>
+
+<span style="font-size: 8pt;">Ivan Illich 03 [Journal of Epidemiology and Community Health </span><span style="font-size: 7pt;">2003;57:919-922, “Medical nemesis,” http://jech.bmj.com/cgi/content/full/57/12/919,]</span>
+
+<span style="font-size: 7pt;">Own NC</span>
+
+
+<span style="font-family: Calibri; font-size: 8pt;">David Boaz [Executive vice president, the Cato institute] //Libertarianism: A Primer.// Simon & Schuster, 1997, New York. pg. 61-6</span>
+
+<span style="font-family: Calibri; font-size: 8pt;">"Any theory of... are self-evident"</span>
+
+<span style="font-family: Calibri; font-size: 8pt;">Nozick. Anarchy, State, and Utopia. "Side constraints express...between its citizens"</span>
+
+
+//<span style="font-size: 6pt;">Henneberger. Healthcare and Justice: A Moral Obligation?</span>//<span style="font-size: 6pt;"> 2011 Philosophy Honors Papers paper 1. "For example, consider ... the difference principle"</span>
+
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">Pamela Farley Short, Beth A. Hahn, Karen Beauregard, P. Holly Harvey and Melissa Lemberg Wilets, “The Effect of Universal Coverage on Health Expenditures for the Uninsured,” Medical Care, Vol. 35, No. 2 (Feb., 1997), pp. 95-113</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">"universal coverage will...burden on society"</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">"because most uncompensated... physicians in 1991"</span>
+
+=<span style="font-family: 'Times New Roman'; font-size: 8pt;">January February</span>= 
+==<span style="font-family: 'Times New Roman'; font-size: 8pt;">Util AC</span>== 
+<span style="font-size: 20px;"> </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Utilitarianism avoids the regress implicit in other meta-ethically justified moral theories since humans inescapably ascribe value to well-being Samberg</span>
+
+<span style="font-family: 'Times New Roman',serif;">Upstream utilitarianism is... </span><span style="font-family: 'Times New Roman',serif; line-height: 1.5;">of any particular person</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">[1]</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">MATTHEW ALLAN **SAMBERG**</span><span class="apple-converted-space" style="font-family: 'Times New Roman',serif; font-size: 8pt;"> </span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">**“**PRACTICAL UTILITARIANISM: FINDING A MORAL THEORY THAT IS UTILITARIAN IN CONSEQUENCE BUT AFFECTIVE IN METHOD” 2006. Thesis, Princeton University. <</span> <span style="font-family: 'Times New Roman',serif; font-size: 8pt;">[[https://files.nyu.edu/mas916/public/thesis.pdf]]</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">></span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">the reductionist view of personal identity mandates util. Shoemaker </span>
+
+<span style="color: #141413; font-family: 'Times New Roman',serif;">Doing so has... </span><span style="color: #141413; font-family: 'Times New Roman',serif; line-height: 1.5;">like sets of lives</span>
+<span style="line-height: 1.5;">http://www.csun.edu/~ds56723/jvipaper.pdf</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">This also undermines most retributive theories. Dresser</span>
+
+<span style="font-family: 'Times New Roman',serif;">The provocative implications... </span><span style="font-family: 'Times New Roman',serif; line-height: 1.5;">the "Extreme Claim</span>
+
+<span style="font-family: Tahoma,sans-serif; font-size: 8pt;">Dresser, Rebecca (JD Associate Professor, School of Law and Center for Biomedical Ethics, School of Medicine, Case Western U). Personal Identity and Punishment; 70 B.U. L. Rev. 395 (1990) </span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">the reduction of crime is the best justification for state-sanctioned criminal justice institutions. Scheid</span>
+
+<span style="font-size: 12px;">At this point... of all involved</span>
+<span style="font-size: 8pt;">Kant's Retributivism Author(s): Don E. Scheid Reviewed work(s): Source: Ethics, Vol. 93, No. 2 (Jan., 1983), pp. 262-282 Published by: The University of Chicago Press Stable URL: http://www.jstor.org/stable/2380419 . Accessed: 15/12/2012 20:51 </span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">even a focus on individual value mandates consequentialism. Cummiskey</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">In such a... to save many</span>
+
+<span style="font-family: Tahoma,sans-serif; font-size: 8pt;">Kantian Consequentialism. David Cummiskey. [Associate Philosophy Professor at Bates College]. Ethics, Vol. 100, No. 3. 1990.</span><span style="font-family: Tahoma,sans-serif; font-size: 10pt;"><span style="font-size: 8pt;">[[http://www.jstor.org/stable/2381810]]</span></span>
+
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contention 1 is recidivism.</span>**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"> Meta-analyses reveal that crime is caused by dynamic predictors via external influence rather than rational choice. </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Cullen 1</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">the first principle... interventions with offenders</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Francis Cullen </span>__<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Assessing Correctional Rehabilitation: Policy, Practice, and Prospects</span>__<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">. Criminal Justice 2000</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">retributive philosophy focusing on individual blame acquits the society of blame, expressing a poor moral message. Reiman</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">what is the... criminality or injustice</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">Jeffrey Reiman. “A Radical Perspective on Crime.” Deviance: A Symbolic Interactionist Approach, ed. Nancy J. Herman. Lanham: Rowman and Littlefield Publishers, Inc. (1995), p. 100-101.x</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Lipsey and Cullen analyzed every single meta-analysis on the question of whether rehab or retributive institutions decreased recidivism better Cullen 2:</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">this review has... meta-analysis of sanctions</span>
+
+<span style="font-size: 12px;">they continue</span>
+
+<span style="font-size: 12px;">the most general... effects of sanctions</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">THE EFFECTIVENESS OF CORRECTIONAL REHABILITATION: A REVIEW OF SYSTEMATIC REVIEWS Mark W. Lipsey1 and Francis T. Cullen2 //1// //Institute for Public Policy Studies, Vanderbilt University, Nashville, TN 37212; email://</span><span class="apple-converted-space" style="font-family: 'Times New Roman',serif; font-size: 8pt;"> </span>[[mailto:mark.lipsey@vanderbilt.edu|//mark.lipsey@vanderbilt.edu//]] //<span style="font-size: 8pt;">2</span>//<span class="apple-converted-space"> </span>//<span style="font-size: 8pt;">Division of Criminal Justice, University of Cincinnati, Cincinnati, OH 45226-0389; email:</span>//<span class="apple-converted-space"> </span>[[mailto:cullenft@email.uc.edu|//cullenft@email.uc.edu//]] //<span style="font-size: 8pt;">Annual Review of Law and Social Science</span>//<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">, volume 3, 2007</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">my evidence comes prior to all isolated studies or even meta-studies since it accounts for the variation in other meta-analyses. Cullen 3 </span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">hundreds of studies... for reducing recidivism</span>
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">my evidence eliminates all bias. Cullen 4</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">there are deficiencies... not easily bridged</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">deterrence is empirically denied. McGuire</span>
+the broadest though... and sentence length
+<span style="font-family: 'Times New Roman',serif; font-size: 8pt;">[1]</span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">James McGuire</span> <span style="font-family: Tahoma,sans-serif; font-size: 6pt;"><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">[[debatecoaches/home#_msocom_3|[MK3]]</span></span><span style="font-family: 'Times New Roman',serif; font-size: 8pt;">] 2004 [Understanding Psychology and Crime.¶ Berkshire, GBR: McGraw-Hill Professional Publishing, 2004</span>
+
+
+**__<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Contention 2 is providing prenatal care for addicts</span>__**
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Criminal penalties deter treatment. Anderson</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">criminal penalties also... by over 800%</span>
+
+<span style="font-size: 8pt;">Mikeisha T. Anderson ,"Criminal Penalties for Women Engaging in Substance Abuse During Pregnancy." Women's Rights Law Reporter21.181 (2000). Print.</span>
+
+
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Coleman explains the impacts</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">the child of... mother as well</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;"><span style="font-size: 11px; line-height: 16px;">Coleman, Elizabeth E., and Monica K. Miller. "ASSESSING LEGAL RESPONSES TO PRENATAL DRUG USE: CAN THERAPEUTIC RESPONSES PRODUCE MORE POSITIVE OUTCOMES THAN PUNITIVE RESPONSES?" </span>//<span style="font-size: 11px; line-height: 16px;">Cleveland State University Journal of Law and Health</span>//<span style="font-size: 11px; line-height: 16px;"> (2007). Print. </span></span>

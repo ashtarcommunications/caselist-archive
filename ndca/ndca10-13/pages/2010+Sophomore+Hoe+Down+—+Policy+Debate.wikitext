@@ -1,0 +1,6 @@
+This is a list of only those teams that are competing at the 2010 Sophomore Hoe Down at St. Mark's. It was automatically generated using tags and is not an official list.
+[[include component="pageList" hideInternal="true" tag="2010 sophomore hoe down" limit="1000" ]]
+
+[[include page="space.template.Footer"]]
+
+Sorry, I'm not sure how to change the list, but Juan Diego Catholic (UT) --- Sean Williams & Ryan Keenan should also be on the list. We are on the main policy page.

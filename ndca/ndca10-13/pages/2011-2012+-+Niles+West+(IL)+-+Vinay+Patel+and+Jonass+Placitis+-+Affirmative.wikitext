@@ -1,0 +1,427 @@
+<span style="background-color: #ffffff;">[[toc]]
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=<span style="background-color: #ffffff;">Affirmative</span>= 
+==<span style="font-family: Georgia,serif;">1AC Evanston</span>== 
+===<span style="font-family: Georgia,serif;">Plan Text</span>=== 
+**<span style="font-family: Georgia,serif;">Plan: The United States federal government should deploy the Brilliant Pebbles ballistic missile defense system beyond the Earth’s mesosphere.</span>**
+
+===Contention 1: Inherency=== 
+
+**<span style="font-family: Georgia,serif;">Space militarization is inevitable because of U.S. perception</span>**
+
+**<span style="font-family: Georgia,serif;">A. China is targeting any US satellites that have advantages because they view them as weapons</span>**
+**<span style="color: #222222; font-family: Georgia,serif; font-size: 12pt;">The Space Review 11/14</span>** <span style="font-family: Georgia,serif;">(“Staring into the eyes of the Dragon.”, [[@http://www.thespacereview.com/article/1970/1|__http://www.thespacereview.com/article/1970/1__]], 11/14/11)</span>
+
+<span style="color: #222222; font-family: Georgia,serif; font-size: 8pt;">The first speaker was Kevin Pollpeter, ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> same vulnerabilities as the Americans.</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">B. Countries __perceive__ U.S. as weaponizing now</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Brown, 09</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – School of International Studies at Nanyang Technological University (Trevor, Spring 2009, “Soft Power and Space Weaponization”, http://www.airpower.au.af.mil/airchronicles/apj/apj09/spr09/brown.html)</span>
+
+<span style="font-family: Georgia,serif;">The problem for the United States is...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> hard power (i.e., the ability to coerce).8</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">C. Space is being militarized in order to counter the United States</span>**
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Lynn 11</span>**<span style="font-family: Georgia,serif;">- William J. Lynn III , U.S. Deputy Secretary of Defense, (2011): A Military Strategy for the New Space Environment, The Washington Quarterly, 34:3, 7-16 To link to this article: [[http://dx.doi.org/10.1080/0163660X.2011.586933|__http://dx.doi.org/10.1080/0163660X.2011.586933__]] hnasser </span>
+
+<span style="font-family: Georgia,serif;">During the Cold War</span><span style="font-family: Georgia,serif; font-size: 8pt;">, space largely ... </span><span style="font-family: Georgia,serif;">capable of countering U.S. space capabilities.</span>
+
+
+===Contention 2: China=== 
+
+
+**<span style="font-family: Georgia,serif;">Current Chinese Documents show a commitment to weaponization of ASATs, hold the ability to attack US satellites</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">MacDonald, 5/11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – US Institute of Peace (11, Bruee W., Testimony before the U.S.-China Economic and Security Review Commission on The Implications of China’s Military and Civil Space Programs, pdf)</span>
+
+__<span style="font-family: Georgia,serif;">This</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> hearing </span>__<span style="font-family: Georgia,serif;">is</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> timely, and ... space, electromagnetic space and cyber space.” </span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">China is pursuing offensive ballistic missile and counter-space measures that can destroy every aspect of space power.</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">TPM 11/16</span>**<span style="font-family: Georgia,serif;"> (Talking Points Memo news, “U.S. China Satellite Hacking Report Published.” http://idealab.talkingpointsmemo.com/2011/11/us-satellite-hacking-report-published.php)</span>
+
+__<span style="font-family: Georgia,serif;">China’s military space efforts are concentrated ... </span>____<span style="font-family: Georgia,serif;">systems, and com- munications links.”</span>__
+
+**<span style="font-family: Georgia,serif;">Protecting satellites is a key part of SMD</span>**
+**<span style="font-family: Georgia,serif;">IFPA 9</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (The Institute for Foreign Policy Analysis, Inc., IFPA’s products and services help government policy-makers, military and industry leaders, and the broader public policy communities make informed decisions in a complex and dynamic global environmentSpace and US Security: A Net Assessment, January 2009, pdf)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">Lastly, as noted earlier, Dr. Pfaltzgraff ...</span>__<span style="font-family: Georgia,serif; font-size: 11pt;"> for s</span>____<span style="font-family: Georgia,serif; font-size: 11pt;">pace-based missile defense</span>__<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+**<span style="font-family: Georgia,serif;">GPS is critical to disaster mitigation and response</span>**
+**<span style="font-family: Georgia,serif;">Thomas 8 </span>**<span style="font-family: Georgia,serif; font-size: 10pt;">(Nikolai, “GIS and Disaster Management: A case of Jamaica”, [[http://www.cuso.org/_files/Jamaica_Risk_GIS_Ngignac_e.pdf]], 2/2/8) </span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">What is GPS? The term global positioning ... about volcanic activity can be made. </span>
+
+**<span style="font-family: Georgia,serif;">Extinction</span>**
+**<span style="font-family: Georgia,serif;">Sid-Ahmed 5 </span>**<span style="font-family: Georgia,serif; font-size: 10pt;">(Mohamed, Al-Ahram Online, Jan 6-12, http://weekly.ahram.org.eg/2005/724/op3.htm) </span>
+
+<span style="font-family: Georgia,serif;">Until recently, the threat Nature represented ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> in advance are added to the equation. </span>
+
+**<span style="font-family: Georgia,serif;">Protecting satellites and GPS systems is key to the global economy </span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Tucker 2008</span>****<span style="font-family: Georgia,serif;"> – </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">masters thesis presented to SCHOOL OF ADVANCED AIR AND SPACE STUDIESAIR UNIVERSITY; Lieutenant Colonel; also received a masters in military operational art and science from Air Command and Staff College; many military honors (Dennis P., “PRESERVING UNITED STATES DOMINANCE: THE BENEFITS OF WEAPONIZING THE HIGH GROUND.” Air University Research, downloaded from https://www.afresearch.org/skins/rims/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=299bb723-5d89-4d74-9a4e-bcc36ba5a9fe) CMR </span>
+
+__<span style="font-family: Georgia,serif;">The positioning and navigation capabilities ...</span>____<span style="font-family: Georgia,serif;"> that too often precedes military conflict.</span>__
+
+**<span style="font-family: Georgia,serif;">Economic collapse leads to miscalc, instability, terrorism and global war</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Auslin, 9</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – resident scholar at AEI (Michael “Averting Disaster”, The Daily Standard, 2/6, http://www.aei.org/article/100044</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">As they deal with a collapsing world ...</span>__<span style="font-family: Georgia,serif;">destroyed international systems in the past</span>__<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+===Contention 3: War=== 
+
+
+**<span style="font-family: Georgia,serif;">We’ll Isolate 2 Scenarios for Conflict:</span>**
+
+**<span style="font-family: Georgia,serif;">1. North Korean prolif now</span>**
+**<span style="font-family: Georgia,serif;">Bolton 11</span>**<span style="font-family: Georgia,serif; font-size: 11pt;"> – (</span><span style="font-family: Georgia,serif; font-size: 8pt;">John R. Bolton, 7/14/11, a former U.S. ambassador to the United Nations, is a senior fellow at the American Enterprise Institute, “North Korea edges toward next nuke test,” http://www.washingtontimes.com/news/2011/jul/14/north-korea-edges-toward-next-nuke-test/)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">You wouldn’t know it from the Obama ... pro forma that the troublemaking DPRK is still at it.</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Absent US SMD, North Korea will initiate nuclear war – US must be the leader, other countries not taking action</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Klingner 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (Bruce, 1/12/11, Senior Research Fellow at the Heritage Foundation, Middlebury College, [[http://online.wsj.com/article/SB10001424052748704803604576077370602312808.html]], 9/20/11)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">Secretary of Defense Robert Gates ... respective stances on missile defense. </span>
+
+**<span style="font-family: Georgia,serif;">2. Iran proliferating now</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">BBC News 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (9/2/11, “UN 'growing concern' over Iran nuclear weapons plan” [[http://www.bbc.co.uk/news/world-middle-east-14770123]], 9/20/11)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">The UN nuclear watchdog says it ... the major source of Iran's income. </span>
+
+**<span style="font-family: Georgia,serif;">Iran is not going to stop proliferating and is an existential risk that will kill us all if we don’t stop them</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">AP 11/9</span>**<span style="font-family: Georgia,serif;"> (Associated Press, Ali Akbar Dareini, “Iran vows no retreat from nuclear path”, [[http://www.boston.com/news/world/middleeast/articles/2011/11/09/ahmadinejad_iran_wont_retreat_from_nuclear_path/]], 11/9/11) </span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">TEHRAN, Iran—President Mahmoud Ahmadinejad ..." he said on France's RFI radio. </span>
+
+===Contention 4: Solvency=== 
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Brilliant pebbles is the best option for defense against attacks </span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Bendikova, 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (Michaela, 8/1/11, Research Assistant of the Heritage Foundation, Research Fellow at the International Institute of Political Science, M.S. in Defense and Strategic studies at Missouri State U, “A Good Step for NATO Missile Defense—from France”, 9/15/11)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">The French Senate Committee on Foreign Affairs, ... for the development of missile defenses.</span>
+
+**<span style="font-family: Georgia,serif;">Brilliant Pebbles is already created, just need to send it up</span>**
+**<span style="font-family: Georgia,serif;">AFPC, 2</span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(American Foreign Policy Council, “Summary of Remarks, 12/18/02, [[http://www.missilethreat.com/missiledefensesystems/id.13/system_detail.asp]])</span>
+
+<span style="font-family: Georgia,serif;">Brilliant Pebbles remained on the shelf ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> nuclear, chemical, and biological warheads. </span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">21st century MAD doesn’t work – irrationality proves we need a missile defense system to deter conflict and hit missiles</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">May 11</span>**<span style="font-family: Georgia,serif;"> (Clifford D., President of the Foundation for Defense of Democracies, Chairman of the Policy Committee of the Committee on the Present Danger (CPD), masters degrees from both Columbia University's School of Public and International Affairs and its School of Journalism, “MAD in the 21st Century”, [[http://www.nationalreview.com/articles/271238/mad-21st-century-clifford-d-may]], 7/7/11) </span>
+
+<span style="font-family: Georgia,serif;">On</span><span style="font-family: Georgia,serif; font-size: 8pt;"> Tuesday, </span><span style="font-family: Georgia,serif;">June 28</span><span style="font-family: Georgia,serif; font-size: 8pt;">, outside the holy ...a renewed, improved, and readily deployable system. </span>
+
+**<span style="font-family: Georgia,serif;">Space BMD prevents arms race, prolif, solves instability, and deters conflict even in the development stage – means we solve once the plan is passed. </span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">IFPA 9</span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Institute for Foreign Policy Analysis, Sponsored by the American Foreign Policy Council, the Marshall Institute, Heritage, Claremont, Missouri State University, et al, “Independent Working Group on Missile Defense, the Space Relationship,& the Twenty-First Century’s 2009 Report,” https://www.claremont.org/repository/docLib/200901291_iwg2009.pdf, EMM)</span>
+
+American missile defense will cause ...<span style="font-family: Georgia,serif; font-size: 8pt;">by the U.S. government after 1993.10 </span>
+
+**<span style="font-family: Georgia,serif;">Brilliant pebbles can solve emerging missile threats from China, Russia, North Korea, Iran, and other rogue states – it’s multilayered and equipped to deal with countermeasures</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Mooney 08</span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Kevin, staff writer for CNS News. “Space-Based Missile Defense Needed to Counter Global Threats, Experts Say” http://www.cnsnews.com/public/Content/Article.aspx?rsrcid=36145)</span>
+
+__<span style="font-family: Georgia,serif;">Only a space-based missile defense ...</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> architecture over the long term.</span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">SMD solves deterrence – and even if it fails, it contains the consequences</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Bowen 10</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;">. (Gregory S., Colonel for the US Army National Guard and currently Commander of the 100th Missile Defense Brigade and a distinguished military graduate. “Ballistic Missile Defense and Deterrence: Not Mutually Exclusive.” 12/5/10.[[http://www.dtic.mil.proxy.lib.umich.edu/cgi-bin/GetTRDoc?AD=ADA526100&Location=U2&doc=GetTRDoc.pdf]]</span>
+
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;"> While critics of missile defense ... deployed ballistic missile defenses.</span>
+
+==1AC Lane Tech== 
+===<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 15px;">Plan Text:</span>=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 15px;">Plan: The United States federal government should deploy the Brilliant Pebbles ballistic missile defense system beyond the Earth’s mesosphere.</span>
+
+* ===Inherency=== 
+
+**<span style="font-family: Georgia,serif;">Space militarization is inevitable because of U.S. perception</span>**
+
+**<span style="font-family: Georgia,serif;">A. China is targeting any US satellites that have advantages because they view them as weapons</span>**
+**<span style="color: #222222; font-family: Georgia,serif; font-size: 12pt;">The Space Review 11/14</span>** <span style="font-family: Georgia,serif;">(“Staring into the eyes of the Dragon.”, <span style="color: windowtext;">[[@http://www.thespacereview.com/article/1970/1]]</span>, 11/14/11)</span>
+
+<span style="color: #222222; font-family: Georgia,serif; font-size: 8pt;">The first speaker was Kevin Pollpeter</span><span style="font-family: Georgia,serif; font-size: 8pt;"> ... same vulnerabilities as the Americans.</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">B. Countries __perceive__ U.S. as weaponizing now</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Brown, 09</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – School of International Studies at Nanyang Technological University (Trevor, Spring 2009, “Soft Power and Space Weaponization”, http://www.airpower.au.af.mil/airchronicles/apj/apj09/spr09/brown.html)</span>
+
+<span style="font-family: Georgia,serif;">The problem for the United States ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> power (i.e., the ability to coerce).8</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">C. Space is being militarized in order to counter the United States</span>**
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Lynn 11</span>**<span style="font-family: Georgia,serif;">- William J. Lynn III , U.S. Deputy Secretary of Defense, (2011): A Military Strategy for the New Space Environment, The Washington Quarterly, 34:3, 7-16 To link to this article: <span style="color: blue;">[[http://dx.doi.org/10.1080/0163660X.2011.586933]]</span> hnasser </span>
+
+<span style="font-family: Georgia,serif;">During the Cold War</span><span style="font-family: Georgia,serif; font-size: 8pt;">, space ... w</span><span style="font-family: Georgia,serif;">eapons capable of countering U.S. space capabilities.</span>
+
+* ===<span style="font-family: Georgia,serif;">China</span>=== 
+
+**<span style="font-family: Georgia,serif;">Current Chinese Documents show a commitment to weaponization of ASATs, hold the ability to attack US satellites</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">MacDonald, 5/11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – US Institute of Peace (11, Bruee W., Testimony before the U.S.-China Economic and Security Review Commission on The Implications of China’s Military and Civil Space Programs, pdf)</span>
+
+__<span style="font-family: Georgia,serif;">This</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> hearing </span>__<span style="font-family: Georgia,serif;">is</span>__<span style="font-family: Georgia,serif; font-size: 8pt;"> timely ... interests in space, electromagnetic space and cyber space.” </span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">China is pursuing offensive ballistic missile and counter-space measures that can destroy every aspect of space power.</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">TPM 11/16</span>**<span style="font-family: Georgia,serif;"> (Talking Points Memo news, “U.S. China Satellite Hacking Report Published.” http://idealab.talkingpointsmemo.com/2011/11/us-satellite-hacking-report-published.php)</span>
+
+__<span style="font-family: Georgia,serif;">China’s military space efforts ... </span>____<span style="font-family: Georgia,serif;">space-based systems, and com- munications links.”</span>__
+
+**<span style="font-family: Georgia,serif;">Protecting satellites is a key part of SMD</span>**
+<span style="font-family: Georgia,serif;">IFPA 9</span><span style="font-family: Georgia,serif; font-size: 8pt;"> (The Institute for Foreign Policy Analysis, Inc., IFPA’s products and services help government policy-makers, military and industry leaders, and the broader public policy communities make informed decisions in a complex and dynamic global environmentSpace and US Security: A Net Assessment, January 2009, pdf)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">Lastly, as noted earlier, Dr. Pfaltzgraff ...</span>__<span style="font-family: Georgia,serif; font-size: 11pt;"> requirements for s</span>____<span style="font-family: Georgia,serif; font-size: 11pt;">pace-based missile defense</span>__<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+**<span style="font-family: Georgia,serif;">GPS is critical to disaster mitigation and response</span>**
+<span style="font-family: Georgia,serif;">Thomas 8 </span><span style="font-family: Georgia,serif; font-size: 10pt;">(Nikolai, “GIS and Disaster Management: A case of Jamaica”, [[http://www.cuso.org/_files/Jamaica_Risk_GIS_Ngignac_e.pdf]], 2/2/8) </span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">What is GPS? The term ... inferences about volcanic activity can be made. </span>
+
+**<span style="font-family: Georgia,serif;">Extinction</span>**
+<span style="font-family: Georgia,serif;">Sid-Ahmed 5 </span><span style="font-family: Georgia,serif; font-size: 10pt;">(Mohamed, Al-Ahram Online, Jan 6-12, http://weekly.ahram.org.eg/2005/724/op3.htm) </span>
+
+<span style="font-family: Georgia,serif;">Until recently, the threat ...</span><span style="font-family: Georgia,serif; font-size: 8pt;"> in advance are added to the equation. </span>
+
+**<span style="font-family: Georgia,serif;">Protecting satellites and GPS systems is key to the global economy – internet communications and secure encryption networks </span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Tucker 2008</span>****<span style="font-family: Georgia,serif;"> – </span>**<span style="font-family: Georgia,serif; font-size: 8pt;">masters thesis presented to SCHOOL OF ADVANCED AIR AND SPACE STUDIESAIR UNIVERSITY; Lieutenant Colonel; also received a masters in military operational art and science from Air Command and Staff College; many military honors (Dennis P., “PRESERVING UNITED STATES DOMINANCE: THE BENEFITS OF WEAPONIZING THE HIGH GROUND.” Air University Research, downloaded from https://www.afresearch.org/skins/rims/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=299bb723-5d89-4d74-9a4e-bcc36ba5a9fe) CMR </span>
+
+__<span style="font-family: Georgia,serif;">The positioning and navigation capabilities ... </span>____<span style="font-family: Georgia,serif;">often precedes military conflict.</span>__
+
+**<span style="font-family: Georgia,serif;">Economic collapse leads to miscalc, instability, terrorism and global war</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Auslin, 9</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> – resident scholar at AEI (Michael “Averting Disaster”, The Daily Standard, 2/6, http://www.aei.org/article/100044</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">As they deal with a collapsing world economy...</span>__<span style="font-family: Georgia,serif;"> destroyed international systems in the past</span>__<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+* ===<span style="font-family: Georgia,serif; font-size: 8pt;">War</span>=== 
+
+**<span style="font-family: Georgia,serif;">We’ll Isolate 2 Scenarios for Conflict:</span>**
+
+**<span style="font-family: Georgia,serif;">1. North Korean prolif now</span>**
+<span style="font-family: Georgia,serif;">Bolton 11</span><span style="font-family: Georgia,serif; font-size: 11pt;"> – (</span><span style="font-family: Georgia,serif; font-size: 8pt;">John R. Bolton, 7/14/11, a former U.S. ambassador to the United Nations, is a senior fellow at the American Enterprise Institute, “North Korea edges toward next nuke test,” http://www.washingtontimes.com/news/2011/jul/14/north-korea-edges-toward-next-nuke-test/)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">You wouldn’t know it from the Obama administration, but </span><span style="font-family: Georgia,serif; font-size: 11pt;">North ... </span><span style="font-family: Georgia,serif; font-size: 8pt;">have done much beyond noting pro forma that the troublemaking DPRK is still at it.</span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Absent US SMD, North Korea will initiate nuclear war – US must be the leader, other countries not taking action</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Klingner 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (Bruce, 1/12/11, Senior Research Fellow at the Heritage Foundation, Middlebury College, [[http://online.wsj.com/article/SB10001424052748704803604576077370602312808.html]], 9/20/11)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">Secretary of Defense Robert Gates made headlines </span><span style="font-family: Georgia,serif;">... </span><span style="font-family: Georgia,serif; font-size: 8pt;">change their respective stances on missile defense. </span>
+
+**<span style="font-family: Georgia,serif;">2. Iran proliferating now</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">BBC News 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (9/2/11, “UN 'growing concern' over Iran nuclear weapons plan” [[http://www.bbc.co.uk/news/world-middle-east-14770123]], 9/20/11)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">The UN nuclear watchdog says ... the major source of Iran's income. </span>
+
+**<span style="font-family: Georgia,serif;">Iran is not going to stop proliferating and is an existential risk that will kill us all if we don’t stop them</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">AP 11/9</span>**<span style="font-family: Georgia,serif;"> (Associated Press, Ali Akbar Dareini, “Iran vows no retreat from nuclear path”, [[http://www.boston.com/news/world/middleeast/articles/2011/11/09/ahmadinejad_iran_wont_retreat_from_nuclear_path/]], 11/9/11) </span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">TEHRAN, Iran—President Mahmoud Ahmadinejad vowed ...</span><span style="font-family: Georgia,serif;"> region and beyond,</span><span style="font-family: Georgia,serif; font-size: 8pt;">" he said on France's RFI radio. </span>
+
+* ===<span style="font-family: Georgia,serif; font-size: 8pt;">Solvency</span>=== 
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Brilliant pebbles is the best option for defense against attacks </span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Bendikova, 11</span>**<span style="font-family: Georgia,serif; font-size: 8pt;"> (Michaela, 8/1/11, Research Assistant of the Heritage Foundation, Research Fellow at the International Institute of Political Science, M.S. in Defense and Strategic studies at Missouri State U, “A Good Step for NATO Missile Defense—from France”, 9/15/11)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">The French Senate Committee on Foreign Affairs ... take note of the French efforts, which are a step in the right direction for the development of missile defenses. </span>
+
+**<span style="font-family: Georgia,serif;">Brilliant Pebbles is already created, just need to send it up</span>**
+<span style="font-family: Georgia,serif;">AFPC, 2</span><span style="font-family: Georgia,serif; font-size: 8pt;">(American Foreign Policy Council, “Summary of Remarks, 12/18/02, [[http://www.missilethreat.com/missiledefensesystems/id.13/system_detail.asp]])</span>
+
+<span style="font-family: Georgia,serif;">Brilliant Pebbles remained on the shelf ... </span><span style="font-family: Georgia,serif; font-size: 8pt;">against nuclear, chemical, and biological warheads. </span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">21st century MAD doesn’t work – irrationality proves we need a missile defense system to deter conflict and hit missiles</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">May 11</span>**<span style="font-family: Georgia,serif;"> (Clifford D., President of the Foundation for Defense of Democracies, Chairman of the Policy Committee of the Committee on the Present Danger (CPD), masters degrees from both Columbia University's School of Public and International Affairs and its School of Journalism, “MAD in the 21st Century”, [[http://www.nationalreview.com/articles/271238/mad-21st-century-clifford-d-may]], 7/7/11) </span>
+
+<span style="font-family: Georgia,serif;">On</span><span style="font-family: Georgia,serif; font-size: 8pt;"> Tuesday, </span><span style="font-family: Georgia,serif;">June 28</span><span style="font-family: Georgia,serif; font-size: 8pt;">, outside the holy city of Qom</span><span style="font-family: Georgia,serif;">, the rulers of the Islamic Republic ...</span><span style="font-family: Georgia,serif; font-size: 8pt;">while also developing a renewed, improved, and readily deployable system. </span>
+
+**<span style="font-family: Georgia,serif;">Space BMD prevents arms race, prolif, solves instability, and deters conflict even in the development stage – means we solve once the plan is passed</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">IFPA 9</span>**<span style="font-family: Georgia,serif; font-size: 8pt;">(Institute for Foreign Policy Analysis, Sponsored by the American Foreign Policy Council, the Marshall Institute, Heritage, Claremont, Missouri State University, et al, “Independent Working Group on Missile Defense, the Space Relationship,& the Twenty-First Century’s 2009 Report,” https://www.claremont.org/repository/docLib/200901291_iwg2009.pdf, EMM)</span>
+
+American missile defense will ...<span style="font-family: Georgia,serif; font-size: 8pt;"> discontinued by the U.S. government after 1993.10 </span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">SMD solves deterrence – and even if it fails, it contains the consequences</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Bowen 10</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;">. (Gregory S., Colonel for the US Army National Guard and currently Commander of the 100th Missile Defense Brigade and a distinguished military graduate. “Ballistic Missile Defense and Deterrence: Not Mutually Exclusive.” 12/5/10.[[http://www.dtic.mil.proxy.lib.umich.edu/cgi-bin/GetTRDoc?AD=ADA526100&Location=U2&doc=GetTRDoc.pdf]]</span>
+
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;"> While critics of missile defense ... U.S. deployed ballistic missile defenses.</span>
+
+----
+==<span style="background-color: #ffffff;">1AC - Brilliant Pebbles</span>== 
+===<span style="background-color: #ffffff;">[[#Affirmative-1AC - Brilliant Pebbles-Plan]]</span>=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">Thus, the plan: The United States federal government should deploy the Brilliant Pebbles ballistic missile defense system beyond the Earth’s mesosphere.</span>
+* ===<span style="background-color: #ffffff;">Inherency</span>=== 
+<span style="background-color: #ffffff; font-family: Georgia,serif;">US being challenged by other countries – space systems in danger of attack</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Forrest E. </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Morgan 10</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">, Ph.D. in policy studies, University of Maryland; M.A.A.S. in airpower arts and sciences, Senior political scientist @ Rand, 9/15/, [[http://www.rand.org/pubs/monographs/2010/RAND_MG916.pdf]], “Deterrence and First-Strike Stability in Space”</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">Given the great extent to which ... </span><span style="background-color: #ffffff; font-family: Georgia,serif;">in space may be eroding.</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Despite these threats, nothing to pre-empt these attacks now</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Baker </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Spring 11</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">, senior fellow in national security policy at Heritage, specializes in missile threats, 5-3-, Heritage, “Sixteen Steps to Comprehensive Missile Defense: What the FY 2012 Budget Should Fund” </span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">The Administration’s Missile Defense Programs for </span>__<span style="background-color: #ffffff; font-family: Georgia,serif;">... conducted a successful interception in 2009</span>__
+
+* ===__<span style="background-color: #ffffff; font-family: Georgia,serif;">China Advantage</span>__=== 
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">ASATs are the biggest threat to US technology and satellites</span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Lynn 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">-deputy secretary of defense, senior fellow @ the National Defense University, Masters in Public Affairs @ Princeton University, J.D. @ Cornell Law School, B.A. @ Dartmouth College [William, Aviation Week & Space Technology, “Raising Pedigree,” April 11, 2011, interviewed by Amy Butler, LexisNexis]</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Twenty or 30 years ago, </span>__<span style="background-color: #ffffff; font-family: Georgia,serif;">… </span>__<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">effort to focus on this problem?</span>
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">China surpassing US in tech and space leadership due to lack of engagement</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">AP 7/11</span><span style="background-color: #ffffff; font-size: 8pt;">[[http://hosted.ap.org/dynamic/stories/A/AS_CHINA_SPACE?SITE=DCSAS&SECTION=HOME&]] TEMPLATE=DEFAULT&CTIME=2011-07-11-10-14-46, “China's space program shoots for moon, Mars, Venus”</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">BEIJING (AP) -- This … and crew to the space station.</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">U.S. space leadership needed for national security, economics, and communications</span>
+<span class="DebateUnderline" style="background-color: #ffffff;">**<span style="font-family: Georgia,serif; font-size: 12pt;">Stevens, 2011, </span>**J. P. Stevens, </span><span style="background-color: #ffffff; font-family: Georgia,serif;">Vice President, Space Systems, Maintain U.S. global leadership in space, [[http://www.aia-aerospace.org/issues_policies/space/maintain/]]</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">U.S. space efforts … a healthy and innovative industrial sector. </span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">China is targeting any US satellites that have advantages, regardless of their own insecurities.</span>
+**<span style="background-color: #ffffff; color: #222222; font-family: Georgia,serif;">The Space Review 11/14</span>** <span style="background-color: #ffffff; color: #222222; font-family: Georgia,serif;">(“Staring into the eyes of the Dragon.”, </span><span style="background-color: #ffffff; color: #1155cc; font-family: Georgia,serif;">[[@http://www.thespacereview.com/article/1970/1]]</span><span style="background-color: #ffffff; color: #222222; font-family: Georgia,serif;">, 11/14/11)</span>
+<span style="background-color: #ffffff; color: #222222; font-family: Georgia,serif; font-size: 8pt;">The first speaker was Kevin Pollpeter… </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">the same vulnerabilities as the Americans.</span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">China is pursuing offense ballistic missile and counterspace measures that can destroy every aspect of space power.</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">TPM 11/16</span>**<span style="background-color: #ffffff; font-family: Georgia,serif;"> (Talking Points Memo news, “U.S. China Satellite Hacking Report Published.”[[http://idealab.talkingpointsmemo.com/2011/11/us-satellite-hacking-report-published.php]])</span>
+__<span style="background-color: #ffffff; font-family: Georgia,serif;">China’s military space efforts are concentrated …, and com- munications links.”</span>__
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Protecting satellites is a key part of SMD</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">IFPA 9</span><span style="background-color: #ffffff; font-size: 8pt;"> (The Institute for Foreign Policy Analysis, Inc., IFPA’s products and services help government policy-makers, military and industry leaders, and the broader public policy communities make informed decisions in a complex and dynamic global environmentSpace and US Security: A Net Assessment, January 2009, pdf)</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Lastly, as noted earlier, ... </span>__<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">for s</span>____<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">pace-based missile defense</span>__<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">.</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Protecting satellites and GPS systems is key to the global economy – internet communications and secure encryption networks </span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Tucker 2008</span>****<span style="background-color: #ffffff; font-family: Georgia,serif;"> – </span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">masters thesis presented to SCHOOL OF ADVANCED AIR ... SPACE STUDIESAIR UNIVERSITY; Lieutenant Colonel; also received a masters in military operational art and science from Air Command and Staff College; many military honors (Dennis P., “PRESERVING UNITED STATES DOMINANCE: THE BENEFITS OF WEAPONIZING THE HIGH GROUND.” Air University Research, downloaded from [[https://www.afresearch.org/skins/rims/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=299bb723-5d89-4d74-9a4e-bcc36ba5a9fe]]) CMR </span>
+
+__<span style="background-color: #ffffff; font-family: Georgia,serif;">The positioning and navigation capabilities of ... that</span>____<span style="background-color: #ffffff; font-family: Georgia,serif;"> too often precedes military conflict.</span>__
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Economic collapse leads to miscalc, instability, terrorism and global war</span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Auslin, 9</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> – resident scholar at AEI (Michael “Averting Disaster”, The Daily Standard, 2/6, [[http://www.aei.org/article/100044]]</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">As they deal with a collapsing ... </span>__<span style="background-color: #ffffff; font-family: Georgia,serif;">destroyed international systems in the past</span>__<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Specifically, GPS key to solve for terrorism</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Bartlett, 09</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (Greg, University of Virginia, The John Hopkins University, 4/12/09, “GPS Tracking System and Terrorism”,</span><span style="background-color: #ffffff; font-family: Georgia,serif;">[[http://www.rmtracking.com/blog/2009/04/20/gps-tracking-system-and-terrorism/]]</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">, 9/13/11)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Let’s face it. The United ... protect our communities from terrorist attacks. </span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Terrorism causes Nuclear War</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Bogis, 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (Arnold, 6/2/11, M.A. in Security Policy Studies at Georgetown U, Researches Radiological and Nuclear terrorism as well as homeland security strategy at Harvard Belfer Center for Science and International Affairs, “A Joint U.S.-Russian assessment of the Nuclear Terrorism Threat”, [[http://www.hlswatch.com/2011/06/09/a-joint-u-s-russian-assessment-of-the-nuclear-terrorism-threat/]] 9/15/11)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Long-time readers of this ... of Russia, 1997–1998. </span>
+
+* ===<span style="background-color: #ffffff;">Rogue States Advantage</span>=== 
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">We’ll isolate three scenarios for conflict.</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">1. North Korean prolif now</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Bolton 11</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;"> – (</span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">John R. Bolton, 7/14/11, a former U.S. ambassador to the United Nations, is a senior fellow at the American Enterprise Institute, “North Korea edges toward next nuke test,” [[http://www.washingtontimes.com/news/2011/jul/14/north-korea-edges-toward-next-nuke-test/]])</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">You wouldn’t know it from the ... troublemaking DPRK is still at it.</span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Absent US SMD, North Korea will initiate nuclear war – US must be the leader, other countries not taking action</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Klingner 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (Bruce, 1/12/11, Senior Research Fellow at the Heritage Foundation, Middlebury College,[[http://online.wsj.com/article/SB10001424052748704803604576077370602312808.html]], 9/20/11)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Secretary of Defense Robert Gates made ... their respective stances on missile defense. </span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">2. Iran proliferating now</span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">BBC News 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (9/2/11, “UN 'growing concern' over Iran nuclear weapons plan” [[http://www.bbc.co.uk/news/world-middle-east-14770123]], 9/20/11)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">The UN nuclear watchdog says it ... the major source of Iran's income. </span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">If unchecked, leads to nuclear war in Middle East</span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Ben-Meir 7</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (Alon, professor of international relations at the Center for Global Affairs at NYU, 2/6/07, Realpolitik: Ending Iran's defiance,[[http://www.upi.com/Security_Industry/2007/02/06/Realpolitik-Ending-Irans-defiance/UPI-69491170778058/]])</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Feeling emboldened and unrestrained, Tehran ... </span>__<span style="background-color: #ffffff; font-family: Georgia,serif;">of not halting its nuclear program.</span>__
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Prolif causes Extinction</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Utgoff, 2 </span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">(Victor – deputy director for strategy, forces and resources division at the Institute for Defense Analysis, Survival)</span>
+__<span style="background-color: #ffffff; font-family: Georgia,serif;">Widespread proliferation is likely to lead ... of dead cities or even whole nations</span>__
+<span style="background-color: #ffffff; font-family: Georgia,serif;">3. EMP terrorism would lead to econ collapse and extinction</span>
+<span class="Underline" style="background-color: #ffffff;">**<span style="font-family: Georgia,serif; font-size: 12pt;">Dolman and Cooper 11</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif;"> (Everett, </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">PhD and Professor of Comparative Military Studies @ US Air Force School of Advanced Air and Space Studies and Recipient of Central Intelligence’s Outstanding Intelligence Analyst Award, and Henry, Former Deputy for the Strategic and Space Systems of the DOD and Chairman of High Fronteir, a non-profit organization studying issues of missile defense and space, “Chapter 19: Increasing the Military Uses of Space,” Part of “Toward a Theory of Spacepower,” Edited by Charles Lutes and Peter Hays, National Defense University Press, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]], EMM)</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">But</span>__<span style="background-color: #ffffff; font-family: Georgia,serif;"> if a single missile were ... survival of our way of life.</span>__
+
+<span class="Underline" style="background-color: #ffffff;">**<span style="font-family: Georgia,serif; font-size: 12pt;">Brilliant Pebbles prevents North Korea, Iran, and terrorists attacks and solves wars quickly</span>**</span>
+<span class="Underline" style="background-color: #ffffff;">**<span style="font-family: Georgia,serif;">Dinerman, 08</span>**</span><span style="background-color: #ffffff; font-family: Georgia,serif;"> (Taylor, 9/8/08, Defense and Space Consultant and Writer at Wall Street Journal, The New Individualist, and the Space Review, </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">[[http://www.thespacereview.com/article/1205/1]], 9/19/11)</span>
+
+<span style="background-color: #ffffff; font-size: 8pt;">Anyone who wants to understand the ... </span><span style="background-color: #ffffff; font-family: Georgia,serif;">war and help shorten the conflict.</span>
+
+* ===<span style="background-color: #ffffff;">Solvency</span>=== 
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Brilliant pebbles is only way to create an effective SMD system and is key to deterrence and prevent nuclear attack.</span>**
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">Bendikova, 11</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;"> (Michaela, 8/1/11, Research Assistant of the Heritage Foundation, Research Fellow at the International Institute of Political Science, M.S. in Defense and Strategic studies at Missouri State U, “A Good Step for NATO Missile Defense—from France”, 9/15/11)</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">The French Senate Committee on Foreign ... for the development of missile defenses. </span>
+
+
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Brilliant Pebbles is already created, just need to send it up</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif;">AFPC, 2</span><span style="background-color: #ffffff; font-size: 8pt;">(American Foreign Policy Council, “Summary of Remarks, 12/18/02, [[http://www.missilethreat.com/missiledefensesystems/id.13/system_detail.asp]])</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Brilliant Pebbles remained on the shelf ... </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">, chemical, and biological warheads. </span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Space BMD prevents arms race, prolif, solves instability, and deters conflict even in the development stage – means we solve once the plan is passed. </span>
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">IFPA 9</span>**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">(Institute for Foreign Policy Analysis, Sponsored by the American Foreign Policy Council, the Marshall Institute, Heritage, Claremont, Missouri State University, et al, “Independent Working Group on Missile Defense, the Space Relationship,& the Twenty-First Century’s 2009 Report,” [[https://www.claremont.org/repository/docLib/200901291_iwg2009.pdf]], EMM)</span>
+
+__<span style="background-color: #ffffff; font-family: Georgia,serif;">American missile defense will cause an ... </span>__<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">S. government after 1993.10 </span>
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">SMD solves deterrence – and even if it fails, it contains the consequences</span>**
+
+**<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Bowen 10</span>**<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;">. (Gregory S., Colonel for the US Army National Guard and currently Commander of the 100th Missile Defense Brigade and a distinguished military graduate. “Ballistic Missile Defense and Deterrence: Not Mutually Exclusive.” 12/5/10.[[http://www.dtic.mil.proxy.lib.umich.edu/cgi-bin/GetTRDoc?AD=ADA526100&Location=U2&doc=GetTRDoc.pdf]]</span>
+
+<span style="background-color: white; font-family: Georgia,serif; font-size: 8pt;">While critics of missile defense … S. deployed ballistic missile defenses.</span>
+
+<span style="background-color: #ffffff; font-family: Georgia,serif;">Space-based BMD is fast, effective, and comparatively better than ground based defensive systems – legal in international law</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 12pt;">Kleinberg 11</span><span style="background-color: #ffffff; font-size: 8pt;"> (Howard, Prof Public and Intl. Affairs @ UNC Wilmington, April, “A Global Missile Defense Network: Terrestrial High-Energy Lasers and Aerospace Mirrors,” lexis)</span>
+<span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">Nevertheless, all things considered, </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 11pt;">... </span><span style="background-color: #ffffff; font-family: Georgia,serif; font-size: 8pt;">and the Twenty -First Century." </span>
+
+
+==<span style="background-color: #ffffff;">[[#Affirmative-1AC - Aliens]]1AC - Aliens</span>== 
+
+===<span style="background-color: #ffffff;">[[#Affirmative-1AC - Aliens-Advocacy Statement]]Advocacy Statement</span>=== 
+**<span style="background-color: #ffffff;"><span style="font-family: 'Times New Roman',serif;">Thus, w</span>e advocate that Ufology be taken as a legitimate science in order to accept the possibility of the extraterrestrial.</span>**
+
+===<span style="background-color: #ffffff;">[[#Affirmative-1AC - Aliens-Inherency]]**Inherency**</span>=== 
+<span style="background-color: #ffffff; font-size: 11pt;">Though there have been thousands of reports of UFOs, neither science nor the sovereign has attempted to take them seriously. The sovereign creates a “UFO taboo” marginalizing Ufology to protect itself from the questioning of its anthropocentric values. The UFO is seen as a non-object that must be ignored by the sovereign.</span>
+<span style="background-color: #ffffff; font-size: 11pt;">Wendt and Duvall 2008</span><span style="background-color: #ffffff; font-size: 8pt;"> (Alexander Wendt and Raymond Duvall, Duvall is a professor of political science at U. of Minnesota, Wendt is a constructivist IR Professor at Ohio State U., June 11 2008, Political Theory, Vol. 36, No. 4, “Sovereignty and the UFO,” [[http://ptx.sagepub.com/content/36/4/607]])</span>
+__<span style="background-color: #ffffff;">On March 30-31, AND saying they cannot ask the question.</span>__
+
+<span style="background-color: #ffffff; font-size: 11pt;">Humanity is trapped within the anthropological machine under the anthropocentric assumptions of the sovereign. The inclusive exclusions in society leave the sovereign unchallenged.</span>
+<span style="background-color: #ffffff; font-size: 11pt;">Wendt and Duvall 2008</span><span style="background-color: #ffffff; font-size: 8pt;"> (Alexander Wendt and Raymond Duvall, Duvall is a professor of political science at U. of Minnesota, Wendt is a constructivist IR Professor at Ohio State U., June 11 2008, Political Theory, Vol. 36, No. 4, “Sovereignty and the UFO,” [[http://ptx.sagepub.com/content/36/4/607]])</span>
+<span style="background-color: #ffffff; font-family: 'Times New Roman',serif; font-size: 8pt;">Throughout this contestation, however, AND </span>__<span style="background-color: #ffffff; font-family: 'Times New Roman',serif;">calls the “anthropological machine</span>__<span style="background-color: #ffffff; font-family: 'Times New Roman',serif; font-size: 8pt;">.”4</span>
+
+===<span style="background-color: #ffffff;">[[#Affirmative-1AC - Aliens-Anthropocentrism Advantage]]Anthropocentrism Advantage</span>=== 
+**<span style="background-color: #ffffff;">The anthropological machine separates humans from animals as two forms of life simultaneously creating a third form called bare life. Understanding it can solve. The machine is also responsible for the systems of authority that determine hierarchies that justify genocide and slavery.</span>**
+**<span style="background-color: #ffffff;">__Oliver__</span>**<span style="background-color: #ffffff; font-size: 8pt;">, W. Alton Jones Chair of Philosophy and Professor of Women's Studies at Vanderbilt University,</span>**<span style="background-color: #ffffff;">__07__</span>**<span style="background-color: #ffffff; font-size: 8pt;"> [Kelly, </span>//<span style="background-color: #ffffff; font-size: 8pt;">PhaenEx </span>//<span style="background-color: #ffffff; font-size: 8pt;">2, no. 2 (fall/winter 2007): 1-23; Stopping the Anthropological Machine: Agamben with Heidegger and Merleau-Ponty]</span>
+<span style="background-color: #ffffff; font-size: 8pt;">In //The Open//, Giorgio </span>__<span style="background-color: #ffffff;">Agamben AND can we hope to stop it.</span>__
+
+
+**<span style="background-color: #ffffff; font-size: 11pt;">The sovereign’s biopolitical system views all life as bare life, a disposable non-object without the right to live that can be destroyed at any time without punishment in a world-wide Holocaust through state violence. This form of biopolitics gives the sovereign the power over life and death of its subjects and generates widespread violence and brings us into the death camps.</span>**
+<span style="background-color: #ffffff; font-size: 11pt;">Giroux 2006 </span><span style="background-color: #ffffff; font-size: 8pt;">(Henry Giroux. Prof at McMaster, “Reading Hurricane Katrina:Race, Class, and the Biopolitics of Disposability,” College Literature[[http://www.freepatentsonline.com/article/College-Literature/151846472.html]]</span>
+<span style="background-color: #ffffff;">While biopolitics in Foucault and Hardt AND the Bush administration (Giroux 2005).</span>
+
+
+**<span style="background-color: #ffffff;">Anthropocentric sovereignty engages in the same eugenics and industrialized slaughter currently used to process billions of animals a year. If the sovereign is allowed to continue, its camps will be indistinguishable from slaughterhouses. As bare life, we are deemed sub-human giving the sovereign full necropolitical control.</span>**
+**<span style="background-color: #ffffff;">Wadiwel 04</span>**<span style="background-color: #ffffff; font-size: 8pt;"> (Dinesh Wadiwel. University of Western Sydney. “Animal by Any Other Name? Patterson and Agamben Discuss Animal (and Human) Life,” Borderlands Journal, vol 2, no. 1. [[http://www.16beavergroup.org/mtarchive/archives/001050.php]])</span>
+<span style="background-color: #ffffff;">7. Patterson draws on two AND to consider violence against animal life.</span>
+
+===<span style="background-color: #ffffff;">[[#Affirmative-1AC - Aliens-Solvency]]Solvency</span>=== 
+<span style="background-color: #ffffff; font-size: 11pt;">We engage in militant agnosticism: the best framework of resistance allowing us to “see” the UFO which is resisting the UFO taboo. Our advocacy also engages in scientific research which directly challenges the sovereign. Breaking the taboo exploits the Achilles heel of the sovereign and allows us to tear down anthropocentrism. As an epistemic authority, the judge has an obligation to display that the taboo must be broken by an aff ballot. </span>
+<span style="background-color: #ffffff; font-size: 11pt;">Wendt and Duvall 2008</span><span style="background-color: #ffffff; font-size: 8pt;"> (Alexander Wendt and Raymond Duvall, “Sovereignty and the UFO”, Profs at OSU and U of Minnesota, Political Theory. 2008.)</span>
+<span style="background-color: #ffffff;">Resistance We have called ours a AND rule that requires and sustains it.</span>
+
+<span style="background-color: #ffffff; font-size: 11pt;">“Seeing” the UFO presents a triple threat to the sovereign—physical, ontological, and metaphysical. The sovereign protects itself from this grave threat by forcing us to ignore the UFO. Challenging the sovereign’s beliefs is key to breaking down its political project. The UFO presents a unique subjective threat to the sovereign that cannot be matched by any other challenge. </span>
+**<span style="background-color: #ffffff;">Wendt and Duvall 2008</span>**<span style="background-color: #ffffff; font-size: 8pt;"> (Alexander Wendt and Raymond Duvall, Duvall is a professor of political science at U. of Minnesota, Wendt is a constructivist IR Professor at Ohio State U., June 11 2008, Political Theory, Vol. 36, No. 4, “Sovereignty and the UFO,” [[http://ptx.sagepub.com/content/36/4/607]])</span>
+__<span style="background-color: #ffffff;">If the limits of the governmental AND sovereignty that one must look first.</span>__
+
+===<span style="background-color: #ffffff;">[[#Affirmative-Framework]]__Framework__</span>=== 
+<span style="background-color: #ffffff; font-size: 11pt;">If we engaged in the practices of normative debate, we would only reinscribe the aesthetic of the sovereign. Breaking away from traditional debate is key to true empowerment and solvency making us Atticus Finch, not Dan Quayle.</span>
+<span style="background-color: #ffffff; font-size: 11pt;">Schlag1991</span><span style="background-color: #ffffff; font-size: 8pt;"> (Pierre Schlag, professor of law at the University of Colorado, 1991, 139 U. PA. L. REV.801, APRIL)</span>
+<span style="background-color: #ffffff; font-size: 8pt;">The problem for us, as AND </span><span style="background-color: #ffffff; font-size: 11pt;">largely the bureaucratic logic of institutions.</span>
+
+<span style="background-color: #ffffff; font-size: 11pt;">Having a plan is not a burden of the affirmative; it violates the idea of everything being debatable. Allowing for plan-less affs makes debate more creative and intellectual creating more participation.</span>
+<span style="background-color: #ffffff; font-size: 11pt;">Guevera 2004.</span><span style="background-color: #ffffff; font-size: 8pt;"> Omar Guevera, Professor of communication and director of forensics at Weber State “ADA Rules and What They Mean”[[http://www.ndtceda.com/pipermail/edebate/2004-October/058594.html]])</span>
+<span style="background-color: #ffffff;">Ok. I just want to AND . Just my 0.02$,</span>
+
+<span style="background-color: #ffffff; font-size: 11pt;">Affs that refuse to follow the guidelines of being policy-relevant are worth more to the debate community and deserve respect. Making policy the only way to run affirmatives destroys our space for ideas.</span>
+<span style="background-color: #ffffff; font-size: 11pt;">Jones 2009</span> <span class="ShrinkText" style="background-color: #ffffff; font-size: 8pt;">(Lee Jones is lecturer in International Relations at Queen Mary, University of London, BA Honors Univ of Warwick, MA in IR St Anthony’s, PhD IR Nuffield , Journal of Critical Globalization Studies Issue 1 2009. [[http://www.criticalglobalisation.com/Issue%201/125_131_JCGS1_JONES_TYRANNYPOLICYRELEVANCE.pdf]])</span>
+<span style="background-color: #ffffff; font-size: 8pt;">Indeed, the </span>__<span style="background-color: #ffffff;">tyranny of ‘AND Assistance, Science, and Technology.</span>__

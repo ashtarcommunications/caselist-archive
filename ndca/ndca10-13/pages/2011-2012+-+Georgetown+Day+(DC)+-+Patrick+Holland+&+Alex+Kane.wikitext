@@ -1,0 +1,123 @@
+[[toc]]
+=Affirmative= 
+=1AC – DTN= 
+
+**CONTENTION 1 IS CYBERSECURITY—**
+
+**The threat of a cyber warfare increases every day – multiple countries and terrorist groups will instigate attacks to cut off US access to space-enabled systems**
+**Coleman, 10**<span style="font-size: 8pt;"> - senior fellow at the Technolytics Institute, former chief strategist at Netscape and an adviser on cyber warfare and security (9/22, Kevin, “Satellites Could come Under Cyber Seige,” http://defensesystems.com/Articles/2010/09/02/Digital-Conflict-Cyber-Threat-to-Satellites.aspx?Page=1)</span>
+__Our nation’s defense and critical infrastructure have become more reliant on satellite systems............__<span style="font-size: 8pt;">The increased demand that is driving the increase in satellite systems and capabilities gives us the ability to build cybersecurity into new satellite systems rather than trying to bolt on security after the fact.</span>
+
+**These sorts of conflicts are inevitable because of US dependency – they will wreck the foundation for the military**
+**Denmark, 10 -** <span style="font-size: 8pt;">Fellow with the Center for a New American Security [By Abraham M. and Dr. James Mulvenon CNAS, Jan, Contested Commons: The Future of American Power in a Multipolar World [[http://www.cnas.org/files/documents/publications/CNAS%20Contested]] %20Commons%20Capstone_0.pdf Accessed Jun 21]</span>
+<span style="font-size: 8pt;">In an environment where all the stray bullets, mortars and bombs do not simply fall to Earth, but continue to fly around the world for decades, rendering much of the surface of the Earth uninhabitable. .........</span>__. Indeed, some may use space to strike at the United States__<span style="font-size: 8pt;"> and the international system, </span>__a kind of terrorism in zero gravity.__
+
+**Cyberterror causes global nuclear war – draws in the US, China, and Russia through miscalculation and crisis instability**
+**Fritz, 9**<span style="font-size: 8pt;"> – (July 2009, Jason, Former Captain, U.S. Army, Graduate of West Point, writer for the Center for New American Security, International Commission for Non Nuclear Proliferation and Disarmament, http://www.icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf?noredirect=1)</span>
+__All computers which are connected to the internet are susceptible to infiltration and remote control. ....__<span class="ShrinkText" style="font-size: 8pt;">.</span> __A sophisticated and all encompassing combination of traditional terrorism and cyber terrorism could be enough to launch nuclear weapons on its own, without the need for compromising command and control centres directly__<span style="font-size: 8pt;">.</span>
+
+**Escalation is certain – US doctrine treats cyber attacks as acts of war and promises military retaliation – MAD fails because responsibility and source are masked**
+**Sanger & Bumiller, 11**<span style="font-size: 8pt;"> - Chief Washington Correspondent for The New York Times & national affairs correspondent for the New York Times (5/31, David E. and Elisabeth, “Pentagon to Consider Cyberattacks Acts of War,” NYT, http://www.nytimes.com/2011/06/01/us/politics/01cyber.html)</span>
+__The Pentagon__<span style="font-size: 8pt;">, trying to create a formal strategy to deter cyberattacks on the United States, </span>__plans to issue a new strategy soon declaring that a computer attack from a foreign nation can be considered an act of war that may result in a military response.__<span style="font-size: 8pt;">...... Eventually Google concluded that the attack came from China. But American officials never publicly identified the country where it originated, much less whether it was state sanctioned or the action of a group of hackers.</span>
+
+
+
+**CONTENTION 2 IS HEG—**
+
+**We’re on the brink of a major invasion of the cyber systems that enable space intelligence and command and control systems - 20 nations, domestic actors, and non-state actors have the ability to probe DOD computer systems. Empirics prove an attack is coming**
+**Ginter, 7**<span style="font-size: 8pt;"> – Lieutenant Colonel, US army (2/22, Karl, “Space Technology and Network Centric Warfare: A Strategic Paradox,” USAWC Strategy Research Project, pdf)</span>
+__The cyber threat to DoD computer networks is real and poses a significant risk to the assured access and availability of critical warfighting systems that are networked into the GIG.....__<span style="font-size: 8pt;"> 35 Clearly, </span>__space-enabled NCW systems, whether C2, intelligence,__<span style="font-size: 8pt;"> space and missile warning, or even logistics, </span>__invite substantial risk__<span style="font-size: 8pt;"> where there is reliance on unclassified computer systems and </span>__where critical computer nodes are unprotected.__
+
+**The risk is high now – new software and defenses are inadequate – your evidence is wrong**
+**Mirza, 9/1**<span style="font-size: 8pt;"> - political-military analyst for the Hudson Institute (2011, Hassan, “Cyber-Attacks Are the Biggest National Security Threat,” http://www.policymic.com/article/show?id=1519&response=true)</span>
+<span style="font-size: 8pt;">Appearing before the [[http://www.huffingtonpost.com/2011/06/13/panetta-cyberattack-next-pearl-harbor_n_875889.html|Senate Armed Services Committee]] in June, </span>__then-CIA Director__<span style="font-size: 8pt;"> Leon </span>__Panetta said, “The next Pearl Harbor could very well be a cyber-attack that cripples our government, security and financial systems.”__<span style="font-size: 8pt;">......In 2008, Russia was accused of launching a cyber-attack on U.S. Central Command, which oversees the wars in Afghanistan and Iraq.</span>
+
+**Multiple avenues for attack—**
+
+**a. Ground attacks – information is available and commercial and governmental ground stations aren’t defended – only establishing redundancy in space solves**
+**Ginter, 7**<span style="font-size: 8pt;"> – (3/30/07, Lieutenant Colonel Karl Ginter, United States Army, “Space Technology and Network Centric Warfare: a Strategic Paradox”)</span>
+__Ground segment attack__ __or sabotage to disrupt space assets is an attractive option to lowtechnology or cash-strapped groups such as terrorists or transnational insurgents__<span style="font-size: 8pt;">........Not all foreign commercial satellite providers employ a sufficiently redundant ground control capability for continuity or reconstitution in the event of ground system or power failures.</span>
+
+**b. Downlink jamming – empirically successful**
+**Ginter, 7**<span style="font-size: 8pt;"> – Lieutenant Colonel, US army (2/22, Karl, “Space Technology and Network Centric Warfare: A Strategic Paradox,” USAWC Strategy Research Project, pdf)</span>
+__Downlink jamming can affect communications links as well as satellite navigation signals, and requires much less power to be effective....__<span style="font-size: 8pt;">. 39 Although this attempt at disrupting coalition navigation and munitions targeting efforts ultimately failed, </span>__it speaks volumes to the means that our adversaries will employ in an attempt to neutralize U.S. space-based assets.__
+
+**Satellites relay the most important military information to US forces, but network vulnerabilities make them operationally useless – warfighting is impossible without them**
+**Morgan, 10**<span style="font-size: 8pt;"> - defense policy researcher working in RAND Corporation's Pittsburgh Office. Prior to joining RAND in January 2003, Dr. Morgan served a 27-year career in the U.S. Air Force (Forrest, “Deterrence and First-Strike Stability in Space,”</span>
+<span style="font-size: 8pt;">[[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA522541&Location=U2&doc=GetTRDoc.pdf]]</span>
+
+<span style="font-size: 8pt;">Given the great extent to which the United States depends on space systems for its national security and economic prosperity, U.S. policymakers and military leaders are becoming increasingly concerned that future adversaries might attack those systems.....Finally, </span>__there is a parallel between nuclear and space deterrence in that significant thresholds are perceived in both realms, the crossing of which could lead to reprisals, follow-on attacks, and rapid escalation__<span style="font-size: 8pt;">.4</span>
+
+**Loss of these systems annihilates heg**
+**Marshall, 8**<span style="font-size: 8pt;"> - NASA Ames Research Center (Will, Astropolitics, 6:154–199, “REDUCING THE VULNERABILITY OF SPACE ASSETS: A MULTITIERED MICROSATELLITE CONSTELLATION ARCHITECTURE,” Ebsco Political Science)</span>
+__Space assets are one of the most critical ‘‘Achilles’ heels’’ of the current military capability of the__<span style="font-size: 8pt;"> United States (</span>__U.S.__<span style="font-size: 8pt;">)..... In reality, the significance lies between these boundaries, but this is a topic that could benefit from further research.</span>
+
+**Heg is good**
+**Zhang and Shi, 1/22** <span style="font-size: 8pt;"> - 11 – *Yuhan Zhang is a researcher at the Carnegie Endowment for International Peace, Washington, D.C.; Lin Shi is from Columbia University. She also serves as an independent consultant for the Eurasia Group and a consultant for the World Bank in Washington, D.C. (America’s decline: A harbinger of conflict and rivalry, [[http://www.eastasiaforum.org/2011/01/22/americas-decline-a-harbinger-of-conflict-and-rivalry/]])</span>
+<span style="font-size: 8pt;">This does not necessarily mean that the US is in systemic decline, but it encompasses a trend that appears to be negative and perhaps alarming. Although the US still possesses incomparable military prowess and its economy remains the world’s largest, the once seemingly indomitable chasm that separated America from anyone else is narrowing......... </span>__A world without American hegemony is one where great power wars re-emerge__<span style="font-size: 8pt;">, the liberal international system is supplanted by an authoritarian one, and trade protectionism devolves into restrictive, anti-globalisation barriers. This, at least, is one possibility we can forecast in a future that will inevitably be devoid of unrivalled US primacy</span>
+
+**Independently, perceived US vulnerability will tempt China to attack – they know that US naval planning is key to deterrence in the Strait**
+**Dillon, 8 –** <span style="font-size: 8pt;">Naval Postgraduate School [Matthew Master’s Candidate September 2008 [[http://oai.dtic.mil/oai/oai?verb=getRecord&metadataPrefix=html&identifier=ADA488669]] Implications of the Chinese Anti-Satellite Test for the United States Navy Surface Forces)</span>
+<span style="font-size: 8pt;">On January 11, 2007, China successfully tested an anti-satellite (ASAT) weapon. This thesis seeks to view the test’s implications with regards to the prospect of China holding a false impression of offense dominance by using its ASAT weapon to temporarily create a shift in the strategic balance between it and the United States.......... This thesis seeks to examine China’s perception of these weapons in offense-defense terms and shows that China’s leadership may over estimate the expected advantage of an ASAT weapon attack.</span>
+
+**Taiwan conflict leads to nuclear armageddon**
+**Strait Times, 2k**<span style="font-size: 8pt;"> (June 25, “Regional Fallout: No one gains in war over Taiwan”, Lexis)</span>
+<span style="font-size: 8pt;">THE DOOMSDAY SCENARIO THE high-intensity scenario postulates </span>__a cross-strait war escalating into a full-scale war between the US and China__<span style="font-size: 8pt;">. </span>__If Washington were to conclude that splitting China would better serve its national interests, then a full-scale war becomes unavoidable__<span style="font-size: 8pt;">. </span> __Conflict on such a scale would embroil other countries__<span style="font-size: 8pt;"> far and near </span>__and__<span style="font-size: 8pt;"> -- horror of horrors -- </span>__raise the possibility of a nuclear war......____While the prospect of a nuclear Armageddon over Taiwan might seem inconceivable, it cannot be ruled out entirely, for China puts sovereignty above everything else.__
+
+
+
+**CONTENTION 3 IS UAVS—**
+
+**Al Qaeda is gaining strength, regrouping and repossessing strongholds – now is key**
+**Gamai, 8/28**<span style="font-size: 8pt;"> – reporter in Baghdad for Reuters (2011, Rania El, “Iraq al-Qaeda regroups, Shi'ite militias threaten,” Reuters, http://www.reuters.com/article/2011/08/28/us-iraq-violence-qaeda-idUSTRE77R1JQ20110828)</span>
+__Al Qaeda has resurfaced in former Iraqi strongholds, adding to the threat from more powerful and organized Shi'ite militias just as U.S. troops prepare to leave__<span style="font-size: 8pt;">, Iraqi officials say.......</span>__It is creeping back to former strongholds and distributing leaflets in Baghdad asking people to join jihad__<span style="font-size: 8pt;"> -- holy war. Some factions have become allies of Saddam's old guard.</span>
+
+**Troop drawdown in Afghanistan and Iraq means increasing reliance on drone strikes – they will also expand to Yemen and Somalia and are comparatively the best way to root out terrorism**
+**Reuters, 11**<span style="font-size: 8pt;"> (7/15, “As US wars wind down, drones gain new prominence,” http://www.dawn.com/2011/07/15/as-us-wars-wind-down-drones-gain-new-prominence.html)</span>
+__Missile-armed drones are playing a greater role than ever in US counterterrorism operations, as__<span style="font-size: 8pt;"> President Barack </span>__Obama winds down land wars in Iraq and Afghanistan, and__<span style="font-size: 8pt;"> Washington’s focus </span>__expands to militant havens such as Somalia and Yemen where there are no US troops permanently on the ground....__ <span style="font-size: 8pt;">Paul Pillar, a Georgetown University professor and former top CIA analyst, said </span>__drones are a "more effective and better focused way" of using military force against militants.__
+
+**But squo networking patterns, saturation, and high latency will undermine effective deployment of all UAVs**
+**Lee, 11**<span style="font-size: 8pt;"> – Second Lieutenant, USAF and BS (March, Spenser D., “ROUTING UAVS TO CO-OPTIMIZE MISSION EFFECTIVENESS AND NETWORK PERFORMANCE WITH DYNAMIC PROGRAMMING,” Thesis, pdf)</span>
+__The motivation__<span style="font-size: 8pt;"> of this research </span>__is to determine a strategy to__<span style="font-size: 8pt;"> deploy and </span>__route unmanned aerial systems__<span style="font-size: 8pt;"> (UASs) </span>__to take full advantage of their surveillance and network routing__ __capabilities__.....<span style="font-size: 8pt;">. LOS networking capabilites alleviate this problem by circumventing low-priority traffic from constrained, high-value communication links, such as SATCOM.</span>
+
+**This renders drones useless and multiplies mistakes and civilian casualties – we solve your ‘drones bad’ turns**
+**Thompson, 11**<span style="font-size: 8pt;"> – Chief Operating Officer at the Lexington Institute and Forbes contributor (8/29, Loren, “The Revolution In Unmanned Aircraft Is Overrated,” http://www.forbes.com/sites/beltway/2011/08/29/the-revolution-in-unmanned-aircraft-is-overrated/)</span>
+<span style="font-size: 8pt;">Third, </span>__unmanned aircraft__<span style="font-size: 8pt;"> aren’t really robotic in the sense of functioning autonomously......... </span>__Since current unmanned aircraft lack the agility and situational awareness of manned aircraft, their performance is__<span style="font-size: 8pt;"> relatively </span>__clumsy__<span style="font-size: 8pt;"> even if their endurance is considerably greater.</span>
+
+**Any solution is just short-term – airborne networks are on the verge of collapse – corruption, latency, jamming, intermittent links all compound general ineffectiveness – DTN is key**
+**Jonson et al, 8**<span style="font-size: 8pt;"> - Thomas Jonson, Jonah Pezeshki, Victor Chao, Kristofer Smith, James Fazio, Booz Allen Hamilton (5/8, IEEE, APPLICATION OF DELAY TOLERANT NETWORKING (DTN) IN AIRBORNE NETWORKS,” pdf)</span>
+<span style="font-size: 8pt;">Similar to other radio-based communications within the DoD, </span>__the interoperability of links and communications waveforms is__<span style="font-size: 8pt;"> perhaps </span>__the greatest challenge of enabling IP-based Airborne Networking today__<span style="font-size: 8pt;">. Platforms that implement multiple waveforms to enable interoperable communications (e.g. within a joint Service environment) unnecessarily increase system complexity........</span>__An architectural alternative__<span style="font-size: 8pt;">, which solves the problems associated with interoperability and intermittency in the AN environment, </span>__needs to be adopted.__
+
+**Al Qaeda will get WMDs and biological weapons now – just waiting for a large-scale attack – tend towards caution because the risk is high**
+**Mowatt-Larssen, 10**<span style="font-size: 8pt;"> - Senior Fellow, Belfer Center for Science and International Affairs, John F. Kennedy School of Government, Harvard University, former Director of the Office of Intelligence and Counterintelligence, U.S. Department of Energy, former Chief of the Weapons of Mass Destruction Department, Counter-terrorist Center, Central Intelligence Agency, recipient of the CIA Director’s Award, graduate of the U.S. Military Academy, West Point (January, Rolf, “Al Qaeda Weapons of Mass Destruction Threat: Hype or Reality?” pdf)</span>
+<span style="font-size: 8pt;">Osama bin Ladin’s assertion in 1998 that it was his Islamic duty to acquire weapons of mass destruction ensured </span>__that the fulfillment of this intent would become a top priority for his lieutenants__<span style="font-size: 8pt;"> in the ensuing years. In an effort to explain his thinking to his followers, and to help guide their efforts, the al Qaeda leader has offered a number of statements that provide a need and rationale for using weapons of mass destruction as a means of achieving the group’s concrete and ambitious goals...... If anything, the biases in WMD terrorism analysis tilt towards treating the absence of information as an absence of threat; </span>__this could become a vulnerability in the defenses, considering the very real possibility that there may be a terrorist plot in motion that has not been found.__
+
+**Timeframe is 2013 – the material has already been stolen**
+**Hall, 10**<span style="font-size: 8pt;"> – staff writer, USA Today (4/12, Mimi, “Obama Seeks Front Against Nuclear Terror,” http://www.usatoday.com/news/washington/2010-04-11-nukesummit_N.htm)</span>
+<span style="font-size: 8pt;">According to the [[http://content.usatoday.com/topics/topic/The+Nuclear+Threat+Initiative|Nuclear Threat Initiative]], a nuclear-security group run by former [[http://content.usatoday.com/topics/topic/Organizations/Political+Bodies/Democratic+Party|Democratic]] senator [[http://content.usatoday.com/topics/topic/Sam+Nunn|Sam Nunn]] of Georgia, </span>__there is no comprehensive inventory of the world's nuclear material__<span style="font-size: 8pt;">......Despite those efforts, in 2008, </span>__the Commission for the Prevention of Weapons of Mass Destruction warned, "Unless the world community acts decisively and with great urgency, it is more likely than not that a weapon of mass destruction will be used in a terrorist attack" by 2013.__
+
+**Terrorism prompts multiple nuclear wars, including with Russia and China**
+**Ayson, 10**<span style="font-size: 8pt;"> - Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington (July, Robert, “After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7)</span>
+<span style="font-size: 8pt;">A terrorist nuclear attack, and even the use of nuclear weapons in response by the country attacked in the first place, would not necessarily represent the worst of the nuclear worlds imaginable......American pressure on that part of the world would almost certainly raise alarms in Moscow that might require a degree of advanced consultation from Washington that the latter found itself unable or unwilling to provide.</span>
+
+**Thus the United States Federal Government should deploy Delayed Tolerant Networking on all future DOD satellites.**
+
+
+
+**CONTENTION 4 IS SOLVENCY**
+
+**DTN radically improves the safety and speed of AN networks – makes UAVs fool proof**
+**Lee et al, 10**<span style="font-size: 8pt;"> – Kevin C Lee, Adam Piechowicz, Mario Gerla: Department of Computer Science, University of California, Los Angeles, Los Angeles, CA; Abhishek Tiwari, Anurag Ganguli: UtopiaCompression Corporation; David Krzysiak: Air Force Research Lab, rome Research Site (1/14, “Delay Tolerant Mobility Aware Routing/MobilityDissemination Protocol for the Airborne Network,” pdf)</span>
+__Despite “airborne network (AN)__<span style="font-size: 8pt;"> topology design” and </span>__careful planning__<span style="font-size: 8pt;"> of AN trajectories, </span>__unexpected disruptions (from hardware failures to changes in mission requirements and hostile attacks) may cause nodes not to connect to one another directly or indirectly either because they are out of one another’s range or because nodes do not meet one another according to their preplanned trajectories.__<span style="font-size: 8pt;">..... For one, the AN backbone nodes which provide almost-permanent connectivity are envisioned to ﬂy in pre-planned orbits. Moreover, the transmitter power of these nodes are signiﬁcantly higher than battery operated MANET nodes.</span>
+
+**DTN is the magic elixir for all squo network problems – effective routing in space makes data and information loss impossible – multiple reasons**
+**Jonson et al, 8**<span style="font-size: 8pt;"> - Thomas Jonson, Jonah Pezeshki, Victor Chao, Kristofer Smith, James Fazio, Booz Allen Hamilton (5/8, IEEE, APPLICATION OF DELAY TOLERANT NETWORKING (DTN) IN AIRBORNE NETWORKS,” pdf)</span>
+__The DTN architecture has been designed for networks with any or all of the following characteristics: intermittent connectivity, long and/or variable delay, asymmetric data rates, and high error rates__ <span style="font-size: 8pt;">[4]..........Node- to-node retransmission at the bundle layer may be accomplished via "custody transfers" (Figure 4). The purpose of custody transfers is to move the retransmission point closer to the destination in order to minimize the number of potential retransmission hops, thereby reducing network load and total transmission delay (Figure 5).</span>
+
+**DTN is key to stabilize and back up network connections to remote military infrastructure**
+**NASA, 11**<span style="font-size: 8pt;"> (7/1, “Disruption Tolerant Networking for Space Operations (DTN),” Fact Sheet, http://www.nasa.gov/mission_pages/station/research/experiments/DTN.html)</span>
+__Military applications in the DTN arena are substantial, allowing the retrieval of critical information in mobile battlefield scenarios using only intermittently connected network communications__<span style="font-size: 8pt;">........</span>__Furthermore, DTNs may very likely be deployed in environments where a portion of the network might become compromised, posing the usual security challenges related to confidentiality, integrity and availability.__
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

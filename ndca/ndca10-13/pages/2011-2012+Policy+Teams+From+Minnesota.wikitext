@@ -1,0 +1,6 @@
+The following is an automatically-generated list of all of the 2011-2012 policy debate teams from Minnesota that have a page on the wiki. It only displays pages that were tagged correctly and so is not necessarily a comprehensive list; if you notice a Minnesota team's page that hasn't been tagged, please tag it so that this list is accurate.
+
+[[include component="pageList" hideInternal="true" tag="2011-2012 policy teams from mn" limit="1000"]]
+
+Rosemount Round Robin:
+[[include component="pageList" hideInternal="true" tag="2011 mn rr policy" limit="1000"]]

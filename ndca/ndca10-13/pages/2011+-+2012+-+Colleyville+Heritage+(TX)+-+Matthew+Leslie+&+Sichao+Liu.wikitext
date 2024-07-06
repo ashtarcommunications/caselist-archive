@@ -1,0 +1,125 @@
+[[toc]]
+=<span style="font-family: Arial,Helvetica,sans-serif;">Affirmative</span>= 
+==<span style="font-family: Arial,Helvetica,sans-serif;">1AC Space Debris</span>== 
+===<span style="font-family: Arial,Helvetica,sans-serif; font-size: 13pt;">Contention One is Inherency</span>=== 
+
+**<span style="font-family: Arial,Helvetica,sans-serif; font-size: 13pt;">Space debris requires immediate action </span>**
+**<span style="font-family: Arial,Helvetica,sans-serif; font-size: 13pt;">Wyrick 12 </span>**<span style="font-family: Arial,Helvetica,sans-serif; font-size: 8pt;">(WAYNE HARRIS-WYRICK, Astronomer, Director of Kirkpatrick Planetarium, “Space debris is making rocket launches dangerous”, February 7, 2012, http://newsok.com/space-debris-is-making-rocket-launches-dangerous/article/3646665)</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11pt;">__Last month, the International Space Station, an orbiting space laboratory as big as a football field, had to move__... __It is already becoming dangerous to even launch a rocket, with the chance of collision now around 1 percent by some estimates__</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 8pt;">.</span>
+
+**<span style="font-size: 13pt;">Large pieces in the GEO are the root cause of the problem - they replenish smaller debris</span>**
+**<span style="font-size: 13pt;">Liou 11 </span>**<span style="font-size: 8pt;">(J.C., PhD, 21 July 2011 at the OCT Technical Seminar in NASA HQ, Washington, DC, Liou works for NASA in the Orbital Debris Program Office, and is an authority on the subject giving many speeches to professionals in the field http://www.nasa.gov/pdf/582393main_OCT-Orbital_Debris_TAGGED.pdf)</span>
+
+<span style="font-size: 11pt;">__At any given altitude below 900 km, small debris continue to spiral toward lower altitude, and the same region continues to be replenished by debris spiraling down from higher altitude__... -</span><span style="font-size: 8pt;">Masses: 1.4 to 8.9 tons -Dimensions: 2 to 4 m in diameter, 6 to 12 m in length Altitudes: ~600 to ~1000 km regions -inclinations: ~7 well defined bands A good implementation of the commonly adopted mitigation measures and as ADR of ~5 objects per year</span> <span style="font-size: 11pt;">__can “stabilize the future environment__</span><span style="font-size: 8pt;">”.</span>
+<span style="display: block; text-align: left;">
+</span><span style="display: block; text-align: left;">**<span style="font-size: 13pt;">And Thus, the Plan:</span>**</span>
+**<span style="font-size: 13pt;">Text: The United States federal government should engage in the removal of its orbital debris beyond the Earth’s mesosphere by using the Geosynchronous Large Debris Reorbiter (GLiDeR) to target large pieces of debris in the geosynchronous orbit, in full accordance with the NSP.</span>**
+
+===<span style="font-size: 13pt;">Contention Two is The Advantages</span>=== 
+
+====**<span style="font-size: 13pt;">Advantage One is The Cascade Effect</span>**==== 
+
+**<span style="font-size: 13pt;">A single collision will start a chain reaction - destroying all satellites</span>**
+**<span style="font-size: 13pt;">Dillow 10 </span>**<span style="font-size: 8pt;">(Clay, writer for Pop Sci magazine, 05-27-2010, “Pentagon: A Space Junk Collision Could Set Off Catastrophic Chain Reaction, Disable Earth Communications”, http://www.popsci.com/technology/article/2010-05/dod-space-junk-tipping-point-collision-could-set-catastrophic-chain-reaction)</span>
+
+<span style="font-size: 8pt;">Every now and again someone raises a stern warning about the amount of space junk orbiting Earth... If a chain reaction got out of control up there, it could very quickly sever our communications, our GPS system (upon which the U.S. military heavily relies), and cripple the global economy (not to mention destroy the $250 billion space services industry),</span> <span style="font-size: 11pt;">__and whole orbits could be rendered unusable__</span><span style="font-size: 8pt;">, potentially making some places on Earth technological dead zones.</span>
+
+**<span style="font-size: 13pt;">Catastrophic collisions occur once every 5 years - the next collision will be in just 2 years</span>**
+**<span style="font-size: 13pt;">CNES 12 </span>**<span style="font-size: 8pt;">(Government Space Agency of France, like NASA for the US, Fernand Alby CNES Toulouse, “OVERVIEW ON 2011 SPACE DEBRIS ACTIVITIES IN FRANCE”, [[http://www.oosa.unvienna.org/pdf/pres/stsc2012/tech-23E.pdf]])</span>
+
+<span style="font-size: 11pt;">__STUDIES: SATELLITE VULNERABILITY__</span><span style="font-size: 8pt;">: Objective: estimation of probability to lose a satellite in case of collision with small size debris... </span><span style="font-size: 11pt;">__Catastrophic collision: should occur every 5 years in average__</span>
+
+**<span style="font-size: 13pt;">The destruction of satellites leads to extinction through four independent scenarios</span>**
+**<span style="font-size: 13pt;">Imburgia 11 </span>**<span style="font-size: 8pt;">(Joseph S., author in Vanderbilt Journal of Transnational Law; “Space Debris and Its Threat to National Security: A Proposal for a Binding International Agreement to Clean Up the Junk.” May 2011 [[http://web.ebscohost.com/ehost/detail?sid=6e7410a9-26b2-454c-a808-c656e99bad12%40sessionmgr15&vid=2&hid=15&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d]])</span>
+
+<span style="font-size: 8pt;">Simply put,</span> <span style="font-size: 11pt;">__the United States depends on space-based assets for national security, and those assets are vulnerable to space debris collisions__... __Due to the steep price tags attached to some of the national space security platforms, the economic loss of a satellite due to space debris would also be significant__</span><span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 13pt;">The first is through proliferation.</span>**
+**<span style="font-size: 13pt;">Every new nuclear state greatly increases the risk of nuclear war</span>**
+**<span style="font-size: 13pt;">ICNND 09 </span>**<span style="font-size: 8pt;">(International Commission on Nuclear Non-Proliferation and Disarmament, chaired by Gareth Evans and Yoriko Kawaguchi, Eliminating Nuclear Threats, [[http://www.icnnd.org/reference/reports/ent/pdf/ICNND_Report-EliminatingNuclearThreats.pdf]])</span>
+
+<span style="font-size: 8pt;">3.1</span> <span style="font-size: 11pt;">__Ensuring that no new states join the ranks of those already nuclear armed must continue to be one of the world’s top__</span><span style="font-size: 8pt;"> international security</span> <span style="font-size: 11pt;">__priorities__... __Where such countries are beset with internal stresses and fundamentalist groups with trans-national agendas, the risk of nuclear weapons or fissile material coming into possession of non‑state actors cannot be ignored__</span><span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 13pt;">The second is through economic collapse.</span>**
+**<span style="font-size: 13pt;">Satellites key to the economy</span>**
+**<span style="font-size: 13pt;">Sterner 10 </span>**<span style="font-size: 8pt;">(fellow at the George C. Marshall Institute. He was a senior professional staff member on the House Armed Services and Science Committees and served in the Office of the Secretary of Defense and as NASA's associate deputy administrator of policy and planning (Eric, World Politics Review, “Tending the Forge of American Space Power,” 6/15, [[http://www.worldpoliticsreview.com/articles/5793/tending-the-forge-of-american-space-power]])</span>
+
+<span style="font-size: 8pt;">Ironically, even as space has moved away from the center of American culture, it has become ever more integrated with the international system... And as the world's most developed space power, the United States has led the way in integrating space into its economic foundations.</span>
+
+**<span style="font-size: 13pt;">The best statistical support proves – economic decline causes war</span>**
+**<span style="font-size: 13pt;">Royal 10 </span>**<span style="font-size: 8pt;">Jedediah, Director of Cooperative Threat Reduction – U.S. Department of Defense, “Economic Integration, Economic Signaling and the Problem of Economic Crises”, Economics of War and Peace: Economic, Legal and Political Perspectives, Ed. Goldsmith and Brauer, p. 213-215</span>
+
+<span style="font-size: 8pt;">Less intuitive is how periods of</span> <span style="font-size: 11pt;">__economic decline may increase the likelihood of external conflict__</span><span style="font-size: 8pt;">... This implied connection between integration, crises and armed conflict has not featured prominently in the economic-security debate and deserves more attention. </span>
+
+**<span style="font-size: 13pt;">The third is through miscalculation.</span>**
+**<span style="font-size: 13pt;">A loss of space capabilities will lead to nuclear miscalculation of the U.S.</span>**
+**<span style="font-size: 13pt;">Burke 06 </span>**<span style="font-size: 8pt;">– Lt Col, USAF, command space professional with operational experience in missile operations, space surveillance, space control, missile warning, and command and control (Alan, “SPACE THREAT WARNING: FOUNDATION FOR SPACE SUPERIORITY, AVOIDING A SPACE PEARL HARBOR,”[[https://www.afresearch.org/skins/RIMS/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=07acf878-3a5f-4a2c-8259-4a34c0717e9b]])</span>
+
+<span style="font-size: 11pt;">__The erosion of the US ability to execute the space threat warning mission has serious implications for US national security to include: the loss of a key early warning indicator of an attack on the US homeland; the loss of space capabilities which would degrade US warfighting effectiveness; the preventable loss of critical high-value satellites, facilities or services; the increased possibility that adversaries could develop new weapons or covertly conduct probing attacks on US space systems; and the lack of a credible means to execute stated US policy in response to an attack against space assets__</span><span style="font-size: 8pt;">... General Lord testified to Congress: </span>
+
+**<span style="font-size: 13pt;">The fourth is through terrorism.</span>**
+**<span style="font-size: 13pt;">Terrorism escalates to nuclear war with Russia and China</span>**
+**<span style="font-size: 13pt;">Ayson 10 </span>**<span style="font-size: 8pt;">(Robert Ayson, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington, 2010, “After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld)</span>
+
+<span style="font-size: 11pt;">__But these two nuclear worlds__</span><span style="font-size: 8pt;">—a non-state actor nuclear attack and a catastrophic interstate nuclear exchange—</span><span style="font-size: 11pt;">__are not necessarily separable__... __In such a tense environment, when careful planning runs up against the friction of reality, it is just possible that Moscow and/or China might mistakenly read this as a sign of U.S. intentions to use force (and possibly nuclear force) against them__</span><span style="font-size: 8pt;">. </span>
+
+====**<span style="font-size: 13pt;">Advantage Two is Cosmopolitanism</span>**==== 
+
+**<span style="font-size: 13pt;">Taking the lead in ODR will spur international collaboration</span>**
+**<span style="font-size: 13pt;">Ansdell 10 </span>**<span style="font-size: 8pt;">(Megan, Space Policy Institute, GWU, Spring 2010 [Journal of Public and International Affairs, Princeton, vol 21, p 17-18])</span>
+
+<span style="font-size: 11pt;">__Space debris removal systems could take decades to develop and deploy through international partnerships__</span><span style="font-size: 8pt;"> due to the many interdisciplinary challenges they face... </span><span style="font-size: 11pt;">__This would accelerate technology development and demonstration, which would__</span><span style="font-size: 8pt;">, in turn,</span> <span style="font-size: 11pt;">__build-up trust andhasten international participation__</span><span style="font-size: 8pt;"> in space debris removal. </span>
+
+**<span style="font-size: 13pt;">Cooperation over debris moves away from the current military space security and spills over to true cooperation</span>**
+**<span style="font-size: 13pt;">Moltz 08 </span>**<span style="font-size: 8pt;">[James Clay ,Associate Professor and Academic Associate for Security Studies, , Politics of Space Security]</span>
+
+<span style="font-size: 8pt;">What emerges from this review of the main conceptual roots of space policy analysis over the past fifty years is a mixed picture... </span><span style="font-size: 11pt;">__The approach, focus, and skill set she invokes are very different from those traditionally applied to military-security problems, which to date have tended to emphasize national responses and have involved relatiyely limited cooperation__</span><span style="font-size: 8pt;"> with commercial actors. </span>
+
+**<span style="font-size: 13pt;">Cooperation in space key to solve Cosmopolitanism</span>**
+**<span style="font-size: 13pt;">Stuart 09 </span>**<span style="font-size: 8pt;">[Jill, Dr . Jill Stuart is LSE Fellow in Global Politics in the Department of Government at the London School of Economics and Political Science, “Unbundling Sovereignty, Territory, and the State in Outer Space”, from Securing Outer Space, edited by Bormann and Sheehan]</span>
+
+<span style="font-size: 11pt;">__Common heritage approaches represent the exclusion of a right of appropriation; the duty to use resources in the interest of the whole of humanity; and the duty to explore and exploit resources for peaceful purposes (Held 2002: 15). Transnational issues that challenge the state's ability to rule within its own borders further inspire the movement away from classical sovereignty__</span><span style="font-size: 8pt;"> (Held 2002: 20)... It can be pointed out that the root of "cosmopolitanism" and "cosmology" are the same "cosmos", meaning "order" and "universe" .</span>
+
+**<span style="font-size: 13pt;">Only Cosmopolitanism solves existential threats - the negative’s impacts are inevitable in the status quo</span>**
+**<span style="font-size: 13pt;">Smith 03 </span>**<span style="font-size: 8pt;">[Rogers, Professor of Political Science at University of Pennsylvania and PhD Harvard University. Stories Of Peoplehood, The Politics and Morals of Political Membership, p. 166-169.]</span>
+
+<span style="font-size: 8pt;">It is certainly important to oppose such evolutionary doctrines by all intellectually credible means... In the resulting political climate, it might become easier to construct the sorts of systems of interwoven democratic international, regional, state and local governments that theorists of "cos­mopolitan democracy," "liberal multicultural nationalism," and "differ­entiated democracy" like David Held, Will Kymlicka, Iris Young, William Connolly, and Jurgen Habermas all envision.</span>
+
+**<span style="font-size: 13pt;">Cosmopolitanism solves miscalculation and conflict escalation</span>**
+**<span style="font-size: 13pt;">Hayes 09 </span>**<span style="font-size: 8pt;">- Lt Col, USAF, paper submitted to the Faculty of the Joint Advanced Warfighting School in partial satisfaction of the requirements of a Master of Science Degree in Joint Campaign Planning and Strategy (Tracey, “PROPOSAL FOR A COOPERATIVE SPACE STRATEGY WITH CHINA”,[[http://dodreports.com/pdf/ada530117.pdf]])</span>
+
+<span style="font-size: 11pt;">__Cooperation can prevent conflict escalation, increase safety in the space environment, prevent hefty cost burdens on an already strained national/defense budget and make China’s opaque space program more transparent__</span><span style="font-size: 8pt;">...</span> <span style="font-size: 11pt;">__If agreements between China and the U.S. were made today before a potential “space race” begins, this would help both sides avoid miscalculation by tempering mistrust and uncertaintywith a degree of transparency and predictability, thus preventing potential crisis escalation__</span><span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 13pt;">Miscalculation high now - only Cosmopolitanism solves for escalating conflict</span>**
+**<span style="font-size: 13pt;">AFP 11 </span>**<span style="font-size: 8pt;">(Staff Writers, Agence France-Presse, AFP delivers fast, accurate, in-depth news from every corner of the world, 24 hours/day, “US urges deeper China engagement to avoid 'miscalculation'”, Oct 24, 2011, [[http://www.afp.com/afpcom/en/content/afp]])</span>
+
+<span style="font-size: 11pt;">__A top US diplomat urged deeper engagement with China__</span> <span style="font-size: 8pt;">on thorny security and economic issues,</span> <span style="font-size: 11pt;">__warning of the dangers of miscalculation__</span><span style="font-size: 8pt;"> as the two great powers contend in the years ahead. "History teaches that</span> <span style="font-size: 11pt;">__moments of great change are when the dangers of__</span><span style="font-size: 8pt;">misunderstanding, miscalculation or inadvertent conflict </span> <span style="font-size: 11pt;">__are greatest," said Deputy Secretary of State William Burns__</span><span style="font-size: 8pt;">... "</span><span style="font-size: 11pt;">__Enhancing transparency__</span><span style="font-size: 8pt;"> in these areas</span> <span style="font-size: 11pt;">__is essential to the long-term stability of our relationship__</span><span style="font-size: 8pt;">."</span>
+
+**<span style="font-size: 13pt;">This will lead to all of the cascade effect impacts through the creation of debris</span>**
+**<span style="font-size: 13pt;">Hsu 10 </span>**<span style="font-size: 8pt;">(Jinyuan Su, Space Policy, The Silk Road Institute of International and Comparative Law, School of Law, Xi'an Jiaotong University, August 2010, sciencedirect, accessed 6/27)</span>
+
+<span style="font-size: 11pt;">__The deployment of space-based weapons would generate great quantities of space debris just during the initial deployment and far more if they are used__</span><span style="font-size: 8pt;">...</span><span style="font-size: 11pt;">__The belligerent states would be liable, jointly or severally, to the third state__</span><span style="font-size: 8pt;">.38</span>
+
+===<span style="font-size: 13pt;">Contention Three is Solvency</span>=== 
+
+**<span style="font-size: 13pt;">GLiDeR solves for large space debris</span>**
+**<span style="font-size: 13pt;">Schaub and Moorer 10 </span>**<span style="font-size: 8pt;">(Hanspeter Schaub and Daniel F. Moorer Jr. Schaub works in the Aerospace Engineering Sciences Department University of Colorado and has worked for many space groups including, the ORION program, May 17–19, 2010, GEOSYNCHRONOUS LARGE DEBRIS REORBITER: CHALLENGES AND PROSPECTS)</span>
+
+<span style="font-size: 8pt;">An elegant solution is proposed to an old problem of how to remove expired or malfunctioning satellites from the geosynchronous belt... Numerical simulations are presented illustrating the expected performance, taking into account also the solar radiation pressure.</span>
+
+**<span style="font-size: 13pt;">Only large debris removal solves</span>**
+**<span style="font-size: 13pt;">Liou 11 </span>**<span style="font-size: 8pt;">(J.C. Liou, PhD, 21 July 2011 at the OCT Technical Seminar in NASA HQ, Washington, DC, Liou works for NASA in the Orbital Debris Program Office, and is an authority on the subject giving many speeches to professionals in the field http://www.nasa.gov/pdf/582393main_OCT-Orbital_Debris_TAGGED.pdf)</span>
+
+<span style="font-size: 8pt;">“</span><span style="font-size: 11pt;">__The current debris population in the LEO region has reached the point where the environment is unstable and collisions will become the most dominant debris generating mechanism in the future.” “Only remediation of the near-Earth environment – the removal of existing large objects from orbit – can prevent future problems for research in and commercialization of space__</span><span style="font-size: 8pt;">.”</span>
+
+**<span style="font-size: 13pt;">GLiDeR is cheap</span>**
+**<span style="font-size: 13pt;">McKnight 10 </span>**<span style="font-size: 8pt;">(September 14-17, 2010 Dr. Darren McKnight,Chief Scientist at [[http://www.linkedin.com/company/agilex-technologies?trk=ppro_cprof|Agilex, Technologies]] Director of Science and Technology Strategy at [[http://www.linkedin.com/company/saic?trk=ppro_cprof|SAIC]] VP, Emerging Technologies at [[http://www.linkedin.com/company/titan-corporation?trk=ppro_cprof|Titan Corporation]] Pay Me Now or Pay Me More Later: Start the Development of Active Orbital Debris Removal Now, from the table on page 11 )</span>
+
+<span style="font-size: 11pt;">__Debris removal option: GLiDeR, Debris size removed: Derelict R/Bs and P/Ls, Costs: $150M for 5 objects resulting in~$35M/object, LEO or GEO or Both: GEO, Comments: Developers claim about $12-15M per removal of a GEO object not including launch costs__</span><span style="font-size: 8pt;">. </span>
+
+**<span style="font-size: 13pt;">U.S. key to solve international collaboration</span>**
+**<span style="font-size: 13pt;">Ansdell 10 </span>**<span style="font-size: 8pt;">(Megan, Space Policy Institute, GWU, Spring 2010 [Journal of Public and International Affairs, Princeton, vol 21, p 20])</span>
+
+<span style="font-size: 11pt;">__If the United States__</span><span style="font-size: 8pt;"> and other powerful governments </span><span style="font-size: 11pt;">__do not take steps now to avert the__</span><span style="font-size: 8pt;"> potentially devastating </span><span style="font-size: 11pt;">__effects of space debris, the issue risks becoming stalemated in a manner similar to climate change__</span><span style="font-size: 8pt;">... By instituting global space debris removal measures, a critical opportunity exists to mitigate and minimize the potential damage of space debris and ensure the sustainable development of the near-Earth space environment.</span>
+=<span style="font-family: Arial,Helvetica,sans-serif;">Negative</span>=

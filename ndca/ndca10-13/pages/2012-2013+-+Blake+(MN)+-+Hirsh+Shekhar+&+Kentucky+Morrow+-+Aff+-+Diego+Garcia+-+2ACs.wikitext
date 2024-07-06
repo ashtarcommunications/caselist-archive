@@ -1,0 +1,56 @@
+[[toc]]
+=***PROCEDURALS***= 
+=Topicality= 
+==2AC T--substantially== 
+==2AC T--military== 
+==2AC T--in== 
+==2AC T--United States== 
+=Specification= 
+
+== == 
+=***KRITIKS***= 
+==2AC Capitalism K== 
+==2AC Deleuze K== 
+==2AC Security K== 
+==2AC Social Justice K== 
+
+
+== == 
+=***COUNTERPLANS***= 
+=Agent CPs= 
+==2AC Britain CP== 
+==2AC DoD CP== 
+==2AC States CP== 
+
+
+=Advantage CPs= 
+==2AC Cocos Islands CP== 
+==2AC Deterrence CP== 
+==2AC Maintain Presence CP== 
+
+=Process CPs= 
+==2AC Nunn McCurdy CP== 
+
+== == 
+=***DISADS***= 
+=Elections (Obama Good)= 
+==2AC Elections Top Shelf== 
+==2AC Elections Russia Relations== 
+==2AC Elections Warming== 
+
+=Politics (Obama Good)= 
+=Other DAs= 
+==2AC Debt DA== 
+==2AC Nuke Mod Tradeoff DA== 
+==2AC Power Gap DA== 
+
+
+
+== == 
+=*CASE*= 
+==A2 Heg Bad== 
+
+== == 
+=*IMPACT DEFENSE*= 
+
+[[include page="space.template.Footer"]]

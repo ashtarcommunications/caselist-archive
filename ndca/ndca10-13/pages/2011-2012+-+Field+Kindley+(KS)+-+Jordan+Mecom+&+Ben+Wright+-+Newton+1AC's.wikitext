@@ -1,0 +1,273 @@
+[[toc]]
+=Broadband 1AC= 
+
+__**<span style="font-size: 120%;">Contention 1: The Status Quo</span>**__
+
+**There is currently a major lack of internet access creating a digital divide and missed opportunities.**
+
+**Murphy 11-8 -11**
+http://www.masslive.com/politics/index.ssf/2011/11/massachusetts_gov_deval_patric_2.html Massachusetts Gov. Deval Patrick says expanding Internet service as important to economy as investing in schools, roads and bridges. Tuesday, November 08, 2011, 4:26 PM By MATT MURPHY.
+
+**And, we’re missing out on an $8 trillion economy**
+
+**Reuters 10/12**
+[“FCC unveils new broadband access program.” October 12, 2011. http://www.reuters.com/article/2011/10/13/us-media-fcc-idUSTRE79C02Z20111013]
+THUS THE PLAN,
+
+The Federal Communications Commission will implement a universal wireless Internet mesh network by establishing a civil-use ViaSat Satellite System beyond the earth’s mesosphere in geostationary orbit. We’ll allocate through the universal service fund. We’ll clarify, just ask.
+
+__**<span style="font-size: 120%;">Contention 2: Solvency</span>**__
+
+**First, the plan results in many positives, is economically beneficial, and the FCC chairman likes it.**
+
+**Coursey 10**
+[David Coursey, MA @ Florida State, Award Winning Technology Programer and Reporter for 20 years. “Why the FCC National Broadband Plan Should Include Public Wi-Fi.” March 2010. [[http://www.pcworld.com/businesscenter/article/191325/why_the_fcc_national_broadband_plan_should_include_public_wifi.html]]]
+
+**Second, ViaSats are really cheap**
+
+**Matthews 2009**
+[William, staff writer for defense news. “ TSAT Replacement? ” July 20, 2009.]
+
+**Third, the Wi-Fi mesh satellites work effectively for both urban and rural areas.**
+
+**Merrit 8**
+[Rick, writer for EE Times. “Video: Berkeley brings WiFi to rural poor.” June 17, 2010.]
+
+**Fourth, the Universal Service Fund will fund the plan.**
+
+**Musgrave 2006** - Chairman of the House Subcommittee on Rural Enterprises, Agriculture, and Technology (5/3, Marilyn, "Opening Statement of Marilyn Musgrave Chairman, Subcommittee on Rural Enterprises, Agriculture and Technology", CQ Congressional Testimony, Lexis Congressional, WEA)
+
+**Fifth, new Internet infrastructure is key to future space missions**
+
+**Brown 2008**
+Dwayne Brown, Katherine Trinidad, Rhea Borja. Nov. 18, 2008. NASA. http://www.nasa.gov/home/hqnews/2008/nov/HQ_08-298_Deep_space_internet.html BJ
+
+__**<span style="font-size: 120%;">Advantage 1: Digital Democracy</span>**__
+
+**First, the current system is leaving many of the poor without internet, increasing the digital divide. Internet is now critical for Americans to function.**
+
+**Hamblen 10**
+[Matt, reports for Computer World. “FCC says 93M in the US lack broadband, digital divide grows.” Febuary 23, 2010.] BW
+
+**Second, federal programs succeed, but expansion is necessary.**
+
+**Dickard & Schneider 2**
+[Norris Dickard is a senior associate at the Benton Foundation. His work focuses on public policies related to universal service, educational technology, and bridging the digital divide. Diana Schneider formerly served as the Assistant Director of Outreach at The George Lucas Educational Foundation. She currently works with the Benton Foundation Communication Policy program on projects related to educational technology and bridging the digital divide, “The Digital Divide: Where We Are Today,” 7/1/2002 http://www.edutopia.org/digital-divide-where-we-are-today] BW
+
+**Third, the digital divide is undermining democracy in America and destroys civic engagement. Internet access is absolutely critical for democracy in today’s day and age.**
+
+**Lloyd 8**
+[Mark Lloyd is an affiliate professor of public policy at Georgetown University and a member of the advisory board of Science Progress, “Advanced IT Policy for a New America,” December 19, [[http://www.scienceprogress.org/2008/12/advanced-it-policy-for-a-new-america/]]]
+
+**Fourth, US internet policy causes massive shifts toward democracy through modeling and civic contact.**
+
+**Shirazia, Ngwenyamaa, & Morawczynskib 9**
+[*Farid Shirazia, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada AND **Ojelanki Ngwenyamaa, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada, AND** *Olga Morawczynskib, Sciences Studies Unit, University of Edinburgh, Edinburgh, UK, “ICT expansion and the digital divide in democratic freedoms: An analysis of the impact of ICT expansion, education and ICT filtering on democracy,” Telematics and Informatics, Received 12 April 2008; revised 27 February 2009; accepted 3 May 2009. Available online 15 May 2009, Science Direct]
+
+**Fifth, democracy solves all impacts and your disad’s too.**
+
+**Diamond 95**
+[Larry Diamond, Hoover Institution, Stanford University, December, PROMOTING DEMOCRACY IN THE 1990S. 1995. http://www.carnegie....y/diam_rpt.html] BW
+
+**Sixth, the plan is a prerequisite to your kritiks—democracy is key to checking the government’s power. It solves democide.**
+
+**Rummel 94**
+[Rudolph, Nobel Peace Prize winner for research on democracy, “Death by Government.” 1994.]
+
+__**<span style="font-size: 120%;">Advantage 2: Bioterror</span>**__
+
+**First, expect a bioterrorist attack by 2013.**
+
+**Sharoff November 2011**
+[“Bioterrorism: Growing Threat, Inadequate Budget.” November 14, 2011. [[http://gppreview.com/2011/11/14/bioterrorism-growing-threat-inadequate-budget/]]]
+
+**Second, That goes global in six weeks.**
+
+**Levy 7**
+[Janet Ellen, The American Thinker. “The Threat of Bioweapons,” http://www.americanthinker.com/2007/06/the_threat_of_bioweapons.html] BW
+
+**Third, bioterror is the most likely scenario for extinction.**
+
+**Ochs 02**
+[Richard, MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park, “BIOLOGICAL WEAPONS MUST BE ABOLISHED IMMEDIATELY,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html] BW
+
+**Fourth, a national broadband program leads to widespread telemedicine access.**
+
+**Davidson and Santorelli 2009**
+[A study commissioned by the Department of Commerce, Charles M Davidson and Michael J. Santorelli, Advanced Communications Law & Policy Institute at New York Law School, "The impact of broadband on telemedicine", http://www.uschamber.com/NR/rdonlyres/ec5epgwk7vyanosellij36hyzht3udur5ceemxscfgfayigcrkyfuntto6adiwt7s2rw2g73epqddifjvykf7n6pj6h/BroadbandandTelemedicineApril2009.pdf] BW
+
+**Fifth, federal wireless broadband leads to a dramatic expansion of telemedicine.**
+
+**Bowersox 2k1**
+[MD, PhD "Information Technology and the Medical Response to Bioterrorism", edited by Rosen MD and LuceyMD/JD/MPH, Institute for Security Technology Studies at Dartmouth, http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294 BW]
+
+**Sixth, telemedicine solves bioterror impacts.**
+
+**Bowersox 2k1**
+[MD, PhD, "Information Technology and the Medical Response to Bioterrorism", edited by Joseph Rosen MD and Charles Lucey MD/JD/MPH, Institute for Security Technology Studies at Dartmouth, [[http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294|http://www.dartmouth.edu/~engs05/md/whitepapers/Emerging_Tech/ETech.pdf#page=294]]]
+
+**Seventh, this is the best way to prevent bioterror becoming a pandemic.**
+
+**Graham 3**
+[International Security Program, Belfar Center for Science and International Affairs at Harvard (November, Allison, International Security, CIAO working papers, "Implications for Public Policy of the Threat from Bioterrorism", [[http://www.ciaonet.org/wps/alg02/index.html]].]
+
+__**<span style="font-size: 120%;">Advantage 3: Human Rights</span>**__
+
+**First, Internet Access is a human right.**
+
+**LA Times 6/3**
+["United Nations Report: Internet Access Is a Human Right - Latimes.com."Politics, National, California, Washington, Barack Obama, Hillary Clinton, John McCain, Republican, Democrat, President, Election - Top of the Ticket - Latimes.com. 3 June 2011. Web. 13 July 2011. <http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html>.]
+
+**Second, striving for human rights are key to prevent extinction.**
+
+**Copelon 99**
+[Rhonda, Professor, Law, CUNY, “The Indivisible Framework of International Human Rights,” NEW YORK CITY LAW REVIEW, 1998/1999, p. 71-72.]
+
+**Third, human rights are the foremost moral imperative. Prioritize them above all else.**
+
+**Gewirth 82**
+[Alan Gewirth, Phil@UChicago, “Human Rights”, ‘82]
+
+=SBI 1AC (Broke Rd. 1 vs a WaRu team we've never seen before)= 
+
+__**<span style="font-size: 120%;">Contention One is the Status Quo</span>**__
+
+**Missile defense now but it will fail—space-based interceptors have been slashed from the budget.**
+
+**Eaglen 10**
+[Mackenzie Eaglen is a research fellow for national security studies at the Heritage Foundation. “Why Missile Defense is Still Needed,” Ripon Forum, Summer,http://www.riponsociety.org/forum310g.htm.]
+
+**__<span style="font-size: 120%;">Thus the plan,</span>__**
+
+**The United States Department of Defense should implement Brilliant Pebbles space-based interceptors. We’ll clarify.**
+
+**__<span style="font-size: 120%;">Contention Two is Solvency</span>__**
+
+**First, SBI is ready – legal obligations are no longer stipulating and the tech is there.**
+
+**Institute for Foreign Policy Analysis 9**
+Independent Working Group on Missile Defense, the Space Relationship, & the Twenty-First Century, Report 2009,http://www.ifpa.org/pdf/IWG2009.pdf
+
+**Second, implementation of the plan takes 3-5 billion dollars over 3 years.**
+
+**Bendikova 2011**
+[Michaela, Fellow @ Heritage Foundation. “A Good Step for NATO Missile Defense—from France.” August 2011. [[http://blog.heritage.org/2011/08/01/a-good-step-for-nato-missile-defense%E2%80%94from-france/]]]
+
+**Third and SBI decreases the likelihood of nuclear crises – solves D/As**
+
+**IFPA 2009**
+Independent Working Group on Missile Defense, the Space Relationship, & the Twenty-First Century, Report 2009, [[http://www.ifpa.org/pdf/IWG2009.pdf]]
+
+**Fourth, SBI’s worst case scenario only lets by one warhead. The rest gets checked by terrestrial defenses.**
+
+**IFPA 2009**
+Independent Working Group on Missile Defense, the Space Relationship, & the Twenty-First Century, Report 2009, [[http://www.ifpa.org/pdf/IWG2009.pdf]]
+
+**__<span style="font-size: 120%;">Advantage One is EMPs</span>__**
+
+**First, An EMP strike can come before 2016 with massive likeliness – SBI deployment needs to happen now to prevent attack.**
+
+**Berman 12/16**
+[Ilan, staff writer for the Washington Times. “Electromagnetic Pulse A Real Threat.” December 16, 2011.]
+
+**Second, traditional deterrence falls short from solving an EMP strike**
+
+Spencer 4 – Jack Spencer, Senior Policy Analyst for Defense and National Security in the Kathryn and Shelby Cullom Davis Institute for International Studies at The Heritage Foundation, 8-3-04, “The Electromagnetic Pulse Commission Warns of an Old Threat with a New Face,” The Heritage Foundation, [[http://www.heritage.org/research/reports/2004/08/the-electromagnetic-pulse-commission-warns-of-an-old-threat-with-a-new-face]]
+
+**Third, an EMP strike kills millions and decimates the world economy**
+
+Carafano and Weitz 10 - James Jay Carafano, Ph.D, Director of the Douglas and Sarah Allison Center for Foreign Policy Studies, and Richard Weitz, Ph.D, Senior Fellow and Director of the Center for Political–Military Analysis at the Hudson Institute, 11-17-2010, “EMP Attacks—What the U.S. Must Do Now” The Heritage Foundation, [[http://www.heritage.org/Research/Reports/2010/11/EMP-Attacks-What-the-US-Must-Do-Now]]
+
+**Fourth, economic collapse causes extinction – nuclear resource wars**
+
+**Broward 9**
+[Member of Triond, [[http://newsflavor.com/opinions/will-an-economic-collapse-kill-you/]]]
+
+**Fifth, EMP strikes also undermine our communications systems by gutting our satellite networks**
+
+**IFPA ‘9**
+Independent Working Group on Missile Defense, the Space Relationship, & the Twenty-First Century, Report 2009, [[http://www.ifpa.org/pdf/IWG2009.pdf]]
+
+**Sixth, and EMP strikes provide the best scenario for all out nuclear war because loss of satellite information creates cause for miscalculation**
+
+**Hitchens 3**
+Theresa Hitchens, directs the Center for Defense Information in Washington, D.C., and leads its Space Security Project, in cooperation with the Secure World Foundation. She is author of Future Security in Space: Charting a Cooperative Course (2004) and was editor of Defense News from 1998 until 2000. “U.S. Weaponization of Space: Implications for International Security”. October 2, 2003. [[http://www.ciaonet.org/wps/hit05/index.html]]
+
+**Seventh, SBI prevents an EMP attack and makes BMD systems more effective**
+
+**Lambakis 7**
+[Steven Lambakis, senior analyst in spacepower and policy studies at the National Institute for Public Policy, February 1, 2007, “Missile Defense From Space” Hoover Institution, Policy Review No. 141, online: [[http://www.hoover.org/publications/policy-review/article/6124]]]
+
+**__<span style="font-size: 120%;">Advantage Two is Russia</span>__**
+
+**First, current US-NATO missile defense policies return US-Russian relations to Cold War levels—causes Russia to withdraw from START.**
+
+**Xinhua 12/22**
+[“Russia warns anti-missile issue may cause "ice-age" in relations with U.S.” December 12, 2011. [[http://news.xinhuanet.com/english/world/2011-12/22/c_122463253.htm]]]
+
+**Second, start key to prevent miscalc, prolif, and theft of nuclear weapons.**
+
+**Montreal Gazette in 2009**
+[July 4, “Duck and cover or a world without nukes?” -- http://www.montrealgazette .com /story_print.html?id=1759991&sponsor=]
+
+**Third, relations are critical to prevent Russian nationalism**
+
+Simes 7
+[Dimitri, President of the Nixon Center and Publisher of The National Interest, http://www.russiaprofile.org/page.php?pageid=CDI+Russia+Profile+List&articleid=a1193837742]
+
+**Fourth, Nationalist revival causes US-Russian nuclear war.**
+
+**Israelyan 98**
+[Victor, Former Soviet ambassador, diplomat, arms control negotiator, and leading political scientist, Winter, Washington Quarterly]
+
+**Fifth, US-Russian Nuke war is Extinction in 8 minutes**
+
+**Hallam 09.**
+[John, “Life, the Universe and (Avoiding) the End of Everything.” People For Nuclear Disarmament Nuclear Flashpoints Campaign. July 15. [[http://www.pndnsw.org.au/articles/features/118-life-the-universe-and-avoiding-the-end-of-everything.html]]]
+
+**Sixth, a U.S.-Russian nuclear war is the ONLY scenario for extinction – other nuclear wars won’t cause it**
+
+**Bostrom 02**
+[Nick Bostrom, Ph.D. and Professor of Philosophy at Oxford University, March 2002, Journal of Evolution and Technology, Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards]
+
+**Seventh, SBI stops nuclear strikes—its game over on the impacts calc.**
+
+**Fox and Orman ’11.**
+[Eugene Fox is vice president and Stanley Orman is CEO of Orman Associates, Rockville, Md., a defense consulting firm. May 9, 2011. “BMD Needs Space Component”.http://www.defensenews.com/story.php?i=6442464&c=FEA&s=COM]
+
+**Eighth, SBI doesn’t threaten Russia, aids to decrease nuclear weapons, and keeps us safe even if nukes are used**
+
+**Denny 10**
+[Bart Denny, Analyst at Camber Corporation, Space Systems Analyst at U.S. Air Force (Civilian), Naval Missile Defense Operations Officer, April 29, 2010, time to revisit space-based missile defense, [[http://www.bartdenny.com/time-for-space-based.html]]]
+
+**__<span style="font-size: 120%;">Advantage Three is Iran</span>__**
+
+**First, Iran will be able to launch a nuclear weapon by 2014. At the same time, tensions with Israel are getting even worse, putting the Middle East on the brink.**
+
+**Haaretz 9**
+[The world's leading English-language Website for real-time news and analysis of Israel and the Middle East. “G-8 'fully believes' Israel will attack Iran, says Italy PM.” June 16, 2009. [[http://www.haaretz.com/news/diplomacy-defense/g-8-fully-believes-israel-will-attack-iran-says-italy-pm-1.298597]]]
+
+**Second, Iranian nuclearization guarantees war.**
+
+**Goldberg 2011**
+[Michael, author and a staff writer for The Atlantic, having previously worked for The New Yorker. Goldberg writes principally on foreign affairs, with a focus on the Middle East and Africa.[1] Michael Massing, an editor of the Columbia Journalism Review, called Goldberg "the most influential journalist/blogger on matters related to Israel." “The Point of No Return.” September 2011 edition]
+
+**Thirdly, war between Israel and Iran leads to extinction—it ignores conventional deterrence because of nationalist and religious conflict.**
+
+**Ivashov 2007**
+[Leonid. Analyst at the Strategic Culture Foundation. “Iran: The Threat of Nuclear War” The AP, 21 April 07.]
+
+**Fourth, SBI solves Israeli-Iranian war—deters the use of nuclear and conventional arms.**
+
+**Dolman and Cooper 11**
+[Everett, PhD and Professor of Comparative Military Studies @ US Air Force School of Advanced Air and Space Studies and Recipient of Central Intelligence’s Outstanding Intelligence Analyst Award, and Henry, Former Deputy for the Strategic and Space Systems of the DOD and Chairman of High Fronteir, a non-profit organization studying issues of missile defense and space. “Chapter 19: Increasing the Military Uses of Space,” http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]
+
+=What They Ran= 
+
+**__Rd. 1 vs. Washburn Rural (We Ran SBI)__**
+1nc- China DA, Debris DA, Case
+2nr- All
+
+**__Rd. 4 vs. Silver Lake (We ran Broadband)__**
+1nc- Postal Bill Politics, Spending, Case
+2nr- All

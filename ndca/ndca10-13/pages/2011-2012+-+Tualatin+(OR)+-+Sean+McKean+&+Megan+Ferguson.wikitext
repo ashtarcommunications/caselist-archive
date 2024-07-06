@@ -1,0 +1,178 @@
+[[toc]]
+=Affirmative= 
+This is the current version of our aff as it stands, we have been tweaking it over the past few weeks so I can't guarantee that this will be the exact 1AC but it should be something similar if it is diffrent
+=Policy 1AC
+----
+= 
+**__Observation 1 is Inherency:__**
+1. The U.S. is bound by both policy and international law to deflect an asteroid no matter where it would strike.
+<span style="font-size: 12pt;">Koplow 5</span> (Justin, JD Candidate – Georgetown University Law Center, Georgetown International Environmental Law Review, Lexis)
+
+2. An estimated 400 global destruction causing asteroids have yet to be recorded, as well as more than a million asteroids with the potential to wreak havoc.
+<span style="font-size: 12pt;">Popular Science 03</span><span style="font-size: 8pt;"> (Gregory Mone, __Popular Science__, //Incoming!//, August 6, 2003, </span><span style="color: windowtext; font-size: 8pt; text-decoration: none;">[[http://www.popsci.com/military-aviation-space/article/2003-08/incoming]]</span><span style="font-size: 8pt;">, znf)</span>
+
+
+<span style="font-size: 12pt;">3. Current government policy relating to asteroids requires too much information to act efficiently. The B612 foundation has a plan to demonstrate efficient asteroid deflection by 2015, but requires the technology developed in NASA’s Prometheus Program</span>.
+<span style="font-size: 12pt;">Schweickart 04 </span>
+<span style="font-size: 12pt;">[Russell L, Chairman of the B612 Foundation, NASA Ames Research Center, “Astronauts Rusty Scheickart and Ed Lu on deflecting an NEA,” April 7 2004, SM, Accessed: 10/6/11, </span>[[http://impact.arc.nasa.gov/news_detail.cfm?ID=140]]]
+
+4. The only detection available for [Potentially Hazard Objects] PHOs is radar telescopes that can see a shallow distance from Earth’s surface. More power is needed.
+<span style="font-size: 12pt;">Bucknam and Gold in 08</span><span class="cardChar">[Mark and Robert “Survival” (00396338); Oct/Nov2008, Vol. 50 Issue 5, p141-156, 16p PN] [PHO - potentially hazardous object]</span>
+
+5. All deflection methods require decades to effectively deflect an asteroid, but current detection is slow, and only identifies threatening Near Earth Objects [NEOs] months before an impact.
+<span style="font-size: 13pt;">NRC 10</span><span class="cardChar">(National Research Council Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies,” http://www.nap.edu/catalog.php?record_id=12842)</span>
+
+
+Thus, the plan:
+The United States federal government should fully fund and implement a space based infrared sensor in a Venus-like orbit for the purposes of asteroid detection and deflection. We reserve the right to clarify.
+
+
+**__Advantage1 is Miscalculation:__**
+__Scenario 1 is India and Pakistan:__
+1. Current systems of asteroid detection are inadequate for preventing an accidental launch. India and Pakistan cannot distinguish asteroids from attacks.
+<span style="font-size: 12pt;">Selinger ’02</span>. (writer “Asteroid Imact Set of Hiroshima-Sized Air Blast on June 6: Early Warning Center For Asteroids Needed Says USAF” __Aerospace Daily__ 7/11/02, [[http://www.rense.com/general27/asteroidimpactsetoff.htm]], AG)
+
+
+2. Indo-Pak conflict will result in nuclear war.
+Weitz 10 <span style="font-size: 10pt;">(Robert, Director of the Center for Political-Military Analysis, 7-12, http://the-diplomat.com/ 2010/07/12/south-asia’s-nuclear-war-risk/4, 6-27-11, AH)</span>
+
+
+Scenario 2 is Russia and the U.S.
+<span style="font-size: 12pt;">1. An unexpected asteroid could trigger U.S. or Russia early warning systems—leading to an accidental launch.</span>
+<span style="font-size: 12pt;">Moore 07</span><span style="font-size: 8pt;"> (Carol, anti-nuclear political activist, “Is World Nuclear War Inevitable?” [[http://carolmoore.net/nuclearwar/#Accidental|http://carolmoore.net/nuclearwar/#Accidental]] November 2007) JM</span>
+
+
+<span style="font-size: 12pt;">2</span>. <span style="font-size: 12pt;">Accidental war with Russia causes global devastation.</span>
+<span style="font-size: 12pt;">Mosher and Schwartz 03 [David, RAND senior policy analyst with expertise in nuclear weapons policy and ballistic missile defense, Lowel, RAND associate policy analyst, __RAND Review,__ “Excessive Force Why Russian and U.S. Nuclear Postures Perpetuate Cold War Risks,” Fall 2003, SM, Accessed: 7/7/11, </span><span style="color: blue;">[[http://www.rand.org/publications/randreview/issues/fall2003/force.html]]</span>]
+
+
+__**Advantage 2 is the Asteroid Strike:**__
+Scenario 1 is the Asteroid:
+1. Small NEOs are extremely frequent and pass through current detection
+<span style="font-size: 13pt;">Binzel 11</span> (Richard, Professor of Planetary Sciences – MIT, “Richard Binzel on Near-Earth Asteroids”, Space Daily, 7-1, http://www.spacedaily.com/reports/Richard_Binzel_on_near_Earth_asteroids_999.html)
+
+
+2. Small asteroids risk nuclear winter, crop failure and extinction
+<span style="font-size: 12pt;">Easterbrook 8</span> <span style="font-size: 8pt;">(</span>Gregg, Editor of The Atlantic and The New Republic and Sr. Fellow at Brookings, “The Sky is Falling,” June, http://www.theatlantic.com/doc/200806/asteroids)
+
+
+3. The impact is extinction --- high magnitude and aperiodic strikes shatter traditional considerations of “timeframe” and mean we should treat NEO threats as immanent, they are a threat to our very existence
+<span style="font-size: 12pt;">Brownfield 4</span> (Roger, Gaishiled Project, “A Million Miles a Day”, Presentation at the Planetary Defense Conference: Protecting Earth From Asteroids, 2-26, http://www.aiaa.org/content.cfm?pageid=406&gTable= Paper&g ID=17092)
+
+4. Reducing existential risk __by even a tiny amount__ outweighs __every other impact__ — the math is conclusively on our side.
+<span style="font-family: Arial,sans-serif;">Nick </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">Bostrom</span>__**<span style="font-family: Arial,sans-serif;">, Professor in the Faculty of Philosophy & Oxford Martin School, Director of the Future of Humanity Institute, and Director of the Programme on the Impacts of Future Technology at the University of Oxford, recipient of the 2009 Eugene R. Gannon Award for the Continued Pursuit of Human Advancement, holds a Ph.D. in Philosophy from the London School of Economics, </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">2011</span>__**<span style="font-family: Arial,sans-serif;"> (“The Concept of Existential Risk,” Draft of a Paper published on ExistentialRisk.com, Available Online at [[http://www.existentialrisk.com/concept.html]], Accessed 07-04-2011)</span>
+
+
+5. Policymakers should adopt the __Maxipok principle__ and __prioritize the reduction of existential risk__.
+<span style="font-family: Arial,sans-serif;">Nick </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">Bostrom</span>__**<span style="font-family: Arial,sans-serif;">, Professor in the Faculty of Philosophy & Oxford Martin School, Director of the Future of Humanity Institute, and Director of the Programme on the Impacts of Future Technology at the University of Oxford, recipient of the 2009 Eugene R. Gannon Award for the Continued Pursuit of Human Advancement, holds a Ph.D. in Philosophy from the London School of Economics, </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">2011</span>__**<span style="font-family: Arial,sans-serif;"> (“The Concept of Existential Risk,” Draft of a Paper published on ExistentialRisk.com, Available Online at [[http://www.existentialrisk.com/concept.html]], Accessed 07-04-2011)</span>
+
+
+6. Reducing existential risk is __desirable in every framework__—our argument doesn’t require extreme utilitarianism.
+<span style="font-family: Arial,sans-serif;">Nick </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">Bostrom</span>__**<span style="font-family: Arial,sans-serif;">, Professor in the Faculty of Philosophy & Oxford Martin School, Director of the Future of Humanity Institute, and Director of the Programme on the Impacts of Future Technology at the University of Oxford, recipient of the 2009 Eugene R. Gannon Award for the Continued Pursuit of Human Advancement, holds a Ph.D. in Philosophy from the London School of Economics, </span>**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">2011</span>__**<span style="font-family: Arial,sans-serif;"> (“The Concept of Existential Risk,” Draft of a Paper published on ExistentialRisk.com, Available Online at [[http://www.existentialrisk.com/concept.html]], Accessed 07-04-2011)</span>
+
+
+
+Scenario 2 is the Ocean:
+<span style="font-size: 12pt;">1. An ocean asteroid strike kills the ozone, causing high UV radiation levels.</span>
+<span style="font-size: 12pt;">Edwards 10 (Lin, science-specialized news reporter for Physorg, “Asteroid strike into ocean could deplete ozone layer” October 27, 2010 </span>[[http://www.physorg.com/news/2010-10-asteroid-ocean-deplete-ozone-layer.html]]<span style="font-size: 12pt;">) JM</span>
+
+
+<span class="cite">2. UVB rays kill phytoplankton which vastly decreases biodiversity</span>
+<span class="cite">World Health Oganization 94</span><span style="font-size: 8pt;"> (__Environmental Health Criteria 160__, //Ultraviolet Radiation//, date n/a, http://www.inchem.org/documents/ehc/ehc/ehc160.htm#SectionNumber:11.2, znf)</span>
+
+
+3. Biodiversity loss causes ecosystem collapse and human extinction.
+<span style="font-size: 12pt;">Diner</span>, <span style="font-size: 12pt;">1994</span> (Major David Diner head of the JAG Corps, United States Army. Winter 1994, Military Law Review, 143 Mil. L. Rev. 161, p. 170-173)
+
+
+**__Solvency:__**
+1. Putting an infrared sensor in a Venus-like orbit would increase detection methods by 180% and could detect threatening PHOs much better than ground based telescopes.
+<span style="font-size: 12pt;">Bucknam and Gold in 08 [Mark and Robert “Survival” (00396338); Oct/Nov2008, Vol. 50 Issue 5, p141-156, 16p PN] [PHO - potentially hazardous object]</span>
+
+
+2. The telescope technology exists.
+
+<span style="font-size: 12pt;">Space Daily 11</span> (5/10, NASA Selects Investigations for Future Key Missions, Lexis)
+
+
+
+<span style="font-size: 12pt;">3</span>. <span style="font-size: 12pt;">Project B612 has developed “gravity tractors” capable of deflecting asteroids.</span>
+
+<span style="font-size: 12pt;">Lu & Love, 05</span> [“A Gravitational Tractor for Towing Asteroids”, arxiv.org, pg1-2, [[http://arxiv.org/ftp/astro-ph/papers/0509/0509595.pdf]] mjf]
+
+
+
+4. Only an asteroid tug caused by using a gravity tractor can solve—the land and push theory is superior to any other deflection method.
+
+<span style="font-size: 12pt;">Schweirt et al. 03</span> [“Asteroid Tugboat” //Scientific American//, Nov 2003, Pg 57, [[http://www.b612foundation.org/papers/Asteroid_Tugboat.pdf]] mjf]
+
+=Kritikal 1AC= 
+
+**__Inherency__**
+1. Detection efforts are incomplete the Earth killer has yet to be found
+<span class="Underline">**NATIONAL RESEARCH COUNCIL 2010**</span><span style="font-size: 7pt;"> (NRC Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies,” http://www.nap.edu/catalog.php?record_id=12842)</span>
+
+
+Thus The Plan
+
+<span style="font-family: 'Times New Roman',serif; font-size: 10pt;">The United States federal government should fully fund and implement a space based infrared sensor in a Venus-like orbit for the purposes of asteroid detection, and make a promise to not deflect the ‘killer asteroid’ once it is found. We reserve the right to clarify.</span>
+**__Technological Thought__**
+<span class="Author-Date">1. The Earth has become Enframed as nothing other than a recourse by the conquest of technological thought. This is Heidegger’s concept of standing reserve.</span>
+<span class="Author-Date">Joronen 08</span>, Mikko. Department of Geography, University of Turku. <span class="Author-Date">2008</span>. “The Age of Planetary Space: On Heidegger, Being, and Metaphysics of Globalization.” https://www.doria.fi/xmlui/bitstream/handle/10024/66733/AnnalesAII257Joronen.pdf?sequence=1
+<span class="cite">2. Reducing the world to “Standing Reserve” removes our possibility to an authentic being.</span>
+<span class="cite">Kinsella 07</span>
+
+3. Technological thought can only confront its inherent limitations via the manufacture of catastrophe and violence.
+<span style="font-size: 12pt;">Swazo 02 </span>– Professor of Philosophy at the University of Alaska (Norman K., __Crisis Theory and World Order: Heideggerian Reflections__, p. 157-60)
+
+4. Loss of Being obliterates the value to life and is a fate worse than nuclear annihilation
+<span style="font-size: 12pt;">Zimmerman 94</span> <span style="font-size: 8pt;">(Michael, Prof of Philosophy @ Tulane, __Contesting Earth’s Future__, p.119-120)</span>
+
+
+**__Ontology__**
+1. Ontology must come first: only by becoming explorers of what we accept as reality can we truly explore reality. Questioning what we accept as truth is the only way to be fully human.
+Jerome 92 [Miller, Professor of Philosophy at Salisbury State University in Maryland, __In the Throe of Wonder: Intimations of the Sacred in a Post-Modern World__ pg. 197-198, 1992, SM, Accessed: 7/1/11]
+
+<span style="font-size: 12pt;">2. Considering the relationship with “Being” is a prerequisite to solving any relationships between human beings.</span>
+<span style="font-size: 12pt;">Rae 10 (Gavin, PhD in Philosophy @ The University of Warwick “Re-Thinking the Human: Heidegger, Fundamental Ontology, and Humanism” Hum Stud (2010) 33:23–39) </span>
+
+3. We have to understand ontology in the context of space because the drive for space exploration is a byproduct of how we come to imagine ourselves as a nation – this process of identity construction shapes our actions and truths.
+
+Jodi **__Dean__**, PhD in PolySci from Columbia and professor of polysci @ Hobart and William Smith College, **__1997__**, “The familiarity of strangeness: aliens, citizens, and abduction” //Theory and Event 1:2//
+
+
+
+**__Solvency__**
+1. Putting an infrared sensor in a Venus-like orbit would increase detection methods by 180% and could detect threatening PHOs much better than ground based telescopes.
+
+<span style="font-size: 12pt;">Bucknam and Gold in 08 [Mark and Robert “Survival” (00396338); Oct/Nov2008, Vol. 50 Issue 5, p141-156, 16p PN] [PHO - potentially hazardous object]</span>
+
+2. The telescope technology exists.
+
+<span style="font-size: 12pt;">Space Daily 11</span>
+<span style="font-family: 'Times New Roman',serif; font-size: 10pt;">5/10, NASA Selects Investigations for Future Key Missions, Lexis)</span>
+
+<span style="font-size: 12pt;">3. Destruction causing asteroids will be found, nobody will know what to do about it.</span>
+<span style="font-size: 12pt;">Kerr, 2002</span><span style="color: #333333; font-size: 9pt;"> (</span>Richard)(Science; 9/13/2002, Vol. 297 Issue 5588, p1785, 2p, 1 Color Photograph)
+
+4. The only option is to Do Nothing in the Face of the asteroid. Only Through Passivity can we Escape the Cycle of Control Created by Technological Thought.
+<span class="Author-Date">McWhorter 92 (Ladelle, Heidegger and the Earth Essays in Environmental Philosophy, Thomas Jefferson University Press, pg. </span><span style="font-size: 10pt;">4-5)</span>
+
+5. Resisting our desire to protect ourselves from annihilation means rethinking our very selves and controlling our egos, solving our technological relation to the environment.
+<span style="font-size: 12pt;">McWhorter 92 (Ladelle, Heidegger and the Earth Essays in Environmental Philosophy, Thomas Jefferson University Press, pgs. vii-viii)</span>
+
+6. By embracing the will of nature and not trying to create the false hierarchy of “man over nature” we can solve the problem of enframing. only through complete liberation from the brutal cycle of technological exploitation can we avoid destruction
+<span class="cite">Best and Nocella, 06</span><span style="font-size: 8pt;">(Associate Professor of Philosophy and Humanities at University of Texas, El Paso and Professor of Criminology, Sociology, and Peace and Global Studies at Le Moyne College, 06. Steven and Anthony, //Igniting a Revolution: voices in defense of the Earth//, p. 81-82)</span>
+
+7. Heidegger doesn’t reject the use of technology. Only through a revolution in our relationship with technology, not a severing, can we avoid destruction
+<span style="font-size: 12pt;">Best and Nocella, 06</span><span style="font-size: 8pt;">(Associate Professor of Philosophy and Humanities at University of Texas, El Paso and Professor of Criminology, Sociology, and Peace and Global Studies at Le Moyne College, 06. Steven and Anthony, //Igniting a Revolution: voices in defense of the Earth//, p. 116-117)</span>
+
+8. The affs respect of the outer special body creates a cosmocentric ethic towards space which solves for the technological nature of space exploration
+Erin Moore **__<span style="font-size: 12pt;">Daly</span>__**, grad student @ Arizona state in department of life sciences, **__and__** Robert **__Frodeman__**, chair of department of philosophy @ University of North Texas, **__<span style="font-size: 12pt;">2008</span>__**, “Separated at Birth, Signs of Rapprochement
+Environmental Ethics and Space Exploration”, //Ethics & The Environment// Vol. 13 No.1 
+
+<span style="font-size: 10pt;">9. Letting the Earth be acts as a radical rejection of technological enframing, opening possibilities for new modes of dwelling in the world.</span>
+<span style="font-size: 12pt;">Joronen '11</span><span style="font-family: Verdana,sans-serif; font-size: 8pt;">[Mikko, Dept. of Geography, U. of Turku, Finland, “Dwelling in the Sites of Finitude: Resisting the Violence of the Metaphysical Globe,” Antipode, 0(0).]</span>
+=Negative= 
+
+[[include page="space.template.Footer"]]

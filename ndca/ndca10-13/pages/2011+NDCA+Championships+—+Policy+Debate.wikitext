@@ -1,0 +1,4 @@
+This is a list of only those teams that are competing at the 2011 NDCA Championships in Policy Debate. It was automatically generated using tags and is not an official list.
+
+
+[[include component="pageList" hideInternal="true" tag="2011 ndca policy" limit="10000" ]]

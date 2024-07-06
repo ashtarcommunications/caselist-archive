@@ -1,0 +1,15 @@
+[[toc]]
+We'll post 1NC strats and 2NR choices on here. For block splits or more specificity about 1NC case args 
+
+=Grapevine= 
+==Round 1: Neg v. Heritage Hall HP (ERAM)== 
+1AC: En Route Automation Modernization (Data Comm, ATC)
+1NC: Politics (Magnitsky DA), States CP, Earmarks CP, A-Spec, Coercion, Death Cult, Transportation Instrumentality, Case Defense
+2NR: Death Cult, Magnitsky DA, Case D
+
+==Round 3: Neg v. Jesuit AP (Waterways)== 
+1AC: Inland Waterways (Food Prices, Economy)
+1NC: Politics (Magnitsky DA), States CP, Earmarks CP, A-Spec, Coercion, Death Cult, High Food Prices Good, Case Defense
+2NR: Death Cult, Magnitsky DA, Case D
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,4 @@
+This is a list of only those teams that are competing at the 2010 University of Texas Round Robin. It was automatically generated using tags and is not an official list.
+[[include component="pageList" hideInternal="true" tag="2010 texas rr policy teams" limit="1000" ]]
+
+Note: the Kinkaid team will be Nikhil Bontha and Vivek Datla.

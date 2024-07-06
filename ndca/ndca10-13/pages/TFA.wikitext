@@ -1,0 +1,61 @@
+[[toc]]
+**We'll post 1NC strats, and aff intel as the tournament progresses.**
+**Good luck to everyone.**
+=Round 2 v. Westwood LR (Hydrogen Fuel - ETS, Navy) -- Loss= 
+===**1NC:**=== 
+**T - Underlying Structure**
+**Warming Adv CP**
+**Immigration Reform - Politics DA**
+**Anthro K**
+**Case D**
+
+===**2NC:**=== 
+**Anthro K**
+**Case D**
+
+===**1NR:**=== 
+**Immigration Reform**
+
+===**2NR:**=== 
+**Immigration Reform - Politics DA**
+**Case D**
+
+=Round 3 v. Jesuit TK (Art in TI - civic engagement, reclaiming our own) -- Loss= 
+===**1NC:**=== 
+**T - Underlying Structure**
+**T - Substantial**
+**Roleplaying K**
+**Immigration reform - Politics DA**
+**Impact Framing**
+
+===**2NC:**=== 
+**Roleplaying K**
+**T - Underlying Structure**
+
+===1NR:=== 
+**Immigration reform - politics DA**
+**Impact Framing**
+
+===**2NR:**=== 
+**Roleplaying K**
+
+=Round 6 v. Bellaire CW (Rex 84 - Satire of Util) -- Loss= 
+===1NC:=== 
+**Framework**
+**"Should" PIC + Morality turn**
+**Immigration Reform - Politics DA**
+**Util Bad**
+
+===**2NC:**=== 
+**Framework**
+**Util Bad**
+**"Should" PIC** **<span style="font-size: 13px; line-height: 1.5;">+ Morality turn</span>**
+
+===**1NR:**=== 
+**Immigration reform - politics DA**
+
+===**2NR:**=== 
+**Framework**
+**"Should" PIC + Morality turn**
+
+[[include page="space.template.Footer"]]

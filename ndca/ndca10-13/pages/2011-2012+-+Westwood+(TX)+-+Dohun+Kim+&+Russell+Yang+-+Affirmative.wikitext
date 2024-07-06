@@ -1,0 +1,226 @@
+[[toc]]
+=Affirmative= 
+==SPS 1AC - Hendrickson== 
+**Plan: The United States federal government should substantially increase its development of space based solar power beyond the Earth's mesosphere.**
+
+===Warming=== 
+**Global warming is real and anthropegenic - thousands of studies prove human energy production is the problem**
+<span style="font-size: 17.3333px;">Rahmstorf 08</span> (Stefan Rahmstorf, Potsdam Institute for Climate Impact Research, 2008, “Anthropegenic Climate Change: Revisiting the Facts”)
+It is time to turn to statement B<span class="StyleBoldUnderline">....a reality with which we need to deal.</span>
+
+**And, we’re nearing the point of no return—holding the line on current emissions while transitioning to solar power key to check feedback cycles**
+<span style="font-size: 17.3333px;">Biello 10</span> (David Biello, award winning journalist and associate editor for Scientific American, 9/9/10, Scientific American, “How Much Global Warming Is Guaranteed Even If We Stopped Building Coal-Fired Plants Today?”, [[http://www.scientificamerican.com/article.cfm?id=guaranteed-global-warming-with-existing-fossil-fuel-infrastructure]])
+<span class="StyleBoldUnderline">Humanity has yet to reach the point of</span>...., perhaps 30 [terawatts] by 2050."
+
+**SBSP is key to reduce fossil fuel use and air pollution**
+Lyle M. <span style="font-size: 17.3333px;">Jenkins</span>, Engineer, NASA Lyndon B. Johnson Space Center, ‘<span style="font-size: 17.3333px;">9</span> (December 2009, “Development of Space-Based Solar Power”, [[http://www.intechopen.com/articles/show/title/development-of-space-based-solar-power]])
+<span class="StyleBoldUnderline">The risks identified through the rigor of the....toward </span>space solar power<span class="StyleBoldUnderline"> for use on Earth.</span>
+
+**Warming causes extinction**
+<span style="font-size: 17.3333px;">Deibel 07</span> (, Professor of IR @ National War College, 2007 (Terry L., “Foreign Affairs Strategy: Logic for American Statecraft” pages 397-8)
+Finally, the<span class="StyleBoldUnderline">re is </span>one<span class="StyleBoldUnderline"> major </span>existential threat....the<span class="StyleBoldUnderline"> continued </span>existence of life<span class="StyleBoldUnderline"> on this planet.</span>
+
+**Only SPS supplies the power needed for a sustainable energy transition**
+<span style="font-size: 17.3333px;">Snead 09</span> (James M. Snead, P.E., is a senior member of the American Institute of Aeronautics and Astronautics (AIAA) a past chair of the AIAA’s Space Logistics Technical Committee, and the founder and president of the Spacefaring Institute LLC, 5/4/2009, “The vital need for America to develop space solar power”, The Space Review, [[http://www.thespacereview.com/article/1364/1]]) - yes
+<span class="StyleBoldUnderline">A key element of a well-reasoned....serious engineering development of SSP be started now.</span>
+
+===Leadership=== 
+====**Flexibility**==== 
+**Oil dependency ties down the Army’s budget and undermines its fighting capability**
+<span style="font-size: 17.3333px;">Wharton 9</span> (University of Pennsylvania School of Business, 1/30/09 “U.S. Military Hopes to Be
+Energized by Alternative Fuels” Wharton Aerospace and Defense Report [[http://executiveeducation.wharton.upenn.edu/wharton-aerospace-defense-report/upload/Military-Hopes-Energized-by-Fuel.pdf]])
+The U.S. military is the....efficiency something that defense contractors must seriously consider.
+
+**Energy insecurity undermines forward deployment and power projection**
+<span style="font-size: 17.3333px;">Wald and Captain 09</span> [ General Charles F. Wald (USAF Ret) Director and Senior Advisor, Aerospace & Defense Industry, Tom Captain Vice Chairman, Global and U.S. Aerospace & Defense Industry Leader, “ Energy Security America’s Best Defense” 2009, [[http://www.deloitte.com/assets/Dcom-UnitedStates/Local%20Assets/Documents/AD/us_ad_EnergySecurity052010.pdf]], Caplan]
+Energy<span class="StyleBoldUnderline"> security </span>and national security <span class="StyleBoldUnderline">are closely interrelated....accelerate the development and deployment of such technologies.</span>
+
+**SBSP solves flexible response and supply lines – provides mobile energy**
+<span style="font-size: 17.3333px;">National Security Space Office 7</span> (National Security Space Office Report, 150 person international expert collaboration, 10/10/7 “Space<span style="font-family: 'Cambria Math',serif;">‐</span>Based Solar Power As an Opportunity for Strategic Security” [[http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf]])
+For the DoD specifically, beamed energy from<span class="StyleBoldUnderline">....providing access to a strategically secure energy supply</span>.
+
+**Flexible response is key to heg – we also solve oil shocks that devastate primacy**
+(<span style="font-size: 17.3333px;">LMI </span>Government Consulting, 4/20<span style="font-size: 17.3333px;">07</span>, Thomas D. Crowley Tanya D. Corrie David B. Diamond Stuart D. Funk Wilhelm A. Hansen Andrea D. Stenhoff Daniel C. Swift, “TRANSFORMING THE WAY DOD LOOKS AT ENERGY AN APPROACH TO ESTABLISHING AN ENERGY STRATEGY,” http://www.oft.osd.mil/library/library_files/document_404_FT602T1_Transforming%20the%20Way%20DoD%20Looks%20at%20Energy_Final%20Report.pdf)
+<span class="StyleBoldUnderline">Increasing the </span>energy efficiency of DoD operations<span class="StyleBoldUnderline"> has</span>....success in an environment of increasing energy uncertainty.
+
+**Heg collapse makes nuclear war inevitable—it’s key to global stability and prevents multiple scenarios for nuclear war**
+Robert <span style="font-size: 17.3333px;">Kagan</span>, Senior Associate at the Carnegie Endowment for International Peace, 20<span style="font-size: 17.3333px;">07</span>, “End of Dreams, Return of History,” //Policy Review//, Hoover Institution, [[http://www.hoover.org/publications/policyreview/8552512.html]]
+<span style="font-size: 10.6667px;">Finally, there is the United States itself</span><span class="StyleBoldUnderline">....and global involvement will provide an easier path.</span>
+
+====**Satellites**==== 
+**SBSP lets us harden satellites, make them more survivable and reconstitute lost assets rapidly**
+<span style="font-size: 17.3333px;">Ramos 2k</span> – US Air Force Major, Thesis submitted for the AIR COMMAND AND STAFF COLL MAXWELL Air Force Base (Kim, “Solar Power Constellations: Implications for the United States Air Force,” April, [[http://handle.dtic.mil/100.2/ADA394928]])
+In addition to the terrestrial implications of solar<span class="StyleBoldUnderline">...., and repositioning to meet warfighter requirements</span>.26
+
+**Militarization might be inevitable, but weak defenses aren’t. Effectively hardening satellites is vital to prevent war and pre-emption**
+<span style="font-size: 17.3333px;">Kueter, 07</span> **-** is president of the George C. Marshall Institute, a nonprofit think tank dediicated to science and technology in public policy (Jeff, New Atlantis, “China's Space Ambitions -- And Ours,” Spring, lexis)
+On January 11, 2007, a missile....can ensure the security of American space assets.
+
+**Sino-US war causes global nuclear war**
+<span style="font-size: 17.3333px;">Hunkovic 9</span> [Lee J, 2009, Prof. at American War College “The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America”, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]]]
+A war between China<span class="StyleBoldUnderline">, Taiwan </span>and the....countries will not be considered in this study.
+
+**Those defense systems dissuade Chinese weaponization in the first place**
+<span style="font-size: 17.3333px;">Meteyer 5</span> (David O. <span style="font-size: 17.3333px;">Meteyer</span>, Major, USAF, is currently assigned to Headquarters, Pacific Air Forces in Hawaii where he works space operations, Bachelor of Science degree from Oregon State University, MBA from the University of Montana, graduate degree in Security Studies/Defense Decision-Making and Planning from the Naval Postgraduate School, “The Art of Peace: Dissuading China from Developing Counter-Space Weapons”, August <span style="font-size: 17.3333px;">2005</span>, USAF Institute for National Security Studies, http://www.usafa.edu/df/inss/OCP/ocp60.pdf//jchen
+Criterion #3: US Systems Are Unassailable<span class="StyleBoldUnderline">....and sensors on-board the spacecraft.</span> 98
+
+===Solvency=== 
+**No technological barriers, we would fly demonstrations in 4 years,**
+<span style="font-size: 17.3333px;">Ashworth ‘08</span> - Fellow of the British Interplanetary Society (Stephen, The Space Review, “In defense of the knights”, 6/23, <span style="color: #3366bb;">[[@http://www.thespacereview.com/article/1153/1]]</span>)
+Usually, Day’s articles are among the best<span class="StyleBoldUnderline">....the actual contents of the NSSO study report.</span>
+
+**The plan provides __infinite__ cheap energy that can completely replace oil and solve global warming- acting now lets us spread the energy globally**
+William John <span style="font-size: 17.3333px;">Cox</span> is a retired prosecutor and public interest lawyer, author and political activist, May 20<span style="font-size: 17.3333px;">10</span>, [[http://pubrecord.org/commentary/7653/space-solar-energy-innovation-public/]]
+The industrial revolution has been driven for the....much healthier and<span class="StyleBoldUnderline"> a far more </span>secure society.
+
+**More militarized weapons already exist in space and SBSP helps lessen the likelihood of conflict between powers over energy scarcity**
+<span style="font-size: 17.3333px;">NSSO, 8</span> (National Space Security Office, Space-Based Solar Power Study Group, Ad Astra, “Strategic Importance” Spring 2008, pg. 28, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf)
+When first confronted with the idea of gigawatts....potential costs and disaster responses from climate change.
+
+**SPS solves**
+<span style="font-size: 17.3333px;">NSS, </span>7/13<span style="font-size: 17.3333px;">/</span>**11**, Space Solar Power: Limitless clean energy from space, http://www.nss.org/settlement/ssp/index.htm
+The U<span class="StyleBoldUnderline">nited </span>S<span class="StyleBoldUnderline">tates</span> and the world need to<span class="StyleBoldUnderline">....number of </span>substantial advantages over other<span class="StyleBoldUnderline"> energy </span>sources.
+
+==SPS 1AC - Memorial== 
+**Plan: The United States federal government should develop and deploy space based solar power.**
+
+===Warming=== 
+**Global warming is real and anthropegenic - thousands of studies prove human energy production is the problem**
+<span style="font-size: 16px;">Rahmstorf 08</span> (Stefan Rahmstorf, Potsdam Institute for Climate Impact Research, 2008, “Anthropegenic Climate Change: Revisiting the Facts”)
+It is time to turn to statement B<span class="UnderlineChar">....a reality with which we need to deal.</span>
+
+**And, we’re nearing the point of no return—holding the line on current emissions while transitioning to solar power key to check feedback cycles**
+<span style="font-size: 16px;">Biello 10</span> (David Biello, award winning journalist and associate editor for Scientific American, 9/9/10, Scientific American, “How Much Global Warming Is Guaranteed Even If We Stopped Building Coal-Fired Plants Today?”, [[http://www.scientificamerican.com/article.cfm?id=guaranteed-global-warming-with-existing-fossil-fuel-infrastructure]])
+<span class="UnderlineChar">Humanity has yet to reach the point of</span>...., perhaps 30 [terawatts] by 2050."
+
+**SBSP is key to reduce fossil fuel use and air pollution**
+Lyle M. <span style="font-size: 16px;">Jenkins</span>, Engineer, NASA Lyndon B. Johnson Space Center, ‘<span style="font-size: 16px;">9</span> (December 2009, “Development of Space-Based Solar Power”, [[http://www.intechopen.com/articles/show/title/development-of-space-based-solar-power]])
+<span class="UnderlineChar">The risks identified through the rigor of the....toward </span>space solar power<span class="UnderlineChar"> for use on Earth.</span>
+
+**Warming causes extinction**
+<span style="font-size: 16px;">Deibel 07</span> (, Professor of IR @ National War College, 2007 (Terry L., “Foreign Affairs Strategy: Logic for American Statecraft” pages 397-8)
+Finally, the<span class="UnderlineChar">re is </span>one<span class="UnderlineChar"> major </span>existential threat....the<span class="UnderlineChar"> continued </span>existence of life<span class="UnderlineChar"> on this planet.</span>
+
+**Timeframe isn’t a question- irreversibility makes action now key**
+<span style="font-size: 16px;">Mongabay 2009</span> (“Many global warming impacts may be irreversible in next 1000 years,” Byline Rhett Butler, January 27th[[http://www.climateark.org/shared/reader/welcome.aspx?linkid=116603|__http://www.climateark.org/shared/reader/welcome.aspx?linkid=116603__]], Accessed 07-22-2010)
+"<span class="UnderlineChar">It is </span>sometimes<span class="UnderlineChar"> imagined that </span>slow processes<span class="UnderlineChar">....to the peak level of carbon dioxide reached."</span>
+
+**Even if co2 increases crop yields abundance causes power wars**
+<span style="font-size: 16px;">Lee 9</span> [James R. Lee is a Professor in the School of International Service, American University, Washington, DC and Associate Director of American University's Center for Teaching Excellence. He is author of several books on international relations. Global Warming Is Just the Tip of the Iceberg 1/4/2009 [[http://www.washingtonpost.com/wp-dyn/content/article/2009/01/02/AR2009010202280.html|__http://www.washingtonpost.com/wp-dyn/content/article/2009/01/02/AR2009010202280.html__]] 7/27/2010]
+The second cause of<span class="UnderlineChar"> the coming </span>climate wars<span class="UnderlineChar">....and spin it toward new patterns of conflict.</span>
+
+**Only SPS supplies the power needed for a sustainable energy transition**
+<span style="font-size: 16px;">Snead 09</span> (James M. Snead, P.E., is a senior member of the American Institute of Aeronautics and Astronautics (AIAA) a past chair of the AIAA’s Space Logistics Technical Committee, and the founder and president of the Spacefaring Institute LLC, 5/4/2009, “The vital need for America to develop space solar power”, The Space Review, [[http://www.thespacereview.com/article/1364/1]]) - yes
+<span class="UnderlineChar">A key element of a well-reasoned....serious engineering development of SSP be started now.</span>
+
+===Leadership=== 
+====**Flexibility**==== 
+**Oil dependency ties down the Army’s budget and undermines its fighting capability**
+<span style="font-size: 16px;">Wharton 9</span> (University of Pennsylvania School of Business, 1/30/09 “U.S. Military Hopes to Be Energized by Alternative Fuels” Wharton Aerospace and Defense Report [[http://executiveeducation.wharton.upenn.edu/wharton-aerospace-defense-report/upload/Military-Hopes-Energized-by-Fuel.pdf]])
+The U.S. military is the....efficiency something that defense contractors must seriously consider.
+
+**SBSP solves flexible response and supply lines – provides mobile energy**
+<span style="font-size: 16px;">National Security Space Office 7</span> (National Security Space Office Report, 150 person international expert collaboration, 10/10/7 “Space<span style="font-family: 'Cambria Math','serif';">‐</span>Based Solar Power As an Opportunity for Strategic Security” [[http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf]])
+For the DoD specifically, beamed energy from<span class="UnderlineChar">....providing access to a strategically secure energy supply</span>.
+
+**Flexible response is key to heg – we also solve oil shocks that devastate primacy**
+(<span style="font-size: 16px;">LMI</span> Government Consulting, 4/20<span style="font-size: 16px;">07</span>, Thomas D. Crowley Tanya D. Corrie David B. Diamond Stuart D. Funk Wilhelm A. Hansen Andrea D. Stenhoff Daniel C. Swift, “TRANSFORMING THE WAY DOD LOOKS AT ENERGY AN APPROACH TO ESTABLISHING AN ENERGY STRATEGY,” http://www.oft.osd.mil/library/library_files/document_404_FT602T1_Transforming%20the%20Way%20DoD%20Looks%20at%20Energy_Final%20Report.pdf)
+<span class="UnderlineChar">Increasing the </span>energy efficiency of DoD operations<span class="UnderlineChar"> has</span>....success in an environment of increasing energy uncertainty.
+
+**Heg collapse makes nuclear war inevitable—it’s key to global stability and prevents multiple scenarios for nuclear war**
+Robert <span style="font-size: 16px;">Kagan</span>, Senior Associate at the Carnegie Endowment for International Peace, 20<span style="font-size: 16px;">07</span>, “End of Dreams, Return of History,” //Policy Review//, Hoover Institution, [[http://www.hoover.org/publications/policyreview/8552512.html]]
+Finally, there is the United States itself<span class="UnderlineChar">....and global involvement will provide an easier path.</span>
+
+**No turns- heg is only bad if we depend on oil**
+<span style="font-size: 16px;">Collina 05</span> [Tom Z. Collina, Executive Director of 20-20Vision; testimony in front of Committee on Foreign Relations Subcommittee on Near Eastern and South Asian Affairs United States Senate; “Oil Dependence and U.S. Foreign Policy: Real Dangers, Realistic Solutions” October 19, 2005; [[http://www.globalsecurity.org/military/library/congress/2005_hr/051020-collina.pdf|__http://www.globalsecurity.org/military/library/congress/2005_hr/051020-collina.pdf__]]]
+<span class="UnderlineChar">If we do not</span> seize this historic....for a quarter of the world’s oil consumption.
+
+====**Satellites**==== 
+**SBSP lets us harden satellites, make them more survivable and reconstitute lost assets rapidly**
+<span style="font-size: 16px;">Ramos 2k</span> – US Air Force Major, Thesis submitted for the AIR COMMAND AND STAFF COLL MAXWELL Air Force Base (Kim, “Solar Power Constellations: Implications for the United States Air Force,” April, [[http://handle.dtic.mil/100.2/ADA394928]])
+In addition to the terrestrial implications of solar<span class="UnderlineChar">...., and repositioning to meet warfighter requirements</span>.26
+
+**Militarization might be inevitable, but weak defenses aren’t. Effectively hardening satellites is vital to prevent war and pre-emption**
+<span style="font-size: 16px;">Kueter, 07</span> **-** is president of the George C. Marshall Institute, a nonprofit think tank dediicated to science and technology in public policy (Jeff, New Atlantis, “China's Space Ambitions -- And Ours,” Spring, lexis)
+On January 11, 2007, a missile....can ensure the security of American space assets.
+
+**Sino-US war causes global nuclear war**
+<span style="font-size: 16px;">Hunkovic 9</span> [Lee J, 2009, Prof. at American War College “The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America”, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]]]
+A war between China<span class="UnderlineChar">, Taiwan </span>and the....countries will not be considered in this study.
+
+**Those defense systems dissuade Chinese weaponization in the first place**
+<span style="font-size: 16px;">Meteyer 5</span> (David O. <span style="font-size: 17.3333px;">Meteyer</span>, Major, USAF, is currently assigned to Headquarters, Pacific Air Forces in Hawaii where he works space operations, Bachelor of Science degree from Oregon State University, MBA from the University of Montana, graduate degree in Security Studies/Defense Decision-Making and Planning from the Naval Postgraduate School, “The Art of Peace: Dissuading China from Developing Counter-Space Weapons”, August <span style="font-size: 17.3333px;">2005</span>, USAF Institute for National Security Studies, http://www.usafa.edu/df/inss/OCP/ocp60.pdf//jchen
+Criterion #3: US Systems Are Unassailable<span class="UnderlineChar">....and sensors on-board the spacecraft.</span> 98
+
+===Solvency=== 
+**No technological barriers, we would fly demonstrations in 4 years,**
+<span style="font-size: 16px;">Ashworth ‘08</span> - Fellow of the British Interplanetary Society (Stephen, The Space Review, “In defense of the knights”, 6/23, <span style="color: #3366bb;">[[@http://www.thespacereview.com/article/1153/1]]</span>)
+Usually, Day’s articles are among the best<span class="UnderlineChar">....the actual contents of the NSSO study report.</span>
+
+**The plan kick starts the market – demonstrating that SPS is feasible is only possible in the US but spreads globally**
+Geoffrey A. <span style="font-size: 16px;">Landis</span> Glenn Research Center for NASA, Cleveland, Ohio, February 20<span style="font-size: 16px;">04</span>, http://www.nss.org/settlement/ssp/library/2004-NASA-ReinventingTheSolarPowerSatellite.pdf
+<span class="UnderlineChar">Space solar power is potentially an enormous business....competitive in the U.S. electric market </span>
+
+**The plan provides __infinite__ cheap energy that can completely replace oil and solve global warming- acting now lets us spread the energy globally**
+William John <span style="font-size: 16px;">Cox</span> is a retired prosecutor and public interest lawyer, author and political activist, May 20<span style="font-size: 16px;">10</span>, [[http://pubrecord.org/commentary/7653/space-solar-energy-innovation-public/]]
+The industrial revolution has been driven for the....much healthier and<span class="UnderlineChar"> a far more </span>secure society.
+
+**More militarized weapons already exist in space and SBSP helps lessen the likelihood of conflict between powers over energy scarcity**
+<span style="font-size: 16px;">NSSO, 8</span> (National Space Security Office, Space-Based Solar Power Study Group, Ad Astra, “Strategic Importance” Spring 2008, pg. 28, http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf)
+When first confronted with the idea of gigawatts....potential costs and disaster responses from climate change.
+
+**SPS solves**
+<span style="font-size: 16px;">NSS</span><span style="font-size: 17.3333px;">, </span>7/13<span style="font-size: 17.3333px;">/</span><span style="font-size: 16px;">11</span>, Space Solar Power: Limitless clean energy from space, http://www.nss.org/settlement/ssp/index.htm
+The U<span class="UnderlineChar">nited </span>S<span class="UnderlineChar">tates</span> and the world need to<span class="UnderlineChar">....number of </span>substantial advantages over other<span class="UnderlineChar"> energy </span>sources.
+
+==2ACs== 
+===Disad=== 
+
+===Counterplan=== 
+
+===Kritik=== 
+====**Capitalism**==== 
+**Total rejection of capitalism empirically doesn’t solve- prefer realistic goals such over utopian goals like doing nothing**
+<span style="font-size: 12pt;">Gibson-Graham 96</span>- J.K. Gibson-Graham, Feminist Economist (1996, “The End of Capitalism”)
+One of our goals as Marxists … <span style="font-size: 12pt;">denial of diversity and change.</span>
+
+**Acting from the inside is necessary to destroy capitalism’s foundations**
+Ilan <span style="font-size: 12pt;">Kapoor</span>, Prof. of Environ Studies @ York University, <span style="font-size: 12pt;">‘4</span>Third World Quarterly 25.4, “Hyper-self-reflexive development? Spivak on representing the Third World ‘Other’” p. 637
+(i) ‘Intimately inhabiting’ and ‘negotiating’… <span class="DebateUnderline">with </span>the Third World<span class="DebateUnderline">/subaltern.</span>
+
+**Capitalism is inevitable – the right has vested interest in capitalism and will always co-opt leftist movements – no chance of change from the status quo.**
+Martin W. <span style="font-size: 12pt;">Lewis</span>, associate research professor of geography, co-director of Comparative Area Studies, Duke University, 19<span style="font-size: 12pt;">92</span>, Green Delusions, pp. 170-171
+The extreme left, for … <span class="DebateUnderline">a communist experiment</span>.
+
+**Cap key to solve warming**
+<span class="UnderlinedChar1"><span style="font-size: 12pt;">Whitman 8</span></span> (Janet, February 19, pg. http://www.financialpost.com/story.html?id=317551)
+__Global__ <span style="font-size: 12pt;">warming may …</span> from government carbon credits.
+
+**Only a capitalist system can generate solutions to address climate change**
+<span style="font-size: 12pt;">Steinberg 10</span>- Ted Steinberg, Professor of History and Law at Case Western Reserve University (“Can Capitalism Save the Planet?” Radical History Review 2010) SP
+<span style="font-size: 12pt;">The global crisis in environmental </span>… externalities are absorbed within the financial equation
+
+Leads to worse conditions
+Martin <span style="font-size: 12pt;">Peretz</span>, Lecturer in Social Studies, Harvard; February 3, <span style="font-size: 12pt;">2003</span>New Republic
+<span class="DebateUnderline">What is the grand "progressive"…</span>greater prisons of the soul.
+
+**Lead to violence**
+Alex <span style="font-size: 12pt;">Callinicos</span>– Professor of European Studies – <span style="font-size: 12pt;">2003</span>, “An Anti-Capitalist Manifesto”
+The police charged<span class="DebateUnderline">…</span>in addressing this problem.
+
+**Capitalism is not the root cause of war**
+**Bandow 05**- Doug Bandow (“A Capitalist Peace?” <span style="color: blue;">[[http://www.reason.com/news/show/32985.html]]</span>) SP
+The point is not … <span style="font-size: 12pt;">good for peace.</span>
+
+**Capitalism inevitable**
+<span style="font-size: 12pt;">Johnston 04</span> (Adrian, Interdisciplinary Research Fellow in Psychoanalysis at Emory University, 2004 (“The Cynic’s Fetish,” Journal for the Psychoanalysis of Culture & Society, Dec 2004 v9 i3 p259(25), Infotrac)
+Perhaps the absence … the truth? I choose fetishism")..
+
+**Capitalism is key to value to life**
+<span style="font-size: 12pt;">Rockwell 02</span> [Llewellyn H., President of the Mises Institute, The Free Market, “Why They Attack Capitalism”, Volume 20, Number 10, October, http://www.mises.org/freemarket_detail.asp?control=418&sortorder-articledate]
+If you think about it… American enterprise is perfectly abysmal.
+
+**<span class="cite">Capitalism’s inevitable</span>**
+<span class="FontStyle77">Ludwig </span><span style="font-size: 12pt;">VonMises</span><span class="FontStyle77">, Austrian economist, philosopher, author and classical liberal modern libertarian, 20</span><span style="font-size: 12pt;">04</span><span class="FontStyle77">, The Free Market and Its Enemies, Foundation for Economic Education , P.76</span>
+<span style="font-size: 10pt;">The most important…to Karl Marx's theory</span>
+<span style="font-size: 10pt;">[[include component="page" page="space.template.Footer"]] </span>

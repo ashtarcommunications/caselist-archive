@@ -1,0 +1,204 @@
+= = 
+[[toc]]
+=Affirmative= 
+Contention 1: Deep Impact
+Status quo efforts to monitor near-Earth objects are insufficient—dangerous objects are still undiscovered
+<span style="font-size: 12pt;">NRC 2010</span><span style="font-size: 7pt;"> (National Research Council Committee to Review Near-Earth Object Surveys and Hazard Mitigation Strategies, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies,” [[http://www.nap.edu/catalog.php?record_id=12842]])</span>
+
+Ground-based telescopes[….] especially imminent impactors.
+
+Asteroid impact is 100% certain and could occur at any time
+<span style="font-size: 12pt;">VERSCHUUR 1996</span><span style="font-size: 7pt;"> (Gerrit, Adjunct Prof of Physics at U of Memphis, Impact: the Threat of Comets and Asteroids, p. 158)</span>
+
+In the past few years […]determine our fate.
+
+High risk of a strike – newest research proves
+<span style="font-size: 12pt;">EASTERBROOK 2008</span> (Gregg, Editor of The Atlantic and The New Republic and Sr. Fellow at Brookings, “The Sky is Falling,” June, http://www.theatlantic.com/doc/200806/asteroids)
+
+Breakthrough ideas have […]is riding on the plane.”
+
+The impact is extinction
+<span style="font-size: 12pt;">McGUIRE 2002</span><span style="font-size: 7pt;"> (Bill, Professor of Geohazards at University College London and is one of Britain's leading volcanologists, A Guide to the End of the World, p. 159-168)</span>
+
+The Tunguska events pale […]heading in our direction.
+
+Our evidence is comparative—war, environmental destruction, terrorism, and economic collapse are all dwarfed by an asteroid impact
+<span style="font-size: 12pt;">STEEL 2002</span> <span style="font-size: 7pt;">- Joule Physics Laboratory, University of Salford (October 24, Duncan, “ Neo Impact Hazard: the Cancer Metaphor ” NASA Workshop on Scientific Requirements for Mitigation of Hazardous Comets and Asteroids, [[http://www.noao.edu/meetings/mitigation/media/arlington.extended.pdf]] pg. 93)</span>
+
+The Cancer Metaphor: Why […] hurricane in its path.
+
+Other potential threats are already being dealt with by policymakers and the public—asteroids are ignored
+<span style="font-size: 12pt;">CHICHILNISKY AND EISENBERGER 2010</span><span style="font-size: 7pt;"> (Graciela Chichilnisky and Peter Eisenberger, Columbia University, “Asteroids: Assessing Catastrophic Risks,” Journal of Probability and Statistics, [[http://www.hindawi.com/journals/jps/2010/954750/]])</span>
+
+<span style="font-size: 6pt;">Our rational decision maker who […]risks and future ones.</span>
+
+Contention 2: Impact Framing
+
+First, Asteroids Outweigh
+
+a. Only asteroids access complete extinction — that outweighs
+<span style="font-size: 12pt;">MATHENY 7</span> (Jason G., Professor of Health Policy and Management – Bloomberg School of Public Health at Johns Hopkins University, “Reducing the Risk of Human Extinction”, Risk Analysis, 27(5), October, http://jgmatheny.org/ matheny_extinction_risk.htm)
+
+Even if extinction events […]costs of mitigating them.20
+
+b. Even if the timeframe is long it’s irrelevant—we should evaluate impacts in a frame of millennia
+<span style="font-size: 12pt;">VERSCHUUR 1996</span><span style="font-size: 7pt;"> (Gerrit, Adjunct Prof of Physics at U of Memphis, Impact: the Threat of Comets and Asteroids, p. 216)</span>
+
+There is an even more subtle […]question is worth thinking about.
+
+c. Any solvency deficit to a counterplan means you vote Aff—constant asteroid risk means that we only have to be wrong a single time and the human species will end
+<span style="font-size: 12pt;">BARBEE 2009</span> (4/1, Brent W., BS, Aerospace Engineering degree from UT Austin; MS in Engineering from the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas, Austin specializing in Astrodynamics and Spacecraft Mission Design, currently working as an Aerospace Engineer and Planetary Defense Scientist with the Emergent Space Technologies company in Greenbelt, Maryland, teaches graduate Astrodynamics in the Department of Aerospace Engineering at The University of Maryland, College Park, “Planetary Defense”, http://www.airpower.au.af.mil/apjinternational//apj-s/2009/1tri09/barbeeeng.htm)
+
+It is generally accepted […] defense against NEOs.
+
+Second, War is obsolete
+
+a. War won’t happen – interdependence and institutions – also solves environment
+<span style="font-size: 12pt;">DEUDNEY AND IKENBERRY 09</span> (Daniel Deudney, Professor of Political Science at Johns Hopkins University, and G. John Ikenberry, Albert G. Milbank Professor of Politics and International Affairs at Princeton University , January 2009, “The Myth of the Autocratic Revival: Why Liberal Democracy Will Prevail” EbscoHost)
+
+This bleak outlook is based on […]integration and cooperation.
+
+Nuclear war doesn’t cause extinction – models prove
+<span style="font-size: 12pt;">Seitz 6</span> - former associate of the John M. Olin Institute for Strategic Studies at Harvard University’s Center for InternationalAffairs (Russell, “The' Nuclear Winter ' Meltdown Photoshopping the Apocalypse”, <span style="color: windowtext; text-decoration: none;">[[http://adamant.typepad.com/seitz/2006/12/preherein_honor.html]]</span>)
+
+<span style="background-color: white;">All that remains of Sagan's […]so far aloft for so long?</span>
+
+Plan:
+Resolved: The United States federal government should substantially increase its exploration of near-Earth objects through infrared telescopes and radar beyond the Earth’s mesosphere.
+
+Contention 3: Solvency
+
+Space-based sensors would find new objects and facilitate exploration
+<span style="font-size: 12pt;">NAC 2010</span><span style="font-size: 7pt;"> (“Report of the NASA Advisory Council Ad Hoc Task Force on Planetary Defense,” Oct 6, [[http://www.nss.org/resources/library/planetarydefense/2010-NASAAdvisoryCouncilOnPlanetaryDefense.pdf]])</span>
+
+2.1. NEO Search: To implement this […]by ground-based systems.
+
+The US is key- only country with resources and capability
+<span style="font-size: 12pt;">DINERMAN 9</span> (Taylor, DoD Consultant, The new politics of planetary defense, Space Review, http://www.thespacereview.com/article/1418/1)
+
+While the US is[…]the stage for a disaster.
+
+Having the best radar tech is key- it’s the only way to accurately prevent collisions and identify near-term risks
+<span style="font-size: 12pt;">IAA 9</span> (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+
+Additionally, determining the […]deflection or disruption techniques.
+
+Deflection IS POSSIBLE now, but it’s not feasible without improved detection
+<span style="font-size: 12pt;">Campbell et al 04</span> [ Jonathan W. Campbell, Claude Phipps and Larry Smalley, et al, NASA astrophysicists and research scientists, 2004 Planetary Defense Conference: Protecting Earth from Asteroids; Orange County, CA; Feb. 23-26, 2004, http://www.csa.com/discoveryguides/planetary/abstracts-f.php]
+
+Impacting at hypervelocity, an […]to allow significant intervention.
+
+Asteroid risks are unique—it’s the only disaster we can totally avoid
+<span style="font-size: 12pt;">Morrison 2005</span> <span style="font-size: 7pt;"> - NASA Astrobiology Institute (David, “ Defending the Earth Against Asteroids: The Case for a Global Response ” [[http://www.princeton.edu/sgs/publications/sgs/pdf/13%201-2%20Morrision.pdf]] Science and Global Security, 13:87–103 )</span>
+
+No asteroids have […] the disaster itself.
+
+=Negative= 
+==Neg Strats== 
+===Caucus=== 
+Rd. 1 vs. Dexter SW (SPS)
+
+1NC
+Weaponization DA
+China Bashing DA
+Ozone DA
+Heg Bad
+Case D
+
+2NR
+Ozone DA
+Heg Bad
+Case D
+
+Rd. 4 vs. Millard South CK (Frontier/Spanos)
+
+1NC
+Framework
+Imperialism Good
+
+2NR
+Imperialism Good
+
+Rd. 6 vs. GBN SK (Ground-based laser debris)
+
+1NC
+T – BETM
+China Bashing DA
+Weaponization DA
+Heg Bad
+Case D
+
+2NR
+T – BETM
+
+Quarters vs. OPRF CR (Cyborgs)
+
+1NC
+T – Increase
+Cap K <span style="font-family: Wingdings;">L</span>
+ESA CP
+China Bashing DA
+Cyborgs Good
+Case D
+
+2NR
+Cap K <span style="font-family: Wingdings;">L</span>
+
+===KCKCC=== 
+
+Rd. 2 vs. SMS ?? (Dedev Aff)
+
+1NC
+ESA CP
+China Bashing DA
+Cap/Growth Good
+
+2NR
+ESA CP
+China Bashing DA
+
+Rd. 3 vs. Barstow LW (Property Rights)
+
+1NC
+T – BETM
+Cap K <span style="font-family: Wingdings;">L</span>
+China Bashing DA
+I-law bad
+Case D
+
+2NR
+I-Law Bad
+Colonization Bad (Impact turned the 2AC Add-on)
+
+Rd. 5 vs. SME (Space Based Interceptor)
+
+1NC
+Security K <span style="font-family: Wingdings;">L</span>
+Consult NATO
+Heg Bad
+Case D
+
+2NR
+Consult NATO
+
+Doubles vs. SMS ?? (Dedev Aff)
+
+1NC
+Unusable Bridges in Alaska and Low Interest Rates CP
+Ozone DA
+Cap/Growth Good
+
+Block extended all positions and answered Space Add-ons with Colonization Bad and ET’s Bad
+
+2NR
+CP
+Colonization/ET’s Bad
+
+Sems vs. Millard South AC (Structural Violence)
+
+1NC
+Framework
+Cap K <span style="font-family: Wingdings;">L</span>
+
+2NR
+Cap K <span style="font-family: Wingdings;">L</span>

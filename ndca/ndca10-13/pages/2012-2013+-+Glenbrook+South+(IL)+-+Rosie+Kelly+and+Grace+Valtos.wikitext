@@ -1,0 +1,165 @@
+<span style="font-family: Georgia,serif;">[[toc]]
+</span>
+
+
+
+
+=<span style="font-family: Georgia,serif;">Notes</span>= 
+<span style="font-family: Georgia,serif;">Contact info - overachieverrox427@gmail.com & gcvaltos1@gmail.com</span>
+
+=<span style="font-family: Georgia,serif;">Affirmative</span>= 
+==<span style="font-family: Georgia,serif;">Geo-referencing</span>== 
+===<span style="font-family: Georgia,serif;">1AC TVTI</span>=== 
+<span style="font-family: Georgia,serif;">Transportation Infrastructure collapse is inevitable absent the plan – that destroys economic growth</span>
+<span style="font-family: Georgia,serif;">ASCE ’11 [The American Society of Civil Engineers – a report prepared by the Economic Development Research Group, which focuses on evaluating economic development performance and opportunities. The group is comprised of economists and planners who specialize in transportation engineering. “Failure to Act: The Economic Impact of Current Investment Trends in Surface Transportation Infrastructure” American Society of Civil Engineers Report, Summer 2011. [[http://www.asce.org/uploadedFiles/Infrastructure/Report_Card/ASCE-FailureToActFinal.pdfGBS/JV|http://www.asce.org/uploadedFiles/Infrastructure/Report_Card/ASCE-FailureToActFinal.pdfGBS//JV]]]</span>
+<span style="font-family: Georgia,serif;">The nation’s surface transportation............relative to competing product prices ¶ from around the globe.</span>
+
+<span style="font-family: Georgia,serif;">The US is key to the global economy</span>
+<span style="font-family: Georgia,serif;">Suominen 12 [Kati Suominen is resident fellow at the German Marshall Fund of the United States in Washington. Her latest book is [[@http://www.amazon.com/gp/product/0804781540/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0804781540&linkCode=as2&tag=fopo-20|Peerless and Periled: The Paradox of American Leadership in the World Economic Order]], “[[@http://www.foreignpolicy.com/articles/2012/07/06/america_the_absent|America the Absent]] Why is the U.S. afraid to lead the global economic recovery?,” 7/6/12, [[@http://www.foreignpolicy.com/articles/2012/07/06/america_the_absent?page=0,1]]] GANGEEZY</span>
+<span style="font-family: Georgia,serif;">The release of another [[@http://money.cnn.com/2012/07/05/news/economy/jobs-report-unemployment/|weak U.S. jobs report]] this..... growing world economy serves our national interests. But such a world is America's to make.</span>
+
+<span style="font-family: Georgia,serif;">That controls every impact – a vibrant US economy is the only way to achieve global stability</span>
+<span style="font-family: Georgia,serif;">Bremmer and Roubini ’11 [Ian – President of the Eurasia Political Risk Consulting Group. And Nouriel, Prof Econ @ NYU. “A G-Zero World” Foreign Affairs, Winter 2011. lnGBS-JV]</span>
+<span style="font-family: Georgia,serif;">Following previous crises in emerging ............ than anything resembling a new Bretton Woods.</span>
+
+<span style="font-family: Georgia,serif;">Even if economic collapse is slow, the perception is immediate and causes war</span>
+<span style="font-family: Georgia,serif;">Lieberthal and O’Hanlon ’12 [Ken – Dir of the China Center and Senior Fellow in Foreign Policy at Brookings. And Michael – Dir of Research and Senior Fellow of Foreign Policy at Brookings. “The Real National Security Threat: America’s Debt” The LA Times, 7/10/12 GBS-JV]</span>
+<span style="font-family: Georgia,serif;">Second, such a chronic economic decline....Nothing else is really possible if that fundamental prerequisite to effective foreign policy is not reestablished.</span>
+
+<span style="font-family: Georgia,serif;">The best studies prove growth stops conflict</span>
+<span style="font-family: Georgia,serif;">Royal ’10 [Jedediah, Director of Cooperative Threat Reduction at the U.S. Department of Defense, Economics of War and Peace: Economic, Legal, and Political Perspectives, pg 213-215]</span>
+<span style="font-family: Georgia,serif;">Less intuitive is how periods.... As such, the view presented here should be considered ancillary to those views.¶</span>
+
+<span style="font-family: Georgia,serif;">Economic collapse leads to war</span>
+<span style="font-family: Georgia,serif;">Harris and Burrows ‘9 [PhD in European History @ Cambridge and Counselor of the US National Intelligence Council AND Member of the National Intelligence Council’s Long Range Analysis Unit (Mathew J. and Jennifer, “Revisiting the Future: Geopolitical Effects of the Financial Crisis,” April, Washington Quarterly, [[http://www.twq.com/09april/docs/09apr_Burrows.pdf]]]</span>
+<span style="font-family: Georgia,serif;">Of course, the report encompasses more than..........within and between states in a more dog-eat-dog world.</span>
+
+<span style="font-family: Georgia,serif;">Now, Georeferencing Solves. There are Several Internal Links:</span>
+<span style="font-family: Georgia,serif;">A. Highways</span>
+<span style="font-family: Georgia,serif;">Chung and Shinozuka ‘4 [Profs Engineering at UC Irvine. “Highway Surface Distress Inspection Using Remote Sensing” Space & Earth, 2004. EbscoGBS-JV]</span>
+<span style="font-family: Georgia,serif;">An automated in-situ road surface distress inspection..........with a¶ graphical user interface is also described.</span>
+
+<span style="font-family: Georgia,serif;">B. Planning and Satellite Integration</span>
+<span style="font-family: Georgia,serif;">McCord et al ‘2 [Mark. Prof Civil Engineering at Ohio State. Et al. “IMPROVING AADT AND VDT ESTIMATION WITH HIGH-RESOLUTION SATELLITE IMAGERY” 2002, [[http://www.isprs.org/proceedings/XXXIV/part1/paper/00048.pdf]] GBS-JV]</span>
+
+<span style="font-family: Georgia,serif;">Transportation agencies around the world are.....imagery could decrease AADT and VDT estimation errors while reducing¶ ground-based data collection efforts. </span>
+
+<span style="font-family: Georgia,serif;">C. Congestion</span>
+<span style="font-family: Georgia,serif;">Paska ‘9 [Eva. PhD of Geodetic Science from Ohio State. “State of the Art Remote Sensing Geospatial Technologies in Support of Transportation Monitoring and Management” 2009, ProQuest Dissertation Database //GBS-JV]</span>
+
+<span style="font-family: Georgia,serif;">Federal and local government transportation........ The trend of switching toward imaging¶ technologies is expected to increase.</span>
+
+<span style="font-family: Georgia,serif;">The plan’s key to integrate wide swaths of data</span>
+<span style="font-family: Georgia,serif;">Hauser et al ’11 [Edd. Dir of the Center for Transportation Policy at University of North Carolina. “Remote Sensing for Bridge Monitoring” 2011, American Society of Civil Engineers Geotechnical Special Publication #214, 2011. EbscoGBS-JV]</span>
+
+<span style="font-family: Georgia,serif;">Before the infrastructure industry catch on with..... demonstrated to provide enhanced¶ bridge damage data in the context of infrastructure "total management".</span>
+===<span style="font-family: Georgia,serif;">1AC Terrorism</span>=== 
+<span style="font-family: Georgia,serif;">Terrorism’s inevitable</span>
+<span style="font-family: Georgia,serif;">Bunn et al 11 (Matthew Bunn. Associate Professor of Public Policy at Harvard Kennedy School and CoPrincipal Investigator of Project on Managing the Atom at Harvard University’s Belfer Center for Science and International Affairs. Colonel Yuri Morozov (retired Russian Armed Forces). Professor of the Russian Academy of Military Sciences and senior fellow at the U.S.A and Canada Studies Institute of the Russian Academy of Sciences, chief of department at the General Staff of the Russian Armed Forces, 1995–2000 Rolf Mowatt-Larssen. Senior fellow at Harvard University’s Belfer Center for Science and International Affairs, director of Intelligence and Counterintelligence at the U.S. Department of Energy, 2005–2008. Simon Saradzhyan. Fellow at Harvard University’s Belfer Center for Science and International Affairs, Moscow-based defense and security expert and writer, 1993–2008 William Tobey. Senior fellow at Harvard University’s Belfer Center for Science and International Affairs and director of the U.S.-Russia Initiative to Prevent Nuclear Terrorism, deputy administrator for Defense Nuclear Nonproliferation at the U.S. National Nuclear Security Administration, 2006–2009. Colonel General Viktor I. Yesin (retired Russian Armed Forces). Senior fellow at the U.S.A and Canada Studies Institute of the Russian Academy of Sciences and advisor to commander of the Strategic Missile Forces of Russia, chief of staff of the Strategic Missile Forces, 1994–1996. Major General Pavel S. Zolotarev (retired Russian Armed Forces). Deputy director of the U.S.A and Canada Studies Institute of the Russian Academy of Sciences and head of the Information and Analysis Center of the Russian Ministry of Defense, 1993–1997, deputy chief of staff of the Defense Council of Russia, 1997–1998. Vladimir Lukov, director general of autonomous non-profit organization “CounterTerrorism Center.” “ The U.S.-Russia Joint Threat Assessment on Nuclear Terrorism” May 2011 [[http://dash.harvard.edu/bitstream/handle/1/8160716/Bunn-USRussiaJointThreat.pdf)bs]]</span>
+
+<span style="font-family: Georgia,serif;">Terrorists are aspiring to plot and execute attacks of increasingly catastrophic proportions...... which has given terrorists increasing access to reliable informationand access to materials, designs, and potential victims.</span>
+
+<span style="font-family: Georgia,serif;">Biological agents are likely</span>
+<span style="font-family: Georgia,serif;">Graham and Talent ’10 [Bob, senator, chair of the Graham-Talent WMD Commission, James, senator, vice chair of the Graham-Talent WMD Commission, “Prevention of WMD Proliferation and Terrorism Report Card, An Assessment of the U.S. Government’s Progress in Protecting the United States from Weapons of Mass Destruction Proliferation and Terrorism,” [[http://www.preventwmd.gov/publications/JVoss|http://www.preventwmd.gov/publications/]][[http://www.preventwmd.gov/publications/JVoss|/JVoss]]]</span>
+
+<span style="font-family: Georgia,serif;">In December 2008, the Commission on the Prevention of Weapons....the point that we no longer have the luxury of a slow learning curve. The clock is ticking, and time is running out.</span>
+
+<span style="font-family: Georgia,serif;">Acquisition’s likely and containment measures fail</span>
+<span style="font-family: Georgia,serif;">CSIS ‘6 [The Center for Strategic International Studies. “Strategic Study on Bioterrorism” 2006, [[http://csis.org/files/media/csis/pubs/061016_bioterrorism.pdf/JVoss|http://csis.org/files/media/csis/pubs/061016_bioterrorism.pdf//JVoss]]]</span>
+<span style="font-family: Georgia,serif;">Bio-agents are readily available in the modern world and are relatively...for example, more than half the researchers are older than 45, and only 15 percent are between the age of 30 and 45.18</span>
+
+<span style="font-family: Georgia,serif;">Causes extinction</span>
+<span style="font-family: Georgia,serif;">Ayson 10 [Robert, Professor of Strategic Studies and Director of the Centre for Strategic Studies: New Zealand at the Victoria University of Wellington, (“After a Terrorist Nuclear Attack: Envisaging Catalytic Effects,” Studies in Conflict & Terrorism, Volume 33, Issue 7, July, Available Online to Subscribing Institutions via InformaWorld]</span>
+
+<span style="font-family: Georgia,serif;">A terrorist nuclear attack, and even the use of nuclear weapons.....The phrase “how dare they tell us what to do” immediately springs to mind. Some might even go so far as to interpret this concern as a tacit form of sympathy or support for the terrorists. This might not help the chances of nuclear restraint.</span>
+
+<span style="font-family: Georgia,serif;">Bioweapon release causes extinction</span>
+<span style="font-family: Georgia,serif;">Ochs 2002 [Richard, Member – Chemical Weapons Working Group, “Biological Weapons Must be Abolished Immediately, 6-9, [[http://www.freefromterror.net/other_articles/abolish.html]]]</span>
+
+<span style="font-family: Georgia,serif;">Of all the weapons of mass destruction, the..... Human extinction is now possible.</span>
+
+<span style="font-family: Georgia,serif;">We solve – deterrence, detection, and containment</span>
+<span style="font-family: Georgia,serif;">Budge and Williamson ‘5 [Ray A., Research Professor of International Affairs and Space Policy in the Space Policy Institute of The George Washington University; & Amelia, Clearinghouse Manager Earth Data Analysis Center University of New Mexico; “Improving Surface Transportation Security: The Role of Geospatial Technologies in Intermodal Freight and Hazardous Materials Transport” Imaging Notes vol. 20 no.3; Fall 2005; [[http://www.imagingnotes.com/go/article_free.php?mp_id=20//JVoss]]]</span>
+
+<span style="font-family: Georgia,serif;">The effects of the frightening terrorist attacks on the United States....on vulnerable facilities, and for increasing the possibility that attacks can be deterred.</span>
+===<span style="font-family: Georgia,serif;">1AC Plan</span>=== 
+<span style="font-family: Georgia,serif;">The United States federal government should substantially increase its georeferencing investment in transportation infrastructure in the United States. We’ll clarify.</span>
+===<span style="font-family: Georgia,serif;">1AC Solvency</span>=== 
+<span style="font-family: Georgia,serif;">Status quo monitoring is wholly ineffective because aerial satellites lack a stable point of reference – terrestrial sensors are key</span>
+<span style="font-family: Georgia,serif;">Paska ‘9</span>
+<span style="font-family: Georgia,serif;">[Eva. PhD of Geodetic Science from Ohio State. “State of the Art Remote Sensing Geospatial Technologies in Support of Transportation Monitoring and Management” 2009, ProQuest Dissertation Database GBS-JV]</span>
+<span style="font-family: Georgia,serif;">One way of characterizing these research....method that combines traffic information in satellite imagery and groundbased¶ data to improve AADT estimates.</span>
+
+<span style="font-family: Georgia,serif;">The plan achieves global, continuous monitoring of transportation infrastructure</span>
+<span style="font-family: Georgia,serif;">Ansari et al ‘12</span>
+<span style="font-family: Georgia,serif;">[Farhad. Prof Engineering at the University of Chicago. And Tzu-Yang Yu and Chris Niezrecki – Profs Engineering and Physics (Respectively) at Mass-Lowell. “Muti-Modal Remote Sensing System for Transportation Infrastructure Inspection and Monitoring” Advanced Research in Applied Artificial Intelligence. Lecture Notes in Computer Science, Vol 7345. Summer 2012. SpringerLinkGBS-JV]</span>
+<span style="font-family: Georgia,serif;">Existing highway bridge inspection techniques used by State Department of¶ Transportation (DOT) and...for efficient inspection, evaluation and rating of bridges. Overview of MRSS is¶ described in the following section.</span>
+
+<span style="font-family: Georgia,serif;">That information interoperability’s key to preparedness</span>
+<span style="font-family: Georgia,serif;">Williamson ‘2</span>
+<span style="font-family: Georgia,serif;">[Ray A. Williamson, Research Professor of International Affairs and Space Policy in the Space Policy Institute of The George Washington University “Remote Sensing and Transportation Security” [[http://www.isprs.org/proceedings/XXXIV/part1/paper/00082.pdf/JVoss|http://www.isprs.org/proceedings/XXXIV/part1/paper/00082.pdf//JVoss]]]</span>
+
+<span style="font-family: Georgia,serif;">Finding One: Local, state, andfederal responses...but also a coordinated approach to reduce duplication and redundancies.</span>
+
+=<span style="font-family: Georgia,serif;">Negative</span>= 
+<span style="font-family: Georgia,serif;">For previous strategies, check out the GBS KK wiki for Niles/New Trier/Caucus/Michigan</span>
+
+===<span style="font-family: Georgia,serif;">Dowling</span>=== 
+
+<span style="font-family: Georgia,serif;">Round 1- Natives</span>
+<span style="font-family: Georgia,serif;">1NC: Fiscal Cliff DA, T-In, T-Substantial, Colonialism K, States, Case D</span>
+<span style="font-family: Georgia,serif;">2NR: Fiscal Cliff and Case</span>
+
+<span style="font-family: Georgia,serif;">Round 4 - CCS</span>
+<span style="font-family: Georgia,serif;">1NC: Zarraby CP, T-Energy, Fiscal Cliff DA, Nitrogen Oxide DA</span>
+<span style="font-family: Georgia,serif;">2NR: T-Energy</span>
+
+<span style="font-family: Georgia,serif;">Round 6 - NIB</span>
+<span style="font-family: Georgia,serif;">1NC: States CP, T-Physical, Fiscal Cliff DA, Steel DA, Inflation and stimulus turns on case</span>
+<span style="font-family: Georgia,serif;">2NR: States and fiscal cliff</span>
+
+===<span style="font-family: Georgia,serif;">Blake</span>=== 
+
+<span style="font-family: Georgia,serif;">Round 1 - Port Security</span>
+<span style="font-family: Georgia,serif;">1NC - T-Military, Terrorism CP, Fiscal Cliff DA, EU Trade DA</span>
+<span style="font-family: Georgia,serif;">2NR - Terrorism CP and EU Trade DA</span>
+
+<span style="font-family: Georgia,serif;">Round 4 - Seabasing</span>
+<span style="font-family: Georgia,serif;">1NC - T-military, DOD Trade-off DA, SMR CP, Heg bad</span>
+<span style="font-family: Georgia,serif;">2NR - Heg bad</span>
+
+<span style="font-family: Georgia,serif;">Round 6 - NIB</span>
+<span style="font-family: Georgia,serif;">1NC - Repatriation CP, Steel DA, T-Physical Capital, Inflation turns, Stimulus turns</span>
+<span style="font-family: Georgia,serif;">2NR - Repatriation CP, Steel DA, stim turns</span>
+
+===<span style="font-family: Georgia,serif;">Golden Desert</span>=== 
+
+
+<span style="font-family: Georgia,serif;">Round 1 - Bering Strait</span>
+<span style="font-family: Georgia,serif;">1NC - T land grants, condition+FMCT CP, Hagel DA, REE DA</span>
+<span style="font-family: Georgia,serif;">2NR - T land grants</span>
+
+<span style="font-family: Georgia,serif;">Round 3 - National Highway Bank</span>
+<span style="font-family: Georgia,serif;">1NC - States CP, T investment, Hagel DA, Heg bad</span>
+<span style="font-family: Georgia,serif;">2NR - Heg bad</span>
+
+<span style="font-family: Georgia,serif;">Round 6 - New Orleans (racism)</span>
+<span style="font-family: Georgia,serif;">1NC - T vehicles, States CP, Hagel DA, Inflation DA, Ethics turns</span>
+<span style="font-family: Georgia,serif;">2NR - Hagel DA, Inflation DA, Ethics turns, Util</span>
+
+===<span style="font-family: Georgia,serif;">Hoflo</span>=== 
+
+<span style="font-family: Georgia,serif;">Round 1 - Icebreakers</span>
+<span style="font-family: Georgia,serif;">1NC - T military, SOI DA, Coast Guard tradeoff DA, Incremental funding cp</span>
+<span style="font-family: Georgia,serif;">2NR - Cp and tradeoff DA</span>
+
+<span style="font-family: Georgia,serif;">Round 4 - NIB</span>
+<span style="font-family: Georgia,serif;">1NC - T investment, immigration ptx, ex-im cp, oil DA, inflation turns</span>
+<span style="font-family: Georgia,serif;">2NR - inflation turns</span>
+
+<span style="font-family: Georgia,serif;">Round 6 - NIB</span>
+<span style="font-family: Georgia,serif;">1NC - T investment, immigration ptx, ex-im cp, oil DA, inflation turns</span>
+<span style="font-family: Georgia,serif;">2NR - CP and ptx</span>
+<span style="font-family: Georgia,serif;">
+</span>
+<span style="font-family: Georgia,serif;">[[include page="space.template.Footer"]] </span>

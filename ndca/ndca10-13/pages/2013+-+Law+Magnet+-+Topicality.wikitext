@@ -1,0 +1,14 @@
+[[toc]]
+=1NC's= 
+==T- Investment not repair== 
+**<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">“Investment” requires capital expenditure</span>**
+**<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;"> Anderson 6 </span>**<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">(Edward, Lecturer in Development Studies – University of East Anglia, et al., “The Role of Public Investment in Poverty Reduction: Theories, Evidence and Methods”, Overseas Development Institute Working Paper 263, March, [[http://www.odi.org.uk/resources/docs/1786.pdf]])</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;"> 1.3 Definitions We define (net) public investment as public expenditure that adds to the public physical capital stock. This would include the building of roads, ports, schools, hospitals etc. This corresponds to the definition of public investment in national accounts data, namely, capital expenditure. It is not within the scope of this paper to include public expenditure on health and education, despite the fact that many regard such expenditure as investment. Methods for assessing the poverty impact of public expenditure on social sectors such as health and education have been well covered elsewhere in recent years (see for example, van de Walle and Nead, 1995; Sahn and Younger, 2000; and World Bank, 2002).</span>
+
+**<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;"> That means topical plans must add new infrastructure</span>**
+**<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;"> Law Depot 8 </span>**<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;">(“Capital Expenditure”, 2-6, [[http://wiki.lawdepot.com/wiki/Capital_Expenditure]])</span>
+
+<span style="font-family: 'Calibri','sans-serif'; font-size: 10.6667px;"> Definition of "Capital Expenditure" Capital expenditure is money spent to acquire or upgrade (improve) long term assets such as property, buildings and machinery. Capital expenditure does not include the cost to merely repair such assets.</span>
+
+[[include page="space.template.Footer"]]

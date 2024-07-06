@@ -1,0 +1,3 @@
+This is a list of only those teams that are competing at the __[[home|2012]]__ Harvard RR. It was automatically generated using tags and is not an official list.
+
+[[include component="pageList" hideInternal="true" tag="2012 harvard rr policy" limit="1000"]]

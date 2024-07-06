@@ -1,0 +1,7 @@
+[[toc]]
+=Affirmative= 
+Plan: The United States Federal Government should substantially increase its climate resilient infrastructure in the United States. 
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

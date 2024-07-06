@@ -1,0 +1,133 @@
+=<span style="font-size: 20px;">Broadband 1AC</span>= 
+<span style="font-size: 14px; line-height: 24px;">New Heg Scenario</span>
+
+__**<span style="font-size: 16px;">Contention 1: The Status Quo</span>**__
+
+**There is currently a major lack of internet access creating a digital divide and missed opportunities.**
+
+**Murphy 11-8 -11**
+http://www.masslive.com/politics/index.ssf/2011/11/massachusetts_gov_deval_patric_2.html Massachusetts Gov. Deval Patrick says expanding Internet service as important to economy as investing in schools, roads and bridges. Tuesday, November 08, 2011, 4:26 PM By MATT MURPHY.
+
+**And, we’re missing out on an $8 trillion economy**
+
+**Reuters 10/12**
+[“FCC unveils new broadband access program.” October 12, 2011. http://www.reuters.com/article/2011/10/13/us-media-fcc-idUSTRE79C02Z20111013]
+THUS THE PLAN,
+
+The Federal Communications Commission will implement a universal wireless Internet mesh network by establishing a civil-use ViaSat Satellite System beyond the earth’s mesosphere in geostationary orbit. We’ll allocate through the universal service fund. We’ll clarify, just ask.
+
+__**<span style="font-size: 16px;">Contention 2: Solvency</span>**__
+
+**First, the plan results in many positives, is economically beneficial, and the FCC chairman likes it.**
+
+**Coursey 10**
+[David Coursey, MA @ Florida State, Award Winning Technology Programer and Reporter for 20 years. “Why the FCC National Broadband Plan Should Include Public Wi-Fi.” March 2010. [[http://www.pcworld.com/businesscenter/article/191325/why_the_fcc_national_broadband_plan_should_include_public_wifi.html]]]
+
+**Second, ViaSats are really cheap**
+
+**Matthews 2009**
+[William, staff writer for defense news. “ TSAT Replacement? ” July 20, 2009.]
+
+**Third, the Wi-Fi mesh satellites work effectively for both urban and rural areas.**
+
+**Merrit 8**
+[Rick, writer for EE Times. “Video: Berkeley brings WiFi to rural poor.” June 17, 2010.]
+
+**Fourth, the Universal Service Fund will fund the plan.**
+
+**Musgrave 2006** - Chairman of the House Subcommittee on Rural Enterprises, Agriculture, and Technology (5/3, Marilyn, "Opening Statement of Marilyn Musgrave Chairman, Subcommittee on Rural Enterprises, Agriculture and Technology", CQ Congressional Testimony, Lexis Congressional, WEA)
+
+**Fifth, new Internet infrastructure is key to future space missions**
+
+**Brown 2008**
+Dwayne Brown, Katherine Trinidad, Rhea Borja. Nov. 18, 2008. NASA. http://www.nasa.gov/home/hqnews/2008/nov/HQ_08-298_Deep_space_internet.html BJ
+
+__**<span style="font-size: 16px;">Advantage 1: Digital Democracy</span>**__
+
+**First, the current system is leaving many of the poor without internet, increasing the digital divide. Internet is now critical for Americans to function.**
+
+**Hamblen 10**
+[Matt, reports for Computer World. “FCC says 93M in the US lack broadband, digital divide grows.” Febuary 23, 2010.] BW
+
+**Second, federal programs succeed, but expansion is necessary.**
+
+**Dickard & Schneider 2**
+[Norris Dickard is a senior associate at the Benton Foundation. His work focuses on public policies related to universal service, educational technology, and bridging the digital divide. Diana Schneider formerly served as the Assistant Director of Outreach at The George Lucas Educational Foundation. She currently works with the Benton Foundation Communication Policy program on projects related to educational technology and bridging the digital divide, “The Digital Divide: Where We Are Today,” 7/1/2002 http://www.edutopia.org/digital-divide-where-we-are-today] BW
+
+**Third, the digital divide is undermining democracy in America and destroys civic engagement. Internet access is absolutely critical for democracy in today’s day and age.**
+
+**Lloyd 8**
+[Mark Lloyd is an affiliate professor of public policy at Georgetown University and a member of the advisory board of Science Progress, “Advanced IT Policy for a New America,” December 19, [[http://www.scienceprogress.org/2008/12/advanced-it-policy-for-a-new-america/]]]
+
+**Fourth, US internet policy causes massive shifts toward democracy through modeling and civic contact.**
+
+**Shirazia, Ngwenyamaa, & Morawczynskib 9**
+[*Farid Shirazia, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada AND Ojelanki Ngwenyamaa, Institute for Research on Innovation and Technology Management, Ted Rogers School of Management, Ryerson University, Toronto, Canada, AND *Olga Morawczynskib, Sciences Studies Unit, University of Edinburgh, Edinburgh, UK, “ICT expansion and the digital divide in democratic freedoms: An analysis of the impact of ICT expansion, education and ICT filtering on democracy,” Telematics and Informatics, Received 12 April 2008; revised 27 February 2009; accepted 3 May 2009. Available online 15 May 2009, Science Direct]
+
+**Fifth, democracy solves all impacts and your disad’s too.**
+
+**Diamond 95**
+[Larry Diamond, Hoover Institution, Stanford University, December, PROMOTING DEMOCRACY IN THE 1990S. 1995. http://www.carnegie....y/diam_rpt.html] BW
+
+**Sixth, the plan is a prerequisite to your kritiks—democracy is key to checking the government’s power. It solves democide.**
+
+**Rummel 94**
+[Rudolph, Nobel Peace Prize winner for research on democracy, “Death by Government.” 1994.]
+
+__**<span style="font-size: 16px;">Advantage 2: Heg</span>**__
+
+**<span style="font-size: 110%;">Scenario 1 – space missions</span>**
+
+**1. US leads in space now, but its leadership is collapsing**
+
+**Aviation Week 11**
+[Aviation Week & Space Technology, August 18, 2011, http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=space&id=news/asd/2011/08/18/07.xml&headline=Futron%20Study:%20U.S.%20Losing%20Ground%20In%20Space BJ]
+
+**2. Loss of space leadership collapses military readiness and US global hegemony**
+
+**Dinerman 11**
+[Taylor Dinerman, Hudson Institute, August 1, 2011, How the End of NASA Affects US National Security, http://www.hudson-ny.org/2299/nasa-us-national-security, BJ]
+
+**3. Hegemony is pretty okay**
+
+**Khalilzad 95**
+[Defense Analyst at RAND, (Zalmay, “Losing the Moment? The United States and the World After the Cold War” The Washington Quarterly, RETHINKING GRAND STRATEGY; Vol. 18, No. 2; Pg. 84]
+
+**4. New Internet infrastructure is key to future space missions**
+
+**Brown 2008**
+[Dwayne Brown, Katherine Trinidad, Rhea Borja. Nov. 18, 2008. NASA. http://www.nasa.gov/home/hqnews/2008/nov/HQ_08-298_Deep_space_internet.html BJ]
+
+**<span style="font-size: 110%;">Scenario 2 – information dominance</span>**
+
+**1. Improved satellite infrastructure key to information analysis and dominance – bandwidth is the critical bottleneck**
+
+**GAO 10**
+[Government Accountability Office, “ INTELLIGENCE, SURVEILLANCE, AND RECONNAISSANCE Overarching Guidance Is Needed to Advance Information Sharing”, March 17, Statement of Davi M. D’Agostino, http://www.gao.gov/new.items/d10500t.pdf, BJ
+
+**2. Information dominance is key to heg and to solve literally every threat**
+
+**Nye and Owens 96**
+[Joseph, former Chairman of the National Intelligence Council and Assistant Secretary of Defense for International Affairs in the Clinton administration, is Dean of the John F. Kennedy School of Government at Harvard University; Admiral William A., former Vice Chairman of the Joint Chiefs of Staff in the Clinton administration; “America's Information Edge” [[http://www.foreignaffairs.com/articles/51840/joseph-s-nye-jr-and-william-a-owens/americas-information-edge]]] BJ
+
+**3. ViaSats solves information and bandwidth concerns with proven tech**
+
+Freeman, 2011 Mike Freeman, reporter and writer for Sign On San Diego, “Will Carlsbad company’s space satellite strategy pay off?”, June 24, 2011, http://www.signonsandiego.com/news/2011/jun/24/viasats-space-gamble/) BJ
+
+
+__**<span style="font-size: 16px;">Advantage 3: Human Rights</span>**__
+
+**First, Internet Access is a human right.**
+
+**LA Times 6/3**
+["United Nations Report: Internet Access Is a Human Right - Latimes.com."Politics, National, California, Washington, Barack Obama, Hillary Clinton, John McCain, Republican, Democrat, President, Election - Top of the Ticket - Latimes.com. 3 June 2011. Web. 13 July 2011. <http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html>.]
+
+**Second, striving for human rights are key to prevent extinction.**
+
+**Copelon 99**
+[Rhonda, Professor, Law, CUNY, “The Indivisible Framework of International Human Rights,” NEW YORK CITY LAW REVIEW, 1998/1999, p. 71-72.]
+
+**Third, human rights are the foremost moral imperative. Prioritize them above all else.**
+
+**Gewirth 82**
+[Alan Gewirth, Phil@UChicago, “Human Rights”, ‘82]

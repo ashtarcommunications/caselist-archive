@@ -1,0 +1,7 @@
+=<span style="border: 1px solid #000000; font-size: 1.6em; margin-bottom: 5px; margin-left: 0px; margin-right: 0px; margin-top: 5px; padding: 5px;">**Affirmative**</span>= 
+== == 
+
+
+=<span style="font-family: arial,helvetica,sans-serif; font-size: 33px; font-weight: 800; line-height: 19px;">NEGATIVE</span>= 
+====== ====== 
+==== ====

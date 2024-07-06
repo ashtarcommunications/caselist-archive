@@ -1,0 +1,810 @@
+For Aff Cites email lucwalkington@gmail.com
+For Neg Cites email leelabarifulbel@gmail.com
+[[toc]]
+=<span style="background-color: #ffffff; font-size: 13pt;">Port Security 1AC </span>= 
+==<span style="background-color: #ffffff; font-size: 13pt;">1AC - Inherency:</span>== 
+**(1. Cargo Containers are most likely method for attack. Cost and technology aren’t barriers but the failure to act immediately is __fatal__.**
+<span style="font-size: 13pt;">Markey et al, ’12</span> – Jerrold L. Nadler, Edward J. Markey and Bennie G. Thompson are Democratic representatives from New York, Massachusetts and Mississippi, respectively. “Cargo; the Terrorists’ Trojan Horse,” New York Times, 6-27, [[http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html]].
+MILLIONS of cargo containers are unloaded from ships each year at American seaports, providing
+AND
+, to no avail. Our nation can no longer risk such delays.
+**(2. //Solutions exist// but __drastic__ cuts to the Port Security Grant Program __destroy port security__**
+<span style="font-size: 13pt;">Kimery, ’12</span> – Anthony, “Security, Port Authorities Associations Urge DHS To Reconsider Port Allocations,” Homeland Security (HS) Today, http://www.hstoday.us/focused-topics/counternarcotics-terrorism-intelligence/single-article-page/security-port-authorities-associations-urge-dhs-to-reconsider-port-allocations.html
+This week the Security Industry Association (SIA), along with the American Association of
+AND
+“Many of these projects are scalable and ready to be implemented now.”
+**(3. __Only__ more grant investment in infrastructure can solve**
+<span style="font-size: 13pt;">AAPA, ’11</span> – The American Association of Port Authorities represents about 150 of the leading public port authorities in the United States, Canada, Latin America and the Caribbean. In addition, the Association represents some 250 sustaining and associate members, firms and individuals with an interest in the seaports of the Western Hemisphere. “10 Years After 9/11, Security Still a Top Priority of U.S. Ports,” Sept 1, [[http://www.prnewswire.com/news-releases/10-years-after-911-security-still-a-top-priority-of-us-ports-128888213.html]].
+In the decade since Sept. 11, 2001, America's seaports and the federal
+AND
+job creation and economic prosperity, and important partners in our national defense."
+**(4. Increase __federal__ port __funding__ //this year// is vital – otherwise key gaps will crush ports**
+<span style="font-size: 13pt;">Nagle and Bridges, 10-5</span>-12 – Nagle serves as the president and CEO, American Association of Port Authorities. Bridges serves as the executive director, Virginia Port Authority and chairman, American Association of Port Authorities. “America's seaports critical to US jobs, economy,” The Hill, [[http://thehill.com/blogs/congress-blog/campaign/260527-americas-seaports-critical-to-us-jobs-economy]].
+With the cooler temperatures of fall now upon us, retailers across the country have
+AND
+move goods throughout the country and beyond for many more years to come.
+==**1AC - Plan Text:**== 
+**Thus the plan: The United States federal government should substantially increase its transportation infrastructure investment in port security through the Port Security Grant Program.**
+==<span style="font-size: 13pt;">1AC Adv - National Preparedness Goal:</span>== 
+**(1. The PSGP’s success is vital to fulfilling the National Preparedness Goal**
+<span style="font-size: 13pt;">FEMA, ’12</span> – Federal Emergency Management Agency, Port Security Grant Program, http://www.fema.gov/port-security-grant-program.
+1. What is the purpose of the FY 2012 PSGP? ¶ The purpose
+AND
+can be provided to one of the core capabilities ¶ within the NPG.
+**(2. The NPG is critical to __coordination__ against __large-scale__, __catastrophic__ events**
+<span style="font-size: 13pt;">Fugate, ’11</span> – Craig, Administrator of the Federal Emergency Management Agency, former Director of the Florida Division of Emergency Management, PPD-8: Announcing the National Preparedness Goal, [[http://www.whitehouse.gov/blog/2011/10/07/ppd-8-announcing-national-preparedness-goal]].
+As part of the implementation of Presidential Policy Directive 8 (PPD-8),
+AND
+you can participate. Thank you for your commitment to our national preparedness.
+**(3. NPG halts __cyberterror__, __pandemics__ , __natural disasters__ and __transnational threats__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+National preparedness is aimed at strengthening the security and resilience of the nation by preparing
+AND
+Interagency Operational Plans (FIOPs) will each cover one preparedness mission area:
+**(4. __Cybersecurity__ is vital to prevent __escalatory__ __great power__ nuclear war**
+<span style="font-size: 13pt;">Fritz, 9</span> – Masters in International Relations, Researcher for International Commission on Nuclear Nonproliferation and Disarmament (Jason, 2009, “Hacking Nuclear Command and Control,” http://icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf)
+This paper will analyse the threat of cyber terrorism in regard to nuclear weapons.
+AND
+its own, without the need for compromising command and control centres directly.
+**(5. __Pandemics__ at ports //instantly// kill __billions__**
+<span style="font-size: 13pt;">Greger, ‘6</span>**–** Director of Public Health and Animal Agriculture at The Humane Society of the United States. Michael, graduate of the Cornell University School of Agriculture and the Tufts University School of Medicine. Also an internationally recognized lecturer, he has presented at the Conference on World Affairs, the National Institutes of Health, and the International Bird Flu Summit, among countless other symposia and institutions. “Population Bust” http://www.Birdflubook.com]
+A pandemic today could be many times worse than the pandemic of 1918, the
+AND
+…. We are half a step away from a worldwide pandemic catastrophe.”579
+**(6. Pandemics outweigh on __probability__ and __size__**
+<span style="font-size: 13pt;">Zakaria, ‘5</span><span style="font-size: 8pt;">. </span>Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]]<span style="font-size: 8pt;">. </span>
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+**(7. __Natural disasters__ threaten human extinction __faster__ than any warscenario**
+<span style="font-size: 13pt;">Sid-Ahmed, ‘5</span> – Yeah, it’s the same guy [Mohamed. “The post-earthquake world.” Al-Ahram Weekly Online. Jan 6-12, 2005. <span style="color: blue;">[[http://weekly.ahram.org.eg/2005/724/op3.htm]]</span>]
+The human species has never been exposed to a natural upheaval of this magnitude within
+AND
+now forced to live with the possibility of an imminent demise of humankind.
+**(8. //Only// the NPG can develop a __framework__ for //effective// __risk management__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+FEMA has developed a set of Frequently Asked Questions (FAQ) pertaining to the
+AND
+September 2011. For questions, please contact us at PPD8-Engagement.
+**(9. The __process__ of the plan is vital – it shapes __core budget decisions__ and //all// future federal assistance**
+<span style="font-size: 13pt;">FEMA, ’11</span> – “National Preparedness <span style="font-size: 6pt;">¶ </span>Goal,” First Edition<span style="font-size: 6pt;">¶ </span>September 2011, Department of Homeland Security, [[http://www.fema.gov/pdf/prepared/npg.pdf]].
+The Goal is designed to prepare our Nation for the risks that will severely tax
+AND
+allow for annual adjustments based on updated priorities and our resource ¶ posture.
+==<span style="font-size: 13pt;">1AC Adv - Energy Security:</span>== 
+<span style="background-color: yellow;">(1.</span> **Seaport security is vital to preventing attacks on key oil, nuclear and LNG terminals**
+<span style="font-size: 13pt;">Bakir, ‘7</span> – Niyazi Onur, Postdoctoral Research Associate at University of Southern California Center for Homeland Security, “A Brief Analysis of Threats and Vulnerabilities in the Maritime Domain, Center for Risk and Economic Analysis of Terrorism Events (CREATE) Research Archive Non-published Research Reports, http://research.create.usc.edu/cgi/viewcontent.cgi?article=1004&context=nonpublished_reports)
+Most US energy power plants, critical bridges, and densely populated urban areas lay
+AND
+The US Coast Guard has a central role in confronting such seaborne threats.
+**<span style="background-color: yellow;">(2.</span>** <span class="StyleStyleBold12pt">**We don’t need to eliminate terror, only minimize the risk** </span>
+<span style="font-size: 13pt;">Bakir, ‘7</span> – Niyazi Onur, Postdoctoral Research Associate at University of Southern California for Homeland Security, “A Brief Analysis of Threats and Vulnerabilities in the Maritime Domain, Center for Risk and Economic Analysis of Terrorism Events (CREATE) Research Archive Non-published Research Reports, http://research.create.usc.edu/cgi/viewcontent.cgi?article=1004&context=nonpublished_reports)
+Terrorism is a multi-dimensional risk that will probably never be eliminated with limited
+AND
+dirty bomb or a weapon of mass destruction arrives at a US seaport.
+**(3. Threescenarios:**
+**a. Oil – Attacks destroy refineries and three billion tons of oil**
+<span style="font-size: 13pt;">CFR, ‘6</span> – Council on Foreign Relations, backgrounder. “Targets for Terrorism: Ports,” January, http://www.cfr.org/port-security/targets-terrorism-ports/p10215.
+Could terrorists attack U.S. ports?¶ Yes. Experts warn that U
+AND
+-five Islamist extremists entered the United States by hiding in shipping containers.
+**That __spikes__ prices __overnight__ – barriers are //easily//overcome**
+<span style="font-size: 13pt;">USA Today, ’11</span>– “Oil tanker terror hijacks easy, attacks complex,” 5-21, http://www.usatoday.com/news/world/2011-05-21-terror-plot-oil-tankers_n.htm
+The FBI and the U.S. Department of Homeland Security issued a confidential
+AND
+pull off a terror attack on a supertanker, especially in Asian waters.
+**Oil spikes produce __great power nuclear wars__ with a __high probability__ of escalation**
+<span style="font-size: 13pt;">Qasem, ‘7</span> – Islam Yasin, Masters in IR from Columbia, “The Coming Warfare of Oil Shortage,” 7-9, http://www.opednews.com/articles/opedne_islam_ya_070709_the_coming_warfare_o.htm]
+If the conflict-ridden and oil-rich Middle East today is crucial to
+AND
+before reaching the zenith of a disaster which is already in the making.
+**b. __Meltdowns__ – nuclear plants are //extremely// vulnerable to __catastrophic__terrorattacks**
+<span style="font-size: 13pt;">Rockwell, ’12</span> – Mark, “Study says nuclear plant designs need stepped-up attention to security,” Government Security Magazine, [[http://www.gsnmagazine.com/node/25600?c=infrastructure_protection]].
+While protections for nuclear plants from possible terror attacks have improved dramatically since 9/
+AND
+environment. Zirconium is the material commonly used in cladding the fuel rods.
+**Meltdowns cause __extinction__ – global contamination will be __uncontainable__**
+<span style="font-size: 13pt;">Lendman, ‘11</span>. Stephen, “Nuclear Meltdown in Japan,” 3-13, [[http://www.thepeoplesvoice.org/TPV3/Voices.php/2011/03/13/nuclear-meltdown-in-japan]].
+"As a physician, I contend that nuclear technology threatens life on our planet
+AND
+, Canada, Mexico, Central America, and parts of South America.
+**c. __LNG__ – insufficient __funding__ makes liquid natural gas attacks __catastrophic__**
+<span style="font-size: 13pt;">Kaplan, ‘6</span> – CFR Security Analyst, “Liquefied Natural Gas: A Potential Terrorist Target?” Council on Foreign Relations, [[http://www.cfr.org/port-security/liquefied-natural-gas-potential-terrorist-target/p9810#p3|http://www.cfr.org/port-security/liquefied-natural-gas-potential-terrorist-target/p9810#p3]].
+Are LNG ships and terminals potential terrorist targets?¶ Yes, because of LNG's explosive
+AND
+were designed primarily for safety patrols, not armed combat," he says.
+**LNG explosions outweigh nuclearwar**
+<span style="font-size: 13pt;">Lovin and Lovin, ‘1</span> – Amory B. Lovin, Chief Scientist of the Rocky Mountain Institute, and L. Hunter Lovin, President – National Capitalism and Co-Founder – Rocky Mountain Institute, “Brittle Power: Energy Strategy for National Security”, 2001, www.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D5084%26file%3DBrittlePower3PtCombo.pdf%26title%3DBrit
+About nine percent of such a tankerload of LNG will probably, if spilled onto
+AND
+of a megaton of TNT, or about fifty-five Hiroshima bombs.
+==1AC Adv - Tech Spin-off:== 
+<span class="StyleStyleBold12pt">(1. Spin-off technology from the plan’s development is vital to responding to invasive species and natural disasters </span>
+<span style="font-size: 13pt;">Frittelli, ‘5</span> – John F., Specialist in Transportation Resources, Science, and Industry Division, “Port and Maritime Security: Background and Issues for Congress,” May 27, [[http://www.fas.org/sgp/crs/homesec/RL31733.pdf]].
+Enhanced security has benefits as well as costs. Many experts see economic benefits to
+AND
+will also speed the customs filing process for U.S. importers.
+<span class="StyleStyleBold12pt">(2.</span> Invasive species at ports //wreck// __biodiversity__ and __disease prevention__
+<span style="font-size: 13pt;">Leggiere, ‘10</span><span class="small">. Phil, citing a study from professors at the University of Massachusetts, Amherst. “</span>Agroterror Prevention in Need of Overhaul,” HS Today, 9-4, [[http://www.hstoday.us/content/view/10085/149]]
+When one thinks of border protection thoughts naturally focus on illegal immigration, drugs,
+AND
+law enforcement problems, and the early detection and control of infectious diseases.
+(3. Diversity loss will cross the tipping point of irreversibility, causing global extinction
+<span style="font-size: 13pt;">Walsh, ‘10</span>. Bryan, senior writer for TIME magazine, covering energy and the environment, previously Tokyo bureau chief for TIME. “Wildlife: A Global Convention on Biodiversity Opens in Japan, But Can It Make a Difference?” Ecocentric Blog @ TIME, 10-18, http://ecocentric.blogs.time.com/2010/10/18/wildlife-a-global-convention-on-biodiversity-opens-in-japan-but-can-it-make-a-difference/#ixzz131wU6CSp
+The story of non-human life on the planet Earth over the past few
+AND
+forgive us. We're losing nature. And that loss really is forever.
+(4. Extinction is a real risk and comes first – life is inherently good and human extinction condemns all sentient life – our framing isn’t mutually exclusive but should come first
+<span style="font-size: 13pt;">Matheny, ‘7 </span>Jason Gaverick Matheny, Ph.D. Applied Economics, Johns Hopkins University, Baltimore, Maryland, in progress<span style="font-size: 6pt;">¶ </span>M.P.H. Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, 2004<span style="font-size: 6pt;">¶ </span>M.B.A. Fuqua School of Business, Duke University, Durham, North Carolina, 2003<span style="font-size: 6pt;">¶ </span>B.A. University of Chicago, Chicago, Illinois, 1996, [[http://jgmatheny.org/extinctionethics.htm]]
+Moral philosophers have not written much about human extinction.
+And
+Our primary goal in the next few centuries should be to survive long enough to colonize space.
+
+=<span class="StyleBoldUnderline">Port Security 1AC - JV State</span>= 
+==<span style="background-color: #ffffff; font-size: 13pt;">1AC - Inherency:</span>== 
+**(1. Cargo Containers are most likely method for attack. Cost and technology aren’t barriers but the failure to act immediately is __fatal__.**
+<span style="font-size: 13pt;">Markey et al, ’12</span> – Jerrold L. Nadler, Edward J. Markey and Bennie G. Thompson are Democratic representatives from New York, Massachusetts and Mississippi, respectively. “Cargo; the Terrorists’ Trojan Horse,” New York Times, 6-27, [[http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html]].
+MILLIONS of cargo containers are unloaded from ships each year at American seaports, providing
+AND
+, to no avail. Our nation can no longer risk such delays.
+**(2. //Solutions exist// but __drastic__ cuts to the Port Security Grant Program __destroy port security__**
+<span style="font-size: 13pt;">Kimery, ’12</span> – Anthony, “Security, Port Authorities Associations Urge DHS To Reconsider Port Allocations,” Homeland Security (HS) Today, http://www.hstoday.us/focused-topics/counternarcotics-terrorism-intelligence/single-article-page/security-port-authorities-associations-urge-dhs-to-reconsider-port-allocations.html
+This week the Security Industry Association (SIA), along with the American Association of
+AND
+“Many of these projects are scalable and ready to be implemented now.”
+**(3. __Only__ more grant investment in infrastructure can solve**
+<span style="font-size: 13pt;">AAPA, ’11</span> – The American Association of Port Authorities represents about 150 of the leading public port authorities in the United States, Canada, Latin America and the Caribbean. In addition, the Association represents some 250 sustaining and associate members, firms and individuals with an interest in the seaports of the Western Hemisphere. “10 Years After 9/11, Security Still a Top Priority of U.S. Ports,” Sept 1, [[http://www.prnewswire.com/news-releases/10-years-after-911-security-still-a-top-priority-of-us-ports-128888213.html]].
+In the decade since Sept. 11, 2001, America's seaports and the federal
+AND
+job creation and economic prosperity, and important partners in our national defense."
+**(4. Increase __federal__ port __funding__ //this year// is vital – otherwise key gaps will crush ports**
+<span style="font-size: 13pt;">Nagle and Bridges, 10-5</span>-12 – Nagle serves as the president and CEO, American Association of Port Authorities. Bridges serves as the executive director, Virginia Port Authority and chairman, American Association of Port Authorities. “America's seaports critical to US jobs, economy,” The Hill, [[http://thehill.com/blogs/congress-blog/campaign/260527-americas-seaports-critical-to-us-jobs-economy]].
+With the cooler temperatures of fall now upon us, retailers across the country have
+AND
+move goods throughout the country and beyond for many more years to come.
+==**1AC - Plan Text:**== 
+**Thus the plan: The United States federal government should substantially increase its transportation infrastructure investment in port security through the Port Security Grant Program.**
+==<span style="font-size: 13pt;">1AC Adv - National Preparedness Goal:</span>== 
+**(1. The PSGP’s success is vital to fulfilling the National Preparedness Goal**
+<span style="font-size: 13pt;">FEMA, ’12</span> – Federal Emergency Management Agency, Port Security Grant Program, http://www.fema.gov/port-security-grant-program.
+1. What is the purpose of the FY 2012 PSGP? ¶ The purpose
+AND
+can be provided to one of the core capabilities ¶ within the NPG.
+**(2. The NPG is critical to __coordination__ against __large-scale__, __catastrophic__ events**
+<span style="font-size: 13pt;">Fugate, ’11</span> – Craig, Administrator of the Federal Emergency Management Agency, former Director of the Florida Division of Emergency Management, PPD-8: Announcing the National Preparedness Goal, [[http://www.whitehouse.gov/blog/2011/10/07/ppd-8-announcing-national-preparedness-goal]].
+As part of the implementation of Presidential Policy Directive 8 (PPD-8),
+AND
+you can participate. Thank you for your commitment to our national preparedness.
+**(3. NPG halts __cyberterror__, __pandemics__ , __natural disasters__ and __transnational threats__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+National preparedness is aimed at strengthening the security and resilience of the nation by preparing
+AND
+Interagency Operational Plans (FIOPs) will each cover one preparedness mission area:
+**(4. __Cybersecurity__ is vital to prevent __escalatory__ __great power__ nuclear war**
+<span style="font-size: 13pt;">Fritz, 9</span> – Masters in International Relations, Researcher for International Commission on Nuclear Nonproliferation and Disarmament (Jason, 2009, “Hacking Nuclear Command and Control,” http://icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf)
+This paper will analyse the threat of cyber terrorism in regard to nuclear weapons.
+AND
+its own, without the need for compromising command and control centres directly.
+**(5. __Pandemics__ at ports //instantly// kill __billions__**
+<span style="font-size: 13pt;">Greger, ‘6</span>**–** Director of Public Health and Animal Agriculture at The Humane Society of the United States. Michael, graduate of the Cornell University School of Agriculture and the Tufts University School of Medicine. Also an internationally recognized lecturer, he has presented at the Conference on World Affairs, the National Institutes of Health, and the International Bird Flu Summit, among countless other symposia and institutions. “Population Bust” http://www.Birdflubook.com]
+A pandemic today could be many times worse than the pandemic of 1918, the
+AND
+…. We are half a step away from a worldwide pandemic catastrophe.”579
+**(6. Pandemics outweigh on __probability__ and __size__**
+<span style="font-size: 13pt;">Zakaria, ‘5</span><span style="font-size: 8pt;">. </span>Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]]<span style="font-size: 8pt;">.</span>
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+**(7. __Natural disasters__ threaten human extinction __faster__ than any warscenario**
+<span style="font-size: 13pt;">Sid-Ahmed, ‘5</span> – Yeah, it’s the same guy [Mohamed. “The post-earthquake world.” Al-Ahram Weekly Online. Jan 6-12, 2005. <span style="color: blue;">[[http://weekly.ahram.org.eg/2005/724/op3.htm]]</span>]
+The human species has never been exposed to a natural upheaval of this magnitude within
+AND
+now forced to live with the possibility of an imminent demise of humankind.
+**(8. //Only// the NPG can develop a __framework__ for //effective// __risk management__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+FEMA has developed a set of Frequently Asked Questions (FAQ) pertaining to the
+AND
+September 2011. For questions, please contact us at PPD8-Engagement.
+**(9. The __process__ of the plan is vital – it shapes __core budget decisions__ and //all// future federal assistance**
+<span style="font-size: 13pt;">FEMA, ’11</span> – “National Preparedness <span style="font-size: 6pt;">¶ </span>Goal,” First Edition<span style="font-size: 6pt;">¶ </span>September 2011, Department of Homeland Security, [[http://www.fema.gov/pdf/prepared/npg.pdf]].
+The Goal is designed to prepare our Nation for the risks that will severely tax
+AND
+allow for annual adjustments based on updated priorities and our resource ¶ posture.
+
+==1AC Adv - Terrorism:== 
+**<span style="font-family: Calibri,sans-serif;">Attacks at US ports are inevitable and quickly cause unprecedented chaos – federal action is vital </span>**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Flynn, ‘6</span> – Stephen, Ph.D.,Commander, U.S. Coast Guard (ret.)Senior Fellow in National Security Studies at CFR, Prof @ Northeastern U, “The Continued Vulnerability of the Global Maritime Transportation System,” March 9th, [[http://www.cfr.org/port-security/continued-vulnerability-global-maritime-transportation-system/p10074]].
+<span style="font-size: 8pt;">But </span><span class="StyleBoldUnderline">the most serious consequence of a major terrorist attack on America’s waterfront is if </span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">. port authorities have been reluctant to make major new investments</span><span style="font-size: 8pt;"> in security.</span>
+
+**Terrorist have the motive to attack - the assassination of Bin Laden proves**
+<span style="font-size: 13pt;">LA Times 11</span> <span style="font-family: Calibri,sans-serif;">(Los Angeles Times news service, quoting Al Qaeda, “Al Qaeda threatens revenge against U.S.”,[[http://articles.latimes.com/2011/may/07/world/la-fg-qaeda-warning-20110507]], 5/7/12)</span>
+<span style="font-family: Calibri,sans-serif; line-height: 1.5;">Reporting from Islamabad, Pakistan — Al Qaeda vowed to avenge the death of Osama bin Ladenwith retaliation against the U.S. "soon," in a warning that the terrorist network posted this week on militant websites. In confirming the death of its leader in a statement dated Tuesday,</span>
+<span class="StyleBoldUnderline">Reporting from Islamabad, Pakistan — </span><span style="font-family: Calibri,sans-serif; font-size: 10pt;">Al Qaeda vowed to avenge the death of Osama </span>
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">AND</span>
+<span style="font-family: Calibri,sans-serif; font-size: 10pt;">Osama. … Any inappropriate treatment will open the doors of double evil</span><span class="StyleBoldUnderline">." </span>
+
+**Despite devastating losses Al Qaeda and terrorist groups continue to expand – this proves their resilence**
+**Fox News 12**
+(Fox News service, citing the State Department’s Country Report on Terrorism and its top Counterterrorism official Daniel Benjamin, “Al Qaeda gaining 'operational capability' despite core losses, report shows”, http://www.foxnews.com/politics/2012/07/31/al-qaeda-gaining-operational-capability-despite-core-losses-report-shows/, 8/1/12)
+<span class="StyleBoldUnderline">Western strikes on Al Qaeda have shown progress in taking out the terror group's core </span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">extremist ideology and rhetoric continue to spread in some parts of the world."</span>
+
+**We will isolate three scenarios:**
+**a. Oil – Attacks destroy refineries and three billion tons of oil**
+<span style="font-size: 13pt;">CFR, ‘6</span> – Council on Foreign Relations, backgrounder. “Targets for Terrorism: Ports,” January, http://www.cfr.org/port-security/targets-terrorism-ports/p10215.
+Could terrorists attack U.S. ports?¶ Yes. Experts warn that U
+AND
+-five Islamist extremists entered the United States by hiding in shipping containers.
+**That __spikes__ prices __overnight__ – barriers are //easily//overcome**
+<span style="font-size: 13pt;">USA Today, ’11</span>– “Oil tanker terror hijacks easy, attacks complex,” 5-21, http://www.usatoday.com/news/world/2011-05-21-terror-plot-oil-tankers_n.htm
+The FBI and the U.S. Department of Homeland Security issued a confidential
+AND
+pull off a terror attack on a supertanker, especially in Asian waters.
+**Oil spikes produce __great power nuclear wars__ with a __high probability__ of escalation**
+<span style="font-size: 13pt;">Qasem, ‘7</span> – Islam Yasin, Masters in IR from Columbia, “The Coming Warfare of Oil Shortage,” 7-9, http://www.opednews.com/articles/opedne_islam_ya_070709_the_coming_warfare_o.htm]
+If the conflict-ridden and oil-rich Middle East today is crucial to
+AND
+before reaching the zenith of a disaster which is already in the making.
+
+**b. __Nuclear__ __terror__ –<span class="StyleStyleBold12pt"> //Hiroshima-level// detonations happen even without expertise </span>**
+<span style="font-size: 13pt;">Abt, ‘3</span> – Ph.D., Clark C., Risk analysis prepared for US DOT/RSPA/Volpe National Transportation. “The Economic Impact of Nuclear Terrorist Attacks on Freight Transport Systems in an Age of Seaport Vulnerability,” Apr 23, [[http://www.abtassociates.com/reports/es-economic_impact_of_nuclear_terrorist_attacks.pdf]].
+<span class="StyleBoldUnderline">International terrorists have asserted their intention to acquire nuclear weapons, and have an </span>//increasing//
+//AND//
+<span style="font-size: 7pt;">, such as the 14 th Street Bridge in DC, or midtown Manhattan</span>
+
+**It’s the __most dangerous__ nuclear threat because __deterrence__ fails**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Sid-Ahmed, ‘4</span> – Mohammed, political analyst, “Extinction!” al-ahram weekly, [[http://weekly.ahram.org.eg/2004/705/op5.htm]].
+<span style="font-size: 8pt;">The most critical moment was the one when the Soviet Union collapsed and fragmented into </span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;">When nuclear pollution infects the whole planet, we will all be losers.</span>
+
+**<span style="font-family: Calibri,sans-serif;">c. Naval Power – A port attack shuts down naval power</span>**
+<span style="font-size: 13pt;">Watts 5</span><span style="background-color: white; font-size: 10pt;"> (CDR Bob Watts is a 1985 graduate of the U.S. Coast Guard Academy and has served six tours at sea conducting drug/migrant operations, most recently commanding the USCGC STEADFAST (WMEC 623). He is currently assigned as the chief of drug and migrant interdiction at Coast Guard Headquarters, where his responsibilities include drafting migrant policy and strategy, including planning for mass migration. A 2006 graduate of the Naval Postgraduate School’s Center for Homeland Defense and Security, he has advanced degrees from the Naval War College, Old Dominion University, American Military University, and is a doctoral candidate at coastline and 3.4 million square miles of territorial seas and exclusive economic zones in the U.S. maritime domain http://www.hsaj.org/?fullarticle=1.2.3)</span>
+<span class="StyleBoldUnderline">In the strategic/military sense, a substantial portion of U.S. </span>
+<span class="StyleBoldUnderline">AND</span>
+attacks against a nation’s sea power meant the physical destruction of these ships.
+
+**Naval power deters great power wars and deescalates conflict—strategic retrenchment means now is key**
+<span class="StyleStyleBold12pt">England et al. 2011</span> <span style="font-size: 11pt;">(Gordon England is a former secretary of the Navy. General James Jones is a former commandant of the Marine Corps. Admiral Vern Clark is a former chief of naval operations; “The Necessity of U.S. Naval Power,” July 11, [[http://gcaptain.com/necessity-u-s-naval-power?27784]])</span>
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">The future security environment underscores two broad security trends. First, international political realities </span>
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">AND</span>
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">is exactly what we will need to meet the challenges of the future.</span>
+
+==<span style="font-size: 13pt;">1AC Adv - Maritime Domain Awareness</span>== 
+**<span style="font-family: Calibri,sans-serif;">(1.</span> Increased federal port security funding is necessary for state-of-the-art Maritime Domain Awareness intelligence capability**
+<span style="font-size: 13pt;">FEMA, 12</span> <span style="font-size: 8pt;">(Federal Emergency Management Agency, “FY2012 Port Security Grant Program (PSGP_ Funding Opportunity Announcement (FOA),http://www.fema.gov/pdf/government/grant/2012/fy12_psgp_f oa.pdf</span>)
+<span class="StyleBoldUnderline">PSGP Priorities In addition to these two overarching priorities, the Department has identified the</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">information sharing agreements and international conventions and treaties will greatly assist enabling MDA.</span>
+**<span style="font-family: Calibri,sans-serif;">(2.</span> Effective MDA is critical to prevent electromagnetic pulse attacks**
+<span style="font-size: 13pt;">Cooper and Pfaltzgraff, 2010</span> (Henry, Ph. D from NYU, Director of the Strategic Defense Initiative Organization, Senior Associate of the National Institute for Public Policy, Robert, Ph. D from the University of Pennsylvania, President of the Institute for Foreign Policy Analysis, Professor of International Security Studies at the Fletcher School, “Countering the EMP Threat: The Role of Missile Defense”,<span style="font-size: 9pt;">[[http://www.ifpa.org/pdf/IWGWhitePaper.pdf]]</span>)
+<span class="StyleBoldUnderline">As noted above, early warning of a pending attack could empower the U.</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">layered defense against EMP attacks on the United States from off our coasts.</span>
+**(3. <span style="font-family: Calibri,sans-serif;">EMP attacks outweigh nuclear war</span>**
+<span style="font-size: 13pt;">Gertz, 2005</span> <span style="background-color: white;">(Bill, US Seen Vulnerable to Space ‘Pulse’ Attack, Washington Times, November 22,</span><span style="font-size: 9pt;">[[http://www.washtimes.com/national/20051121-103434-8775r.htm]]</span><span style="background-color: white;">)</span>
+<span class="StyleBoldUnderline">The United States is highly vulnerable to attack from electronic pulses caused by a nuclear</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">far more Americans than a nuclear weapon detonated in our most populous city.</span>
+
+=<span style="background-color: #ffffff; font-size: 13pt;">Port Security 1AC - Woodward</span>= 
+==<span style="background-color: #ffffff; font-size: 13pt;">1AC - Inherency:</span>== 
+**(1. Cargo Containers are most likely method for attack. Cost and technology aren’t barriers but the failure to act immediately is __fatal__.**
+<span style="font-size: 13pt;">Markey et al, ’12</span> – Jerrold L. Nadler, Edward J. Markey and Bennie G. Thompson are Democratic representatives from New York, Massachusetts and Mississippi, respectively. “Cargo; the Terrorists’ Trojan Horse,” New York Times, 6-27, [[http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html]].
+MILLIONS of cargo containers are unloaded from ships each year at American seaports, providing
+AND
+, to no avail. Our nation can no longer risk such delays.
+**(2. //Solutions exist// but __drastic__ cuts to the Port Security Grant Program __destroy port security__**
+<span style="font-size: 13pt;">Kimery, ’12</span> – Anthony, “Security, Port Authorities Associations Urge DHS To Reconsider Port Allocations,” Homeland Security (HS) Today, http://www.hstoday.us/focused-topics/counternarcotics-terrorism-intelligence/single-article-page/security-port-authorities-associations-urge-dhs-to-reconsider-port-allocations.html
+This week the Security Industry Association (SIA), along with the American Association of
+AND
+“Many of these projects are scalable and ready to be implemented now.”
+**(3. __Only__ more grant investment in infrastructure can solve**
+<span style="font-size: 13pt;">AAPA, ’11</span> – The American Association of Port Authorities represents about 150 of the leading public port authorities in the United States, Canada, Latin America and the Caribbean. In addition, the Association represents some 250 sustaining and associate members, firms and individuals with an interest in the seaports of the Western Hemisphere. “10 Years After 9/11, Security Still a Top Priority of U.S. Ports,” Sept 1, [[http://www.prnewswire.com/news-releases/10-years-after-911-security-still-a-top-priority-of-us-ports-128888213.html]].
+In the decade since Sept. 11, 2001, America's seaports and the federal
+AND
+job creation and economic prosperity, and important partners in our national defense."
+**(4. Increase __federal__ port __funding__ //this year// is vital – otherwise key gaps will crush ports**
+<span style="font-size: 13pt;">Nagle and Bridges, 10-5</span>-12 – Nagle serves as the president and CEO, American Association of Port Authorities. Bridges serves as the executive director, Virginia Port Authority and chairman, American Association of Port Authorities. “America's seaports critical to US jobs, economy,” The Hill, [[http://thehill.com/blogs/congress-blog/campaign/260527-americas-seaports-critical-to-us-jobs-economy]].
+With the cooler temperatures of fall now upon us, retailers across the country have
+AND
+move goods throughout the country and beyond for many more years to come.
+==**1AC - Plan Text:**== 
+**Thus the plan: The United States federal government should substantially increase its transportation infrastructure investment in port security through the Port Security Grant Program.**
+==<span style="font-size: 13pt;">1AC Adv - National Preparedness Goal:</span>== 
+**(1. The PSGP’s success is vital to fulfilling the National Preparedness Goal**
+<span style="font-size: 13pt;">FEMA, ’12</span> – Federal Emergency Management Agency, Port Security Grant Program, http://www.fema.gov/port-security-grant-program.
+1. What is the purpose of the FY 2012 PSGP? ¶ The purpose
+AND
+can be provided to one of the core capabilities ¶ within the NPG.
+**(2. The NPG is critical to __coordination__ against __large-scale__, __catastrophic__ events**
+<span style="font-size: 13pt;">Fugate, ’11</span> – Craig, Administrator of the Federal Emergency Management Agency, former Director of the Florida Division of Emergency Management, PPD-8: Announcing the National Preparedness Goal, [[http://www.whitehouse.gov/blog/2011/10/07/ppd-8-announcing-national-preparedness-goal]].
+As part of the implementation of Presidential Policy Directive 8 (PPD-8),
+AND
+you can participate. Thank you for your commitment to our national preparedness.
+**(3. NPG halts __cyberterror__, __pandemics__ , __natural disasters__ and __transnational threats__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+National preparedness is aimed at strengthening the security and resilience of the nation by preparing
+AND
+Interagency Operational Plans (FIOPs) will each cover one preparedness mission area:
+**(4. __Cybersecurity__ is vital to prevent __escalatory__ __great power__ nuclear war**
+<span style="font-size: 13pt;">Fritz, 9</span> – Masters in International Relations, Researcher for International Commission on Nuclear Nonproliferation and Disarmament (Jason, 2009, “Hacking Nuclear Command and Control,” http://icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf)
+This paper will analyse the threat of cyber terrorism in regard to nuclear weapons.
+AND
+its own, without the need for compromising command and control centres directly.
+**(5. __Pandemics__ at ports //instantly// kill __billions__**
+<span style="font-size: 13pt;">Greger, ‘6</span>**–** Director of Public Health and Animal Agriculture at The Humane Society of the United States. Michael, graduate of the Cornell University School of Agriculture and the Tufts University School of Medicine. Also an internationally recognized lecturer, he has presented at the Conference on World Affairs, the National Institutes of Health, and the International Bird Flu Summit, among countless other symposia and institutions. “Population Bust” http://www.Birdflubook.com]
+A pandemic today could be many times worse than the pandemic of 1918, the
+AND
+…. We are half a step away from a worldwide pandemic catastrophe.”579
+**(6. Pandemics outweigh on __probability__ and __size__**
+<span style="font-size: 13pt;">Zakaria, ‘5</span><span style="font-size: 8pt;">. </span>Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]]<span style="font-size: 8pt;">.</span>
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+**(7. __Natural disasters__ threaten human extinction __faster__ than any warscenario**
+<span style="font-size: 13pt;">Sid-Ahmed, ‘5</span> – Yeah, it’s the same guy [Mohamed. “The post-earthquake world.” Al-Ahram Weekly Online. Jan 6-12, 2005. <span style="color: blue;">[[http://weekly.ahram.org.eg/2005/724/op3.htm]]</span>]
+The human species has never been exposed to a natural upheaval of this magnitude within
+AND
+now forced to live with the possibility of an imminent demise of humankind.
+**(8. //Only// the NPG can develop a __framework__ for //effective// __risk management__**
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+FEMA has developed a set of Frequently Asked Questions (FAQ) pertaining to the
+AND
+September 2011. For questions, please contact us at PPD8-Engagement.
+**(9. The __process__ of the plan is vital – it shapes __core budget decisions__ and //all// future federal assistance**
+<span style="font-size: 13pt;">FEMA, ’11</span> – “National Preparedness <span style="font-size: 6pt;">¶ </span>Goal,” First Edition<span style="font-size: 6pt;">¶ </span>September 2011, Department of Homeland Security, [[http://www.fema.gov/pdf/prepared/npg.pdf]].
+The Goal is designed to prepare our Nation for the risks that will severely tax
+AND
+allow for annual adjustments based on updated priorities and our resource ¶ posture.
+==<span style="font-size: 13pt;">1AC Adv - Energy Security:</span>== 
+<span style="background-color: yellow;">(1.</span> **Seaport security is vital to preventing attacks on key oil, nuclear and LNG terminals**
+<span style="font-size: 13pt;">Bakir, ‘7</span> – Niyazi Onur, Postdoctoral Research Associate at University of Southern California Center for Homeland Security, “A Brief Analysis of Threats and Vulnerabilities in the Maritime Domain, Center for Risk and Economic Analysis of Terrorism Events (CREATE) Research Archive Non-published Research Reports, http://research.create.usc.edu/cgi/viewcontent.cgi?article=1004&context=nonpublished_reports)
+Most US energy power plants, critical bridges, and densely populated urban areas lay
+AND
+The US Coast Guard has a central role in confronting such seaborne threats.
+**<span style="background-color: yellow;">(2.</span>** <span class="StyleStyleBold12pt">**We don’t need to eliminate terror, only minimize the risk**</span>
+<span style="font-size: 13pt;">Bakir, ‘7</span> – Niyazi Onur, Postdoctoral Research Associate at University of Southern California for Homeland Security, “A Brief Analysis of Threats and Vulnerabilities in the Maritime Domain, Center for Risk and Economic Analysis of Terrorism Events (CREATE) Research Archive Non-published Research Reports, http://research.create.usc.edu/cgi/viewcontent.cgi?article=1004&context=nonpublished_reports)
+Terrorism is a multi-dimensional risk that will probably never be eliminated with limited
+AND
+dirty bomb or a weapon of mass destruction arrives at a US seaport.
+**(3. Threescenarios:**
+**a. Oil – Attacks destroy refineries and three billion tons of oil**
+<span style="font-size: 13pt;">CFR, ‘6</span> – Council on Foreign Relations, backgrounder. “Targets for Terrorism: Ports,” January, http://www.cfr.org/port-security/targets-terrorism-ports/p10215.
+Could terrorists attack U.S. ports?¶ Yes. Experts warn that U
+AND
+-five Islamist extremists entered the United States by hiding in shipping containers.
+**That __spikes__ prices __overnight__ – barriers are //easily//overcome**
+<span style="font-size: 13pt;">USA Today, ’11</span>– “Oil tanker terror hijacks easy, attacks complex,” 5-21, http://www.usatoday.com/news/world/2011-05-21-terror-plot-oil-tankers_n.htm
+The FBI and the U.S. Department of Homeland Security issued a confidential
+AND
+pull off a terror attack on a supertanker, especially in Asian waters.
+**Oil spikes produce __great power nuclear wars__ with a __high probability__ of escalation**
+<span style="font-size: 13pt;">Qasem, ‘7</span> – Islam Yasin, Masters in IR from Columbia, “The Coming Warfare of Oil Shortage,” 7-9, http://www.opednews.com/articles/opedne_islam_ya_070709_the_coming_warfare_o.htm]
+If the conflict-ridden and oil-rich Middle East today is crucial to
+AND
+before reaching the zenith of a disaster which is already in the making.
+**b. __Meltdowns__ – nuclear plants are //extremely// vulnerable to __catastrophic__terrorattacks**
+<span style="font-size: 13pt;">Rockwell, ’12</span> – Mark, “Study says nuclear plant designs need stepped-up attention to security,” Government Security Magazine, [[http://www.gsnmagazine.com/node/25600?c=infrastructure_protection]].
+While protections for nuclear plants from possible terror attacks have improved dramatically since 9/
+AND
+environment. Zirconium is the material commonly used in cladding the fuel rods.
+**Meltdowns cause __extinction__ – global contamination will be __uncontainable__**
+<span style="font-size: 13pt;">Lendman, ‘11</span>. Stephen, “Nuclear Meltdown in Japan,” 3-13, [[http://www.thepeoplesvoice.org/TPV3/Voices.php/2011/03/13/nuclear-meltdown-in-japan]].
+"As a physician, I contend that nuclear technology threatens life on our planet
+AND
+, Canada, Mexico, Central America, and parts of South America.
+**c. __LNG__ – insufficient __funding__ makes liquid natural gas attacks __catastrophic__**
+<span style="font-size: 13pt;">Kaplan, ‘6</span> – CFR Security Analyst, “Liquefied Natural Gas: A Potential Terrorist Target?” Council on Foreign Relations, [[http://www.cfr.org/port-security/liquefied-natural-gas-potential-terrorist-target/p9810#p3|http://www.cfr.org/port-security/liquefied-natural-gas-potential-terrorist-target/p9810#p3]].
+Are LNG ships and terminals potential terrorist targets?¶ Yes, because of LNG's explosive
+AND
+were designed primarily for safety patrols, not armed combat," he says.
+**LNG explosions outweigh nuclearwar**
+<span style="font-size: 13pt;">Lovin and Lovin, ‘1</span> – Amory B. Lovin, Chief Scientist of the Rocky Mountain Institute, and L. Hunter Lovin, President – National Capitalism and Co-Founder – Rocky Mountain Institute, “Brittle Power: Energy Strategy for National Security”, 2001, www.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D5084%26file%3DBrittlePower3PtCombo.pdf%26title%3DBrit
+About nine percent of such a tankerload of LNG will probably, if spilled onto
+AND
+of a megaton of TNT, or about fifty-five Hiroshima bombs.
+==<span style="font-size: 13pt;">1AC Adv - Maritime Domain Awareness</span>== 
+**<span style="font-family: Calibri,sans-serif;">(1.</span> Increased federal port security funding is necessary for state-of-the-art Maritime Domain Awareness intelligence capability**
+<span style="font-size: 13pt;">FEMA, 12</span> <span style="font-size: 8pt;">(Federal Emergency Management Agency, “FY2012 Port Security Grant Program (PSGP_ Funding Opportunity Announcement (FOA),http://www.fema.gov/pdf/government/grant/2012/fy12_psgp_f oa.pdf</span>)
+<span class="StyleBoldUnderline">PSGP Priorities In addition to these two overarching priorities, the Department has identified the</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">information sharing agreements and international conventions and treaties will greatly assist enabling MDA.</span>
+**<span style="font-family: Calibri,sans-serif;">(2.</span> Effective MDA is critical to prevent electromagnetic pulse attacks**
+<span style="font-size: 13pt;">Cooper and Pfaltzgraff, 2010</span> (Henry, Ph. D from NYU, Director of the Strategic Defense Initiative Organization, Senior Associate of the National Institute for Public Policy, Robert, Ph. D from the University of Pennsylvania, President of the Institute for Foreign Policy Analysis, Professor of International Security Studies at the Fletcher School, “Countering the EMP Threat: The Role of Missile Defense”,<span style="font-size: 9pt;">[[http://www.ifpa.org/pdf/IWGWhitePaper.pdf]]</span>)
+<span class="StyleBoldUnderline">As noted above, early warning of a pending attack could empower the U.</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">layered defense against EMP attacks on the United States from off our coasts.</span>
+**(3. <span style="font-family: Calibri,sans-serif;">EMP attacks outweigh nuclear war</span>**
+<span style="font-size: 13pt;">Gertz, 2005</span> <span style="background-color: white;">(Bill, US Seen Vulnerable to Space ‘Pulse’ Attack, Washington Times, November 22,</span><span style="font-size: 9pt;">[[http://www.washtimes.com/national/20051121-103434-8775r.htm]]</span><span style="background-color: white;">)</span>
+<span class="StyleBoldUnderline">The United States is highly vulnerable to attack from electronic pulses caused by a nuclear</span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">far more Americans than a nuclear weapon detonated in our most populous city.</span>
+=Geo-Spatial Referencing 1AC - Woodward= 
+==1AC Adv - Manufacturing== 
+US manufacturing on a steep decline—any positive gains are still a net-negative to growth
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Washington Post 12/11</span><span style="font-family: Calibri,sans-serif;">(Glenn Kessler, “Obama’s missing context on manufacturing jobs” pg online at [[http://www.washingtonpost.com/blogs/fact-checker/post/obamas-missing-context-on-manufacturing-jobs/2012/12/10/1ee47674-4322-11e2-8061-253bccfc7532_blog.html/ghs-sd|http://www.washingtonpost.com/blogs/fact-checker/post/obamas-missing-context-on-manufacturing-jobs/2012/12/10/1ee47674-4322-11e2-8061-253bccfc7532_blog.html//ghs-sd]])</span>
+In January, the White House issued a report touting the private-sector jobs
+AND
+in July and has actually started to decline in the past few months.
+The plan is key //__efficient__// surface transportation
+<span style="font-size: 13pt;">Chung and Shinozuka ‘4</span><span style="font-size: 10pt;">[Profs Engineering at UC Irvine. “Highway Surface Distress Inspection Using Remote Sensing” Space & Earth, 2004.//]//</span>
+
+Video image processing techniques are introduced to acquire, process and analyze the road surface
+AND
+that include geographical components such as maps indicating the roads and transportation networks.
+And that investment is __CRITICAL__ to U.S. Manufacturing – props up dependent industries
+<span style="font-size: 13pt;">Hermann 11</span><span style="font-size: 10pt;">(Andrew Herrmann, P.E. SECB, F.ASCE President American Society of Civil Engineers, Impact Of Infrastructure Investment On The Manufacturing Sector, pg lexis//um-ef)//</span>
+//ASCE commends the Joint Economic Committee for holding a hearing today on how surface transportation//
+//AND//
+//up by adding $430 billion to transportation costs in the next decade.//
+//We’ll isolate Two Impacts –//
+//First is Deterrence: Manufacturing capabilities key to technology necessary for U.S. deterrence//
+//<span style="font-size: 13pt;">O’Hanlon et al 12</span>(Mackenzie Eaglen, American Enterprise Institute Rebecca Grant, IRIS Research Robert P. Haffa, Haffa Defense Consulting Michael O'Hanlon, The Brookings Institution Peter W. Singer, The Brookings Institution Martin Sullivan, Commonwealth Consulting Barry Watts, Center for Strategic and Budgetary Assessments “The Arsenal of Democracy and How to Preserve It: Key Issues in Defense Industrial Policy January 2012,” pg online @ [[http://www.brookings.edu/%7E/media/research/files/papers/2012/1/26%20defense%20industrial%20base/0126_defense_industrial_base_ohanlon|http://www.brookings.edu/~/media/research/files/papers/2012/1/26%20defense%20industrial%20base/0126_defense_industrial_base_ohanlon]]// um-ef)
+The current wave of defense cuts is also different than past defense budget reductions in
+AND
+civilian and military export opportunities for the United States in a globalized marketplace.
+Defense industrial base deters war with Russia and terrorists
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Watts 2k8 </span>
+<span style="font-family: Calibri,sans-serif;">(Senior Fellow @ The Center for Strategic and Budgetary Assessments (Barry D, “The US Defense Industrial Base, Past, Present and Future,” CBA,http://www.csbaonline.org/4Publications/PubLibrary/R.20081015._The_US_Defense_In/R.20081015._The_US_Defense_In.pdf__)</span>
+Since the 1950s, the US defense industrial base has been a source of long
+AND
+term advantage in the decades ahead as it has been since the 1950s.
+That leads to extinction
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Bostrum ’02</span><span style="font-family: Calibri,sans-serif;">[Dr. Nick, Dept. Phil @ yale, “Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards,” www.transhumanist.com/volume9/risks.html/]</span>
+A much greater existential risk emerged with the build-up of nuclear arsenals in
+AND
+preludes to the existential risks that we will encounter in the 21st century.
+Second is Disease: **<span style="font-family: Calibri,sans-serif;">manufacturing base is key to bolster detection and neutralization capability – </span>**
+<span style="font-size: 13pt;">Morgan 03</span> <span style="background-color: white;">(Sarah Morgan East Texas Baptist University, Silverio Colon, Arizona State University Department of Bioengineering College of Engineering and Applied Sciences, Judith A. Ruffner and John A. Emerson, Organic Materials Department, “Biomanufacturing: A State of the Technology Review” September 2003, [[http://www.che.ncsu.edu/academics/concentrations/documents/Biomanufacturing-AStateofTechRev.pdf]])</span>
+Perhaps the most unique and advantageous aspect of biomanufacturing is the excellent control that may
+AND
+National Laboratories has the expertise to contribute to any one of these fields.
+
+**<span style="font-family: Calibri,sans-serif;">Independently, new viral strains cause extinction</span>**
+<span style="font-size: 13pt;">Darling 12</span> <span style="background-color: white;">(Astrobiologist Dirk Schulze-Makuch and British astronomer David Darling, Seattle's Big Blog, “9 Strange Ways the World Really Might End,” [[http://blog.seattlepi.com/thebigblog/2012/03/18/9-strange-ways-the-world-really-might-end/?fb_xd_fragment]], Washington State University)</span>
+Our body is in constant competition with a dizzying array of viruses, bacteria,
+AND
+marsupial in Australia) the very survival of our species could be threatened.
+Disease spread outweighs on probability and magnitude
+<span style="font-size: 13pt;">Zakaria, ‘5</span>. Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]].
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+
+==1AC Adv - Comp-Sci== 
+**<span style="font-family: Calibri,sans-serif;">Computer sciences lagging now – plan is key to solve and leads to future development</span>**
+
+<span class="StyleStyleBold12pt">R&D 12</span> <span style="background-color: white;">(R&D, News Agency dedicated to research and development, “Study: Computing advances vital to sustainability efforts,”</span><span style="font-size: 10pt;">[[http://www.rdmag.com/News/2012/06/Environment-Computing-Advances-Vital-To-Sustainability-Efforts/,Friday]]</span>, June 29, 2012)
+WASHINGTON — Innovation in computing will be essential to finding real-world solutions to
+AND
+support, facilitate, and even automate decision making, the report says.
+<span class="StyleStyleBold12pt">The plan is key to advanced tech and data acquisition</span>
+<span style="font-size: 13pt;">UTD 11 </span>(University of Texas at Dallas, one of the leading US universities, http://www.utdallas.edu/dept/graddean/CAT2010/EPPS/PHD/phd_gis.htm, “Doctor of Philosophy in Geospatial Information Sciences,” Published October 21st, 2011)
+Powerful technologies have emerged in recent years to collect, store, manage, analyze
+AND
+that expands the technological or theoretical base of all the geospatial information sciences.
+Future transportation systems are inevitable but data and computer science is key to make sure everything works and is developed
+
+<span class="StyleStyleBold12pt">Winter et al 10</span> <span style="font-size: 9pt;">(Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, [[http://www.cs.uic.edu/%7Eboxu/mp2p/39-135-1-SM.pdf|http://www.cs.uic.edu/~boxu/mp2p/39-135-1-SM.pdf]])</span>
+In the near future, vehicles, travelers, and the transportation infrastructure will collectively
+AND
+intelligent. So “computational transportation science” seems to say it all.
+
+Computational science is key to control nanotech
+<span style="font-size: 13pt;">Strayer 4</span>(Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, **<span style="font-size: 12pt;">[[http://science.energy.gov/%7E/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf|__http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf__]]</span>**)
+Because nanoscience and nanotechnology involve manipulation at the molecular level, variables come into play
+AND
+of nanostructures to be predicted, and new nanostructured materials to be designed.
+Uncontrolled nanotech causes extinction that outweighs nuclear war – the risk is existential
+
+<span class="StyleStyleBold12pt">Treder and Phoenix 07</span><span style="font-size: 10pt;"> (Mike, consultant to the Millennium Project of the American Council for the United Nations University and to the Future Technologies Advisory Group, Chris, CRN’s directory of research,Center for Responsible Nanotechnology, Results of Our Ongoing Research, April 16, [[http://www.crnano.org/overview.htm]])</span>
+Nanotech weapons would be extremely powerful and could lead to a dangerously unstable arms race
+AND
+of nuclear nations, increasing the chance of a regional conflict blowing up.
+
+Nanotech solves ASAT attacks which are inevitable in the status quo
+
+<span class="StyleStyleBold12pt">Schendzielos, 8</span> <span style="font-size: 9pt;">(Major Kurt Schendzielos, USAF, School of Advanced Military Studies, “Protection in Space: A Self-Defense Acquisition Priority for U.S. Satellites,” April 30, 2008, [[http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA485553]])</span>
+The first and most obvious advantage of developing timely and responsive satellite ¶ defenses is
+AND
+seriously abide by effective and lasting prohibitions against ¶ ASATs and space weapons.
+
+A single ASAT attack would risk miscalculation between the US-China – leading to a full scale global nuclear war
+<span style="font-size: 13pt;">Forden 2008</span>—An M.I.T. research associate and a former UN weapons inspector and strategic weapons analyst Congressional Budget Office (Geoffrey, PhD, “How China Loses the Coming Space War”, 1-10-08, [[http://blog.wired.com/defense/2008/01/inside-the-chin.html#more|http://blog.wired.com/defense/2008/01/inside-the-chin.html#more]])
+
+Attacking Early Warning Satellites The United States has five satellites in geostationary orbit that detect
+AND
+escalation of the conflict into a nuclear war without a clear military goal.
+==<span class="StyleBoldUnderline">1AC - Plan Text:</span>== 
+__Thus the plan:__ The United States federal government should substantially increase its geo-spatial transportation infrastructure investment in the United States.
+==1AC - Solvency== 
+Status quo monitoring is __wholly ineffective__ because __aerial satellites__ lack a __stable point of reference__ – __terrestrial sensors are key__
+
+<span class="StyleStyleBold12pt">Paska 9</span> <span style="font-size: 9pt;">- PhD of Geodetic Science from Ohio State. ( Eva “State of the Art Remote Sensing Geospatial Technologies in Support of Transportation Monitoring and Management” 2009, ProQuest Dissertation Database)</span>
+
+One way of characterizing these research efforts is by the data acquisition platform and the
+AND
+coverage of satellite imagery can effectively support local flow measurement in some cases.
+
+The plan achieves global, continuous monitoring of transportation infrastructure
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Ansari et al 12 </span><span style="font-family: Calibri,sans-serif;">-. Prof Engineering at the University of Chicago. And Tzu-Yang Yu and Chris Niezrecki – Profs Engineering and Physics (Respectively) at Mass-Lowell. “Muti-Modal Remote Sensing System for Transportation Infrastructure Inspection and Monitoring” Advanced Research in Applied Artificial Intelligence. Lecture Notes in Computer Science, Vol 7345. Summer 2012. SpringerLink)</span>
+Existing highway bridge inspection techniques include visual inspection, mechanical sounding, rebound hammer,
+AND
+portable bridge inspection technology for efficient inspection, evaluation and rating of bridges.
+Extinction is a real risk and comes first – life is inherently good and human extinction condemns all sentient life – our framing isn’t mutually exclusive but should come first
+<span style="font-size: 13pt;">Matheny, ‘7 </span><span style="font-size: 10pt;">[Jason Gaverick Matheny, Ph.D. Applied Economics, Johns Hopkins University, Baltimore, Maryland, in progress</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">M.P.H. Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, 2004</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">M.B.A. Fuqua School of Business, Duke University, Durham, North Carolina, 2003</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">B.A. University of Chicago, Chicago, Illinois, 1996, [[http://jgmatheny.org/extinctionethics.htm]]]</span>
+Moral philosophers have not written much about human extinction. This may be because they
+AND
+the next few centuries should be to survive long enough to colonize space.
+
+=Geo-Spatial Referencing 1AC - Woodward Quarters= 
+==1AC Adv - Manufacturing== 
+US manufacturing on a steep decline—any positive gains are still a net-negative to growth
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Washington Post 12/11</span><span style="font-family: Calibri,sans-serif;">(Glenn Kessler, “Obama’s missing context on manufacturing jobs” pg online at [[http://www.washingtonpost.com/blogs/fact-checker/post/obamas-missing-context-on-manufacturing-jobs/2012/12/10/1ee47674-4322-11e2-8061-253bccfc7532_blog.html/ghs-sd|http://www.washingtonpost.com/blogs/fact-checker/post/obamas-missing-context-on-manufacturing-jobs/2012/12/10/1ee47674-4322-11e2-8061-253bccfc7532_blog.html//ghs-sd]])</span>
+In January, the White House issued a report touting the private-sector jobs
+AND
+in July and has actually started to decline in the past few months.
+The plan is key //__efficient__// surface transportation
+<span style="font-size: 13pt;">Chung and Shinozuka ‘4</span><span style="font-size: 10pt;">[Profs Engineering at UC Irvine. “Highway Surface Distress Inspection Using Remote Sensing” Space & Earth, 2004.//]//</span>
+
+Video image processing techniques are introduced to acquire, process and analyze the road surface
+AND
+that include geographical components such as maps indicating the roads and transportation networks.
+And that investment is __CRITICAL__ to U.S. Manufacturing – props up dependent industries
+<span style="font-size: 13pt;">Hermann 11</span><span style="font-size: 10pt;">(Andrew Herrmann, P.E. SECB, F.ASCE President American Society of Civil Engineers, Impact Of Infrastructure Investment On The Manufacturing Sector, pg lexis//um-ef)//</span>
+//ASCE commends the Joint Economic Committee for holding a hearing today on how surface transportation//
+//AND//
+//up by adding $430 billion to transportation costs in the next decade.//
+//We’ll isolate Two Impacts –//
+//First is Deterrence: Manufacturing capabilities key to technology necessary for U.S. deterrence//
+//<span style="font-size: 13pt;">O’Hanlon et al 12</span>(Mackenzie Eaglen, American Enterprise Institute Rebecca Grant, IRIS Research Robert P. Haffa, Haffa Defense Consulting Michael O'Hanlon, The Brookings Institution Peter W. Singer, The Brookings Institution Martin Sullivan, Commonwealth Consulting Barry Watts, Center for Strategic and Budgetary Assessments “The Arsenal of Democracy and How to Preserve It: Key Issues in Defense Industrial Policy January 2012,” pg online @ [[http://www.brookings.edu/%7E/media/research/files/papers/2012/1/26%20defense%20industrial%20base/0126_defense_industrial_base_ohanlon|http://www.brookings.edu/~/media/research/files/papers/2012/1/26%20defense%20industrial%20base/0126_defense_industrial_base_ohanlon]]// um-ef)
+The current wave of defense cuts is also different than past defense budget reductions in
+AND
+civilian and military export opportunities for the United States in a globalized marketplace.
+Defense industrial base deters war with Russia and terrorists
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Watts 2k8</span>
+<span style="font-family: Calibri,sans-serif;">(Senior Fellow @ The Center for Strategic and Budgetary Assessments (Barry D, “The US Defense Industrial Base, Past, Present and Future,” CBA,http://www.csbaonline.org/4Publications/PubLibrary/R.20081015._The_US_Defense_In/R.20081015._The_US_Defense_In.pdf__)</span>
+Since the 1950s, the US defense industrial base has been a source of long
+AND
+term advantage in the decades ahead as it has been since the 1950s.
+That leads to extinction
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Bostrum ’02</span><span style="font-family: Calibri,sans-serif;">[Dr. Nick, Dept. Phil @ yale, “Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards,” www.transhumanist.com/volume9/risks.html/]</span>
+A much greater existential risk emerged with the build-up of nuclear arsenals in
+AND
+preludes to the existential risks that we will encounter in the 21st century.
+Second is Disease: **<span style="font-family: Calibri,sans-serif;">manufacturing base is key to bolster detection and neutralization capability –</span>**
+<span style="font-size: 13pt;">Morgan 03</span> <span style="background-color: white;">(Sarah Morgan East Texas Baptist University, Silverio Colon, Arizona State University Department of Bioengineering College of Engineering and Applied Sciences, Judith A. Ruffner and John A. Emerson, Organic Materials Department, “Biomanufacturing: A State of the Technology Review” September 2003, [[http://www.che.ncsu.edu/academics/concentrations/documents/Biomanufacturing-AStateofTechRev.pdf]])</span>
+Perhaps the most unique and advantageous aspect of biomanufacturing is the excellent control that may
+AND
+National Laboratories has the expertise to contribute to any one of these fields.
+
+**<span style="font-family: Calibri,sans-serif;">Independently, new viral strains cause extinction</span>**
+<span style="font-size: 13pt;">Darling 12</span> <span style="background-color: white;">(Astrobiologist Dirk Schulze-Makuch and British astronomer David Darling, Seattle's Big Blog, “9 Strange Ways the World Really Might End,” [[http://blog.seattlepi.com/thebigblog/2012/03/18/9-strange-ways-the-world-really-might-end/?fb_xd_fragment]], Washington State University)</span>
+Our body is in constant competition with a dizzying array of viruses, bacteria,
+AND
+marsupial in Australia) the very survival of our species could be threatened.
+Disease spread outweighs on probability and magnitude
+<span style="font-size: 13pt;">Zakaria, ‘5</span>. Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]].
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+==1AC Adv - Comp-Sci== 
+**<span style="font-family: Calibri,sans-serif;">Computer sciences lagging now – plan is key to solve and leads to future development</span>**
+
+<span class="StyleStyleBold12pt">R&D 12</span> <span style="background-color: white;">(R&D, News Agency dedicated to research and development, “Study: Computing advances vital to sustainability efforts,”</span><span style="font-size: 10pt;">[[http://www.rdmag.com/News/2012/06/Environment-Computing-Advances-Vital-To-Sustainability-Efforts/,Friday]]</span>, June 29, 2012)
+WASHINGTON — Innovation in computing will be essential to finding real-world solutions to
+AND
+support, facilitate, and even automate decision making, the report says.
+<span class="StyleStyleBold12pt">The plan is key to advanced tech and data acquisition</span>
+<span style="font-size: 13pt;">UTD 11 </span>(University of Texas at Dallas, one of the leading US universities, http://www.utdallas.edu/dept/graddean/CAT2010/EPPS/PHD/phd_gis.htm, “Doctor of Philosophy in Geospatial Information Sciences,” Published October 21st, 2011)
+Powerful technologies have emerged in recent years to collect, store, manage, analyze
+AND
+that expands the technological or theoretical base of all the geospatial information sciences.
+Future transportation systems are inevitable but data and computer science is key to make sure everything works and is developed
+
+<span class="StyleStyleBold12pt">Winter et al 10</span> <span style="font-size: 9pt;">(Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, [[http://www.cs.uic.edu/%7Eboxu/mp2p/39-135-1-SM.pdf|http://www.cs.uic.edu/~boxu/mp2p/39-135-1-SM.pdf]])</span>
+In the near future, vehicles, travelers, and the transportation infrastructure will collectively
+AND
+intelligent. So “computational transportation science” seems to say it all.
+
+<span style="font-size: 11pt;">And computational science is key to biotech innovation that is impossible in the squo</span>
+<span style="font-size: 13pt;">Strayer 4</span><span style="font-size: 10pt;">(Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf)</span>
+Progress in biology depends on the emergence of a new quantitative, predictive, and
+AND
+to the scientiﬁc goals that can be accomplished in the future in biology.
+
+<span style="font-size: 11pt;">Biotech solves oxygen loss, and industrial pesticides</span>
+<span style="font-size: 13pt;">McGloughlin 2K</span><span class="StyleBoldUnderline">, Martina McGloughlin is a professor @ UC Davis, Journal of Agrobiotechnology Management, Ten Reasons Why Biotechnology Will Be Important to the Developing World, http://www.agbioforum.org/v2n34/v2n34a04-mcgloughlin.htm</span>
+Biotechnology companies, national and international organizations, including the Consultative Group on International Agricultural
+AND
+solutions are readily available and cheaper than before the introduction of biotechnology crops?
+
+Industrial pesticides solve extinction
+<span style="font-size: 13pt;">Western Daily Press, </span>10/6/19<span style="font-size: 13pt;">97. </span>“Diana's gone all sari-eyed,” Lexis.
+For new research claims that PMT - which is supposed to be due to drops
+AND
+cause a teensy- weensy bit of disturbance in women now and again?
+
+<span style="font-family: Calibri,sans-serif;">Oxygen loss leads to extinction</span>
+<span style="font-size: 13pt;">Tatchell 8</span> – human rights activist, internally quotes ecologists (Peter, 8/13, The oxygen crisis,[[http://www.guardian.co.uk/commentisfree/2008/aug/13/carbonemissions.climatechange]], AG)
+Compared to prehistoric times, the level of oxygen in the earth's atmosphere has declined
+AND
+the reproductive capacity of sea life, which could further diminish global fish supplies
+==<span class="StyleBoldUnderline">1AC - Plan Text:</span>== 
+__Thus the plan:__ The United States federal government should substantially increase its geo-spatial transportation infrastructure investment in the United States.
+==1AC - Solvency== 
+Status quo monitoring is __wholly ineffective__ because __aerial satellites__ lack a __stable point of reference__ – __terrestrial sensors are key__
+
+<span class="StyleStyleBold12pt">Paska 9</span> <span style="font-size: 9pt;">- PhD of Geodetic Science from Ohio State. ( Eva “State of the Art Remote Sensing Geospatial Technologies in Support of Transportation Monitoring and Management” 2009, ProQuest Dissertation Database)</span>
+
+One way of characterizing these research efforts is by the data acquisition platform and the
+AND
+coverage of satellite imagery can effectively support local flow measurement in some cases.
+
+The plan achieves global, continuous monitoring of transportation infrastructure
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Ansari et al 12 </span><span style="font-family: Calibri,sans-serif;">-. Prof Engineering at the University of Chicago. And Tzu-Yang Yu and Chris Niezrecki – Profs Engineering and Physics (Respectively) at Mass-Lowell. “Muti-Modal Remote Sensing System for Transportation Infrastructure Inspection and Monitoring” Advanced Research in Applied Artificial Intelligence. Lecture Notes in Computer Science, Vol 7345. Summer 2012. SpringerLink)</span>
+Existing highway bridge inspection techniques include visual inspection, mechanical sounding, rebound hammer,
+AND
+portable bridge inspection technology for efficient inspection, evaluation and rating of bridges.
+Extinction is a real risk and comes first – life is inherently good and human extinction condemns all sentient life – our framing isn’t mutually exclusive but should come first
+<span style="font-size: 13pt;">Matheny, ‘7 </span><span style="font-size: 10pt;">[Jason Gaverick Matheny, Ph.D. Applied Economics, Johns Hopkins University, Baltimore, Maryland, in progress</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">M.P.H. Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, 2004</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">M.B.A. Fuqua School of Business, Duke University, Durham, North Carolina, 2003</span><span style="font-size: 5pt;">¶ </span><span style="font-size: 10pt;">B.A. University of Chicago, Chicago, Illinois, 1996, [[http://jgmatheny.org/extinctionethics.htm]]]</span>
+Moral philosophers have not written much about human extinction. This may be because they
+AND
+the next few centuries should be to survive long enough to colonize space.
+=Disabilities 1AC - NDCA= 
+(Note: Luc was with his novice Ben Barov at this tournament)
+==1AC Adv - Status Quo== 
+**Lack of transportation infrastructure investment systematically excludes people with disabilities**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">AAPD, ‘12</span><span style="font-size: 8pt;"> – The American Association of People With Disabilities, “Equity in Transportation for People with Disabilities”, May 23, http://www.infrastructureusa.org/equity-in-transportation-for-people-with-disabilities/)</span>
+Transportation and mobility play key roles in the struggle for civil rights and equal opportunity
+AND
+on accessible taxis, a lack of requirements has meant very uneven progress.
+
+**Transportation infrastructure funding isn’t neutral – resolving disparities in funding for disabled access is a vital starting point**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Langan, ‘1</span><span style="font-size: 8pt;">(Celeste, Associate Professor of English at the University of California Berkeley, “Mobility Disability”, Public Culture, Vol. 13 No. 3, Fall, Project Muse)</span>
+To think about mobility disability is to think about norms of speed and ranges of
+AND
+than the ADA’s “individuals with wheelchairs”: the mass-transit dependent.
+==1AC Adv - Discrimination== 
+**Society’s treatment of disability is a reflection of its tolerance for __all__ hostile acts towards “otherness” – //only// the Aff can halt eugenic extermination**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Bagenstos, 2K</span><span style="font-size: 8pt;">(Samuel R., Law Professor at Harvard, 86 Va. L. Rev. 397, April)</span>
+Erving Goffman's notion of stigma is a useful tool here. Although "stigma"
+AND
+people with disabilities have effectively marked that group as a "dependent caste."
+
+**Eugenic disability policy forms the basis for racism and sexism**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Wolbring, ‘ 8</span> – Gregor Wolbring, Development, 2008, 51, (252–258) Associate Professor Community Rehabilitation and Disability Studies, Past President of Canadian Disability Studies Association and member of the board of the Society for Disability Studies (USA) http://secure.gvsu.edu/cms3/assets/3B8FF455-E590-0E6C-3ED0F895A6FBB287/the_politics_of_ableism.pdf
+Sexism is partly driven by a form of ableism that favours certain abilities, and
+AND
+qualities are ‘abilities’ that make them fit for specific duties and occupations.
+
+**This process of biological reductionism culminates in genocidal violence**
+<span style="font-family: Garamond,serif; font-size: 13pt;">Hughes, ‘2</span><span style="font-family: Calibri,sans-serif; font-size: 8pt;">(Bill, Professor of Social Policy at the University Glasgow, Disability Studies, p. 60-62)</span>
+The dominant framework for understanding disability in the modern period has been the medical model
+AND
+, biological reductionism may at its worst translate into a politics of genocide.
+
+**Biologized procedures of regulation cause all violent conflict – eugenic violence is a more controlling factor for warfare than state interests**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Elden, ‘2</span><span style="font-size: 8pt;">(Stuart, Professor of Politics at the University Warwick, Boundary 2, 29.2)</span>
+The reverse side is the power to allow death. State racism is a recoding
+AND
+men to be killed. (VS, 180; WK, 136)
+==1AC - Plan Text== 
+**Thus we present the following plan – the United States federal government should substantially increase its transportation infrastructure investment to all United States transportation infrastructure that is not currently designated as “key” under the Americans with Disabilities Act.
+==1AC - Solvency== 
+**The ADA requires “key” transport stations be made accessible but overlooks countless others – the plan guarantees that //all// infrastructure is made accessible**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">AAPD, ’11</span> – American Association for People With Disabilities, "Equity in Transportation for People with Disabilities,” [[http://www.aapd.com/resources/publications/transportation-disabilities.pdf]] )
+Train travel has also improved, yet still imposes certain obstacles. With regard to
+AND
+is accessible, and in some cases, this may make travel prohibitive.
+
+**Federal action is key – devolution independently perpetuates discrimination**
+<span style="font-size: 13pt;">Fine & Hall, ’10 – </span>Prof of Economics U of London & Hall Director of the Public Services International Research Unit – U of Greenwich 2010 Ben & Contesting Neoliberalism: Public Sector Alternatives for Service Delivery Working Paper for the Milan European Economy Workshops http://www.economia.unimi.it/uploads/wp/DEAS-2010_27wp.pdf
+Other areas of policymaking, as with industrial and regional policy, health, education
+AND
+obviously in the collaboration between companies, donors and development banks over privatisations.
+
+**“State bad” arguments miss the point – inaccessibility makes political participation impossible – if political management is bad then only the plan can challenge it**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Bérubé, ‘3</span><span style="font-size: 8pt;"> (Michael, Paterno Family Professor in Literature at Pennsylvania State University, “Citizenship and Disability”, Spring, http://www.dissentmagazine.org/article/?article=506)</span>
+It is striking, nonetheless, that so few leftists have understood disability in these
+AND
+, which is to say, for the good of all of us.
+==1AC - Adv - Framing== 
+**<span class="StyleStyleBold12pt">Utilitarian reasoning creates violence towards disability </span>**
+<span style="font-size: 13pt;">Hughes, ‘7 –</span> Head of Division of Sociology Glasgow Caledonian University 2007 Bill Being disabled: towards a critical social ontology for disability studies Disability & Society 22.7 Taylor & Francis
+Readers may have noticed in this very preliminary and adumbrated account of what a critical
+AND
+or in the most mundane everyday words or deeds that exclude or invalidate.
+
+**<span class="StyleStyleBold12pt">Focus on existential risk disavows disability and creates a self-fulfilling politics of fear </span>**
+<span style="font-size: 13pt;">Hughes, ‘7 –</span> Head of Division of Sociology Glasgow Caledonian University 2007 Bill Being disabled: towards a critical social ontology for disability studies Disability & Society 22.7 Taylor & Francis
+Indeed, the invulnerable self is a fantasy and form of self‐deception associated
+AND
+fantasy of absolute able bodiedness’ (Thomson, 1997, p. 45).
+
+**Preventing structural violence is an __ethical decision-making rule__ – it’s the __root cause__ and __outweighs__**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Nielsen, ‘4 –</span> Michael E. Nielsen, Associate Professor of Psychology at Georgia Southern University, 2004 (“Mormonism and Psychology: A Broader Vision for Peace,” Dialogue: A Journal of Mormon Thought, Volume 37, Issue 1, Spring, Available Online at http://www.psychwww.com/psyrelig/peace.htm, Accessed 08-02-2010)
+Structural violence refers to aspects of society that limit people’s ability to reach their potential
+AND
+of citizenship.[40] Similar problems affect minority groups throughout the world.
+
+**Security-based predictions create a state permanent war and make catastrophes inevitable**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Der Derian, ‘5</span><span style="font-size: 8pt;">(James, Professor of International Relations and Political Science at Brown University, http://www.harvardir.org/articles/1430/2/)</span>
+It often takes a catastrophe to reveal the illusory beliefs we continue to harbor in
+AND
+-scale accident is now the prolongation of total war by other means.”
+
+**<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Single events can’t produce human extinction </span>**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Tonn, ‘5</span> (Bruce, Futures Studies Department, Corvinus University of Budapest, “Human Extinction
+Scenarios,” www.budapestfutures.org/downloads/abstracts/Bruce%20Tonn%20-%20Abstract.pdf)
+The human species faces numerous threats to its existence. These include global climate change
+AND
+. Humans appear to be resilient to extinction with respect to single events.
+
+**Zero risk of major war**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Luft and Korin, ‘9</span> – Gal Luft, executive director of the Washington, DC based Institute for the Analysis of Global Securit, and Anne Korin, co-director of the Institute for the Analysis of Global Security, 2009 [Energy Security Challenges for the 21st Century: A Reference Handbook p72-3]
+The final and perhaps most important reason to not expect a rise in resource wars
+AND
+resources or anything else—is disappearing from the Earth. [sic]
+
+**Nuclear war doesn’t cause extinction**
+<span style="font-family: Calibri,sans-serif; font-size: 13pt;">Nyquist, 99</span><span style="font-size: 9pt;">[J.R., “Is Nuclear War Survivable?” May 20, WorldNetDaily.com, http://www.antipas.org/protected_files/news/world/nuclear_war.html]</span>
+As I write about Russia's nuclear war preparations, I get some interesting mail in
+AND
+mode, these weapons would produce few (if any) fallout casualties.
+=<span style="background-color: #ffffff;">Negative:</span>= 
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Niles West]]2NRs New Trier</span>== 
+<span style="background-color: #ffffff;">Round 1: Obama Good Elections, and case (vs Federal Infrastructure Bank)</span>
+<span style="background-color: #ffffff;">Round 3: Cap K and case (vs Port Security)</span>
+<span style="background-color: #ffffff;">Round 5: Security K and case (vs HSR)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs New Trier]]2NRs Iowa Caucus</span>== 
+<span style="background-color: #ffffff;">Round 1: Obama Good Elections (China Bashing), and Privatization CP (vs NIB)</span>
+<span style="background-color: #ffffff;">Round 4: T-Simulation (vs Thirdspace Critical Aff that didn't defend a plan text )</span>
+<span style="background-color: #ffffff;">Round 5: Privatization CP & Accountability (vs Electrical Railway)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs University of Michigan</span>== 
+<span style="background-color: #ffffff;">Round 1: Security K and case (vs Port Security) </span>
+<span style="background-color: #ffffff;">Round 3: Cap K and solvency (vs Miliken vs. Bradley Court Aff) '</span>
+<span style="background-color: #ffffff;">Round 6: Free Market DA and Privatization CP (vs Alaska Port Deepening)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Glenbrooks</span>== 
+<span style="background-color: #ffffff;">Round 2: Food Prices DA and Privatization CP (vs SSS)</span>
+<span style="background-color: #ffffff;">Round 4: Fiscal Cliff and Privatization CP (vs Critical Bikes) </span>
+<span style="background-color: #ffffff;">Round 5: Free Market DA (vs Port Security)</span>
+<span style="background-color: #ffffff;">Quarters: Fiscal Cliff and Privatization CP (vs Title XI)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Michigan State University</span>== 
+<span style="background-color: #ffffff;">Round 1: Edamame DA and case d (vs HSR)</span>
+<span style="background-color: #ffffff;">Round 4: T - Simulation (vs Tupac/Afro-Pessism aff)</span>
+<span style="background-color: #ffffff;">Quarters: Fiscal Cliff and Privatization CP (vs Native NIB)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Dowling Catholic</span>== 
+<span style="background-color: #ffffff;">Round 2: Fiscal Cliff and Privatization CP (vs Georeferencing)</span>
+<span style="background-color: #ffffff;">Round 4: T - Simulation (vs Micro-Fascism aff)</span>
+<span style="background-color: #ffffff;">Round 5: Fiscal Cliff and Privatization CP (vs Bering Strait VTS)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Blake</span>== 
+<span style="background-color: #ffffff;">Round 2: Fiscal Cliff and Heg, Econ Advantage CP (vs F-35's)</span>
+<span style="background-color: #ffffff;">Round 4: Edamame DA and Econ Advantage CP (vs Port Dredging)</span>
+<span style="background-color: #ffffff;">Round 6: Fiscal Cliff and Multi-planked Advantage CP (vs Gas Tax)</span>
+<span style="background-color: #ffffff;">Round 7: Fiscal Cliff, Privatization CP (vs Icebreakers)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Evanston</span>== 
+<span style="background-color: #ffffff;">Round 2: Nielsen K (vs Port Security)</span>
+<span style="background-color: #ffffff;">Round 4: Hagel DA and Privatization CP (vs HSR)</span>
+<span style="background-color: #ffffff;">Round 6: </span><span style="background-color: #ffffff; line-height: 1.5;">Hagel DA and Solvency (vs HSR)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Harvard</span>== 
+<span style="background-color: #ffffff;">Round 3: T - Stimulation (vs Islamophobia aff)</span>
+<span style="background-color: #ffffff;">Round 4: Immigration DA and case (vs NIB)</span>
+<span style="background-color: #ffffff;">Round 7: Case Turns and case (vs racism aff)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs JV State</span>== 
+<span style="background-color: #ffffff;">Round 2: T - Mil (vs Skyguard-Airport Lasers aff)</span>
+<span style="background-color: #ffffff;">Round 3: Immigration DA and Privatization CP (vs HSR)</span>
+==<span style="background-color: #ffffff;">[[#NEGATIVE-2NRs Iowa Caucus]]2NRs Woodward JV Nationals</span>== 
+<span style="background-color: #ffffff;">Round 1: Security K and Dedev (vs Federal Reserve Bonds)</span>
+<span style="background-color: #ffffff;">Round 3: Immigration DA and Privatization CP (vs NextGen)</span>
+<span style="background-color: #ffffff;">Round 6: Immigration DA and Privatization CP (vs Inland Waterways)</span>
+<span style="background-color: #ffffff;">Octas: Security K and Condo Good (vs Climate Adaptation)</span>
+==<span style="background-color: #ffffff;">2NRs NDCA </span>== 
+<span style="background-color: #ffffff;">(Note: Luc was debating with Ben Barov, the awesome novice with the huge fro)</span>
+<span style="background-color: #ffffff;">Round 2: Privatization CP and Data Cooking NB (vs Port Dredging)</span>
+<span style="background-color: #ffffff;">Round 3: T-simulation (vs On the Road Again)</span>
+<span style="background-color: #ffffff;">Round 6: Economy and Tech innovation advantage CP and Edamame DA (vs Climate Adaptation)</span>

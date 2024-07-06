@@ -1,0 +1,23 @@
+[[toc]]
+==For cites, email me at taylor.amey@gmail.com== 
+=September-October= 
+==Affirmative== 
+We should give terrorists due process rights
+==Negative== 
+We shouldn't give terrorists due process rights
+=November-December= 
+==Affirmative== 
+We should guarantee universal health care for our citizens
+==Negative== 
+We shouldn't guarantee universal health care for our citizens
+=January-February= 
+==Affirmative== 
+We should value rehabilitation over retribution
+Plan text: UNICOR should expand all inmate labor to all federal inmates. I reserve the right to clarify. 
+==Negative== 
+We should value retribution over rehabilitaiton
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

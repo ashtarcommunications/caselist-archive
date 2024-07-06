@@ -1,0 +1,310 @@
+lex jc for most things
+
+If you think/heard me run something that you're interested in, just email me at hoffmanrls at gmail.com, or fb me, I'm happy to send cites and in some cases full text. I think that more experienced debaters have an obligation and opportunity to be a great resource in this community, and I encourage you to contact me with any questions or requests for positions.
+
+i also read a disenfranchisement ac, which advocates we return the right to vote all felons
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Drug Courts</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Franco 1 2010 October 12, [Celinda Franco, Specialist in Crime Policy,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">“Drug Courts: Background, Effectiveness, and Policy Issues for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Congress” </span><span style="background-color: #ffffff; color: #1155cc; font-family: arial,sans-serif; text-align: start;">[[@http://www.fas.org/sgp/crs/misc/R41448.pdf]]</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Drug courts are specialized court dockets, or parts of judges’</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">calendars of cases awaiting action in court, that generally focus on</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">cases involving nonviolent offenders with substance-abuse problems. 1</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Drug court programs generally include intensive court supervision,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">drug testing, and substance-abuse treatment. Under the drug court</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">model, judges and other court personnel monitor a participant’s</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">substance-abuse treatment and program compliance, and judges can</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">impose immediate and graduated sanctions if offenders fail to comply</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">with the program’s requirements. 2 Graduated sanctions can include</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">more-frequent drug testing, in-patient detoxification and treatment,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">additional court appearances, and short periods of incarceration that</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">may increase as an offender’s infractions accumulate. 3 To encourage</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">participants’ continued compliance, drug courts also provide</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">incentives, such as fewer drug tests, fewer court appearances, and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">possibly the dismissal of criminal charges or reduced or set aside</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">sentences if the program is successfully completed. 4 By bringing</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">intensively monitored long-term substance-abuse treatment into the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">criminal justice system and coercing abstinence from participants,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">drug courts seek to help substance-abusing offenders break the cycle</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">of drug[s] use and criminal offending. 5 Research indicates that drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">courts can reduce drug abuse, recidivism, 6 and incarceration among</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">drug involved offenders. 7 Thus, drug courts arguably represent one</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">viable approach to drug demand reduction among substance-abusing</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">offenders.</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Franco 2 2010 October 12, [Celinda Franco, Specialist in Crime Policy,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">“Drug Courts: Background, Effectiveness, and Policy Issues for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Congress” </span><span style="background-color: #ffffff; color: #1155cc; font-family: arial,sans-serif; text-align: start;">[[@http://www.fas.org/sgp/crs/misc/R41448.pdf]]</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">In an effort to analyze the available data to inform this question,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">researchers at the Urban Institute developed a model and a synthetic</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">database of 40,320 client profiles that is designed to estimate the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">potential benefits and costs of expanding offender eligibility to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">participate in substance-abuse treatment through drug courts. 91 The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">model estimated that approximately 55,000 adult offenders are treated</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">annually in drug courts at a cost of approximately $515 million. 92</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">According to this analysis of the current adult drug court treatment</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">regime, drug court treatment resulted in approximately $2.21 in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">benefits for each $1 in costs, providing an estimated annual average</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">net benefit to society of $624 million. 93d Moreover, when the Urban</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Institute’s model was used to estimate the effects of expanding drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">court eligibility to all arrestees at risk of drug dependence or at</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">risk of drug abuse (approximately 1.47 million), the cost of treatment</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">exceeded $13.7 billion. The model also predicted that treatment for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the entire group of arrestees could result in an estimated average net</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">benefit of more than $46.065 billion, or a benefit to cost ratio of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">3.36:1. 97 Thus, the simulation in which all existing drug court</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">eligibility restrictions were eliminated yielded the largest</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">cost-benefits.</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Franco 3 2010 October 12, [Celinda Franco, Specialist in Crime Policy,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">“Drug Courts: Background, Effectiveness, and Policy Issues for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Congress” </span><span style="background-color: #ffffff; color: #1155cc; font-family: arial,sans-serif; text-align: start;">[[@http://www.fas.org/sgp/crs/misc/R41448.pdf]]</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">The evidence of the rapid rise in drug-related offending during this</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">period is apparent at both the state and federal levels. According to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the Federal Bureau of Investigation (FBI), in 1980 state arrests for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">drug offenses numbered 580,900, accounting for 5.6% of total estimated</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">arrests. 14 The number of arrests for drug offenses grew to almost</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">1.362 million in 1989, or 9.5% of total estimated arrests. 15 By 2008,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the number of drug arrests had risen to more than 1.7 million,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">accounting for 12.2% of total arrests (14.0 million). 16 Of the state</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">and local drug arrests in 2008, 82.3% were for violations categorized</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">as drug possession, while 17.7% of these arrests were for drug sales</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">or manufacturing violations. 17</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Mackinem [former South Carolina Drug Court Coordinator] and Paul</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Higgins [Professor of Sociology at the University of South Carolina].</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Drug Court: Constructing the Moral Identity of Drug Offenders. Charles</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">C. Thomas, 2008. Google Books.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">The body of research assessing the effectiveness of drug court</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">[proves] supports one fundamental conclusion: drug court reduces</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">recidivism (banks & gottfredson, 2004; Bedrick & Skolnick, 1999;</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Belenko, 2001; Brewster, 2001; Deschenes & Greenwood, 1994; J.S.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Goldkamp, 1999; Goldkamp, White, & Robinson, 2001; Gottfredson & Exum,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">2002; Gottfredson, Kearley, Najaka, & Rocha, 2005; Hora et al.,1999;</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Longshore et al., 2001; Nolan, 2001, 2002; Peters & Murrin, 2000; BJA,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">2004; Rempel et al., 2003, Spohn, piper, Martin, & Frenzel, 2001; SMU,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">2002). We discuss a rigorous study in New York State to examine in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">greater detail the question of drug court’s effectiveness (Rempel et</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">al., 2003). In an oft-cited review, the government accountability</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">office (GAO) criticized the quality of studies evaluating drug court</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">on the basis of several methodological issues including a lack of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">comparison groups, short-term follow-up, and a lack of multiple-site</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">studies (GAO,1997). The New York study, a stringent evaluation, does</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">not suffer these shortcomings. The researchers evaluated eleven</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">different courts located throughout the state, including courts in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">metropolitan, suburban and rurual setting. They followed the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">drug-offending subjects for three years beyond the program completion.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">At six of the eleven programs studied, the drug court graduates were</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">compared to a matched sample of offenders for each court’s population,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">who received traditional probation services; in the remaining five,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">graduates were compared to nonmatched samples, such as program</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">failures. The results from each individual court and from all six</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">courts collectively showed that when graduates of drug courts were</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">compared to a matched sample, drug court graduates were less likely to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">be rearrested. The reduction in recidivism averaged 32%. The five</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">courts non-matched comparison groups showed similar recidivsm</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">reductions. This finding is congruent with findings from seventeen</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">other [evals] drug court recidivism evaluations (BJA, 2004). Drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">courts reduce rearrest rates for drug-using offenders.</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Increased recidivism has four impacts. Wilson</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Wilson, Jane [Stanford's Strauss Scholar, developing educational</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">programs for inmates in cities across the US.] Reducing Juvenile</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Recidivism in the United States, Roosevelt Review, 2007.</span>
+<span style="background-color: #ffffff; color: #1155cc; font-family: arial,sans-serif; text-align: start;">[[@http://www.scribd.com/doc/19695235/Juvenile-Recidivism]]</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">The effects of recidivism in the United States fall into four general</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">categories. First, recidivism imposes tremendous public safety costs</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">on American communities; high recidivism rates indicate additional</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">victimizations (assuming that the crime for which the juvenile was</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">arrested was in fact committed). Second, increased recidivism results</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">in extremely destructive social costs; increases in violence, crime,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">homelessness, family destabilization, and public health risks are all</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">associated with high recidivism rates. Third, recidivism imposes a</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">considerable financial burden on the U.S. Department of Justice and,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">more generally, on American society; our government spends an annual</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">sixty billion dollars on correctional programs. Fourth, high</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">recidivism indicates a failure to provide meaningful rehabilitation</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">for inmates reentering the community; recidivist juveniles lose out on</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">crucial educational, social, and personal developments that can rarely</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">be regained. Additionally, studies show that recurrent offenses during</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">teenage years can provide a dangerous inculcation leading to adult</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">criminality. The tragedy of this cycle of criminality cannot be</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">understated.</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Sending low-level drug offenders through incarceration guarantees a</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">deeper involvement in crime.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Rosenblum [Lisa Rosenblum, Mandating Effective Treatment for Drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Offenders, 2002 University of California Hastings Law Journal, 53</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Hastings L.J. 1217],</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Incarceration as a means of deterring criminals is failing because the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">government is spending too much of its money and resources imprisoning</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the offenders who will have the least effect on the crime rate.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Low-level drug offenders, i.e., those with little or no prior criminal</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">history, no violent offense behavior, and no involvement in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">sophisticated criminal activity serve an average sentence of 5.75</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">years before release. 106 They constitute 21.2% of all sentenced</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">federal prisoners and 36.1% of all prisoners incarcerated for drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">crimes. Among low-level drug offenders, sentences have increased 150%</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">above what they were prior to the implementation of the Guidelines and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the Anti-Drug Abuse Acts of 1986 and 1988. 108 Once in prison, these</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">offenders develop relationships with high-level offenders who</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">[educate] give them an education in "advanced-drug trafficking" and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">help them to identify [them] as members of an operational drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">culture. 109 Incarcerating low-level drug offenders is not only</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">ineffective and expensive, but it also perpetuates the drug problem in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">this country.</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Dorf & Sabel Michael C. Dorf & Charles F. Sabel [Michael C. Dorf is</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Vice-Dean and Professor of Law, Columbia Law School. Charles F. Sabel</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">is Professor of Law and Social Science, Columbia Law School.] “Drug</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Treatment Courts and Emergent Experimentalist Government” August 23,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">1999 <</span><span style="background-color: #ffffff; color: #1155cc; font-family: arial,sans-serif; text-align: start;">[[@http://www2.law.columbia.edu/sabel/papers/drug812.pdf]]</span><span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;"> ></span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">What makes the drug courts distinctive and innovative, we argue, is</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the novel form of monitoring, and governance more generally, upon</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">which they rely.2 The central feature of this governance system is</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">that the monitored agents choose their own precise goals and the means</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">for achieving them in return for [while] furnishing a central</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">authority with the information that [identifies] allows evaluation of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">their performance. The information in turn allows identification of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">good and bad performers, [and] improvement of the quality of the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">monitored information, and eventually, of the services provided. Very</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">generally, by collaborating in this way, central authority and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">decentralized actors can together explore and evaluate solutions to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">complex problems that neither alone would have been likely to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">identify, much less investigate or address, without the exchanges with</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the others. The same exchanges of information, moreover, enable the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">institutions continually to adjust their means and ends in the light</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">of experience. Because this form of governance and the type of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">institution-building with which it is associated openly acknowledges</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the incomplete and ambiguous character of its initial specification of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">means and ends, and uses this lack of specificity as a prod to inquiry</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">and discovery, we refer to it as experimentalist.3</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Robin West. "Rights, Capabilities, and the Good Society." Fordham Law</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Review Vol. 69 Issue 5.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Second, a recognition that rights might sometimes be positive</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">entitlements to state action, as well as, at other times, negative</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">entitlements to be free of state action, is truer to the philosophical</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">liberal classics that animate the liberal tradition than the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">insistence of liberal constitutional rights theorists on the essential</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">negativity of rights. Let me start with Thomas Hobbes. Hobbes regarded</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the positive obligation of the state to protect individuals against</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">private violence as being at the heart of the social contract. The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">individual's right to that protection was the only "right" created by</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the transition from nature into civil society. Otherwise, the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Hobbesian Leviathan can do what it wishes and the individual citizen</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">must submit-the Hobbesian citizen does indeed lack negative rights.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">This is not so, however, with respect to the state's duty to protect</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the individual against private violence: there, the state is bound to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">act affirmatively, and the individual is fully entitled to a positive</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">right. This positive right of the citizen to the state's affirmative</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">action was by no means a peripheral feature of Hobbes' jurisprudence.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Rather, the bargain struck-the individual relinquishes self help, in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">exchange for the state's obligation to protect him from violence-was,</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">for Hobbes, the raison d'8tre of the state's existence. The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Leviathan's protection of the individual against the private violence</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">of others is the quid pro quo for the individual's relinquishment of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">his right to self-help available to him in the state of nature.' The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">individual, in other words, is just as contractually entitled to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">receive that protection as the state is obligated to provide it-in</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">short, the citizen has a right to it. The state's obligation to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">protect the citizen against private violence and the citizen's</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">continuing right to receive it, in Hobbes' view, was foundational and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">inalienable. If we take Hobbes seriously, the individual has a right</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">to the state's protection against the violence or aggression of other</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">private parties-for Hobbes, this was, to borrow a phrase from Steven</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Heyman's important article on this point, the "first duty of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">government.”</span>
+
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Cass R. Sunstein and Vermeule Adrian [“Is Capital Punishment Morally</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Required? Acts, Omissions, and Life-Life Tradeoffs. Copyright (c)</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">2005 The Board of Trustees of Leland Stanford Junior University.</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">Stanford Law Review December,2005 58 Stan. L. Rev. 703]</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">The critics of capital punishment have been led astray by uncritically</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">applying the act/omission distinction to a regulatory setting. Their</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">position condemns the "active" infliction of death by governments but</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">does not condemn the "inactive" production of death that comes from</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">the refusal to maintain a system [*720] of capital punishment. The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">basic problem is that even if this selective condemnation can be</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">justified at the level of individual behavior, it is difficult to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">defend for governments. n58 A great deal of work has to be done to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">explain why "inactive," but causal, government decisions should not be</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">part of the moral calculus. Suppose that we endorse the deontological</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">position that it is wrong to take human lives, even if overall welfare</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">is promoted by taking them. Why does the system of capital punishment</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">violate that position, if the failure to impose capital punishment</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">also takes lives? We suggest that the distinction between government</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">acts and omissions, even if conceptually coherent, is not morally</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">relevant to the question of capital punishment. Some governmental</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">actions are morally obligatory, and some governmental omissions are</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">blameworthy. In this setting, we suggest, government is morally</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">obligated to adopt capital punishment and morally at fault if it</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">declines to do so. The most fundamental point is that, unlike</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">individuals, governments always and necessarily face a choice between</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">or among possible policies for regulating third parties. The</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">distinction between acts and omissions may not be intelligible in this</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">context, and even if it is, the distinction does not make a morally</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">relevant difference. Most generally, government is in the business of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">creating permissions and prohibitions. When it explicitly or</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">implicitly authorizes private action, it is not omitting to do</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">anything or refusing to act. n61 Moreover, the distinction between</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">authorized and unauthorized private action - for example, private</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">killing - becomes obscure when the government formally forbids private</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">action but chooses a set of policy instruments that do not adequately</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">or fully discourage it. To be sure, a system of punishments that only</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">weakly deters homicide, relative to other feasible punishments, does</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">not quite authorize homicide, but that system is not properly</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">characterized as an omission, and little turns on whether it can be so</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">characterized. Suppose, for example, that government fails to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">characterize certain actions - say, sexual harassment - as tortious or</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">violative of civil rights law and that it therefore permits employers</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">to harass employees as they choose or to discharge employees for</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">failing to submit to sexual harassment. It would be unhelpful to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">characterize the result as a product of governmental "inaction." If</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">employers are permitted to discharge employees for refusing to submit</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">to sexual harassment, it is because the law is allocating certain</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">entitlements to employers rather than employees. Or consider the</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">context of ordinary torts. When Homeowner B sues Factory A over air</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">pollution, a decision not to rule for Homeowner B is not a form of</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">inaction: it is the allocation to Factory A of a property right to</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">pollute. In such cases, an apparent government omission is an action</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">simply because it is an allocation of legal rights. Any decision that</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">allocates such rights, by creating entitlements [*722] and</span>
+<span style="background-color: #ffffff; color: #222222; font-family: arial,sans-serif; text-align: start;">prohibitions, is not inaction at all.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[media type="custom" key="21618214"]]

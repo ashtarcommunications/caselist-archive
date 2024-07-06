@@ -1,0 +1,153 @@
+[[toc]]
+=Info= 
+
+Cite requests: kevin.pucci@gmail.com
+
+I am just putting up 1AC's, neg strats, and requests
+
+=Affirmative= 
+
+==1AC - Capitol== 
+===Economy=== 
+
+**Scenario 1: Recovery**
+
+**Unemployment rates are down but we are far from recovery**
+**Thomas 10/5** <span style="font-size: 8pt;">Associate Produceer HLN/CNN(Alexandra, 5 October 2012, “Unemployment rate drops, but recovery still slow,” HLN, [[http://www.hlntv.com/article/2012/10/05/jobs-report-september-unemployment-rate-drop]])</span>
+
+<span style="font-size: 8pt;">Finally some good news for the American … labor force, was 14.7% in September.</span>
+
+**Traffic Congestion underlies a multibillion dollar drag on the economy– prevents any potential recovery**
+**Needham 11**<span style="font-size: 8pt;"> [Report: Traffic congestion costs billions, weighs on the economic recovery, Vicki, The Hill, [[http://thehill.com/blogs/on-the-money/801-economy/184105-report-traffic-congestion-costs-billions-weighs-on-the-economic-recovery]]] </span>
+
+__Traffic <span class="StyleBoldUnderline">**congestion is costing billions**</span>__<span class="StyleBoldUnderline">…nothing is not a productive option</span><span style="font-size: 8pt;">.”</span>
+
+**Congestion, urbanization, and unemployment are threatening the economy- ITS is a pre-requisite for future growth**
+**Keeling and Mooney 11** <span style="font-size: 8pt;">[2011, Dr. Mary Keeling is a Manager of the IBM Institute for Business Value Center for Economic Analysis. She holds a PhD in Economics from Trinity College, Dublin. Gerard M. Mooney is currently General Manager of Global Smarter Cities. IBM Executive Report, “Transportation and economic development: Why smarter transport is good for jobs and growth”[[http://public.dhe.ibm.com/common/ssi/ecm/en/gbe03441usen/GBE03441USEN.PDF]]]</span>
+
+__High unemployment, languid__ … __and those employed to provide them.__
+
+**Scenario Two: Terrorism**
+
+**ITS solves attacks on infrastructure – key to monitoring, information, and response**
+**Okonweze and** **Nwagboso 4** <span style="font-size: 8pt;">(Austen & Professor Christopher, The Midlands Institute of Transport,4/19, “Securing Transport Systems and Infrastructure against Terrorism using ITS”, page 59.)</span>
+
+__The threat from Transport terrorism__ … __management of transport terrorism.__
+
+**Terrorist attacks on transportation shutdowns the economy**
+**Flynn and Hall 4** <span style="font-size: 8pt;">Jean J. Kirkpatrick Senior Fellow in National Security Studies and Director, Council on Foreign Relations Independence Task Force on Homeland Security Imperatives; US Attorney for the District of Vermont (Stephen; Peter, January 2004, “Bolstering Cargo Container Security: How U.S. Attorneys' Offices Can Make a Difference,” US Justice Department, [[http://www.justice.gov/usao/eousa/foia_reading_room/usab5201.pdf]])</span>
+
+<span style="font-size: 8pt;">I. Introduction</span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> "Every time you talk about … </span><span class="StyleBoldUnderline">shipments of parts and goods.</span>
+
+**Economic Decline causes Global War**
+**Royal 10**<span style="font-size: 8pt;"> Director of Cooperative Threat Reduction at the U.S. Department of Defense (Jedediah Royal, “Economic Integration, Economic Signaling and the Problem of Economic Crises,” Economics of War and Peace: Economic, Legal and Political Perspectives, ed. Goldsmith and Brauer, p. 213-215)</span>
+
+<span style="font-size: 8pt;">Less intuitive is how </span>__periods__ …<span style="font-size: 8pt;"> considered ancillary to those views.</span>
+
+**Independent slow growth impact- loss of competitiveness triggers hegemonic wars**
+**Khalilzad 11** **– PhD, Former Professor of Political Science @ Columbia, Former ambassador to Iraq and Afghanistan**
+<span style="font-size: 8pt;">Zalmay Khalilzad was the United States ambassador to Afghanistan, Iraq, and the United Nations during the presidency of George W. Bush and the director of policy planning at the Defense Department from 1990 to 1992. "The Economy and National Security" Feb 8 [[http://www.nationalreview.com/blogs/print/259024|www.nationalreview.com/blogs/print/259024]]</span>
+
+<span style="font-size: 8pt;">Today, </span>__economic__<span style="font-size: 8pt;"> and fiscal </span>…<span style="font-size: 8pt;"> to </span>__make aggressive moves__<span style="font-size: 8pt;"> in their regions. </span>
+
+===Hegemony=== 
+
+**Two internal links**
+
+**First - Power Projection**
+
+**Efficiency of our transport network is critical to maintain effective deployment**
+**Honea et al. 2k**<span style="font-size: 6pt;"> -</span> <span style="font-size: 8pt;">PhD (Robert B., Sarah E. Brown Captain of the U.S. Navy, Military Traffic Management Command, Henry M. Bennet, Military Traffic Management Command, Transportation Engineering Agency, “U.S. Military Transportation,” Committee on Military Transportation, [[http://onlinepubs.trb.org/onlinepubs/millennium/00137.pdf]])</span>
+
+__Recent closure____or loss of__ …<span style="font-size: 8pt;"> Board’s Committee on Military Transportation is that mechanism.</span>
+
+**ITS deployment is key to homeland military efficiency**
+**Honea et al. 2k**<span style="font-size: 6pt;"> -</span> <span style="font-size: 8pt;">PhD (Robert B., Sarah E. Brown Captain of the U.S. Navy, Military Traffic Management Command, Henry M. Bennet, Military Traffic Management Command, Transportation Engineering Agency, “U.S. Military Transportation,” Committee on Military Transportation, [[http://onlinepubs.trb.org/onlinepubs/millennium/00137.pdf]])</span>
+
+<span style="font-size: 8pt;">Intelligent Transportation Systems The advent of </span>…<span style="font-size: 8pt;"> promote compatibility between systems.</span>
+
+**Homeland readiness is vital to overall power projection**
+**DOT 05** <span style="font-size: 8pt;">(“Introduction to the Current Military Deployment Concepts”, Federal Highway Administration for the Department of Transportation, May 10, [[http://ops.fhwa.dot.gov/OpsSecurity/dev-mx/chapter_1.htm]])</span>
+
+__<span style="font-family: Georgia,serif; font-size: 11pt;">Strategic **mobility and readiness are** </span>__<span style="font-family: Georgia,serif; font-size: 11pt;">… __standard highway procedures for convoys.__</span>
+**Second - Competitiveness**
+
+**U.S. is falling behind in economic competitiveness- ITS is key to solve**
+**IEEE 10** <span style="font-size: 8pt;">(“U.S. Economic Competitiveness and Intelligent Transportation Systems Technology”, February, 2010, [[http://www.ieeeusa.org/policy/positions/ITS.pdf]])</span>
+
+<span style="font-size: 8pt;">IEEE-USA strongly endorses </span>__a national__ …<span style="font-size: 8pt;"> be early adopters of new vehicle technologies.</span>
+
+**Investment in highway infrastructure is key to the manufacturing industry**
+**AISI 12**<span style="font-size: 8pt;"> (American Iron and Steel Institute, “AISI Public Policy Priorities – Promoting a Pro-Manufacturing Agenda,” pg online @ http://www.steel.org/en/Public%20Policy/~/media/Files/AISI/Public%20Policy/Agenda/AISI2012PublicPolicyAgenda%20_%20Final%20020212.ashx //um-ef)//</span>
+
+<span style="font-size: 8pt;"> Transportation and Water Infrastructure Background. </span>__A globally__ …<span style="font-size: 8pt;"> on improved gas mileage;</span>
+
+**That solves Competitiveness as well**
+**Swezey 11** <span style="font-size: 8pt;">(Devon Swezey, Project Director for Breakthrough Institute where he works as an energy and climate policy analyst and Ryan McConaghy, “Manufacturing Growth Advanced Manufacturing and the Future of the American Economy,” pg online @ [[http://thebreakthrough.org/blog/BTI_Third_Way_Idea_Brief_-_Manufacturing_Growth_.pdf]] um-ef)</span>
+
+__<span style="font-family: Georgia,serif; font-size: 11pt;">New manufacturing will help determine </span>__<span style="font-family: Georgia,serif; font-size: 11pt;">…</span><span style="font-family: Georgia,serif; font-size: 8pt;"> in close collaboration with industry. 39</span>
+
+**Competitiveness is key to hegemony**
+**Segal 04**<span style="font-size: 8pt;"> – Senior Fellow in China Studies at the Council on Foreign Relations (Adam, Foreign Affairs, “Is America Losing Its Edge?” November / December 2004, http://www.foreignaffairs.org/20041101facomment83601/adam-segal/is-america-losing-its-edge.html) </span>
+
+__The____U__<span style="font-size: 8pt;">nited States' </span>__global primacy__ … __technological entrepreneurship at home.__
+
+**Hegemony prevents miscalc and global war—empirics prove—decline makes every impact inevitable**
+**Kagan 2/11** <span style="font-size: 8pt;">Senior Fellow, Foreign Policy, Center on the United States and Europe (Robert Kagan, February 11, 2012, “Why the World Needs America,”http://www.brookings.edu/articles/2012/0211_us_power_kagan)</span>
+
+__History shows that__ __world__ …<span style="font-size: 8pt;"> like right before the American order came into being. </span>
+
+**There’s no root cause of war – deterrence solves enough anyway**
+**Moore 4** <span style="font-size: 8pt;">Walter L. Brown Professor of Law at the University of Virginia School of Law (John Norton Moore</span>**__, “__**<span style="font-size: 8pt;">Solving the War Puzzle: beyond the democratic peace,” pg 41-43)</span>
+
+__If major__<span style="font-size: 8pt;"> interstate </span>__war is__ … __gamble not worth the risk.__
+
+===Plantext=== 
+
+**Thus, the plan: The United States federal government should substantially increase its investment in research, demonstration, and deployment of Intelligent Transportation Systems in the United States.**
+
+===Solvency=== 
+
+**Long sustained federal funding is key**
+**Ezell 10**<span style="font-size: 8pt;"> (Stephen, Senior Analyst with the Information Technology and Innovation Foundation (ITIF), with a focus on innovation policy, science and technology policy, international competitiveness, and trade, manufacturing, and services issues, January 2010, “Explaining International IT Application Leadership: Intelligent Transportation”, [[http://www.itif.org/files/2010-1-27-ITS_Leadership.pdf]])</span>
+
+__Information technology (IT) has transformed__ … __state and regional levels.__
+
+**New transportation bill non-uniques your DA’s, but doesn’t solve our aff**
+**RITA, ’12**<span style="font-size: 8pt;"> [August 2012, Research and Innovative Technology Administration US DOT, “ITS JPO Newsletter August 2012”,[[http://www.its.dot.gov/newsletter/august2012.htm]]]</span>
+
+<span style="font-size: 8pt;"> Last month, </span>__Congress__ … __similar funding levels.__
+
+=Negative= 
+==Strategies== 
+===Capitol=== 
+
+**Round 2: Broad Run CV (Inland Waterways)**
+Jackson-Vanik DA
+Oil DA
+Repeal HMT CP
+Stirner K
+Case
+
+2NR: Repeal HMT, Jackson Vanik
+
+**Round 3: Baltimore Urban Debate League (New Orleans)**
+Framework
+Stirner K
+Over-extension K
+Integration DA
+Case
+
+2NR: Stirner K
+
+
+**Round 6: Baltimore Urban Debate League (Womanism Project)**
+Framework
+Nyquist DA (Red Spread)
+Stirner K
+Case
+
+2NR: Framework
+
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,58 @@
+[[toc]]
+=Round 1= 
+Neg v. Equity Aff
+
+1NC:
+-Consult the People CP
+-States CP
+-Immigration DA
+-Presumption
+-Framework
+-T-substantial
+
+2NR:
+-States CP
+-Immigration DA
+=Round 2= 
+
+=Round 3= 
+Neg v Port Infrastructure/MTS Aff
+
+1NC:
+-PPP CP
+-Immigration DA
+-Cognitive Bias K
+-T-Investment/Substantial
+
+2NR:
+-PPP CP
+-Immigration DA
+=Round 4= 
+
+=Round 5= 
+
+=Round 6= 
+Neg v Bridge to Canada
+
+1NC:
+-PPP CP
+-Immigration DA
+-Cognitive Bias K
+-T-Investment/Substantial
+
+2NR:
+-PPP CP
+-Immigration DA
+=Round 7= 
+Neg v Disposability Climate Adaptation 
+
+1NC:
+-Weather Modification CP
+-Immigration DA
+-Wages Conditions CP
+-FW
+
+2NR:
+-Wages Conditions CP
+-FW
+[[include page="space.template.Footer"]]

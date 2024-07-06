@@ -1,0 +1,84 @@
+==<span style="font-family: Arial,Helvetica,sans-serif;">1AC - Bronx</span>== 
+<span style="font-family: Arial,Helvetica,sans-serif;">**Plan: United States Department of Defense should deploy the Transformational Satellite Communications System.**</span>
+==__<span style="font-family: Arial,Helvetica,sans-serif;">**Advantage 1 - China**</span>__== 
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**TSAT is key to advance US intelligence, surveillance and reconnaissance operation capabilities – protects operations from enemy jamming, integrates data from multiple ISR platforms and mobile communication**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Northrop** **Grunsman, '06**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">(Northrop Grunsman Corporation, http://www.irconnect.com/noc/press/pages/news_releases.html?d=110183)</span>
+<span style="font-size: 11px;">A Transformational Satellite Communications (TSAT) team [...] to move forward now with TSAT development.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**<span style="text-decoration: none;">TSAT extends the Global Information Grid and, even if it fails, increases the efficiency of status quo satellite programs and integrates them into a global ISR system</span>**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**<span style="text-decoration: none;">Uhrich, '10</span>**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">(Colonel David. PRIORITY BRIEFING WITH Colonel David C. Uhrich Vice Commander, Military Satellite Communications Systems Wing, Space and Missile Systems Center, Los Angeles Air Force Base, El Segundo, California. http://www.milsatmagazine.com/cgi-bin/display_article.cgi?number=2074520599)</span>
+<span style="font-size: 11px;">The Transformational Satellite Communications System [...] so it is not a follow on to WGS.</span>
+
+**<span class="TagChar" style="font-family: Arial,Helvetica,sans-serif;">Strong and diverse ISR and satellite capabilities deter China attack</span>**
+<span style="font-family: Arial,Helvetica,sans-serif;">**Teng and Lee, '08**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 7pt;">[“China's Militarization of Space: Motivations and Implications for U.S-Chinese Relations”, NCCU, Chapter Six: Space Militarization: Implications for U.S.-Chinese Relations, pdf]</span>
+<span style="font-size: 11px;">In many ways China’s counter-space platforms</span><span style="font-family: 'Times New Roman'; font-size: 11px;"> [...] </span><span style="font-size: 11px;">and a brief policy suggestion.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**<span class="TagChar">Growing reliance on information makes it the prime target for China – Military communications will be exploited in a cyber war</span>**</span>
+**Teng and Lee, '08**
+<span style="font-size: 11px;">[“China's Militarization of Space: Motivations and Implications for U.S-Chinese Relations”, NCCU, Chapter 5: U.S. Response, Toward a “Cold War” in Space, pdf]</span>
+<span style="font-size: 11px;">Because platforms such as [...] relations in the coming years.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**The PLA is building up its forces to target US vulnerabilities – that gives China upper hand in conflict**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**BBC, '11**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">(BBC, Viewpoint: A new Sino-US high-tech arms race? http://www.bbc.co.uk/news/mobile/world-asia-pacific-12154991)</span>
+<span style="font-size: 11px;">Despite recent headlines reporting [...] a disaster of global proportions.</span>
+
+**Satellite Vulnerability leads China to act offensively in space - triggers war over Taiwan**
+**Teng and Lee, '08**
+<span style="font-size: 11px;">[“China's Militarization of Space: Motivations and Implications for U.S-Chinese Relations”, NCCU, Chapter 5: U.S. Response, Toward a “Cold War” in Space, pdf]</span>
+<span style="font-size: 11px;">During the recent Iraq war [...] fielding counter-space weapons could have.</span>
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**Extinction**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Hunkovic, '09**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">(Lee J. Hunkovic, American Military University, “The Chinese-Taiwanese Conflict: Possible Futures of a Confrontation between China, Taiwan and the United States of America,” 2009, </span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 9px;">[[http://www.lamp-method.org/eCommons/Hunkovic.pdf]]</span><span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">)</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">A war between China, Taiwan and the United States [...] with 331 deaths.</span>
+==__**Advantage 2 - Deterrence**__== 
+
+<span style="font-family: Arial,Helvetica,sans-serif;">**First, there’s no risk of collapse of US hegemony – economy, military, demographics**</span>
+<span style="font-family: Arial,Helvetica,sans-serif;">**Twining, '10**</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 7pt;">Daniel, Senior Fellow for Asia at the German Marshall Fund of the United States, Oxford Scholar, “Cheer up, America: You're still on top of the world,” Foreign Policy, http://shadow.foreignpolicy.com/posts/2010/01/05/cheer_up_america_youre_still_on_top_of_the_world</span>
+<span style="font-size: 11px;">The United States today [...] Happy 2010.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">More evidence – heg is inevitable, only a question of how we use it – their authors conflate trends with outcomes</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">Brooks and Wohlforth, '09</span>**
+<span style="font-size: 11px;">(March/April Foreign Affairs; Stephen Brooks, Associate Professor of Government, Dartmouth; William Wohlforth, Daniel Webster Professor of Government and Chair of the Department of Government, Dartmouth, “How Washington Should Reform International Institutions.”)</span>
+<span style="font-size: 11px;">Only a few years ago [...] accurate an analysis today.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">UAV bandwidth demand is exploding – government-provided high bandwidth is vital to meet needs.</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">Lewis, '11</span>**
+<span style="font-size: 11px;">(Britt Lewis, Vice President, Marketing and Business Strategy, Intelsat General Corp, “Critical Link in UAV Operations”, SATCOM for ISR, Military Information Technology, Volume 15, Issue 2, March 2011)</span>
+<span style="font-size: 11px;">Time magazine ran a cover story [...] success of this enterprise.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">TSAT is key to solve bandwidth shortages – current satcom doesn’t meet ISR needs</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">JDSB, '08</span>**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">[Report of the Joint Defense Science Board Intelligence Science Board Task Force on Integrating Sensor-Collected Intelligence, November, [[http://www.fas.org/irp/agency/dod/dsb/sensors.pdf]]]</span>
+<span style="font-size: 11px;">Just as the military [...] military and intelligence operations.</span>
+
+**UAVs solve casualties by replacing manned aircraft in dangerous situations**
+**Reinhardt et. al., '99**
+<span style="font-size: 11px;">(James Reinhardt, Lieutenant Colonel, US Army, Support Directorate (J-2) Joint Staff, with Jonathan E. James, Major, USAF, U.S. Strategic Command, and Edward Flanagan, Lieutenant Commander, US Navy, Strategy Division (J–5) at U.S. Atlantic Command, "Issues of Jointness," http://www.dtic.mil/doctrine/jel/jfq_pubs/0822b.pdf)</span>
+<span style="font-size: 11px;">Unmanned aerial vehicles (UAVs) [...] respond to external command.</span>
+
+**High body-count causes serial policy failure and culminates in global military withdrawal**
+**Bowyer, '08**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">Daren Bowyer, Ph.D. Candidate, Canfield University, 2008, “Just War Doctrine,” https://dspace.lib.cranfield.ac.uk/bitstream/1826/3011/1/Bowyer_Thesis_final.pdf</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">Policing the UN-mandated [...] either disproportionate or indiscriminate.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">Diminished US influence results in multiple scenarios for global nuclear omnicide – deterrence is key to prevent extinction</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">Kagan, '07</span>**
+<span style="font-size: 11px;">Senior Associate @ the Carnegie Endowment for International Peace, End of Dreams, Return of History, Policy Review, Hoover Institution, http://www.hoover.org/publications/policyreview/8552512.html</span>
+<span style="font-size: 11px;">Finally, there is the United States [...] provide an easier path.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">Absent US influence, multiple global hotspots would break into conflict – multiple fast wars go nuclear</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">Posen and Ross, '97</span>**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">Barry and Andrew**,**winter 1997, prof of PoliSci in the Defense and Arms Control Studies Program at MIT and prof of National Security Studies at the Naval War College, International Security, p ebsco</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">The United States can [...] not directly involved.</span>
+
+**<span style="font-family: Arial,Helvetica,sans-serif;">Specifically, US ground force deterrence solves war</span>**
+**<span style="font-family: Arial,Helvetica,sans-serif;">Walt, '02</span>**
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">Stephen, Professor of International Affairs at Harvard’s Kennedy School of Government, “American Primacy: Its Prospects and Pitfalls” Naval War College Review, Spring 2002</span>
+<span style="font-family: Arial,Helvetica,sans-serif; font-size: 11px;">A second consequence of [...] 1930s or 1940s.</span>

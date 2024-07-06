@@ -1,0 +1,5 @@
+[[toc]]
+=Affirmative= 
+=Negative= 
+
+[[include page="space.template.Footer"]]

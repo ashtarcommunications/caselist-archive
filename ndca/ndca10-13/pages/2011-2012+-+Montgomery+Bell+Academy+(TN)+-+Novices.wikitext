@@ -1,0 +1,196 @@
+======[[toc]]====== 
+
+
+
+=Affirmative= 
+==SSA== 
+===Inherency=== 
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">American Space Situational Awareness capabilities are woefully inadequate ----- </span><span style="font-size: 13pt;">Defense News ‘10</span>
+<span style="font-size: 14pt;">Gen. Robert Kehler told a crowd at the Air Force Association's national conference that the status quo is unacceptable. No one is happy with the information that they have.</span>
+
+
+<span style="font-size: 16pt;">Second, The US is attempting to improve SSA, but it’s not focusing on the right programs with enough money. ----- </span>GAO ‘11
+
+<span style="font-size: 14pt;">Two critical acquisition efforts face development challenges and risks. It is essential that these acquisitions are placed on a solid footing at the start of development to help ensure their capabilities are delivered to the warfighter as and when promised.</span>
+
+===<span style="font-size: 14pt;">Space Dominance</span>=== 
+
+<span style="font-size: 16pt;">First, U.S. satellites that our military depends on are currently vulnerable to attacks ----- Murphy 10</span>
+
+<span style="font-size: 14pt;">Collision of objects in space or an intentional attack of space capabilities through the use of an anti-satellite (ASAT) weapon can have highly destructive effects. The U.S. Air Force is investing in a number of programs that improve the ability to detect objects around and approaching satellites. Continued advancements in sensor technology, are critical steps to improving SSA and reducing the probability that new and dangerous debris is created. The vulnerability of satellites is an especially grievous problem. Satellites have revolutionized the way that the world transmits and receives information, and they play a critical role in both the commercial and military spheres. Research could lead to technology that is capable of destroying mid-Earth orbit satellites, including U.S. global positioning satellites. The threat of an attack against space assets and the risk of damage to assets from accidental collisions persists; in either case, the extreme result could be an obsolete space domain.</span>
+
+
+
+
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">Second, Space contenders are specifically targeting our poor SSA capabilities. ----- </span><span class="cite" style="font-family: Arial,sans-serif; font-size: 16pt;">Turnbull ‘08</span>
+
+<span style="font-size: 14pt;">New members cannot fully utilize space without a supporting SSA capability. China is increasing its SSA capabilities. Disturbingly, this comes at the same time that cuts and delays to US programs are having a negative impact on American SSA capabilities. The EU is also rapidly expanding its SSA capability.</span>
+
+
+
+
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">Third, Ineffective SSA degrades the credibility of U.S. 1st strike capability. ----- </span><span class="StyleStyleBold12pt" style="font-family: Arial,sans-serif; font-size: 16pt;">Morgan ‘10</span>
+
+<span style="font-size: 14pt;">First-strike instability is made worse by limitations in SSA. While the US enjoys better SSA than any other spacefaring nation, it is still dangerously limited. A natural failure could lead operators or policymakers to assume that the satellite was attacked, prompting escalation. First-strike stability in space has diminished. This leaves the US exposed to the risk of a surprise attack in space.</span>
+
+
+
+
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">Fourth, U.S. first strike credibility checks every global conflict ----- Lieber & Press ‘9</span>
+
+<span style="font-size: 14pt;">The primary purpose of U.S. nuclear forces is to deter nuclear attacks. The US arsenal should be designed to provide robust deterrence. During a conventional war the US may find itself facing nuclear-armed states. Alliances span the globe, and the US is frequently drawn into conflicts. Most of the US adversaries have developed nuclear weapons. US adversaries may use nuclear threats to compel a cease-fire. Losing a conventional war to the US would be a disastrous outcome. Overseas conflicts are limited wars only from the U.S. perspective. In future confrontations the US will undoubtedly want to prevent nuclear escalation. The leaders of U.S. adversaries will use their nuclear arsenals to force a cease-fire and remain in power.</span>
+
+
+<span style="font-size: 16pt;">Fifth, Information superiority in space is critical to sustaining hegemony ----- Baines ‘5</span>
+
+<span style="font-size: 14pt;">Outer space is of the same order of strategic importance for states in the twenty-first century as nuclear weapons were to states during the twentieth century. The ability to collect, communicate, process and protect information is the most important factor defining military power.</span>
+
+
+
+<span style="font-size: 16pt;">Sixth, Hegemony prevents global nuclear war ----- KAGAN ‘7</span>
+
+<span style="font-size: 14pt;">The unipolar system, compared to any plausible alternative is stable and less likely to produce a major war. The US is engaged in hegemonic competitions with China, Iran, and Russia. Americans are slow to withdraw. Nationalism is back, and so is competition for power. American predominance prevents rivalries from intensifying. Were the US to diminish its influence nations would settle disputes through wars. These powers possess nuclear weapons. Europe depends on the guarantee that the US could step in. In a multipolar world, that would not be possible without world war. War could erupt between China and Taiwan, Russia and Georgia, India and Pakistan, and Iran and Israel. These could draw in great powers, but they are more likely to erupt if the US weakens in East Asia. American power has a stabilizing effect. In Europe, the departure of the US could be destabilizing. The alternative to American predominance is not balance and peace. It is further competition.</span>
+
+
+===<span style="font-size: 14pt;">Miscalculation</span>=== 
+
+<span style="font-size: 16pt;">First, dangerous debris will collide with U.S. space assets. SSA is key to preventing this. ----- Spence ‘11</span>
+
+<span style="font-size: 14pt;">A piece of debris can completely destroy an operational satellite. More than half a million pieces exist. Space has become vital to military operations. In the near future, enhanced SSA capabilities will be paramount to detecting and reporting on the proliferation of space debris and ever-increasing numbers of space objects in Earth’s lower orbits.</span>
+
+
+
+<span style="font-size: 16pt;">Second, Space debris collisions destroy the economy and critical modern satellite systems ----- Global Innovation and Strategy Center ‘08</span>
+
+<span style="font-size: 14pt;">With </span><span class="UnderlineBold" style="font-size: 14pt;">tens of millions of debris fragments flying at high velocity through lower earth orbit, both human explorers and space hardware are vulnerable. Military and civilian entities are heavily reliant on services that satellites provide, and space operations are so pervasive that it is impossible to imagine the U.S. functioning without them. We rely on satellites to</span><span style="font-size: 14pt;"> verify treaty compliance, </span><span class="UnderlineBold" style="font-size: 14pt;">monitor threats and provide advance warning of missile attacks. The economy of the United States is heavily dependent on space assets in every industry. Damage might pose serious monetary repercussions throughout multiple countries. The security of space assets is not optional.</span>
+
+
+
+<span style="font-size: 16pt;">Third, Economic collapse risks nuclear war ----- Auslin and Lachman ‘9</span>
+
+<span style="font-size: 14pt;">The Depression showed how global chaos followed economic collapse. China faced upward of 70,000 labor uprisings a year. A downturn poses immediate threats to Chinese internal stability. Russia has had to put down riots in its Far East. Putin’s rule has been predicated on economic largesse. Greek, workers have already taken to the streets. Europe as a whole will face dangerously increasing tensions between native citizens and immigrants. A downturn would raise tensions inside these countries with ethnic and territorial disputes. The result may be a big bang.</span>
+
+
+
+===<span style="font-size: 14pt;">Plan Text</span>=== 
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">Thus the plan: The United States federal government should develop increased Space Situational Awareness capabilities.</span>
+
+
+===<span style="font-size: 14pt;">Solvency</span>=== 
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">First, A credible SSA system strengthens both military and civilian components of space- ensures communication and integration ----- Brown ‘08</span>
+
+<span style="font-size: 14pt;">SSA is the requisite and predictive knowledge of the space environment upon which space operations depend – including events of friendly and adversary space forces across the spectrum of conflict. SSA is the ability to discern the true nature of an event in space and take positive, full spectrum reactions to prevent a disruption to space services. The best way to achieve security is to prevent war and encourage peaceful change. We must seek to strengthen the resiliency of the international system. SSA enables command and control of space resources to ensure timely and accurate decision making for both military and non-military operators and users. It enables decision makers the ability to fully leverage and protect American space capabilities. SSA promotes open communications and provides a mechanism for escalation control. The US should seek out mutually beneficial space partnerships. With multinational cooperation to SSA, the value of shared SSA will increase exponentially. Shared SSA will increase predictability in space and reduce uncertainty and misunderstanding for any purposeful interference. Shared SSA reinforces other sharing efforts. The value and benefits are exponential.</span>
+
+
+
+
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">Second, failure to reform acquisitions will exacerbate gaps in SSA. The plan resolves flaws in the acquisition process ----- </span><span class="StyleStyleBold12pt" style="font-family: Arial,sans-serif; font-size: 16pt;">GAO ‘11</span>
+
+<span style="font-size: 14pt;">The Chinese antisatellite test</span><span class="Underline" style="font-size: 14pt;">has highlighted the need for better SSA capabilities. DOD has recognized that its existing SSA systems fall short of capability needs.Other SSA acquisition efforts are facing significant challenges and risks. If these efforts do not progress as planned, risk of continuing or worsening SSA capability gaps will result.</span>
+
+
+
+
+
+<span style="font-family: Arial,sans-serif; font-size: 16pt;">Third, Enhanced SSA solves miscalculation- tracking abilities creates distinctions between threats and non-threats ----- MacDonald ’08</span>
+
+<span style="font-size: 14pt;">SSA enables better operation of assets and provides warnings of hazards – intentional or unintentional – to allow preventive steps to be taken. Accurate SSA is needed to know if a satellite’s operations have been intentionally affected by an adversary. The US needs significant improvements in SSA in real time all activity and assessment of all threats capable of affecting US space systems. The Army has placed improved SSA near the top of its list of needs. The US would be well served by enhancing space intelligence that better understands the purpose and motivation behind the space objects being identified and tracked. The US must be able to attribute an attack to a particular country, a prerequisite to any effective retaliation strategy.</span>
+
+
+==SBMD== 
+===Plan=== 
+Plan: The United States federal government should invest in a Space BMD system.
+
+
+===Space Weaponization=== 
+First, Current U.S. assets in space are limited by a lack of missile defense in space.
+
+Lambakis 7 – Steven Lambakis, pHd, national security anmd international affairs analyst specializing in space power and policy studies for National Institute for Public policy, February 19, 2007, “Missile Defense From Space,” RealClearPolitics, http://www.realclearpolitics.com/articles/2007/02/missile_defense_from_space.html
+Political, strategic, and technological… the effectiveness calculations.
+
+Second, it is a reality that countries will try to build weapons capabilities in space
+
+Sheldon and Gray 7/7/11—John Sheldon is a PhD and Marshall Institute Fellow, and a visiting professor at the School of Advanced Air and Space Studies, Colin Gray is a PhD and Professor of International Politics and Director of the Centre for Security Studies, “Theory Ascendant? Spacepower and the Challenge of Strategic Theory” NDU Press, online: http://www.ndu.edu/press/space-Ch15.html
+"Technological competence is… not just spacepower.
+
+Thirds, absent a strong U.S. presence in space, other countries will threaten U.S. dominance, risking global war. The perception that the U.S. is moving to secure space creates an immediate deterrent effect.
+
+Dolman 10- Everett Dolman, PhD and Professor of Comparative Military Studies at the US Air Force's School of Advanced Air and Space Studies, September 2010, “The Case for Weapons in Space: A Geopolitical Assessment” APSA Annual Meeting, pg 30
+This reasoning does not… burst of economic expansion.
+
+
+Fourth, independently, China will attack US space systems now – only deploying a defense system solves for an all-out war with China.
+
+TELLIS Senior Associate at the Carnegie Endowment for International Peace 07, Ashley: Senior Associate at the Carnegie Endowment for International Peace, Senior Adviser to the Undersecretary of State for Political Affairs, former Senior Policy Analyst at the RAND Corporation
+[“China's Military Space Strategy,” Survival 49:3 p41-72, http://www.carnegieendowment.org/files/tellis_china_space1.pdf]
+
+Finally, the growing Chinese… arms race, and win.
+
+
+===EMP=== 
+First, Without a credible Space BMD, countries will use an EMP on the U.S. which would crush the economy, uniquely threatening human survival.
+Lambakis 7—Steven Lambakis, senior analyst in spacepower and policy studies at the National Institute for Public Policy, February 1, 2007, “Missile Defense From Space” Hoover Institution, Policy Review No. 141, online: http://www.hoover.org/publications/policy-review/article/6124
+National economic and commercial… as they are terrifying.
+
+
+
+Second, an EMP attack would also disable commercial satellites.
+Sirak 4 [Michael, JDW staff reporter, “US vulnerable to EMP attack,” 7/26, Jane’s, http://www.janes.com/defence/news/jdw/jdw040726_1_n.shtml]
+
+An EMP attack, for… satellites are especially vulnerable.
+
+
+
+Third, commercial satellite technology is key to deterring nuclear aggression and eventually extinction.
+Wright – ’01, Editor @ Slate, Time, and the New Republic
+Donald Rumsfeld, Space Cowboy, Wednesday, May 16, 2001, http://www.slate.com/id/106180/
+
+People sometimes call outer… species from itself.
+
+
+===Saudi Prolif=== 
+Saudi prolif spills over and escalates rapidly, causes global nuclear war
+Edelman et al. 11 *ERIC S. EDELMAN is a Distinguished Fellow at the Center for Strategic and Budgetary Assessments; he was U.S. Undersecretary of Defense for Policy in 2005-9 ANDREW F. KREPINEVICH is President of the Center for Strategic and Budgetary Assessments. *EVAN BRADEN MONTGOMERY is a Research Fellow at the Center for Strategic and Budgetary Assessments [http://www.foreignaffairs.com/articles/67162/eric-s-edelman-andrew-f-krepinevich-jr-and-evan-braden-montgomer/the-dangers-of-a-nuclear-iran, “The Dangers of a Nuclear Iran” January-February 2011]
+
+There is, however,… with unpredictable consequences.
+
+
+Egypt, Saudi Arabia and Pakistan are proliferating now and the missiles will be used – space based BMD is critical to both deterrence of acquisition and missile defense
+Pfaltzgraff et al 9(Robert, PhD and Professor of Int. Security Studies @ Tufts and President @ the IFPA, William Cleave, PhD and Professor @ Missouri State, Ilan Berman, VP for Policy @ the American Foreign Policy Council, Kiron Skinner, PhD and Fellow @ the Hoover Institution, Henry Cooper, Chairman @ High Frontier, H. Baker Spring, Research Fellow @ Heritage, Jacquelyn Davis, PhD and Executive VP @ IFPA, Mead Treadwell, Senior Fellow @ Institute of the North, Daniel Fine, PhD and Research Associate @ MIT, Robert Turner, Professor at University of Virginia, Robert Jastrow, PhD and Chairman of the Board @ the Marshall Institute, J.D. Williams, Vice Admiral of the USN, Thomas Karako, Director of Programs @ Claremont Institute, Paul Weyrich, CEO @ the Free Congress Research and Education Foundation, Brian Kennedy, President @ Claremont Institute, Lowell Wood, PhD and Visiting Fellow @ Hoover, Jeff Kueter, President @ the Marshall Institute, Eric Licht, Senior Analyst @ the Free Congress Research and Education Foundation, R. Daniel McMichael, Secretary @ the Carthage Foundation and the Sarah Scaife Foundation, “Report of the Independent Working Group on Missile Defense, the Space Relationship,& the Twenty-First Century,” Prepared by the Institute for Foreign Policy Analysis,” https://www.claremont.org/repository/docLib/200901291_iwg2009.pdf)
+
+The Threat Twenty-first… advantages, described in greater detail below.
+
+
+No one will retaliate to SBMD, destruction of missiles breaks down enemies will to fight and destroys morale psychologically
+Dinerman 8 – Senior Editor at the Hudson Institute’s New York office. He was an author of the textbook Space Science for Students and has been a part time consultant for the US Defense Department (Taylor, “Space-based missile defense and the psychology of warfare”, __http://www.thespacereview.com/article/1205/1//salathe__)
+
+Anyone who wants to… shorten the conflict.
+
+
+
+=Negative= 
+
+
+==Disadvantages== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Launches DA - Ozone and Debris Impacts</span>
+
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Tradeoff DA - Earth Science scenario</span>
+
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Politics DA - Elections with Health Care / Bioterror impact</span>
+
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Aliens DA - Human Enslavement impact</span>
+
+
+==Counterplans== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Strato-Sats CP</span>
+
+==Kritiks== 
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Heidegger K</span>
+
+<span style="background-color: rgba(255,255,255,0.917969); color: #222222; font-family: arial,sans-serif; text-align: -webkit-auto;">Death Cult K</span>

@@ -1,0 +1,267 @@
+=**AFFIRMATIVE - Port Security with NPG and Econ= 
+[[toc]]
+====__Plan__: The United States federal government should substantially increase its transportation infrastructure investment in Port Security through the Port Security Grant Program.==== 
+
+
+===Contention ONE is Inherency=== 
+====Vital port safety deadlines were missed – odds of a successful WMD attack are high- Cost and technology aren’t barriers==== 
+<span style="font-size: 13pt;">Markey et al, 12</span> – Jerrold L. Nadler, Edward J. Markey and Bennie G. Thompson are Democratic representatives from New York, Massachusetts and Mississippi, respectively. “Cargo; the Terrorists’ Trojan Horse,” New York Times, 6-27, [[http://www.nytimes.com/2012/06/27/opinion/the-dangerous-delay-on-port-security.html]].
+MILLIONS of cargo containers are unloaded from ships each year at American seaports, providing
+AND
+, to no avail. Our nation can no longer risk such delays.
+
+====Solutions exist but drastic cuts to the Port Security Grant Program destroy port security==== 
+<span style="font-size: 13pt;">Kimery, ’12</span> – Anthony, “Security, Port Authorities Associations Urge DHS To Reconsider Port Allocations,” Homeland Security (HS) Today, http://www.hstoday.us/focused-topics/counternarcotics-terrorism-intelligence/single-article-page/security-port-authorities-associations-urge-dhs-to-reconsider-port-allocations.html
+This week the Security Industry Association (SIA), along with the American Association of
+AND
+“Many of these projects are scalable and ready to be implemented now.”
+
+====The Port Security Grant Program is severely underfunded – the plan is key to fill critical infrastructure gaps and ensure effective port security==== 
+<span style="font-size: 13pt;">Holmes, 2012</span><span style="font-size: 8pt;"> (John, Deputy Executive Director, Port of Los Angeles, Testimony of Captain John M. Holmes Deputy Executive Director of Operations Port of Los Angeles Before The United States House of Representatives Appropriations Committee Subcommittee on Homeland Security, “Budget Hearing - Federal Emergency Management Agency – Director and State & Local Witnesses”, March 7, http://appropriations.house.gov/uploadedfiles/hhrg-112-ap15-jholmes-20120307.pdf, p. 1-2)</span>
+
+Since 9/11, port security has become a top priority for U.
+AND
+see a degradation of these efforts as a result of grant funding reductions.
+====<span class="StyleStyleBold12pt">Your disads are non-unique- new PSGP projects were just funded but overall funding is collapsing </span>==== 
+<span style="font-size: 13pt;">PTI, 7-9-</span>12 – Port Technology International, “Port of Oakland awarded $3.5 million in security grants,” http://www.porttechnology.org/news/port_of_oakland_awarded_3.5_million_in_security_grants/
+The Port of Oakland has been allocated more than US$3.5 million
+AND
+down from a total allocation in FY2009 of $388.6 million.
+
+<span style="font-size: 13pt;">Ports are __uniquely__ federal because the //transportation role// is inherently cross-border </span>
+<span style="font-size: 13pt;">TRB, ‘4</span> – TRANSPORTATION RESEARCH BOARDOF THE NATIONAL ACADEMIES. A group composing a major report over a span of months, composed of experts from The National Academies of Science and Engineering, The Institute of Medicine and the National Research Council. “The Marine Transportation System and the Federal Role,” Special Report 279, [[http://onlinepubs.trb.org/onlinepubs/sr/sr279.pdf]].
+The physical and use characteristics described above have inﬂuenced the¶ nature and scope of
+AND
+with funding¶ assistance and standards for design, equipage, and operations.
+
+
+
+
+===Contention 2 is npg=== 
+<span style="font-size: 13pt;">The Port Security Grant Program success is vital to fulfilling the National Preparedness Goal </span>
+<span style="font-size: 13pt;">FEMA, ’12</span> – Federal Emergency Management Agency, Port Security Grant Program, http://www.fema.gov/port-security-grant-program.
+1. What is the purpose of the FY 2012 PSGP? ¶ The purpose
+AND
+can be provided to one of the core capabilities ¶ within the NPG.
+
+<span style="font-size: 13pt;">The NPG is critical to __coordination__ against __large-scale__, __catastrophic__ events </span>
+<span style="font-size: 13pt;">Fugate, ’11</span> – Craig, Administrator of the Federal Emergency Management Agency, former Director of the Florida Division of Emergency Management, PPD-8: Announcing the National Preparedness Goal, [[http://www.whitehouse.gov/blog/2011/10/07/ppd-8-announcing-national-preparedness-goal]].
+As part of the implementation of Presidential Policy Directive 8 (PPD-8),
+AND
+you can participate. Thank you for your commitment to our national preparedness.
+
+<span style="font-size: 13pt;">Increase __federal__ port __funding__ //this year// is vital – otherwise key gaps will crush ports </span>
+<span style="font-size: 13pt;">Nagle and Bridges, 10-5</span>-12 – Nagle serves as the president and CEO, American Association of Port Authorities. Bridges serves as the executive director, Virginia Port Authority and chairman, American Association of Port Authorities. “America's seaports critical to US jobs, economy,” The Hill, [[http://thehill.com/blogs/congress-blog/campaign/260527-americas-seaports-critical-to-us-jobs-economy]].
+With the cooler temperatures of fall now upon us, retailers across the country have
+AND
+move goods throughout the country and beyond for many more years to come.
+
+<span style="font-size: 13pt;">The NPG is //necessary// to solving __each__ internal link </span>
+<span style="font-size: 13pt;">FEMA, ’11</span> – “National Preparedness <span style="font-size: 6pt;">¶ </span>Goal,” First Edition<span style="font-size: 6pt;">¶ </span>September 2011, Department of Homeland Security, [[http://www.fema.gov/pdf/prepared/npg.pdf]].
+In accordance with PPD-8, and in coordination with Federal departments and agencies
+AND
+as ¶ part of the recurring update of the Strategic National Risk Assessment.
+
+<span class="Heading4Char">__<span style="font-size: 13pt;">Cybersecurity</span>__</span><span style="font-size: 13pt;"> is vital to prevent __escalatory__ __great power__ nuclear war</span>
+<span style="font-size: 13pt;">Fritz, 9</span> – Masters in International Relations, Researcher for International Commission on Nuclear Nonproliferation and Disarmament (Jason, 2009, “Hacking Nuclear Command and Control,” http://icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf)
+This paper will analyse the threat of cyber terrorism in regard to nuclear weapons.
+AND
+its own, without the need for compromising command and control centres directly.
+
+<span class="Heading4Char">__<span style="font-size: 13pt;">Pandemics</span>__</span><span style="font-size: 13pt;"> at ports //instantly// kill __billions__ </span>
+<span style="font-size: 13pt;">Greger, ‘6</span>**–** Director of Public Health and Animal Agriculture at The Humane Society of the United States. Michael, graduate of the Cornell University School of Agriculture and the Tufts University School of Medicine. Also an internationally recognized lecturer, he has presented at the Conference on World Affairs, the National Institutes of Health, and the International Bird Flu Summit, among countless other symposia and institutions. “Population Bust” http://www.Birdflubook.com]
+A pandemic today could be many times worse than the pandemic of 1918, the
+AND
+…. We are half a step away from a worldwide pandemic catastrophe.”579
+
+<span style="font-size: 13pt;">Pandemics outweigh on __probability__ and __size__ </span>
+<span style="font-size: 13pt;">Zakaria, ‘5</span><span style="font-size: 8pt;">. </span>Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, [[http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html]]<span style="font-size: 8pt;">. </span>
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+
+<span class="Heading4Char">__<span style="font-size: 13pt;">Natural disasters</span>__</span><span style="font-size: 13pt;"> threaten human extinction __faster__ than any warscenario</span>
+<span style="font-size: 13pt;">Sid-Ahmed, ‘5</span> – Yeah, it’s the same guy [Mohamed. “The post-earthquake world.” Al-Ahram Weekly Online. Jan 6-12, 2005. <span style="color: blue;">[[http://weekly.ahram.org.eg/2005/724/op3.htm]]</span>]
+The human species has never been exposed to a natural upheaval of this magnitude within
+AND
+now forced to live with the possibility of an imminent demise of humankind.
+
+<span class="Heading4Char">__<span style="font-size: 13pt;">Transnational threats</span>__</span><span style="font-size: 13pt;"> are __try or die__ __for human extinction__ </span>
+<span style="font-size: 13pt;">Feffer, ‘9</span>. John, Contributing Member/Researcher at Foreign Policy in Focus, “World Beat,” FPIF, Feb 17. Vol. 4 No. 7. Lexis.
+The neoconservative movement thrilled to what it called the "unipolar moment." After the
+AND
+an empire. I can hear the adding machine totting up the numbers.
+
+<span class="Heading4Char">//<span style="font-size: 13pt;">Only</span>//</span><span style="font-size: 13pt;"> the NPG can develop a __framework__ for //effective// __risk management__ </span>
+<span style="font-size: 13pt;">FEMA, 7-10</span> – Federal Emergency Management Agency, “Presidential Policy Directive 8: National Preparedness,” Updated on July 10th (see the note included in the evidence below – control+F “Update – July 10, 2012,” [[http://www.fema.gov/presidential-policy-directive-8-national-preparedness]].
+FEMA has developed a set of Frequently Asked Questions (FAQ) pertaining to the
+AND
+September 2011. For questions, please contact us at PPD8-Engagement.
+
+===Contention THREE is ECON=== 
+====<span class="StyleStyleBold12pt">It drives __one-third__ of the global economy – ports are the //most// __valuable__ and __vulnerable__ targets</span>==== 
+<span style="font-size: 13pt;">Abt, ‘3</span> – Ph.D., Clark C., Risk analysis prepared for US DOT/RSPA/Volpe National Transportation. “The Economic Impact of Nuclear Terrorist Attacks on Freight Transport Systems in an Age of Seaport Vulnerability,” Apr 23, [[http://www.abtassociates.com/reports/es-economic_impact_of_nuclear_terrorist_attacks.pdf]].
+Today a third of the world economy, and a quarter of America’s, depends
+AND
+pound nuclear weapon could be delivered to the seaport and detonated before unloading.
+
+====A SINGLE attack on U.S. ports creates a GLOBAL EMBARGO on trade==== 
+<span style="font-size: 13pt;">Flynn, ‘3</span> – Stephen, Ph.D.,Commander, U.S. Coast Guard (ret.)Senior Fellow in National Security Studies at CFR, , Prof @ Northeastern U, “The Fragile State of Container Security,” Written Testimony before a hearing of theU.S. Senate Governmental Affairs Committee, [[http://www.cfr.org/defensehomeland-security/fragile-state-container-security/p5730]].
+A year later I joined with former senators Warren Rudman and Gary Hart in preparing
+AND
+—as would much of the freight movements that make up international trade.
+====It would immediately spillover causing economic gridlock around the world==== 
+<span style="font-size: 13pt;">Schanzer and Eyerman, 2010</span><span style="font-size: 8pt;"> (David H., Associate Professor Sanford School of Public Policy at Duke University, Joe, Senior Research Methodologist Director, Health Security Program RTI International, “Strategic Risk Management in Government: A Look at Homeland Security”, Homeland Security Council; 3/31, http://www.homelandcouncil.org/pdfs/digital_library_pdfs/ibmstrategicriskmanagementingovt.pdf)</span>
+
+Scenario Three: Direct Attack on a U.S. Seaport Finally, terrorists
+AND
+shipping for almost every consumer need, would quickly run out of food.
+
+====We have three scenarios:==== 
+====Scenario 1 GLOBAL ECONOMIC CHAOS:==== 
+====Global economic chaos guarantees Russia-China war, instability in Korea and Iran, and disease spread – it accesses every major impact==== 
+**<span style="font-size: 13pt;">Green and Schrage, 2009</span>**<span style="font-size: 8pt;"> (Michael J., Senior Advisor and Japan Chair at the Center for Strategic and International Studies, Stephen P., Associate Professor at Georgetown University and CSIS Scholl Chair in International Business also a former senior official with the Office of the U.S. Trade Representative, “Its Not Just the Economy”, Asia Times, http://www.atimes.com/atimes/Asian_Economy/KC26Dk01.html)</span>
+
+Facing the worst economic crisis since the Great Depression, analysts at the World Bank
+AND
+demonstration effect of liberal norms we are urging China to embrace at home.
+
+====Free trade creates structural disincentives against war and it’s reverse-causal==== 
+<span style="font-size: 13pt;">Griswold, ‘11</span> – Daniel, Director of the Center for Trade Policy Studies at Cato. “Free Trade and the Global Middle Class,” Hayek Society Journal, v9, [[http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf%20/|http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf ]]
+Our more globalized world has also yielded a “peace dividend.” It may not
+AND
+and less likely those gains will be destroyed by civil conflict and war.
+
+====Scenario 2 is AFRICA==== 
+====US financial crisis causes African instability==== 
+**Bakrania 9** - Shiv Bakrania is the Manager of the Global Facilitation Network For Security Sector Reform and Brian Lucas, The Impact of the Financial Crisis on Conflict and State Fragility in Sub-Saharan Africa July 09 [[http://epapers.bham.ac.uk/643/1/EIRS6.pdf]]
+
+The global financial crisis was triggered by the bursting of the United States housing bubble
+AND
+world, an exacerbation of resource scarcity could increase conflict across the continent.
+====Escalates to great power war==== 
+**Glick 7** <span style="font-size: 8pt;">– Caroline, 12/12, the senior Middle East fellow at the Center for Security Policy in Washington, D.C., The Center for Security Policy is a non-profit, non-partisan national security organization that specializes in identifying policies, actions, and resource needs that are vital to American security and then ensures that such issues are the subject of both focused, principled examination and effective action by recognized policy experts, appropriate officials, opinion leaders, and the general public, “Condi's African holiday”, [[http://www.centerforsecuritypolicy.org/home.aspx?sid=56&categoryid=56&subcategoryid=90&newsid=11568]])</span>
+
+__The Horn of Africa is a__<span style="font-size: 8pt;"> dangerous and </span>**__strategically vital__** __place. Small wars__<span style="font-size: 8pt;">, which rage continuously, can </span>__easily escalate into big wars. Local conflicts have regional and **global aspects**. All of the conflicts in this tinderbox, which controls shipping lanes from the Indian Ocean into the Red Sea, can potentially give rise to regional, and__<span style="font-size: 8pt;"> indeed </span>**__global conflagrations between competing__** <span style="font-size: 8pt;">regional actors and </span>**__global powers__**<span style="font-size: 8pt;">.</span>
+
+====Scenario 3 is SOUTH CHINA SEA==== 
+====U.S. trade prevents __several__ destabilizing scenarios for allied build-up in the South China Sea that wreck stability==== 
+<span style="font-size: 13pt;">Glaser, ’12</span> – Senior Fellow, Center for Strategic and International Studies – Bonnie S., “Armed Clash in the South China Sea,” Council on Foreign Relations (CFR), April, [[http://www.cfr.org/east-asia/armed-clash-south-china-sea/p27883]].
+<span style="font-size: 8pt;">Alliance security and regional stability. </span>U.S. allies<span class="StyleBoldUnderline"> and friends </span>around the South China Sea //look to the//
+United States to maintain free trade, safe and secure sea lines of communication (
+AND
+the claimants from benefiting from the South China's Sea's proven and potential riches.
+====South China Sea conflict goes nuclear==== 
+<span style="font-size: 13pt;">Nikkei, ‘95</span> – [The Nikkei weekly, Developing Asian nations should be allowed a grace period to allow their economies to grow before being subjected to trade liberalization demands, says Malaysian Prime Minister Mahathir Mohamad, July 3, 1995, lexis]
+Developing Asian nations should be allowed a grace period to allow their economies to grow
+AND
+.S., leading to full-scale, even nuclear, war.
+
+====Defer Aff – more than 2 out of 3 of scholars say Asian conflict outweighs==== 
+<span style="font-size: 13pt;">Tierney et al, ‘9</span>. Michael J. Tierney, director of international relations and Weingartner associate professor of government, all at the College of William and Mary. Amy Oakes, an assistant professor of government, Susan Peterson, dean of undergraduate studies and professor of government, and Daniel Maliniak, a Ph.D. student at U.C. San Diego. “Inside the Ivory Tower,” Foreign Policy, March/April, [[http://www.foreignpolicy.com/story/cms.php?story_id=4685&print=1]].
+Public Enemy No. 1 Political pundits and journalists may buzz reflexively over the latest
+AND
+reported it would be the region of greatest strategic importance in 20 years.
+====Independently: Ensuring available PSGP funds is key to stop the trafficking of people and narcotics.==== 
+<span style="font-size: 13pt;">AAPA 2010</span><span style="font-size: 12pt;">.</span> AAPA. "10 Years After 9/11, Security Still a Top Priority of U.S. Ports." //-- ALEXANDRIA, Va., Sept. 1, 2011 /PRNewswire-USNewswire/ --//. American Association of Port Authorities, 1 Sept. 2011. Web. 24 June 2012. <http://www.prnewswire.com/news-releases/10-years-after-911-security-still-a-top-priority-of-us-ports-128888213.html>.
+Among the materials Navy SEALS found in Osama Bin Laden's Pakistan hideout were plans showing
+AND
+job creation and economic prosperity, and important partners in our national defense."
+====We have a moral obligation to reject rape – it’s a type of sexual violence that’s in the spirit of murder and destroys value to life.==== 
+<span style="font-size: 13pt;">Wing 97</span>.(PROF LAW U IOWA, CONCEPTUALIZING VIOLENCE, 60 ALB. L. REV. 943)
+The multiple effect of violence on these womyn, simultaneously coming from outside and inside
+AND
+life or of an entire culture." 42 and misery of others. \
+
+
+
+=**Negative= 
+
+==<span style="background-color: #ffffff;">Fiscal Cliff DA - Glenbrooks 1nc</span>== 
+
+**Compromise on the fiscal cliff is likely despite GOP opposition – Obama’s political capital is key**
+**Davis and Dorning, 11-8** – Julie Hirschfeld Davis is an enterprise reporter in the Washington bureau of The Associated Press and Mike Dorning reporter for Bloomberg News 11-8-2012 http://www.bloomberg.com/news/2012-11-08/obama-success-on-fiscal-cliff-may-hinge-on-better-congress-ties.html
+
+President Barack Obama, his re- election victory sealed, is reaching out to
+AND
+the end, and interacting will help you do that,” Griffin said.
+
+**The plan drains political capital – even once-popular transportation issues are political firestorms**
+**Freemark ‘12**
+(Yonah – Master of Science in Transportation from the Massachusetts Institute of Technology; Bachelor of Arts in Architecture, Department of Civil and Environmental Engineering, Yale University with Distinction. Also a freelance journalist who has been published in Planning Magazine; Next American City Magazine; Dissent; The Atlantic Cities; Next American City Online; and The Infrastructurist – He created and continues to write for the website The Transport Politic – The Transport Politic – “On Infrastructure, Hopes for Progress This Year Look Glum” – January 25th, 2012 – http://www.thetransportpolitic.com/2012/01/25/on-infrastructure-hopes-for-progress-this-year-look-glum/)
+
+President Obama barely mentions the need for improvements in the nation’s capital stock in his
+AND
+more than replicate the existing law, perhaps with a few bureaucratic reforms.
+
+**Failure to reach a deal causes sequestration – that causes a double-dip recession and war in the Middle East**
+**Hutchison, 9/21** – U.S. Senator from the great state of Texas, 9/21/2012 (Kay Bailey, “A Looming Threat to National Security,” States News Service, Lexis)
+
+Despite warnings of the dire consequences, America is teetering at the edge of a
+AND
+the harsh tax increases that could stall economic growth and punish working families.
+
+**Middle East goes nuclear**
+James A. **Russell, ‘9** – Senior Lecturer, National Security Affairs, Naval Postgraduate School, ‘9 (Spring) “Strategic Stability Reconsidered: Prospects for Escalation and Nuclear War in the Middle East” IFRI, Proliferation Papers, #26, http://www.ifri.org/downloads/PP26_Russell_2009.pdf
+
+Strategic stability in the region is thus undermined by various factors: (1)
+AND
+the peoples of the region, with substantial risk for the entire world.
+
+==Food (Soy) DA 1nc== 
+
+**U.S. soy production and exports will plummet – the plan leads to soy surpluses**
+**Southeast Farm Press, 11-2**-12 – Five ways U.S. transportation infrastructure could hurt soybean growers, http://southeastfarmpress.com/soybeans/five-ways-us-transportation-infrastructure-could-hurt-soybean-growers
+
+Just as U.S. soy exports have increased, so has the importance
+AND
+in labor earnings — are felt throughout the U.S. economy.
+
+**Soy surplus causes genetic monocultures and fuels CAFOs**
+**Mercola, ’12** – PhD, “How Factory Farmers Use the Media To Distort Reality and Make Them Look Good!” http://articles.mercola.com/sites/articles/archive/2012/03/28/cafo-vs-organic-farm-environment.aspx
+
+The U.S. government has a history of supporting CAFOs, both by
+AND
+of the 21st century and 2050." Does this sound sustainable to you?
+
+**Loss of genetic diversity causes extinction**
+**Boyce, ‘4** [James K., Director, Program on Development, Peacebuilding, and the Environment, Political Economy¶ Research Institute, University of Massachusetts & Department of Economics & Political Economy Research Institute University of Massachusetts Amherst “A future for small farms? Biodiversity and Sustainable Agriculture” Political Economy Research Institute, Working Papers Series, Number 86, ideas.repec.org/p/uma/periwp/wp86.html]
+
+There is a future for small farms. Or, to be more precise,
+AND
+globalization, all of us share responsibility for the cultivation of agricultural biodiversity.
+
+**CAFOs lead to avian flu spread**
+**CQ, ‘7** [Weeks, J. (2007, January 12). Factory farms. CQ Researcher, 17, 25-48. Retrieved July 28, 2008, from CQ Researcher Online, http://library.cqpress.com/cqresearcher/cqresrre2007011200]
+Then in 2003 and '04, a deadly strain of avian flu (H5N1)
+AND
+animal-borne diseases could spread readily through a centralized national food industry.
+
+**That outweighs the Aff on probability and magnitude**
+**Zakaria, ‘5**. Fareed, “A Threat Worse than Terror,” 10-31, Newsweek, http://www.fareedzakaria.com/ARTICLES/newsweek/103105.html.
+A flu pandemic is the most dangerous threat the United States faces today," says
+AND
+for the first time. No such expertise exists for today's deadliest threat.
+
+==Positive Peace K - 1nc== 
+
+**The 1AC’s epistemology views peace as the absence of war – this perpetuates violent militarism and structural violence**
+**Kim 87** [Ha Poong, Philosophy Department, Eastern Illinois University, USA Bulletin of Peace Proposals, Vol. 18, No. 1, 1987]
+
+Peace denotes a nonwarring condition. This condition may be consequent upon a particular human
+AND
+a utopian one: it is a relation humanity is fully capable of.
+
+**Preventing structural violence is an ethical decision-making rule – it’s the root cause and outweighs the case**
+Michael E. **Nielsen**, Associate Professor of Psychology at Georgia Southern University, **2004** (“Mormonism and Psychology: A Broader Vision for Peace,” Dialogue: A Journal of Mormon Thought, Volume 37, Issue 1, Spring, Available Online at http://www.psychwww.com/psyrelig/peace.htm, Accessed 08-02-2010)
+
+Structural violence refers to aspects of society that limit people’s ability to reach their potential
+AND
+of citizenship.[40] Similar problems affect minority groups throughout the world.
+
+**The alternative is to reject the 1AC and affirm linguistic nonviolence as part of an affirmation of domestic and global justice**
+William C. **Gay**, Professor of Philosophy at University of North Carolina at Charlotte, **1998** (“The Practice of Linguistic Non-Violence,” Peace Review, Volume 10, Issue 4, December, Available Online via Academic Search Elite)
+
+As should be obvious, "linguistic nonviolence" is the antonym to "linguistic
+AND
+of irrelevant factors like race, gender, class, or sexual orientation.

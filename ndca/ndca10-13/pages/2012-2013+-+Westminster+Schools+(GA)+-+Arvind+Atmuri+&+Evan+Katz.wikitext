@@ -1,0 +1,604 @@
+[[toc]]
+=Info= 
+<<THIS IS A DEFUNCT PARTNERSHIP!!! If you are looking for current partnerships, Evan is with John (<span style="line-height: 1.5;">http://wiki.debatecoaches.org/2012-2013+-+Westminster+Schools+%28GA%29+-+Evan+Katz+%26+John+Shen) and Arvind is with Eric (http://wiki.debatecoaches.org/2012-2013+-+Westminster+Schools+%28GA%29+-+Arvind+Atmuri+%26+Eric+Odermatt). >></span>
+
+If you have aff questions, email eakatz123@gmail.com
+If you have neg questions, email aatmuri@gmail.com
+
+Also, we've only put cites up for offense we've read in a round on the aff, and shells of off-case positions we've gone for in the 2NR (except for the Elections DA)
+
+Full text will be provided upon emailed request.
+
+#relentless
+=Affirmative= 
+==<span style="font-size: 1.4em;">Port Dredging 1AC - Ohio Valley</span>== 
+===Panamax Advantage=== 
+**American ports are currently unable to handle post-Panamax supertankers, which will shift commerce away from the U.S. – a substantial investment in dredging boosts economic competitiveness and sustains job growth**
+**JOC, 12**<span style="font-size: 8pt;">– cites newest ASCE report on economic analysis on port and channel deepening (The Journal of __[[#|Commerce Online]]__, “ASCE Releases New Economic Analysis Revealing Far-Reaching Impacts of Under-Investing in our Nation’s Ports and Inland Waterways”, 9/13/12, http://www.joc.com/press-release/asce-releases-new-economic-analysis-revealing-far-reaching-impacts-under-investing-our)</span>
+
+<span class="StyleBoldUnderline">“</span>Congestion and delays<span class="StyleBoldUnderline"> lead...importance of our nation’s ports.”</span>
+
+**Multiple internal links to the economy—**
+**__First__ are jobs – they’re key to consumer confidence and economic growth**
+**Tyson, 11**<span style="font-size: 8pt;">– Professor at the Haas __[[#|School of Business]]__ of UC-Berkeley, PhD in Economics at MIT, BA Summa Cum Laude in Economics at __[[#|Smith College]]__, former Chair of the US President’s Council of Economic Advisers, served as the Director of the National Economic Council (Laura, “What it will take for President Obama and big business to bring back American jobs”, The Washington Post, 9/18/11, [[http://www.washingtonpost.com/national/on-leadership/for-president-obama-and-american-business-fixing-the-us-jobs-deficit/2011/08/18/gIQAhW8ZNJ_story.html]],)</span>
+
+__The immediate crisis confronting__...<span style="font-size: 8pt;">in the next few years.</span>
+
+**__Second__ is economic competitiveness – it allows the U.S. to promote its economic model – the alternative is Chinese mercantilism, which erodes globalization**
+**Posen, 9**<span style="font-size: 8pt;"> – Deputy Director and senior fellow of the Peterson Institute for International Economics (Adam, “Economic leadership beyond the crisis,” http://clients.squareeye.com/uploads/foresight/documents/PN%20USA_FINAL_LR_1.pdf) EK</span>
+
+<span style="font-size: 8pt;">In the postwar period, </span><span class="StyleBoldUnderline">US </span>power...<span style="font-size: 8pt;">the following priority measures.</span>
+
+**That leads to resource wars, genocide, rogue nations, and World War III – risks extinction**
+**Panzner, 8**<span style="font-size: 8pt;"> – faculty at the New York __[[#|Institute of Finance]]__, 25-year veteran of the global stock, bond, and __[[#|currency markets]]__ who has worked in New York and London for HSBC, Soros Funds, ABN Amro, Dresdner Bank, and JPMorgan Chase (Michael, “Financial Armageddon: Protect Your Future from Economic Collapse,” p. 136-138) EK</span>
+
+<span class="StyleBoldUnderline">Continuing </span>calls for curbs...__beginnings of a new world war.__
+
+**__Third__** **are foreign customers – the perception of a federal commitment to ports is vital to retain them – otherwise economic recovery is impossible**
+**Calhoun 11**<span style="font-size: 8pt;"> – President of __[[#|Cargo Carriers]]__ (Cargill) and Chairman of Waterways Council, Inc. (Rick, “DREDGING FOR PROSPERITY”, Marine Log, August, http://proxy.lib.umich.edu/login?url=http://search.proquest.com.proxy.lib.umich.edu/docview/889143450?accountid=14667”, ProQuest)//</span>
+
+//<span style="font-size: 8pt;">Just like the nation itself, </span>__our__...<span style="font-size: 8pt;">inland waterways transportation system.</span>//
+
+//**__Fourth__ is trade – ports are key to facilitate __[[#|international trade]]__, but a federal investment is necessary to prevent losing more than a quarter of GDP**//
+//**Nagle, 11**<span style="font-size: 8pt;"> – President and CEO of the American Association of Port Authorities (December 2011, Kurt, Industry Today, “Association: American Association of Port Authorities; Port-Related Infrastructure Investments Can Reap Dividends,” vol. 14, no. 3, http://www.industrytoday.com/article_view.asp?ArticleID=F370)</span>//
+
+//<span style="font-size: 8pt;">It seems </span><span class="StyleBoldUnderline">the U</span><span style="font-size: 8pt;">nited </span><span class="StyleBoldUnderline">S</span><span style="font-size: 8pt;">tates </span><span class="StyleBoldUnderline">willingly...</span><span style="font-size: 8pt;">maintain federal navigation channels.</span>//
+
+//**<span class="StyleStyleBold12pt">Economic decline triggers great power wars – statistics prove</span>**//
+//**Royal et al., 10**<span style="font-size: 8pt;"> –Director of Cooperative Threat Reduction at the DoD (Jedidiah, M. Phil – Candidate at the University of New South Wales, “Economic Integration, Economic Signaling and the Problem of Economic Crises,” </span>//Economics of War and Peace: Economic, Legal<span style="font-size: 8pt;">and Political Perspectives</span>//<span style="font-size: 8pt;">, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, 2010, ISBN 0857240048, p. 213-215)</span>
+
+<span style="font-size: 8pt;">Less intuitive is how </span>__periods__...<span style="font-size: 8pt;">be considered ancillary to those views.</span>
+
+===**Maritime Advantage**=== 
+**The maritime industry is currently falling victim to labor problems and the Panama Canal expansion will only exacerbate the situation**
+**Ryan, 12**<span style="font-size: 8pt;"> – Reporter for the Houston Business Journal, covers </span><span style="color: #1b1b1b; font-size: 8pt;">manufacturing, technology, “the Port”, and logistics</span><span style="font-size: 8pt;"> (Molly,“</span><span style="color: #1b1b1b; font-size: 8pt;">Maritime industry struggles with labor supply issues as industry growth picks up”, </span><span style="font-size: 8pt;">Houston Business Journal, 7/27/12, [[http://www.bizjournals.com/houston/print-edition/2012/07/27/maritime-industry-struggles-with-labor.html]]) EK</span>
+
+__When business is booming__<span style="font-size: 8pt;"> at... used to running very lean.”</span>
+
+**Dredging is a “make or break” for the maritime industry – it’s the __only__ way to resolve labor problems and other issues within the industry**
+
+**Weakley, 8**<span style="font-size: 8pt;"> – president of the Lake Carriers’ Association (James, “Realize America’s Maritime Promise”, Harbor Maintenance Trust Fund Fairness Coalition, 4/30/08, [[http://www.ramphmtf.org/speeches_043008.html]])</span>
+
+__America’s deep-draft navigation__...__quickly lose its efficiencies.__<span style="font-size: 6pt;">¶</span>
+
+**We’ll isolate 2 scenarios—**
+**__First__****, the maritime industry is key to naval readiness**
+**AMP, 12**<span style="font-size: 8pt;"> – dedicated to educating America on the economic, national security, environmental and safety benefits of the maritime industry (American Maritime Partnership, “U.S. TRANSCOM General Says Domestic Maritime Industry is "Fourth Arm of Defense”, 5/22/12, [[http://www.americanmaritimepartnership.com/news/2012/052212%20NMD.html]])</span>
+
+__U.S. TRANSCOM Commanding General__...__moved to Afghanistan and Iraq.__
+
+**Naval power deters great power wars and deescalates conflict – current land retrenchment means boosting capabilities now is key**
+
+**England et al., 11**<span style="font-size: 8pt;"> – former secretary of the Navy (Gordon, General James Jones is a former commandant of the Marine Corps. Admiral Vern Clark is a former chief of naval operations, “The Necessity of U.S. Naval Power,” 7/11/11, [[http://gcaptain.com/necessity-u-s-naval-power?27784]])</span>
+
+<span style="font-size: 8pt;">All our citizens, and especially our...</span>__meet the challenges of the future.__
+
+**No offense – naval power maintains allied assurance with a light footprint**
+**McKeon, 12**<span style="font-size: 8pt;"> – House Armed Services Committee Chairman(Howard P. "Buck", “FISCAL YEAR 2013 NATIONAL DEFENSE AUTHORIZATION BUDGET REQUESTS FROM U.S. CENTRAL COMMAND, U.S. SPECIAL OPERATIONS COMMAND AND U.S. TRANSPORTATION COMMAND”, 3/7/12, US House of Representatives, Committee on the Armed Services One Hundred Twelfth Congress, Second Session, pdf)</span>
+
+<span style="font-size: 8pt;">With the withdrawal of our...</span>__and rapid projection of power in.__
+
+**__Second__, the** **maritime industry is key to sealift capabilities**
+
+**NLUS, 12**<span style="font-size: 8pt;"> – since 1902, the NLUS has sought to provide a stronger sea voice to Congress and to the American people, (Navy League of the United States, “America’s Maritime Industry: the foundation of American seapower”, 5/7/12, [[http://www.navyleague.org/files/americas-maritime-industry.pdf]])</span>
+
+__Since the earliest days__...__military’s capabilities for war__<span style="font-size: 8pt;">.” </span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> 10</span>
+
+**Sealift is key to power projection**
+**Conway et al., 7**<span style="font-size: 8pt;"> (James T., General, U.S. Marine Corps, Gary Roughead, Admiral, U.S. Navy, Thad W. Allen, Admiral, U.S. Coast Guard, “A Cooperative Strategy for 21st Century Seapower,” October, [[http://www.navy.mil/maritime/MaritimeStrategy.pdf]])</span>
+
+<span style="font-size: 8pt;">Deter major power war...</span>__enable extended campaigns ashore.__
+
+**Military sealift is key to overall deterrence and conflict de-escalation – we control the ceiling on all war impacts**
+**Hickins, 9**<span style="font-size: 8pt;"> – Colonel (Kenneth, “Strategic Mobility: Forgotten Critical Requirement of the Contemporary Operational Environment”, US Army, 3/30/09, http://www.dtic.mil.proxy.lib.umich.edu/cgi-bin/GetTRDoc?AD=ADA494718)</span>
+
+<span class="StyleBoldUnderline">As I stated at the beginning...operational and strategic success.</span>
+
+**Hegemony prevents war – decline causes regional conflicts and scenarios for nuclear war**
+**Brzezinski, 12**<span style="font-size: 8pt;"> – national security advisor under U.S. President Jimmy Carter (Zbigniew, </span><span class="StyleBoldUnderline" style="font-size: 8pt;">“8 Geopolitically Endangered Species”, Foreign Policy, January-February 2012, http://www.foreignpolicy.com/articles/2012/01/03/8_geopolitically_endangered_species?page=full</span><span style="font-size: 8pt;">)</span>
+
+__With the decline of America's__...<span style="font-size: 8pt;">of America's Persian Gulf allies. </span>
+
+===<span style="font-size: 8pt;">Plan Text</span>=== 
+<span style="font-size: 8pt;">**Same as Michigan**</span>
+
+===<span style="font-size: 8pt;">Solvency</span>=== 
+**<span style="font-family: Georgia,serif; font-size: 11pt;">Federal action is necessary – multiple reasons</span>**
+**__<span style="font-family: Georgia,serif; font-size: 11pt;">First</span>__****<span style="font-family: Georgia,serif; font-size: 11pt;">, port infrastructure is under federal jurisdiction and federal action is vital to leadership – all other actors fail</span>**
+**AAPA, 11**<span style="font-size: 8pt;"> – represents 160 of the leading seaport authorities in the United States, Canada, Latin America and the Caribbean and more than 300 sustaining and associate members, firms and individuals with an interest in seaports (American Association of Port Authorities, “The U.S. Government’s Historic Role in Developing and Maintaining Landside and Waterside Connections to Seaports”, March 2011, [[http://aapa.files.cms-plus.com/PDFs/Transportation%20and%20the%20Constitution1.pdf]])</span>
+
+<span style="font-size: 8pt;">Over time these constitutional responsibilities...</span><span class="StyleBoldUnderline">be recognized and prioritized</span><span style="font-size: 8pt;">.</span>
+
+**__Second__, federal regulations prevent other actors from solving – streamlining is key**
+**Anderson, 11**<span style="font-size: 8pt;"> – Chief Executive Officer of the Jacksonville Port Authority (JAXPORT) (A. Paul, “testimony of A. Paul Anderson Chief Executive Officer of the Jacksonville Port Authority (JAXPORT) for the Record of the united States House of Representatives Transportation and Infrastructure Committee Subcommittee on Water Resources and the Environment Hearing: “The Economic Importance of Seaports: Is the United States Prepared for 21st Century Trade Realities?””, 10/26/11, [[http://republicans.transportation.house.gov/Media/file/TestimonyWater/2011-10-26%20Darcy.pdf)/MM|http://republicans.transportation.house.gov/Media/file/TestimonyWater/2011-10-26%20Anderson.pdf)]] MM</span>
+
+<span class="StyleBoldUnderline">With increasingly larger ships...</span>projects is **fundamentally broken**<span style="font-size: 8pt;">.</span>
+
+**__Third__, it’s vital to expediting new projects and coordinating agencies – it creates faster development**
+**Woodley, 8**<span style="font-size: 8pt;"> – Chairman – Permanent International Association of Navigation Congresses, USA (John Paul, “Dredging key to keeping nation’s economy afloat”, Seaports Magazine, 2008, [[http://www.aapaseaports.com/pdf_issues/AAPASeaports_Summer2008.pdf]], Summer) EL </span>
+
+<span style="font-size: 8pt;">Like many nations, </span>__the United__...__strong for generations to come.__
+
+**__Fourth__, regulations mean any new projects will take decades unless the federal government expedites construction**
+**Nagle, 12**<span style="font-size: 8pt;">- President and CEO of the American Association of Port Authorities (Kurt J., “Testimony of Kurt J. Nagle President and CEO of the American Association of Port Authorities Before the United States House of Representatives Appropriations Committee Energy and Water Development, and Related Agencies Subommittee”, Budget Hearing- U.S. Army Corps of Engineers, Assistant Secretary, Chief of Engineers, 3/7/12,[[http://aapa.files.cms-plus.com/PDFs/EWTestimony%20Mar2012%20Final.pdf)/MM| http://aapa.files.cms-plus.com/PDFs/EWTestimony%20Mar2012%20Final.pdf]]) MM</span>
+
+<span class="StyleBoldUnderline">First, </span>the __[[#|funding]]__ level of the...<span style="font-size: 8pt;">challenges of today and tomorrow.</span>
+==<span style="font-size: 1.4em;">Port Dredging 1AC - Carrollton</span>== 
+<span style="font-size: 1.4em;">Same as Michigan</span>
+==<span style="font-size: 1.4em;">Port Dredging 1AC - Michigan</span>== 
+===<span style="font-size: 1.1em;">Economy Advantage</span>=== 
+**Panama Canal expansion disrupts trade routes – federal investment is required for ports to compete with post-Panamax ships**
+**JOC, 9/13**<span style="font-size: 8pt;">– cites newest ASCE report on economic analysis on port and channel deepening (The Journal of Commerce Online, “ASCE Releases New Economic Analysis Revealing Far-Reaching Impacts of Under-Investing in our Nation’s Ports and Inland Waterways”, 9/13/12, http://www.joc.com/press-release/asce-releases-new-economic-analysis-revealing-far-reaching-impacts-under-investing-our)</span>
+
+<span class="StyleBoldUnderline">“</span>Congestion and delays lead to...<span class="StyleBoldUnderline">importance of our nation’s ports.”</span>
+
+**The plan solves 3 internal links—**
+**__First__, allowing domestic port capabilities to atrophy halts growth and increases unemployment – only the aff triggers __[[#|job]]__ growth and maintains competitiveness**
+**Bridges, 9/20**<span style="font-size: 8pt;"> – Chairman of the Board of the American Association of Port Authorities, Executive Director, Virginia Port Authority (Jerry A., “Hearing: Water Resources Development Act: Growing the Economy and Protecting Public Safety”, 9/20/12, <span style="background-color: initial;">[[http://aapa.files.cms-plus.com/Senate%20EPW%20WRDA%202012%20Hearing%20Bridges%20Testimony%20on%2020SEP2012.pdf]]</span>)</span>
+
+<span style="font-size: 8pt;">Economic Considerations</span><span style="font-size: 6pt;">¶</span>__Seaports__...<span class="StyleBoldUnderline">**on economic growth**</span><span style="font-size: 8pt;"> and protect.</span>
+
+**Jobs are a huge internal link to the economy and are key to consumer confidence**
+**Tyson, 11**<span style="font-size: 8pt;">– Professor at the Haas School of __[[#|Business]]__ of UC-Berkeley, PhD in Economics at MIT, BA Summa Cum Laude in Economics at __[[#|Smith College]]__, former Chair of the US President’s Council of Economic Advisers, served as the Director of the National Economic Council (Laura, “What it will take for President __[[#|Obama]]__ and big __[[#|business]]__ to bring back American jobs”, The Washington Post, 9/18/11, <span style="background-color: initial;">[[http://www.washingtonpost.com/national/on-leadership/for-president-obama-and-american-business-fixing-the-us-jobs-deficit/2011/08/18/gIQAhW8ZNJ_story.html]]</span>,)</span>
+
+__The immediate crisis confronting__...<span style="font-size: 8pt;">in the __[[#|next]]__ few years.</span>
+
+**And, economic competitiveness allows the US to promote its economic model – the alternative is Chinese mercantilism, which erodes globalization**
+**Posen, 9**<span style="font-size: 8pt;"> – Deputy Director and senior fellow of the Peterson Institute for International Economics (Adam, “Economic leadership beyond the crisis,” http://clients.squareeye.com/uploads/foresight/documents/PN%20USA_FINAL_LR_1.pdf) EK</span>
+
+<span style="font-size: 8pt;">In the postwar period, </span><span class="StyleBoldUnderline">US </span>power...<span style="font-size: 8pt;">on the following priority measures.</span>
+
+**<span class="StyleStyleBold12pt">That leads to resource wars, genocide, rogue nations, and World War III – risks extinction</span>**
+**<span class="StyleStyleBold12pt">Panzner, 8</span>**<span style="font-size: 8pt;"> – faculty at the New York Institute of Finance, 25-year veteran of the global __[[#|stock]]__, bond, and __[[#|currency markets]]__ who has worked in New York and London for HSBC, Soros Funds, ABN Amro, Dresdner Bank, and JPMorgan Chase (Michael, “Financial Armageddon: Protect Your Future from Economic Collapse,” p. 136-138) EK</span>
+
+<span class="StyleBoldUnderline">Continuing </span>calls for curbs on...__as the beginnings of a new world war.__
+
+**__Second__** **is foreign customers – the perception of a federal commitment to ports is vital to retain them – otherwise economic recovery is impossible**
+**Calhoun 11**<span style="font-size: 8pt;"> – President of __[[#|Cargo Carriers]]__ (Cargill) and Chairman of Waterways Council, Inc. (Rick, “DREDGING FOR PROSPERITY”, Marine Log, August, http://proxy.lib.umich.edu/login?url=http://search.proquest.com.proxy.lib.umich.edu/docview/889143450?accountid=14667”, ProQuest)//</span>
+
+<span style="font-size: 8pt;">Just like the nation itself, </span>__our__...<span style="font-size: 8pt;">inland waterways transportation system.</span>
+
+**__Third__, ports are key to trade but federal funding is necessary**
+**Nagle, 11**<span style="font-size: 8pt;"> – President and CEO of the American Association of Port Authorities (December 2011, Kurt, Industry Today, “Association: American Association of Port Authorities; Port-Related Infrastructure Investments Can Reap Dividends,” vol. 14, no. 3, http://www.industrytoday.com/article_view.asp?ArticleID=F370)</span>
+
+<span style="font-size: 8pt;">It seems </span><span class="StyleBoldUnderline">the U</span><span style="font-size: 8pt;">nited </span><span class="StyleBoldUnderline">S</span><span style="font-size: 8pt;">tates </span><span class="StyleBoldUnderline">willingly...</span><span style="font-size: 8pt;">maintain federal navigation channels.</span>
+
+**International trade is vital to the economy – it accounts for 27% of GDP**
+**Kiefer et al., 2k**<span style="font-size: 8pt;"> – principal investigator for Planning and Management Consultants– study authorized by Section 401 of the Water Resources Development Act of 1999, report to the US Army Corps of Engineers (Jack, Planning and Management Consultants, “The National Dredging Needs Study of Ports and Harbors Implications to Cost-Sharing of Federal Deep Draft Navigation Projects Due to Changes in the Maritime Industry”, May 2000, <span style="background-color: initial;">[[http://www.iwr.usace.army.mil/docs/iwrreports/00-R-8.pdf]]</span>) EK</span>
+
+__The value of international trade__...<span style="font-size: 8pt;">percent in terms of tonnage (see Figure 2-4).</span>
+
+**<span class="StyleStyleBold12pt">Economic decline triggers great power wars – statistics prove</span>**
+**Royal et al., 10**<span style="font-size: 8pt;"> –Director of Cooperative Threat Reduction at the DoD (Jedidiah, M. Phil – Candidate at the University of New South Wales, “Economic Integration, Economic Signaling and the Problem of Economic Crises,” </span>Economics of War and Peace: Economic, Legal<span style="font-size: 8pt;">and Political Perspectives</span>//<span style="font-size: 8pt;">, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, 2010, ISBN 0857240048, p. 213-215)</span>
+
+<span style="font-size: 8pt;">Less intuitive is how </span>__periods__...<span style="font-size: 8pt;">considered ancillary to those views.</span>
+
+===<span style="font-size: 1.1em;">Seapower Advantage</span>=== 
+**National security is vulnerable to threats in status quo**
+<span class="StyleBoldUnderline">**Conway et al., 7,** </span><span style="font-size: 8pt;">–*General US Marine Corps, **Commandant of the Marine Corps,** *Chief of Naval Operations, Admiral of the US Coast Guard, Commandant of the Coast Guard (*James T., **Gary Roughead,** *Thad W. Allen, "A Cooperative Strategy for the 21st Century Seapower", navy.mil, October 2007, http://www.navy.mil/maritime/Maritimestrategy.pdf)</span>
+
+The security, prosperity, and vital...<span style="font-size: 8pt;">links every country on earth.</span>
+
+**The plan solves 2 internal links—**
+**__First__ is the maritime industry – it will collapse without dredging**
+**Weakley, 8**<span style="font-size: 8pt;"> – president of the Lake Carriers’ Association (James, “Realize America’s Maritime Promise”, Harbor Maintenance Trust Fund Fairness Coalition, 4/30/08, [[http://www.ramphmtf.org/speeches_043008.html]])</span>
+
+__America´s deep-draft navigation__...__quickly lose its efficiencies.__<span style="font-size: 6pt;">¶</span>
+
+**The maritime industry is key to power projection and naval readiness**
+**AMP, 12**<span style="font-size: 8pt;"> – dedicated to educating America on the economic, national security, environmental and safety benefits of the maritime industry (American Maritime Partnership, “U.S. TRANSCOM General Says Domestic Maritime Industry is "Fourth Arm of Defense”, 5/22/12, <span style="background-color: initial;">[[http://www.americanmaritimepartnership.com/news/2012/052212%20NMD.html]]</span>)</span>
+
+__U.S. TRANSCOM Commanding General__...__moved to Afghanistan and Iraq.__
+
+**Naval power deters great power wars and deescalates conflict—strategic retrenchment means now is key**
+**England et al., 11** – former secretary of the Navy (Gordon, General James Jones is a former commandant of the Marine Corps. Admiral Vern Clark is a former chief of naval operations, “The Necessity of U.S. Naval Power,” 7/11/11, <span style="background-color: initial;">[[http://gcaptain.com/necessity-u-s-naval-power?27784]]</span>)
+
+<span style="font-size: 8pt;">All our citizens, and especially our...</span>__meet the challenges of the future.__
+
+**No offense – naval power maintains allied assurance with a light footprint**
+**McKeon, 12**<span style="font-size: 8pt;"> – House Armed Services Committee Chairman(Howard P. "Buck", “FISCAL YEAR 2013 NATIONAL DEFENSE AUTHORIZATION BUDGET REQUESTS FROM U.S. CENTRAL COMMAND, U.S. SPECIAL OPERATIONS COMMAND AND U.S. TRANSPORTATION COMMAND”, 3/7/12, US House of Representatives, Committee on the Armed Services One Hundred Twelfth Congress, Second Session, pdf)</span>
+
+<span style="font-size: 8pt;">With the withdrawal of our last...</span> __relationships and rapid projection of power in.__
+
+**__Second__ is Sealift –** **port industry key to sealift capabilities – that’s the most effective way to deploy sea power**
+**NLUS, 12**<span style="font-size: 8pt;"> – since 1902, the NLUS has sought to provide a stronger sea voice to Congress and to the American people, (Navy League of the United States, “America’s Maritime Industry: the foundation of American seapower”, 5/7/12, <span style="background-color: initial;">[[http://www.navyleague.org/files/americas-maritime-industry.pdf]]</span>)</span>
+
+__Since the earliest days of__...__the military’s capabilities for war__<span style="font-size: 8pt;">.” </span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> 10</span>
+
+**Sealift is key to power projection**
+**Conway et al., 7**<span style="font-size: 8pt;"> (James T., General, U.S. Marine Corps, Gary Roughead, Admiral, U.S. Navy, Thad W. Allen, Admiral, U.S. Coast Guard, “A Cooperative Strategy for 21st Century Seapower,” October, <span style="background-color: initial;">[[http://www.navy.mil/maritime/MaritimeStrategy.pdf]]</span>)</span>
+
+<span style="font-size: 8pt;">Deter major power war...</span>__enable extended campaigns ashore.__
+
+**Military sealift is key to overall deterrence and conflict de-escalation – we control the ceiling on all war impacts**
+**Hickins, 9**<span style="font-size: 8pt;"> – Colonel (Kenneth, “Strategic Mobility: Forgotten Critical Requirement of the Contemporary Operational Environment”, US Army, 3/30/09, http://www.dtic.mil.proxy.lib.umich.edu/cgi-bin/GetTRDoc?AD=ADA494718)</span>
+
+<span class="StyleBoldUnderline">As I stated at the beginning...any operational and strategic success.</span>
+
+**Hegemony prevents war – decline causes regional conflicts and scenarios for nuclear war**
+**Brzezinski, 12**<span style="font-size: 8pt;"> – national security advisor under U.S. President Jimmy Carter (Zbigniew, </span><span class="StyleBoldUnderline" style="font-size: 8pt;">“8 Geopolitically Endangered Species”, Foreign Policy, January-February 2012, http://www.foreignpolicy.com/articles/2012/01/03/8_geopolitically_endangered_species?page=full</span><span style="font-size: 8pt;">)</span>
+
+__With the decline of America's__<span style="font-size: 8pt;"> global...vulnerability of America's Persian Gulf allies.</span>
+
+===<span style="font-size: 1.1em;">Plan Text</span>=== 
+**The United States federal government should substantially increase its investment in port deepening projects in the United States.**
+
+===<span style="font-size: 1.1em;">Solvency</span>=== 
+**<span style="font-family: Georgia,serif; font-size: 11pt;">The federal government is key – port infrastructure is under federal jurisdiction and federal action is vital to leadership – all other actors fail</span>**
+**AAPA, 11**<span style="font-size: 8pt;"> – represents 160 of the leading seaport authorities in the United States, Canada, Latin America and the Caribbean and more than 300 sustaining and associate members, firms and individuals with an interest in seaports (American Association of Port Authorities, “The U.S. Government’s Historic Role in Developing and Maintaining Landside and Waterside Connections to Seaports”, March 2011, <span style="background-color: initial;">[[http://aapa.files.cms-plus.com/PDFs/Transportation%20and%20the%20Constitution1.pdf]]</span>)</span>
+
+<span style="font-size: 8pt;">Over time these constitutional responsibilities...</span><span class="StyleBoldUnderline">global competitiveness, be recognized and prioritized</span><span style="font-size: 8pt;">.</span>
+
+**Federal regulations prevent other actors from solving – only federal action to streamline the process and increase funding solves**
+**Anderson, 11**<span style="font-size: 8pt;"> – Chief Executive Officer of the Jacksonville Port Authority (JAXPORT) (A. Paul, “testimony of A. Paul Anderson Chief Executive Officer of the Jacksonville Port Authority (JAXPORT) for the Record of the united States House of Representatives Transportation and Infrastructure Committee Subcommittee on Water Resources and the Environment Hearing: “The Economic Importance of Seaports: Is the United States Prepared for 21st Century Trade Realities?””, 10/26/11, <span style="background-color: initial;">[[http://republicans.transportation.house.gov/Media/file/TestimonyWater/2011-10-26%20Darcy.pdf)/MM|http://republicans.transportation.house.gov/Media/file/TestimonyWater/2011-10-26%20Anderson.pdf)]]</span> MM</span>
+
+<span style="font-family: Georgia,serif;">With increasingly larger ships...projects is </span><span class="StyleBoldUnderline">**<span style="font-family: Georgia,serif;">fundamentally broken</span>**</span><span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+**Federal leadership is vital to expediting new projects and coordinating agencies –it creates faster development**
+**Woodley, 8**<span style="font-size: 8pt;"> – Chairman – Permanent International Association of Navigation Congresses, USA (John Paul, “Dredging key to keeping nation’s economy afloat”, Seaports Magazine, 2008, <span style="background-color: initial;">[[http://www.aapaseaports.com/pdf_issues/AAPASeaports_Summer2008.pdf]]</span>, Summer) EL</span>
+
+<span style="font-size: 8pt;">Like many nations, </span>__the United States__...__strong for generations to come.__
+
+**Regulations mean any new projects will take __decades__ unless the federal government expedites construction**
+**Nagle, 12**<span style="font-size: 8pt;">- President and CEO of the American Association of Port Authorities (Kurt J., “Testimony of Kurt J. Nagle President and CEO of the American Association of Port Authorities Before the United States House of Representatives Appropriations Committee Energy and Water Development, and Related Agencies Subommittee”, Budget Hearing- U.S. Army Corps of Engineers, Assistant Secretary, Chief of Engineers, 3/7/12,<span style="background-color: initial;">[[http://aapa.files.cms-plus.com/PDFs/EWTestimony%20Mar2012%20Final.pdf)/MM| http://aapa.files.cms-plus.com/PDFs/EWTestimony%20Mar2012%20Final.pdf]]</span>) MM</span>
+
+<span class="StyleBoldUnderline">First, </span>the __[[#|funding]]__ level of the Corps of Engineers...<span style="font-size: 8pt;">we can meet the challenges of today and tomorrow.</span>
+
+**The plan enables the US to double exports within 5 years**
+**Copeland, 11**<span style="font-size: 8pt;"> – national correspondent for USA Today, based in Atlanta (Larry, “A goal to be port of call for all; U.S. sites digging in to accommodate big ships”, USA Today, 10/3/11, lexis)</span>
+
+<span style="font-size: 8pt;">It's just before noon on a recent weekday...</span>__This will keep us very competitive."__
+
+==<span style="font-size: 1.4em;">Port Dredging 2AC</span>== 
+===Agricultural Competitiveness Add-on=== 
+**U.S. agriculture export competitiveness is eroding – aggressive competitors rising now**
+**<span class="StyleStyleBold12pt">AgriMoney, 12</span>**<span style="font-size: 8pt;"> - investors' link to the food chain. The increasing numbers of mouths to feed, the demand for ever-more sophisticated diets, and the potential for turning food into fuel has turned the growing business into big business. Agriculture, to which financial markets owe a debt of history, is back at the forefront of investment thinking.(“US crop exports face 'crisis of competitiveness'”, Agrimoney.Com, 2/20/12, [[http://www.agrimoney.com/news/us-crop-exports-face-crisis-of-competitiveness--4179.html)/GP|http://www.agrimoney.com/news/us-crop-exports-face-crisis-of-competitiveness--4179.html)//GP]]</span>
+
+__US grain exporters face a "crisis of__...<span style="font-size: 8pt;">including those which produce vomitoxin. </span>
+
+**The Panama Canal expansion will shift global trade patterns away from the Gulf Coast without port upgrades – this cuts off US grain exports**
+**Stallman, 12** – President of the American Farm Bureau (Bob, “Update Our Ports or Miss the Boat”, American Farm Bureau, April 2012, [[http://www.fb.org/index.php?action=newsroom.agendas&year=2012&file=ag04-2012.html]]) //MGD//
+
+<span style="font-size: 8pt;">Someone once said that...__li__</span>__terally miss the boat____.__
+
+**Dredging critical to maintain US agricultural competitiveness**
+**<span class="StyleStyleBold12pt">IWR 12</span>** – Institute for Water Resources (“U.S. Port and Inland Waterways Modernization: Preparing for Post-Panamax Vessels”, Institute for Water Resources, U.S. Army Corps of Engineers, June 20, 2012, [[http://www.iwr.usace.army.mil/docs/portswaterways/rpt/June_20_U.S._Port_and_Inland_Waterways_Preparing_for_Post_Panamax_Vessels.pdf)/MM|http://www.iwr.usace.army.mil/docs/portswaterways/rpt/June_20_U.S._Port_and_Inland_Waterways_Preparing_for_Post_Panamax_Vessels.pdf)//MM]]
+
+The Panama Canal expansion...for a competitive navigation system.
+
+**US agricultural competitiveness key to prevent starvation, war, fanaticism, proliferation, and terrorism**
+**<span class="StyleStyleBold12pt">Lugar, 4</span>** – <span style="font-size: 8pt;">U.S. Senator – Indiana, (Richard, “Plant Power” Our Planet v. 14 n. 3, [[@http://www.unep.org/OurPlanet/imgversn/143/lugar.html]] MK)</span>
+
+<span style="font-size: 8pt;">In a world confronted by global terrorism...</span><span class="StyleBoldUnderline">**materials essential to modern society**</span>**__.__**
+
+**Starvation triggers genocidal war—comparatively worse than nuclear war**
+**Trudell 5** <span style="font-size: 8pt;">- Trudell, J.D. Candidate 2006, 05 (Robert H., Fall, Food Security Emergencies And The Power Of Eminent Domain: A Domestic Legal Tool To Treat A Global Problem, 33 Syracuse J. Int'l L. & Com. 277, Lexis)</span>
+
+<span style="font-size: 8pt;">2. But, Is It Really an Emergency...</span>**__out before it is too late.__**
+
+===Heg - Asia Add-on=== 
+**Primacy is the lynchpin of Asian stability—decline risks war, deterrence breakdowns, and prolif**
+**Lieber 05** [Robert Lieber, //PhD from Harvard, Professor of Government and International Affairs at Georgetown, former consultant to the State Department and for National Intelligence Estimates//, “The American Era: Power and Strategy for the 21st Century ”, pg. 158]
+
+<span style="font-size: 8pt;">Parallels between America’s role...emerge as a true major power competitor. </span>
+
+===Heg - Democracy Add-on=== 
+**Hegemony key to democracy promotion**
+**Thayer, 07**– [Bradley A. Thayer, //Associate Professor in the Department of Defense and Strategic Studies, Missouri State University//, “America Empire”, pg. 42-43]
+
+__The American Empire gives__...<span style="font-size: 8pt;">part of my presidential DNA.”59</span>
+
+**Democracy solves extinction**
+**Diamond 95**
+Larry Diamond, senior fellow at the Hoover Institution, December 1995, Promoting Democracy in the 1990s, http://wwics.si.edu/subsites/ccpdc/pubs/di/1.htm
+
+<span style="font-size: 8pt;">OTHER THREATS This hardly...and prosperity can be built.</span>
+
+**Most recent data supports the democratic peace theory**
+**Ward et al**, prof of pol sci, **98**
+Michael D. Ward, Professor of Political Science, University of Washington, and Kristian S. Gleditsch, graduate research trainee in the Globalization and Democratization Program, et al, at University of Colorado, Boulder, March 1998, The American Political Science Review
+
+<span style="font-size: 8pt;">As Figure 1 details, </span>__democratization__...__smoothness of the transition process.__
+
+== == 
+
+==<span style="font-size: 1.4em;">NextGen 1AC - Georgetown</span>== 
+===<span style="font-size: 1.1em;">Inherency</span>=== 
+**<span class="StyleStyleBold12pt">FAA reauthorization gutted the agency’s overall budget – NextGen will be hit hardest</span>**
+**<span class="StyleStyleBold12pt">Poole, 12</span>**<span style="font-size: 8pt;">– Searle Freedom Trust Transportation Fellow and Director of Transportation Policy (Robert, “Air Traffic Control Reform Newsletter #90 – FAA reauthorization, aviation emissions trading war, ATC user fees, Europe's next-generation milestones, ERAM woes and FAA shortcomings”, 2/24/12, http://reason.org/news/printer/air-traffic-control-reform-news-90)</span>
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">__After 23 extensions since__...</span><span style="font-family: Georgia,serif; font-size: 8pt;">future deficit-reduction measure.)</span>
+
+
+===<span style="font-size: 1.1em;">Plan Text</span>=== 
+
+**The United States federal government should substantially increase its investment in the Next Generation Air Traffic Control System in the United States.**
+
+===<span style="font-size: 1.1em;">Congestion Advantage</span>=== 
+**<span class="StyleStyleBold12pt">Flight demand exceeds supply causing chronic delays that escalate future costs</span>**
+**<span class="StyleStyleBold12pt">Ferguson, 12</span>**<span style="font-size: 8pt;"> – Doctor of Philosophy at George Mason University (John, “A METHODOLOGY FOR EVALUATING ECONOMIC AND POLICY IMPACTS ON AIRLINE AND PASSENGER BEHAVIOR”, Spring 2012, http://catsr.ite.gmu.edu/pubs/Ferguson_Dissertation_Final_2012_seApr25_v3.pdf) IN</span>
+
+<span class="Underline">The </span>air transportation<span class="Underline"> system </span>is...<span style="font-size: 8pt;">(C. E. Schumer and C. B. Maloney 2008).</span>
+
+**<span class="StyleStyleBold12pt">Constraints and delays prevent the U.S. from competing in global markets and hinder air cargo – kills economic competitiveness and trade</span>**
+**<span class="StyleStyleBold12pt">DRI, 2</span>**<span style="font-size: 8pt;"> – Global Insight Company (Desert Research Institute, “The National Economic Impact of Civil Aviation”, July 2002, <span style="background-color: initial;">[[http://www.aia-aerospace.org/stats/resources/DRI-WEFA_EconomicImpactStudy.pdf]]</span>)</span>
+
+<span class="Underline">The disadvantages associated with the ..</span><span style="font-size: 8pt;">well being of the aviation industry itself.</span>
+
+**<span class="StyleStyleBold12pt">We’ll isolate two scenarios:</span>**
+**<span class="StyleStyleBold12pt">First is trade: collapse of US trade leadership destroys the economy</span>**
+**<span class="StyleStyleBold12pt">Panitchpakdi, 4</span>**<span style="font-size: 8pt;"> – secretary-general of the UN Conference on Trade and Development (Supachai, American Leadership and the World Trade Organization, 2/26/04, http://www.wto.org/english/news_e/spsp_e/spsp22_e.htm)</span>
+
+<span style="font-size: 8pt;">The second point is that </span><span class="Underline">strengthening...</span><span style="font-size: 8pt;">but by the absence of rules.</span>
+
+**<span class="StyleStyleBold12pt">Economic decline triggers great power wars – statistical proof</span>**
+**Royal et al., 10**<span style="color: #222222; font-size: 8pt;"> –</span><span style="font-size: 8pt;">Director of Cooperative Threat Reduction at the DoD (Jedidiah, M. Phil – Candidate at the University of New South Wales, “Economic Integration, Economic Signaling and the Problem of Economic Crises,” //Economics of War and Peace: Economic, Legal// </span>//<span style="font-size: 8pt;">and Political Perspectives</span>//<span style="font-size: 8pt;">, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, 2010, ISBN 0857240048, p. 213-215)</span>
+
+<span style="font-size: 8pt;">Less intuitive is how </span>__periods__...<span style="font-size: 8pt;">considered ancillary to those views.</span>
+
+**Second is competitiveness: American economic leadership allows the US to promote its economic model – the alternative is Chinese mercantilism, which erodes globalization**
+**Posen, 9**<span style="font-size: 8pt;"> – Deputy Director and senior fellow of the Peterson Institute for International Economics (Adam, “Economic leadership beyond the crisis,” <span style="background-color: initial;">[[http://clients.squareeye.com/uploads/foresight/documents/PN%20USA_FINAL_LR_1.pdf]]</span>)</span>
+
+<span style="font-size: 8pt;">In the postwar period, </span><span class="Underline">US...</span><span style="font-size: 8pt;">the following priority measures.</span>
+
+**<span class="StyleStyleBold12pt">That leads to resource wars, genocide, rogue nations, and World War III – risks extinction</span>**
+**<span class="StyleStyleBold12pt">Panzner, 8</span>**<span style="font-size: 8pt;"> – faculty at the New York Institute of Finance, 25-year veteran of the global stock, bond, and currency markets who has worked in New York and London for HSBC, Soros Funds, ABN Amro, Dresdner Bank, and JPMorgan Chase (Michael, “Financial Armageddon: Protect Your Future from Economic Collapse,” p. 136-138)</span>
+
+<span class="Underline">Continuing </span>calls for curbs...__of a new world war.__
+
+**<span class="StyleStyleBold12pt">NextGen saves the aviation industry and is __vital__ to meeting increased demand</span>**
+**<span style="font-size: 12pt;">Kramer, 12 </span>**<span style="font-size: 8pt;">– renowned stock broker, financial contributor to Forbes and several other news organizations, B.A. from Wellesley College (Hillary, “Building the Runway to the Skies of Tomorrow, 5/22/12, <span style="background-color: initial;">[[http://www.forbes.com/sites/hilarykramer/2012/05/22/building-the-runway-to-the-skies-of-tomorrow/]]</span>)</span>
+
+<span style="font-size: 8pt;">It seems that these days...efficiently to our arrival gate.</span>
+
+===<span style="font-size: 1.1em;">Drones Advantage</span>=== 
+**Status quo efforts aren’t integrating drones into the National Airspace System effectively now – the aff’s key**
+**JPDO, 11**<span style="font-size: 8pt;"> – (Joint Planning and Development Office, “Operating Unmanned Aircraft Systems in 2018 and Beyond: NextGen Challenges and Opportunities”, 1/4/11, <span style="background-color: initial;">[[http://www.jpdo.gov/newsarticle.asp?id=146]]</span>, edited for gendered language)</span>
+
+__The integration of Unstaffed Aircraft Systems...__<span style="font-size: 8pt;">of UAS into the NAS.</span>
+
+**NextGen is key to the commitment of resources to R&D through agency coordination – that’s key to drone integration**
+**JPDO, 12**<span style="font-size: 8pt;"> – FAA office that coordinates the development of NextGen (Joint Planning Development Office, “Next Generation Air Transportation System: NextGen UAS Research, Development and Demonstration Roadmap”, 3/15/12, <span style="background-color: initial;">[[http://www.jpdo.gov/library/20120315_UAS%20RDandD%20Roadmap.pdf]]</span>)</span>
+
+<span style="display: block; text-align: left;"><span style="display: block; font-family: Georgia,serif; font-size: 11pt; text-align: left;">Interagency coordination and...</span><span style="display: block; font-family: Georgia,serif; font-size: 8pt; text-align: left;">needed information to the FAA.</span></span>
+**Two impact scenarios–**
+**First, drone integration creates thousands of aerospace jobs and sector growth**
+**AUVSI, 10**<span style="font-size: 8pt;"> – (Association for Unmanned Vehicle Systems International, “Unmanned Aircraft System Integration into the United States Aerospace System: An Assessment of the Impact on Job Creation in the U.S. Aerospace Industry”, issuu.com/auvsi/docs/26_july_2010_congressional_staff_briefing, edited for gendered language)</span>
+
+<span style="font-family: Georgia,serif; font-size: 11pt;">The</span><span style="font-family: Georgia,serif; font-size: 8pt;"> U.S. Unstaffed Aircraft Systems (</span><span style="font-family: Georgia,serif; font-size: 11pt;">UAS) market \...</span><span style="font-family: Georgia,serif; font-size: 8pt;">made in the last decade.</span>
+
+**Cuts in defense spending are currently hurting the military – a strong aerospace sector is key and sustains leadership**
+**NAW, 10**<span style="font-size: 8pt;"> – (National Aerospace Week, “Aerospace and Defense: The Strength to Lift America”, National Aerospace Week, 9/18/10, http://www.nationalaerospaceweek.org/wp-content/uploads/2010/04/whitepaper.pdf)</span>
+
+<span style="font-size: 8pt;">The beginning of a new decade...</span><span class="Underline">base exists to develop new ones.</span>
+
+**Hegemony prevents global nuclear war**
+**Gray, 4**<span style="font-size: 8pt;"> – Professor of International Politics and Strategic Studies at the University of Reading, and founder of the National Institute for Public Policy (Colin, “The Sheriff: America’s Defense of the New World Order”, pgs. 6-10</span>
+
+<span style="font-size: 8pt;">Every condition of international order...</span><span style="font-size: 10pt;">weapons of mass destruction</span><span style="font-size: 8pt;"> (WMD) at that.</span>
+
+**Hegemony is sustainable and prevents conflict**
+**Brown et al. 8****<span style="font-size: 8pt;"> – </span>*****<span style="font-size: 8pt;">Michael E. Brown is Dean of the Elliott School of International Affairs at George Washington University </span>***OWEN R. COTÉ, JR**<span style="font-family: Georgia,serif; font-size: 8pt;">.</span>**<span style="font-size: 8pt;"> is the associate director of the MIT Security Studies Program. ***Sean M. Lynn-Jones is a Belfer Center researcher at Harvard University and Editor of //International Security.//** * Steven E. Miller is Director of the International Security Program (“Primacy and its Discontents,” MIT Press, 2008, </span><span style="color: black; font-size: 8pt;">[[http://mitpress.mit.edu/books/chapters/0262524554pref2.pdf]]</span><span style="font-size: 8pt;">)</span>
+
+<span style="font-size: 8pt;">Several scholars have argued...explicitly </span>with the U<span style="font-size: 8pt;">nited </span>S<span style="font-size: 8pt;">tates.</span>
+
+<span class="Underline">**Second,** </span>**the DOD uses drones for military missions overseas but a lack of airspace access prevents effective utilization – integration is key**
+**Mendenhall, 11**<span style="font-size: 8pt;"> – Lieutenant Colonel, US Army, Masters’ Thesis for the U.S. Army War College (Cory A., “Integrating the Unmanned Aircraft System into the National Airspace System”, Abstract, DTIC, 6/18/11, <span style="background-color: initial;">[[http://www.dtic.mil/dtic/tr/fulltext/u2/a545639.pdf]]</span>, edited for gendered language) EK</span>
+
+<span style="font-size: 8pt;">In the last 10 years, the...same airspace is safety.</span>
+
+<span class="Underline">**Specifically, the drones are used for counterinsurgency missions – they’re uniquely key** **and prevent the massive casualties incurred through direct combat**</span>
+**Cordesman, 10**<span style="font-size: 8pt;"> – Ph.D., analyzes political and military strategy for CSIS (Anthony H., “OPINION: Drones are the difference between surgery and butchery in war”, Newsday, 6/20/10, http://www.newsday.com/opinion/oped/opinion-drones-are-the-difference-between-surgery-and-butchery-in-war-1.2035217, edited for gendered language) EK</span>
+
+<span style="font-size: 8pt;">Earlier this month, </span><span class="Underline">a UN investigator...</span><span style="font-size: 8pt;">something like the last 4,000 years.</span>
+
+**Counterinsurgency prevents failing states – that solves terrorism**
+**Flournoy, 5**<span style="font-size: 8pt;"> – senior adviser in the CSIS International Security Program, former distinguished research professor at the Institute for National Strategic Studies at the National Defense University (Michele, “The Future of the United States Army”, 4/11/05, http://www.aei.org/events/filter.,eventID.1011/transcript.asp)</span>
+
+<span style="font-size: 8pt;">I want to start the discussion of...high demand into the future.</span>
+
+**Terrorism causes extinction**
+**<span class="StyleStyleBold12pt">Morgan, 9</span>**<span style="font-size: 8pt;"> – Professor at Hankuk University of Foreign Studies, South Korea (Dennis, “World on fire: two scenarios of the destruction of human civilization and possible extinction of the human race”, Futures, November 2009, Science Direct)</span>
+
+<span style="font-size: 8pt;">In a remarkable website on nuclear war...</span>and suffering in a nuclear winter.
+
+===<span style="font-size: 1.1em;">Solvency</span>=== 
+**<span class="StyleStyleBold12pt">Only a strong federal signal will get NextGen in place and operational</span>**
+**<span class="StyleStyleBold12pt">ALPA, 12</span>**<span style="font-size: 8pt;"> – Air Line Pilots Association International (“Leveling the Playing Field for U.S. Airlines and Their Employees, June 2012, White Paper, <span style="background-color: initial;">[[http://www.alpa.org/publications/ALPA_White_Paper_Leveling_the_Playing_Field_June_2012/ALPA_White_Paper_Leveling_the_Playing_Field_June_2012.html#top|http://www.alpa.org/publications/ALPA_White_Paper_Leveling_the_Playing_Field_June_2012/ALPA_White_Paper_Leveling_the_Playing_Field_June_2012.html#top]]</span>)</span>
+
+<span class="Underline">Invest in NextGen to Improve Safety...</span><span style="font-size: 8pt;">requiring minimum levels of equipage.</span>
+
+**<span class="StyleStyleBold12pt">Government fast tracking and authority is key to implement NextGen</span>**
+**<span class="StyleStyleBold12pt">Goldsmith et al., 10</span>**<span style="font-size: 8pt;"> – Harvard Kennedy School (Stephen, Zachary Tumin, Fred Messina {Booz Allen Hamilton}, “Assuring the Transition to the Next Generation Air Transportation System: A New Strategy for Networked Governance”, Harvard Kennedy School Ash Center for Democratic Governance and Innovation, March 2010, <span style="background-color: initial;">[[http://www.ash.harvard.edu/extension/ash/docs/nextgen.pdf]]</span>)</span>
+
+<span style="font-size: 8pt;">Findings and Discoveries. </span><span class="Underline">Significant...</span> that must be made.
+
+**NextGen is key to solve jet noise and airspace access, capacity, and efficiency issues**
+**Boyce, 8/30**<span style="font-size: 8pt;"> – Almanac Staff (Dave, “FAA promises less jet noise with new technology”, Almanac News, 8/30/12, <span style="background-color: initial;">[[http://www.almanacnews.com/news/show_story.php?id=11919]]</span>) EK</span>
+
+__Commercial aircraft pass over__ <span style="font-size: 8pt;">Woodside...56,000 metric tons annually.</span>
+
+
+=Negative= 
+==<span style="font-size: 1.4em;">Previous 2NRs</span>== 
+===<span style="font-size: 1.1em;">Ohio Valley </span>=== 
+<span style="color: #008000;">Round 2:</span>
+<span style="color: #008000;">BYE</span>
+
+<span style="color: #ff0000;">Round 3: </span>
+<span style="color: #ff0000;">Icebreakers (Alpharetta BM)</span>
+<span style="color: #ff0000;">Russia Sphere of Influence DA</span>
+<span style="color: #ff0000;">Privatization CP</span>
+
+<span style="color: #008000;">Round 6:</span>
+<span style="color: #008000;">New Orleans (Bexley HM)</span>
+<span style="color: #008000;">States CP</span>
+<span style="color: #008000;">Fiscal Cliff DA</span>
+
+===<span style="font-size: 1.1em;">Carrollton</span>=== 
+<span style="color: #ff0000;">Round 1:</span>
+<span style="color: #ff0000;">Port Security (Chattahoochee AL)</span>
+<span style="color: #ff0000;">Fiscal Cliff DA</span>
+<span style="color: #ff0000;">Case Defense</span>
+
+<span style="color: #008000;">Round 4:</span>
+<span style="color: #008000;">NextGen (Alpharetta HN)</span>
+<span style="color: #008000;">EB Visas CP</span>
+<span style="color: #008000;">Fiscal Cliff DA</span>
+
+<span style="color: #ff0000;">Round 5:</span>
+<span style="color: #ff0000;">Nuclear Evacuation (Johns Creek SS)</span>
+<span style="color: #ff0000;">Anonymity PIC</span>
+
+<span style="color: #ff0000;">Quarters:</span>
+<span style="color: #ff0000;">Icebreakers (Alpharetta BM)</span>
+<span style="color: #ff0000;">Fiscal Cliff DA</span>
+<span style="color: #ff0000;">Case Defense</span>
+
+===<span style="font-size: 1.1em;">Michigan</span>=== 
+<span style="color: #ff0000;">Round 1:</span>
+<span style="color: #ff0000;">Space Ports (University of Chicago Lab FG)</span>
+<span style="color: #ff0000;">ESA CP</span>
+<span style="color: #ff0000;">Obama Good DA (China)</span>
+
+<span style="color: #ff0000;">Round 3:</span>
+<span style="color: #ff0000;">Port Security (Groves NP)</span>
+<span style="color: #ff0000;">Obama Good DA (China)</span>
+<span style="color: #ff0000;">Case Defense</span>
+
+<span style="color: #008000;">Round 6:</span>
+<span style="color: #008000;">Port Dredging (Iowa City West DR)</span>
+<span style="color: #008000;">EB Visas CP</span>
+<span style="color: #008000;">Obama Good DA (China)</span>
+<span style="color: #008000;">Case Turns</span>
+
+
+===<span style="font-size: 1.1em;">Georgetown</span>=== 
+<span style="color: #ff0000;">Round 2:</span>
+<span style="color: #ff0000;">Ecofeminism HSR (St Johns College High CL)</span>
+<span style="color: #ff0000;">Free Market K</span>
+
+<span style="color: #ff0000;">Round 4:</span>
+<span style="color: #ff0000;">Guam (Lexington MR)</span>
+<span style="color: #ff0000;">Security K</span>
+
+<span style="color: #ff0000;">Round 6:</span>
+<span style="color: #ff0000;">High Speed Passenger Trust Fund (Edgemont GN)</span>
+<span style="color: #ff0000;">T - Financing</span>
+
+==<span style="font-size: 1.4em;">Cites</span>== 
+===<span style="font-size: 1.1em;">Counterplans</span>=== 
+====<span style="font-size: 1.1em;">Anonymity PIC (Advocacy Statements)</span>==== 
+**Anonymity in social movements is crucial to prevent the movement from becoming identified with individuals rather than the overall cause and therefore preventing marginalization of social movements.**
+**Public Sphere Project, ’08** <span style="font-size: 8pt;">– (an initiative of Computer Professionals for Social Responsibility (CPSR) to help promote more effectiveand equitable public spheres all over the world, “Liberating Voices! A Pattern Language for Communication Revolution,” http://www.publicsphereproject.org/patterns/pattern.pl/public?pattern_id=379)</span>
+
+__<span style="background-color: yellow;">By refusing to put a face...</span>__<span style="font-size: 8pt;">the marginalized populations of the world.</span>
+
+
+**Like the masks of the Zapatistas, our anonymity represents the struggle against co-option. We wear masks and do not use our names in order to avoid becoming reduced to a photo on the t-shirt of a rich white teenager in America who calls for revolution while knowing nothing of hardship.**
+**Elmer, ’02** <span style="font-size: 8pt;">– (Greg, Ph.D. in Communications, Bell Globe media Research Chair, Associate Professor of Radio TV Arts, and Director of the Infoscape Research Lab at Ryerson University, 2002. “Critical Perspectives on the Internet,” pp. 116-17)</span>
+
+<span style="font-size: 8pt;">The masked commander Marcos’s...centralized organizational structure. </span>
+
+**Just like our embrace of anonymity, the masks of the Zapatistas prevent the development of a cult of personality around any particular leader in their movement and preserve their cause from marginalization and commodification by the system against which they fight.**
+**Pitawanakwat, ’2k**<span style="font-size: 8pt;">– (Brock,University of Victoria, “The Mirror of Dignity: Zapatista Communications &Indigenous Resistance” pp. 10-11)</span>
+
+<span style="font-size: 8pt;">Perhaps the </span>__most visible__...<span style="font-size: 8pt;">with trade deals such as NAFTA.</span>
+
+
+====<span style="font-size: 1.1em;">EB Visas CP</span>==== 
+**Immigration reform is the vital internal link to the economy**
+**Jacoby 12**<span style="font-size: 8pt;">— Coulumnist at the Boston Globe, practiced law, awards include the 1999 Breindel Prize and the 2004 Thomas Paine Award (Jeff Jacoby, 8/19/12, “Immigration reform key to economic revival” [[http://www.bostonglobe.com/opinion/2012/08/18/immigration-reform-key-economic-revival/IfLnvJvmjZ6lbb1Mpxis5O/story.html]]) || AA</span>
+
+<span style="font-size: 8pt;">Michael Bloomberg, the independent...American businesses in 2011.</span>
+
+**Prerequisite to the aff – The high-skilled worker shortage undercuts infrastructure projects**
+<span class="StyleStyleBold12pt">Ratzenberger 7-31</span>-**10** [John, inventor, entrepreneur and board member of the Foundation for Fair Civil Justice, “Skilled workers key to state, national economies,” http://newsok.com/skilled-workers-key-to-state-national-economies/article/3480964]
+
+A<span style="font-size: 8pt;"> cultural </span>shift has <span style="font-size: 8pt;">taken...our country would grind to a halt. </span>
+
+====ESA CP (Space Ports)==== 
+**ESA’s legit—they already hire hundreds of thousands of people and are successfully involved in myriad space programs.**
+**Gallois 9** -CEO of the European aerospace giant EADS (“Europe must reaffirm its space ambitions,” __Spiegel Online.__ __[[http://www.spiegel.de/international/europe/0,1518,636819,00.html]])__
+
+<span style="font-size: 8pt;">At the time, Europe was...</span><span style="font-size: 10pt;">work in associated areas. </span>
+
+**EU is successful in space exploration-empirically proven**
+<span class="StyleStyleBold12pt">EC-SAG 9</span><span style="font-size: 8pt;"> (European Commission Space Advisory Group on Space Exploration, “Towards a European Vision for Space Exploration”, http://ec.europa.eu/enterprise/policies/space/research/towards_a_european_vision_for_space_exploration_en.htm, October 2009) SV</span>
+<span style="font-size: 8pt;">So far, </span>__European scientists have__...__wellbeing on exploratory missions__<span style="font-size: 8pt;"> [3]. </span>
+
+**<span class="StyleStyleBold12pt">CP solves – EU has world class resources at its disposal</span>**
+**<span class="StyleStyleBold12pt">EC 09</span>**<span style="font-size: 8pt;"> (European Commision, Article describing Europe’s space ambition, 19 October 2009, [[http://www.esa.int/esaCP/SEMA5UYRA0G_index_0.html]])</span>
+<span style="font-size: 8pt;">In the closing session, Jean-Jacques...</span>__continue an important role.__
+
+**<span class="StyleStyleBold12pt">ESA is capable of carrying out any space missions to their fullest</span>**
+**<span class="StyleStyleBold12pt">ESA 11</span>**<span style="font-size: 8pt;"> (European Space Agency, “About ESA – What is ESA?” ESA 2/23/11, [[http://www.esa.int/SPECIALS/About_ESA/SEMW16ARR1F_0.html]])</span>
+<span style="font-size: 8pt;">The European Space Agency (</span><span class="Underline">ESA)...</span><span style="font-family: Verdana,sans-serif; font-size: 8pt;">space organisations outside Europe.</span>
+
+====Privatization CP (Icebreakers)==== 
+**Counterplan spurs innovation and solves the advantages**
+**Carafano and Dean 11 – PhD Director of the Douglas and Sarah Allison Center for Foreign Policy Studies**<span style="font-size: 8pt;"> (James Jay, Deputy Director of the Kathryn and Shelby Cullom Davis Institute for International Studies, James Dean is Deputy Director, Foreign, Defense, Trade, and Homeland Security Policy, in the Government Relations Department at The Heritage Foundation, “Breaking an Ice-Bound U.S. Policy: A Proposal for Operating in the Arctic” 2/24/2011, http://www.heritage.org/research/reports/2011/02/breaking-an-ice-bound-us-policy-a-proposal-for-operating-in-the-arctic)</span>
+
+<span style="font-size: 8pt;">Making America more competitive...robust ice-breaker fleet in the world. </span>
+
+===<span style="font-size: 1.1em;">Kritiks</span>=== 
+====<span style="font-size: 1.1em;">Free Market K</span>==== 
+**The 1AC call to state intervention in transportation is an endorsement of socialism that accelerates the destruction of capitalism – the root cause of the 1AC harms is too much social spending not too little**
+**Utt 8**<span style="font-size: 8pt;"> - Ph.D., Herbert and Joyce Morgan Senior Research Fellow in the Thomas A. Roe Institute for Economic Policy Studies at The Heritage Foundation(Ronald, 2008, “Is America's Infrastructure "Crisis" Just Another Crisis for Socialism?,” http://www.heritage.org/research/reports/2008/10/is-americas-infrastructure-crisis-just-another-crisis-for-socialism)JCP</span>
+
+<span style="font-size: 8pt;">Government Getting in the Way</span>
+<span style="font-size: 8pt;">Despite...</span>__the public to the private sector.__
+
+**That makes all of the 1AC impacts inevitable and results in endless war and violence as individual life becomes worthless**
+**Ebeling 2006**<span style="font-size: 8pt;"> - Richard, Ludwig von Mises Prof. Econ. – Hillsdale College, President of Foundation for Economic Education, “Is the “Spectre of Communism” Still Haunting the World?”, March, 2006, http://fee.org/nff/is-the-%E2%80%9Cspectre-of-communism%E2%80%9D-still-haunting-the-world/)</span>
+
+<span style="font-size: 8pt;">Yet it remains true that </span>__the__...__of a real free-market agenda__<span style="font-size: 8pt;">.</span>
+
+**The alternative is to reject the anti-capitalist proposal of the 1AC in favor of the free market – advocating the market is critical to exposing the weakness of centralization**
+**Boudreaux, 06.** <span style="font-size: 8pt;">Boudreaux is professor of economics at George Mason University. He served as chairman from August 2001 and stepped down in August 2009. (Donald, “A Simple Rule for a Complex World”, Café Hayek, March 17, 2006, http://cafehayek.com/2006/03/a_simple_rule_f.html, Callahan)</span>
+
+<span style="font-size: 8pt;">I admit that </span>__my proposed solution__...__precisely what the market delivers.__
+
+====<span style="font-size: 1.1em;">Security K</span>==== 
+**1ac threat framing is based on misplaced cultural discourse, fixating dangerous Cold War logic**
+**Grondin 2004** – PhD, Professor of Political Science at the University of Ottawa (David, “(Re)Writing the National Security State”, paper presented at the annual International Studies Association Convention in Ottawa, http://www.er.uqam.ca/nobel/chairerd/site/uploads/files/publications/etudes_raoul_dandurand/rewrinting_the_national_security_state.pdf)
+
+I disagree with this essentialist...__conditions of existence are generated.__
+
+**This feeds an endless cycle of enemy creation and identity formation**
+**Wendt 1992** – the Ralph D. Mershon Professor of International Security at Ohio State, also professor at Yale, Dartmouth, and University of Chicago (Alexander, “Social theory of international politics”, pages 261-266, Google Books, WEA)
+
+__Enemy images have a long pedigree__<span style="font-size: 9px; line-height: 13px;">...</span>__changes in technology (nuclear weapons).__
+
+**Alternative: reject the aff because their representations are flawed accounts of the world.**
+**Only this primes us for better policymaking—the security dilemma is a product of assumptions we dispute**
+**Widmaier 2004** – Department of Political Science, St. Joseph’s University (Wesley, International Studies Review, 6.3, “Theory as a factor and the theorist as an actor: The ‘Pragmatist Constructivist’ lessons of John Dewey and John Kenneth Galbraith”, EBSCO, WEA)
+
+__This realignment of debate__<span style="font-size: 7pt;"> also...</span>__actors in international politics__<span style="font-size: 7pt;"> (Edwards 1990).</span>
+
+===<span style="font-size: 1.1em;">Disads</span>=== 
+====Fiscal Cliff DA - Carrollton==== 
+[Uniqueness is Variable]
+
+**Obama’s leadership is key to avoid the impacts of the Fiscal Cliff, including economic decline, heg decline, and war in the Middle East**
+**Hutchison 9/21**<span style="font-size: 8pt;"> – Senator for Texas (Kay Bailey, “A Looming Threat to National Security”, States News Service, 9/21/12, Lexis)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">Despite warnings of the dire...and punish working families.</span>
+**<span style="font-family: Georgia,serif; font-size: 11pt;">The impact is nuclear extinction—checks against escalation don’t apply to the Middle East</span>**
+**Russell, 9**<span style="font-size: 8pt;"> – senior lecturer in the Department of National Security Affairs at the Naval Postgraduate School, “Strategic Stability Reconsidered: Prospects for Nuclear War and Escalation in the Middle East”, in collaboration with the Atomic Energy Commission)</span>
+
+<span style="font-family: Georgia,serif; font-size: 8pt;">Strategic </span><span class="DebateUnderline">__<span style="font-family: Georgia,serif; font-size: 11pt;">stability</span>__</span><span style="font-family: Georgia,serif; font-size: 8pt;"> in the region...risk </span><span class="DebateUnderline">__<span style="font-family: Georgia,serif; font-size: 11pt;">for the entire world</span>__</span><span style="font-family: Georgia,serif; font-size: 8pt;">.</span>
+
+====Fiscal Cliff DA - Ohio Valley==== 
+[Uniqueness is Variable]
+
+**Political capital is key to avoid a global economic collapse**
+**Sullivan, 11/9**<span style="font-size: 8pt;"> – The Daily Dish (Andrew, “Now, Govern”, [[http://andrewsullivan.thedailybeast.com/2012/11/now-govern.html]]) AB</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">I'm as amazed as everyone...and magnanimous. </span><span class="DebateHighlighted">__<span style="font-family: Georgia,serif; font-size: 11pt;">And fast.</span>__</span>
+
+**That causes global nuclear war**
+**Merlini, 11**<span style="font-size: 8pt;"> – nonresident Senior Fellow at the Center on the United States and Europe and chairman of the Board of Trustees of the Italian Institute for International Affairs (IAI); IAI president from 1979 to 2001; executive vice chairman of the Council for the United States and Italy from 1983-2009 (Cesare, “A Post-Secular World?”, DOI: 10.1080/00396338.2011.571015 Article Requests: Order Reprints : Request Permissions Published in: journal Survival, Volume 53, Issue 2 April 2011 , pages 117 - 130 Publication Frequency: 6 issues per year Download PDF Download PDF (~357 KB) View Related Articles To cite this Article: Merlini, Cesare 'A Post-Secular World?', Survival, 53:2, 117 – 130)</span>
+<span style="font-family: Georgia,serif; font-size: 8pt;">Two neatly opposed scenarios...absolutes such as unbridled nationalism.</span>
+
+====Russian Sphere of Influence DA (Icebreakers)==== 
+[Cites coming]

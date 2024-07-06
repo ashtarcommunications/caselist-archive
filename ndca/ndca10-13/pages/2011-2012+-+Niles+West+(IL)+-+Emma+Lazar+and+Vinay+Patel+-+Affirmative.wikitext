@@ -1,0 +1,343 @@
+[[toc]]
+=SPS= 
+==Note== 
+Versions of the 1AC that we've read:
+Space Exploration, Aerospace (Heg, Econ), Warming
+Space Exploration, Aerospace (Econ, Russia Brain Drain)
+Space Exploration, Aerospace (Russia Brain Drain, Obama Power)
+
+==Plan Text== 
+**Plan: The United States federal government should deploy solar power satellites beyond the earth’s mesosphere.**
+
+==Space Exploration Advantage== 
+
+
+**<span style="font-family: Times-Bold; font-size: 12pt;">Solar Powered Satellites are key to building the infrastructure necessary to colonize space</span>**
+**<span style="font-family: Times-Bold; font-size: 12pt;">Globus 05</span>**
+<span style="font-size: 12pt;">(Al Globus, Senior Research Associate for Human Factors Research and Technology at San Jose State University at NASA AmesResearch Center. He was previously visiting research associate at the Molecular Engineering Laboratory in the chemistry departmentof the University of California at Santa Cruz., Sept. 22, 2005,” Space Settlement Basics” </span><span style="color: #00009a; font-size: 12pt;">http://www.nas.nasa.gov/About/Education/SpaceSettlement/Basics/ wwwwh.html</span><span style="font-size: 12pt;">, )</span>
+<span style="font-family: Times-Roman; font-size: 8pt;">BB 3. Solar Power Satellites. Electrical power ... build the first space colony.</span>
+
+
+**<span style="font-size: 12pt;">We have a moral imperative to colonize space: Human survival is the ultimate maxim and colonizing space is the best way to minimize extinction risks</span>**
+**Bostrom**, Nick. //Astronomical Waste: The Opportunity Cost of Delayed Technological Development,”// Utilitas Vol. 15 No. 3, 20**04** pgs. 308-314, http://ww.nickbostrom.com/astronomical/waste.html
+However, the true lesson is a different ... maxim “Minimize existential risk!”
+
+
+**Extinction on Earth is inevitable – space colonization is necessary to prevent guaranteed extinction**
+**__<span style="font-family: Arial,sans-serif; font-size: 12pt;">Huang 05</span>__**(Michael, “Spaceflight or Extinction.” Cites Carl Sagan, professor of astronomy and space science at Cornell University, J. Richard Goett, professor of a.strophysical sciences at Princeton University, Martin Rees, professor of cosmology and astrophysics at Trinity College at Cambridge University. http://www.spaext.com)
+<span style="font-size: 8pt;"> [If there are civilizations elsewhere in the ... may depend on us, this century.</span>
+
+
+**<span style="font-family: 'Times New Roman',serif;">Every second we delay space colonization means the loss of billions of future human lives</span>**
+<span style="font-family: 'Times New Roman',serif;">Nick </span>**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Bostrom</span>**<span style="font-family: 'Times New Roman',serif;">, Professor of Philosophy at Oxford University, </span>**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">2003</span>**<span style="font-family: 'Times New Roman',serif;">, “Astronomical Waste: The Opportunity Cost of Delayed Technological Development”,http://www.nickbostrom.com/astronomical/waste.html</span>
+
+<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">What matters for present purposes...mach that level of utilitarian payoff.</span>
+
+
+**<span style="font-size: 12pt;">Even if the Affirmative has a 1% chance of solving for space colonization, it still justifies the plan and outweighs every impact the negative has in this round</span>**
+**Bostrom**, Nick. //Astronomical Waste: The Opportunity Cost of Delayed Technological Development,”// Utilitas Vol. 15 No. 3, 20**04** pgs. 308-314, http://ww.nickbostrom.com/astronomical/waste.html
+The argument above presupposes ... the remote prospects of success.
+
+
+**<span style="font-family: 'Times New Roman',serif; font-size: 12pt;">Colonization solves war---Overview effect</span>**
+<span style="font-size: 8pt;">Frank </span>**White**<span style="font-size: 8pt;">, SETI researcher, </span>**1990**<span style="font-size: 8pt;">, The SETI Factor</span>
+<span style="font-size: 8pt;">Many scholars and scientists see ...into a “multi-planet species.”</span>
+==Aerospace Advantage== 
+
+**Competitiveness is collapsing now – new innovation is key**
+<span class="StyleStyleBold12pt">**Dabney 10** – former bioscience communicator</span>
+Michael, former bioscience communicator at the University of California, San Diego, 4-2010, “U.S. Competitive Edge in Jeopardy,” The Epoch Times, Lexis
+In his seminal 2002 best-seller ...<span style="font-size: 10pt;"> winners, education trumps everything</span>.
+
+**Only a federal investment into SSP invigorates US aerospace leadership**
+**<span class="StyleStyleBold12pt">NSSO 7</span>**
+National Security Space Office, Report to the Director, 10-10-2007, “Space-Based Solar Power As an Opportunity for Strategic Security; Phase 0 Architecture Feasibility Study,” NSS, http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf
+FINDING: The SBSP Study Group ...<span style="font-size: 10pt;"> e</span><span class="StyleBoldUnderline"><span style="font-size: 10pt;">xpression</span></span><span style="font-size: 10pt;"> of this imperative</span>.
+
+===Econ=== 
+
+**Aerospace competitiveness //__drives economic growth__// – purely private sector approaches guarantee failure**
+**<span class="StyleStyleBold12pt">Hernnstadt 8</span>** – Director of Trade and Globalization @ IAMAW
+Owen, director of the Trade and ...<span style="font-size: 10pt;"> on well-developed industrial policies</span>.
+
+
+
+**Economic collapse would end U.S. leadership and start multiple international wars.**
+Aaron **__<span style="font-size: 12pt;">Friedberg</span>__**, Professor of politics at Witherspoon Institute, **__<span style="font-size: 12pt;">and</span>__**Gabriel **__<span style="font-size: 12pt;">Schoenfeld</span>__**, Senior Editor of Commentary and Wall Street Journal, 10/28/20**__<span style="font-size: 12pt;">08</span>__**, “The Dangers of a Diminished America”, [[http://online.wsj.com/article/SB122455074012352571.html]]
+<span style="font-size: 8pt;">Then there are the dolorous ... as the one we now face.</span>
+
+**Benefits happen //__before any component__// is ever in space**
+**<span class="StyleStyleBold12pt">SEC 8</span>**
+Space Enterprise Council, 2008, NSS, http://www.nss.org/settlement/ssp/library/2008-SECSpaceBasedSolarPowerWhitePaper.pdf
+<span style="font-size: 10pt;">SBSP</span> is unusual among renewable ... terrestrial solar power generation.
+
+===Heg=== 
+**US SPS investment spurs US control over energy exports**
+**Chapman et al. 11**<span style="font-size: 7pt;">—geophysicist and astronautical engineer who served as a NASA scientist astronaut during the Apollo Program [March, Phil, “Solar High: Energy for the 21st Century”, [[http://solarhigh.org/Overview.html]]]</span>
+
+<span style="font-size: 8pt;">The expected cost of deploying ...electricity as well as petroleum.</span>
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 10pt;">Energy control is key to sustain US hegemony</span>**
+
+<span style="font-size: 10pt;"> **Padilla 10**</span>
+<span style="background-color: white; font-size: 10pt;">(Harvard Graduate, former Intern @ White House office of Communications, Research Asst. @ Kennedy School of Government, Founder and CEO @ Saber Hoy</span>
+
+<span style="font-size: 8.5pt;">Jonathan Padilla, “The Vanguard of Global Leadership: The Case for American Energy Independence in the 21st Century,” 2010, The last date cited in the article is 2-10-2010, [[@http://www.gov.harvard.edu/files/Energy%20Independence%20-%20Padilla%20Final.pdf]]</span>
+
+<span style="font-size: 8.5pt;">"We become just by performing...</span> the vanguard of global leadership.    
+
+
+<span class="12TimesNewRoman">**<span style="font-size: 12pt;">Heg solve global nuclear conflicts</span>**</span>
+**Kagan****07**<span style="font-size: 8pt;">– Senior associate @ Carnegie Endowment for International Peace [Robert Kagan (Senior transatlantic fellow at the German Marshall Fund), “End of Dreams, Return of History,” </span>__Policy Review__<span style="font-size: 8pt;">, August & September 2007, pg. http://www.hoover.org/publications/policyreview/8552512.html]</span>
+
+<span style="font-size: 8pt;">The jostling for status and influence... involvement will provide an easier path. </span>
+
+===Russian Brain Drain=== 
+
+
+**//Russia// is promoting Skolkovo, the new Russian Silicon Valley – investors are key to success**
+**__<span style="font-size: 12pt;">Vostrov</span>__**December 22nd 20**__<span style="font-size: 12pt;">11</span>__** [Alexander, Staff writer at Russia Beyond The Headlines, his articles are published in numerous US new outlets on issues pertaining to Russia, his work is published in the New York Times, Bloomberg, and other numerous highly respective business new magazines, IBM and Skolkovo plan collaborations, http://www.telegraph.co.uk/sponsored/russianow/technology/8973374/IBM-Skolkovo-collaborations.html]
+
+<span style="font-size: 8pt;">The </span>Skolkovo<span style="font-size: 8pt;"> innovation village, </span><span class="Underline">often called ...</span> market believes in the project,”<span style="font-size: 8pt;"> he says. </span>
+
+**And venture capital firms are necessary to develop SPS**
+**<span style="font-family: Arial,sans-serif;">Flournoy 12</span>**<span class="addmd">[Don </span>Prof. of Telecommunications School of Media Arts and Studies Scripps College of Communication Ohio Regents Center of Excellence and Don Flournoy is an internationally known scholar in the application of information and telecommunication technologies (ICTs) to the solution of human problems, Solar Powered Satellites, pg. 63]
+<span style="font-size: 8pt;">As a former NASA scientist, serving... for any SBSP project” (Hsu 2010. P. 6).</span>
+
+**Plan would create a catalyst for investors to seek participation in SPS**
+<span style="display: block; text-align: left;"><span style="display: block; text-align: left;">**<span style="font-family: Arial,sans-serif; font-size: 11pt;">NSSO</span>**<span style="font-size: 11pt;">(</span>National Security Space Office), DoD department for space security 10/10/**<span class="Author-Date">__<span style="font-family: Arial,sans-serif; font-size: 12pt;">07</span>__</span>**, http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf</span></span>
+<span style="font-size: 8pt;">At this stage </span><span class="Underline">is important to ask ...</span>just watch but not act.
+
+**Plan would create a tradeoff – venture capitalist could come to America and high skilled workers would follow them – Using the Employment Based visa would crush Russian innovation.**
+**<span style="font-family: Arial,sans-serif;">Aervitz</span><span style="font-size: 8pt;"> 20</span>**<span style="font-family: Arial,sans-serif;">**10**</span>[Irina– writer for the Moscow News, “Yes to Silicon Valley – but whose?,” 07/06/2010, http://www.mn.ru/comments/20100607/187864167.html]
+As<span class="Underline"> more </span>countries turn to ... start living the American dream.
+
+====Syrian Arms Sales Impact==== 
+
+
+**Skolkovo key to Russian military modernization and arms sales across the globe**
+<span style="font-family: Calibri,sans-serif;">Toby</span>**<span style="font-family: Arial,sans-serif; font-size: 11pt;">Westerman 2010</span>**<span style="font-family: Calibri,sans-serif;">– Editor @ International News Analysis, June 30, Schwarzenegger flexes muscle for Moscow, while Obama ignores warnings from Russian dissidents, [[http://www.renewamerica.com/columns/westerman/100630]]</span>
+<span class="Underline">Medvedev's campaign for venture capital and high tech aid occurred as his "new" Russia is looking increasingly like the old Soviet Union. Stark warnings about<span style="line-height: 24px;"> //the true ...//</span> God-given freedom </span>depend on it<span class="Underline">.</span>
+
+**Russian assistance key to develop Syrian air-defenses**
+**<span style="font-family: Arial,sans-serif;">U.P.I. 2011</span>**, ‘11 Jan. 31, 2011 [[http://www.upi.com/Business_News/Security-Industry/2011/01/31/Israel-needs-F-35-to-stay-on-top/UPI-55631296504305/]]
+Syria and Iran have been ...<span style="font-size: 8pt;"> generation fighter jets," Laish concluded.</span>
+
+**Arms sales to Syria key to expansion of Russian hegemony in the Middle East**
+<span style="font-family: Arial,sans-serif; font-size: 10pt;">Ariel</span>**<span style="font-family: Arial,sans-serif;">Cohen 2010</span>**, Heritage, “Is Obama’s “Reset” Boosting Destabilizing Russian Arms Sales?”, 9-21, [[http://blog.heritage.org/2010/09/21/is-obamas-reset-boosting-destabilizing-russian-arms-sales/]]
+<span style="font-size: 8pt;">Washington last Friday, Russian Defense ... recognized Hamas only, but not Hezbollah).</span>
+
+**Extinction**
+**<span style="font-family: Arial,sans-serif;">Blank 2009</span>**– Dr. Stephen Blank , Research Professor of National Security Affairs at the Strategic Studies Institute of the U.S. Army War College, March 2009, “Russia And Arms Control: Are There Opportunities For The Obama Administration?,” online: [[http://www.strategicstudiesinstitute.army.mil/pdffiles/pub908.pdf]]
+<span style="font-size: 8pt;">Proliferators or nuclear states like ...</span><span class="Underline"> or their own people.172</span>
+
+====IGNITOR Impact==== 
+
+
+**Russian brain drain ending--triggering mega projects like IGNITOR**
+**<span style="font-family: Arial,sans-serif;">Aristov 10</span>**<span style="font-family: Arial,sans-serif; font-size: 10pt;">(Mikahil. RIA Novosti. “Russian scientists involved in international megaprojects.” http://english.ruvr.ru/2010/12/30/38342772.html)</span>
+
+Russian scientists have<span style="font-size: 8pt;"> been ... </span>//<span style="font-size: 12pt;">in large-scale international scientific projects.</span>//
+
+**Ignitor will trigger fusion**
+**<span style="font-family: Arial,sans-serif;">Nature 10 </span>**<span style="font-size: 8pt;">[[http://blogs.nature.com/news/thegreatbeyond/2010/04/italy_russia_fund_fusion_r.html]]</span>
+
+Italy and Russia plan to build<span style="font-size: 8pt;"> ... will be needed to build IGNITOR.</span>
+
+**Ignition leads to fusion bombs**
+**<span style="font-family: Arial,sans-serif;">Gsponer and Hurni 2008</span>**
+
+<span style="font-size: 8pt;">[[http://www.scribd.com/doc/17284232/ITER-Proliferation-Implications]]</span>
+
+<span class="Underline">“</span>Ignition<span class="Underline">,”</span><span style="font-size: 8pt;"> the last item stressed ... than would otherwise be possible.</span>
+**Leads to escalation**
+**<span style="font-family: Arial,sans-serif;">Makhijani et al 3</span>**
+
+<span style="font-size: 8pt;">[[http://www.ieer.org/reports/fusion/dtq.pdf]]</span>
+
+<span style="font-size: 8pt;"> Keeping together a dense enough ... </span>effect on non-proliferation and nuclear disarmament<span class="Underline">.</span>
+
+
+**Fusion bombs create the greatest risk for nuclear use fallout contains the risk of nuclear war--only fusion bombs are clean enough to trigger escalation**
+**<span style="font-family: Arial,sans-serif;">Makhijani et al 2003</span>**
+
+[[http://www.ieer.org/reports/fusion/dtq.pdf]]
+<span style="font-size: 8pt;">A great qualitative change in ... </span>//<span style="font-size: 12pt;">for over half a century</span>////<span style="font-size: 12pt;">.</span>//
+
+
+===Obama Power=== 
+
+**<span style="font-size: 12pt;">Global SPS development is inevitable—__inaction__ collapses aerospace competitiveness</span>**
+**<span style="font-size: 12pt;">Matai, 10</span>**<span style="font-size: 8pt;"> - Chairman at Asymmetric Threats Contingency Alliance and the Philanthropia (DK, 6/13/10, "Japan Takes Lead in Wireless Power? 21stC Global Energy Supply", http://www.mi2g.com/cgi/mi2g/frameset.php?pageid=http%3A//www.mi2g.com/cgi/mi2g/press/130610.php)</span>
+<span style="font-size: 8pt;">In the footsteps of Nikola Tesla, </span>**__...__**<span style="font-size: 8pt;"> in the 21st century and beyond!</span>
+
+**<span style="font-size: 12pt;">That __destroys__ Obama power</span>**
+**<span style="font-size: 12pt;">Bolton, 09</span>**<span style="font-size: 8pt;"> – Senior Fellow at the American Enterprise Institute and Former U.S. Ambassador to the U.N. (John, 11/3/09, “Bolton on Obama’s Afghanistan Decision: This is Like a Slow-Motion Trainwreck”, [[http://www.foxnews.com/story/0,2933,574349,00.html]])</span>
+<span style="font-size: 8pt;">JOHN BOLTON, FORMER U.S. AMBASSADOR ...</span> **__making hard decisions decision__**<span style="font-size: 8pt;">.</span>
+
+**<span style="font-size: 12pt;">Weakening Obama results in __global instability__—Iran, North Korea, Syria, Russia, China, India and Pakistan will take advantage</span>**
+**<span style="font-size: 12pt;">Chapin and Hanson, 09</span>**<span style="font-size: 8pt;"> – *Interviewer AND ** Martin and Illie Anderson Senior Fellow at the Hoover Institution (*Bernard AND **Victor Davis, 12/7/09, "Change, Weakness, Disaster, Obama: Answers from Victor Davis Hanson", http://pajamasmedia.com/blog/change-weakness-disaster-obama-answers-from-victor-davis-hanson/)</span>
+<span style="font-size: 8pt;">BC: Are we currently sending a message ... whom it will bite or when.</span>
+
+**<span style="font-size: 12pt;">Impact to North Korea is extinction</span>**
+**<span style="font-size: 12pt;">Hayes, 10</span>**<span style="font-size: 8pt;"> [Peter & Michael Hamel-Green, Executive Director of the Nautilus Institute for Security and Sustainable Development, a member of the Pacific Council on International Policy, the Western partner of the Council on Foreign Relations; and the US Committee of the Council for Security Cooperation in the Asia Pacific “The Path Not Taken, the Way Still Open: Denuclearizing the Korean Peninsula and Northeast Asia” Nautilus, Special Report, 10-001: January 5th, 2010, http://www.nautilus.org/fora/security/10001HayesHamalGreen.pdf] </span>
+<span style="font-size: 8pt;">The international community is increasingly ... could similarly be intercepted.</span>
+
+**<span style="font-size: 12pt;">China-India conflict goes nuclear </span>**
+**<span style="font-size: 12pt;">Kahn, 09</span>**<span style="font-size: 8pt;"> (Jeremy, 10/10/09, “India’s China Obsession”, http://www.newsweek.com/id/217088)</span>
+<span style="font-size: 8pt;">The implications for India's security... to separate the two sides.</span>
+
+**<span style="font-size: 12pt;">Russian adventurism causes nuclear conflict, accidental launch and collapses Russian democracy</span>**
+**<span style="font-size: 12pt;">Cohen, 96</span>**<span style="font-size: 8pt;"> – Senior Policy Analyst at the Heritage Foundation (Ariel, 1/25/96, "The New "Great Game": Oil Politics in the Caucasus and Central Asia", http://www.heritage.org/research/reports/1996/01/bg1065nbsp-the-new-great-game)</span>
+<span style="font-size: 8pt;">THE U.S. ROLE IN THE GREAT GAME ... market economies and free societies.</span>
+
+**<span style="font-size: 12pt;">Russian democracy collapses results in nuclear war</span>**
+**<span style="font-size: 12pt;">Irsraelyan, 98</span>**<span style="font-size: 8pt;"> – Soviet Ambassador, Former Diplomat and Arms Control Negotiator (Victor, Winter 1998, “Russia at the Crossroads”, Washington Quarterly, Lexis Nexis)</span>
+<span style="font-size: 8pt;">The first and by far most ... we all fall down together." n12</span>
+
+
+==Warming Advantage== 
+
+
+**Warming is real and human induced – drastic emissions reductions are key to avoid dangerous climate disruptions**
+**<span style="font-size: 12pt;">Somerville 11</span>**<span style="font-size: 8pt;"> – Professor of Oceanography @ UCSD</span>
+<span style="font-size: 8pt;">Richard Somerville, Distinguished Professor Emeritus and Research Professor at Scripps Institution of Oceanography at the University of California, San Diego, Coordinating Lead Author in Working Group I for the 2007 Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 3-8-2011, “CLIMATE SCIENCE AND EPA'S GREENHOUSE GAS REGULATIONS,” CQ Congressional Testimony, Lexis, BJM</span>
+
+<span class="UnderlineChar">In</span><span style="font-size: 8pt;"> early </span><span class="UnderlineChar">2007</span><span style="font-size: 8pt;">, at the time of the ... zero well within this century.</span>
+
+**<span style="font-family: Cambria,serif; font-size: 13pt;">Prefer our scientific assessments over single scientists or fringe theories</span>**
+<span class="StyleStyleBold12pt">**Alley 10** – Professor of Geoscience @ Penn State</span>
+<span style="font-size: 8pt;">Richard, Professor of Geoscience @ Penn State, authored over 200 refereed scientific papers, which are "highly cited" according to a prominent indexing service, erved with distinguished national and international teams on major scientific assessment bodies, 11-17-2010, “CLIMATE CHANGE SCIENCE; COMMITTEE: HOUSE SCIENCE AND TECHNOLOGY; </span>
+<span style="font-size: 8pt;">SUBCOMMITTEE: ENERGY AND ENVIRONMENT,” CQ Congressional Testimony, Lexis</span>
+Background on Climate Change and ...<span style="font-size: 10pt;">warming has removed them entirely</span>.
+
+
+**<span style="font-family: Cambria,serif; font-size: 12pt;">Acting now is key to avoiding tipping points</span>**
+<span class="StyleStyleBold12pt">**Strom 7** – Professor of Planetary Science @ U of Arizona</span>
+<span style="font-size: 8pt;">Robert Strom, studied climate change for 15 years, the former Director of the Space Imagery Center, Professor of planetary sciences @ U of Arizona, "Hot House", SpringerLink, p. 123</span>
+<span style="font-size: 10pt;">We do not have time to ... be in the </span><span class="StyleBoldUnderline"><span style="font-size: 10pt;">worst trouble imaginable</span></span><span style="font-family: 'Times New Roman',serif; font-size: 11pt;">.</span>
+
+**SPS solves – it’s the only solution and warming risks extinction**
+**<span style="font-size: 12pt;">Hsu 10</span>**<span style="font-size: 8pt;"> – PhD in Engineering</span>
+<span style="font-size: 8pt;">Feng, PhD in Engineering, Former head of the NASA GSFC risk management function, and was the GSFC lead on the NASA-MIT joint project for risk-informed decision-making support on key NASA programs, has over 90 publications and is coauthor of two books and co-chair of several technical committees, 12-2010, “Harnessing the Sun: Embarking on Humanity's Next Giant Leap,” Online Journal of Space Communication, http://spacejournal.ohio.edu/issue16/hsu.html</span>
+
+<span style="font-size: 8pt;">It has become increasingly evident ...</span><span class="UnderlineChar">chance to make a difference</span><span style="font-size: 8pt;">.</span>
+
+==Solvency== 
+**Sun-synchronous satellites solve all of your solvency deficits – less than 1% power loss, higher performance, lower cost, less mass to transport into orbit**
+**__<span style="font-size: 12pt;">NSS 12-17</span>__**<span style="font-size: 8pt;">(National Space Society. NSS Space Settlement Journal, peer-reviewed publication from the NSS. December 17, 2011. Royce Jones. “Sun-synchronous orbiting SBSP Satellites with Equatorial orbiting Reflector Satellites for Earth and Space Energy” http://www.nss.org/settlement/journal/NSSJOURNAL_TheSpaceGrid_2011.pdf)</span>
+<span style="font-size: 8pt;">For SBSP, the dimensioning of the ... reduced mass launched into SS-O. </span>
+
+**Wireless power transmission solves energy and colonization**
+**__<span style="font-size: 12pt;">NSS 12-17</span>__**<span style="font-size: 8pt;">(National Space Society. NSS Space Settlement Journal, peer-reviewed publication from the NSS. December 17, 2011. Royce Jones. “Sun-synchronous orbiting SBSP Satellites with Equatorial orbiting Reflector Satellites for Earth and Space Energy” http://www.nss.org/settlement/journal/NSSJOURNAL_TheSpaceGrid_2011.pdf)</span>
+<span class="Underline">Wireless Power Transmission</span>(WPT<span style="font-size: 8pt;">) and ...</span><span class="Underline"> at the same time. </span>
+
+**No tech barriers in SPS or support systems**
+**__<span style="font-size: 12pt;">IAA 11</span>__**<span style="font-size: 8pt;">(International Academy of Astronautics. The International Academy of Astronautics (IAA), a nongovernmental organization recognized by the United Nations, was founded in 1960. The purposes of the IAA are to foster the development of astronautics for peaceful purposes, to recognize individuals who have distinguished themselves in areas related to astronautics, and to provide a program through which the membership can contribute to international endeavors and cooperation in the advancement of aerospace activities. “Space Solar Power: The First International Assessment of Space Solar Power: Opportunities, Issues, and Potential Pathways Forward.” Three-year, multinational peer-reviewed study on the feasibility of Space Solar Power. Ed. John C. Mankins. http://iaaweb.org/iaa/Studies/sg311_finalreport_solarpower.pdf)</span>
+
+<span style="font-size: 8pt;">The three SPS concept types ...very low cost ETO transport. </span>
+
+**SSP can be up and running within one year**
+**Costa, 10**//<span style="font-size: 8pt;"> - </span>////<span style="font-family: Georgia,serif;">sociobiologist whose unique expertise is to spot and explain emerging trends in relationship to human evolution, global markets, and new technologies</span>//**.** //<span style="font-family: Georgia,serif;">A popular speaker at thought-leader and technology conferences as well as major universities, Costa is the former CEO of Silicon Valley start-up Dazai Advertising, Inc. Costa’s clients included technology giants such as Apple Computer, Hewlett- Packard, Oracle Corporation, 3M, Amdahl, Seibel Systems and General Electric</span>// **(Rebecca, “Can NASA Save a Struggling America?” Clean Technica, 11/1,** **[[http://cleantechnica.com/2010/11/01/can-nasa-save-struggling-america/]])**
+
+<span style="font-size: 8pt;">If we took a moment to rank ...</span> energy solution here on earth__.__
+
+
+=GPS= 
+==Plan Text== 
+**<span style="font-family: 'Arial Narrow',sans-serif; font-size: 12pt;">The United States federal government should develop and deploy a full Global Positioning Satellite system using GPS III satellites.</span>**
+
+==<span style="font-family: Arial,Helvetica,sans-serif; font-size: 14pt;">**Inherency**</span>== 
+**Based on current funding, four GPS III satellites will be produced**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">GPS.gov 12</span>** ( Official U.S. Government information about the Global Positioning System (GPS) and related topics. “Space Segment.” 1-31. [[@http://www.gps.gov/systems/gps/space/#III|http://www.gps.gov/systems/gps/space/#III]])
+
+<span style="color: #222222; font-size: 8pt;">Currently under development by Lockheed ... military and civilian users alike. </span>
+
+
+**Lockheed Martin is under contract to build 4 GPS III satellites but they’re capable of replacing the whole constellation 4 satellites at a time – means all your disads are non-unique**
+**__<span style="font-size: 12pt;">Denver Post 2-22</span>__**(“Lockheed opens GPS III processing facility in Jeffco” http://www.denverpost.com/business/ci_20015258)
+<span style="font-size: 8pt;">The Global Positioning System is a satellite...</span> constellation of GPS II satellites.
+
+**Large-scale GPS III procurement isn’t guaranteed because of budget cuts – Boeing is offering super cheap Block IIFs**
+**__<span style="font-size: 12pt;">Thompson 11</span>__**<span style="background-color: white;">(</span>Loren Thompson is the chief operating officer of the Lexington Institute. “Battle Brewing Over Future Of GPS Constellation” http://www.lexingtoninstitute.org/battle-brewing-over-future-of-gps-constellation)
+<span style="background-color: white; font-size: 8pt;">The U.S. Department of Defense is an ...</span> long-term fiscal challenges may be.
+
+
+==Maritime Power Advantage== 
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">The risks of jamming and spoofing of GPS are rising every year</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Roberts 2/23</span>** (John, former Chief White House Correspondent, University of Toronto, new anchor and journalist, “GPS at risk from terrorists, rogue nations, and $50 jammers, expert warns”, [[http://www.foxnews.com/scitech/2012/02/23/gps-emerging-threat/?test=latestnews]], 2/23/12)
+
+The Global Positioning System<span style="font-size: 8pt;"> guides ... that sometimes has unintended consequences. </span>
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">That specifically collapses maritime power</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Williams 2/23</span>** (Alison, retired yacht circumnavigator [25 years] published by Pablo Avanzini, retired naval officer [24 years], “Maritime GPS Navigation at Risk from Jammers and Spoofers”, [[http://www.pabloavanzini.com/maritime-gps-navigation-at-risk-from-jammers-and-spoofers/]], 2/23/12)
+
+Marine navigation all over the ... less than a thousand euros.
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Maritime power solves all war – deters conflict and ensures defense</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Whiteneck and Clark</span> <span style="font-size: 12pt;">11</span>** (Commander Bryan Clark U.S. Navy (Retired) and Dr. Dan Whiteneck, “Strategic Choices at the Tipping Point”, Proceedings Magazine - February 2011 Vol. 137/2/1,296)
+
+<span style="font-size: 8pt;">In light of global economic and ... indeed be at a “tipping point.”</span>
+
+
+**Specifically deters Iran**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Klare 3/2</span>**<span style="font-size: 8pt;"> (Michael T., Five college professor of Peace and World Security studies, Defense correspondent at //The Nation// magazine, on the Board of Directors of Human Rights Watch, “America’s maritime power”, [[http://mondediplo.com/2012/03/06uspacific]], 3/2/12)</span>
+
+<span style="font-size: 8pt;">According to Obama and Panetta, ... from China and other rising powers.</span>
+
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Iran’s acquisition of nuclear weapons sparks a massive arms race – mutually assured destruction is dead</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Mitchell 3/2</span>** (George, retired senator of 15 years, senate majority leader for 6 years, currently serves as co-chair of the Housing Commission at the Bipartisan Policy Center, “Former Sen. Mitchell: Nuclear Iran Would Ignite Worldwide Arms Race”, [[http://americannewsreport.com/former-sen-mitchell-nuclear-iran-would-ignite-worldwide-arms-race-8813376.html]], 3/2/12)
+
+<span style="font-size: 8pt;">Few U.S. Senators in recent ...</span> people all around the world.
+
+
+<span class="Underline">**<span style="font-size: 10pt;">That causes global nuclear war and extinction</span>**</span>
+<span style="font-family: Georgia,serif; font-size: 12pt;">Primakov 9</span><span style="font-size: 8pt;"> (Yevgeny, President of the Chamber of Commerce and Industry of the Russian Federation; Member of the Russian Academy of Sciences; member of the Editorial Board of Russia in Global Affairs. This article is based on the scientific report for which the author was awarded the Lomonosov Gold Medal of the Russian Academy of Sciences in 2008, “The Middle East Problem in the Context of International Relations”, 9/08)</span>
+
+<span style="font-size: 8pt;">The </span>Middle East conflict is ...<span style="font-size: 8pt;"> rule out such a possibility.</span>
+
+==<span style="line-height: 24px;">Timing Advantage</span>== 
+
+**2 scenarios**
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">1. Timing is key to the power-grid</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">NCO 11</span>**<span style="font-size: 8pt;"> (National Coordination Office for Space-based positioning, Navigation, and Timing, “Timing”, <span style="font-size: 10pt;">[[http://www.gps.gov/applications/timing/]]</span>, 12/28/11)</span>
+
+<span style="font-size: 8pt;">In addition to longitude, latitude, and ... available to the entire world.</span>
+
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Collapse of the power grid causes nuclear meltdown, that means extinction</span>**
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;"> International Business Times 11</span>** (Solar Flare Could Unleash Nuclear Holocaust Across Planet Earth, Forcing Hundreds of Nuclear Power Plants Into Total Meltdowns, [[http://au.ibtimes.com/articles/213249/20110914/solar-flare-could-unleash-nuclear-holocaust-across-planet-earth-forcing-hundreds-of-nuclear-power-pl.htm]])
+
+<span style="font-size: 8pt;">What happens when there's ... fraction of the total population.</span>
+
+**2. GPS checks back clandestine nuclear testing**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Schwarz 11</span>** (Yannick, Online marketing manager at Quantum Networks, “GPS Can Be Used to Track Clandestine Nuclear Explosions”, [[http://goinggps.com/gps-can-be-used-to-track-clandestine-nuclear-explosions/]], 6/8/11)
+
+A team of American researchers unveiled ... <span style="font-size: 8pt;"> hopefully </span>prevent them in the end.
+
+
+**That causes the earth to implode from nuclear radiation**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">Chalko 03</span>** (“Can a Neutron Bomb accelerate Global Volcanic Activity?” Tom J. Chalko, MSc, PhD., Head of Geophysics Division, http://sci-e-research.com/neutron_bomb.html)
+
+Consequences of using<span style="font-size: 8pt;"> modern </span>nuclear ... the entire planet to explode.
+
+
+==Solvency== 
+
+**<span style="font-family: Georgia,serif; font-size: 12pt;">GPS III satellites can be up in 2014 and solves jamming and spoofing</span>**
+**<span style="font-family: Georgia,serif; font-size: 12pt;">UPI 1/16</span>** (United Press International news service, “Lockheed building more GPS III satellites”, [[http://www.upi.com/Business_News/Security-Industry/2012/01/16/Lockheed-building-more-GPS-III-satellites/UPI-25391326723087/]], 1/16/12)
+
+
+<span style="font-size: 8pt;">NEWTOWN, Pa., Jan. 16 (UPI) -- The </span>third and ... system is scheduled for 2014
+
+**Immediate implementation of a full GPS III system is uniquely key to solve – current plans to continue using Block 2F increase the risk of all of our advantages**
+**__<span style="font-size: 12pt;">Thompson 11</span>__**(Loren Thompson is the chief operating officer of the Lexington Institute. He is a consultant to GPS 3 prime contractor Lockheed Martin. “There is No Alternative to GPS 3.” [[http://www.spacenews.com/commentaries/111128-no-alternative-gps.html]])
+
+<span style="font-size: 8pt;">The U.S. federal budget has ... </span>users of a vital national asset.

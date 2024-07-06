@@ -1,0 +1,3 @@
+The following is an automatically-generated list of all of the 2011-2012 policy debate teams from Arizona that have a page on the wiki. It only displays pages that were tagged correctly and so is not necessarily a comprehensive list; if you notice a Arizona team's page that hasn't been tagged, please tag it so that this list is accurate.
+
+[[include component="pageList" hideInternal="true" tag="2011-2012 policy teams from arizona" limit="1000" ]]

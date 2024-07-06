@@ -1,0 +1,271 @@
+[[toc]]
+A small preface to what we're doing here:
+We've decided that Word documents are the best way to post many cites on the wiki while preserving organization and accessibility. We post the most recent 1AC directly on the wiki with partial text (albeit small-sized for organization), then we post a Word document with full text for the 1AC and each additional subheading. We also provide a short description of opponent, affirmative, 1NC strategies, block division, 2NR choice, and decision from all of our negative rounds. After that, we post 2NR statistics. We try to put up the full text of every 1NC, 1AC, and 2AC card that we read. The only exception to this rule is 1NC case arguments - to upload all of those would be quite difficult. We will put up cards we've read in any other speech in any debate by request. Naturally, we're only human, so we probably will forget some cites along the way. Feel free to email us (Milan generally manages most disclosure) if you need any help finding anything, want us to put up more cites, or have trouble accessing anything here. If one of us doesn't respond promptly, try the other.
+[[media type="custom" key="20829366"]]
+Affirmative questions: email Milan at [[media type="custom" key="21204988"]].
+Negative questions: email Meyer at [[media type="custom" key="20776246"]].
+=Affirmative= 
+==AFF NIB - Glenbrooks== 
+===A Note About 2ACs=== 
+I will post all the cites to our 2ACs after the tournament concludes. If you need the cites to a 2AC I have read, please email me or talk to me - I'll be happy to give them to you immediately. - Milan
+===1AC Glenbrooks (Updated 11/17/12)=== 
+Download full text of the 1AC here: [[file:StMarksTS-1AC-Glenbrooks-11-17-12.docx]]. Cites are below:
+
+====1AC Economic Growth==== 
+**Contention one is economic growth**
+**It will falter now**
+**Walter 11/13**<span style="font-size: 6pt;">—Wall Street Journal (Mathew, Global Economic Growth Seen Slowing, http://online.wsj.com/article/SB10001424127887324439804578115210316458402.html?mod=googlenews_wsj, chm)</span>
+<span style="font-size: 6pt;">As emerging-market nations e... between 2013 and 2018.</span>
+**The plan makes growth sustainable**
+**Riley 9/6**<span style="font-size: 6pt;">—Staff writer for CNN (Charles, Obama's stimulus gambit, 2012, http://money.cnn.com/2011/09/06/news/economy/obama_stimulus_options/?cnn=yes, chm)</span>
+<span style="font-size: 6pt;">NEW YORK (CNNMoney) -- Now is the time for action.</span>
+<span style="font-size: 6pt;">That's the message the ... would make the bank self sufficient.</span>
+**The plan is key to revitalize the economy**
+**Peirce 11/11**<span style="font-size: 6pt;"> (Neal, “Peirce: Can we soften future storm blows?”, 2012, http://www.denverpost.com/opinion/ci_21958887/peirce-can-we-soften-future-storm-blows#ixzz2CJfCb21x, CMR)</span>
+<span style="font-size: 6pt;">But with rising global ... on the sidelines.</span>
+**We solve for 3 reasons.**
+**A. Poor transportation infrastructure hamstrings American growth**
+**Donohue, 11**<span style="font-size: 6pt;"> --- president and chief executive officer of the US Chamber of Commerce (9/8/2011, Thomas J., Christian Science Monitor, “The highway to jobs - via better infrastructure,” Factiva, JMP)</span>
+
+<span style="font-size: 6pt;">As Obama and Congress talk ... up to the challenge, we are.</span>
+**B. the plan resolves the demand shortage**
+**Skidelsky & Martin, 11**<span style="font-size: 6pt;"> --- *Emeritus Professor of Political Economy at the University of Warwick, AND **macroeconomist and bond investor (3/30/2011, Robert Skidelsky and Felix Martin, New York Review of Books, “For a National Investment Bank,” http://www.skidelskyr.com/site/article/for-a-national-investment-bank/, JMP)**</span>
+
+**<span style="font-size: 6pt;"> President Obama is in a... benefits that such projects would bring to the broader economy.</span>**
+
+**C. The NIB accesses a critical multiplier effect**
+**Tyson, 11<span style="font-size: 6pt;"> --- professor at the Haas School of Business at UC Berkeley (6/3/2011, Laura D’Andrea Tyson, NYT Blogs, “The Virtues of Investing in Transportation; Economix,” Factiva, JMP)</span>**
+
+**<span style="font-size: 6pt;">Years of underinvesting ... cost-benefit analysis by independent experts.</span>**
+
+**Economic decline increases the risk of war**
+**Royal 10<span style="font-size: 6pt;"> — Jedidiah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, M.Phil. Candidate at the University of New South Wales, 2010 (“Economic Integration, Economic Signalling and the Problem of Economic Crises,” Economics of War and Peace: Economic, Legal and Political Perspectives, Edited by Ben Goldsmith and Jurgen Brauer, Published by Emerald Group Publishing, ISBN 0857240048, p. 213-215)</span>**
+**<span style="font-size: 6pt;">Less intuitive is how periods of... should be considered ancillary to those views.</span>**
+
+**Failure to maintain US growth will collapse hegemony and cause great power conflict**
+**Khalilzad 11****<span style="font-size: 6pt;"> — Zalmay Khalilzad, Counselor at the Center for Strategic and International Studies, served as the United States ambassador to Afghanistan, Iraq, and the United Nations during the presidency of George W. Bush, served as the director of policy planning at the Defense Department during the Presidency of George H.W. Bush, holds a Ph.D. from the University of Chicago, 2011 (“The Economy and National Security,” National Review, February 8th, Available Online at http://www.nationalreview.com/articles/print/259024, Accessed 02-08-2011)</span>
+
+<span style="font-size: 6pt;">¶ Today, economic and fiscal trends ... of multi-polarity</span>
+
+==1AC P3 Space== 
+
+**Advantage 2 is P3’s or Public Private Partnerships**
+**Support for EXPANDED P3s is high, but lack the necessary capacity – a national infrastructure bank serves as a critical model**
+**LIKOSKY ET AL ’11**<span style="font-size: 6pt;"> - senior fellow at the Institute for Public Knowledge, New York University (Likosky, Michael. Josh Ishimatsu. Joyce Miller. “RETHINKING 21ST - CENTURY GOVERNMENT: PUBLIC-PRIVATE PARTNERSHIPS AND THE NATIONAL INFRASTRUCTURE BANK”. June, 2011. http://www.ssrc.org/workspace/images/crm/new_publication_3/%7B2c5cfcc9-6b9e-e011-bd4e-001cc477ec84%7D.pdf)</span>
+
+<span style="font-size: 6pt;">Support for partnerships goes ... by both parties.</span>
+
+**P3s key to lowering the cost of space exploration – they fill in gaps in government budgets**
+**Taylor 8**<span style="font-size: 6pt;"> (Tom, Lunar Transportation Systems, Vice president and senior member, “Outreach Development Public Private Partnership for Space Exploration”, http://tinyurl.com/Outreach-Development-Public-Pr)</span>
+
+<span style="font-size: 6pt;">Continuing innovation and technology ... to explore the universe.</span>
+
+**Low cost orbital access solves extinction**
+**Collins and Autino 10**<span style="font-size: 6pt;"> - * Life & Environmental Science, Azabu University AND **Andromeda Inc., Italy (Patrick and Adriano, “What the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace,” Acta Astronautica 66 (2010) 1553–1562, science direct)**</span>
+
+**<span style="font-size: 6pt;">The major source of social friction... delay, will ameliorate many problems in the world today.</span>**
+
+**Technology and cost barriers are insubstantial**
+**Zubrin 11****<span style="font-size: 6pt;"> 6/28/2011 – president of pioneer Astronautics and the founder of the Mars Society, former senior engineer at Lockheed Martin Astronautics, master’s degree in aeronautics and astronautics and a Ph.D. in nuclear engineering (“The Case For Mars: The plan to settle the red planet and why we must”, Revised June 28, 2011, pg.1-2 )//DT</span>
+
+<span style="font-size: 6pt;">Some have said that a human ... the story changes, radically.</span>
+
+==1AC Plan== 
+**Plan: The United States federal government should substantially increase its transportation infrastructure capital expenditures in the United States through a national infrastructure bank.**
+
+==1AC Solvency== 
+**The status quo is insufficient—improving our transportation infrastructure is key**
+**Miller, Costa and Cooper 9/5**<span style="font-size: 6pt;">—Senior Fellow with the Economic Policy team, Kristina Costa is a Research Assistant in Economic Policy, and Keith Miller is an intern with the Economic Policy team at the Center for American Progress. (Donna, Kristina, and Keith, “Creating a National Infrastructure Bank and Infrastructure Planning Council How Better Planning and Financing Options Can Fix Our Infrastructure and Improve Economic Competitiveness”, http://www.americanprogress.org/issues/economy/report/2012/09/05/36409/creating-a-national-infrastructure-bank-and-infrastructure-planning-council/ , chm)</span>
+
+<span style="font-size: 6pt;">Infrastructure forms the ... economy get back on its feet.</span>
+
+
+**Status quo investment also fails—the plan is key—here is a description of our bank**
+**Staley, PhD, 10**<span style="font-size: 6pt;">—senior research fellow at Reason Foundation and associate director of the DeVoe L. Moore Center at Florida State University in Tallahassee where he teaches graduate and undergraduate courses in urban planning, regulation, and urban economics, was director of urban growth and land-use policy for Reason Foundation where he helped establish its urban policy program in 1997. Staley received his B.A. in Economics and Public Policy from Colby College, M.S. in Social and Applied Economics from Wright State University, and Ph.D. in Public Administration, with concentrations in urban planning and public finance from Ohio State University. (Samuel, A National Infrastructure Bank Can Provide Important Benefits If Mission and Scope Are Defined Narrowly”, http://reason.org/news/show/infrastructure-bank-testimony, chm)</span>
+
+<span style="font-size: 6pt;">We are at a crossroads on ... underwrite capital projects.</span>
+
+**Federal action is critical to stimulate the economy and overcome problems that devastate status quo infrastructure projects — action now is key**
+**McConaghy & Kessler, 11**<span style="font-size: 6pt;"> --- * Director of the Third Way Economic Program, AND **Vice President for Policy at Third Way (January 2011, Ryan McConaghy and Jim Kessler, “A National Infrastructure Bank,” http://www.bernardlschwartz.com/political-initiatives/Third_Way_Idea_Brief_-_A_National_Infrastructure_Bank-1.pdf, JMP)**</span>
+
+**<span style="font-size: 6pt;">America’s economic future ... enduring infrastructure investments.</span>**
+
+**Our mechanism is good**
+**Staley, PhD, 10<span style="font-size: 6pt;">—senior research fellow at Reason Foundation and associate director of the DeVoe L. Moore Center at Florida State University in Tallahassee where he teaches graduate and undergraduate courses in urban planning, regulation, and urban economics, was director of urban growth and land-use policy for Reason Foundation where he helped establish its urban policy program in 1997. Staley received his B.A. in Economics and Public Policy from Colby College, M.S. in Social and Applied Economics from Wright State University, and Ph.D. in Public Administration, with concentrations in urban planning and public finance from Ohio State University. (Samuel, A National Infrastructure Bank Can Provide Important Benefits If Mission and Scope Are Defined Narrowly”, http://reason.org/news/show/infrastructure-bank-testimony, chm)</span>**
+
+**<span style="font-size: 6pt;">Potential Benefits of an I...have sunset provisions).</span>**
+
+**Plan solves and avoids their turns**
+**Staley, PhD, 10<span style="font-size: 6pt;">—senior research fellow at Reason Foundation and associate director of the DeVoe L. Moore Center at Florida State University in Tallahassee where he teaches graduate and undergraduate courses in urban planning, regulation, and urban economics, was director of urban growth and land-use policy for Reason Foundation where he helped establish its urban policy program in 1997. Staley received his B.A. in Economics and Public Policy from Colby College, M.S. in Social and Applied Economics from Wright State University, and Ph.D. in Public Administration, with concentrations in urban planning and public finance from Ohio State University. (Samuel, A National Infrastructure Bank Can Provide Important Benefits If Mission and Scope Are Defined Narrowly”, http://reason.org/news/show/infrastructure-bank-testimony, chm)</span>**
+
+**<span style="font-size: 6pt;">Characteristics of a High-Performing ... on this important national issue.'</span>**
+
+**Transportation only avoids their turns**
+**Lovaa, 11<span style="font-size: 6pt;"> --- Federal Transportation Policy Director for NRDC (6/28/2011, Deron, “An Infrastructure Bank for Transportation,” http://switchboard.nrdc.org/blogs/dlovaas/an_infrastructure_bank_for_tra.html, JMP)</span>**
+
+**<span style="font-size: 6pt;">Another creative funding idea ... improve the status quo.</span>**
+
+**The federal government is key for four reasons**
+**Miller, Costa and Cooper 9/5<span style="font-size: 6pt;">—Senior Fellow with the Economic Policy team, Kristina Costa is a Research Assistant in Economic Policy, and Keith Miller is an intern with the Economic Policy team at the Center for American Progress. (Donna, Kristina, and Keith, “Creating a National Infrastructure Bank and Infrastructure Planning Council How Better Planning and Financing Options Can Fix Our Infrastructure and Improve Economic Competitiveness”, http://www.americanprogress.org/issues/economy/report/2012/09/05/36409/creating-a-national-infrastructure-bank-and-infrastructure-planning-council/ , chm) </span>**
+
+**<span style="font-size: 6pt;">The need for an infrastructure bank ... of the U.S. economy.</span>**
+
+**Short-term stimulus effort key to jump-start the economy and prevent depression – key internal link**
+**Fell 11/13****<span style="font-size: 6pt;"> (Charlie, “Expansion is best way US can address the fiscal cliff”, 2012, http://www.irishtimes.com/newspaper/finance/2012/1113/1224326520647.html, CMR)</span>
+
+<span style="font-size: 6pt;">The need for long-term fiscal ... Time will tell.</span>
+==AFF ITV - Grapevine/Greenhill== 
+===1AC Greenhill (Updated 09/29/12)=== 
+Download full text of the 1AC here: [[file:StMarksTS-1AC-Greenhill-9-29-12.docx]]
+
+===1AC Grapevine (Updated 09/14/12)=== 
+Download it here: [[file:1AC Round 2 Grapevine Cites.docx]]
+===2AC Addons (Updated 10/09/12)=== 
+**Download our 2AC Addons Cites:** [[file:StMarksTS-2AC-Addons-10-09-12.docx]]
+Humanitarian Relief
+===2AC AT Counterplans (Updated 09/29/12)=== 
+**Download our 2AC AT Counterplans** **Cites: [[file:StMarksTS-2AC-Counterplans-9-29-12.docx]]**
+CP NEPA
+CP Offsets
+CP States
+CP "Visibility" Word PIC
+===2AC AT Criticisms (Updated 09/29/12)=== 
+**Download our 2AC AT Criticisms** **Cites:** [[file:StMarksTS-2AC-Criticisms-9-29-12.docx]]
+K Biopower
+K Capitalism
+K Psychoanalysis IR
+K Security
+===2AC AT Disadvantages (Updated 09/29/12)=== 
+**Download our 2AC AT Disadvantages** **Cites: [[file:StMarksTS-2AC-Disadvantages-9-29-12.docx]]**
+DA Elections
+DA Politics
+===2AC AT Procedurals (Updated 09/29/12)=== 
+**Download our 2AC AT Procedurals** **Cites: [[file:StMarksTS-2AC-Procedurals-9-29-12.docx]]**
+T Communications
+T Military
+T Substantial
+T Underlying Structures
+=Negative= 
+==Neg Strats (Updated 11/27/12)== 
+===Grapevine (Updated 09/18/12)=== 
+**Round 1:**
+**AFF:** JARC (Pollution and Neoliberalism), Kinkaid RJ
+**1NC:** DA Politics (Jackson-Vanik), CP Privatization, DA Water Tradeoff, T Underlying Structures, Case (with Neoliberalism Turns)
+**2NC:** CP Privatization, Case (with Neoliberalism Turns)
+**1NR:** T Underlying Structures
+**2NR:** CP Privatization, Neoliberalism Turns
+**Decision:** NEG
+
+**Round 4:**
+**AFF:** Green Tech (Food and Water), Law Magnet OR
+**1NC:** DA Politics (Jackson-Vanik), DA Oil, CP Agriculture, T Underlying Structures/Capital Expenditure, Case
+**2NC:** DA Oil, CP Agriculture, Case
+**1NR:** T Underlying Structures/Capital Expenditure, Case
+**2NR:** DA Oil, Case
+**Decision:** NEG
+
+**Round 5:**
+**AFF:** Guam (Deterrence), Hendrickson BS
+**1NC:** DA Politics (Jackson-Vanik), DA Bomber, CP Okinawan Engagement, T Underlying Structures, T Substantial, Case (with Deterrence Internal Link Turns)
+**2NC:** Deterrence Internal Link Turns, CP Okinawan Engagement, Case
+**1NR:** Case, DA Bomber
+**2NR:** DA Bomber, Case
+**Decision:** NEG
+
+**Octas:**
+**AFF:** HSR (Economy and Hegemony)
+**1NC:** DA Politics (Jackson-Vanik), DA Brain Drain, DA Oil, CP States, Case
+**2NC:** DA Brain Drain
+**1NR:** Case
+**2NR:** DA Brain Drain, Case
+**Decision:** AFF
+
+===Greenhill (Updated 09/23/12)=== 
+**Round 2:**
+**AFF:** Port Security (Navy, Econ, and Terror), Niles West KL
+**1NC:** CP Coast Guard Modernization, DA Elections (China Bashing), K Gender, T Underlying Structures, Case
+**2NC:** K Gender, Case
+**1NR:** T Underlying Structures
+**2NR:** K Gender
+**Decision:** NEG
+
+**Round 4:**
+**AFF:** Evacuation (Racism and Ethics), Pace CK
+**1NC:** T Underlying Structures, CP Privatization, DA Elections (Russian Relations), DA Water Infrastructure, Case
+**2NC:** CP Privatization
+**1NR:** Case
+**2NR:** CP Privatization, Case
+**Decision:** NEG
+
+**Round 5:**
+**AFF:** Port Dredging (Trade and Navy), Stratford JS
+**1NC:** T Maintenance, CP Coastal Shipping, DA Food Prices, K Gender, Case
+**2NC:** CP Coastal Shipping, DA Food Prices
+**1NR:** Case
+**2NR:** DA Food Prices, Case
+**Decision:** AFF
+
+===Glenbrooks (Updated 11/17/12)=== 
+**Round 2:**
+**AFF:** Alaskan Ports (Oil Spills and Arctic War), Dowling Catholic SL
+**1NC:** K Psychoanalysis, CP Alaska DOT, DA Politics (Fiscal Cliff), Case
+**2NC:** DA Politics, Case
+**1NR:** Case
+**2NR:** DA Politics, Case
+**Decision:** AFF
+
+**Round 4:**
+**AFF:** Electric Vehicles (Grid, Warming)
+**1NC:** T, Politics, Counterplan Biochar, Oil, Case
+**2NC:** DA Politics, Case
+**1NR:** Case
+**2NR:** DA Politics, Case
+**Decision:** NEG
+
+List of arguments since then:
+T Underlying, CP States, DA Food Prices, Gender K, DA Politics, T Investment, PIC Petroleum (Gas Tax)
+===Statistics (Updated 09/24/12)=== 
+NOTE: These statistics are based on 2NR choice from all of our negative rounds this year. There may be some discrepancies in the numbers, as our tabulation may have been a bit off. Also, certain arguments did not fit into a single classification, so they were tabulated more than once, once in each applicable column; therefore, the percentage values below will not add to 100%, but should still be a relatively accurate representation of our 2NR choice. All percentage values are reported to two decimal places. The arguments are listed in descending order of percentage. When there is a tie in percentages, the arguments are listed alphabetically.
+**Counterplan and Disadvantage [and Case sometimes]:** 2/7 - __28.57%__
+**Criticism:** 1/7 - __14.29____%__
+**Case Turns and Case Defense:** 0/7 - __0.00%__
+**Disadvantage and Case:** 4/7 - __57.14%__
+**Topicality:** 0/7 - __0.00%__
+**Framework:** 0/7 - __0.00%__
+==Case Arguments (Updated N/A)== 
+NOTE: It would be really hard to post all the case arguments we’ve read throughout the year. If you want anything specific, please feel free to email either Milan or Meyer. Thanks for understanding!
+**Download our Case Argument Cites:**
+Defense:
+
+Offense:
+
+**Specific Rounds:**
+XXXX Round X vs. XXXX XX (by request):
+==Counterplans (Updated 09/23/12)== 
+**Download our Counterplan Cites:** [[file:StMarksTS-Counterplans-9-23-12.docx]]
+CP Agriculture
+CP Coastal Shipping
+CP Coast Guard Modernization
+CP Okinawan Engagement
+CP Privatization - Louisiana
+CP Privatization - JARC
+CP States
+==Criticisms (Updated 09/23/12)== 
+**Download our Criticism Cites:** [[file:StMarksTS-Criticisms-9-23-12.docx]]
+K Gender
+==Disadvantages (Updated 09/22/12)== 
+**Download our Disadvantage Cites:** [[file:StMarksTS-Disadvantages-9-23-12.docx]]
+DA Bomber
+DA Brain Drain
+DA Elections (China Bashing)
+DA Elections (Russian Relations)
+DA Food Prices
+DA Oil
+DA Politics (Jackson-Vanik)
+==Procedurals (Updated 09/23/12)== 
+**Download our Procedural Cites:** [[file:StMarksTS-Procedurals-9-23-12.docx]]
+T Capital Expenditure
+T Maintenance
+T Substantial
+T Underlying Structures
+[[include page="space.template.Footer"]]

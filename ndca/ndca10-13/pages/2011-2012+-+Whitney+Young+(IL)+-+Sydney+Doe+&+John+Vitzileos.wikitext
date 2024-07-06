@@ -1,0 +1,706 @@
+[[toc]]
+Sydney: [[mailto:sydney.doe94@gmail.com|sydney.doe94@gmail.com]]
+John: [[mailto:johnvitzileos@gmail.com|johnvitzileos@gmail.com]]
+=Affirmative= 
+
+==Note== 
+
+We use various scenarios depending on the round -- any given round could hold a detterence advantage, development advantage or ISR advantage and the ISR scenarios change given the round so ask before the round
+==1AC Greenhill - ORS== 
+
+
+===Plan Text=== 
+
+**The United States Federal Government should substantially increase its development of Operationally Responsive Space by creating a launch infrastructure that increases launch-on-demand capabilities, small satellite development and deployment, maneuverability, rapid reconstitution and hardening of military satellites**
+===Deterrence Advantage=== 
+
+**First, space asset attacks are inevitable**
+**Sub-point A is China – Chinese research, previous actions, regional positioning, PLA officials and territorial expansion all portend to an attack on US space assets**
+**Wortzel, 8** - Colonel, United States Army (Larry, Astropolitics, 6:112–137, “THE CHINESE PEOPLE’S LIBERATION ARMY
+AND SPACE WARFARE,” Ebsco Political Science)
+
+__The PLA is exploring__ __in … space in any future conflict__
+
+**Sub-point B is space debris – they will inevitably take out our satellites**
+**Donahue, 10 –** USAF Major (Jack, April, 2010, “CATASTROPHE ON THE HORIZON:
+A SCENARIO-BASED FUTURE EFFECT OF ORBITAL SPACE DEBRIS,” [[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_af691818-359f-4999-be24-f88ca154bd94/display.aspx?rs=enginespage]]) JV
+
+
+Orbital Space Debris Defined __Orbital …__ and imaging), __and weather forecasting.__
+
+**Sub-point C is Ease of Access – the proliferation of technology allows any country to get the information and 40 countries are developing ASAT capabilities in the status quo – our space assets are also vulnerable to nuclear detonation and cyber attacks**
+**Donahue, 10 –** USAF Major (Jack, April, 2010, “CATASTROPHE ON THE HORIZON:
+A SCENARIO-BASED FUTURE EFFECT OF ORBITAL SPACE DEBRIS,” [[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_af691818-359f-4999-be24-f88ca154bd94/display.aspx?rs=enginespage]])
+
+The main ones of orbital … impact space systems for years.90
+
+**Deterrence fails in the status quo**
+**<span style="color: black;">Rendleman, 10</span>**<span style="color: black;"> - </span>Colonel, U.S. Air Force (Retired), (James, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science)
+
+The 11 January 2007 test of a Chinese … 21st Century adversary attack capabilities.
+
+**2 impacts – first is hegemony –**
+**Loss of space assets destroy hegemony**
+**Marshall, 8 –** NASA Ames Research Center (Will, 2008, “ REDUCING THE VULNERABILITY OF SPACE ASSETS: A MULTITIERED MICROSATELLITE CONSTELLATION ARCHITECTURE,” Ebsco)
+
+__The U____nited States military is …__ <span style="font-size: 6pt;">of modern strategy and the</span>
+
+**This could result in global nuclear conflicts in every region of the world**
+**<span style="color: black;">Kagan, 7 - </span>**<span style="color: black;">senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)</span>
+
+<span style="color: black; font-size: 6pt;">This is a good thing, and … will provide an easier path.</span>
+
+**Second is China –**
+**Attacks on space assets causes Taiwan War and US/China pre-emption**
+**<span style="color: black;">Burke, 6</span>**<span style="color: black;"> – </span>Lt Col, USAF, command space professional with operational experience in missile operations, space surveillance, space control, missile warning, and command and control (Alan, “SPACE THREAT WARNING: FOUNDATION FOR SPACE SUPERIORITY, AVOIDING A SPACE PEARL HARBOR,” [[https://www.afresearch.org/skins/RIMS/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=07acf878-3a5f-4a2c-8259-4a34c0717e9b]])
+
+__The erosion of the US …__ satellites without fear of retribution.57
+
+**<span style="font-family: Georgia,serif;">Global nuclear war</span>**
+
+**<span style="font-family: Georgia,serif;">Hunkovic, American … </span>**__of accidents and further misperception.__96
+
+**Deterrence by punishment fails because space differs from terrestrial dominance – a commitment to ORS is key to effective deterrence by denial which prevents attacks on our space assets**
+**Sejba, 10 –** Congressional Budget Liaison Officer Budget and Appropriations Liaison Directorate Deputy Assistant Secretary for Budget Secretary of the Air Force (Timothy A., “Deterrence for Space: Is Operationally Responsive Space Part of the Solution,” [[http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf]])
+
+Introduction: The Space Domain and … __augment existing systems for Tier 2__
+
+**ORS and defensive measures are critical to deterring attacks against China and other attacks and recovering even if they do attack**
+**Putman, 9 –** Major, USAF (Christopher, March 25, 2009, “COUNTERING THE CHINESE THREAT TO LOW EARTH ORBIT SATELLITES: BUILDING A DEFENSIVE SPACE STRATEGY,” [[http://handle.dtic.mil/100.2/ADA510842]]) JV
+
+__In response to the__ __credible … Chinese offensive anti-satellite actions.__
+
+
+===Development Advantage=== 
+
+**High launch costs stop commercial development of space**
+**Coppersmith, 10 –** <span style="color: black;">historian of technology at Texas A&M University</span> (Jonathan, August 12, 2010, “Obama in space: bold but not bold enough,” [[http://www.thespacereview.com/article/1603/1]]) JV
+<span class="Underline">Lost in the attention … </span><span style="font-size: 6pt;">—two orders of magnitude—by 2020. </span>
+
+**Extinction is inevitable – commercial space growth solves**
+**Tumlinson 3** (Rick. Founder of the Space Frontier Foundation, author of //Manifesto for the Space Frontier//, co-founder of MirCorp, worker at Space Studies Institute under Gerard K. O’Neill, Executive Director and co-Founder of the Foundation for the International Non-Governmental Development of Space (FINDS), Testimony to United States Senate Committee on Commerce, Science, and Transportation, originally dated October 29, 2003. Senate re-dated February 2010. [[http://commerce.senate.gov/pdf/tumlinson102903.doc]])
+
+__Our first possible choice__<span style="font-size: 8pt;">, and … them more choices, not fewer. </span>
+
+<span class="IntenseEmphasis">**<span style="font-size: 10pt;">Resource wars are inevitable and risk extinction. Creating a viable commercial space sector changes the political calculation to go to war</span>**</span>
+<span class="IntenseEmphasis">**<span style="font-size: 10pt;">Collins and Autino, 10</span>**</span><span style="font-size: 10pt;"> - * Life & Environmental Science, Azabu University AND **Andromeda Inc., Italy (Patrick and Adriano, “What the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace,” Acta Astronautica 66 (2010) 1553–1562, science direct)**</span>
+
+**<span style="font-size: 10pt;">The major source of social friction,... economically valuable activities—notably supplying widely popular travel services to the general public.</span>**
+
+Government demand for reconstitution of small satellite constellations is vital to capitalizing the entire aerospace and commercial industrial base
+<span style="color: black;">Rendleman, 10</span>**<span style="color: black;"> - </span>Colonel, U.S. Air Force (Retired), (James, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science)**
+
+**__Given the importance of a responsive …__ part of a space assurance strategy.**
+
+Rapid use of constellations of small satellites stimulates the commercial sector and lowers launch costs – also creates effective deterrence strategies
+<span style="color: black;">Colón</span><span style="color: #101010;">, 10</span>**<span style="color: #101010;"> - </span><span style="color: black;">Lt Col, USAF, former </span>Director of Operations to the 45th Operations Support Squadron at Cape Canaveral AFS, <span style="color: black;">served as the deputy commander 595th Space Group responsible for the operational testing of space and missile weapon systems until leaving for his present assignment at the Air War College (Miguel, “ DETERRENCE 2035 –THE ROLE OF TRANSPARENCY AND DIVERSITY IN A WORLD OF NANOSATS,” [[https://www.afresearch.org/|https://www.afresearch.org]]) </span>
+
+<span style="color: black;">The book entitled //Complex Deterrence// … </span>__to attack__; effectively deterring him
+
+==1AC - Michigan Round 3== 
+
+===1AC – inherency=== 
+
+**Operationally Responsive Space exists now …** __in the current military space__
+===1AC – plan=== 
+
+**The United States Federal Government should substantially increase its development of Operationally Responsive Space by creating a launch infrastructure that increases launch on demand capabilities, small satellite development and deployment, maneuverability, rapid reconstitution, hardening of military satellites and space situational awareness**
+
+===1AC – ISR=== 
+**ISR capabilities are ineffective in the status quo because effective launch capabilities and ISR satellites will be attacked – ORS is critical to having effective ISR capabilities**
+**Sejba, 10** - USAF Congressional Budget Liaison Officer Budget and Appropriations Liaison Directorate Deputy Assistant Secretary for Budget Secretary of the Air Force Pentagon, Washington DC (Timothy, “ Deterrence for Space: Is Operationally Responsive Space Part of the Solution?”, High Frontier, May, [[http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf]]) JV
+
+__Rapid Augmentation of On-Orbit Intelligence__, … offering deterrence value as well.20
+
+**Scenario 1 is Hegemony:**
+
+**ISR capabilities are critical to terrestrial military capabilities and hegemony and protect our space assets**
+**Smith, 11 –** USAF Colonel, Director of the Air Force Space and Cyber Center at Air University he served in the Pentagon’s National Security Space Office as the Chief of the Future Concepts shop (M.V., Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]]) JV
+
+Multitudes of __ISR sensors in … defines decision, then so be it__.
+
+**This could result in global nuclear conflicts in every region of the world**
+**<span style="color: #000000;">Kagan, 7 - </span>**<span style="color: #000000;">senior fellow at the Carnegie Endowment for International Peace (Robert, “End of Dreams, Return of History”, 7/19, http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html)</span>
+
+<span style="color: #000000;">This is a good thing, and … </span><span style="color: #000000; font-size: 8px;">will provide an easier path</span>
+
+**Scenario 2 is Airpower:**
+
+**ISR is key to air power**
+**Lambeth, 11** – senior staff member at RAND, where he also directed the International Security and Defense Policy Program in 1989–1990 (Benjamin, Toward a Theory of Space Power: Selected Essays, February, [[http://www.ndu.edu/press/lib/pdf/spacepower/spacepower.pdf]]) JV
+
+Thus far in this discussion, … vision statement with great promise.4
+
+**Airpower is critical key to US-ROK alliance and counterbalances and deters war from breaking out**
+**Bechtol, 5 –** BS, Excelsior College; MA, Catholic University; MMS, Marine Corps Command and Staff College; PhD, Union Institute, assistant professor of national security studies at Air Command and Staff College, worked for the Defense Intelligence Agency as the senior analyst for Northeast Asia with the Directorate for Intelligence (Bruce E. Jr, 1 September 2005, Air & Space Power Journal, “The Future of US Airpower on the Korean Peninsula,” [[http://www.airpower.au.af.mil/airchronicles/apj/apj05/fal05/bechtol.html]]) JV
+
+__US military support to …__ up in the fall of 2002.1
+
+**North Korea nuclear use destroys the global environment and economy - risks extinction**
+<span style="font-size: 16px;">Hayes & Hamel-Green, 10</span> – *Executive Director of the Nautilus Institute for Security and Sustainable Development, AND **Executive Dean of the Faculty of Arts, Education and Human Development act Victoria University (1/5/10, Executive Dean at Victoria, “The Path Not Taken, the Way Still Open: Denuclearizing the Korean Peninsula and Northeast Asia,” http://www.nautilus.org/fora/security/10001HayesHamalGreen.pdf)**
+
+**<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">The international community is increasingly … consideration from the international community. </span>**
+
+Scenario 3 is Treaties:
+
+<span style="font-family: 'Georgia','serif';">Space treaties are coming now but they arent verifiable</span>
+
+**DOD 9-7-11 (DOD Fact Sheet: International Code of Conduct for Outer Space Activities, [[http://www.defense.gov/home/features/2011/0111_nsss/docs/DoD%20Fact%20Sheet%20-%20International%20Code.pdf]])**
+
+**Space is vital to … __National Security Space Strategy recognizes__**
+**__this challenge and seeks to promote international cooperation and international norms as one means to address it.__**
+**__An international Code of Conduct … committed to keeping Congress informed.__**
+
+ISR is key to information dominance and treaty verification
+DOD, 10 **(Intelligence, Surveillance, and Reconnaissancehttp://[[@http://space.au.af.mil/guides/stg/stg_isr.pdf|space.au.af.mil/guides/stg/stg_isr.pdf]])//**
+
+**//Joint __Vision__ __2020__// __<span style="font-family: 'Georgia','serif';">depends on information … </span>//____specific warfighters and other users.__**
+
+Verification solves treaties
+Bruneau and Morgan, 2006 **– Richard Bruneau is a researcher at the Canadian Centre for Treaty Compliance (CCTC) in Ottawa, Canada. Assisting Trevor Findlay, his current work at the centre focuses on non-governmental involvement in monitoring compliance with arms treaties. In space-related matters, he is completing research for the Space Security Index with Project Ploughshares and Foreign Affairs Canada. He is also a graduate student at the Norman Paterson School of International Affairs in Ottawa, studying issues of human security, arms control and humanitarian protection, Scott G. Lofquist-Morgan, Canadian Centre for Treaty Compliance Norman Paterson School of International Affairs Carleton University, Ottawa, Canada (“Verification Models for Space Weapons Treaties: A flexible, layered approach as a negotiating tool”, [[http://www2.carleton.ca/cctc/ccms/wp-content/ccms-files/SpaceWeaponVerificationDraftMay8.pdf]])**
+
+
+**Introduction __The purpose of verification … increase confidence and cost-effectiveness.__**
+
+Treaties are key to solve miscalculation, first strike incentive and space warfare
+<span style="color: #0d0d0d;">Hitchens, 8</span>**<span style="color: #0d0d0d;"> – president of the Center for Defense Information (Theresa, “Space Wars - Coming to the Sky Near You?”, Scientific American, February, [[http://www.sciam.com/article.cfm?id=space-wars-coming-to-the-sky-near-you]])</span>**
+
+**__<span style="color: #0d0d0d;">Perhaps of even greater concern … </span>__<span style="color: #0d0d0d;">“military and national security” purposes.</span>**
+**<span style="color: #0d0d0d;">As for Russia, in the wake of the Chinese test President Vladimir Putin reiterated Moscow’s stance against the weaponization of space. At the same time, though, he refused to criticize Beijing’s actions and blamed the U.S. instead. The American efforts to build a missile defense system, Putin charged, and the increasingly aggressive American plans for a military position in space were prompting China’s moves. Yet Russia itself, as a major spacefaring power that has incorporated satellites into its national security structure, would be hard-pressed to forgo entering an arms race in space.</span>**
+**__<span style="color: #0d0d0d;">Given the proliferation of spacefaring … </span>__would be unacceptable to all.**
+
+**<span class="StyleStyleBold12pt">Independantly, absent treaties, we solve space weaponization</span>**
+**<span class="StyleStyleBold12pt">Baines 5- </span>Philip J, Senior Advisor, Science and Technology, Non-Proliferation, Arms Control and Disarmament Division, Department of Foreign Affairs, United Nations Institute of Disarmament Research, March 21-22 2005, “Safeguarding Space Security: Prevention of an Arms Race in Outer Space” kms1.isn.ethz.ch/.../Files/.../2005_SafeguardingSpaceSecurity-full.pdf**
+<span style="display: block; font-family: Georgia,serif; font-size: 14.6667px; text-align: justify;">It now becomes possible to … __through reliance on manifest weapons.__</span>
+
+War is space occurs through miscalculation, risks extinction
+<span style="color: #000000;">Mitchell, et al 1</span>**<span style="color: #000000;"> -Associate Professor of Communication and Director of Debate at the University of Pittsburgh</span>
+<span style="color: #000000;">(Dr. Gordon, ISIS Briefing on Ballistic Missile Defence, “Missile Defence: Trans-Atlantic Diplomacy at a Crossroads”, No. 6 July, <span style="color: #000000;">[[http://www.isisuk.demon.co.uk/0811/isis/uk/bmd/no6.html]]</span>)</span>
+
+__<span style="color: #000000;">A buildup of space weapons … destructive military conflict ever seen.</span>__
+
+===1AC – development=== 
+
+**High launch costs stop commercial development of space**
+**Coppersmith, 10 –** <span style="color: #000000;">historian of technology at Texas A&M University</span> (Jonathan, August 12, 2010, “Obama in space: bold but not bold enough,” [[http://www.thespacereview.com/article/1603/1]]) JV
+<span class="Underline">Lost in the attention … </span><span style="font-size: 8px;">—two orders of magnitude—by 2020. </span>
+
+**Extinction is inevitable – commercial space growth solves**
+**Tumlinson 3** (Rick. Founder of the Space Frontier Foundation, author of //Manifesto for the Space Frontier//, co-founder of MirCorp, worker at Space Studies Institute under Gerard K. O’Neill, Executive Director and co-Founder of the Foundation for the International Non-Governmental Development of Space (FINDS), Testimony to United States Senate Committee on Commerce, Science, and Transportation, originally dated October 29, 2003. Senate re-dated February 2010. [[http://commerce.senate.gov/pdf/tumlinson102903.doc]])
+
+__Our first possible choice__<span style="font-size: 10.6667px;">, and … them more choices, not fewer. </span>
+
+<span class="IntenseEmphasis">**<span style="font-size: 13.3333px;">Resource wars are inevitable and risk extinction. Creating a viable commercial space sector changes the political calculation to go to war</span>**</span>
+<span class="IntenseEmphasis">**<span style="font-size: 13.3333px;">Collins and Autino, 10</span>**</span><span style="font-size: 13.3333px;"> - * Life & Environmental Science, Azabu University AND **Andromeda Inc., Italy (Patrick and Adriano, “What the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace,” Acta Astronautica 66 (2010) 1553–1562, science direct)**</span>
+
+**<span style="font-size: 13.3333px;">The major source of social friction, including international friction, has surely always been unequal access to resources.People ﬁght to control the valuable resources on and under the land, and in and under the sea. The natural resources of Earth are limited in quantity, and economically accessible resources even more so. As the population grows, and demand grows for a higher material standard of living, industrial activity grows exponentially. The threat of resources becoming scarce has led to the concept of ‘‘Resource Wars’’. Having begun long ago with wars to control the gold and diamonds of Africa and South America, and oil in the Middle East, the current phase is at centre stage of world events today [37]. A particular danger of ‘‘resource wars’’ is that, if the general public can be persuaded to supportthem, they may become impossible to stop as resources become increasingly scarce. Many commentators have noted the similarity of the language of US and UK government advocates of ‘‘war on terror’’ to the language of the novel ‘‘1984’’ which describes a dystopian future of endless, fraudulent war in which citizens are reduced to slaves.</span>**
+**<span style="font-size: 13.3333px;">7.1. Expansion into near-Earth space is the only alternative to endless ‘‘resource wars’’</span>**
+**<span style="font-size: 13.3333px;">As an alternative to the ‘‘resource wars’’ already devastating many countries today, opening access to the unlimited resources of near-Earth space could clearly facilitate world peace and security. The US National Security Space Ofﬁce, at the start of its report on the potential of space-based solar power (SSP) published in early 2007, stated: ‘‘Expanding human populations and declining natural resources are potential sources of local and strategic conﬂict in the 21st Century, and many see energy as the foremost threat to national security’’ [38]. The report ended by encouraging urgent research on the feasibility of SSP: ‘‘Considering the timescales that are involved, and the exponential growth of population and resource pressures within that same strategic period, it is imperative that this work for ‘‘drilling up’’ vs. drilling down for energy security begins immediately’’ [38].</span>**
+**<span style="font-size: 13.3333px;">Although the use of extra-terrestrial resources on a substantial scale may still be some decades away, it is important to recognise that simply acknowledging its feasibility using known technology is the surest way of ending the threat of resource wars. That is, if it is assumed that the resources available for human use are limited to those on Earth, then it can be argued that resource wars are inescapable [22,37]. If, by contrast, it is assumed that the resources of space are economically accessible, this not only eliminates the need for resource wars, it can also preserve the beneﬁts of civilisation which are being eroded today by ‘‘resource war-mongers’’, most notably the governments of the ‘‘Anglo-Saxon’’ countries and their ‘‘neo-con’’ advisers. It is also worth noting that the $1 trillion that these have already committed to wars in the Middle-East in the 21st century is orders of magnitude more than the public investment needed to aid companies sufﬁciently to start the commercial use of space resources.</span>**
+**<span style="font-size: 13.3333px;">Industrial and ﬁnancial groups which proﬁt from monopolistic control of terrestrial supplies of various natural resources, like those which proﬁt from wars, have an economic interest in protecting their proﬁtable situation. However, these groups’ continuing proﬁts are justiﬁed neither by capitalism nor by democracy: they could be preserved only by maintaining the pretence that use of space resources is not feasible, and by preventing the development of low-cost space travel. Once the feasibility of low-cost space travel is understood, ‘‘resource wars’’ are clearly foolish as well as tragic. A visiting extra-terrestrial would be pityingly amused at the foolish antics of homo sapiens using longrange rockets to ﬁght each other over dwindling terrestrial resources—rather than using the same rockets to travel in space and have the use of all the resources they need!</span>**
+**<span style="font-size: 13.3333px;">7.2. High return in safety from extra-terrestrial settlement</span>**
+**<span style="font-size: 13.3333px;">Investment in low-cost orbital access and other space infrastructure will facilitate the establishment of settlements on the Moon, Mars, asteroids and in man-made space structures. In the ﬁrst phase, development of new regulatory infrastructure in various Earth orbits, including property/usufruct rights, real estate, mortgage ﬁnancing and insurance, trafﬁc management, pilotage, policing and other services will enable the population living in Earth orbits to grow very large. Such activities aimed at making near-Earth space habitable are the logical extension of humans’ historical spread over the surface of the Earth. As trade spreads through near-Earth space, settlements are likely to follow, of which the inhabitants will add to the wealth of different cultures which humans have created in the many different environments in which they live.</span>**
+**<span style="font-size: 13.3333px;">Success of such extra-terrestrial settlements will have the additional beneﬁt of reducing the danger of human extinction due to planet-wide or cosmic accidents [27]. These horrors include both man-made disasters such as nuclear war, plagues or growing pollution, and natural disasters such as super-volcanoes or asteroid impact. It is hard to think of any objective that is more important than preserving peace. Weapons developed in recent decades are so destructive, and have such horriﬁc, long-term side-effects that their use should be discouraged as strongly as possible by the international community. Hence, reducing the incentive to use these weapons by rapidly developing the ability to use space-based resources on a large scale is surely equally important [11,16]. The achievement of this depends on low space travel costs which, at the present time, appear to be achievable only through the development of a vigorous space tourism industry.</span>**
+**<span style="font-size: 13.3333px;">8. Summary</span>**
+**<span style="font-size: 13.3333px;">As discussed above, if space travel services had started during the 1950s, the space industry would be enormously more developed than it is today. Hence the failure to develop passenger space travel has seriously distorted the path taken by humans’ technological and economic development since WW2, away from the path which would have been followed if capitalism and democracy operated as intended. Technological know-how which could have been used to supply services which are known to be very popular with a large proportion of the population has not been used for that purpose, while waste and suffering due to the unemployment and environmental damage caused by the resulting lack of new industrial opportunities have increased.</span>**
+**<span style="font-size: 13.3333px;">In response, policies should be implemented urgently to correct this error, and to catch up with the possibilities for industrial and economic growth that have been ignored for so long. This policy renewal is urgent because of the growing dangers of unemployment, economic stagnation, environmental pollution, educational and cultural decline, resource wars and loss of civil liberties which face civilisation today. In order to achieve the necessary progress there is a particular need for collaboration between those working in the two ﬁelds of civil aviation and civil space. Although the word ‘‘aerospace’’ is widely used, it is largely a misnomer since these two ﬁelds are in practice quite separate. True ‘‘aerospace’’ collaboration to realise passenger space travel will develop the wonderful profusion of possibilities outlined above.</span>**
+**<span style="font-size: 13.3333px;">8.1. Heaven or hell on Earth?</span>**
+**<span style="font-size: 13.3333px;">As discussed above, the claim that the Earth’s resources are running out is used to justify wars which may never end: present-day rhetoric about ‘‘the long war’’ or ‘‘100 years war’’ in Iraq and Afghanistan are current examples. If political leaders do not change their viewpoint, the recent aggression by the rich ‘‘Anglo-Saxon’’ countries, and their cutting back of traditional civil liberties, are ominous for the future. However, this ‘‘hellish’’ vision of endless war is based on an assumption about a single number—the future cost of travel to orbit—about which a different assumption leads to a ‘‘heavenly’’ vision of peace and ever-rising living standards for everyone. If this cost stays above 10,000 Euros/kg, where it has been unchanged for nearly 50 years, the prospects for humanity are bleak. But if humans make the necessary effort, and use the tiny amount of resources needed to develop vehicles for passenger space travel, then this cost will fall to 100 Euros/kg, the use of extra-terrestrial resources will become economic, and arguments for resource wars will evaporate entirely. The main reason why this has not yet happenedseems to be lack of understanding of the myriad opportunities by investors and policy-makers. Now that the potential to catch up half a century of delay in the growth of space travel is becoming understood, continuing to spend 20 billion Euro-equivalents/year on government space activities, while continuing to invest nothing in developing passenger space travel, would be a gross failure of economic policy, and strongly contrary to the economic and social interests of the public. Correcting this error, even after such a costly delay, will ameliorate many problems in the world today.</span>**
+**<span style="font-size: 13.3333px;">As this policy error is corrected, and investment in proﬁtable space projects grows rapidly in coming years, we can look forward to a growing world-wide boom. Viewed as a whole, humans’ industrial activities have been seriously underperforming for decades, due to the failure to exploit these immensely promising ﬁelds of activity. The tens of thousands of unemployed space engineers in Russia, America and Europe alone are a huge waste. The potential manpower in rapidly developing India and China is clearly vast. The hundreds of millions of disappointed young people who have been taught that they cannot travel in space are another enormous wasted resource.</span>**
+**<span style="font-size: 13.3333px;">We do not know for certain when the above scenario will be realised. However, it could have such enormous value that considerable expenditure is justiﬁed in order to study its feasibility in detail [5]. At the very least, vigorous investment by both private and public sectors in a range of different sub-orbital passenger vehicle projects and related businesses is highly desirable. Fortunately, the ambitious and rapid investment by the Indian and Chinese governments in growing space capabilities may ﬁnally jolt the space industries of Russia, America, Europe and Japan out of their long economic stagnation, and induce them to apply their accumulated know-how to economically valuable activities—notably supplying widely popular travel services to the general public.</span>**
+
+Government demand for reconstitution of small satellite constellations is vital to capitalizing the entire aerospace and commercial industrial base
+<span style="color: #000000;">Rendleman, 10</span>**<span style="color: #000000;"> - </span>Colonel, U.S. Air Force (Retired), (James, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science) JV
+
+__Given the importance of a responsive …__ part of a space assurance strategy
+
+
+==Naval Power Scenario - Octos of Dowling== 
+
+**Scenario 3 is Naval Power:**
+
+**The plan is key to avoid a naval collapse – the information they receive is critical**
+
+Grace V. **<span style="font-size: 17.3333px;">Jean</span>**, Journalist, **<span style="font-size: 17.3333px;">11</span>** [“Drone Sensor Data Will Overload Networks, Navy Officials Warn”, National Defense Magazine, NDIA Business and Technology Magazine, August, [[http://www.nationaldefensemagazine.org/archive/2011/August/Pages/DroneSensorDataWillOverloadNetworks,NavyOfficialsWarn.aspx]]]
+
+
+__The expected growth of unmanned …__ . Gary Roughead, who is retiring.
+
+
+**U.S. seapower solves nuclear war and multiple scenarios for extinction**
+
+**<span style="font-size: 17.3333px;">CONWAY ET AL 07</span>** [James T., General, U.S. Marine Corps, Gary Roughead, Admiral, U.S. Navy, Thad W. Allen, Admiral, U.S. Coast Guard, “A Cooperative Strategy for 21st Century Seapower,” October, <span style="color: #4267b6;">[[http://www.navy.mil/maritime/MaritimeStrategy.pdf]]</span>)]
+
+This __strategy reaffirms the … and civilian populations from attack.__
+
+**<span style="font-family: 'Georgia','serif';">Naval presence deters aggression – only a collapse would lead to war – specifically naval power stops a Chinese Naval Arms race</span>**
+
+**<span style="font-family: 'Georgia','serif';">McGrath 2k10</span>** (Director of Consulting, Studies and Analysisat Delex Systems, Inc (5/6/2010, Bryan, “Debate: Do We Need 11 Carrier Groups: Yes”, Atlantic Council, [[@http://www.acus.org/new_atlanticist/debate-do-we-need-11-carrier-groups-yes]])
+
+Response: __What would be … rest of the world combined.__
+__• Seventy-nine Aegis-equipped combatants carry roughly 8,000 vertical-launch missile cells. In terms of total missile firepower, the U.S. arguably outmatches the next 20 largest navies.__
+__• All told, the displacement of the U.S. battle fleet – a proxy for overall fleet capabilities – exceeds, by one recent estimate, at least the next 13 navies combined, of which 11 are our allies or partners.__
+__• And, at 202,000 strong, the Marine Corps is the largest military force of its kind in the world and exceeds the size of most world armies.”__
+Response: This is a reprise of … __pirates wielding AK-47s and RPGs.”__
+
+**A naval arms race in Asia gurantees catastrophic miscalculations and escalation**
+**Strait Times, 10 –** Salim Osman, The Strait Times (March 30, 2010, “[SALIM OSMAN] Naval build-up in Northeast Asia worrisome,” [[http://www.koreaherald.com/opinion/Detail.jsp?newsMLId=20091120000017]]) JV
+
+**__A naval arms race that …__** __constrain these acquisitions__," he said.
+He and other experts spoke at a conference on New Challenges to Asia Pacific Security organized by the Council for Security Cooperation in the Asia Pacific.
+Ball said that, __since 2000, nearly … increased their defense spending again.__
+In Korea, for instance, it rose 6.2 percent in 2001 and then to 9.9 percent by 2007.
+"__This has resulted, in …__ world except the United States.
+__China has bought large numbers of frigates and destroyers from Russia and plans to acquire aircraft carriers as well.__
+Analyst Sam Bateman of the … __confidence building and more transparency."__
+__The head of external programs at NTU`s Institute of Defense and Strategic Studies, he warned: "**The consequence of the navy`s build-up is the increasing probability of accidents and incidents at sea."**__
+
+
+**This is the most likey scenario for nuclear war and escalation**
+**Dibb, 01**<span style="font-size: 10.6667px;"> –emeritus professor of strategic and defence studies at The Australian National University (Paul, Winter. “Strategic Trends: Asia at a Crossroads.” Naval War College Review, Vol. 54, Issue 1. Ebsco.)</span>
+
+__The areas of maximum danger …__ <span style="font-size: 10.6667px;">when confronted with major crises.</span>
+
+
+==2AC Stuff== 
+===2AC K Blocks=== 
+====2AC Security==== 
+
+Changing representational fails and don’t come first
+**Tuathail, 96**<span style="font-size: 8pt;"> (Gearoid, Department of Georgraphy at Virginia Polytechnic Institute, Political Geography, 15(6-7), p. 664, science direct)</span>
+
+__While theoretical debates at academic conferences ….__<span style="font-size: 8pt;">open to the patterned mess that is human history</span>
+
+**Alternative frameworks cede the political and devastate political potentialities** 
+
+<span style="font-size: 12pt;">MCCLEAN 1</span>**,** SOCIETY FOR THE ADVANCEMENT OF AMERICAN PHILOSOPHY – GRADUATE AND PHILOSOPHER – NYU [DAVID E., “THE CULTURAL LEFT AND THE LIMITS OF SOCIAL HOPE”, http://www.american-philosophy.org/archives/2001%20Conference/Discussion%20papers/david_mcclean.htm]
+__Leftist American culture critics ….__<span style="font-size: 8pt;"> with their snobish disrespect for the so-called "managerial class."</span>
+
+
+**Our predictions are necessary to build a global culture of prediction that can influence states and prevent catastrophic destruction**
+**KURASAWA 2004** <span style="font-size: 8pt;">(Fuyuki Kurasawa is Assistant Professor of Sociology at York University, Toronto, and a Faculty Associate of the Center for Cultural Sociology at Yale University, Constellations, Vol 11, No 4 [Blackwell])</span>
+<span style="font-size: 8pt;">In the first instance, preventive foresight …..</span> __will farsightedness be in a position to ‘move up’ and becomeinstitutionalized via strong publics__<span style="font-size: 8pt;">.7</span>
+
+**Realism is inevitable and good – especially in the context of space** 
+**Cooper 9** – Analyst Assistant at National Research Council (Brent, “Lost in Space: A Realist and Marxist Analysis of US Space Militarization”, [[http://www.scribd.com/doc/38214957/Lost-in-Space-A-Realist-and-Marxist-Analysis-of-US-Space-Militarization]]) JV
+
+__In international relations____,__ neorealism ….__to the US security and interests__.
+
+**Elites will always make calculations based on power**
+John **Mearsheimer**, Professor at University of Chicago, **2001**
+The Tragedy of Great Power Politics, Page 25
+
+Because Americans dislike realpolitik, public discourse … public rhetoric from the actual conduct of American foreign policy.
+
+**There are infinite root causes of war – prefer deterrence as a method of preventing escalating**
+<span style="font-size: 12pt;">Moore, 04 </span><span style="font-size: 8pt;">[Dir. Center for Security Law @ University of Virginia, 7-time Presidential appointee, & Honorary Editor of the American Journal of International Law, Solving the War Puzzle: Beyond the Democratic Peace, John Norton Moore, pages 41-2]</span>
+<span class="underline">If major interstate war is predominantly a product …</span><span style="font-size: 8pt;"> of deterrence are dramatically increased or decreased?</span>
+
+
+**The ONLY objective approach to knowledge accumulation is to engage in empirical falsification through the scientific method and historical decision-making.** 
+**Fischer, 98**<span style="font-size: 10pt;"> – Professor of Political Science at Rutgers University (Frank, “BEYOND EMPIRICISM: POLICY INQUIRY IN POSTPOSITIVIST PERSPECTIVE”, Published in Policy Studies Journal, Vol. 26. No.1 (Spring, 1998): 129-146)</span>
+<span style="font-size: 10pt;">Neopositivism (or logical empiricism) has supplied the epistemological ideals of the contemporary social …., value-free objectivity that neopositivists seek to reaffirm and more intensively apply.</span>
+
+**Friend/Enemy dichotomies are good – the alternative is wars and chaos**
+**William** **Rasch**, 200**5** (“Lines in the Sand: Enmity as a Structuring Principle” __The South Atlantic Quarterly__ 104:2, Spring 2005.)
+
+__Accepting__ Cohen’s invitation __means deciding on a fundamental ….__, asphyxiating political nightmares of absolute exclusion.
+
+**Value to life is impossible without security.**
+**Elshtain ‘2**<span style="font-size: 10pt;"> (Jean Bethke, Prof. Social and Politics Ethics – U. Chicago, and Chair in Foundations of American Freedom – Georgetown U., Common Knowledge, “LUTHER’S LAMB: When and How to Fight a Just War”, 8:2, Highwire)</span>
+__The ordinary civic peace that terrorist violence … civilian targets during the later conflict__<span style="font-size: 10pt;">.</span>
+
+**Security doesn't entail violent exceptionalism. We should allow violent responses to prevent fundamental violent rights without seeking to create a world of mini-Americas.**
+**Elshtain ‘8**<span style="font-size: 10pt;"> (Jean Bethke, Prof. Social and Politics Ethics – U. Chicago, and Chair in Foundations of American Freedom – Georgetown U., American Behavioral Scientist, “Etzioni on Religion: Challenging the Warrior/Preacher’ Faultline”, 51:9, May, Sage)</span>
+__What does security__<span style="font-size: 10pt;"> first</span>__<span style="font-size: 12pt;">entail</span>__<span style="font-size: 10pt;">? ….i hopes will be an outgrowth of security first will follow.</span>
+
+
+
+
+
+
+
+
+
+
+
+
+=Negative= 
+==Topicality== 
+===T-Of=== 
+====1NC==== 
+**‘Of’ means the object of development or exploration must be space**
+**Collins World English Dictionary, 9** (dictionary.com)
+
+__of__ (<span style="font-family: 'Microsoft Sans Serif';">ɒ</span>v, ( //unstressed// ) əv)
+-- //prep//
+__1. used with a verbal noun__ ... //the breathing of a fine swimmer(subject)// ; //the breathing of clean air (object)//
+====2NC Overview Cards==== 
+
+**Industrial material testing, communications tech and medical research in the ISS with potential relations and tech advantages from 16 countries.**
+NASA 8
+NASA February 24, 2008 Page Editor: Jeanne Ryba NASA Official: Brian Dunbar <http://www.nasa.gov/centers/kennedy/about/information/shuttle_faq.html>//DoeS
+
+__The International Space Station ...__ __and conducts medical research.__
+
+
+**'of space’ in the context of exploration indicates that space must be the object of exploration or development – it is different from activities that occur ‘in’ space**
+**Bockstiegel 95 –**Ph D., Director of the Institute of Air and Space Law, Chairman of the Space Law Committee of the International Law Association; Chairman of Council of the National German Space Agency (Dr. Karl-Heinz, 1995, “Research and invention in outer space: liability and intellectual property rights” pg 4.)
+The official title of the Outer Space Treaty (‘OST’) mentions __... only be considered as ‘use’ of space.__
+
+====AT W/m- We're Development==== 
+**Development of space means to prepare for commercial use.**
+Daniel S. <span class="Author-Date">Goldin</span>, NASA Administrator, “NASA: Enhanced Strategy for the Development of Space Commerce”, NASA, 9/24/<span class="Author-Date">01</span>, http://www.spaceref.com/news/viewsr.html?pid=3692//jchen
+<span style="font-size: 13.3333px;">A core NASA mission is ...</span>the Agency<span style="font-family: 'Lucida Grande';">�</span>s mission and values
+
+
+**Property law provides the best legal analogy for space.**
+<span class="Author-Date">White 97</span> http://www.spacefuture.com/archive/real_property_rights_in_outer_space.shtml P roceedings, 40th Colloquium on the Law of Outer Space, p.370 ( IISL 1998). Published by American Institute of Aeronautics and Astronautics, Inc. with permission. Released to AIAA in all forms Attorney at Law, 4465 Kipling Street, Suite 200, Wheat Ridge, Colorado 80033
+<span style="font-size: 13.3333px;">The 1967 Outer Space Treaty</span><span style="font-family: Georgia; font-size: 14.6667px;">[1] </span><span style="font-size: 13.3333px;">does ... of real property rights would provide legal and political certainty. Investors and settlers could predict the outcome of a conflict with greater certainty **by analogizing to terrestrial property law.**</span>
+
+===T-Substantial=== 
+====1NC==== 
+
+**A substantial increase for space is at least 2.6 billion**
+<span class="Heading3Char">Alexander, 8</span> (Amir, writer for the Planetary Society, “President signs NASA Authorization Deal,” October 16, 2008 from [[http://www.planetary.org/programs/projects/space_advocacy/20081016.html]])
+
+<span style="font-size: 10.6667px;">On Wednesday, October 15, 2008, President Bush ... provide the agency with spending guidelines and indicates Congress's priorities.</span>
+
+**(DSCOVR)**
+**Violation – the plan costs 47 million dollars**
+<span class="Heading3Char">Brinton 11</span>(Turner Brinton, staff writer for Space News, July 12, 2011 “House Panel Denies Funding for Pair of NOAA Satellite Projects” Space News http://www.spacenews.com/civil/110718-house-panel-denies-funding-for-dscovr-cosmic-2-missions.html
+<span style="font-size: 13.3333px;">The U.S. House Appropriations Committee will vote on a 2012 ... </span><span style="font-size: 10.6667px;">which is $429.4 million more than appropriated for the program in 2011 but $168.6 million less than the request.</span>
+==Counterplans== 
+===ESA CP=== 
+====1NC==== 
+**The European Space Agency, in a Ministerial Council, should approve a proposal mandating**
+
+====Solvency==== 
+**(DSCOVR)**
+**ESA has Earth Observation capabilities.**
+ESA 10
+6 December 2010 ‘Climate scientists highlight ESA Climate Change Initiative’ <http://www.esa.int/esaEO/SEMIOGOR9HG_index_0.html>//DoeS//
+//As world negotiators gather at the climate summit in Cancun, Mexico, to tackle...Global Climate Observing System to support the UN Framework Convention on Climate Change.//
+
+
+**<span class="datear">The ESA has the tech to solve solar flares.</span>**
+//<span class="datear">ESA 7/9</span>//
+//<span class="datear">ESA 9 June 2011 </span><http://www.esa.int/esaMI/SSA/SEMYK9RHPOG_0.html>//DoeS
+<span style="font-size: 13.3333px;">ESA’s Proba-2 small ...</span><span style="font-size: 8px;"> Earth’s electrically charged ionosphere. </span>
+The ESA already has access to the L1 point- they’ve had it since 96.
+SOHO Project 96
+F. C. Vandenbussche SOHO Project Division, ESA Scientific Projects Department, ESTEC, Noordwijk, The Netherlands P. Temporelli, key staff from Matra Marconi Space (France and UK), Saab (Sweden), Galileo (Italy), and NASA and its contractors, as well as the ESA Team. Their contributions are gratefully acknowledged. <http://www.esa.int/esapub/bulletin/bullet88/vande88.htm>//DoeS//
+//SOHO was launched from Cape Canaveral in Florida on ... L1 Lagrangian point is approximately 178 days.//
+
+
+//**(SPS)**//
+//**The ESA has the tech as of 2004, all that’s left is implementation.**//
+//**ESA ACT 6/1**//
+
+//Advanced Concepts Team Last edited: June 1, 2011 ‘Energy Systems’ <http://www.esa.int/gsp/ACT/nrg/op/SPS/ProgrammePlan.htm>//DoeS
+SPS Programme Plan __In 2002 a European Network__
+__such a mission..........__They will be assembled into a document representing the European strategy in the field of SPS which will serve as decision basis for further activities.
+==Kritiks== 
+===Heidegger=== 
+====1NC==== 
+
+**Links change per round**
+
+**The Alternative is to Do Nothing in the context of the 1AC. Only Through Passivity can we escape the Cycle of Control Created by Technological Thought.**
+
+<span style="font-size: 16px;">**McWhorter 9**2 (Ladelle, Heidegger and the Earth Essays in Environmental Philosophy, Thomas Jefferson University Press, pg. </span><span class="DebateUnderline">4-5)</span>
+Heidegger frustrates us. At a time...__<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">together of revealing and concealing.</span>__
+
+====<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">Links</span>==== 
+<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">(Warming)</span>
+**The aff’s use of calculative thought ignores that technology’s role in creating global warming -- only releasement solves**
+Housman and Flynn 11
+[Benjamin H. Housman and Thomas R. Flynn “Cooling Down Global Warming: Revisiting Sartre and Heidegger on this Modern Day Challenge” The ‘Step Back’ as a ‘Step Towards’ Confronting Global April 14, 2011 MV]
+__Heidegger directly speaks to this notion of a ‘step back’__<span style="font-size: 8px;">__...__ </span>__felt widely and profoundly, and may be what Heidegger had in mind when he called for us to say ‘yes and no’ to technology__.
+
+====<span style="font-family: 'Georgia','serif'; font-size: 14.6667px;">Framework</span>==== 
+
+**Plan doesn’t occur but the logic that supports forms of knowledge-production that shape academic literature do– compare the intrinsic justifications of technological thought to that of meditative thought. Ontology is a prerequisite to the decision calculus**
+**__Dillon__** **__‘99__** <span style="font-size: 10.6667px;">(Michael Dillon, Prof of Politics, University of Lancaster, </span>__Moral Spaces,__<span style="font-size: 10.6667px;"> p. 97-98)</span>
+Heirs to all this, we find ourselves in the turbulent and now globalized wake of its confluence. ... political slaves who claim only to be technocrats of decision making.
+
+**We internal-link turn all their offense—our framework is a form of political dissent that effects changes in political practice**
+**Bleiker 2k**<span style="font-size: 8px;">—Ph.D. from the Australian National University, Professor of International Relations at the University of Queensland (Roland, © 2000 First Published, 2004 Edition, Cambridge University Press, “Popular Dissent, Human Agency and Global Politics,” p. 210-1, RBatra)</span>
+
+While providing compelling evidence of subtle__...writing, laughing, gossiping, singing, dwelling, shopping or cooking. It is in these spheres that societal values are gradually transformed, preparing the ground for more open manifestations of dissent.__
+
+Their framework arguments serve as another justification for their belief that reality is an object for human control, reducing all thinking to a technological level and ensuring the “standing reserve” mentality
+Sawicki, 2003
+<span style="font-size: 10.6667px;">Ph.D. Columbia University, Professor of Philosophy and Women's Studies, Chair of Women's And Gender Studies, Williams College (Jana, “Foucault and Heidegger Critical Encounters”, Heidegger and Foucault:Escaping Technological Nihilism, University of Minnesota Press Minneapolis London, Questia, REQ) </span>
+__Who accomplishes the challenging setting upon through which ...__<span style="font-size: 10.6667px;">contributes to this danger insofar as it fosters the illusion that technology is the result of a collective human choice and therefore subject to human control. 12 </span>
+
+====AT Perm==== 
+
+**The alternative alone is better because we cannot discover an authentic way of living if we are simultaneously preoccupied with technical objects**
+<span style="font-size: 14.6667px;">Rubin 1990 </span>
+<span style="font-size: 14.6667px;">(Charles T., Associate Professor of Political Science @ Duquesne Univ, “Review: Heidegger's Ecology of Modernity”, The Review of Politics, Vol. 52, No. 4, Muse [gender modified]) </span>
+<span style="font-size: 8px;">A recent book by a world leader in artificial intelligence extols a**__...__**</span> __**we may be prepared for the coming of some new dispensation**__**.**
+
+==Politics== 
+===Jobs Bill -- Greenhill=== 
+====1NC==== 
+
+**Jobs bill will pass, political capital key**
+**US News & World Report, 9/12**/11, [[http://www.usnews.com/opinion/articles/2011/09/12/will-congress-pass-obamas-jobs-bill]]
+
+<span style="color: #000000; font-size: 10.6667px;">Thursday evening, President </span>__<span style="color: #000000;">Obama … for agreement,</span>____<span style="color: #000000;">" said House Majority Leader Eric</span>____<span style="color: #000000;">Canto</span>__<span style="color: #000000; font-size: 10.6667px;">r in response to Thursday's speech. </span>
+
+**No Jobs Stimulus Means Economic Collapse and Global Nuclear War**
+<span style="font-size: 10.6667px;">Norman </span>**Orenstein,**<span style="font-size: 10.6667px;"> American Enterprise Institute, Roll Call, September 14, 20</span>**11**
+<span style="font-size: 10.6667px;">Deficit Panel Could Change Economic World</span>
+
+<span style="font-size: 10.6667px;">of Course, </span>__the Temptation to …__ <span style="font-size: 10.6667px;">is There for the Taking.</span>
+
+
+**<span style="font-size: 16px;">Growth Prevents Conflicts That Lead to Nuclear War</span>**
+**<span style="font-size: 16px;">Friedberg and Schoenfeld 8</span>**
+Aaron, Professor of Politics and International Relations at Princeton University's Woodrow Wilson School, Gabriel, Visiting Scholar @ Witherspoon Institute, the Dangers of a Diminished America, WSJ, 10/21, Proquest
+
+Pressures to Cut Defense Spending, … Internal Travails with External Adventures.
+
+====Links==== 
+
+**(DSCOVR)**
+**The plan is controversial and costs capital**
+**Boyle 11** (5/23/11, Rebecca, Popular Science, “As Congress Fusses Over Climate Semantics, the U.S. Faces a Weather <span style="color: #000000;">Satellite Gap,” </span>[[http://www.popsci.com/technology/article/2011-05/satellite-funding-cuts-us-could-face-weather-satellite-gap]])
+
+Amid all this, the country’s future weather prediction... like Raytheon — __have started marketing the satellite's weather forecasting abilities, not just its utility in informing climate models.__
+
+===Space Debris=== 
+
+**<span class="StyleStyleBold12pt">Each new space launch drastically increases the risk of space debris</span>**
+<span class="StyleStyleBold12pt">Australian Space Academy 7</span>
+“Briefing on Space Law,” ASA, http://www.spaceacademy.net.au/spacelaw/spacelaw.htm
+Since the start of the space age the problem of unwanted material ... which themselves<span class="StyleBoldUnderline"> then </span>pose collision hazards<span class="StyleBoldUnderline"> to active spacecraft</span>.
+
+**Space debris collisions could spark accidental US-Russia nuclear war.**
+Jeffrey Lewis, fellow in the Advanced Methods of Cooperative Security Program at the Center for International and Security Studies at the University of Maryland School of Public Policy (CISSM). Graduaged //magma cum laude// from Augustana College with degrees in Philosophy and Political Science “What if Space Were Weaponized? Possible Consequences for Crisis Scenarios” Center for Defense Information. July, 2004, http://www.cdi.org/PDFs/scenarios.pdf
+<span style="font-size: 8px;">This is the second of two scenarios that consider how U.S. space weapons might create incentives for ...</span><span style="font-size: 13.3333px;">As a result, the mere presence of such weapons is corrosive to the conﬁdence that allows national nuclear forces to operate safely.</span>
+
+**A war with Russia would mean certain and immediate extinction**
+Steven Starr -- director of the University of Missouri's Clinical Laboratory Science Program, senior scientist at the Physicians for Social Responsibility, worked with the United Nations to eliminate thousands of high-alert, launch-ready U.S. and Russian nuclear weapons, (Nuclear Darkness, 3/12/2010, “The climatic consequences of nuclear war,”, http://www.thebulletin.org/web-edition/op-eds/the-climatic-consequences-of-nuclear-war
+<span style="font-size: 12px;">Although the ongoing Nuclear Posture Review is supposed to include all ...</span><span style="font-size: 13.3333px;"> Russian nuclear weapons are considered to be, they still could wipe out humanity. Thus, the recognition by Washington that its nuclear arsenal, if used in conflict, will make the whole world--including all of its territory--uninhabitable, is long overdue.</span>
+
+**<span class="StyleStyleBold12pt">Space debris makes affirmative solvency impossible</span>**
+<span class="StyleStyleBold12pt">Olson 98</span>
+Steve Olson, Author of Space Junk, 1998, “The Danger of Space Junk,” The Atlantic, http://www.theatlantic.com/past/docs/issues/98jul/junk.htm
+
+Once<span class="StyleBoldUnderline"> collisional cascading begins, </span>the number of ...<span class="StyleBoldUnderline">if we keep putting objects into orbit as we have been, "</span>operations will not be possible anymore."
+==Case Stuff== 
+===Heg Bad=== 
+====1NC==== 
+
+**1. Heg will inevitably decline – attempting to hold on sparks global nuclear war and crushes our economy.**
+**Pape 9**
+(Robert A. Pape, Professor of Political Science at the University of Chicago, “The Empire Falls”, The National Interest, June 28, http://www.nationalinterest.org/Article.aspx?id=20484)
+Clearly, major shifts in the … __adopt more realistic foreign commitments.__
+
+**2. Heg is antiquated- globalization means it can’t solve anymore & transition is inevitable.**
+**<span style="font-size: 16px;">Hachigan and Sutphen, 8</span>** (Nina Hachigian is a Senior Fellow at the Center for American Progress, and Mona K. Sutphen is a senior government official, lobbyist, and writer on foreign policy, “Strategic Collaboration: How the United States Can Thrive as Other Powers Rise,” CSIS, The Washington Quarterly • 31:4 pp. 43–57, Autumn, October, 2008)
+Primacy has not been the … together to combat these threats.
+
+**3. The U.S. must retrench __now__ – … warming, proliferation, and economic collapse**
+**Patrick 2010**
+<span style="font-size: 10.6667px;">(November/December, Stewart, Senior Fellow and Director of the Program on International Institutions and Global Governance at the Council on Foreign Relations, Irresponsible Stakeholders? Subtitle: The Difficulty of Integrating Rising Powers, Foreign Affairs, lexis)</span>
+<span style="font-size: 10.6667px;">And yet Obama's engagement strategy … </span><span class="underline">consistent </span>exemplar of multilateral cooperation<span style="font-size: 10.6667px;">.</span>
+
+**4. Warming leads to extinction**
+**Oliver <span style="font-size: 16px;">Tickell</span>, environmental researcher,** <span style="font-size: 16px;">**200**8</span>, 8/11, http://www.guardian.co.uk/commentisfree/2008/aug/11/climatechange)
+We need to get prepared … us towards a similar hothouse Earth.
+
+**5. Heg cause prolif – multipolarity will solve it**
+Weber et al 07
+<span style="font-size: 10.6667px;">Professor of Political Science and Director of the Institute for International Studies at the University of California-Berkeley (Steven with Naazneen Barma, Matthew Kroenig, and Ely Ratner, Ph.D. Candidates at the University of California-Berkeley and Research Fellows at its New Era Foreign Policy Center, [“How Globalization Went Bad,” Foreign Policy, Issue 158, January/February,)</span>
+Axiom 3 is a story about the … is almost entirely America's burden.
+
+**6. Proliferation leads to nuclear war**
+**Utgoff 02,**
+Deputy Director of the Strategy, Forces, and Resources Division of the Institute for Defense Analyses., Survival, vol. 44, no. 2, Summer 2002, pp. 85–102 “Proliferation, Missile Defence and American Ambitions”
+
+<span style="font-size: 10.6667px;">In sum, </span><span class="underline">widespread </span>proliferation is … cities or even whole nations.
+
+===Solar Flares (DSCOVR)=== 
+====1NC==== 
+**35 satellite specialists met to decide if DSCOVR should replace the existing system of American satellites – they turned it down – new CLARREO satellites solves`**
+<span style="font-size: 16px;">Donahue 11</span> (Bill Donahue is the current president of the Catholic League for Religious and Civil Rights in the United States. 4-6-11 Who Killed The Deep Space Climate Observatory? [[http://www.popsci.com/technology/article/2011-03/lost-satellite?page=2]] JT)
+
+<span style="font-size: 13.3333px;">In</span> May <span style="font-size: 13.3333px;">2007</span>, six years after DSCOVR’s original ...<span style="font-size: 13.3333px;">calibration capability offered by CLARREO will be much more useful than that possible with DSCOVR</span>.”
+
+
+**CLARREO solves the aff**
+<span style="font-size: 16px;">NASA 8/1</span> (08/01/2011 [[http://science1.nasa.gov/missions/clarreo/]] JT)
+
+<span style="font-size: 13.3333px;">The Climate Absolute Radiance and Refractivity Observatory</span> (<span style="font-size: 13.3333px;">CLARREO</span>) <span style="font-size: 13.3333px;">...</span>thereby resulting in increased programmatic flexibility and savings.
+
+Solar flares are impossible to predict
+<span class="Heading3Char">Clark and Mason 1997</span>(Benton and Larry, Martin Marietta Astronautics Group Planetary Sciences Laboratory. “The Radiation Show-Stopper to Mars Missions: A Solution,” in The Case for Mars IV: Considerations for Sending Humans, ed. Thomas Meyer, p. 102)
+<span style="font-size: 10.6667px;">Much particulate radiation is emitted from the Sun. The two...</span>and lasting a few hours to at most a few days.
+
+**<span style="color: #000000;">No solar flare impact- Earth’s magnetic sphere protects us from any solar flare damage</span>**
+<span class="StyleStyleBold12pt">Holdman 1</span> **(****Astrophysicist- Heliophysics Science Division- NASA/Goddard Space Flight Center, “**Space Weather: What impact do solar flares have on human activities?” [[http://hesperia.gsfc.nasa.gov/sftheory/spaceweather.htm]]__)__
+
+<span style="font-size: 10.6667px;">Solar flares produce high energy particles and radiation that**//...//** </span>//**<span style="font-size: 13.3333px;"> event is known to have occurred in the past and there is no evidence that the Sun could initiate such an event.</span>**//
+
+**No permanent damage- claims about “apocalyptic result” are wrong**
+Morrison 9 **(NAI Senior Scientist, “Ask an Astrobiologist”, Astrobiology: Life in the Universe,** [[http://astrobiology.nasa.gov/ask-an-astrobiologist/question/?id=5121|**http://astrobiology.nasa.gov/ask-an-astrobiologist/question/?id=5121**]]**)**
+<span style="font-size: 10.6667px; text-decoration: none;">But </span>solar flares pose no danger to us on Earth<span style="font-family: Georgia; font-size: 10.6667px;">. </span>...the danger of solar flares or other solar activity are<span style="font-family: Georgia; font-size: 10.6667px;"> just </span>simply untrue<span style="font-family: Georgia; font-size: 10.6667px;">. Concerning the solar system, no, the </span>spacing of the planets does not change<span style="font-family: Georgia; font-size: 10.6667px;">.</span>
+
+**Status Quo includes sufficient technology to predict solar flares, averting global catastrophe**
+<span class="StyleStyleBold12pt">Atkison 10 </span><span style="color: #000000; text-decoration: none;">(Nancy, Science journalist, Senior Editor and writer- UniverseToday, Production team of Astronomy Cast, NASA/JPL Solar System Ambassador, “Solar Flares can Now be Predicted More Accurately”, UniverseToday, </span>[[http://www.universetoday.com/51585/solar-flares-can-now-be-predicted-more-accurately/]])
+
+We<span style="color: #111111; font-family: Georgia; font-size: 10.6667px;"> all like to </span>know in advance what the<span style="color: #111111; font-family: Georgia; font-size: 10.6667px;"> weather is ... said Thomas Bogdan, director of NOAA’s Space Weather Prediction Center.</span>
+
+**Even a large solar flare wouldn’t cause extinction- detection methods and history ensure**
+**<span style="font-family: Georgia;">O’Neill</span>**<span style="font-family: Georgia;"> **8** (</span>Space Producer for Discovery News, “2012: No Killer Solar Flare”, UniverseToday, [[http://www.universetoday.com/14645/2012-no-killer-solar-flare/]])
+The<span style="color: #111111; font-size: 10.6667px;">short </span>answer<span style="color: #111111; font-size: 10.6667px;"> to this</span>is“no”.<span style="color: #111111; font-size: 10.6667px;"> The longer answer is a little more involved. </span>... <span style="color: #000000; font-size: 10.6667px; text-decoration: none;">satellites may be damaged, causing secondary problems such as a GPS loss (which might disrupt [[http://www.universetoday.com/74366/air-mass/|air]] traffic control for example) or national power grids may be overwhelmed by auroral electrojets, but nothing more extreme than that</span>
+===Warming Defense=== 
+====1NC==== 
+Most qualified consensus is against catastrophe
+Walter 7
+(Christopher, Former policy advisor of Margaret Thatcher while she was Prime Minister, “Consensus? What Consensus?” Science and Public Policy Institute, June,<span style="font-size: 8px;">http://scienceandpublicpolicy.org/images/stories/papers/monckton/consensus.pdf</span>, AD: 6/29/09) jl
+<span style="font-size: 13.3333px;">It is </span>often <span style="font-size: 13.3333px;">said that there is </span>a <span style="font-size: 13.3333px;">scientific “consensus</span><span style="font-size: 8px;">” to the effect that</span> <span style="font-size: 13.3333px;">...</span><span style="font-size: 8px;">ikely to have been due to the increase in greenhouse gas concentrations.”</span>
+<span class="StyleBoldUnderline">**Climate change doesn’t cause African conflict**</span>
+**Schiermeier 10.**<span style="font-size: 10.6667px;"> Quirin citing Buhang and Peilke, political scientists. Climate change not linked to African wars. 6 September 2010. [[http://www.nature.com/news/2010/100906/full/news.2010.451.html]]</span>
+
+<span style="font-size: 10.6667px;">In his popular 2008 book Climate Wars, the US journalist and military __...__</span> __overly simplistic notions of cause and effect to advocate for such actions."__
+
+**Adaptation doesn’t solve**
+<span style="font-size: 10.6667px;">Claire L </span>**Parkinson**<span style="font-size: 10.6667px;">is a climatologist at NASA's Goddard Space Flight Center, where she's worked since July 1978, with a research emphasis on sea ice and its role in the global climate system. Claire has a B.A. in mathematics from Wellesley College and a Ph.D. in climatology from Ohio State University. She is a fellow of both the American Meteorological Society and Phi Beta Kappa. </span>**2010**<span style="font-size: 10.6667px;">The Coming Climate Crisis</span>
+<span style="font-size: 10.6667px;">When in the late </span>__twentieth century the standard climate change ...__<span style="font-size: 10.6667px;">might have had to do it on foot, but even on foot, it was easier than moving a whole commu­nity under today's circumstances. </span>
+==Specific Rounds== 
+===Greenhill=== 
+====Round 1 -- Centennial KM==== 
+
+Aff -- DSCOVR Advantages: Solar Flares, Climate Data
+
+1NC: Politics - Jobs (Econ Impact), Heidegger, ESA CP, T-Of, T-Substantial, Debris D, Case(They said military intervention key to climate data sharing and de-escalating African conlict, we read heg bad)
+2NC: T-Of, K
+1NR: Solar Flares Advantage, Climate Data Advantage, Politics, Debris
+2NR: Politics, Debris, Case
+
+====Round 4 -- New Trier AC==== 
+
+Aff -- SPS, Advantages: Aerospace (Econ, Heg), Resource Wars (Terror, Resource Wars)
+1NC: Politics - Jobs (Econ Impact), Heidegger K, ESA CP, T-Of, Debris DA Case (Heg Bad), Case
+2NC: Heg Bad, ESA CP, Debris
+1NR: Politics, Case
+
+====Round 6 -- Woodward SS==== 
+
+Aff -- JWST Advantages: Colonization, STEM, Heg
+1NC: Politics -- Jobs (Econ Impact), Heidegger K, ESA CP, T-Exploration, Case (Heg Bad)
+2NC: K, Heg Offense
+1NR: Heg Defense, Colonization Advantage, STEM Advantage, Inherency, Solvency
+2NR: Heg Bad, Case
+
+===UMich=== 
+====Round 2 -- Blake MM==== 
+Aff -- TSATs, Advantages: NCW, Cyber War
+1NC: Politics -- Jobs, Heidegger K, T-Of, Launches, Case (Heg Bad)
+2NC: Heidegger
+1NR: Heg Bad, Case Flows
+2NR: Heg Bad
+
+====Round 4 -- Westminster PP==== 
+Aff -- Asteroids, Advantages: Asteroids, Cooperation (Food Security, Science Diplomacy)
+1NC: Politics -- Jobs, Heidegger, ESA CP, T-Of, Launches, Impact Framing, Case Defense
+2NC: ESA CP, Asteroids Case Flow, Impact Framing
+1NR: Politics, Cooperation
+2NR: Politics, Case
+
+====Round 5 -- Johns Creek ??==== 
+Aff -- Send a shuttle of all women -- Fem Aff
+1NC: Politics, ESA CP, NASA Trade-off DA, Launches DA, Framework, Case (Util/Realism)
+2NC: ESA CP, Launches, Framework, Case
+1NR: NASA Trade-off, Politics
+2NR: NASA Trade-Off, Framework, Case
+
+====Round 7 -- Marquette CT==== 
+Aff -- Solar Sails, Advantages: Solar Storms (Military Readiness, Economy), Colonization
+1NC: Politics - Jobs, Heidegger, ESA, Launches, T-Of, Case (Heg Bad)
+2NC: ESA, Launches, Case
+1NR: Answering Add-ons, Politics
+2NR: ESA, Politics
+
+===Dowling=== 
+====Round 2 -- Wayzata BS==== 
+Aff -- DSCOVR, Advantages: Warming, Oxygen Depletion, Solar Storms
+1NC: PTC (Elections/Healthcare Impact), ESA CP, Heidegger, T-Humans
+2NC: ESA, Case
+1NR: Politics, T-Humans
+
+====Round 4 -- Roosevelt HH==== 
+Aff -- PDS Asteroid Deflection Aff, Advantages: Nuclear Weapons, Asteroids
+1NC: PTC (Econ Impact), ESA CP, Heidegger, T-Humans, NASA Trade-off
+2NC: K, ESA, Case
+1NR: NASA Trade-off
+2NR: ESA, NASA Trade-off, Condo Good
+
+=====Round 5 -- Bishop Guertin ??===== 
+Aff -- No plan text, affirming UFOs as worthy of scientific inquiry with anthro stuff
+1NC: PTC (Econ), Framework, Author PIC, Case (Anthro Good, Falsifiability Stuff)
+2NC: Framework, Anthro Good
+1NR: Author PIC, Falsifiability
+2NR: Framework, PIC
+
+====Doubles -- UC Lab ZR==== 
+Aff -- Asteroids, Asteroids Advantage and Impact Framing/Risk Assesment
+1NC: PTC (Elections/Healthcare Impact), ESA CP, Heidegger, T-Humans, NASA Trade-off, Case
+2NC: ESA CP, Case
+1NR: NASA Trade-off
+2NR: ESA, NASA Trade-off
+
+
+
+===Hoflo=== 
+====Round 1 vs Northside==== 
+Aff -- EOS, Warming and Soft Power
+1NC: Corporate Tax Reform Politics, T-Humans, ESA, Heidegger
+2NC: T-Humans, Politics
+1NR: ESA, Soft Power
+2NR: T-Humans
+
+====Round 3 vs Lab==== 
+Aff -- ASATs, Heg and China
+1NC: Space Mil, Hediegger, T-Humans
+2NC: T-Humans, Space Mil, Case
+1NR: Heidegger
+2NR: T-Humans
+
+====Round 6 vs Northside LL==== 
+Aff -- EOS, Warming and Soft Power
+1NC: Cyber Security Politics, T-Huamns, ESA, JWST Tradeoff
+2NC: T-Humans, Politics, Warming
+1NR: ESA, Soft Power
+2NR: T-Humans
+
+====Quarters vs St Ignatius==== 
+Aff -- Satellite Hardening, Heg and China
+1NC: Space Mil, T-Humans, Heidegger
+2NC: Space Mil, Case
+1NR: T-Humans
+2NR: Space Mil, Case
+
+====Semis vs GBN KS==== 
+Aff -- Debris, Heg, Russia and Econ
+1NC: T Humans, T Beyond, ESA, JWST Tradeoff, Space Mil, T-Humans, Dedev
+2NC: Dedev
+1NR: Both T's
+2NR: Dedev
+
+====Finals vs OPRF==== 
+Aff -- Cyborgs
+1NC: Framework, Hediegger, Launches, Space Mil, Authors PIC
+2NC: Heidegger
+1NR: Framework, Launches and Case
+2NR: Heidegger
+
+
+
+
+[[include page="space.template.Footer"]]

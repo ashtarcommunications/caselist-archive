@@ -1,0 +1,374 @@
+[[toc]]
+=Round 1 (aff v. Pace ES)= 
+==2AC== 
+===Case=== 
+<span class="Tag">Consequentialism presumes that we know what determines pleasure and pain. However, empirical determinations are unpredictable and cannot be a moral law. Our connection to the Other is net-more ethical.</span>
+<span class="Tag">__Kant ’88__</span>**…you know…200 years ago.** <span style="font-size: 9pt;">[Immanuel Kant, German philosopher at the University of Konigsberg, Critique of Pratical Reason, pg. 21]</span>
+
+__All practical principles which presuppose an object (matter) of the faculty of desire as the ground of determination of the will are__
+<span style="font-size: 8pt;">which must be recognized a priori); it follows, therefore, that such a principle can never furnish a practical law.</span>
+
+===T - Human=== 
+1. We meet – SPS is human activity.
+<span class="Tag">__Hsu ’09__</span><span style="font-size: 9pt;">[Feng, Ph.D. and Senior Fellow – Aerospace Technology Working Group, and Ken Cox, Ph.D. and Founder & Director – Aerospace Technology Working Group, “Sustainable Space Exploration and Space Development - A Unified Strategic Vision”, 2-20, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.spacerenaissance.org/papers/A-UnifiedSpaceVision-Hsu-Cox.pdf]]</span><span style="font-size: 9pt;">]</span>
+<span style="font-size: 8pt;">In our view, even with adequate reform in its governance model, NASA is not a rightful institution to lead or manage the nation's business in Space Development projects.</span>
+<span style="font-size: 8pt;">pushing the envelope of new frontiers or taking higher risks with full government and public support, and these need to be invested in solely by taxpayer contributions.</span>
+
+<span class="Tag">2. Counter-interpretation: exploration and development include robots.</span>
+<span class="Tag">__Hsu ’10__</span> <span style="font-size: 9pt;">[Jeremy, Space.com contributor, April 6, 2010, NASA Plans New Robot Generation to Explore Moon, Asteroids, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.space.com/8157-nasa-plans-robot-generation-explore-moon-asteroids.html]]</span><span style="font-size: 9pt;">]</span>
+<span style="font-size: 8pt;">American astronauts may not return to the moon anytime soon</span>
+__, or the International Space Station, on the moon.__
+
+<span class="Tag">3. Reasons to prefer:</span>
+
+<span class="Tag">a. Limits – We only allow a small list of affirmatives.</span>
+
+<span class="Tag">b. Predictability – economic and commercial development is the direction of the status quo, allowing for the most predictable ground.</span>
+
+<span class="Tag">c. Ground – They get access to all disadvantages based on economic and commercial development. Robotic missions outweigh human missions.</span>
+
+<span class="Tag">d. Education - economic and commercial development is the direction of the status quo, so we allow for education on the current space policy.</span>
+
+<span class="Tag">4. Reasonability is tight – competing interpretations leads to a race to the bottom</span>
+
+<span class="Tag">1. As long as some part of the plan is topical, i.e. implementation or other advantages that are predicated off the plan, you should err aff on T.</span>
+
+<span class="Tag">2. Education – we access more breadth and discussion</span>
+
+<span class="Tag">3. Ground – they can counterplan out of extra topical advantages.</span>
+
+<span class="Tag">Normal means is distribution.</span>
+<span class="Tag">__PowerSat No Date__</span> <span style="font-size: 9pt;">[PowerSat, solar power satellite development company, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.powersat.com/index.html]]</span><span style="font-size: 9pt;">]</span>
+<span style="font-size: 8pt;">The first benefit of solar power satellites or powersats is the fact that space-based solar power collection</span>
+<span style="font-size: 8pt;">With this amazing technology, space-based solar power is the future of power generation. </span>
+
+===Privatization CP=== 
+Conditionality Bad
+
+<span class="Tag">The logic of doubling surrenders to a risk-benefit analysis which surrenders ethics to survival and creates unthinking, devalued populations.</span>
+<span class="Tag">__Bookchin ’87__</span> <span style="font-size: 9pt;">[Murray Bookchin is a major spokesperson for the ecology, appropriate technology, and anti-nuclear movements and author of many books, 1987, The Modern Crisis]</span>
+
+__What this "benefit-versus-risk" formula has produced__
+__that we literally will not be if we do not realize our potentialities to be more than we are.__
+
+1. Private counterplans are illegitmate:
+**a. vagueness – failure to specify incentives and specific private actors destroys clash and facilitates abuse.**
+**b. Voting issue – either the CP is functionally the same as the plan and not competitive or it abuses fiat through unlimited private actors.**
+
+**Perm do the CP – its normal means**
+**__Venture Outsource ’08__**<span style="font-size: 8pt;">[“The $17.6 billion 2009 NASA budget,” 2/5, </span><span style="color: windowtext; font-size: 8pt; text-decoration: none;">[[http://www.ventureoutsource.com/contract-manufacturing/trends-observations/2008/the-17-6-billion-2009-nasa-budget]]</span><span style="font-size: 8pt;">]</span>
+
+<span style="font-size: 8pt;">As the International Space Station nears completion, </span>
+<span style="font-size: 8pt;">to support the International Space Station. NASA is designating $500 million toward the development of this commercial space capability.</span>
+
+
+3. Perm do both - public private partnership solves – private sector needs government budgetary support
+
+<span class="cite">__<span style="font-size: 12pt;">Kistler and Citron ’08</span>__</span><span style="font-size: 9pt;">[Tom Kistler is Vice Pres of Lunar Transportation Inc., Walter from the American Institute of Aeronautics and Astronautics, Bob Citron is an Aerospace engineer w/ a degree from UCal, Aerospace Research Information Center, September, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.aric.or.kr/treatise/journal/content.asp?idx=110398]]</span><span style="font-size: 9pt;">, 6-23-11, SRF]</span>
+
+
+
+<span style="font-size: 8pt;">Continuing innovation and technology development is one way a global leader nation defines itself. </span>
+
+<span style="font-size: 8pt;">with at least one early transportation native financed privately to remain in operation after NASA moves on to explore the universe.</span>
+
+**Privates fail –**
+**a.) Business uncertainty**
+<span class="Tag">__Smith et al. ’11__</span> <span style="font-size: 9pt;">[Patrick L. Smith has a Ph.D. in engineering from UCLA, and Leslie A. Wickmanis a Senior Engineering Specialist, Space Architecture Department, is also director of the Center for Research in Science at Azusa Pacific University and a Ph.D. in human factors and biomechanics from Stanford, and Inki A. Min has Ph.D. in aeronautics from Caltech, Broadband Satellite Communications for Future U.S. Military and Coast Guard Operations in an Ice-Free Arctic, Summer 2011, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.aero.org/publications/crosslink/summer2011/02.html]]</span><span style="font-size: 9pt;">]</span>
+
+<span style="font-size: 8pt;">Providing broadband and other communication services for oil exploration, </span>
+__without the [DoD]__<span style="font-size: 8pt;"> Department of Defense </span>__as a partner in development or as a long-term anchor tenant__<span style="font-size: 8pt;">. </span>
+
+<span class="Tag">b.) Counterfeit parts</span>
+<span class="Tag">__Bent ’12__</span> <span style="font-size: 9pt;">[Kristin, writer for CRN, Reports of Counterfeit Parts In Tech Supply Chain Reach All Time High, Feb. 16, 2012, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.crn.com/news/components-peripherals/232601020/reports-of-counterfeit-parts-in-tech-supply-chain-reach-all-time-high.htm;jsessionid=EU375-jMIFNbAPyE6zeClA**.ecappj02]]</span><span style="font-size: 9pt;">]</span>
+
+<span class="Tag">__Counterfeit parts have infiltrated the tech supply chain__</span><span style="font-size: 8pt;"> more rapidly than ever over the last two years </span>
+<span style="font-size: 8pt;">but </span><span class="Tag">__the risk they pose to defense and aerospace organizations is especially high because of the potential threat to human lives.__ </span>
+
+===OTEC CP=== 
+<span class="Tag">Solvency deficit:</span>
+<span class="cite">a.) SPS is the only way to solve – all other alternatives are not viable.</span>
+<span class="cite">Snead 9</span> <span style="font-size: 10pt;">(Mike, Aerospace engineering @ AFIT, Lead structures engineer ASD, http://spacefaringamerica.net/2009/08/10/26--getting-behind-space-solar-power.aspx.aspx, DA 6/23/11, 8/10, OST)</span>
+America’s future energy security is at risk because insufficient emphasis has been placed on developing new<span style="font-size: 8pt;"> sustainable </span>energy supplies
+development of<span class="underline">space solar power </span>(SSP<span class="underline">)</span><span style="font-size: 8pt;"> as a hedge against potential future national energy scarcity.</span>
+
+<span class="Tag">b.) Hydrogen power uses coal and creates emissions.</span>
+<span class="Tag">__Goel ’11__</span> <span style="font-size: 9pt;">[Garima, writer for eco-friend, The Good, the bad and the ugly about hydrogen fuel cells, [[http://www.ecofriend.com/entry/the-good-the-bad-and-the-ugly-about-hydrogen-fuel-cells/]]]</span>
+__The storage and production of hydrogen are the ugliest aspects__
+__hydrogen is very powerful and has the dangers of being exploded.__
+<span class="Tag">Non-unique – A huge ozone hole appeared in the Artic. Warming isn’t anthropogenic.</span>
+<span class="Tag">__The Guardian 10/3__</span> <span style="font-size: 9pt;">[10/3/2011, Ozone layer hole over Arctic in sudden expansion, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.guardian.co.uk/environment/2011/oct/03/arctic-ozone-layer-hole-expands]]</span><span style="font-size: 9pt;">]</span>
+__A huge hole that appeared in the Earth's protective ozone layer__
+__Some years, the holes have been so large that they covered the entire continent and stretched to parts of South America__<span style="font-size: 8pt;">. </span>
+
+
+<span class="Tag">The plan is a drop in the bucket – on-the-ground construction and Fresnal lenses create a lighter SPS where only one launch is necessary.</span>
+
+
+
+<span class="Tag">SPS is key to innovation – solves problems including pollution</span>
+
+<span class="Tag">__O’Neill 9__</span> <span style="font-size: 9pt;">[Ian, writer @ AstroEngine, 1/13/9, http://www.astroengine.com/2009/01/oh-no-rocket-launches-are-bad-for-the-environment-wed-better-stay-at-home-then/]</span>
+
+<span style="background-color: lime; font-size: 12pt;">Space-based solar power </span><span style="font-size: 12pt;">could be THE revolution for the future of mankind</span>
+
+<span style="font-size: 8pt;">therefore </span><span style="font-size: 12pt;">making the world a very bleak place.</span>
+
+===Oil DA=== 
+<span class="Tag">Alternative energy is growing now</span>
+<span class="Tag">__Weeks ’08__</span><span style="font-size: 9pt;">[Linton, NPR writer and political consultant, Can U.S. Go 'Green' Even When Oil Prices Drop?, 8-28, </span><span style="color: windowtext; font-size: 9pt; text-decoration: none;">[[http://www.npr.org/templates/story/story.php?storyId=96185899]]</span><span style="font-size: 9pt;">]</span>
+<span style="font-size: 12pt;">The wind, solar and geothermal industries "are growing by leaps and bounds</span>
+<span style="font-size: 8pt;">By 2013, the country intends to increase its installed geothermal capacity by 60 percent. And China has already surpassed its recent 2010 goal for installed wind capacity.</span>
+
+<span class="Tag">Peak oil now.</span>
+<span class="Tag">__Bardi ’11__</span> <span style="font-size: 9pt;">[Ugo Bardi, Professor of Physical Sciences, “The Limits to Growth Revisited,” Springer Energy Analysis, Google Book]</span>
+<span style="font-size: 8pt;">With the twenty-first century, interest in the future or mineral resources was spurred by renewed concerns about crude oil depletion. </span>
+<span style="font-size: 12pt;">These data lend credence to the idea that the world will be soon facing a reduction in the availability of liquid fossil fuels</span><span style="font-size: 8pt;">.</span>
+
+===Jackson Vanik=== 
+<span class="Tag">No Jackson Vanik - Magintsky bill must be settled first</span>
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Ivanov 4/27</span>__</span><span style="font-size: 8pt;"> (Eugene, Massachusetts-based political analyst who blogs at The Ivanov Report, Magnitsky for Jackson-Vanik: A fair trade? April 27, 2012, http://mobile.rbth.ru/articles/2012/04/27/magnitsky_for_jackson-vanik_a_fair_trade_15417.html)</span>
+<span style="font-size: 8pt;">In recent weeks, the Magnitsky bill returned to the focus of congressional attention; </span>
+__adopted first, followed by the repeal of__<span style="font-size: 8pt;"> the </span>__Jackson-Vanik amendment and granting__<span style="font-size: 8pt;"> Russia </span>__PNTR__<span style="font-size: 8pt;"> status. </span>
+
+<span class="Tag">AND double bind - Magintsky bill will tank relations</span>
+<span class="StyleStyleBold12pt">__<span style="font-size: 13pt;">Ivanov 4/27</span>__</span><span style="font-size: 8pt;"> (Eugene, Massachusetts-based political analyst who blogs at The Ivanov Report, Magnitsky for Jackson-Vanik: A fair trade? April 27, 2012, http://mobile.rbth.ru/articles/2012/04/27/magnitsky_for_jackson-vanik_a_fair_trade_15417.html)</span>
+<span class="Underline">Reiterating Moscow’s known opposition to the bill</span>
+<span style="font-size: 8pt;">As the adoption of the Magnitsky bill looks imminent, the Kremlin should start thinking what precisely this “reaction” will be. </span>
+
+
+<span class="Tag">Winners win – payroll tax cuts proves.</span>
+
+<span class="Tag">__Sloan and Litvan ’11__</span> <span style="font-size: 9pt;">[Steven Sloan and Laura Litvan, writers for Bloomberg BusinessWeek, Dec. 29, 2011, Obama and Boehner Increase Pressure Over U.S. Payroll Tax Cut, [[http://www.businessweek.com/news/2011-12-29/obama-and-boehner-increase-pressure-over-u-s-payroll-tax-cut.html]]]</span>
+
+__A CNN poll taken Dec. 16-18 found that, by 50 percent__<span style="font-size: 8pt;"> to 31 percent, </span>
+
+__while House Republicans voted for such measures as freezing the pay of federal civilian workers.__
+
+
+
+
+
+=Round 2 (neg v. Juan Diego KW - Neuroscience ISS Aff)= 
+
+===T – Its – Coop 1NC=== 
+A. Interpretation:
+The USFG is the government in Washington D.C.
+
+Encarta 2k<span style="font-size: 10.6667px;">http://encarta.msn.com</span>
+<span class="underline0"> “The federal government of the United States is centered in Washington DC”</span>
+“Its” means belonging to it or that thing
+
+<span class="cite0">Oxford English Dictionary, 1989</span> (second edition, online)
+Its
+A. As adj. poss. pron. <span class="underline0">Of or belonging to it, or that thing</span> (L. ejus); also refl., Of or belonging to itself, its own (L. suus).
+The reflexive is often more fully its own, for which in earlier times the own, it own, were used: see OWN.
+B. Violation – Plan causes exploration and/or development by a foreign government, not the USFG
+
+===T – Increase = Pre-existing 1NC=== 
+<span class="Tag">A. Interp – Increase requires pre-existence</span>
+<span class="cite0">Buckley 6</span><span style="color: #000000; font-size: 10.6667px;"> (Jeremiah, Attorney, Amicus Curiae Brief, Safeco Ins. Co. of America et al v. Charles Burr et al, http://supreme.lp.findlaw.com/supreme_court/briefs/06-84/06-84.mer.ami.mica.pdf)</span>
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">First, the court said that the ordinary meaning of the word “increase” is “to make something greater,” which it believed should not “be limited to cases in which a company raises the rate that an individual has previously been charged.” 435 F.3d at 1091. Yet the definition offered by the Ninth Circuit compels the opposite conclusion. </span><span style="font-size: 16px;">Because “increase” means “to make something greater,” there must necessarily have been an existing premium</span><span style="font-size: 10.6667px;">, to which Edo’s actual premium may be compared</span><span style="font-size: 16px;">, to determine whether an “increase” occurred</span><span style="font-size: 10.6667px;">. Congress could have provided that “ad-verse action” in the insurance context means charging an amount greater than the optimal premium, but instead chose to define adverse action in terms of an “increase.” That def-initional choice must be respected, not ignored. See Colautti v. Franklin, 439 U.S. 379, 392-93 n.10 (1979) (“[a] defin-ition which declares what a term ‘means’ . . . excludes any meaning that is not stated”). Next, the Ninth Circuit reasoned that because the Insurance Prong includes the words “existing or applied for,” Congress intended that an “increase in any charge” for insurance must “apply to all insurance transactions – from an initial policy of insurance to a renewal of a long-held policy.” 435 F.3d at 1091. This interpretation reads the words “exist-ing or applied for” in isolation. Other types of adverse action described in the Insurance Prong apply only to situations where a consumer had an existing policy of insurance, such as a “cancellation,” “reduction,” or “change” in insurance. Each of these forms of adverse action presupposes an already-existing policy, and </span><span style="font-size: 16px;">under usual canons of statutory construction the term “increase” </span><span style="font-size: 10.6667px;">also </span><span style="font-size: 16px;">should be construed to apply to increases of an already-existing policy</span><span style="font-size: 10.6667px;">. See Hibbs v. Winn, 542 U.S. 88, 101 (2004) (“a phrase gathers meaning from the words around it”) (citation omitted).</span></span>
+
+===Security 1NC=== 
+
+**The idea of catastrophe management results in an endless cycle of problems to be fixed.**
+<span class="Tag">Der Derian ’05</span> <span class="Site">**<span style="font-size: 12px;">[James, Brown University, International Studies, Predicting the Present, Vol. 27 (3) - Fall 2005, http://hir.harvard.edu/articles/1430/]</span>**</span>
+
+<span style="display: block; text-align: justify;">**__It often takes a catastrophe__** **__... national capabilities, but the capacity of conventional language itself.__**</span>
+
+**Their apocalypse justifies biopoltical genocide.**
+<span class="Tag">__Coviello 2000__</span> <span class="Site">**<span style="font-size: 12px;">[Peter, Assistant Professor of English @ the Bowdoin College, Queer Frontiers: Millennial Geographies, Genders, and Generations. "Apocalypse from Now On”]</span>**</span>
+
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">This fact seems to me to stand behind Susan ... seems a civic initiative that can scarcely be done without.</span></span>
+
+**Reject the aff’s employment of security – individual criticism can create terrains of dissent.**
+**__Burke ’02__** <span style="font-size: 12px;">[Anthony, School of Political Science and International Studies, University of Queensland. Alternatives 27, 2002]</span>
+
+<span style="display: block; text-align: justify;">It is perhaps easy to **__<span style="text-align: justify;">... shimmering possi­bilities might be.</span>__**</span><span style="display: block; text-align: justify;">
+</span>
+<span style="display: block; text-align: justify;"><span style="text-align: justify;">Security 2NC</span></span>
+<span style="display: block; text-align: justify;"><span style="text-align: justify;">Overview</span></span>
+<span class="Tag">b) Squo solves transportation</span>
+<span class="AuthorDate">Carreau and Taverna 11</span> <span style="font-size: 9pt;">(Mark and Michael, writers for Aviation Week, 2/28/11, "Space Station To Be Run As National Lab," http://www.aviationweek.com/aw/generic/story_generic.jsp?channel=awst&id=news/awst/2011/02/28/AW_02_28_2011_p36-291890.xml&headline=null&prev=10)</span>
+NASA will furnish transportation for national lab experiments, primarily aboard the planned SpaceX Dragon
+until<span class="Underline"> U.S. commercial supply vehicles enter service. Four more ATVs are currently planned</span><span style="font-size: 8pt;">.</span>
+
+<span class="Tag">We cant know the intentions of other militaries</span>
+<span class="AuthorDate">Gray 6-</span><span style="font-size: 9pt;">Colin S. Gray, Professor of International Politics and Strategic Studies at the University of Reading, England, Recognizing and Understanding Revolutionary Change in Warfare: the Sovereignty of Context February 2006 http://www.strategicstudiesinstitute.army.mil/pdffiles/pub640.pdf</span>
+<span style="font-size: 8pt;">Appreciation of war’s changing technological context is an essential intelligence function, as well as a vital source of inspiration for domestic change. </span>
+<span style="font-size: 8pt;">Unfortunately, </span><span style="font-size: 12pt;">that intelligence can tell one nothing at all about what is in their hearts and minds</span><span class="underline0">.</span>
+
+====Framework==== 
+**And, Security discourse defines who deserves authority – these discourses shape policy by determining what can and cannot be thought**
+**Lipschutz 1998**
+Ronnie, Director – Politics PhD Program, UC Santa Cruz, 1998. “On Security” p. 7
+**__Conceptualizations of security__**--from which follow policy and practice--
+not so much of specific agents as it **__is of discursive practices.__**"
+
+<span style="font-size: 12pt;">Framing comes first</span>
+<span style="font-size: 9pt;">James</span> <span style="font-size: 12pt;">Der Derian</span>, <span style="font-size: 9pt;">Professor of Political Science at the University of Massachusetts at Amherst and Research Professor of International Relations at the Watson Institute for International Studies at Brown University,</span> <span style="font-size: 12pt;">2003</span><span style="font-size: 9pt;">, “War as a Game”, Brown Journal of World Affairs p. 45-46</span>
+<span style="font-size: 8pt;">The charge of moral equivalency—</span>
+<span style="font-size: 8pt;">Under such circumstances, one longs for the sure bet, a predictable unfolding of events, or at least a comforting conclusion. </span>
+
+====AT: Perm==== 
+**Security Discourse in national policy ensures endless threat construction against perceived threats**
+Campbell et al 2007
+(David, Professor of International Politics, at the University of Newcastle, (“Performing security: The imaginative geographies of current US strategy” Stuart Elden, Stephen Graham, Alex Jeffrey, Alison J. Williams, and Luiza Bialasiewicz Political Geography 26 (2007)
+Again, it is essential that we conceptualize these strategies as both containing and making imaginative geographies;
+to fill the post‑Soviet void e from radical Islam through the war on drugs to "rogue states".
+
+**2. The mindset of endless threats is a self-fulfilling prophecy leading to the constant creation of more threats**
+**Lipschutz 1998**
+Ronnie, Director – Politics PhD Program, UC Santa Cruz, “On Security” p. 8
+
+<span class="UnderlineChar">__<span style="font-family: 'Times New Roman',serif;">Security is</span>__</span>, to put Wæver's argument in other words,
+<span class="UnderlineChar">__<span style="font-family: 'Times New Roman',serif;">; in this respect, their relationship is intersubjective</span>____<span style="font-family: 'Times New Roman',serif;">.</span>__</span>
+
+<span class="Tag">All forms of space exploration have a military component – the perm can’t overcome the links</span>
+<span class="AuthorDate">Koehler 10</span><span style="font-size: 9pt;">(Cliff Koehler is a political science Ph.D. candidate at Arizona State University, Fall 2010, "THE WORLD IS NOT ENOUGH: THE TERRITORIALIZATION OF OUTER SPACE," p. 1-2)</span>
+Outer space<span style="font-size: 8pt;">, and its exploration, has been interpreted in two very different ways. It </span>is<span style="font-size: 8pt;">, essentially, </span>a portrait with two faces
+<span class="Underline">, as a tool of national security, and as a tool of sovereignty</span><span style="font-size: 8pt;">.</span>
+===Russian Relations DA 1NC=== 
+
+<span class="Tag">Space cooperation now – that's key to preventing ASAT attacks</span>
+<span style="display: block; text-align: justify;"><span class="Tag">__Wood ’10__</span> <span style="font-size: 12px;">[Jason D. Wood, Washington, D.C.-based policy analyst and a member of the 2010 Nuclear Scholars Initiative at the Center for Strategic and International Studies, Dec. 13, 2010, The U.S.-Russia Space Relationship and Future Space Security, http://www.worldpoliticsreview.com/articles/7300/the-u-s-russia-space-relationship-and-future-space-security]</span></span>
+<span style="display: block; text-align: justify;"><span style="font-size: 9.33333px;">While much has been said </span>__<span style="font-size: 9.33333px;">...responsible, normative behavior in space. </span>__</span>
+
+
+<span class="Tag">Unilateral action kills overall bilateral cooperation – perception outweighs alt causes</span>
+<span class="Underline">**Logsdon and Millar ’01**</span><span style="font-size: 10.6667px;"> [February 2001, John, Director of the Space Policy Institute at George Washington, and James, emeritus professor of economics and international affairs at George Washington University, “U.S. -Russian Cooperation in Human Space Flight Assessing the Impacts”, Space Policy Institute and Institute for European, Russian and Eurasian Studies Elliott School of International Affairs The George Washington University, [[http://www.gwu.edu/%7Espi/assets/docs/usrussia.pdf|http://www.gwu.edu/~spi/assets/docs/usrussia.pdf]] ]</span>
+
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">Yet, to one participant, ... we are at least giving them a psychological fig leaf."</span></span>
+
+<span style="display: block; text-align: justify;"><span class="Tag">Bilateral relationship key to solve accidental nuclear war</span></span>
+<span style="display: block; text-align: justify;"><span class="TagsChar">__Cohen ’10__</span><span style="font-size: 12px;">[Stephen, prof, Russian Studies and History, NYU, Prof emeritus, Princeton, US-Russian Relations in an Age of American Triumphalism: An Interview with Stephen F. Cohen, 25 May 2010, [[http://www.thenation.com/article/us-russian-relations-age-american-triumphalism-interview-stephen-f-cohen]]]</span></span>
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">Cohen: The real concern I ..., can connect these dots.</span></span>
+
+<span class="Tag">ASAT attacks cause nuclear war</span>
+<span class="AuthorDate">Krepon 11</span> <span style="font-size: 12px;">– president of the Henry Stimson Center (Michael, Space Assurance or Space Dominance? THE CASE AGAINST WEAPONIZING SPACE, [[http://www.stimson.org/images/uploads/research-pdfs/spacebook.pdf]])</span>
+<span style="font-size: 10.6667px;">The inherent escalatory potential of ... than in dominance and compellance.</span>
+=== === 
+====1NR Overview==== 
+<span class="Tag">a.) Magnitude – Russia is the only existential risk</span>
+<span class="Tag">__Bostrom ’02__</span> <span style="font-size: 9pt;">[Nick, professor of philosophy - Oxford University, March, 2002, Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards, Journal of Evolution and Technology, p. http://www.nickbostrom.com/existential/risks.html]</span>
+__<span style="font-size: 12pt;">A much greater existential risk emerged with the build-up of nuclear arsenals in the US </span>__
+<span style="font-size: 8pt;">Unfortunately, we shall see that nuclear Armageddon and comet or asteroid strikes are mere preludes to the existential risks that we will encounter in the 21st century.</span>
+
+<span class="Tag">Turns case – space wars increase space debris rendering space unusable. </span>
+<span class="AuthorDate">Primack 4 </span><span style="font-size: 9pt;">( Joel September 2004, “Pelted by Paint, Drowned by Debris”, Bulletin of Atomic Sciences, September 2004, http://www.thebulletin.org/issues/2002/so02/so02primack.html)</span>
+<span style="font-size: 12pt;">Weaponization of space would make the debris problem much worse</span>
+<span style="font-size: 8pt;">that </span><span style="font-size: 12pt;">weaponizing space will jeopardize the possibility of space exploration.</span>
+
+====<span style="line-height: 24px;">1NR UQ Wall</span>==== 
+<span class="Tag">Relations high now – </span>
+<span class="Tag">a) START proves</span>
+<span class="AuthorDate">Russia Today 3/26</span><span style="font-size: 9pt;">(March 26 2012, "Medvedev, Obama praise ‘reset’, pledge further cooperation," http://rt.com/politics/obama-relations-reset-cooperation-442/)</span>
+<span class="Underline">The</span><span style="font-size: 8pt;"> Russian and US </span><span class="Underline">presidents </span>
+<span style="font-size: 8pt;">but also all over the world.</span>
+
+====<span style="font-size: 8pt;">AT: Abandoning the ISS</span>==== 
+
+
+<span class="Tag">False – budget proves.</span>
+
+<span class="AuthorDate">Carreau and Taverna 11</span> <span style="font-size: 9pt;">(Mark and Michael, writers for Aviation Week, 2/28/11, "Space Station To Be Run As National Lab," http://www.aviationweek.com/aw/generic/story_generic.jsp?channel=awst&id=news/awst/2011/02/28/AW_02_28_2011_p36-291890.xml&headline=null&prev=10)</span>
+
+
+
+<span class="Underline">NASA will furnish transportation for national lab experiments, </span>
+
+<span class="Underline">Four more ATVs are currently planned</span><span style="font-size: 8pt;">.</span>
+
+
+
+===CP=== 
+
+<span class="Tag">The United States federal government should amend the National Space Policy to state that a goal of the United States’ space policy is to substantially increase its missions to the International Space Station for the purpose of neuroscience experiments beyond the Earth’s mesosphere.</span>
+
+<span class="Tag">The counterplan results in the plan but announces it through the NSP - that’s key to opening the possibility of expanding cooperation.</span>
+<span style="display: block; text-align: justify;"><span class="Tag">__Kueter ’10__</span><span style="font-size: 10.6667px;"> (Jeff, President, George C. Marshall Institute, Evaluating the Obama National Space Policy: Continuity and New Priorities, The George C. Marshall Institute, July 2010, [[http://www.marshall.org/pdf/materials/900.pdf]])</span></span>
+
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">Nearly </span>__every president__ __... is the challenge ahead.__</span>
+
+<span class="Tag">Accelerating this dialogue solves extinction</span>
+<span style="display: block; text-align: justify;"><span class="Tag">__Hays ’10__</span><span style="font-size: 10.6667px;">(Peter, PhD and director of the U.S. Air Force Institute for National Security Studies, “Space Law and the Advancement of Spacepower” 12-13 http://www.ndu.edu/press/space-Ch28.html)</span></span>
+
+<span style="display: block; text-align: justify;"><span style="font-size: 10.6667px;">Other impediments to further </span>__<span style="font-size: 10.6667px;">... needed to improve our odds for survival.</span>__</span>
+
+<span class="Tag">International cooperation will demonstrate the US is an engaged international partner - key to following through on the letter of Obama’s NSP</span>
+<span style="display: block; text-align: justify;"><span class="Tag">__Foust ’11__</span><span style="font-size: 10.6667px;"> (Jeff, editor and publisher of The Space Review, also operates the Spacetoday.net web site and the Space Politics and NewSpace Journal weblogs, The national space policy, one year later, The Space Review, June 27, 2011, [[http://www.thespacereview.com/article/1873/1]])</span></span>
+
+<span style="display: block; text-align: justify;">__One major difference widely__ __...__ station in orbit is Chinese.</span>
+===Neuroscience Adv.=== 
+
+<span style="font-family: Calibri;">Despite claims by some, the world is still unipolar; the US continues to maintain power established by past administrations and Presidents</span>
+<span style="font-family: Calibri;">Kagan 2007</span><span style="font-family: Calibri; font-size: 10.6667px;">[Robert senior associate at the Carnegie Endowment for International Peace and senior transatlantic fellow at the German Marshall Fund End of Dreams, Return of History July 19, http ://[[http://www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html|www.realclearpolitics.com/articles/2007/07/end_of_dreams_return_of_histor.html]] downloaded 6/30/2010]</span>
+<span style="font-family: Calibri; font-size: 10.6667px;">The world has become normal again. </span><span style="font-family: Calibri; font-size: 16px;">... of their allies. 5</span>
+
+<span style="font-family: Calibri,sans-serif; font-size: 12pt;">Heg high now - No other country can overtake the U.S.</span>
+**__<span style="font-family: Calibri,sans-serif; font-size: 11pt;">Brooks and Wohlforth ’08</span>__**<span style="font-size: 8pt;">[S. Brooks and W. Wohlforth, IR @ Dartmouth, ‘8 (World Out of Balance, Chapter 1, http://press.princeton.edu/chapters/i8784.pdf)]</span>
+__<span style="font-family: Calibri,sans-serif; font-size: 11pt;">THE DISSOLUTION OF THE SOVIET UNION </span>__
+<span style="font-family: Calibri,sans-serif; font-size: 8pt;">of the systemic properties long central to research in international relations.</span>
+
+<span class="Tag">Deterrence is inevitable—Country’s don’t perceive or care about military details—existential nature of US retaliation is sufficient. Means that no one is willing to risk beating us in the neuroscience race.</span>
+<span style="font-family: Calibri,sans-serif;">Gray03</span><span style="font-family: Calibri,sans-serif; font-size: 8pt;"> [Colin, Ph.D., Reading University International Politics and Strategic Studies Professor, Former Advisor to US and British Gov't, National Institute for Public Policy Founder, Former Reagan President's General Advisory Committee on Arms Control and Disarmament Advisor, Former Hudson Institute and International Institute for Strategic Studies Fellow, 8/1/20"Maintaining Effective Deterrence," </span><span style="color: windowtext; font-family: Calibri,sans-serif; font-size: 8pt; text-decoration: none;">[[http://www.strategicstudiesinstitute.army.mil/pubs/display.cfm?PubID=211]]</span><span style="font-family: Calibri,sans-serif; font-size: 8pt;">]</span>
+<span class="underline">No particular military posture is uniquely deterring</span><span style="font-size: 8pt;">. </span>
+<span style="font-size: 8pt;">or care about the kind of military details that so consume our professional military establishment.</span>
+
+
+===Relations Adv.=== 
+
+**Disputes inevitable.**
+**__Castle ’08__**<span style="font-size: 10.6667px;"> [Stephan–6/22/2008, International Herald Tribune, “EU seeks to overhaul air traffic control”, http://www.iht.com/articles/2008/06/22/business/air.php?page=2]</span>
+
+<span style="display: block; text-align: justify;">__Some airlines__ __...__ the document said.</span>
+
+**Relations high – banana deal**
+<span style="font-family: Calibri;">Reuters ‘09</span><span style="font-size: 10.6667px;"> (Jonathan Lynn, 12/15/09, "EU, US, Latin America ink banana deal ", http://www.reuters.com/article/idUSLDE5BE1GZ20091215?type=swissMktRpt, WRW)</span>
+
+<span style="font-size: 10.6667px;">GENEVA, Dec 15 (Reuters) - </span>__The E____uropean Union__ __...__ the bananas deal click on [ID:nLDE5BE2CR])
+
+
+**US-EU Relations Resilient- Terror Efforts Prove**
+**__Arce ‘10__**<span style="font-size: 10.6667px;">[Dwyer Arce, a writer for the Jurist, University of Pittsburgh School of Law, and Research Assistant, Professor Bernard Hibbitts, Editor-in-Chief of JURIST, “US, EU emphasize human rights in counter-terrorism efforts”, Jurist, June 04, 2010, pg 1. (http://jurist.org/paperchase/2010/06/us-eu-emphasize-human-rights-in-counterterrorism-efforts.php)]</span>
+
+<span style="font-size: 10.6667px;"> [JURIST</span>__] A joint statement__<span style="font-size: 10.6667px;"> ... Minister Yousuf Raza Gilani [BBC profile]. </span>
+
+===ISS Adv.=== 
+
+**Current launch rates wont affect the ozone – the plan pushes emissions**
+
+**over the brink and kills the ozone**
+**__Ross et. al. 9__**<span style="font-size: 12px;">(Martin – environmental Systems Directorate @ Aerospace, Ph.D. @ UCLA in Earth and planetary sciences, Darin Toohey, Manfred Peinemann and Patrick Ross, Volume 7, Issue 1 January 2009 , pages 50 – 82, informaworld)</span>
+
+<span style="display: block; text-align: justify;">__Combustion emissions__<span style="font-size: 10.6667px;"> from ... </span>__no rocket engine is__<span style="font-size: 10.6667px;"> perfectly “</span>__green**”**__<span style="font-size: 10.6667px;"> in this sense.</span></span>
+
+**Ozone depletion causes extinction – scientific consensus is on our side**
+**__Greenpeace, 1995,__**<span style="font-size: 12px;">Full of Holes: Montreal Protocol and the Continuing Destruction of the Ozone Layer, [[http://archive.greenpeace.org/ozone/holes/holebg.html]]</span>
+<span style="display: block; text-align: justify;">__When chemists__<span style="font-size: 10.6667px;"> Sherwood Rowland ... </span>__the stakes are literally the continuation of life on earth__**__<span style="font-size: 13.3333px;">. </span>__**</span>
+
+<span class="Tag">No spillover – plan not perceived by the public</span>
+<span class="AuthorDate">Wieland 1/4</span> <span style="font-size: 12px;">(Paul O., professional engineer who worked for NASA at the Marshall Space Flight Center for over 20 years and the fire protection engineer for several ISS payloads, 1/4/12, "Getting the ISS National Research Laboratory In The News," http://www.cultureofscience.com/2012/01/04/getting-the-iss-national-research-laboratory-in-the-news/)</span>
+<span style="font-size: 10.6667px;">I believe </span>there are... clearly reported and widely available?
+
+===Solvency F/L=== 
+
+<span class="Tag">1. The Status quo solves</span>
+<span class="Tag">a) NIH-NASA cooperation</span>
+<span class="AuthorDate">National Institutes of Health 09</span> <span style="font-size: 12px;">(National Institutes of Health Press Release, 4/8/09, "Biomedical Researchers Invited to Design Experiments for the International Space Station," http://www.niams.nih.gov/news_and_events/press_releases/2009/04_08.asp)</span>
+The NIH-NASA program will encourage ... how to benefit life on Earth<span style="font-size: 10.6667px;">."</span>
+
+
+
+=Round 3= 
+
+=Round 4= 
+
+=Round 5= 
+
+=Round 6= 
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

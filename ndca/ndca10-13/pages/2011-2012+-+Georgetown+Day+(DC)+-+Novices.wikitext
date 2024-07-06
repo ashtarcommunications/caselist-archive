@@ -1,0 +1,147 @@
+=Affirmative= 
+There are two AFFs that the GDS novice teams read: One is asteroids, one is DTN. The outlines of the most recent version of each 1AC are included below. If you have any questions, you can direct them to jon sharp: jsharp@gds.org
+
+**ASTEROIDS AFF:**
+
+PLAN: The United States federal government will substantially increase its exploration of outer space beyond the Earth’s Mesosphere by committing at least $1 billion a year to mapping asteroids and will provide the National Aeronautics and Space Administration with a mandate to test and deploy an asteroid deflection capability.
+
+Observation One: Inherency
+
+The risk of a massive asteroid strike is real but NASA is denied full funding for detection in the status quo.
+Manzi – Senior Fellow @ The Manhattan Institute – 2010 (Jim, “Why the Decision to Tackle Climate Change Isn’t as Simple as Al Gore Says,” The New Republic, 22 June. [Online] http://www.tnr.com/blog/critics/75757/why-the-decision-tackle-climate-change-isn%E2%80%99t-simple-al-gore-says?page=0,1) Accessed 06.11.11 jfs
+“Consider the comparison of a few… we must weigh risk against risk.”
+
+And, NASA does not even have a mandate to develop planetary defenses.
+Mitchell – CEO of the NEO Safety Foundation – 2007 (William F., “Financing a Planetary Defense System,” Paper presented at the 2007 AIAA Planetary Defense Conference, 5-9 March 2007 (Washington, D.C.). [Online] http://www.aero.org/conferences/planetarydefense/2007papers/P5-3--Mitchell-Paper.pdf) Accessed 06.07.11 jfs
+“Traditional sources of space development funding… for space development and no money.”
+
+Observation 2: The Advantage - Asteroid Strikes
+An asteroid impact is the largest risk of human extinction.
+Stone – 2005 (Michael P., “BOOK NOTE: Anti-Prognostication Catastrophe: Risk and Response. By Richard A. Posner,” University of Miami Law Review, Volume 59, April [59 U. Miami L. Rev. 435]. [Online] LexisNexis) jfs
+“Among the natural catastrophes, Posner claims… for crops and other plant life" (p. 25).”
+
+And, gigantic strikes are inevitable – We cannot gamble with human survival.
+Lt. Col. Kunich - Staff Judge Advocate, 50th Space Wing, Falcon Air Force Base – 1997 (John C., “Planetary Defense: The Legality of Global Survival,” The Air Force Law Review, Volume 41 [41 A.F.L. rev. 119). [Online] LexisNexis) jfs
+“It is true that destructive impacts… including the United States Air Force.”
+
+Plus, we are not ready for this – Asteroid strikes trigger simultaneous overlapping disasters which produces a mass extinction event.
+Marusek – Nuclear Physicist and Engineer @ Impact – 2007 (James, “Comet and Asteroid Threat Impact Analysis,” Paper presented at the 2007 AIAA Planetary Defense Conference, 5-9 March 2007 (Washington, D.C.). [Online] http://www.aero.org/conferences/planetarydefense/2007papers/P4-3--Marusek-Paper.pdf) Accessed 06.07.11 jfs
+“Within human history many natural disasters… intense periods of mantle plume volcanism.23”
+
+And, the scale of the 1AC impact means you should err AFF on the time frame question and re-frame probability in terms of sheer magnitude.
+Easterbrook – Fellow @ the Brookings Institution – 2008 (Gregg, “The Sky Is Falling,” The Atlantic, June. [Online] http://www.theatlantic.com/magazine/print/2008/06/the-sky-is-falling/6807/) Accessed 05.23.11 jfs
+“A generation ago, the standard assumption… race is riding on the plane.”
+
+Observation 3 is Solvency
+We have the technological capacity to map medium and large asteroids – Funding is the only impediment.
+PDC White Paper – 2007 (Planetary Defense Conference, Summary and Recommendations from the 2007 Planetary Defense Conference, 25 April. [Online] www.aero.org/conferences/planetarydefense/2007papers/WhitePaperFinal.pdf) Accessed 06.11.11 jfs
+“Immediately initiate actions to locate threatening… provide improved estimates of NEO sizes.”
+
+And, keeping up with technological developments in mapping is crucial to early warning.
+Barbee (Aerospace Engineer @ Emergent Space Technologies) and Fowler (Professor of Aerospace Engineering @ UT-Austin), et al – 2006 (Brent William, Wallace T., with George W. Davis and David E. Gaylor, “Optimal Deflection of Hazardous Near-Earth Objects by Standoff Nuclear Detonation and NEO Mitigation Mission Design,” Paper presented at NASA Workshop on Near-Earth Object Detection, Characterization, and Threat Mitigation, 26 June 2006 (Vail, CO). [PDF Online @] http://www.aero.org/conferences/planetarydefense/resources.html) Accessed 06.07.11 jfs
+“Improved techniques and equipment for accurate… successful mitigation of a hazardous NEO.”
+
+Fortunately, complete solvency is possible.
+Schweickart – B612 Foundation – 2008 (Russell “Rusty” Schweickart, Quoted in Andrew C. Revkin, “Apocalypse Then. Next One, When?” Dot Earth [blog @ New York Times], 30 June. [Online] http://dotearth.blogs.nytimes.com/2008/06/30/apocalypse-then-next-one-when/) Accessed 05.23.11 jfs
+“NEOs are part of nature. A… failed to meet our evolutionary responsibility.”
+
+Field testing avoids the dangers of fragmentation.
+Barbee (Aerospace Engineer @ Emergent Space Technologies) and Fowler (Professor of Aerospace Engineering @ UT-Austin), et al – 2006 (Brent William, Wallace T., with George W. Davis and David E. Gaylor, “Optimal Deflection of Hazardous Near-Earth Objects by Standoff Nuclear Detonation and NEO Mitigation Mission Design,” Paper presented at NASA Workshop on Near-Earth Object Detection, Characterization, and Threat Mitigation, 26 June 2006 (Vail, CO). [PDF Online @] http://www.aero.org/conferences/planetarydefense/resources.html) Accessed 06.07.11 jfs
+“Field testing. Tests will determine which…interaction of nuclear explosives and NEOs.”
+
+Also, deflection is key to survival.
+Barbee (Aerospace Engineer @ Emergent Space Technologies) and Fowler (Professor of Aerospace Engineering @ UT-Austin), et al – 2006 (Brent William, Wallace T., with George W. Davis and David E. Gaylor, “Optimal Deflection of Hazardous Near-Earth Objects by Standoff Nuclear Detonation and NEO Mitigation Mission Design,” Paper presented at NASA Workshop on Near-Earth Object Detection, Characterization, and Threat Mitigation, 26 June 2006 (Vail, CO). [PDF Online @] http://www.aero.org/conferences/planetarydefense/resources.html) Accessed 06.07.11 jfs
+“Hazardous NEO mitigation represents a multi-disciplinary… to ensure the survival of humankind.”
+
+Defer to our impact calculus - In framing the debate, you should embrace your professional responsibility to act as if the disaster will happen.
+Chapman (Southwest Research Institute), Durda (SRI) and Schweickart (B612 Foundation) – 2006 (Clark R., Daniel D. and Russell L., “Mitigation: Interfaces between NASA, Risk Managers, and the Public,” White Paper submitted to NASA Workshop on Near-Earth Object Detection, Characterization, and Threat Mitigation, 26 June 2006 (Vail, CO). [PDF Online @] http://www.aero.org/conferences/planetarydefense/resources.html) Accessed 06.07.11 jfs
+“Since NASA astronomers and officials are… that NASA needs to learn now.”
+
+**DTN (Delay/Disruption-Tolerant Networking) AFF:**
+
+PLAN: Therefore we propose the following plan: The USFG will substantially increase its development beyond the Earth’s Mesosphere by committing at least $1 billion a year to develop and integrate a DTN system for US Satellites.
+
+CONTENTION 1 IS CYBERSECURITY—
+
+The threat of cyber warfare increases every day – multiple countries and terrorist groups will instigate attacks to cut off US access to space-enabled systems
+Coleman, 10 - senior fellow at the Technolytics Institute, former chief strategist at Netscape and an adviser on cyber warfare and security (9/22, Kevin, “Satellites Could come Under Cyber Siege,” http://defensesystems.com/Articles/2010/09/02/Digital-Conflict-Cyber-Threat-to-Satellites.aspx?Page=1)
+“Our nation’s defense and critical infrastructure… bolt on security after the fact.”
+
+These sorts of conflicts are inevitable because of US dependency – they will wreck the foundation for the military
+Denmark, 10 - Fellow with the Center for a New American Security [By Abraham M. and Dr. James Mulvenon CNAS, Jan, Contested Commons: The Future of American Power in a Multipolar World http://www.cnas.org/files/documents/publications/CNAS%20Contested %20Commons%20Capstone_0.pdf Accessed Jun 21]
+“In an environment where all the… kind of terrorism in zero gravity.”
+
+Further, attacks beget attacks – loss of information systems wipes out security measures and defenses
+Factor, 8 - co-chairman and co-founder of the Monday Meeting, an influential meeting of economic conservatives, journalists and corporate leaders in New York City (8/15, Mallory, “Russia's Cyberattack on Georgia,” Human Events, http://www.humanevents.com/article.php?id=28044)
+“The effect on the military campaign… communication satellite systems in outer space.”
+
+Cyberterror causes global nuclear war – draws in the US, China, and Russia through miscalculation and crisis instability
+Fritz, 9 – (July 2009, Jason, Former Captain, U.S. Army, Graduate of West Point, writer for the Center for New American Security, International Commission for Non Nuclear Proliferation and Disarmament, http://www.icnnd.org/Documents/Jason_Fritz_Hacking_NC2.pdf?noredirect=1)
+“All computers which are connected to… compromising command and control centers directly.”
+
+Escalation is certain – US doctrine treats cyber attacks as acts of war and promises military retaliation – MAD fails because responsibility and source are masked
+Sanger & Bumiller, 11 - Chief Washington Correspondent for The New York Times & national affairs correspondent for the New York Times (5/31, David E. and Elisabeth, “Pentagon to Consider Cyberattacks Acts of War,” NYT, http://www.nytimes.com/2011/06/01/us/politics/01cyber.html)
+“The Pentagon, trying to create a… action of a group of hackers.”
+
+CONTENTION 2 IS HEGEMONY—
+
+We’re on the brink of a major invasion of the cyber systems that enable space intelligence and command and control systems - 20 nations, domestic actors, and non-state actors have the ability to probe DOD computer systems. Empirics prove an attack is coming
+Ginter, 7 – Lieutenant Colonel, US army (2/22, Karl, “Space Technology and Network Centric Warfare: A Strategic Paradox,” USAWC Strategy Research Project, pdf)
+“The cyber threat to DoD computer… where critical computer nodes are unprotected.”
+
+The risk is high now – new software and defenses are inadequate
+Mirza, 9/1 - political-military analyst for the Hudson Institute (2011, Hassan, “Cyber-Attacks Are the Biggest National Security Threat,” http://www.policymic.com/article/show?id=1519&response=true)
+“Appearing before the Senate Armed Services Committee… oversees the wars in Afghanistan and Iraq.”
+
+They’ll attack commercial control systems – there are no defenses and the military is dependent on them
+SSI, 10 – Space Security Index published by a group of aerospace experts at spacesecurity.org (August 2010, Governance Group and Advisory Group, “Space Security 2010”, spacesecurity.org,http://www.spacesecurity.org/space.security.2010.reduced.pdf)
+“Satellite ground stations and communications links… boundaries of their relative military capabilities.”
+
+TCP/IP nodes
+Gable, 9 - Adjunct Professor of Public International Law, Drexel University Earle Mack School of Law (8/16, Kelly A., “Cyber-Apocalypse Now: Securing the Internet Against Cyberterrorism and Using Universal Jurisdiction as a Deterrent,” Vanderbilt Journal of Transnational Law, Volume 43:57, pdf)
+“The primary insecurity of the TCP/IP… be as safe as originally thought.”
+
+Satellites relay the most important military information to US forces, but network vulnerabilities make them operationally useless – warfighting is impossible without them
+Morgan, 10 - defense policy researcher working in RAND Corporation's Pittsburgh Office. Prior to joining RAND in January 2003, Dr. Morgan served a 27-year career in the U.S. Air Force (Forrest, “Deterrence and First-Strike Stability in Space,”
+http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA522541&Location=U2&doc=GetTRDoc.pdf
+“Given the great extent to which… follow-on attacks, and rapid escalation.4”
+
+Any solution is just short-term – airborne networks are on the verge of collapse – corruption, latency, jamming, intermittent links all compound general ineffectiveness – DTN is key
+Jonson et al, 8 - Thomas Jonson, Jonah Pezeshki, Victor Chao, Kristofer Smith, James Fazio, Booz Allen Hamilton (5/8, IEEE, APPLICATION OF DELAY TOLERANT NETWORKING (DTN) IN AIRBORNE NETWORKS,” pdf)
+“Similar to other radio-based communications… AN environment, needs to be adopted.”
+
+CONTENTION 3 IS SOLVENCY
+
+DTN radically improves the safety and speed of AN networks
+Lee et al, 10 – Kevin C Lee, Adam Piechowicz, Mario Gerla: Department of Computer Science, University of California, Los Angeles, Los Angeles, CA; Abhishek Tiwari, Anurag Ganguli: Utopia Compression Corporation; David Krzysiak: Air Force Research Lab, Rome Research Site (1/14, “Delay Tolerant Mobility Aware Routing/Mobility Dissemination Protocol for the Airborne Network,” pdf)
+“Despite “airborne network (AN) topology design”… higher than battery operated MANET nodes.”
+
+DTN is the magic elixir for all status quo network problems – effective routing in space makes data and information loss impossible – multiple reasons
+Jonson et al, 8 - Thomas Jonson, Jonah Pezeshki, Victor Chao, Kristofer Smith, James Fazio, Booz Allen Hamilton (5/8, IEEE, APPLICATION OF DELAY TOLERANT NETWORKING (DTN) IN AIRBORNE NETWORKS,” pdf)
+“The DTN architecture has been designed… and total transmission delay (Figure 5).”
+
+DTN is key to stabilize and back up network connections to remote military infrastructure
+NASA, 11 (7/1, “Disruption Tolerant Networking for Space Operations (DTN),” Fact Sheet, http://www.nasa.gov/mission_pages/station/research/experiments/DTN.html)
+“Military applications in the DTN arena… challenges related to confidentiality, integrity and availability.”
+
+=Negative= 
+Weaponization DA
+
+A. Uniqueness - Obama is pursuing space cooperation – US multilateral leadership is creating a framework against weaponization
+Huntley, 11 - senior lecturer in the National Security Affairs department at the Naval Postgraduate School in Monterey, California (Wade, “The 2011 U.S. National Space Security Policy: Engagement as a Work in Progress”, Disarmament Times, Spring, http://disarm.igc.org/index.php?option=com_content&view=article&id=429:the-2011-us-national-space-security-policy-engagement-as-a-work-in-progress&catid=154:disarmament-times-spring-2011&Itemid=2)
+“As is well understood, the space… devils may lurk in these details.”
+
+B. The Links –
+
+1 - The perception of pursuing space dominance will destroy the commitment to the new cooperative space policy
+Dant, 11 - chief of staff of the Air Force fellow and the director of space policy for the under secretary of defense for policy (Daniel, High Frontier, February, " The National Space Policy: Sustainability and Cooperation in a Congested, Competitive, and Contested Domain,” http://www.afspc.af.mil/shared/media/document/AFD-110224-052.pdf)
+“Cooperation for contested and competitive domain… coalition of responsible space-faring nations.”
+
+2 - Unilateral action alienates allies and shatters other areas of cooperation
+Sabathier et. al, 06— senior associate with the CSIS Technology and Public Policy Program and former senior fellow and director of CSIS space initiative (September 18, 2oo6 ,Vincent G. Sabathier, D.A. Broniatowski, G. Ryan Faith, Center for Strategic and International Studies, “The Case for Managed International Cooperation in Space Exploration”, http://csis.org/files/media/csis/pubs/060918_managed_international_cooperation.pdf)
+“International cooperation is valuable to a… beneficial cooperation would be more likely.”
+
+C. The Impact - Multilateral cooperation against weaponization is vital to preventing miscalculation, first strike incentives and global war
+Hitchens, 8 – president of the Center for Defense Information (Theresa, “Space Wars - Coming to the Sky Near You?” Scientific American, February, http://www.sciam.com/article.cfm?id=space-wars-coming-to-the-sky-near-you)
+“Perhaps of even greater concern is… alternative would be unacceptable to all.”
+[[include page="space.template.Footer"]]

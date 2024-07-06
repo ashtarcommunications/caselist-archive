@@ -1,0 +1,216 @@
+[[toc]]
+=Questions?= 
+I like to take long strolls on the beach at midnight. I'm also a really big cat person. Any questions? Hit me up at [[mailto:neerajbajpayee@gmail.com|neerajbajpayee@gmail.com]].
+
+#BHN
+#NUDI
+=Affirmative= 
+==ITS Aff== 
+===1AC=== 
+====__**Bioterror Advantage**__==== 
+**Bio-attack is imminent**
+<span style="font-size: 13pt;">Garrett 12</span> <span style="font-size: 8pt;">[January 5, 2012, Laurie Garrett is senior fellow for global health at the Council on Foreign Relations and recipient of the 1996 Pulitzer Prize for her coverage of the Ebola outbreak, “Flu Season” http://www.foreignpolicy.com/articles/2012/01/05/flu_season?print=yes&hidecomments=yes&page=full; NBaj]</span>
+
+<span style="font-size: 6pt;">When flu scientist Ron </span><span class="StyleBoldUnderline">Fouchier of Erasmus University in Rotterdam announced in September that he </span>
+<span class="StyleBoldUnderline">AND</span>
+<span class="StyleBoldUnderline">that </span>//the political world is completely unprepared for the synthetic-biology revolution.//
+
+
+**New tech means terrorists can build bioweapons on their own.**
+<span style="font-size: 13pt;">MSNBC 12/7</span><span style="font-size: 8pt;"> (“Clinton warns of bioweapon threat from gene tech,” pg online @ http://www.msnbc.msn.com/id/45584359/ns/technology_and_science-security/#.TuaTq7JomzZ; NBaj)</span>
+
+<span style="font-size: 8pt;">GENEVA — New gene assembly technology that offers great benefits for scientific research could also </span>
+<span style="font-size: 8pt;">AND</span>
+<span class="StyleBoldUnderline">nuclear weapons — saying it is too complicated to monitor every lab's activities</span><span style="font-size: 8pt;">.</span>
+
+**The transportation system will be overwhelmed during the attack—ITS is the only way to solve bioterror specifically.**
+<span style="font-size: 13pt;">Hinds 7</span><span style="font-size: 8pt;"> (Josh Hinds, former Graduate Research Assistant at Center for Transportation Research and Education Transportation Engineer at South Dakota Department of Transportation, 10-11-07, [“The Emergency Transportation Operations within the Intelligent Transportation System,” Midwest Transportation Consortium Scholars Paper, http://ctre.iastate.edu/mtc/papers/documents/hinds2007paper.pdf] E. Liu; NBaj)</span>
+
+<span style="font-size: 8pt;">Section 1.B. The Emergency Transportation Operations in ITS </span><span style="font-size: 6pt;">¶</span><span style="font-size: 8pt;"> The surface transportation </span>
+<span style="font-size: 8pt;">AND</span>
+<span class="StyleBoldUnderline">travelers to the right route can benefit any emergency event. (5)</span>
+
+
+**And ITS contains the attack—5 reasons**
+<span style="font-size: 13pt;">RITA 11</span><span style="font-size: 8pt;"> (U.S. Department of Transportation’s Research and innovative technology administration, RITA, 4/18/11, Final Report for the Application of Technology to Transportation Operations in Biohazard Situations; NBaj)</span>
+
+<span style="font-size: 8pt;">1.4 Technology Application Plan</span><span style="font-size: 6pt;">¶ </span><span style="font-size: 8pt;">The Technology Application Plan assesses the activities identified </span>
+<span style="font-size: 8pt;">AND</span>
+management<span class="StyleBoldUnderline"> (e.g., alternate signal control, signal preemption technology).</span>
+
+**And ITS detects the source of the attack.**
+<span style="font-size: 13pt;">Pincus 11</span><span style="font-size: 8pt;"> [September 2011, Marcia Pincus is from the ITS Joint Program Office Research and Innovative Technology Administration U.S. Department of Transportation Department of Transportation, Final Report, “Intelligent Transportation Systems Benefits, Costs, Deployment, and Lessons Learned Desk Reference: 2011 Update”,http://www.benefitcost.its.dot.gov/its/benecost.nsf/files/BCLLDepl2011Update/$File/Ben_Cost_Less_Depl_2011%20Update.pdf]</span>
+A variety of sensors deployed on the transportation infrastructure can help provide an early warning
+<span style="font-size: 6pt;">AND</span>
+<span style="font-size: 8pt;">such as reversible flow lanes are often used for evacuation during </span><span style="font-size: 6pt;">¶ </span><span style="font-size: 8pt;">emergencies.</span>
+
+
+**And the federal government is key**
+<span style="font-size: 13pt;">RITA 6/28</span><span style="font-size: 8pt;"> (U.S. Department of Transportation’s Research and innovative technology administration, RITA, 6/28/12; NBaj)</span>
+
+<span style="font-size: 6pt;">As described in the ITS Strategic Research Plan, 2010–2014², the USDOT's </span>
+AND
+<span style="font-size: 6pt;">on the environment and/or make more informed choices about travel modes.</span>
+
+
+**<span style="font-size: 13pt;">And bio-attack is the BIGGEST existential risk</span>**
+<span style="font-size: 13pt;">Matheny 7</span><span style="font-size: 8pt;"> (Research associate at Oxford University, Jason G., “Reducing the Risk of Human Extinction”. November 5, 2007; < http://www.physics.harvard.edu/~wilson/pmpmta/Mahoney_extinction.pdf>//AB; NBaj)</span>
+Of current extinction risks, the most severe may<span style="font-size: 6pt;">¶</span> be bioterrorism. The knowledge
+AND
+<span style="font-size: 8pt;">to respond to pandemics (Lam,</span><span style="font-size: 6pt;">¶ </span><span style="font-size: 8pt;">Franco, & Shuler, 2006).</span>
+
+**It’s worse than nuclear war**
+<span style="font-size: 13pt;">Alexander 7</span><span style="font-size: 8pt;"> (Timothy, Former Scottish Editor of Burke’s Peerage, B.Sc. in Pol. Sc. & History; M.A. in European Studies, October 22nd, “War On Iran = You Die from Biowar”, Op Ed News, http://www.opednews.com/articles/genera_lord_sti_071020_war_on_iran__3d_you_di.htm; NBaj)</span>
+<span style="font-size: 7pt;">We have been conditioned, by seeing films of mushroom clouds and images of nuclear </span>
+<span style="font-size: 7pt;">AND</span>
+<span class="StyleBoldUnderline">that they are totally blind to the profound risk to their own lives.</span>
+
+====__**Computational Science Advantage**__==== 
+**ITS revolutionizes the comp sci field.**
+<span style="font-size: 13pt;">R&D 12</span><span style="font-size: 8pt;"> (R&D, News Agency dedicated to research and development, “Study: Computing advances vital to sustainability efforts,” http://www.rdmag.com/News/2012/06/Environment-Computing-Advances-Vital-To-Sustainability-Efforts/,Friday, June 29, 2012)</span>
+
+<span class="StyleBoldUnderline">Innovation in computing will be essential to finding real-world solutions to sustainability challenges</span>
+<span style="font-size: 6pt;">AND</span>
+<span style="font-size: 6pt;">who wish to further their research in a sustainability-oriented problem space.</span>
+
+**<span class="StyleStyleBold12pt">Plan turbocharges development and innovation in comp sci.</span>**
+<span style="font-size: 13pt;">Winter et al 10</span><span style="font-size: 8pt;"> (Stephan Winter: The University of Melbourne, Australia, Monika Sester: Leibniz University Hannover, Germany, Ouri Wolfson: University of Illinois, Chicago, USA, Glenn Geers: National ICT Australia, Sydney, Australia, ACM SIGMOD Record, Volume 39 Issue 3, September 2010 , Pages 27-32, [[http://www.cs.uic.edu/~boxu/mp2p/39-135-1-SM.pdf]])</span>
+
+<span class="StyleBoldUnderline">In the near future, vehicles, travelers, and the transportation infrastructure will collectively </span>
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 8pt;">intelligent. So “computational transportation science” seems to say it all.</span>
+
+**That spills over to the high tech industry**
+<span style="font-size: 13pt;">Blecher 9</span><span style="font-size: 8pt;">, Congress: Invest in Intelligent Transportation Systems to create jobs, By Scott Belcher, CEO and President, Intelligent Transportation Society of America, [[http://thehill.com/blogs/congress-blog/technology/70623-congress-invest-in-intelligent-transportation-systems-to-create-jobs]]</span>
+
+<span style="font-size: 8pt;">As </span><span class="StyleBoldUnderline">Congressional leaders</span><span style="font-size: 8pt;"> work to craft a jobs package that will address our nation’s alarming </span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;">and emissions, improving system performance and creating more livable, sustainable communities.</span>
+
+**Tech innovation is key to sustainability – solves the environment, biotech, nanotech, disease, warming, famine**
+<span style="font-size: 13pt;">Baker 2k</span><span style="font-size: 8pt;">– Former Industrial Economist</span>
+<span style="font-size: 8pt;">Brent Barker, electrical engineer, and manager of corporate communications for the Electric Power Research Institute and former industrial economist and staff author at SRI International and as a commercial research analyst at USX Corporation, “Technology and the Quest for Sustainability.” EPRI Journal, Summer, INFOTRAC</span>
+__Sustainability has been the subject of much discussion__<span style="font-size: 6pt;"> and a steady stream of policy forums </span>
+<span style="font-size: 6pt;">AND</span>
+<span class="StyleBoldUnderline">full measure to future generations everywhere in the world</span><span style="font-size: 6pt;">. Thatfuture begins now.</span>
+
+**And comp sci revolutionizes the biotech field.**
+<span style="font-size: 13pt;">Strayer 4</span> (<span style="font-size: 8pt;">Michael Strayer, Acting Director of Mathematical, Informantion, and Computational Science Division of the US Department of Energy, September 19, 2004, http://science.energy.gov/~/media/ascr/pdf/program-documents/archive/Scales_report_vol2.pdf)</span>
+<span style="font-size: 8pt;">Progress in biology …the future in biology.</span>
+
+Progress in biology depends on the emergence of a new quantitative, predictive, and
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 7pt;">as to the scientiﬁc goals that can be accomplished in the future in biology</span>
+
+**That solves deforestation**
+<span style="font-size: 13pt;">McGloughlin 2K</span>, <span style="font-size: 8pt;">Martina McGloughlin is a professor @ UC Davis, Journal of Agrobiotechnology Management, Ten Reasons Why Biotechnology Will Be Important to the Developing World, [[http://www.agbioforum.org/v2n34/v2n34a04-mcgloughlin.htm]]</span>
+
+<span class="StyleBoldUnderline">Biotechnology companies, national and international organizations,</span><span style="font-size: 8pt;"> including the Consultative Group on International Agricultural </span>
+<span style="font-size: 8pt;">AND</span>
+<span class="StyleBoldUnderline">solutions are readily available and cheaper than before the introduction of biotechnology crops?</span>
+
+**Amazon forest key to oxygen**
+<span style="font-size: 13pt;">AIRR 2K</span> <span style="font-size: 8pt;">Amazon International Rainforest Reserve 00 ["The Amazon Stands As A Wonderous Testimony To Its Glorious Creator," www.amazonrainforest.org/community/articles/article2.asp Waldman]</span>
+<span style="font-size: 8pt;">The Amazon Rainforest, …to all living beings."</span>
+
+The Amazon Rainforest, the largest and richest ecosystem on earth, has stood inviolate
+AND
+<span style="font-size: 8pt;">of its like and activity. It affords protection to all living beings."</span>
+
+**Declining oxygen levels causes extinction.**
+<span style="font-size: 13pt;">Tatchell 8</span> <span style="font-size: 8pt;">human rights activist who campaigns with OutRage! He is a regular contributor to PinkNews.co.uk and The Guardian, cites Author and scientist Roddy Newman, NASA Reports, and the UN environmental program, http://www.guardian.co.uk/commentisfree/2008/aug/13/carbonemissions.climatechange</span>
+<span style="font-size: 8pt;">Compared to prehistoric times…diminish global fish supplies.</span>
+
+<span class="StyleBoldUnderline">The rise in carbon dioxide emissions is big news. It is prompting action to </span>
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 8pt;">term wellbeing of our species – and, indeed, of all species.</span>
+
+**U.S. development key to responsible management - solves internationally.**
+<span style="font-size: 13pt;">Vandermolen 6</span> <span style="font-size: 8pt;">Thomas D., BS, Louisiana Tech University; MA, Naval War College), is officer in charge, Maritime Science and Technology Center, Yokosuka, Japan. He was previously assigned as a student at the Naval War College, Newport Naval Station, Rhode Island.http://www.airpower.maxwell.af.mil/airchronicles/apj/apj06/fal06/vandermolen.html *MNT=Molecular Nanotechnology</span>
+
+<span style="font-size: 7pt;">In either case, </span>regulation will succeed<span style="font-size: 7pt;">—if it does—</span>only by removing
+<span class="StyleBoldUnderline">AND</span>
+<span style="font-size: 7pt;">threats enabled by MNT will likely evolve faster than bureaucratic solutions can cope.</span>
+
+===2AC--Cyberterrorism=== 
+
+
+=Negative= 
+==Disadvantages== 
+===Fiscal Cliff=== 
+
+**Republicans are willing to negotiate, but only if Democrats make serious spending cuts.**
+**FOX 11/8** <span style="font-size: 8pt;">(Fox News; November 8, 2012; http://www.foxnews.com/politics/2012/11/08/gop-house-leaders-begin-outlining-parameters-to-avoid-fiscal-cliff-day-after/; NBaj)</span>
+House Speaker John Boehner, on the heels of an election that left the balance
+AND
+shore up the entitlement programs that are the primary drivers of our debt."
+
+**Negotiations are on the fence. Aff spending uniquely kills bipartisanship.**
+**Wessel Et Al 11/07** <span style="font-size: 8pt;">(November 7, 2012, 7:37 p.m. ET NAFTALI BENDAVID, DAMIAN PALETTA and DAVID WESSEL; Bendavid graduated from Columbia University in 1985 with a degree in political science, and has a masters degree in journalism from Northwestern University. Naftali Bendavid is the Congressional reporter for The Wall Street Journal. He was previously the deputy Washington bureau chief, White House correspondent and Justice Department correspondent for the Chicago Tribune, as well as a reporter for the Miami Herald and Legal Times; Damian Paletta is a staff reporter with the Wall Street Journal in Washington, D.C. He graduated from Boston College in 1999 and received a master~’s degree in journalism from the University of Missouri in 2002; David Meyer Wessel is a well known economics journalist with The Wall Street Journal and a Pulitzer prize winner and author; http://online.wsj.com/article/SB10001424127887323894704578105260044138592.html; NBaj)</span>
+Democrats said their hand has been strengthened by Mr. Obama’s solid victory and by
+AND
+is willing to return to talks on which taxes are on the table.
+
+**And failure to avoid the fiscal cliff __tanks__ the economy.**
+**Sahadi 11/07** <span style="font-size: 8pt;">(Jeanne L. Sahadi is a senior writer for CNNMoney.com. She currently covers all issues pertaining to the U.S. federal deficit and debt as well as tax policy; http://money.cnn.com/2012/11/07/news/economy/obama-win-fiscal-cliff/; November 7, 2012: 4:25 PM; NBaj)</span>
+The fiscal cliff is the legislative equivalent of a slow-motion train wreck that
+AND
+when more than %24500 billion will be taken out of the economy.
+
+
+**Decline causes global war**
+**Mead**<span style="font-size: 8pt;">, Senior Fellow at the Council on Foreign Relations, </span>**2009** <span style="font-size: 8pt;">(Walter Russell, "Only Makes You Stronger," February 4, http://www.tnr.com/article/only-makes-you-stronger-0)</span>
+So far, such half-hearted experiments not only have failed to work;
+AND
+the world economy back on track, we may still have to fight.
+
+==**Kritiks**== 
+===**Capitalism**=== 
+
+**Federal infrastructure projects are __situated__ within history as a tool to __integrate__ both the nation and the world into the __global capitalist order__ of the US – This create an __imperial ideology__ that justifies the __ruthless expansion__ of capital into foreign markets and causes __short-termism__ causes __environmental collapse__**
+**Smith 8** (Jason Scott, assistant professor of history at the University of New Mexico, "The New Deal Order," Enterprise and Society Vol. 9 Num 3 2008, Muse)
+__By using the__ **__<span style="font-size: 12pt;">lens</span>__**__of political economy to focus on the New Deal's public works__
+__AND__
+<span style="font-size: 8pt;">to recognize the historical impact of the New Deal's public works projects.[[http://muse.jhu.edu.go.libproxy.wfubmc.edu/journals/enterprise_and_society/v009/9.3.smith.html#f14|14]]</span>
+
+
+**The impact is extinction**
+**Brown, 05** <span style="font-size: 10pt;">(Charles, Professor of Economics and Research Scientist at the University of Michigan, 05/13/2005, [[http://archives.econ.utah.edu/archives/pen-l/2005w15/msg00062.htm]])</span>
+<span style="font-size: 8pt;">The capitalist class owns the factories, the banks, and transportation-the means </span>
+<span style="font-size: 8pt;">AND</span>
+<span style="font-size: 8pt;">at large remains a shameful fact of life in the U.S.</span>
+
+
+**Text: Reject the affirmative’s capitalist front.**
+**Vote __neg__ – the purpose of the debate should be __envisioning a different relationship__ toward the knowledge capital produces – only by __situating ourselves__ as intellectuals outside of state politics can solvency start – reformism __is__ the __link__ means the perm gets __co-opted__** **too**
+**Meszaros 8** (Istvan, Chair of Philosophy at the University of Sussex, The Challenge and Burden of Historical Time, p323-328)
+__The unreality of postulation____the__<span style="font-size: 8pt;"> sustainable </span>__solution__<span style="font-size: 8pt;"> of the grave problems of our social order </span>
+__AND__
+<span style="font-size: 8pt;">synonymous with the withering away of the state as an ongoing historical enterprise.</span>
+
+
+
+===**Speaking for Others**=== 
+
+**A) Speaking for others perpetuates a discursive hierarchy and oppression. Narratives fail at true inclusion or explanation**
+Alcoff 92
+(Linda, Department of Philosophy Syracuse University, The Problem of Speaking For Others, Cultural Critique, Winter 1991-92)
+These examples demonstrate the range of current practices of speaking for others in our society
+AND
+for others who are unlike me or who are less privileged than me?
+
+**B) Speaking for others invokes the same power structure that silences those they try to help in the first place. They can’t control meaning and interpretation unless they acknowledge that social location is more important than content**
+Alcoff 92
+(Linda, Department of Philosophy Syracuse University, The Problem of Speaking For Others, Cultural Critique, Winter 1991-92)
+Let me return now to the formulation of the problem of speaking for others.
+AND
+some of the principal responses offered to the problem of speaking for others.
+
+**C) The alternative is to vote neg and reject their narrative. We must recognize discourse and its effects as an event. Our criticism is key to solve the oppressive disconnects between intentions, perception, and effects.**
+<span style="line-height: 1.5;">Alcoff 92 </span><span style="font-size: 8pt;">(Linda, Department of Philosophy Syracuse University, The Problem of Speaking For Others, Cultural Critique, Winter 1991-92)</span>
+Speaking should always carry with it an accountability
+AND
+international mass murder and radically alters it foreign policy.
+
+[[media type="custom" key="21884272"]]
+[[include page="space.template.Footer"]]

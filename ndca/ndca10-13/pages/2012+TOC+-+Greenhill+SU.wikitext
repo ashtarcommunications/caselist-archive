@@ -1,0 +1,399 @@
+[[toc]]
+=Round 1= 
+Space Guard Aff
+Advs: Aerospace Power, Space Weather, Coop/Debris
+
+
+
+
+
+<span style="text-decoration: none;">Advantage One is Weather</span>
+
+
+<span style="text-decoration: none;">Space weather risk is high and set to peak --- the impact is immediate</span>
+
+<span style="text-decoration: none;">Moskowitz 2k11</span>
+<span style="text-decoration: none;">(Clara, Space.com Senior Writer, Citing Jane Lubchenco---PhD in Ecology from Harvard, MS in Zoology, BA in Biology, currently under secretary of commerce for oceans and atmosphere and administrator of NOAA, she is "most highly cited" ecologists in the world, Juha-Pekka Luntama---manager of the Space Weather Segment in the Space Situational Awareness Preparatory Program in the ESA, Sir John Beddington--- PhD in Applied Population Biology and Chief Scientific Advisor to the UK Government, “U.S. Must Take Space Storm Threat Seriously, Experts Warn” February 19, 2011, pg online @ [http://www.space.com/10906-space-storms-threat.html]//greenhill-au)//</span>
+//<span style="text-decoration: none;">Space weather could pose serious problems here on Earth in the coming years, the </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> otherwise we will not take them seriously."</span>//
+
+//<span style="text-decoration: none;">Causes Grid Shutdown </span>//
+
+//<span style="text-decoration: none;">Hapgood 2k10</span>//
+//<span style="text-decoration: none;">(Mike, PhD and Professor at Lancaster University and Head of the Space Environmental Group at RAL Space and he is an internationally recognised expert in space weather with over 30 years experience in solar-terrestrial physics, a key part of the science of space weather, has led several major space weather studies for the European Space Agency and served as chair of ESA’s Space Weather Working Team, and is also current chair of the UK solar-terrestrial physics community group, “Space Weather Its impact on Earth and implications for business” Ral Space Report Comissioned by Lloyds 360 Risk Insight, November 4, 2010, pg 16, pg online</span>//greenhill-au)
+<span style="text-decoration: none;">B) Power During magnetic storms, rapid changes in the Earth’s magnetic </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> alone can manage. The UK National Security Strategy50 published in October 2010 noted the importance of monitoring the potential impact of severe space weather on national infrastructure. </span>
+
+<span style="text-decoration: none;">Grid collapse causes extinction</span>
+
+<span style="text-decoration: none;">Rifkin 2k2 </span>
+<span style="text-decoration: none;">(Jeremy, the founder and president of the Foundation on Economic Trends, Fellow at the Wharton School’s Executive Education Program The Hydrogen Economy: The Creation of the World-Wide Energy Web and the Redistribution of Power on Earth, p.163-164) </span>
+<span style="text-decoration: none;">It is understandable that we would be unmindful of the critical role that oil </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> invisible but indispensable' presence in our lives. </span>
+
+
+<span style="text-decoration: none;">Increasing civil SSA data-sharing without military secrecy uses inter-agency information and creates response to space weather </span>
+
+<span style="text-decoration: none;">Hapgood 2k10--- Card Omits Table 1, Box 5, and Box 6</span>
+<span style="text-decoration: none;">(Mike, PhD and Professor at Lancaster University and Head of the Space Environmental Group at RAL Space and he is an internationally recognised expert in space weather with over 30 years experience in solar-terrestrial physics, a key part of the science of space weather, has led several major space weather studies for the European Space Agency and served as chair of ESA’s Space Weather Working Team, and is also current chair of the UK solar-terrestrial physics community group, “Space Weather Its impact on Earth and implications for business” Ral Space Report Comissioned by Lloyds 360 Risk Insight, November 4, 2010, pg 20- 24, pg online//greenhill-au)//</span>
+//<span style="text-decoration: none;">Building in protection The ideal response to space weather risks is to build </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> Otherwise it may be better to employ a specialist service external to the business.</span>//
+
+
+//<span style="text-decoration: none;">Civil SSA needs to be in space and shared among governments to solve</span>//
+
+//<span style="text-decoration: none;">Weeden et al 2k10----*NOTE: L1 Lagrangian Point is an Orbit that has the same Period as the Moon</span>//
+//<span style="text-decoration: none;">(Brian Weeden, Secure World Foundation, Paul Cefola is a PhD and Consultant in Aerospace Systems, Spaceflight Mechanics, and Astrodynamics; Adjunct Professor, Department of Mechanical and Aerospace Engineering, Jagananth Sankaran is a PhD Candidate and Graduate Assistant, Center for International and Security Studies at Maryland (CISSM), “Global Space Situational Awareness Sensors” 2010, pg online</span>//greenhill-au)
+<span style="text-decoration: none;">Under this definition and within these requirements, SSA for civil and </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> And international cooperation on space weather detection and prediction can make more efficient use of limited budgets and long spacecraft design times.</span>
+
+<span style="text-decoration: none;">Any current cooperation is not mandated under a single agency and makes forecasts fail</span>
+
+<span style="text-decoration: none;">Lanzerotti 2k6--- NOTE: NWSP = National Space Weather Program, the U.S.’s interagency space weather initiative consisting of the NSF, NASA, NOAA, DoD, DoC, DoE, DoI, and the DoT</span>
+<span style="text-decoration: none;">(Louis, chair of the NWSP Assessment Committee, “Report of the Assessment Committee for the National Space Weather Program” June 2006, Office of the Federal Coordinator for Meteorological Services, FCM-R24-2006, pg online//greenhill-au)//</span>
+//<span style="text-decoration: none;">Individual agencies within the NSWP have pursued international </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> data sources than currently exist would also assist in assuring continuity of data if one or more U.S. sources fail.</span>//
+
+
+//<span style="text-decoration: none;">Situational Awareness is at a CRITICAL Stage Now lack of a new dedicated civilian organization means efforts will fail</span>//
+
+//<span style="text-decoration: none;">Bennett 2k10</span>//
+//<span style="text-decoration: none;">(James, C. Research Associate @ George Washington University’s Space Policy Institute, “The Coast Guard Model: A Third Organizational Option For International SSA Data Sharing and Other US Space Responsibilities,” George Washington University, Space Policy Institute, pg online @ http://www.gwu.edu/~spi/assets/docs/CoastGuardModel-GWUpaper.pdf </span>//ghs-ef)
+<span style="text-decoration: none;">Recent events have underscored the reality that current means of </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> be civilian organizations, and some of who would be distrustful of the USAF as a collaborative partner.</span>
+
+
+<span style="text-decoration: none;">And, a U.S.-Led cooperative SSA establishes a legal regime that prevents miscalc and engenders international cooperation </span>
+
+<span style="text-decoration: none;">Weeden 2k9</span>
+<span style="text-decoration: none;">(Brian Weeden, is a technical consultant for the Secure World Foundation and former U.S. Air Force officer with a background in space surveillance and ICBM operations. “FEATURE: Space Sustainability: To Preserve And Protect...,” SAT Magazine, pg online @ http://www.satmagazine.com/cgi-bin/display_article.cgi?number=1415465455 //ghs-ef)//</span>
+//<span style="text-decoration: none;">SSA as the Foundation International civil space situational awareness is </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> is the political will on behalf of both private industry and States to come together and create what is truly needed for the benefit of all humankind</span>//
+
+
+//<span style="text-decoration: none;">Advantage Two is Aerospace </span>//
+
+
+//<span style="text-decoration: none;">First, A Bioterror Attack In INEVITABLE By 2013 Without New Action </span>//
+
+//<span style="text-decoration: none;">MSNBC 2k8</span>//
+//<span style="text-decoration: none;">(“Panel warns biological attack likely by 2013,” pg online @ http://www.msnbc.msn.com/id/28006645/#.Tuagy7JomzY </span>//ghs-ef)
+<span style="text-decoration: none;">WASHINGTON — The United States can expect a terrorist attack using nuclear or more likely biological weapons before 2013, reports a bipartisan commission in a study being briefed Tuesday to Vice President-elect Joe Biden. It suggests the Obama </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> in Mumbai. "If those people had had access to a biological or nuclear weapon they would have multiplied by orders of magnitude the deaths they could have inflicted," he said.</span>
+
+<span style="text-decoration: none;">And, New Gene Manipulation Increases Risk Of Bioweapons </span>
+
+<span style="text-decoration: none;">MSNBC 12/7</span>
+<span style="text-decoration: none;">(“Clinton warns of bioweapon threat from gene tech,” pg online @ http://www.msnbc.msn.com/id/45584359/ns/technology_and_science-security/#.TuaTq7JomzZ //ghs-ef)//</span>
+//<span style="text-decoration: none;">GENEVA — New gene assembly technology that offers great benefits for </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> system — akin to that for nuclear weapons — saying it is too complicated to monitor every lab's activities.</span>//
+
+
+//<span style="text-decoration: none;">And it goes global</span>//
+
+//<span style="text-decoration: none;">Steinbruner ‘97 </span>//
+//<span style="text-decoration: none;">(John, senior fellow at the Brookings Institution, chair of the committee on international security and arms control of the National Academy of Sciences, Foreign Policy, December 22, 1997)</span>//
+//<span style="text-decoration: none;">Although human pathogens are often lumped with nuclear explosives and lethal </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> contagion of this sort but not necessarily its outer limit.</span>//
+
+//<span style="text-decoration: none;">Bio Weapons outweigh and cause extinction</span>//
+
+//<span style="text-decoration: none;">Ochs 2k2 </span>//
+//<span style="text-decoration: none;">(MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park [Richard, “Biological Weapons Must Be Abolished Immediately,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html)</span>//
+//<span style="text-decoration: none;">Of all the weapons of mass destruction, the genetically engineered biological </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> humanity, then patriotism is the highest of all crimes.</span>//
+
+
+//<span style="text-decoration: none;">BIO Prolif and Government responses are inevitable – ONLY Aerospace Power solves Transparency for BWC </span>//
+
+//<span style="text-decoration: none;">Finel ‘99</span>//
+//<span style="text-decoration: none;">(Dr. Bernard I. Finel (BA, Tufts University; MA, PhD, Georgetown University) is the associate director of the National Security Studies Program and visiting assistant professor of national security and international affairs at the Edmund A. Walsh School of Foreign Service, Georgetown University. Dr. Finel has written extensively on proliferation, the revolution in military affairs, and international politics. “The Role of Aerospace Power,” pg online @ http://www.airpower.au.af.mil/airchronicles/apj/apj99/win99/finel.htm)</span>//
+//<span style="text-decoration: none;">THE PROLIFERATION OF nuclear, biological, and chemical (NBC) weapons </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> Convention (BWC) will be bolstered by aerospace-based transparency systems.11</span>//
+
+
+//<span style="text-decoration: none;">And, It Solves Detection, Deterrence and Destruction </span>//
+
+//<span style="text-decoration: none;">Finel ‘99</span>//
+//<span style="text-decoration: none;">(Dr. Bernard I. Finel (BA, Tufts University; MA, PhD, Georgetown University) is the associate director of the National Security Studies Program and visiting assistant professor of national security and international affairs at the Edmund A. Walsh School of Foreign Service, Georgetown University. Dr. Finel has written extensively on proliferation, the revolution in military affairs, and international politics. “The Role of Aerospace Power,” pg online @ http://www.airpower.au.af.mil/airchronicles/apj/apj99/win99/finel.htm)</span>//
+//<span style="text-decoration: none;">Detecting WMDs In terms of detecting the possession of WMDs and the </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> is itself a form of deterrence by denial.</span>//
+
+
+
+//<span style="text-decoration: none;">Focus on civil space services tradeoff with warfighting—the plan solves aerospace </span>//
+
+//<span style="text-decoration: none;">McKinley 2k</span>//
+//<span style="text-decoration: none;">(Lt Col Cynthia A. S. McKinley (BA, Moorhead State University; MS, Troy State University; MAAS, School of Advanced Airpower Studies) is commander of the 21st Operations Support Squadron, Peterson AFB, Colorado, which provides mission support to Air Force Space Command’s (AFSPC) worldwide network of attack warning and space surveillance units. Prior to assuming command, she was the deputy director of the commander’s action group at AFSPC. A graduate of Squadron Officer School and Air Command and Staff College, Colonel McKinley has published articles in Aviation Week and Space Technology, Space News, and several symposia proceedings, She has also been a guest lecturer at Air War College and space war games. “Organizing America's Space Assets for the Twenty-First Century,” Aerospace Power Journal - Spring 2000, pg online @ http://www.airpower.maxwell.af.mil/airchronicles/apj/apj00/spr00/mckinley.htm </span>//ghs-ef)
+<span style="text-decoration: none;">First, a fundamental cultural dichotomy separates today's air and </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> in opposite directions. To achieve aerospace power and become an aerospace force, the Air Force must be allowed to carve out the space services portion of its current responsibilities.</span>
+
+
+<span style="text-decoration: none;">And, The Plan Re-Balances Air Force Priorities – It Transitions The Air Force From Space Services To War-Fighting And Ensures Space Services Get Their Own Funding And Support Agency</span>
+
+<span style="text-decoration: none;">McKinley 2k</span>
+<span style="text-decoration: none;">(Lt Col Cynthia A. S. McKinley (BA, Moorhead State University; MS, Troy State University; MAAS, School of Advanced Airpower Studies) is commander of the 21st Operations Support Squadron, Peterson AFB, Colorado, which provides mission support to Air Force Space Command’s (AFSPC) worldwide network of attack warning and space surveillance units. Prior to assuming command, she was the deputy director of the commander’s action group at AFSPC. A graduate of Squadron Officer School and Air Command and Staff College, Colonel McKinley has published articles in Aviation Week and Space Technology, Space News, and several symposia proceedings, She has also been a guest lecturer at Air War College and space war games. “Organizing America's Space Assets for the Twenty-First Century,” Aerospace Power Journal - Spring 2000, pg online @ http://www.airpower.maxwell.af.mil/airchronicles/apj/apj00/spr00/mckinley.htm //ghs-ef)//</span>
+//<span style="text-decoration: none;">The United States Space Guard Looking at the space side of that list, we must </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> the future space force application systems that will finally allow it to claim the aerospace title. On a larger scale, the nation will have reduced the size of its force structure while improving its ability to exploit space for national benefit.</span>//
+
+
+//<span style="text-decoration: none;">Text: The United States federal government should develop space based Space Guard civil space situational awareness. </span>//
+
+//<span style="text-decoration: none;">Advantage Three is Cooperation </span>//
+
+//<span style="text-decoration: none;">Air Force SSA is failing while debris is reaching the tipping point--- new cooperative SSA in space builds a space traffic system that stops satellite collisions and extinction from environmental destruction</span>//
+
+//<span style="text-decoration: none;">Williamson 2k8</span>//
+//<span style="text-decoration: none;">(Ray, PhD in astronomy and BS in Physics, Executive Director of Secure World Foundation and serves on Commission Five: Space Policies, Law & Economics and the author of more than 100 articles on space policy, remote sensing and space security and has led more than a dozen space policy studies requested by Congressional committees, “Minding the (Space) Environment” Imaging Notes, Volume 23 Number 1, Spring 2008, pg online @ [http://www.imagingnotes.com/go/article_free.php?mp_id=131]</span>//greenhill-au)
+<span style="text-decoration: none;">Most remote sensing satellites are devoted in some way to monitoring and </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> satellites in the increasingly crowded sun-synchronous polar orbits. </span>
+
+<span style="text-decoration: none;">Unchecked debris causes extinction</span>
+<span style="text-decoration: none;">Scheetz, Law at Georgetown, 6 (Lori, J.D. Candidate at Georgetown University Law Center, “Infusing Environmental Ethics into the Space Weapons Dialouge,” Georgetown International Environmental Law Review, Fall, 19 Geo. Int'l Envtl. L. Rev. 57)</span>
+<span style="text-decoration: none;">Despite the fact that the Outer Space Treaty, the centerpiece of the treaty </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> highly hazardous for peaceful as well as military purposes." n90 </span>
+
+<span style="text-decoration: none;">And, the plan creates a US-led code of conduct that generates support and prevents further ASAT tests</span>
+
+<span style="text-decoration: none;">Lewis 2k11</span>
+<span style="text-decoration: none;">(James, PhD in International Economics and a senior fellow and program director at the Center for Strategic and International Studies, “Engagement and Sustainability in the 2010 National Space Policy” Frontier Volume 7 Number 2, pg 30, pg online//greenhill-au)//</span>
+//<span style="text-decoration: none;">The idea that there are no agreements, no trades, which could be </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> since the end of the high levels of expenditures on space associated with the Cold War.</span>//
+
+//<span style="text-decoration: none;">New ASAT tests cause multiple scenarios for nuclear war</span>//
+
+//<span style="text-decoration: none;">Krepon 2k4</span>//
+//<span style="text-decoration: none;">(Michael, MA from the School of Advanced International Studies at Johns Hopkins University, and a BA from Franklin & Marshall College and co-founder of Stimson, and director of the South Asia and Space Security programs, “Avoiding the Weaponization of Space”, A Code of Conduct for Responsible Space-Faring Nations, November 2004, pg online</span>//greenhill-au)
+<span style="text-decoration: none;">If the United States leads the way in flight-testing and deploying new </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> that others cheat, offers more potential benefits and lower risks than turning the heavens into a shooting gallery.</span>
+
+<span style="text-decoration: none;">Russian hair-trigger nukes causes extinction </span>
+
+<span style="text-decoration: none;">Caldicott 2k5</span>
+<span style="text-decoration: none;">(Helen, Australian physician, won nobel peace prize 1985, president of the nuclear policy research institute in Washington. “Nuclear-War Threat Still Very real,” Interviewer Martin Sieff, UPI May 18,2 k5//delo-uwyo)//</span>
+//<span style="text-decoration: none;">Q. The Cold War has been over for almost a decade and a half. How </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> material would be thrown into the atmosphere that plants would be unable to carry out photosynthesis. Most species of life would slowly freeze to death in the dark.</span>//
+
+
+//<span style="text-decoration: none;">Military SSA is seen as a monopoly--- perception is key</span>//
+
+//<span style="text-decoration: none;">Roberts 2k5</span>//
+//<span style="text-decoration: none;">(Maj. Tommy, MS from George Washington and BS from USAFA and is Space and Missile Force Programmer, Directorate of Plans and Programs, Headquarters Air Force, “Space Situation Awareness: How Much Should the US Share?” High Frontier, Volume 1, Number 3, Winter 2005, pg online</span>//greenhill-au)
+<span style="text-decoration: none;">What then are the GPS lessons that can be used in development of an </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> support). While the opportunity to prevent competitors to GPS is probably gone, the US can still use these key lessons to improve their SSA policy.</span>
+
+
+
+<span style="text-decoration: none;">That causes distrust and hurts cooperation</span>
+
+<span style="text-decoration: none;">Brown 2k9</span>
+<span style="text-decoration: none;">(Trevor, PhD candidate at Auburn with a focus on political, economic, and military strategy in space – he writes often for Air and Space Power Journal and the Space Review, “Soft Power and Space Weaponization” Air & Space power Journal Volume 23 No 1, Spring 2009, pg 67, pg online//greenhill-au)//</span>
+//<span style="text-decoration: none;">The problem for the United States is that other nations believe it seeks to </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> critical assets in space, making it far more difficult politically for the Air Force to make plans to offer such protection.</span>//
+
+
+
+
+//<span style="text-decoration: none;">And, it establishes a Space Guard built on Civilian SSA – that spills-over to shift functions from other agencies</span>//
+
+//<span style="text-decoration: none;">Bennett 2k11</span>//
+//<span style="text-decoration: none;">(James C. Bennett, Research Associate @ George Washington University’s Space Policy Institute, the author of The Anglosphere Challenge, has been involved in space entrepreneurship, consulting, and advocacy for more than three decades “Proposing a ‘Coast Guard’ for Space,” pg online @ http://www.thenewatlantis.com/publications/proposing-a-coast-guard-for-space </span>//ghs-ef)
+<span style="text-decoration: none;">3. New responsibilities. In addition to these transferred functions, the USSG </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> broad, would nevertheless be reduced sufficiently to alleviate its chronic span-of-control issues.</span>
+
+<span style="text-decoration: none;">And, Only the Plan Can Create an Effective SSA Program</span>
+
+<span style="text-decoration: none;">Bennett 2k10</span>
+<span style="text-decoration: none;">(James, C. Research Associate @ George Washington University’s Space Policy Institute, “The Coast Guard Model: A Third Organizational Option For International SSA Data Sharing and Other US Space Responsibilities,” George Washington University, Space Policy Institute, pg online @ http://www.gwu.edu/~spi/assets/docs/CoastGuardModel-GWUpaper.pdf //ghs-ef)//</span>
+//<span style="text-decoration: none;">3. A US Space Guard (USSG). Several commentators have proposed the </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> position would be perfectly supportive of an ultimate goal of becoming Commandant of the Space Guard.</span>//
+
+
+//<span style="text-decoration: none;">And, funding trade-offs make this problem worse</span>//
+
+//<span style="text-decoration: none;">McKinley 2k</span>//
+//<span style="text-decoration: none;">(Lt Col Cynthia A. S. McKinley (BA, Moorhead State University; MS, Troy State University; MAAS, School of Advanced Airpower Studies) is commander of the 21st Operations Support Squadron, Peterson AFB, Colorado, which provides mission support to Air Force Space Command’s (AFSPC) worldwide network of attack warning and space surveillance units. Prior to assuming command, she was the deputy director of the commander’s action group at AFSPC. A graduate of Squadron Officer School and Air Command and Staff College, Colonel McKinley has published articles in Aviation Week and Space Technology, Space News, and several symposia proceedings, She has also been a guest lecturer at Air War College and space war games. “Organizing America's Space Assets for the Twenty-First Century,” Aerospace Power Journal - Spring 2000, pg online @ http://www.airpower.maxwell.af.mil/airchronicles/apj/apj00/spr00/mckinley.htm </span>//ghs-ef)
+<span style="text-decoration: none;">Funding Tensions This cultural stress is exacerbated by a second area of </span><span style="font-size: 16px;">…</span><span style="text-decoration: none;"> become an aerospace force, the Air Force must be allowed to carve out the space services portion of its current responsibilities.</span>
+=Round 2= 
+==Preround Disclosure== 
+1NC
+
+The aff is an attempt to gloss over the enmity inherent in the human condition – makes worse violence inevitable in its attempt to eliminate rather than limit conflict
+
+Rasch 5
+(William, Henry H. H. Remak Professor of Germanic Studies at Indiana University, “Lines in the Sand: Enmity as aStructuring Principle”, The South Atlantic Quarterly 104:2, Spring)
+<span style="font-size: 6.66667px;">In The Concept of the Political, Schmitt concludes that …. manifests itself as violence and the guilt associated with it.</span>
+
+
+
+1NC
+This form of absolute enmity causes the most destructive conflicts based on a personal hatred for the enemy rather than a relationship based on difference
+
+Odysseos 8
+(Dr. Louiza, Senior Lecturer at the Department of International Relations at the University of Sussex, “Liberalism’s War, Liberalism’s Order: Rethinking the Global Liberal Order as a ‘Global Civil War’”, March 17)
+<span style="font-size: 6.66667px;">First, </span>__global civil war is that war__<span style="font-size: 6.66667px;">-order in which ….</span> __to overcome’__<span style="font-size: 6.66667px;"> (Habermas and Derrida 2003: 99)</span>
+
+The alternative is to adopt a proper relationship with the other based on difference rather than liberalism
+Only the alternative can effectively limit inevitable conflicts over difference and establish an ontological foundation for the political rather than one based on absolute inclusion
+
+Prozorov 6
+(Sergei, Professor of International Relations in the Department of International Relations, Faculty of Politics and Social Sciences, Petrozavodsk State University, Russia, “Liberal Enmity: The Figure of the Foe in the Political Ontology of Liberalism”, Millennium - Journal of International Studies 2006 35: 75)
+<span style="font-size: 6.66667px;">Schmitt’s own critique of liberalism arguably proceeds from the same assumption …. realism in disturbing the self-evidences of contemporary world politics.</span>
+
+=Round 3= 
+
+=Round 4= 
+
+=Round 5= 
+
+Plan: The United States National Reconnaissance Office should develop next generation Office of Space Reconnaissance space-based space reconnaissance capabilities.
+
+New Aff -
+
+Observation 1: No Disads –
+A. Your Disads are Inevitable – the National Reconnaissance Office has a new aggressive launch campaign
+Spaceflight Now 3/20
+(“Delta 4 set for national security mission next week,” pg online @ http://spaceflightnow.com/delta/d359/preview.html //ef)//
+//Within the enclosed confines …… before Congress on March 8.//
+
+//B. Congress just provided a massive funding boost for the NRO –//
+//Bloomberg Businessweek 3/19//
+//(“Pentagon’s Iran Buildup Calls for Lasers,” pg online @ http://www.businessweek.com/news/2012-03-19/pentagon-s-iran-buildup-call-for-adding-laser-weapons// ef)
+Anti-Radar Missile …… according to the documents.
+
+C. Obama already submitted an Intelligence Budget proposal
+Washington Post 2/13
+(“Federal budget 2013: Intelligence agencies would get 4.4 percent less,” pg online @ http://www.washingtonpost.com/blogs/44/post/federal-budget-2013-intelligence-agencies-would-get-44-percent-less/2012/02/13/gIQAEvFDBR_blog.html //ef)//
+//President Obama’s proposed …..National Intelligence Program spending.//
+
+//Observation 2: The NRO//
+
+//First, Status Quo Satellites are Decaying—that risks data gaps and collapse of spy satellites in one year//
+//Behling and McGruther 2k8//
+//(Thomas Behling is Deputy Director of the Office of Architectures, Assessments, and Acquisition at the National Reconnaissance Office. Kenneth McGruther is a policy consultant to that office, https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter98_99/art10.html)//
+//The fundamental premise of JV2010 is …… from the intelligence needs of the early 1990s.//
+
+//And, Cost Controls and lack of vision have stunted industry development and intelligence innovation – collapses the effectiveness of the NRO and makes replacement satellites useless//
+//Aviation Week & Space Technology 11/14/2k11//
+//(John Stopher, “No Risk, No Reward,” pg lexis//ghs-ef)
+«We build capabilities that…..peace and protect our troops.
+
+Finally, Collapse of the ENTIRE system is inevitable without NRO reform – loss of a SINGLE satellite can create intelligence gaps that trigger our impacts
+U.S. News and World Report 2k3
+(“Lack of Intelligence,” 8/11, pg lexis//ghs-ef)//
+//The United States …… doesn't face a "satellite gap."//
+
+//Advantage 1: Bioweapons//
+
+//Scenario 1: State Programs//
+
+//First, State Bioweapons development is on the rise – risks bio prolif and terrorist acquisition – there are NO potential solutions and biodefense only risks accidents//
+//Dr. Wheelis and Klotz 2k11//
+//(Dr. Mark Wheelis Chair, Scientists Working Group on Biological and Chemical Weapons, Dr. Lynn Klotz, Senior Science Fellow, “Biological and Chemical Weapons,” pg online @ http://armscontrolcenter.org/policy/biochem/// ghs-ef)
+In an effort to "exclude completely …… biotechnology, remains an extremely difficult task.
+And, New Gene Manipulation Strategies Increases Risk and Threat – Prefer The Newest Evidence
+MSNBC 12/7/11
+(“Clinton warns of bioweapon threat from gene tech,” pg online @ http://www.msnbc.msn.com/id/45584359/ns/technology_and_science-security/#.TuaTq7JomzZ //ghs-ef)//
+//GENEVA — New gene assembly technology …… complicated to monitor every lab's activities.//
+
+//Bio Weapons Outweigh And Culminate In Extinction//
+//Ochs 2k2//
+//(MA in Natural Resource Management from Rutgers University and Naturalist at Grand Teton National Park [Richard, “Biological Weapons Must Be Abolished Immediately,” Jun 9, http://www.freefromterror.net/other_articles/abolish.html)//
+//Of all the weapons of mass destruction, ……, then patriotism is the highest of all crimes.//
+
+//And, it outweighs other risks//
+//Matheny 7 - MPH from Johns Hopkins, PhD Candidate @ Johns Hopkins//
+//(Jason, research associate with the Future of Humanity Institute at Oxford University, where his work focuses on technology forecasting and risk assessment - particularly of global catastrophic risks and existential risks.[1] He previously worked for the World Bank, the Center for Biosecurity, the Center for Global Development, and on national security projects for the US government. He is a Sommer Scholar and PhD candidate in Applied Economics at Johns Hopkins University. He holds an MPH from Johns Hopkins, an MBA from Duke University, and a BA from the University of Chicago, Department of Health Policy and Management, Bloomberg School of Public Health, Johns Hopkins University, “Reducing the Risk of Human Extinction,” http://www.physics.harvard.edu/~wilson/pmpmta/Mahoney_extinction.pdf)//
+//Of current …..worth the risks.//
+
+//And, if they get to the battlefield there wont be a deterrent effect – lack of safeguards ensures accidental use and full-scale escalation//
+//Dr. Bracken 2k1//
+//(Paul, PhD. “Biological Weapons as a Strategic Threat,” pg online @ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1497259/pdf/11880661.pdf// ghs-ef)
+Many of these technologies …… defense budgets on securing these systems.
+
+Nuclear World War III and Extinction
+Alexander 2k7
+(Timothy, Former Scottish Editor of Burke’s Peerage, B.Sc. in Pol. Sc. & History; M.A. in European Studies, October 22nd, “War On Iran = You Die from Biowar”, Op Ed News, http://www.opednews.com/articles/genera_lord_sti_071020_war_on_iran__3d_you_di.htm, REQ)
+We have been conditioned, ……that they are totally blind to the profound risk to their own lives.
+
+Scenario 2: Accidents –
+
+The risk of accidental or intentional use is high and growing – makes spread more likely
+States News Service 7/19/11
+(“The Complementary Role Of Environmental And Security Biological Control Regimes In The 21st Century - Plenary 1,” pg lexis//ghs-ef)//
+//The 21st century promises tremendous …… and animal health systems around the world.//
+
+//And, a SINGLE accident can cause global bioweapons spread overnight – there is no chance at containment//
+//Dr. Osterholm 2k1//
+//(Michael Osterholm. Ph. D., M.P.H.. And John Schwartz, “Living Terrors: What America Needs to Know to Survive the Coming Bioterrorist Catastrophe,” pg 45//ghs-ef)
+Other state bioweapons …… will precipitate a global calamity — and the work of a generation ol smallpox fighters to eradicate the ancient plague could be undone.
+
+Independent Extinction - generic defense doesn’t apply
+Singer 2K1
+(Clifford E., Professor of Nuclear Engineering and Director of the Program in Arms Control, Disarmament, and International Security – University of Illinois at Urbana-Champaign, “Will Mankind Survive the Millennium?”, http://www.acdis.uiuc.edu/research/S&Ps/2001-Sp/S&P_XIII/Singer.htm)
+There are, however,…..this is achieved.
+
+And, NRO satellites are focused but the task is daunting
+Johnson 2k
+(Loch K. Johnson, serves as Co-Chairman and Member of Advisory Board at Greenwood Publishing Group, Inc. Mr. Johnson is an Intelligence and Foreign Affairs Expert at University of Georgia, Bombs, bugs, drugs and Thugs, pg 20-30 //ghs-ef)//
+//All nations and other entities ……CIA's leading proliferation specialist.39//
+
+//And, U.S. space-based intelligence resources provide the necessary solution – allows CIA and DOD to knock-out the labs and counter the risk//
+//Johnson 2k//
+//(Loch K. Johnson, serves as Co-Chairman and Member of Advisory Board at Greenwood Publishing Group, Inc. Mr. Johnson is an Intelligence and Foreign Affairs Expert at University of Georgia, Bombs, bugs, drugs and Thugs, pg 20-30// ghs-ef)
+As an indication of the growing complexity ……programs conducted by the United States.
+
+Advantage 2: Green Intelligence
+
+First, MEDEA is a satellite intelligence sharing program for scientists and the CIA – providing consistent satellite info is key to broader S&T cooperation
+
+Parthemore and Rogers 2k11
+(“Blinded: The Decline of U.S. Earth Monitoring Capabilities and Its Consequences for National Security,” pg online @ http://www.cnas.org/files/documents/publications/CNAS_Blinded_ParthemoreRogers_0.pdf //ghs-ef)//
+//Closing the Gap The U.S. government should take….both effective and efficiently made.//
+
+//And, that Science cooperation solves multiple scenarios of extinction//
+//Sackett 10//
+//(Professor Penny D. , Chief Scientist for Australia, “Science diplomacy: Collaboration for solutions”, This article was written by Professor Sackett and published in the Forum for Australian-European Science and Technology cooperation magazine in August 2010, http://www.chiefscientist.gov.au/2010/08/science-diplomacy-collaboration-for-solutions/)//
+//Imagine for a moment that the globe is ….. such as trade and security.//
+
+//Moreover, intelligence information cooperation spills-over – creates broader civilian-intelligence cooperation//
+//Pace et al ‘97//
+//(Scott Pace Kevin M. O'connell Beth E. Lachman, “Using Intelligence Data For Environmental Needs,” pg online @ http://www.dtic.mil/dtic/tr/fulltext/u2/a322487.pdf// ef)
+Intelligence systems by definition collect foreign intelligence …..to minimize harm to commercial suppliers.
+
+The Impact is Forest Health -
+
+First, the risk of deforestation is growing – the impact is depleted oxygen levels, loss of rainforests, and extinction of all life
+Global Change 2k10
+(Global Change Program at the University of Michigan, Director Ben van der Pluijm, “Global Deforestation,” pg online @ http://www.globalchange.umich.edu/globalchange2/current/lectures/deforest/deforest.html //ghs-ef)//
+//It is impossible to overstate …..forest openings to help speed recovery.//
+
+//And, that oxygen imbalance independently wipes out all life//
+//Tatchell 8 – human rights campaigner//
+//(Peter, The Guardian, “the oxygen crisis,” 8/13, http://www.guardian.co.uk/commentisfree/2008/aug/13/carbonemissions.climatechange)//
+//Compared to prehistoric times, the level of oxygen ….. which could further diminish global fish supplies.//
+
+//And, Status Quo satellites cant give an accurate picture of deforestation in the Amazon//
+//The Economist 5/26/11//
+//(“Chopping down the Amazon,” pg online @ http://www.economist.com/blogs/dailychart/2011/05/deforestation// ef)
+UNDERSTANDING what is happening …… active chainsaws there.
+
+And, shared Intelligence Satellites provide critical information for the prevention of deforestation and protection of forest health key critical to species protection
+Johnson 2k
+(Loch K. Johnson, serves as Co-Chairman and Member of Advisory Board at Greenwood Publishing Group, Inc. Mr. Johnson is an Intelligence and Foreign Affairs Expert at University of Georgia, Bombs, bugs, drugs and Thugs, pg 20-30 //ghs-ef)//
+//The demands on the intelligence agencies …….//
+
+//And, forest destruction sparks nuclear extinction, and global environmental collapse//
+//Takacs 96//
+//(David, Institute for Earth Systems Science and Policy – California State University, Monterey Bay, The Idea Of Diversity: Philosophies Of Paradise, p. 200-201)//
+//So biodiversity keeps the world running……. - not with a bang but a whimper.//
+
+//And, independently, NRO satellite info is key to ensure forest health [can take it for time if necessary]//
+//Dreyfuss 2k//
+//(Robert, National Insecurity: U.S. Intelligence After the Cold War, pg 158// ghs-ef)
+Less traditional than …… therefore how healthy it is.
+
+And, finally – environmental intelligence is critical to policy changes domestically and abroad
+Lopez 2k12
+(Laura Delgado López Earth Observations Associate, “Environmental Intelligence,” Imaging Notes, pg online @ http://www.imagingnotes.com/go/article_freeJ.php?mp_id=297 //ghs-ef)//
+//Beyond U.S. borders, the …. upon which the nation and the world depend.//
+
+//Plan//
+
+
+//And, the plan solves intelligence and avoids your disads – it creates high-technology space-based reconnaissance 2 generations ahead of the world while protecting new programs from mismanagement and overstretch//
+
+//Goss and Kerrey et al 2000//
+//(Porter, and Robert. “Report Of The National Commission For The Review Of The National Reconnaissance Office,” pg online @http://www.fas.org/irp/nro/commission/prepare.htm// ef)
+The Office Of Space Reconnaissance Because of the NRO's …areas on a global basis.
+
+
+=Round 6= 
+Quago CP vs Russia Coop
+The United States federal government should enact legislation that establishes a self-sustaining non-profit corporation which will be solely responsible for developing space defense capabilities through the SDE proposal.
+
+The CP solves the aff without spending new funds-its quasi!
+Snead 7
+Mike, erospace engineer focusing on future spacefaring logistics infrastructure. The immediate past chair of the AIAA Space Logistics Technical Committee, he has spent most of his professional career working on reusable space access systems “ Becoming a true spacefaring America” 7/4/07 The Space Review http://www.thespacereview.com/article/947/2)
+<span style="font-size: 6.66667px;"> 4. Are the needed resources available? </span>__….. **why this proposal would not succeed.**__
+
+
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

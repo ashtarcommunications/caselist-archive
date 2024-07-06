@@ -1,0 +1,19 @@
+[[toc]]
+=Counterplans= 
+==India CP== 
+===**1NC**=== 
+**CP TEXT: The Republic of India should substantially increase development and deployment of space solar power**
+
+**Indian Space Program is cost effective and high-tech.**
+<span style="font-size: 16px;">Singh ’09</span> Madhur Singh, Time, “Water on the Moob Buoy’s India’s Space Program”. 2009, [[http://www.time.com/time/world/article/0,8599,1926393,00.html]], web. AD
+<span style="font-size: 10.6667px;">But after overseeing successful nuclear tests in 1998....It doesn't hurt that the country's celebrating too.</span>
+
+==TALC CP== 
+===1NC=== 
+**Text: The United States Navy should fully fund and deploy the Tactical Airborne Laser Communications array as it is currently designed under the Tactical Relay Information Network research department of Defense Advanced Research Projects Agency.**
+
+**Tactical Airborne Laser Communications can be deployed on current Navy aircraft technology which is the only method that is ready to be deployed now.**
+<span style="font-size: 10.6667px;">John </span><span style="font-size: 16px;">Keller</span><span style="font-size: 10.6667px;">, editor-in-chief of Military & Aerospace Electronics magazine, 1/31/</span><span style="font-size: 16px;">10</span><span style="font-size: 10.6667px;"> “DARPA pushes submarine laser communications technology for ASW operations” [[http://www.militaryaerospace.com/index/display/article-display/372765/articles/military-aerospace-electronics/online-news-2/2010/01/darpa-pushes-submarine-laser-communications-technology-for-asw-operations.html]] JL</span>
+<span style="font-size: 16px;">DARPA issued a broad agency announcement</span><span style="font-size: 10.6667px;"> Friday (</span><span style="font-size: 16px;">....in murky coastal waters </span><span style="font-size: 10.6667px;">(Jerlov type III).</span>
+
+[[include page="space.template.Footer"]]

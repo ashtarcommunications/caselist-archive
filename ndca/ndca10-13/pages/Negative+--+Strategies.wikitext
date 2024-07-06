@@ -1,0 +1,90 @@
+=Harvard= 
+==Round 1== 
+====Neg vs Rodgers Heritage PT (Reroute the Mississippi)==== 
+1nc: Security, T-sub, Politics, States, Case
+2nc: States, Security
+1nr: T-sub, Politics, Case
+2nr: T-sub, Security
+==== ==== 
+==Round 6== 
+====Neg vs Niles North GM (Port security)==== 
+1nc: Security, UN CP, Politics, T-maintenance, Case
+2nc: Solvency, Security
+1nr, T, UN CP, Politics, Case
+2nr: UN CP
+
+=Lakeland= 
+==Round 1== 
+====Neg vs. Mcdonough SR (racially just TI)==== 
+1nc: t, states, spending, politics, case turns
+2nc: states, spending case turns,
+1nr: T, politics
+2nr: T
+==Round 4== 
+====Neg vs. Lexington HL (Guam)==== 
+1nc: Security, States, Politics (i.r. w/ agriculture) t-ti, t-in, Case
+2nc: Security, CP (condo)
+1nr: Case
+2nr: Security
+==Round 5== 
+====Neg vs. Acorn GL (Racism Debate Reform)==== 
+1nc: FW, Politics, Case
+2nc: FW
+1nr: Case
+<span style="font-family: 'Calibri','sans-serif'; font-size: 14.6667px;">2nr: Case turn, FW</span>
+=NYSDCA State Championship= 
+==Round 1== 
+====Neg vs. Benjamen Benneker BO (Bikes)==== 
+1nc: security, states, ptx, t, dedev, case d
+2nc: security
+1nr: Dedev
+2nr: Security
+==Round 4== 
+====Neg vs. Agape HW (HSR)==== 
+1nc: security, states, politics, dedev
+2nc:security
+1nr: Dedev
+2nr: security
+==Semis== 
+====Neg vs. Agape KK (Climate Resil)==== 
+1nc: politics, security, states, t , dedev
+2nc: security
+1nr: Dedev, trade case D
+2nr: Security
+=Woodward Nationals= 
+==Round 2== 
+====Neg vs. Westminster CZ [NiB]==== 
+1nc: security, politics, ExIm, T-loans, Social Justice, case
+2nc: Security
+1nr: Politics, Case
+<span style="font-family: Calibri,sans-serif; font-size: 11pt;">2nr: Security</span>
+
+==Round 3== 
+
+====Neg vs. Glen brooks AR [Next Gen]==== 
+
+1nc: security, politics, cost overruns, t, case
+
+2nc: security
+
+1nr: CP, case
+
+2nr: Security
+
+==Round 5== 
+
+====Neg vs. Caddo Magnet [Military Terminals]==== 
+
+1nc: Security, cost overruns, politics, federalism, t military, t substantial, case d, hege bad
+
+2nc:Securiy
+
+1nr: Case D, Hege bad
+
+2nr: Security
+==Octos== 
+====Neg vs Westminster DH [NiB]==== 
+1nc: Security, Exim Bank CP, Politics, t-Loans, Case
+2nc: Security
+1nr: Politics, and case
+2nr: Security

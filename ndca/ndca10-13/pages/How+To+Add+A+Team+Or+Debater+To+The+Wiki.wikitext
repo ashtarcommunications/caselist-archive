@@ -1,0 +1,13 @@
+=If the team/debater is listed but the link is red:= 
+This means that the link to the page has already been created but the page itself does not yet exist. To create the page, simply click on the link — it will say "This page doesn't exist yet. You can create it by clicking the edit button. To create this page using a template, select the template from this list." If you are creating a policy debate team's page, click on "Policy" in the dropdown box — the page will be created using the default Policy template. If you are creating an LD debater's page, click on "LD" in the dropdown box — the page will be created using the default LD template. Click on "Save" and the page will be created. To add content, click on "Edit" and edit the page.
+
+=If the team/debater is not listed:= 
+This means that the link to the page hasn't been created yet. In order to create the link, edit the main page. Find the spot that the team/debater needs to be added in the alphabetical list and insert the name there using two opening brackets and two closing brackets on each side. Follow the naming conventions described on the home page. Save the page and follow the instructions above ("If the team/debater is listed but the link is red").
+
+=To tag a page:= 
+Hover over the downward-pointing arrow to the right of "Page" in the horizontal menu and click on "Details and Tags". Add or remove tags and click "Save".
+
+=Common Mistakes To Avoid:= 
+1. For policy teams, the debaters should be listed in alphabetical order based on the first letter of their last names. If Fitzgerald Kirkpatrick debates with Reginald Boots, the debaters should be listed as Reginald Boots & Fitzgerald Kirkpatrick. 
+
+2. There should be a dash between 2012-2013 and the school name and another dash between the state abbreviation and the debater(s)'s name(s).

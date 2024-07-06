@@ -1,0 +1,205 @@
+[[toc]]
+=Affirmative= 
+==SPS 1AC - Updated as of 10/30/11== 
+
+**Plan: The United States federal government should develop and deploy Space Based Solar Power.**
+
+===Warming=== 
+**Contention One is Warming:**
+
+**Warming is real, anthropogenic and will hit a tipping point within a couple decades without SBSP – causes extinction**
+**<span style="font-size: 16px;">Hsu, 10</span>,** (Dr. Feng Hsu is Sr. Vice President Systems Engineering & Risk Management Space Energy Group, Winter 2010, Online Journal of Space Communication, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, [[http://spacejournal.ohio.edu/issue16/hsu.html]])
+
+<span style="font-size: 10.6667px;">It has become increasingly evident … can use in a whole year.</span>
+
+**SBSP is key to reduce fossil fuel use and air pollution**
+Lyle M. **<span style="font-size: 16px;">Jenkins</span>**, Engineer, NASA Lyndon B. Johnson Space Center, **‘<span style="font-size: 16px;">9</span>** (December 2009, “Development of Space-Based Solar Power”, [[http://www.intechopen.com/articles/show/title/development-of-space-based-solar-power]])
+<span style="font-size: 13.3333px;">The risks identified through the … power for use on Earth.</span>
+
+**Electrical utilities are the largest contributors to global warming**
+**Sovacool and Cooper 7**(Benjamin <span style="font-size: 13.3333px;">Sovacool</span>, Research Fellow in the Energy Governance Program at the National University of Singapore <span style="font-size: 13.3333px;">and</span> Chris <span style="font-size: 13.3333px;">Cooper</span>, Senior Policy Director, Network for New Energy Choices, <span style="font-size: 13.3333px;">‘7</span> (2007, “Renewing America,” [[http://www.newenergychoices.org/dev/uploads/Renewing%20America_NNEC_Final.pdf]])
+<span style="font-size: 10.6667px;">Yet </span>__carbon-intensive fuels__<span style="font-size: 10.6667px;"> continue … 71 million automobiles off the road.305 </span>
+
+
+**SBSP is the only technology that can solve warming – other sources are terrible**
+**<span style="font-size: 16px;">Hsu, 10</span>**, (Dr. Feng Hsu is Sr. Vice President Systems Engineering & Risk Management Space Energy Group, Winter 2010, Online Journal of Space Communication, Harnessing the Sun: Embarking on Humanity's Next Giant Leap, [[http://spacejournal.ohio.edu/issue16/hsu.html]])
+<span style="font-size: 10.6667px;">We must set priorities and … </span><span style="font-size: 13.3333px;">models for overcoming these issues</span><span style="font-size: 10.6667px;">.</span>
+
+===Hegemony=== 
+**Contention Two is Leadership, we’ll isolate 3 internal links:**
+**1st is Oil Dependence**
+<span class="DebateUnderline">**<span style="font-size: 16px; text-decoration: none;">Oil dependency ties down the Army’s budget and undermines its fighting capability </span>**</span>
+**<span style="font-size: 16px;">Wharton 9</span>** (University of Pennsylvania School of Business, 1/30/09 “U.S. Military Hopes to Be
+Energized by Alternative Fuels” Wharton Aerospace and Defense Report [[http://executiveeducation.wharton.upenn.edu/wharton-aerospace-defense-report/upload/Military-Hopes-Energized-by-Fuel.pdf]])
+<span style="font-size: 13.3333px;">The U.S. military is the world’s … </span>defense contractors must seriously consider.
+
+**SBSP solves flexible response and supply lines – provides mobile energy**
+**<span style="font-size: 16px;">NSSO 7</span>** (National Security Space Office Report, 150 person international expert collaboration, 10/10/7 “Space<span style="font-family: 'Cambria Math','serif';">‐</span>Based Solar Power As an Opportunity for Strategic Security” [[http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf]])
+For the DoD specifically, <span style="font-size: 13.3333px;">beamed … to a strategically secure energy supply</span>.
+
+**Flexible response is key to heg – we also solve oil shocks that devastate primacy**
+**LMI 7-** (<span style="font-size: 16px;">LMI</span> Government Consulting, 4/20<span style="font-size: 16px;">07</span>, Thomas D. Crowley Tanya D. Corrie David B. Diamond Stuart D. Funk Wilhelm A. Hansen Andrea D. Stenhoff Daniel C. Swift, “TRANSFORMING THE WAY DOD LOOKS AT ENERGY AN APPROACH TO ESTABLISHING AN ENERGY STRATEGY,” http://www.oft.osd.mil/library/library_files/document_404_FT602T1_Transforming%20the%20Way%20DoD%20Looks%20at%20Energy_Final%20Report.pdf)
+
+<span style="font-size: 13.3333px;">Increasing the energy efficiency of … </span>environment of increasing energy uncertainty.
+
+**And its try or die, disruptions in supply can happen at any time**
+**<span class="StyleStyleBold12pt">Parthemore and Rogers 10</span>** *Christine Parthemore is a fellow at the Center for New American Security Will Rogers is a research assistant at the Center for New American Security [[[http://www.cnas.org/files/documents/publications/CNAS_Sustaining%20Security_Parthemore%20Rogers.pdf]],June 2010, “Sustaining Security How Natural Resources Influence National Security”]
+__Recognition of the geostrategic, strategic …__ a top concern by many analysts.
+
+**Hegemony solves great power war – declines means conflict**
+Zalmay **<span style="font-size: 16px;">Khalilzad</span>,** Former US ambassador, former Professor @ Columbia, 2/8/**<span style="font-size: 16px;">11</span>,** “The Economy and National Security” [[http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad%20ACC%206/22/11|http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad ACC 6/22/11]]
+We face this domestic challenge … <span style="font-size: 13.3333px;">aggressive moves in their regions.</span>
+
+
+**Second is Satellite Hardening**
+
+**SBSP lets us harden satellites, make them more survivable and reconstitute lost assets rapidly**
+**<span style="font-size: 16px;">Ramos 2k</span> –** US Air Force Major, Thesis submitted for the AIR COMMAND AND STAFF COLL MAXWELL Air Force Base (Kim, “Solar Power Constellations: Implications for the United States Air Force,” April, [[http://handle.dtic.mil/100.2/ADA394928]])
+In addition to the terrestrial … <span style="font-size: 13.3333px;">repositioning to meet warfighter requirements</span>.26
+
+**Militarization might be inevitable, but weak defenses aren’t. Effectively hardening satellites is vital to prevent war and pre-emption**
+**<span style="font-size: 16px;">Kueter, 07</span>** - is president of the George C. Marshall Institute, a nonprofit think tank dediicated to science and technology in public policy (Jeff, New Atlantis, “China's Space Ambitions -- And Ours,” Spring, lexis)
+On January 11, 2007, a missile was launched … <span style="font-size: 13.3333px;">security of American space assets.</span>
+
+**Both countries will miscalculate- escalates to all-out Sino-US War, hardening solves**
+**<span style="font-size: 16px;">Tellis 7</span>** (Ashley J. <span style="font-size: 13.3333px;">Tellis</span> is a senior associate at the Carnegie Endowment for International Peace, specializing in international security, defense, and Asian strategic issues. He was recently on assignment to the U.S. Department of State as senior adviser to the undersecretary of state for political affairs, Carnegie Endowment for International Peace, Policy Brief 51, June <span style="font-size: 13.3333px;">2007</span>, “Punching the U.S. Military’s “Soft Ribs”: China’s Antisatellite Weapon Test in Strategic Perspective”, http://www.carnegieendowment.org/files/pb_51_tellis_final.pdf//jchen//
+//Third<span style="font-size: 13.3333px;">, the growing Chinese capability … Chinese investments in counterspace operations.</span>//
+
+**Sino-US war causes global nuclear war**
+**<span style="font-size: 16px;">Hunkovic 9</span>** [Lee J, 2009, Prof. at American War College “The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America”, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]]]
+
+<span style="font-size: 13.3333px;">A war between China, Taiwan … </span>be considered in this study.
+
+**Those defense systems dissuade Chinese weaponization in the first place**
+**<span style="font-size: 16px;">Meteyer 5</span>** (David O. <span style="font-size: 13.3333px;">Meteyer</span>, Major, USAF, is currently assigned to Headquarters, Pacific Air Forces in Hawaii where he works space operations, Bachelor of Science degree from Oregon State University, MBA from the University of Montana, graduate degree in Security Studies/Defense Decision-Making and Planning from the Naval Postgraduate School, “The Art of Peace: Dissuading China from Developing Counter-Space Weapons”, August <span style="font-size: 13.3333px;">2005</span>, USAF Institute for National Security Studies, http://www.usafa.edu/df/inss/OCP/ocp60.pdfjchen
+Criterion #3: US Systems Are Unassailable, … <span style="font-size: 13.3333px;">and sensors on-board the spacecraft.</span> 98
+
+**Third is the aerospace industry:**
+
+**US inaction in SPS development collapses aerospace competitiveness**
+**<span class="StyleStyleBold12pt">Matai 10</span><span style="font-size: 10.6667px;"> – </span>**<span style="font-size: 10.6667px;">PhD in Engineering, won The Queen’s Award for Enterprise in the category of Innovation for Bespoke Security Architecture in 2003, authority on countering complex global threats; strategic risk management & visualisation; contingency planning; Information Operations (IO); electronic defence; biometric authentication; secure payment systems and Open Source hardened kernel solutions</span>
+<span style="font-size: 10.6667px;">DK, 6-13-2010, “Japan Takes Lead in Wireless Power? 21stC Global Energy Supply,” Asymmetric Threats Contingency Alliance, http://www.mi2g.com/cgi/mi2g/frameset.php?pageid=http%3A//www.mi2g.com/cgi/mi2g/press/130610.php//</span>
+//In the footsteps of Nikola … the 21st century and beyond!//
+
+**Only a federal investment into SSP invigorates US aerospace leadership**
+**<span class="StyleStyleBold12pt">NSSO 7</span>**<span style="font-size: 10.6667px;">- National Security Space Office, Report to the Director, 10-10-2007, “Space-Based Solar Power As an Opportunity for Strategic Security; Phase 0 Architecture Feasibility Study,” NSS, http://www.nss.org/settlement/ssp/library/final-sbsp-interim-assessment-release-01.pdf</span>
+FINDING: The SBSP Study Group … <span style="font-size: 14.6667px;">a powerful expression of this imperative</span>.
+
+//**Aerospace competitiveness**// **__drives economic growth__// – … private sector approaches guarantee failure**
+**<span class="StyleStyleBold12pt">Hernnstadt 8</span><span style="font-size: 10.6667px;"> – </span>**<span style="font-size: 10.6667px;">Director of Trade and Globalization @ IAMAW</span>
+<span style="font-size: 10.6667px;">Owen, director of the Trade and Globalization Department, International Association of Machinists and Aerospace Workers, “Offsets and the lack of a comprehensive U.S. policy,” Economic Policy Institute, http://www.sharedprosperity.org/bp201.html</span>
+<span style="font-size: 14.6667px;">Aerospace is an especially important … on well-developed industrial policies</span>.
+
+**Economic decline causes global war**
+**<span class="StyleStyleBold12pt">Royal 10 – Director of CTR</span>**
+<span style="font-size: 10.6667px;">Jedediah, Director of Cooperative Threat Reduction – U.S. Department of Defense, “Economic Integration, Economic Signaling and the Problem of Economic Crises”, Economics of War and Peace: Economic, Legal and Political Perspectives, Ed. Goldsmith and Brauer, p. 213-215</span>
+Less intuitive is how periods … debate and deserves more attention.
+
+
+
+===Solvency=== 
+<span style="display: block; text-align: left;">**Contention Three is Solvency:**</span>
+**No technological barriers, we would fly demonstrations in 4 years,**
+**<span style="font-size: 16px;">Ashworth ‘08</span> -** Fellow of the British Interplanetary Society (Stephen, The Space Review, “In defense of the knights”, 6/23, <span style="color: #3366bb;">[[@http://www.thespacereview.com/article/1153/1]]</span>)
+Usually, Day’s articles are among … <span style="font-size: 13.3333px;">of the NSSO study report.</span>
+
+**One demonstration is enough to evaluate SBSP and get international support**
+**<span style="font-size: 16px;">Matsuoka & Collins 4</span>** (Hideo Matsuoka & Patrick Collins, writers for Space Future presenting at 4th International Conference on Solar Power from SPACE, 7/2004 “Benefits of International Cooperation in a Low Equatorial Orbit SPS Pilot Plant Demonstrator Project”http://www.spacefuture.com/archive/benefits_of_international_cooperation_in_a_low_equatorial_orbit_sps_pilot_plant_demonstrator_project.shtml)
+As discussed above, <span style="font-size: 13.3333px;">operation of a</span> 10 … India and China to participate.
+
+**Money is no longer the issue – only reason SBSP hasn’t launched is that NASA and the DOE aren’t working together**
+**<span style="font-size: 16px;">Hadhazy 9</span>**** (Adam Hadhazy, writer for the Scientific American, 4/16/09 “Will Space-Based Solar Power Finally See the Light of Day?” [[http://www.scientificamerican.com/article.cfm?id=will-space-based-solar-power-finally-see-the-light-of-day]])
+<span style="font-size: 13.3333px;">Many other technologies relevant to … (DoE) does not do space.</span>
+=Negative= 
+
+==Strategies (1NC's)== 
+
+===Niles West=== 
+Round 1 vs. Maine East:
+ESA CP
+Soft Power Net Benefit
+Politics DA- KORUS
+Heidegger K
+Case
+
+Round 3 vs. Maine East:
+same as above
+
+Round 6 vs. Lane Tech WA
+2NR: Heidegger K
+
+===Georgetown=== 
+Round 1- Bye
+
+Round 3 vs. McDonogh RH:
+T- Human
+Politics DA- China Bashing
+ESA CP
+Soft Power Net Benefit
+Case
+
+Round 5 vs. Westminster LS
+T- Pre-existing
+ESA CP
+Soft Power Net Benefit
+Politics DA- China Bashing
+NASA Trade-off DA
+Case
+
+===UMICH=== 
+Round 1 vs. Johns Creek DS
+T-Human
+ESA CP
+Soft Power Net Benefit
+Politics DA- Cybersecurity
+Case
+
+Round 3 vs. Chattahoochee CK
+T-Human
+Politics DA- Cybersecurity
+Satellite Dependency CP
+Security K
+Case
+
+Round 5 vs. Niles West
+T- "Its"
+T- Human
+DOD Anchor Tenant CP
+Politics DA- Cybersecurity
+Weaponization DA
+Case
+
+===Blake=== 
+Round 1 vs. West Des Moines Valley TS
+T-Human
+XO CP
+Politics DA- Pay Roll Tax Cuts
+Weaponization DA
+Case
+
+Round 4 vs. Glenbrook North DM
+T- Beyond the Mesosphere
+T- ASPEC
+CIL CP
+XO CP
+Politics DA- Payroll Tax Cuts
+Security K
+Case
+
+Round 6 vs. Greenhill SU
+T-Human
+T- Increase = Pre-existence
+XO CP
+Development PIC
+Politics DA- Pay Roll Tax Cuts
+Weaponization DA
+Air Power Bad
+Rest of Case
+
+Doubles vs. Iowa City West HD
+T-Human
+T- "Its"
+DOD Anchor Tenant CP
+Politics DA- Cybersecurity
+DeDev
+Rest of Case

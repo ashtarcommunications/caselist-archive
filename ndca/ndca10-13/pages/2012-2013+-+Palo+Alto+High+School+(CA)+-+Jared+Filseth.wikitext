@@ -1,0 +1,359 @@
+[[toc]]
+I strongly believe in disclosure, but nobody seems to do it. Therefore I'll disclose cases after the tournament is over, unless the tournament rules require disclosure. I will not disclose lay cases - 90% of the time I'll run stock util on both sides for lay debates.
+
+Everybody on our team writes their own cases a lot of the time, so don't expect any of my teammates to be running anything listed here (also, I generally write new stuff for each tournament, so don't expect me to actually read anything here. I did NOT write anything new for Stanford, but I used teammates stuff. Yeah I know I'm lazy).
+
+Sometimes I run stuff my teammates wrote. I will make a note of this, but I will not disclose the text without their permission.
+
+Some of the cites may be incomplete/incorrect. If you want the full/correct cites feel free to email me at jdfilseth@yahoo.com.
+
+Finally, I'm awful at formatting this wiki. Sorry guys :(
+=September-October= 
+==Affirmative== 
+==Negative== 
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+===CPS Aff (CBT plan):=== 
+
+<span style="font-family: Arial;">I affirm.</span>
+
+**<span style="font-family: Arial;">Value</span>**<span style="font-family: Arial;"> is defined by New Oxford American Dictionary as </span>**__<span style="font-family: Arial;">consider</span>__**<span style="font-family: Arial; font-size: 6pt;">(someone or something)</span><span style="font-family: Arial;"> **__to be important or beneficial__**.</span>
+
+**<span style="font-family: Arial;">Smith </span>**<span style="font-family: Arial;">defines Rehabilitation:</span>
+
+http://pubpages.unh.edu/~nicks/pdf/Rehabilitation.pdf, Paragraph 1 under "Significance".
+
+
+<span style="font-family: Arial;">Ought is defined as moral obligation.</span>
+
+<span style="font-family: Arial;">Thus I value **morality**.</span>
+
+
+
+<span style="font-family: Arial; font-size: 12pt;">Evaluate the round based on comparative worldsview, the neg must prove that the negation of the resolution as a comparative principle is preferable to the aff.</span>
+
+**<span style="font-family: Arial; font-size: 12pt;">Nelson:</span>**
+<span style="font-family: Arial; font-size: 8pt;">Adam F. Nelson, J.D.1. Towards a Comprehensive Theory of Lincoln-Douglas Debate. 2008.</span>
+"Such a model... advocacy of the resolution as a whole"
+
+This means:
+<span style="font-family: Arial;">1. This takes out NCs based on side constraints such as deontology which prove the resolution false off 1 contradiction but do not speak to the desirability of the resolution’s maxim.</span>
+<span style="font-family: Arial;">2. The neg must proactively advocate a non-topical world that excludes the AC, or defend the squo.</span>
+<span style="font-family: Arial; font-size: 12pt;">3. The aff burden is to show that a world in which rehabilitation is more important than retribution is better than the neg advocacy.</span>
+
+
+<span style="font-family: Arial;">The standard is **net benefits**.</span>
+
+
+
+<span style="font-family: Arial; font-size: 12pt;">1. The external purpose of morality is to find ways to live well in the real world.</span>
+Pihlstrom:
+<span style="font-family: Arial; font-size: 8pt;">Sami Pihlstom. Professor of Practical Philosophy University of Jyväskylä. PRAGMATIC MORAL REALISM: A Transcendental Defense. 2005.</span>
+
+<span style="font-family: Arial; font-size: 8pt;">"One of the Wittgenstein thinkers... is also a 'firstorder' issue in this sense."</span>
+
+
+<span style="font-family: Arial;">2. Util best respects human rationality by respecting the fundamental equality of persons. </span>
+<span style="font-family: Arial;">Cummiskey:</span>
+
+
+<span style="font-size: 10pt;">Cummiskey, David. </span>//<span style="font-size: 10pt;">Kantian Consequentialism</span>//<span style="font-size: 10pt;">. Published by Oxford University Press. 1996. </span>
+
+<span style="font-family: Arial;">"the reasonable solution to... sacrifice some to save many."</span>
+
+
+<span style="font-family: Arial; font-size: 12pt;">3. There is no act-omission distinction, since an omission is itself an action. </span>
+Rachels:
+<span style="font-family: Arial; font-size: 8pt;">http://www.jamesrachels.org/killing.pdf</span>
+
+<span style="font-family: Arial; font-size: 8pt;">"So what is the difference between... but I do let him die."</span>
+
+
+**<span style="font-family: Arial;">My position is that the US ought to implement</span>****<span style="font-family: Arial;"> cognitive behavioral programs for the entire criminal justice system.</span>**
+
+**<span style="font-family: Arial;">Lipsey et al.</span>**<span style="font-family: Arial;"> clarify:</span>
+<span style="font-family: Arial; font-size: 6pt;">Mark W. Lipsey, Nana A. Landenberger, & Sandra J. Wilson, Center for Evaluation Research and Methodology, Vanderbilt Institute for Public Policy Studies, 9 August 2007</span><span style="font-family: Arial; font-size: 11pt;">.</span>
+<span style="font-family: Arial; font-size: 11pt;">"Cognitive behavior therapy... and relapse prevention."</span>
+
+Contention 1 is that CBT reduces recidivism.
+
+Subpoint A: Emotions are the guiding factor behind moral decisions.
+
+Haidt 1:
+<span style="font-family: Arial; font-size: 8pt;">Jonathan Haidt. “The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment”. U of Virginia, 2001.</span>
+
+<span style="font-family: Arial; font-size: 8pt;">"Further evidence that moral reasoning... unless it is also contrary to sentiment."</span>
+
+
+And, social persuasion is the most likely way to change behavior.
+Haidt 2:
+ibid.
+
+"People have quick and automatic... segregation was unjust, and un-American."
+
+Subpoint B: <span style="font-family: Arial; font-size: 12pt;">CBT uniquely solves by addressing root causes behind criminal behavior.</span>
+NAMI:
+<span style="font-family: Arial; font-size: 6pt;">National Alliance on Mental Illness.</span>//<span style="font-family: Arial; font-size: 6pt;">Reviewed by Ken Duckworth, M.D., and Jacob L. Freedman, M.D., July 2012</span>////<span style="font-family: Arial; font-size: 6pt;">http://www.nami.org/Template.cfm?Section=About_Treatments_and_Supports&template=/ContentManagement/ContentDisplay.cfm&ContentID=7952</span>//
+
+"Cognitive behavioral treatment (CBT) is a form of... and self-destructive behaviors."
+
+Subpoint C: Studies prove.
+**<span style="font-family: Arial; font-size: 12pt;">Landenberger and Lipsey ‘05:</span>**
+
+<span style="font-family: Arial; font-size: 6pt;">Landenberger, Nana A. and Mark W. Lipsey. “The Positive Effects of Cognitive-Behavioral Programs for Offenders: A Meta-Analysis of Factors Associated with Effective Treatment.” Vanderbilt Institute for Public Policy Studies, Journal of Experimental Criminology, 2005. http://restorativejustice.pbworks.com/f/Landenberger_Lipsey.pdf.</span>
+
+
+"Several well-conducted... compared to control groups."
+
+<span style="font-family: Arial;">AND, prefer this evidence because it is an analysis of meta-analyses, meaning it takes into account a much larger number of studies.</span>
+
+**Subpoint D** is the impact:
+Wilson '08:
+<span style="font-family: Arial; font-size: 8pt;">Wilson, Jane [Stanford's Strauss Scholar, developing educational programs for inmates in cities across the US.] Reducing Juvenile Recidivism in the United States, Roosevelt Review, 2007. http://www.scribd.com/doc/19695235/Juvenile-Recidivism</span>
+
+<span style="font-family: Arial; font-size: 8pt;">"The effects of recidivism... criminality cannot be underestimated."</span>
+
+<span style="font-family: Arial; font-size: 8pt;">Reducing recidivism leads to additional benefits.</span>
+<span style="font-family: Arial; font-size: 8pt;">Wilson 2:</span>
+<span style="font-family: Arial; font-size: 8pt;">ibid.</span>
+
+"Lowering the rate of... welfare of its adolescents and prisoners."
+
+Contention 2: Retributivism increases crime.
+
+**<span style="font-family: Arial; font-size: 12pt;">Subpoint A. </span>**<span style="font-family: Arial; font-size: 12pt;">Specific deterrence fails – prison life only reentrenches antisocial behavior. </span>
+<span style="font-family: Arial; font-size: 12pt;">Gendreau et al.:</span>
+
+<span style="font-family: Arial; font-size: 6pt;">Paul Gendreau and Claire Goggin, Centre for Criminal Justice Studies, University of New Brunswick, and Francis T. Cullen, Department of Criminal Justice, University of Cincinnati</span><span style="font-family: Times; font-size: 6pt;">1999-3</span>
+<span style="font-family: Arial; font-size: 12pt;">"A more precise specification... prisons should promote criminality."</span>
+
+<span style="font-family: Arial; font-size: 12pt;">**Subpoint B:** </span>
+<span style="font-family: Arial; font-size: 12pt;">General deterrence fails – studies prove. </span>
+<span style="font-family: Arial; font-size: 12pt;">**Hallevy ’09:**</span>
+
+<span style="font-family: Arial; font-size: 6pt;">Gabriel Hallevy [Prof. of Law, Ono Academic College], “The Recidivist Wants To Be Punished – Punishment as an Incentive to Reoffend,” 5 IJPS 120 (2009)</span>
+
+"Apart from the public controversy surrounding... level of crime was recorded."
+
+UNDERVIEW:
+A. Interpretation: If the neg makes arguments against the substance of the plan, they must concede the aff's ability to run and fiat it.
+B. Preemptive - the neg violates if they make theoretical or substantive arguments against my ability to run or fiat the plan as well as arguments against the plan itself.
+C.
+1. Time skew
+2. Ground skew
+
+D. Fairness
+
+Precludes theory about the plan being illegitimate.
+
+===VBT AC (Util)=== 
+<span style="font-family: Arial;">I affirm.</span>
+
+**<span style="font-family: Arial; font-size: 12pt;">Value</span>**<span style="font-family: Arial; font-size: 12pt;"> is defined by New Oxford American Dictionary as </span>**__<span style="font-family: Arial; font-size: 12pt;">consider</span>__**<span style="font-family: Arial; font-size: 6pt;">(someone or something)</span><span style="font-family: Arial; font-size: 12pt;"> **__to be important or beneficial__**.</span>
+
+
+**<span style="font-family: Arial;">Smith </span>**<span style="font-family: Arial;">defines Rehabilitation:</span>
+
+
+
+http://pubpages.unh.edu/~nicks/pdf/Rehabilitation.pdf, Paragraph 1 under "Significance".
+
+Ought is defined as moral obligation. Thus I value morality.
+
+The standard is util. Prefer this standard:
+1. <span style="font-family: Arial; font-size: 12pt; line-height: 1.5;">A priori reasoning is impossible so the only epistemologically sound basis for morality is experience.</span>
+[1] “A Defense of Naïve Empiricism: It is Neither Self-Refuting Nor Dogmatic.” Stephen P. Schwartz. Ithaca College. pp.1-14.
+
+<span style="font-family: Arial; font-size: 12pt; line-height: 1.5;">"The empirical support... an empirical claim."</span>
+
+<span style="font-family: Arial; font-size: 12pt;">Thus, empiricism is true - all moral principles must be made based off observations. AND, pain and pleasure is our starting point. </span>
+
+[1] Thomas Nagel, //The View From Nowhere//, HUP, 1986: 156-168.
+
+"I shall defend... the appearances here."
+
+<span style="font-family: Arial;">Thus, we look to util, since under util our pleasure will be maximized, and pain will be minimized.</span>
+
+<span style="font-family: Arial;">2. There exists no act-omission distinction, since an omission is itself an action.</span>
+
+
+<span style="font-family: Arial; font-size: 8pt;">http://www.jamesrachels.org/killing.pdf</span>
+
+<span style="font-family: Arial; font-size: 8pt;">"So what is the... do let him die."</span>
+
+<span style="font-family: Arial; font-size: 8pt;">Thus, since we are equally culpable for omissions, we have to aggregate harms.</span>
+
+
+<span style="font-family: Arial;">3. Non-consequentialist standards lead to irresolvable conflicts between duties. For example, if I sign a contract saying I will kill a person, then no matter what I do I will be violating some moral rule, making action both obligatory and prohibited, which is nonsensical. Consequentialism avoids this by allowing us to hierarchically order actions based on expected consequences.</span>
+
+
+**<span style="font-family: Arial;">Contention 1</span>**<span style="font-family: Arial;"> is that rehab lowers recidivism.</span>
+
+**<span style="font-family: Arial;">Subpoint A. </span>**<span style="font-family: Arial;">Emotions are the guiding factor behind moral decisions.</span>
+
+
+
+
+<span style="font-family: Arial;">[1]</span><span style="font-family: Arial; font-size: 8pt;">Jonathan Haidt. “The Emotional Dog and its Rational Tail: A Social Intuitionist Approach to Moral Judgment”. U of Virginia, 2001. </span>
+
+<span style="font-family: Arial; font-size: 8pt;">"Further evidence that... contrary to sentiment"</span>
+
+<span style="font-family: Arial; font-size: 8pt;">Subpoint B. </span>
+<span style="font-family: Arial; font-size: 12pt;">Rehab uniquely solves by addressing root causes behind criminal behavior.</span>
+
+
+<span style="font-family: Arial; font-size: 6pt;">National Alliance on Mental Illness.</span>//<span style="font-family: Arial; font-size: 6pt;">Reviewed by Ken Duckworth, M.D., and Jacob L. Freedman, M.D., July 2012</span>////<span style="font-family: Arial; font-size: 6pt;">http://www.nami.org/Template.cfm?Section=About_Treatments_and_Supports&template=/ContentManagement/ContentDisplay.cfm&ContentID=7952</span>//
+
+"Cognitive behavioral therapy... and self-destructive behaviors."
+
+<span style="font-family: Arial; font-size: 12pt;">Subpoint C. Studies prove.</span>
+
+
+<span style="font-family: Arial; font-size: 12pt;">Lipsey and Cullen analyzed every single meta-analysis on the question of whether rehab or retributive institutions decreased recidivism better. </span>
+
+
+[1] THE EFFECTIVENESS OF CORRECTIONAL REHABILITATION: A REVIEW OF SYSTEMATIC REVIEWS Mark W. Lipsey1 and Francis T. Cullen2 //<span style="font-family: Tahoma;">1</span>// //<span style="font-family: Tahoma;">Institute for Public Policy Studies, Vanderbilt University, Nashville, TN 37212; email:</span>//[[mailto:mark.lipsey@vanderbilt.edu|//mark.lipsey@vanderbilt.edu//]] //<span style="font-family: Tahoma;">2</span>////<span style="font-family: Tahoma;">Division of Criminal Justice, University of Cincinnati, Cincinnati, OH 45226-0389; email:</span>//[[mailto:cullenft@email.uc.edu|//cullenft@email.uc.edu//]] //<span style="font-family: Tahoma;">Annual Review of Law and Social Science</span>//, volume 3, 2007
+
+<span style="font-family: Arial; font-size: 12pt;">"This review has... analysis of sanctions."</span>
+
+<span style="font-family: Arial; font-size: 12pt;">AND</span>
+
+<span style="font-family: Arial; font-size: 12pt;">"The most general... effects of sanctions."</span>
+
+<span style="font-family: Arial; font-size: 12pt;">Methodology: </span>
+<span style="font-family: Arial; font-size: 5pt;">Table 1: Meta-analyses of the Effects of Sanctions and Supervision on Recidivism Meta-analysis report Type of intervention Mean effect size a (N) Change in recidivism b Supervision Pearson et al. 1997 “community supervision” (adults): ordinary probation & parole, intensive supervision probation & parole, group homes -.04 (52) - 8% Lipsey & Wilson 1998 ordinary probation & parole, intensive supervision probation & parole, restitution (juveniles) -.04 c (22) -8% Aos et al. 2001 intensive probation or parole supervision (juveniles) -.02 c (20) - 4% Aos et al. 2001 intensive probation or parole supervision (adults) -.01 c (22) - 2% Intermediate sanctions Andrews et al. 1990 “criminal sanctions” (juveniles & adults): regular processing vs. diversion, more vs. less severe dispositions, restitution contracts +.07 (16) +14% Petrosino 1997 “deterrence” (juveniles & adults): intensive supervision vs. traditional parole or probation, arrest versus police mediation .00 (23) 0% Cleland et al. 1997 “criminal sanctions” (juveniles): variations in supervision intensity, fines, criminal justice processing, or other specific deterrents -.04 (61) - 8% Cleland et al. 1997 “criminal sanctions” (adults): variations in supervision intensity, fines, criminal justice processing, or other specific deterrents -.02 (83) - 4% Smith et al. 2002 “intermediate sanctions” (juveniles & adults): intensive supervision, arrest, fines, restitution, boot camps, scared straight, drug testing, electronic monitoring -.01 (74) - 2% Lipsey & Wilson 1998 prison visitation, shock incarceration (juveniles) +.01 c (6) +2% Aos et al. 2001 prison visitation; “Scared Straight” (juveniles) +.06 c (8) +12% Petrosino et al 2003 prison visitation; “Scared Straight” (juveniles) +.13 (9) +26% Confinement Pearson et al. 1997 “incarceration & punishment” (adults): most were prison or jail sentences +.02 (26) + 4% Smith et al. 2002 longer vs. shorter prison sentences (juveniles & adults) +.03 (26) + 6% Smith et al. 2002 incarceration vs. community supervision (juveniles & adults) +.07 (31) +14% Villettaz 2006 custodial vs. noncustodial sentences (juveniles & adults) +.02 (5) + 4% MacKenzie et al. 2001 boot camps (juveniles & adults) .00 (44) 0% Aos et al. 2001 boot camps (juveniles) +.05 c (10) +10% Aos et al. 2001 boot camps (adults) .00 c (22) 0% a. Phi coefficient; unweighted mean when available. A negative sign means less recidivism for the intervention condition. Cohen’s d effect sizes converted to phi as phi= 2 d 4 + d ; odds ratios converted to d as d=Log(OR)/2, then d converted to phi (this gives the phi that occurs with a .50 control recidivism and the given odds ratio). b. Difference between the recidivism rate for the intervention and a control recidivism rate assumed to be .50 that corresponds to the given effect size. c. Weighed or adjusted for methodological quality. able 2: Meta-analyses of the Effects of Rehabilitation Treatment Generally on Recidivism Meta-analysis report Age of offenders Treatment setting Mean effect size a (N) Change in recidivism b Garrett 1985 juveniles residential -.05 c (19) -10% Whitehead & Lab 1989 juveniles community & residential -.12 d (50) -24% Andrews et al. 1990 juveniles & adults community & residential -.10 (88) -20% juveniles community & residential -.10 (70) -20% adults community & residential -.11 (18) -22% juveniles & adults community -.11 (68) -22% juveniles & adults residential -.07 (20) -14% Petrosino 1997 juveniles & adults community & residential - .10 e (115) -20% juveniles community & residential -.12 e (55) -24% adults community & residential -.07 e (53) -14% Cleland et al. 1997 juveniles & adults community & residential - .08 (515) -16% juveniles community & residential - .08 (288) -16% adults community & residential -.07 (227) -14% Lipsey & Wilson 1998 juveniles community - .13 f (117) -26% juveniles residential -.07 f (83) -14% Illescas 2001 juveniles & adults community & residential -.17 g (22) -34% juveniles community & residential -.19 g (13) -38% adults community & residential -.10 g (15) -20% Latimer et al. 2003 juveniles community & residential - .09 (156) -18% a. Phi coefficient; unweighted mean when available. A negative sign means less recidivism for the intervention condition. Cohen’s d effect sizes converted to phi as phi= 2 d 4 + d ; odds ratios converted to d as d=Log(OR)/2, then d converted to phi (this gives the phi that occurs with a .50 control recidivism and the given odds ratio). b. Difference between the recidivism rate for the intervention and a control recidivism rate assumed to be .50 that corresponds to the given effect size. c. Subset with random or matched designs and recidivism outcomes. d. Computed from Table 1. e. Randomized studies only. f. Unweighted means computed from original data. g. European studies; subset with controls. able 3: Meta-analyses that Compare Effects from Weaker and Stronger Research Designs Meta-analysis report (intervention) Mean effect size for weaker designs a (N) Mean effect size for stronger designs a (N) Favors Andrews et al. 1990 (mixed) -.11 (42 b ) -.10 (38 b ) neither Dowden et al. 2003 (relapse prevention) - .13 (18 b ) -.21 (6 b ) stronger Feder & Wilson 2005 (batterers) +.07 (4) -.13 (7) stronger Gallagher et al 1999 (sex offenders) -.22 (23) -.44 (3) stronger Hanson et al. 2002 (sex offenders) -.12 (17) +.01 (3) weaker Latimer 2001 (family) -.18 (19 b ) -.10 (16 b ) weaker Lösel & Schmucker 2005 (sex offenders) -.15 (23) -.10 (6) weaker MacKenzie et al. 2001 (boot camps) -.01 (39) +.07 (5) weaker Mitchell et al. 2006 (counseling) -.11 (23) -.02 (2) weaker Mitchell et al. 2006 (drug relapse) -.04 (18) -.22 (2) stronger Mitchell et al. 2006 (therapeutic community) - .07 (28) -.16 (2) stronger Pearson et al 2002 (behavioral) -.10 (61) -.21 (7) stronger Illescas et al. 2001 (mixed) -.17 (19) -.02 (3) weaker Wilson & Lipsey 2000 (challenge programs) -.10 c (13) -.09 c (9) neither Wilson et al. 2000 (vocational) -.11 (50) -.10 (3) neither Wilson et al 2005 (bootcamps) -.01 (39) +.02 (4) weaker Wilson et al 2006 (drug courts) -.12 (49) -.13 (5) neither Correlations & regression coefficients Cleland et al. 1997 (mixed) regression coefficient for random= -.025 weaker Dowden & Andrews 1999 (female offenders) partial correlation for random= -.10 weaker Landenberger & Lipsey 2005 (cognitivebehavioral) correlation for random= .04 stronger a. Phi coefficient; a negative sign means less recidivism for the intervention condition. Cohen’s d effect sizes converted to phi as phi= 2 d 4 + d ; odds ratios converted to d as d=Log(OR)/2, then d converted to phi. b. Estimated. c. Computed from Table 7. able 4: Meta-analyses of the Effects of Specific Treatment Types on Recidivism Meta-analysis report Treatment Mean effect size a (N) Change in recidivism b Andrews et al. 1990 “appropriate:” behavioral & social learning treatment addressing risk & needs (juveniles & adults) -.30 (39) -60% Lipsey & Wilson 1998 interpersonal skills (juveniles) -.18 c (6) -36% Aos et al. 2001 multidimensional treatment foster care (juveniles) -.18 c (2) -36% Curtis et al. 2004 multisystemic therapy (juveniles) -.24 (7) -46% Aos et al. 2001 multisystemic therapy (juveniles) -.15 c (3) -30% Littell et al. 2005 multisystemic therapy (juveniles) -.08 (5) -16% Lipsey & Wilson 1998 multimodal (juveniles) -.14 c (23) -28% Lipsey & Wilson 1998 teaching family home (juveniles) -.16 c (6) -32% Woolfenden et al. 2002 family & parenting (juveniles) -.27 (5) -52% Latimer 2001 family intervention (juveniles) -.15 (35) -30% Lipsey & Wilson 1998 family counseling (juveniles) -.13 c (8) -26% Aos et al. 2001 family therapy (juveniles) -.10 c (13) -20% Lipsey & Wilson 1998 individual counseling (juveniles) -.16 c (16) -32% Garrett 1985 life skills (juveniles) -.15 (3) -30% Dowden & Andrews 1999 programs for females (juveniles & adults) -.14 (26) -28% Reitzel & Carbonell 2006 programs for sex offenders (juveniles) -.24 (9) -46% Gallagher et al. 1999 programs for sex offenders (juveniles & adults) -.18 (26) -36% Hanson et al. 2002 programs for sex offenders (juveniles & adults) -.14 (31) -28% Lösel & Schmucker 2005 programs for sex offenders (juveniles & adults) -.13 (49) -26% Hall 1995 programs for sex offenders (juveniles & adults) -.12 (12) -24% Aos et al. 2001 programs for sex offenders (juveniles) -.06 c (5) -12% Aos et al. 2001 cognitive-behavioral for sex offender (adults) -.05 c (7) -10% Wilson et al. 2005 cognitive-behavioral therapy (juveniles & adults) -.16 (11) -32% Dowden et al. 2003 relapse prevention (juveniles & adults) -.15 (24) -30% Pearson et al. 2002 cognitive behavioral therapy (juveniles & adults) -.14 (44) -28% Landenberger & Lipsey 2005 cognitive-behavioral therapy (juveniles & adults) -.11 (58) -22% Aos et al. 2001 aggression replacement training (juveniles) -.09 c (4) -18% Aos et al. 2001 cognitive-behavioral therapy (adults) -.04 c (14) - 8% Tong & Farrington 2006 Reasoning & Rehabilitation CBT (juveniles & adults) -.04 (15) - 8% Lösel 1995 social-therapeutic prisons (adults) -.12 (11) -24% Pearson et al. 1997 milieu therapy (adults) -.12 (16) -24% Lipsey & Wilson 1998 milieu therapy (juveniles) -.06 c (3) -12% Pearson et al. 1998 challenge programs (juveniles & adults) -.15 (12) -30% Wilson & Lipsey 2000 challenge programs (juveniles) -.09 (22) -18% Lipsey & Wilson 1998 challenge programs (juveniles) -.05 c (9) -10% Nugent et al. 2003 victim-offender mediation (juveniles) -.09 (15) -18% Wilson et al. 2006 drug court (juveniles & adults) -.12 (50) -24% Lowenkamp et al. 2005 drug courts (juveniles & adults) -.07 (22) -14% Aos et al. 2001 drug courts (adults) -.04 c (27) - 8% Pearson et al. 1997 drug & alcohol treatment (adults) -.10 (41) -20% Mitchell et al. 2006 drug treatment (juveniles & adults) -.08 (52) -16% Pearson & Lipton 1999b programs for drug abusers (juveniles & adults) -.07 (20) -14% Lipsey & Wilson 1998 drug treatment (juveniles) -.05 c (5) -10% Aos et al. 2001 therapeutic community (adults) -.03 c (16) - 6%os et al. 2001 drug treatment (adults) -.02 c (27) - 4% Lipsey & Wilson 1998 behavioral (juveniles) -.20 c (9) -40% Pearson et al. 2002 behavioral & incentive (juveniles & adults) -.07 (23) -14% Gottshalk et al. 1987 behavioral programs (juveniles) -.06 (14) -12% Garrett 1985 behavioral (juveniles) .04 (6) + 8% Lipsey & Wilson 1998 social casework (juveniles) -.07 c (6) -14% Feder & Wilson 2005 programs for batterers (adults) -.06 (9) -12% Pearson et al. 1997 group counseling (adults) -.06 (17) -12% Lipsey & Wilson 1998 group counseling, guided group (juveniles) -.04 c (25) -8% Wilson et al. 2000 educational, vocational, work (adults) -.10 (53) -20% Pearson & Lipton 1999a educational & vocational (juveniles & adults) -.05 (72) -10% Aos et al. 2001 education, vocational, employment (adults) -.03 c (16) - 6% Visher et al. 2005 employment programs (adults) -.01 (10) - 2% Lipsey & Wilson 1998 vocational, employment (juveniles) .00 c (10) 0% Garrett 1985 psychodynamic (juveniles) .00 (10) 0% a. Phi coefficient; unweighted mean when available. A negative sign means less recidivism for the intervention condition. Cohen’s d effect sizes converted to phi as phi= 2 d 4 + d ; odds ratios converted to d as d=Log(OR)/2, then d converted to phi (this gives the phi that occurs with a .50 control recidivism and the given odds ratio). b. Difference between the recidivism rate for the intervention and a control recidivism rate assumed to be .50 that corresponds to the given effect size. c. Weighed or adjusted for methodological quality</span>
+
+
+Subpoint D: Recidivism outweighs deterrence.
+
+1) I control the internal link to crime
+
+2) Magnitude
+
+3) Reliability of empirics
+
+**<span style="font-family: Arial;">Contention 2</span>**<span style="font-family: Arial;"> is drugs.</span>
+
+<span style="font-family: Arial; font-size: 12pt;">A is the uniqueness: Drug cartels are putting Mexico on the brink of collapse. </span>
+
+[1] Ankur Shingal 2011. [“At the Tipping Point: Why the United States Must Assist Mexico in the Mexican Drug War. Agathai Quarterly, Vol 1, Issue 2, Winter 2011 pp 27]
+
+"The third reason... the Mexican state."
+
+B is the link: Targeting the addicted through treatment is uniquely key to stopping drug cartels.
+
+[1] Antonio Costa 2009 [“World Drug Report 2009” United Nations Office on Drugs and Crime]
+
+"One of the most... profitability of the market."
+
+<span style="font-family: Arial; font-size: 12pt;">And, drug courts are very effective at reducing drug addiction. The largest study of drug courts finds that they cut drug use and crime in half. </span>
+
+
+[1] Rossman et al 2011. [“Drug Courts Can Reduce Substance Use and Crime, Five-Year Study Shows, But Effectiveness Hinges on the Judge” Urban Institute, July 18, 2011. Shelli Rossman, John Roman, Janine Zweig, Janeen Buck Willison, Mitchell Downey, and Jennifer Yahner from the Urban Institute; Michael Rempel, Dana Kralstein, Mia Green, and Kelli Henry from the Center for Court Innovation; and Christine Lindquist and Kristine Fahrney from RTI International.]
+
+Methodology: Drug courts emerged in the late 1980s and early 1990s as drug arrests and prosecutions exploded, overwhelming traditional courts' capacity to process cases expeditiously. The Multi-Site Adult Drug Court Evaluation, funded by the U.S. Department of Justice's National Institute of Justice, was conducted in two phases. The first, in 2004, surveyed 380 drug courts, more than half of which required both an eligible charge and a clinical assessment for offenders to enroll. Few courts allowed participants with prior convictions for violent misdemeanor or felony offenses. More than a third of courts served only those who were diagnosed as addicted to or dependent on drugs; others also served regular users or those with any level of use. In the study's second phase, researchers selected 23 drug courts in Florida, Georgia, Illinois, New York, Pennsylvania, South Carolina, and Washington, and six comparison sites in Florida, Illinois, North Carolina, and Washington. Between March 2005 and fall 2009, the team visited each location multiple times to document program characteristics and operations; interviewed a sample of 1,156 drug court participants and 625 comparison group members as many as three times (baseline interview and interviews 6 and 18 months later); administered a drug test at the 18-month mark; and obtained criminal histories, recidivism data, and budget information from state agencies and the FBI.
+
+"Drug court participants... enroll serious offenders."
+
+<span style="font-family: Arial; font-size: 12pt;">C is the internal link: Mexican collapse causes massive global oil shocks. </span>
+
+[1] Michael Moran 2009 [“Six Crises, 2009: A Half-Dozen Ways Geopolitics Could Upset Global Recovery” Roubini Global Economics, July 31, 2009]
+
+"A story receiving... on foreign investment."
+
+D is the impact: Oil shocks cause extinction.
+
+[1] Stephen Lendman 2007 (Research Associate of the Centre for Research on Globalization. [Stephen Lendman, “Resource Wars - Can We Survive Them?,” Rense.com, 6-6-7, pg. <span style="color: blue;">[[http://www.rense.com/general76/resrouce.htm]]</span>]
+
+"With the world's... would have survived."
+
+<span style="font-family: Arial; font-size: 12pt;">And, drug addiction has serious economic and crime impacts. </span>
+
+
+[1] http://www.cpdd.vcu.edu/Pages/Index/Index_PDFs/TransitionPaperOctober20081.pdf
+
+
+"The costs of... inmates since 1985."
+
+===Stanford Disclosure:=== 
+Round 1 v. Flintridge Sacred Heart RA: CPS NC + Raymond Li's Outsourcing CP
+Round 2 v. San Marcos RD: VBT AC
+Round 3 v. Immaculate Heart KH: Outsourcing CP
+Round 4 v. Saratoga RK: VBT AC
+Round 5 v. Harker RX: CPS NC
+Round 6 v. Loyola MH: VBT AC
+Ronnd 7 v. Harker AC: VBT AC
+
+The above positions are disclosed under their original tournament, except for the CP, which my teammate wrote.
+==Negative== 
+===CPS NC (Deont/Kantian retributivism)=== 
+<span style="font-family: Arial;">I negate.</span>
+<span style="font-family: Arial;">Ought is defined as moral obligation.</span>
+<span style="font-family: Arial;">Thus I value **morality**.</span>
+<span style="font-family: Arial; font-size: 11pt;">Rational choice/Autonomy is the source of all normativity and value. </span>
+<span style="font-family: Arial; font-size: 11pt;">Korsgaard:</span>
+
+<span style="font-family: Times; font-size: 7pt;">Korsgaard, Christine M., "Fellow Creatures: Kantian Ethics and Our Duties to Animals." Feb. 6, 2004. //University of Utah Press//. http://www.people.fas.harvard.edu/~korsgaar/CMK.FellowCreatures.pdf</span>
+<span style="font-family: Arial; font-size: 11pt;">"So I can't quite... values into existence."</span>
+
+
+<span style="font-family: Arial; font-size: 12pt;">Without rationality, value cannot exist, so when we look towards a moral ethic, we must first look towards individual rationality and autonomy as a prerequisite. Reason is an absolute authority and prerequisite to morality and must be protected at all costs.</span>
+
+<span style="font-family: Arial; font-size: 12pt;">Lewis:</span>
+
+<span style="font-family: Cambria; font-size: 11pt;">[[http://www.philosophy.uncc.edu/mleldrid/Intro/csl3.html]]</span>
+
+<span style="font-family: Cambria; font-size: 11pt;">"But the very attempt... of getting inside again."</span>
+
+
+<span style="font-family: Arial; font-size: 12pt;">Thus, it is impossible to reject reason without appealing to reason, which accepts the authority of reason. Any attempts to give reasons why reason is not the basis of action and morality are circular because they appeal to reason.</span>
+
+
+
+<span style="font-family: Arial; font-size: 12pt;">Because of the important of reason, all rational beings are ends in themselves, and must be treated as so.</span>
+<span style="font-family: Arial; font-size: 12pt;">Velleman:</span>
+
+<span style="font-size: 9pt;">David Velleman. Self To Self. 2006. Cambridge University Press.</span>
+
+<span style="font-family: Arial; font-size: 12pt;">"The value of persons... reasons by showing disregard for persons."</span>
+
+Thus the standard is **respecting human worth.**
+
+**<span style="font-family: Arial; font-size: 12pt;">I contend </span>**<span style="font-family: Arial; font-size: 12pt;">that retribution better respects human worth.</span>
+<span style="font-family: Arial; font-size: 12pt;">Subpoint A: Retribution is necessary to treat people as moral equals and ends in themselves, by recognizing their autonomy and right to be treated according to their maxim.</span>
+
+<span style="font-family: Arial; font-size: 12pt;">Flanders: </span>
+
+<span style="font-family: Arial; font-size: 6pt;">Chad Flanders [J.D. 2007, Yale; Ph.D. 2004, Chicago (philosophy). Assistant Professor of Law, Saint Louis University School of Law], “Retribution and Reform,” 70 Md. L. Rev. 87 (2010-2011)</span>
+
+
+<span style="font-family: Arial; font-size: 16px;">"Morris paints the following... chosen to be punished."</span>
+
+<span style="font-family: Arial; font-size: 16px;">Subpoint B: R</span><span style="font-family: Arial; font-size: 12pt;">ehabilitation inherently devalues persons by treating them as means to ends.</span>
+
+
+<span style="font-family: Arial; font-size: 6pt;">“PERSONS AND PUNISHMENT”. Herbert Morris. Monist, Vol. 52, No. 4, Human Rights (OCTOBER, 1968), pp. 475-501</span>
+
+"Fourth, attention should be drawn... into what he is not."
+
+
+<span style="font-family: Arial; font-size: 11pt;">Thus, I negate.</span>
+
+===<span style="font-family: Arial; font-size: 11pt;">VBT Neg Disclosure</span>=== 
+<span style="font-family: Arial; font-size: 11pt;">Round 2 I ran a Rule Util NC and a Debt Ceiling DA.</span>
+<span style="font-family: Arial; font-size: 11pt;">Round 3 I ran the CPS NC and the Debt Ceiling DA.</span>
+<span style="font-family: Arial; font-size: 11pt;">Round 5 I ran the Rule Util NC and the Debt Ceiling DA.</span>
+<span style="font-family: Arial; font-size: 11pt;">I didn't write either the Rule Util NC or the Debt Ceiling DA so I can't disclose them. I will probably not be running rule util at Stanford, and I'll get better evidence for the Debt Ceiling DA.</span>
+
+<span style="font-family: Arial; font-size: 11pt;">-Sorry-</span>
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+[[media type="custom" key="21843538"]]
+[[include page="space.template.Footer"]]

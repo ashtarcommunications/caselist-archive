@@ -1,0 +1,207 @@
+<span style="background-color: #ffffff;">[[toc]]
+</span>
+
+
+
+=__<span style="background-color: #ffffff;">**Cal-Berkeley**</span>__= 
+==<span style="background-color: #ffffff;">Round One vs. Phoenix Day--Sci-Fi Dr. Who Aff</span>== 
+<span style="background-color: #ffffff;">1NC:</span>
+<span style="background-color: #ffffff;">Framework</span>
+<span style="background-color: #ffffff;">T-Resolved</span>
+<span style="background-color: #ffffff;">Commission CP</span>
+<span style="background-color: #ffffff;">Explore PIC</span>
+<span style="background-color: #ffffff;">Jack-Van Ptx</span>
+<span style="background-color: #ffffff;">Hetero K</span>
+<span style="background-color: #ffffff;">Util Good</span>
+<span style="background-color: #ffffff;">2NR:</span>
+<span style="background-color: #ffffff;">Framework</span>
+<span style="background-color: #ffffff;">Explore PIC</span>
+
+==<span style="background-color: #ffffff;">Round Four vs. Damien--Sat Hardening Aff</span>== 
+<span style="background-color: #ffffff;">1NC:</span>
+<span style="background-color: #ffffff;">T-Humans</span>
+<span style="background-color: #ffffff;">Commission CP</span>
+<span style="background-color: #ffffff;">Jack Van Ptx</span>
+<span style="background-color: #ffffff;">Wep DA</span>
+<span style="background-color: #ffffff;">Case Defense</span>
+<span style="background-color: #ffffff;">2NR:</span>
+<span style="background-color: #ffffff;">Commission CP</span>
+<span style="background-color: #ffffff;">Ptx</span>
+
+==<span style="background-color: #ffffff;">Round Six vs. GW--Asteroid Mining</span>== 
+<span style="background-color: #ffffff;">1NC: </span>
+<span style="background-color: #ffffff;">Commission CP</span>
+<span style="background-color: #ffffff;">Multi-Plank CP (Econ and Warming)</span>
+<span style="background-color: #ffffff;">Ptx </span>
+<span style="background-color: #ffffff;">Case Defense</span>
+<span style="background-color: #ffffff;">2NR:</span>
+<span style="background-color: #ffffff;">Ptx</span>
+<span style="background-color: #ffffff;">Case Defense</span>
+
+=<span style="background-color: #ffffff;">HoFlo</span>= 
+
+==<span style="background-color: #ffffff;">Round Two vs. Maine East--ORS</span>== 
+1NC:
+Wep DA
+Commission CP
+JV Ptx
+Space Attack/Aerospace CP
+Case Turns
+2NR:
+Space Attack/Aerospace CP
+Case Turns
+
+==Round Three vs. GBS HS--Brilliant Pebbles== 
+1NC:
+Commission CP
+JV Ptx
+ZBM CP
+Hetero K
+2NR:
+Hetero K
+
+
+==Round Five vs. Whitney Young--Fairy Tale Aff== 
+1NC:
+Framework
+T-Resolved
+Commission CP
+Hetero K
+2NR:
+Hetero K
+
+
+=**NFL Districts (with Emma)**= 
+
+==Round Two vs. Niles North--SPS== 
+1NC:
+T-Human
+Aerospace/Space Attack CP
+Hetero K
+Wep DA
+JV Ptx
+Case Turns
+2NR:
+Aerospace/Space Attack CP
+Case Turns
+
+=**ICTA--JV State**= 
+
+==Round Two vs. GBN--Ground-Based Lasers== 
+1NC:
+T-Beyond
+Swiss CP
+Wep DA
+JV Ptx
+Commission CP
+2NR:
+Swiss CP
+Wep DA
+
+==Round Three vs. Lincoln Park--SPS== 
+1NC:
+Commission CP
+JV Ptx
+STEM CP
+Wep DA
+Case Turns
+2NR:
+STEM CP
+Wep DA
+
+
+==Quarters vs. GBN--Mars Co-op with China== 
+1NC:
+T-Federal
+Space Attack/Energy CP
+JV Ptx
+Hetero K
+2NR:
+Ptx
+
+==Semis vs. GBN--Ground-Based Lasers== 
+1NC:
+UN CP
+Wep DA
+JV Ptx
+Commission CP
+2NR:
+UN CP
+Wep DA
+
+
+=IHSA--Varsity State= 
+
+==Round Two vs. Northside EW--Shuttle to the ISS== 
+1NC:
+T-Federal
+Wep DA
+Soft Power CP
+JV Ptx
+Hetero K
+2NR:
+Soft Power CP
+Wep DA
+
+==Round Four vs. HoFlo FG--SPS== 
+1NC:
+JV Ptx
+Energy/Space Attack CP
+Wep DA
+Case Turns
+2NR:
+Case Turns
+
+==Round Five vs. Northside SW--D&G== 
+1NC:
+FW
+T-Resolved
+Commission CP
+JV Ptx
+Heidegger K
+2NR:
+Heidegger K
+
+
+=Woodward--JV Nats= 
+
+==Round Two vs. Mountain Brook RS--SPS== 
+1NC:
+Space Attack/Energy CP
+Wep DA
+Commission CP
+JV Ptx
+Case Turns
+2NR:
+Space Attack/Energy CP
+Case Turns
+
+
+==Round Four vs. Westminster MS--AISR== 
+1NC:
+T-Human
+Hetero K
+Radio Astronomy DA
+NMS CP w/ CMR
+2NR:
+NMS CP w/ CMR
+
+==Round Six vs. Westminster BL--Dragnets== 
+1NC:
+F-35/Space Attack CP
+JV Ptx
+Wep DA
+Radio Astronomy DA
+NMS CP w/ CMR
+2NR
+CMR
+Radio Astronomy DA
+
+==Octos vs. Chatahoochee GK--Nanosats== 
+1NC:
+JV Ptx
+NMS CP w/ CMR
+Heidegger K
+Heg Turn
+2NR:
+Case Turns

@@ -1,0 +1,211 @@
+----
+
+This page has been updated {$pagerevisions} times since it was created on {$creationmonth}/{$creationday2}/{$creationyear}. It was last updated on {$revisionmonth}/{$revisionday2}/{$revisionyear} by {$revisioneditor}.
+
+For AFF Cites [[mailto:jrmartin707@gmail.com|jrmartin707@gmail.com]]
+For NEG Cites [[mailto:matt.aguirre1@gmail.com|matt.aguirre1@gmail.com]]
+[[toc]]
+=AFF= 
+===Stanford 1AC - Ender's Game 2.0=== 
+(The introduction is an excerpt from the novel Ender's Game, by Orson Scott Card. If anyone would like the full text of it, I'll post it. It goes from "**<span style="font-family: 'Times New Roman'; font-size: 10pt;">The walls of the tower were notched and ledged for easy climbing." </span>**to **<span class="underline">"</span>The answer," said Ender.**)
+
+**Orson Scott Card’s novel Ender’s Game tells the story of Ender, a gifted child taken from his home and retooled by the State as the perfect war machine to destroy their mortal enemies, the Formics or buggers. Ender then unknowingly exterminates the entirety of the now benign alien race. Grief-stricken, he searches for forgiveness from himself and the buggers for his deed. The scene we’ve just heard is Ender’s communication with the last remaining member of the Formic species, and he pledges to correct his actions.**
+
+**Contention One is Otherness**
+
+**<span style="font-family: 'Times New Roman'; font-size: 10pt;">Society relies on the ritualized sacrifice of a scapegoated Other. Under cycles of enemy construction not unlike those of the buggers in Ender’s Game, violence against any entity associated with the Other is naturalized and valorized.</span>**
+**Kearney 1999**<span style="font-size: 10pt;"> (Richard Kearney, Richard Kearney is the Charles Seelig professor of philosophy at Boston College and has taught at many universities including University College Dublin, the Sorbonne, and the University of Nice, July 1999, Cultural Values Vol. 3, No. 3, “Aliens and Others: Between Girard and Derrida,” http://web.ebscohost.com/ehost/detail?sid=d255f4f3-45d2-483b-9065-cb94d94874bf%40sessionmgr115&vid=1&hid=108&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=3252034.)</span>
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">Girard believes that </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">human societies are founded on myths of sacrifice... </span><span style="font-family: 'Times New Roman'; font-size: 8pt;">Indeed, the popular media and press often play a central role in the demonising of a commonly identified 'alien' (individual or minority group). </span>
+
+
+**This mimetic politics of war makes violence inevitable – under this framework, the extermination of constructed enemies becomes naturalized making extinction the only option.**
+**Der Derian ‘3** <span style="font-size: 10pt;">(James Der Derian, Professor of Political Science at the University of Massachusetts at Amherst and Research Professor of International Relations at the Watson Institute for International Studies at Brown University, 2003, “War as a Game”, Brown Journal of World Affairs p. 45-46)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">The charge of moral equivalency—in which any attempt at explanation is identified as an act of exoneration—should not deter investigations into the dangers of the mimetic relationships operating in war and games... </span>the <span class="underline">currently designed </span>game, to rid the world of evil, cannot possibly find an end.
+
+**During the plot of Ender’s game, Ender is transformed into a superweapon tooled for xenocide. This is not a result of self-choice, rather the state’s forced weaponization of him to destroy a mindless alien enemy. Yet instead of viewing the Other as Enemy as his instructors do, Ender understands the Formics in a new way to defeat them. His identification of the Other as Self is what allows the dichotomy of self and other to be deconstructed.**
+**Malmgren 93** <span style="font-size: 10pt;">(Carl, professor of English at the University of New Orleans, “Self and Other in SF: Alien Encounters”, English faculty Publications, The University of New Orleans, 1-1-1993, http://scholarworks.uno.edu/cgi/viewcontent.cgi?article=1028&context=engl_facpubs)</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">In prosecuting its war against the buggers, the government of Earth has established a program to single out gifted childrenat a very early age... an opportunity for redemption for the sin of slaughtering the buggers.</span>
+
+
+**Ender’s self-identification with the Formics allows for their humanization so that mutual communication and understanding becomes possible. Without this recognition, the only possibilities are war and the reduction of life to its barest state.**
+**Malmgren 93** <span style="font-size: 10pt;">(Carl, professor of English at the University of New Orleans, “Self and Other in SF: Alien Encounters”, English faculty Publications, The University of New Orleans, 1-1-1993, http://scholarworks.uno.edu/cgi/viewcontent.cgi?article=1028&context=engl_facpubs)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">Orson Scott Card's Ender trilogy, can serve as a "tutor text" for alien- encounter SF... </span><span style="font-family: 'Times New Roman'; font-size: 8pt;">All that raman business goes up in smoke when we're talking about survival" (SD ?17:340). </span>
+
+
+**Ender’s understanding of the human/bugger dichotomy rectifies the cycle of enemy construction – by viewing humanity’s actions as ones of aggression instead of glorious conquest or salvation, Ender reaches a higher state of intellectual evolution that emphasizes finding middle ground in spite of past mistakes.**
+**Perniciaro 11** <span style="font-size: 10pt;">(Leon Perniciaro, MA in English from the university of New Orleans, “Shifting Understandings of Imperialism: A Collision of Cultures in Starship Troopers and Ender's Game”, 5/20/11, http://scholarworks.uno.edu/cgi/viewcontent.cgi?article=2322&context=td) </span>
+//<span style="font-size: 10pt;">Edited for gendered language</span>//
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">Interestingly, </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">__Ender’s____eventual understanding of the true relationship between humanity and the buggers...__ __both are capable of finding middle ground____.__</span>
+
+
+**We advocate storytelling as a means of exposing otherization in astronomical discourse. Specifically, we advocate re-reading Orson Scott Card’s Ender trilogy in this space as a method for actualizing an ethical relationship to the other.**
+
+**Contention Two is Us**
+
+**Ender’s game shows two dichotomies for alterity – the Other as Self and the Other as Enemy. It indicts the systematic reduction and assimilation of Otherness into the known realm; instead we must remove ourselves from our prespectives to understand and be open to the alien narrative. This is only possible by embracing the other as ourselves through stories.**
+**Malmgren 93** <span style="font-size: 10pt;">(Carl, professor of English at the University of New Orleans, “Self and Other in SF: Alien Encounters”, English faculty Publications, The University of New Orleans, 1-1-1993, http://scholarworks.uno.edu/cgi/viewcontent.cgi?article=1028&context=engl_facpubs)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">The Ender trilogy</span><span style="font-family: 'Times New Roman'; font-size: 8pt;"> thus </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">surveys two</span><span style="font-family: 'Times New Roman'; font-size: 8pt;"> possible </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">treatments of alien alterity: the Other-as-Enemy and the Other-as-Self... But the higher beings include more and more living things within their self-story, until at last there is no Other</span><span style="font-family: 'Times New Roman'; font-size: 8pt;">" (X ?11:205).</span>
+
+
+**Our methodology is one of immersing ourselves in the narrative of otherness through our reading of the Ender trilogy. Only by removing the barrier of the self and identifying with the other through a moment of strategic essentialism can we truly understand alterity and the narratives of one another. Your role as a judge is to advocate storytelling as a way to understand others.**
+**Malmgren 93** <span style="font-size: 10pt;">(Carl, professor of English at the University of New Orleans, “Self and Other in SF: Alien Encounters”, English faculty Publications, The University of New Orleans, 1-1-1993, http://scholarworks.uno.edu/cgi/viewcontent.cgi?article=1028&context=engl_facpubs)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">Before incarnation, philotes exist inanother kind of space:... Such an encounter can make us into "someone else, someone less afraid, someone more compassionate"</span>
+
+
+**For his last war in the battleroom simulation, Ender is placed in a seemingly hopeless situation, but he is able to overcome it by winning without attacking. His strategies take everyone by surprise but are effective. He resists the power structures – he changes the game.**
+**Card 85** (Orson Scott Card, author, Ender’s Game, Prof. of Literature @ SVU, 1985) JM
+But there was something wrong... <span style="font-family: 'Times New Roman'; font-size: 8pt;">"How stupid do you think I am?" said Ender. </span>
+
+
+**The role of your ballot is such – although the performance of our aff is non-traditional, we invite you to challenge its operational mechanisms through the ballot. We must embrace that which is foreign or other in order to fully recognize its merits.**
+
+===Golden Desert 1AC - The Cosmos=== 
+**Over 2,000 years ago, a collective group of human beings created the Ancient Library of Alexandria. The city itself was a sprawling metropolis with diverse citizens and a hunger for knowledge. Alexandria sat as the hub for human collaboration and understanding. “On any given day, its harbors were thronged with merchants, scholars and tourists.” The library held the greatest accumulation of knowledge in early human history. To our horror, the great library of Alexandria burned at the hands of fanatics and power hungry leaders before the year 270 AD, followed by centuries known as “the dark ages.”**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg. 190)
+__<span style="font-family: TimesNewRoman; font-size: 12pt;">Here clearly were the seeds of the modern world... </span>__ <span style="font-family: TimesNewRoman; font-size: 12pt;">__there was nobody to stop them.__</span>
+
+
+**As debaters, we learn that the destruction of Alexandria represented an aversion to education and a denial of knowledge. Our participation in debate feeds our skepticism, and teaches us to think critically about the world around us. Debate is a microcosm of the Library, a place for the celebration of knowledge. In other words, debate is the manifestation of the scientific PROCESS of evaluating claims. Debate invites us to think about different topics and ideas, to modify our understanding and to be attuned to cosmic relationships.**
+
+
+**In that sense, we are inspired by this year’s resolution. Space exploration is an opportunity to meditate on the nature and meaning of the cosmos. It is a method for developing new ideologies and ethical positions. We are deeply troubled that the majority of debaters use this resolution to discuss hegemony and power relations in a modernist framework, precisely because this topic opens doorways to profoundly existential questions about the cosmos. Carl Sagan is one famous thinker that elucidated these questions and drew connections between our cosmological perspective and our ethical positions. Carl explains how a cosmological perspective can lead to the development of an ethic of care.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg. 101.)
+<span style="font-family: TimesNewRoman; font-size: 12pt;">__As long as there have been humans, we have searched for our place in the Cosmos__... </span><span style="font-family: TimesNewRoman;">**__by the courage of our questions and by the depth of our answers__****__.__**</span>
+
+
+**Sagan’s insight is as important as it is unique. Like Sagan, we believe that exploring space and learning about the cosmos is a humbling experience that challenges the worst impulses of humanism. Indeed, in the absence of cosmological wonder, humans are left to their own vanity. This vanity mutates into competition, which occasionally becomes violence. On the other hand, Sagan’s cosmic perspective exposes the danger of our current course and redirects our power of imagination.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg. 193)
+<span style="font-family: TimesNewRoman; font-size: 12pt;">__We have held the peculiar notion ...__ </span>__<span style="font-family: TimesNewRoman;">is clearly the universe or nothing.</span>__
+
+**There is no doubt that the stakes are high. We are an endangered species with our hands on nuclear technology. Our future survival and happiness depends on how we interpret the meaning of our technology and the purposes of our efforts. Science is neither a mirage nor a panacea, but a process for exploring the limits of our understanding.**
+**Sagan 80 (**Astronomer, Philosopher, Scientist. COSMOS (1980). Pg. 194)
+<span style="font-family: TimesNewRoman; font-size: 12pt;">The choice is stark and ironic... Interests vested in preparations for war can relatively easily be reinvested in the exploration of the Cosmos.</span>
+
+
+<span style="font-family: TimesNewRoman;">**We are inspired and motivated by Carl Sagan to use our performance of the 1AC to promote a form of education that redirects our collective efforts towards cosmological investigations. In this sense, we agree that the United States federal government should substantially increase its exploration and development of space beyond the mesosphere.** </span>
+<span style="font-family: TimesNewRoman;">**The first step to exploring space beyond the mesosphere is to turn an eye towards the night sky, conscious of our fleeting time here. The goal of our Affirmative is to inspire another human being to look up at the sky, to ask deeply existential questions, and to find their place among the stars. A cascade of public interest in astrophysics and cosmology will usher in a new epoch of communication and travel throughout an infinite number of galaxies. We believe this is the ONLY plausible scenario for successful human exploration and development of outer space.** </span>
+
+
+**Specifically, the United States federal government should pass a resolution to use the Spaceship of the Imagination to send us into the super massive black hole at the center of the Milky Way Galaxy.**
+
+
+**First – The Politics of the Singularity**
+
+
+**The Universe is so large that traveling between stars and planets faces seemingly insurmountable obstacles. The only feasible way to actualize space exploration is to use the forces of the universe to our advantage. Black holes may provide the right conditions of gravity and pressure to propel us through space/time.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg 138-139)
+<span style="font-family: TimesNewRoman; font-size: 12pt;">__A helpful way to understand black holes is to think about the curvature of space__... </span>__<span style="font-family: TimesNewRoman;">how surreal the universe may be</span>__<span style="font-family: TimesNewRoman;">.</span>
+
+
+**Black holes may be the key to accessing the fourth dimension, or wormholes to new universes, or even time machines. Our Aff meditates on the idea of black holes as gateways to new realities. This is a good metaphor for the topic, which is a gateway to transcend our repetitive hegemony and economy debates year in and out. Meditation about black holes hoists us to a vantage point that can begin to understand the Universe as a fractal.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg 153-154)
+<span style="font-family: TimesNewRoman; font-size: 10pt;">If there is insufficient matter to prevent the universe from expanding forever... </span>**<span style="font-family: TimesNewRoman; font-size: 10pt;">__Poised at the edge of forever, we would jump off.__</span>**
+
+
+
+**Second – Spaceship of the Imagination**
+
+**This moment right now is a critical juncture in space time. Even the smallest actions have enormous consequences when time is stretched out far enough, and the universe boasts an infinite timescale. Our Affirmative is an act of imagination that has the power to literally transform history. In only takes an ideological microorganism to reorient the lever of time.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg. 101.)
+<span style="font-family: TimesNewRoman; font-size: 12pt;">__History consists__ for the most part __of__ __a complex bundle of deeplyinterwoven threads...__ </span>__<span style="font-family: TimesNewRoman; font-size: 12pt;">It is hardly anything at all.</span>__
+
+
+**Now is the time to celebrate and protect life in all its forms. We hope that sharing our own inspirations can influence the other people in this debate space to contemplate the beauty and interconnectedness of the Cosmos. We have one real advantage, which is that thinking about the Cosmos promotes our compassion for others and inspires us to commit ourselves to survival.**
+**Sagan 80 (**Carl Sagan, Astronomer, Philosopher, Scientist. COSMOS (1980). Pg 182)
+<span style="font-family: TimesNewRoman; font-size: 10pt;">As the ancient mythmakers knew, __we are the children equally of the sky and the Earth...__ </span>__<span style="font-family: TimesNewRoman; font-size: 10pt;"> If we are not committed to our own survival, who will be?</span>__
+
+
+**We conclude with a passage from Ann Druyan about her marriage with Carl, which is the best way that we can describe the consciousness shift we hope to promote with this speech act.**
+**Druyan 03 (**Ann Druyan, 2003, Writer, Astronomer, Philosopher, “Ann Druyan Talks About Science, Religion, Wonder, Awe . . . and Carl Sagan.” Skeptical Inquirer, 27:6.)
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">When my husband died, because he was so famous and known for not being a believer... </span>__<span style="font-family: 'Times New Roman'; font-size: 10pt;">We found each other in the cosmos, and that was wonderful.</span>__
+
+
+
+
+===**Harker 1AC - Ender's Game**=== 
+
+**Act One: The Third**
+
+**Biopolitical themes run rife in the world of //Ender’s Game//** **– population control limits everyone to two children, but the government is authorized to give waivers to permit the birth of more children, if they think that the child will be a valuable military asset, and to monitor children with mind-reading devices affixed to their bodies.**
+**Card 85** <span style="font-size: 10pt;">(Orson Scott Card, author, __Ender’s Game,__ Prof. of Literature @ SVU, 1985) JM</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">In the corner of his desk a word appeared and began marching ... There were advantages to the monitor, and he would miss them.</span>
+
+
+**These ideas are the fundamentals of biopower – the ability to control the production of life and follow it from the interior.**
+**<span class="cite">Hardt & Negri 00 </span>**<span style="font-size: 10pt;">(Michael, Professor of Literature and Italian, Duke University, Ph.D in Comparative Literature, University of Washington, and Antonio, Former professor in State Theory, Padua University, __Empire:__ //Biological Production//, 2000) JM</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">Second, Foucault’s work allows us to recognize the biopolitical nature of the new paradigm of power... </span>Biopower thus refers to a situation in which what is directly at state is the production and reproduction of life itself.
+
+
+**The result of this control disguised as good will is biopolitical murder on a global scale.**
+**<span class="cite">Dillon & Reid 00 (</span>**<span style="font-size: 10pt;">Michael and Julian, Lecturer at the University of Lancaster and Lecturer on International Politics at University of London, Alternatives: Social Transformation and Humane Governance, Vol. 25 Ish. 1, January-March)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">We argue in addition that each such "emergency" reduces human life ... </span><span style="font-size: 10pt;">totally open to death, becoming open to disposal and destruction, only existing to serve the interest of the sovereign</span><span style="font-size: 8pt;">.</span>
+
+
+**<span class="cite">Act Two: The Enemy's Gate is Down</span>**
+
+**<span class="cite">Threats of extinction result in the physical and mental destruction of the child by his trainer. Preparation for an all-out war with a mindless alien enemy becomes the life and focus of Ender – if he doesn’t win, no one can.</span>**
+**<span class="cite">Card 85</span>** <span style="font-size: 10pt;">(Orson Scott Card, author, __Ender’s Game,__ Prof. of Literature @ SVU, 1985) JM</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">"The time is short. You must learn as quicklyas you can... </span>compassion for human beings is impossible for them."
+
+**The securitizing rhetoric of our space policy and that in the world of //Ender’s Game// furthers the threat of destruction that necessitates unending violence by the state. Population management for the sake of protection results in the annihilation of anything seen as an enemy.**
+**Coviello 00** <span style="font-size: 9pt;">**(**Peter Coviello, assistant professor of English at Bowdoin College, Apocalypse From Now On, 2000)</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 7pt;">Perhaps. But to claim that American culture is at present decisively postnuclear is not to say that the world we inhabit is in any way post-apocalyptic. ... </span>the threat of an apocalyptic demise, nuclear or otherwise, seems a civic initiative that can scarcely be done without.
+
+**<span class="cite">//Ender’s Game// depicts the full consequences of the melding of security rhetoric with biopolitical systems. The “future of the human race” is dependent upon the war training of young children – this is the epitome of apocalyptic rhetoric in use to dominate the population, and it’s what “justifies” the militarization of the child soldier.</span>**
+**<span class="cite">Card 85</span>** <span style="font-size: 10pt;">(Orson Scott Card, author, __Ender’s Game,__ Prof. of Literature @ SVU, 1985) JM</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">"War games. All the boys are organized into armies. ... </span>Of course, with your mind, and as a Third to boot, you wouldn't have a particularly normal childhood anyway."
+
+**The boys become tools of xenocide – Ender is officially absolved of responsibility for his murders, but history records him as the sole cause. This vicious cycle allows for the creation of the perfect state wherein the government is allowed to commit infinite atrocities without blame, and the only sacrifice is the tortured minds of young, gifted children that have been the tools of war.**
+**Kessel 04**<span style="font-size: 10pt;">(John Kessel, Sci-Fi Author With A Ph.D. In English, “Creating The Innocent Killer: Ender’s Game,Intention, And Morality”, //Foundation, The International Review Of Science Fiction//, Vol. 33, Number 90, Spring 2004, [[http://www4.ncsu.edu/~tenshi/Killer_000.htm|Http://Www4.Ncsu.Edu/~Tenshi/Killer_000.Htm]] ) JM</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">**But Wait. Despite His Heroic Reception In The Immediate Aftermath Of The Bugger War, And His Exoneration By The Courts, ...** </span>His Rage And Alienation Are Deeply Suppressed.
+
+<span style="font-family: 'Times New Roman'; font-size: 12pt;">**Thus, the plan:** </span><span style="font-family: 'Times New Roman'; font-size: 14pt;">**The United States federal government should call off the Third Invasion and withdraw from the International Fleet.**</span>
+
+**Act Three: The Fiction of the Real**
+
+**Embracing narrative applications of science fiction that go beyond storytelling allows us to systematically engage in cultural change. Its powerful accounts of future societies radically different from our own provide a lens to look into the human dimension.**
+**Miller and Bennett 08** <span style="font-size: 9pt;">(Clark A Miller is the Associate Director of the Consortium for Science, Policy and Outcomes, Associate Director and CoPI of the Center for Nanotechnology in Society, and Chair of the PhD Program in Human and Social Dimensions of Science and Technology at ASU. Ira Bennett has a PhD in biochemistry from ASU and today is an Assistant Research Professor in the Consortium for Science, Policy and Outcomes and the Center for Nanotechnology in Society at ASU and is fascinated with the way people view the future. “Thinking longer term about technology: </span>
+<span style="font-size: 9pt;">is there value in science fiction-inspired approaches to constructing futures?”, Science and Public Policy, 35(8), October 2008, pages 597–606, http://www.cspo.org/documents/article_MillerBennett2008.pdf)</span>
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">Our suggestion in this paper is that </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">strategies inspired by science fiction</span><span style="font-family: 'Times New Roman'; font-size: 8pt;"> — albeit </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">with the narrative left in!... </span><span style="font-size: 10pt;">science fiction has the potential to be not just storytelling but an inquiry into the human dimensions of technological futures.</span>
+
+
+**Our methodology is to reject the securitized perception of outer space in favor of a science fictional narrative approach. Deconstructing the hyper-real fictions of the media-militarist society requires us to tell stories that are impossibly false – aligning ourselves with the apparent falsehoods of fiction discredits the truer-than-true media securitizations of our sci-fi reality**
+**Bogard 04** <span style="font-size: 10pt;">(Bill Bogard, “Hyperfacticity and Fatal Strategies,” Science Fiction Studies, Vol. 30, No. 2)</span>
+A social science fiction is not some Utopia or dystopia... <span style="font-family: 'Times New Roman'; font-size: 10pt;">present to a world already at the extremity, at the limits of ugliness and perversity and terror, an irresistible image of its own desire</span>
+
+**The power of science fiction resides in its narrative approach to a speculative future. Although this action may be shrugged off as mere fantasy, the potential societies that authors imagine promulgate a societo-centric, nonlinear view of reality that allows us to envision the best possible future, analyzing where we are headed and identify with and provide solutions to the world’s upcoming problems.**
+**Miller and Bennett ‘08** <span style="font-size: 9pt;">(Clark A Miller is the Associate Director of the Consortium for Science, Policy and Outcomes, Associate Director and CoPI of the Center for Nanotechnology in Society, and Chair of the PhD Program in Human and Social Dimensions of Science and Technology at ASU. Ira Bennett has a PhD in biochemistry from ASU and today is an Assistant Research Professor in the Consortium for Science, Policy and Outcomes and the Center for Nanotechnology in Society at ASU and is fascinated with the way people view the future. “Thinking longer term about technology: </span>
+<span style="font-size: 9pt;">is there value in science fiction-inspired approaches to constructing futures?”, Science and Public Policy, 35(8), October 2008, pages 597–606, http://www.cspo.org/documents/article_MillerBennett2008.pdf)</span>
+<span style="font-family: 'Times New Roman'; font-size: 10pt;">The potential power of science fiction</span><span style="font-family: 'Times New Roman'; font-size: 8pt;"> (and, arguably, fiction more generally) </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">to shape the public imaginationof science and technology ... </span><span style="font-size: 10pt;">there is very real potential for science fiction, if deployed with these goals in mind, to help provide the foundations for an alternative approach to enhancing reflexive engagement with the futures of technological societies.</span>
+
+===Harker 2AC=== 
+====FW:==== 
+
+**<span class="cite">For his last war in the battleroom simulation, Ender is placed in a seemingly hopeless situation, but he is able to overcome it by winning without attacking. His strategies take everyone by surprise but are effective. He resists the power structures – he changes the game.</span>**
+**<span class="cite">Card 85</span>** <span style="font-size: 10pt;">(Orson Scott Card, author, __Ender’s Game,__ Prof. of Literature @ SVU, 1985) JM</span>
+<span style="font-family: Georgia; font-size: 8pt;">But </span><span style="font-family: Georgia; font-size: 10pt;">there was something wrong</span><span style="font-family: Georgia; font-size: 8pt;">. William Bee thought for a moment and realized what it was. ... </span><span style="font-size: 8pt;">"How stupid do you think I am?" said Ender.</span>
+
+
+**The debate community is only what we make it – your ballot represents the means to start a subtle mechanism of change in its structure and constructed norms. As members of the community, denying this agency for change sacrifices the only real means for change we have.**
+**<span class="cite">Bjork ‘93</span>** <span style="font-size: 9pt;">(former college debater and former associate professor at the University of Utah, where she taught graduate and undergraduate courses in Communication and Women in Debate, Reflections on the Ongoing Struggle, Debater's Research Guide 1992-1993: Wake Forest University.Symposium, web.archive.org/web/20011012220529/members.aol.com/womynindebate/article3.htm)</span>
+
+<span style="font-family: 'Times New Roman'; font-size: 8pt;">**I am a person who looks forward to the opportunities for active engagement of ideas with debaters and coaches from around the country. ...** </span><span style="font-family: 'Times New Roman'; font-size: 10pt;">We may not be able to change the world, but we can change our own community, and if we fail to do so, we give up the only real power that we have.</span>
+
+
+<span class="Underline">**Fiat is merely an act of imagination. Any act of imagination automatically includes science fiction elements—the only difference between our plan and more traditional ones is that we acknowledge the role of fiction. We just imagine fiat differently.**</span>
+
+**Freedman 2K**<span style="font-size: 7pt;"> (Associate Professor of English at Louisiana State University (Carl, “Critical Theory and Science Fiction” Wesleyan University Press, University Press of London, 20-22) </span>
+
+<span style="font-family: Georgia; font-size: 8pt;">It is a priori likely that </span><span style="font-family: Georgia; font-size: 11pt;">most texts display the activity of numerous different genres, and that few or no texts can be adequately described in terms of one genre alone</span><span style="font-family: Georgia; font-size: 8pt;">. ... </span>And it is with this dialectical understanding of genre that we may not reconsider the apparently difficult cases of Brecht, on the one hand, and Star Wars on the other.
+
+
+
+
+
+=NEG=

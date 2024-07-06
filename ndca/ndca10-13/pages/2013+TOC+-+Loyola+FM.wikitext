@@ -1,0 +1,30 @@
+[[toc]]
+=Round 1 - Aff v. New Trier WW= 
+Aff - CCS (no new evidence, see Berkeley Octos 1AC)
+Judge: Shackleford
+
+=Round 2 - Neg v. Straford JS= 
+Aff - Port Dredging
+Judge: Vinson
+1NC - T - maintenance, CIR Politics, P3 Unit CP, Biopower
+Block - Biopower, P3 Unit CP
+2NR - Biopower
+
+=Round 3 - Aff v. Greenhill PS= 
+Aff - CCS, same as round 1
+Judge: Voss
+
+=Round 4 - Neg v. Rowland Hall St. Marks AS= 
+Aff - Homelessness
+Judge: Kersch
+1NC - Framework, Anthropocentrism K, Rights Malthus
+Block - everything
+2NR - Anthro
+
+=Round 5= 
+
+=Round 6= 
+
+=Round 7= 
+
+[[include page="space.template.Footer"]]

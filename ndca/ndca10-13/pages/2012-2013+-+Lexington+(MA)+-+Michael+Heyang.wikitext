@@ -1,0 +1,272 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+==Negative== 
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+
+I value morality.
+**The origin of government is based on individuals coming together to centralize power under a sovereign to provide protections to its citizens. Governments are thus obligated to the public good so it derives its authority from fulfilling its obligations. WEST**
+Robin West. "Rights, Capabilities, and the Good Society." Fordham Law Review Vol. 69 Issue 5.
+<span style="font-size: 16px;">Second, <span style="font-size: 16px;">a recognition that rights ... the "first duty of government</span>.”</span>
+
+All individuals construct the state, or government, for certain protections, in return ceding rights such as the right to kill or steal. Thus the government can have obligations since they are a constitutive facet of its existence.
+Thus citizens consent to government actions like laws and jail //since// it protects them. Consent controls the internal link to any ethical theory since individuals would simply choose not to follow a theory they did not consent to. These obligations are to protect each of its citizens equally. This also contextualizes what counts as a moral harm under the AC ethic – the government has an obligation to protect its citizenry from crimes and harms against them.
+Responses against util are insufficient to take out the framework since they isolate deficiencies but they are just mitigation on the probability its true, if I’m winning any reason why in the context of government it must act based on consequences then you look to the aff framework. **Thus the standard is maximizing expected well being**.
+
+Contention 1: Rehabilitation is key to minimizing further violations.
+
+A is the inherency, the current system of retribution is not working.
+
+**Langan and Levin**
+**1994 BJS report on recidivism**
+
+<span class="DebateUnderline">Within 3 years from their release in 1994 </span>
+<span class="DebateUnderline">67.5% of the prisoners were rearrested for a new offense (almost exclusively a felony or a serious misdemeanor)</span>
+<span class="DebateUnderline">46.9% were reconvicted for a new crime</span>
+<span class="DebateUnderline">25.4% were resentenced to prison for a new crime</span>
+<span class="DebateUnderline">51.8% were back in prison, serving time for a new prison sentence or for a technical violation of their release, like failing a drug test, missing an appointment with their parole officer, or being arrested</span>
+<span class="DebateUnderline">for a new crime.</span>
+
+Retribution is not an effective mean of maintaining the law, since over 50% of the released are arrested within 3 years..
+
+But, rehabilitative systems have been proven to work
+
+B: Rehab reduces recidivism
+
+The Key/Crest Program has empirically proven that.
+
+**Murray 1**
+Making Rehabilitation Work American Experience of Rehabilitating Prisoners, By Iain Murray, Director of Research, Statistical Assessment Service, Washington DC, Visiting Fellow, Civitas
+<span style="font-size: 16px;"><span style="font-size: 16px;">An excellent example of how </span>... encounter weekend" of group therapy.”</span>
+
+<span style="font-family: Times;">Results from these programs show drastically reduced recidivism rates.</span>
+**Murray 2**
+Making Rehabilitation Work American Experience of Rehabilitating Prisoners, By Iain Murray, Director of Research, Statistical Assessment Service, Washington DC, Visiting Fellow, Civitas
+<span style="font-size: 16px;">Follow-up interviews</span> 18 months <span style="font-size: 16px;">after ... a remarkably low 24 percent</span>.
+
+<span style="font-family: Times;">Rehab is able to limit recidivism because unlike retribution, rehab help individual offenders’ needs, while also remaining cost-effective</span>
+**Murray 3**
+Making Rehabilitation Work American Experience of Rehabilitating Prisoners, By Iain Murray, Director of Research, Statistical Assessment Service, Washington DC, Visiting Fellow, Civitas
+This program clearly exhibits all ... might befall these former offenders.
+Murray continues:
+Figures for the costs of ...<span class="Cards">benefit to society was $9,177</span>.
+
+
+And, decreased recidivism links directly into well-being.
+
+**Wilson**
+<span style="font-size: 10.6667px;">Wilson, Jane [Stanford's Strauss Scholar, developing educational programs for inmates in cities across the US.] //Reducing Juvenile Recidivism in the United States//, Roosevelt Review, 2007. </span><span style="color: #000000; font-size: 10.6667px;">http://www.scribd.com/doc/19695235/Juvenile-Recidivism</span>
+The effects of recidivism in ... of criminality cannot be understated
+
+<span style="font-family: Times;">Additional warrants for utilitarianism.</span>
+
+**<span style="font-family: Times;">First, respect for the equality of persons mandates consequentialism.</span>**
+**CUMMISKEY**
+[Cummiskey, David. Kantian Consequentialism. Published by Oxford University Press. 1996. (p.142).]
+<span style="font-size: 16px;">If I sacrifice some for ... </span>may <span style="font-size: 16px;">sacrifice some to save many</span>**.**
+
+<span class="LDCut">**<span style="font-size: 8px;">Second</span>**</span><span style="font-size: 8px;">, deontological side constraints assume a distinction between acting and choosing not act. Otherwise, those side constraints could apply to mutually exhaustive options and would not tell us which action is moral. This distinction is flawed because</span>
+<span style="font-family: Times;">A. The choice of inaction is an act in itself. When we will a particular end with our inaction, we are causally responsible for the resulting harms even if we were not the primary causal factor.</span>
+<span style="font-family: Times;">B. A natural state of affairs does not exist. The world is constantly changing, so events can be described only in relation to each other. We cannot say that an act disrupts the universal baseline of being while an omission lets nature take its course, because there is no such thing as nature’s course. </span><span class="documentbody" style="font-family: Times;">It is just as accurate to say that your head collided with my fist as it is to say that my fist hit your head. So, failing to do good is morally equivalent to causing the harm that results from their state.</span>
+<span style="font-family: Times;">C. Negative rights require positive obligations to establish the institutions and infrastructure to protect them in the first place. Thus the existence of negative rights requires the existence of positive obligations as well. </span>
+
+
+
+<span style="font-family: Times;"> **Third**, absolute standards are logically incoherent since they produce insolvable conflicts between moral duties. For instance, if I assume a debt that I become unable to pay, I can either break my promise to pay the debt, or steal the money from someone else, both of which would violate moral rules, making action both required and forbidden, which is contradictory. Consequentialist standards let us hierarchically order any list of potential acts in terms of some desired outcome.</span>
+
+<span style="font-family: Times;"> **Fourth**, all moral systems collapse into an evaluation of end states, since end states are the only way to classify acts into moral categories. For instance, deontology claims that murder is always wrong, but what counts as murder versus justified killing is determined contextually by examining the outcomes of the act, most importantly whether it prevented death or serious injury to the killer.</span>
+
+**Fifth, there’s no relevant distinction between persons because we’re all reducible to states of affairs.**
+**PARFIT**
+[Reasons and Persons. Oxford University Press: 1984.]
+<span style="font-size: 6.66667px;">In this imagined case,</span> <span style="font-size: 16px;">[Suppose] each half of my brain ... different descriptions of the same outcome.</span>
+Since grouping experience by individuals thus makes no sense, all that’s left to be morally relevant is the aggregate of all sensations. This commits us to utilitarianism because each individual’s personal identity or self-interest does not matter. Three implications: A) Absent the negative providing a warrant that there framework is consistent with Parfit’s proof of personhood or a different biological conception of personhood, presume the AC framework is true because the conclusion is correct even if defensive responses deny possible warrants and B) Frameworks premised on a collective group are non-sensical because we can only aggregate sensations.
+
+**C) Lack of personal identity undermines theories of Desert.**
+**DRESSER**
+[Rebecca Dresser, J.D. Associate Professor, School of Law and Center for Biomedical Ethics, School of Medicine, Case Western Reserve University. “PERSONAL IDENTITY AND PUNISHMENT” __Boston University Law Review__]
+The provocative implications of Parfit's ...labels this the "Extreme Claim."
+==Negative== 
+The resolution places a positive burden of proving rehab over retribution on the aff. Since “ought” means obligation, the aff only wins if they prove an obligation. Permissibility is distinct from obligation, which means you presume neg if the aff only proves the resolution permissible.
+
+I value morality.
+
+Prefer my value, because:
+1. It is derived directly from the resolution through the definition of ought, and
+2. This is LD debate, which means morality is always at the heart of the discussion
+
+Punishment ought to respect just deserts.
+1. The reason morality exists in the first place is to regulate our actions towards others. If any moral code is not motivational then there is no reason to do what is right and that code merely fails to escape the skeptical conclusion. Agents can only be motivated their own desires; not the external desires of another because they can never represent what the agent independently wills. Desert is the ultimate motivator because we commit acts on the assumption we will be treated equally in return, if we are not then morality has no incentive to act according to good standards.
+**RACHELS 1**
+[Rachels, James, Philosopher in ethics, "Punishment and Desert," originally appeared in Ethics in Practice, edited by Hugh LaFollette (Oxford: Basil Blackwell, 1997), pp. 470-479.]
+To these reasons a third ...<span class="Cards"> whole system to be effective.</span>
+2. Desert restores the moral equilibrium disturbed by the criminal offence.
+<span style="text-align: justify;"><span class="Author-Date">MORRIS</span></span>
+<span style="font-family: Times;">[Herbert Morris, Professor of Philosophy and Professor of Law Emeritus at UCLA and nationally recognized philosopher of law, “The Monist” Volume 52, No. 4 Persons and Punishment, __Hegeler Institute__, JSTOR, </span><span style="color: #000000; font-family: Times; text-decoration: none;">[[http://www.jstor.org/stable/27902099]]</span><span style="font-family: Times;">, October, 1968]</span>
+<span style="font-size: 16px;">Third, <span style="font-size: 16px;">it is just to ...</span>what they do not deserve.</span>
+
+**Equality is a requirement of morality because is no a priori moral distinction between agents, so all agents must be treated equally.**
+
+Thus, the standard is respect for desert.
+
+Prefer the standard because:
+
+1 As Rachels explains, desert is necesary for morality to function. Thus, desert is required for any ethical theory to exist. And
+2 Desert respects moral agency. Desert respects moral agency by **A.** allowing individuals to determine their own fortunes. Through desert, individuals are protected from coercion because their actions determine how they are treated by others. **And B.** by treating offenders as responsible moral agents and expressing moral accountability. Agency controls the internal link to all ethical theories because actors cannot take actions that are good if they are not agents.
+
+**STARKWEATHER**
+[David A. Starkweather, J.D. Candidate at Indiana University School of Law, “The Retributive Theory of “Just Desserts” and Victim Participation in Plea Bargaining” __Indiana Law Journal__, 1992]
+<span style="font-size: 16px;">The concept of just deserts</span> ... <span class="Cards"> theor[y] of rehabilitation</span> and deterrence.
+
+Thus I contend that Retribution better respects just desert than rehab
+
+First, Rachels clarifies punishment.
+
+**RACHELS 2**
+[Rachels, James, Philosopher in ethics, "Punishment and Desert," originally appeared in Ethics in Practice, edited by Hugh LaFollette (Oxford: Basil Blackwell, 1997), pp. 470-479.]
+The argument for this is ... she should not be punished.
+
+Retribution clearly follows these guidelines.
+
+**RACHELS 3**
+[Rachels, James, Philosopher in ethics, "Punishment and Desert," originally appeared in Ethics in Practice, edited by Hugh LaFollette (Oxford: Basil Blackwell, 1997), pp. 470-479.]
+<span style="font-size: 16px;">Retributivism is the application of ... than Smith is a matter of justice.</span>
+He continues:
+<span style="font-size: 16px;">Retributivism incorporates all four principles</span> in ... gets one off the hook.
+
+But, rehab fails to meets proportionality and equal treatment
+
+**RACHELS 4**
+[Rachels, James, Philosopher in ethics, "Punishment and Desert," originally appeared in Ethics in Practice, edited by Hugh LaFollette (Oxford: Basil Blackwell, 1997), pp. 470-479.]
+<span style="font-size: 16px;">In</span>a system designed to <span style="font-size: 16px;">rehabilitat[ion]</span>e, ...<span style="font-size: 16px;"> whom the system is designed</span>.
+
+Desert focuses on the offense as its goal is to restore relationships broken by crime. Rehab is inconsistent because it is not interested in giving what is deserved because of the crime but rather curing the offender. And, similar crimes must receive similar sentences under desert but rehab has inconsistent sentences. And, the BARTON evidence indicates that rehab doesn’t account for structural or social factors so any claims that retribution does not are non-unique.
+
+=March-April= 
+==Affirmative== 
+R2P AC
+
+Justified is defined as “to show a satisfactory <span style="color: #000000; text-decoration: none;">[[http://dictionary.reference.com/browse/reason|reason]]</span> or excuse for something done”.
+[http://dictionary.reference.com/browse/justify]
+
+Per the definition, this also means that the aff does not need to defend implementation or any of its impacts. Additionally, this is supported by the inclusion of the word “attempt” in the resolution.
+I value appropriate government action
+
+This is the most contextual, since the resolution already specifies the US as the actor.
+The resolution only asks for justification. As long as I’m winning that such a reason exists, regardless of whether it’s moral or not, you affirm
+
+Thus, because I value government action, the value criterion is consistency with US government foreign affair obligations
+
+**Government obligations are the obligations of the individuals acting in a government role.**
+<span style="font-size: 18.6667px;">Wollstein </span>
+[Jarret B. Wollstein, writer and founder of International Society for Individual Liberty, “The Nature and Morality of Government”, Ludwig von Mises Institute, [[http://mises.org/daily/4078]], 1969]
+What determines <span style="font-size: 16px;">what is proper no different from the individual</span>.
+
+I contend that intentionality is the only morally relevant factor. Consequences do not matter.
+
+1) If I intend to donate to a charity to help people in another country, but that money ends up going to the foreign government and is used to go to war, I shouldn't be morally condemned for my good intentions in the first place, even if the consequences are bad.
+2) We can never predict all the consequences of our actions, so it’s impossible to tell whether an action was correct
+Thus the aff burden is prove that intervening has a justified intent.
+
+Contention 1
+The US is justified in intervening through the Responsibility to Protect.
+
+The UN clarifies what R2P entails
+
+<span style="font-size: 18.6667px;">UN</span>
+<span style="font-size: 18.6667px;">[Office of the Special Adviser on the Prevention of Genocide, “The Responsibility to Protect”, </span>[[http://www.un.org/en/preventgenocide/adviser/responsibility.shtml]]<span style="font-size: 18.6667px;">, 2012+]</span>
+**Prevention requires apportioning responsibility to ...** of <span style="font-size: 16px;">the Responsibility to Protect.</span>
+
+There are 3 pillars, or guidelines of R2P explain why it is the correct government action
+# The State carries the primary responsibility for protecting populations from genocide, war crimes, crimes against humanity and ethnic cleansing, and their incitement;
+# The international community has a responsibility to encourage and assist States in fulfilling this responsibility;
+# The international community has a responsibility to use appropriate diplomatic, humanitarian and other means to protect populations from these crimes. If a State is manifestly failing to protect its populations, the international community must be prepared to take collective action to protect populations, in accordance with the Charter of the United Nations.
+
+R2P is necessary, because it is the only way to resolve conflict sovereignty and human rights abuse
+
+<span style="font-size: 18.6667px;">ICISS 1</span>
+<span style="font-size: 13.3333px;">[International Commission on Intervention and State Sovereignty, “The Responsibility to Protect, ICISS, 2001]</span>
+<span style="font-size: 16px;"><span style="font-size: 16px;">The debate on</span> military <span style="font-size: 16px;">intervention ...</span> be termed ”the responsibility to protect.”</span>
+ICISS continues:
+The emerging principle in question ... by NATO allies in Kosovo.
+
+And, the U.S is obligated to protect, since it has already adopted the protocol
+<span style="font-size: 18.6667px;">CFR 3</span>
+<span style="font-size: 18.6667px;">[Council on Foreign Relations, “UN-Divided”, CFR, </span>[[http://www.cfr.org/un/un-divided/p9434#_edn1|http://www.cfr.org/un/un-divided/p9434#_edn1]]<span style="font-size: 18.6667px;">, Winter 2005/06]</span>
+<span style="font-size: 16px;">In 2004 <span style="font-size: 16px;">these idealist principles </span>... in the formal American position.</span>
+
+Thus, R2P justifies the AC because the responsibility to protect other citizens from abuse is sufficient to meet the burden.
+
+Additional reasons to look to R2P:
+
+1. There’s tons of legal backing for R2P
+<span style="font-size: 18.6667px;">ICISS 2</span>
+<span style="font-size: 13.3333px;">[International Commission on Intervention and State Sovereignty, “The Responsibility to Protect, ICISS, 2001]</span>
+<span style="font-size: 16px;">The</span> notion that there is ... of the question of authority.
+
+Even if I lose the rest of the AC, this is sufficient to affirm, since I’m proving a legal justified at the very least. This is sufficient per the definition of justify
+
+2. R2P ensures that interventions only occurs when absolutely needed. 3 ways:
+
+A. Intervention is a last resort
+<span style="font-size: 18.6667px;">ICISS 3</span>
+<span style="font-size: 13.3333px;">[International Commission on Intervention and State Sovereignty, “The Responsibility to Protect, ICISS, 2001]</span>
+<span style="font-size: 16px;">Every diplomatic and non-military avenue</span> ...<span class="Cards"> it would not have succeeded</span>
+
+B. Intervention is proportional
+<span style="font-size: 18.6667px;">ICISS 4</span>
+<span style="font-size: 13.3333px;">[International Commission on Intervention and State Sovereignty, “The Responsibility to Protect, ICISS, 2001]</span>
+<span style="font-size: 16px;"><span style="font-size: 16px;">The scale, duration and intensity ...</span> the principles involved are clear enough.</span>
+
+C. Intervention only occurs if success if feasible
+<span style="font-size: 18.6667px;">ICISS 5</span>
+<span style="font-size: 13.3333px;">[International Commission on Intervention and State Sovereignty, “The Responsibility to Protect, ICISS, 2001]</span>
+<span style="font-size: 16px;">Military <span style="font-size: 16px;">action can only be ...</span> action is no longer justified.</span>
+
+
+Contingent sovereignty means the AC doesn’t violate sovereignty
+
+First, the Westphalian notion of sovereignty is dated and being changed.
+
+<span style="font-size: 18.6667px;">CFR 1</span>
+<span style="font-size: 18.6667px;">[Council on Foreign Relations, “UN-Divided”, CFR, </span>[[http://www.cfr.org/un/un-divided/p9434#_edn1|http://www.cfr.org/un/un-divided/p9434#_edn1]]<span style="font-size: 18.6667px;">, Winter 2005/06]</span>
+<span style="font-size: 16px;"><span style="font-size: 16px;">The</span> traditional realist <span style="font-size: 16px;">approach of ...</span>is also under challenge.</span>
+
+Contingent sovereignty means that states can only make sovereign claims if they fulfill their responsibilities. There are two parts CFR explains:
+
+<span style="font-size: 18.6667px;">CFR 2</span>
+<span style="font-size: 18.6667px;">[Council on Foreign Relations, “UN-Divided”, CFR, </span>[[http://www.cfr.org/un/un-divided/p9434#_edn1|http://www.cfr.org/un/un-divided/p9434#_edn1]]<span style="font-size: 18.6667px;">, Winter 2005/06]</span>
+There are two components to contingent ...to the international responsibility to protect.
+CFR continues:
+<span style="font-family: 'Times New Roman'; font-size: 16px;">Linked to the notion of ... out the nuclear option for the </span>
+
+==Negative== 
+Sovereignty NC
+
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">I value morality. </span>**</span>
+
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">Morality requires us to value sovereignty, thus my value criterion is unequivocal respect for state sovereignty.</span>**</span>
+
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">All rights claims are based in the community because all human rights claims are grounded in social interaction. Humans are not capable of moral reasoning outside of the community.</span>**</span>
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">Etzioni</span>**<span style="font-family: Times; font-size: 12px;"> (The Responsive Community: A Communitarian Perspective," Presidential Address, American Sociological Association, August 20, 1995. American Sociological Review, (February 1996), pp. 1-11.)</span></span>
+<span style="font-family: Times; font-size: 12px;">The libertarian perspective, put succinctly, ... responsiveness is enhanced or diminished.</span>
+
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">The moral process that the community allows reveals itself in state sovereignty.</span>**</span>
+<span style="text-align: justify;">**<span style="font-family: Times; font-size: 16px;">Roth </span>**<span style="font-family: Times; font-size: 12px;">[Associate Professor of Political Science and Law, Wayne State University. J.D., Harvard Law School, 1987; LL.M., Columbia Law School, 1992; Ph.D., University of California, Berkeley, 1996.] COMMENTARY: THE ENDURING SIGNIFICANCE OF STATE SOVEREIGNTY. Florida Law Review December, 2004. 56 Fla. L. Rev. 1017 Lexis</span></span>
+__<span style="font-family: Times; font-size: 16px;">Sovereignty takes on moral importance</span>__<span style="font-family: Times; font-size: 12px;">, ... underlie the collective right itself.</span>
+
+**<span style="font-family: Times; font-size: 16px;">Thus I contend that any intervention in another states internal affairs constitutes a violation of that nations sovereignty.</span>**
+**<span style="font-family: Times; font-size: 16px;">Adjei</span>**<span style="font-family: Times; font-size: 12px;">(The Legality of Humanitarian Intervention Eric Adjei University of Georgia School of Law)</span>
+<span style="font-family: Times; font-size: 12px;">Perhaps</span><span style="font-family: Times; font-size: 16px;">, __the__ </span><span style="font-family: Times; font-size: 12px;">singular</span><span style="font-family: Times; font-size: 16px;"> __most important ...__</span> __legal equality of all states__<span style="font-family: Times; font-size: 16px;">.</span>
+
+**<span style="font-family: Times; font-size: 16px;">Humanitarian intervention gives far too much of an incentive for the intervening nation to restructure the other’s political system in a way most beneficial to them, not for the other country.</span>**
+**<span style="font-family: Times; font-size: 16px;">Orford 2</span>**
+<span style="font-family: Times; font-size: 9.33333px;">(Anne Orford, Professor @ University of Melbourne, 2003, Cambridge University Press, “Reading Humanitarian Intervention: Human Rights and the Use of Force in International Law”, http://bilder.buecher.de/zusatz/21/21785/21785632_lese_1.pdf)</span>
+<span style="font-family: Times; font-size: 12px;">Indeed</span>__<span style="font-family: Times; font-size: 16px;"> intervention in the name ...</span>____<span style="font-family: Times; font-size: 16px;"> and denials of human rights.</span>__
+[[include page="space.template.Footer"]]

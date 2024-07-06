@@ -1,0 +1,88 @@
+[[toc]]
+=Counterplans= 
+
+==CP Russia== 
+
+===1NC=== 
+
+**Russia’s space program is excellent—it’s comparable to the US**
+**HARVEY 2007**<span style="font-size: 7pt;"> (Brian, author of several books about space, The rebirth of the Russian space program: 50 years after Sputnik, new frontiers, p. 316)</span>
+<span style="font-size: 7pt;">Despite all that, the Russian ... mark out the intended future path of Russian space exploration.</span>
+
+==CP Near Space== 
+
+===1NC=== 
+
+<span class="Underline">**Text: The United States federal government should substantially decrease dependence on space assets in favor of near-space assets, starting with mission critical capabilities including but not limited to early warning satellites.**</span>
+
+<span class="Underline">**That solves vulnerability and prevents an arms race**</span>
+<span class="Underline">**Weston, Air Force Major, 9**</span><span style="font-size: 6pt;"> (Scott A., 3/1/2009, Air and Space Power Journal, “Examining Space Warfare,” [[http://www.airpower.maxwell.af.mil/airchronicles/apj/apj09/spr09/weston.html]], mat)</span>
+
+<span style="font-size: 6pt;">The main argument for US weaponization of space turns on... “space sanctuary” provides economic, political, and even security advantages.</span>
+
+===2NC Cards Octos Georgetown=== 
+
+**Note: We changed the tags on the fly during the round if some seem out of place**
+
+**Near-space can do GPS**
+**Tomme, 5** <span style="font-size: 6pt;">(Edward B., 1/2005, Airpower Research Institute, “The Paradigm Shift to Effects-Based Space,” [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]], mat)</span>
+
+
+<span style="font-size: 6pt;">Precision navigation and timing are … an aid to </span>__GPS navigation in a jamming environment__<span style="font-size: 6pt;">. 128</span>
+
+**Near-Space solves SSA**
+**Tomme, 5** <span style="font-size: 6pt;">(Edward B., 1/2005, Airpower Research Institute, “The Paradigm Shift to Effects-Based Space,” [[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]], mat)</span>
+
+<span style="font-size: 6pt;">It must be noted, …</span> __strategic space effects.__
+
+**<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;">The plan creates near-space balloon platforms beyond the mesosphere are untraceable and indestructible</span>**
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **<span style="font-family: Arial,sans-serif;">Tomme, 5</span>**</span><span style="color: black; font-family: Arial,sans-serif; font-size: 7pt;"> (USAF Lieutenant Colonel and Ph.D. in physics, Ed, <span style="background-color: initial;">[[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]]</span>, The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler”, ZBurdette)</span>
+
+
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **__<span style="font-family: Arial,sans-serif;">Near-space platforms are inherently survivable</span>__**__. They … …__**__<span style="font-family: Arial,sans-serif;">cannon shells into the balloon, which obstinately continued flying for another six days</span>__**__.__</span><span style="color: black; font-family: Arial,sans-serif; font-size: 7pt;">54</span>
+
+
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **<span style="font-family: Arial,sans-serif;">Plan solves all the reasons satellites are good—but funding is key</span>**</span>
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **<span style="font-family: Arial,sans-serif;">Tomme, 5</span>**</span><span style="color: black; font-family: Arial,sans-serif; font-size: 7pt;"> (US Airforce Lieutenant Colonel, Ed, <span style="background-color: initial;">[[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]]</span>, The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler”, ZBurdette)</span>
+
+
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> __Near-space does indeed seem to be the “obvious, correct … the__**__<span style="font-family: Arial,sans-serif;">catalyst for</span>__**__these__**__<span style="font-family: Arial,sans-serif;">significant changes</span>__**__.__**__<span style="font-family: Arial,sans-serif;">The</span>__****__<span style="font-family: Arial,sans-serif;">paradigm shift must occur.</span>__**</span><span style="color: black; font-family: Arial,sans-serif; font-size: 7pt;">The time for near-space is definitely now.</span>
+
+
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **<span style="font-family: Arial,sans-serif;">Plan creates an effective deterrent against nuclear space attacks</span>**</span>
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> **<span style="font-family: Arial,sans-serif;">Tomme, 5</span>**</span><span style="color: black; font-family: Arial,sans-serif; font-size: 7pt;"> (US Airforce Lieutenant Colonel, Ed, <span style="background-color: initial;">[[http://www.au.af.mil/au/awc/awcgate/cadre/ari_2005-01.pdf]]</span>, The Paradigm Shift to Effects-Based Space: Near-Space as a Combat Space Effects Enabler”, ZBurdette)</span>
+
+
+
+<span style="color: black; font-family: Arial,sans-serif; font-size: 10pt;"> __Near-space can also be a deterrent to opponents’ counter…__**__<span style="font-family: Arial,sans-serif;">the costs so high.</span>__**</span>
+
+==CP NSP== 
+
+===1NC=== 
+
+**Text: The Office of the President of the United States should publicly issue a major revision to the National Space Policy by declaring that ___ is necessary to achieve United States goals in space**
+
+**The counterplan results in the plan, but begins with presidential action** 
+**Keuter, 10** [President Marshall Institute, “Evaluating the Obama National Space Policy: Continuity and New Priorities”, http://www.marshall.org/pdf/materials/900.pdf]
+<span style="font-size: 8pt;">Nearly </span>__every president since ...__<span style="font-size: 8pt;">guidelines are implemented is the challenge ahead.</span>
+
+**And, the counterplan reinvigorates presidential leadership on space – it alters United States strategy, cements the US as the leader in space and ensures a steady foundation for the aerospace industry** 
+**Spudis, 5/24/11** [**“**Presidential Pronouncements on Space: Some 50th Anniversary Thoughts” Paul, D . Senior Staff Scientist at the Lunar and Planetary Institute in Houston, Texas. He was Deputy Leader of the Science Team for the Department of Defense Clementine mission to the Moon in 1994 http://blogs.airspacemag.com/moon/] 
+<span style="font-size: 8pt;">Tomorrow is the 50th anniversary of __...__</span> through the production and use of the material and energy resources of the Moon<span style="font-size: 8pt;">. </span>
+
+**And it’s key to __sustainable__ human exploration in space** 
+**Sebathier et al. 09** (a senior associate with the CSIS Technology and Public Policy Program. From 2004 to 2009, he was senior fellow and director for space initiatives at CSIS. He is also senior adviser to the SAFRAN group and consults internationally on aerospace and telecommunications. Mr. Sabathier has written more than 50 articles and reports and lectured at a variety of conferences and symposiums. He has also taught space transportation systems at the University Paul Sabatier in Toulouse. He received his degree from École Centrale de Nantes in France and performed research work at the Colorado School of Mines with a grant from Martin Marietta Astronautics. (Vincent G, November 9th, Center for Strategic and International Studies, “Commentary on the Augustine Committee Report on the Future of Human Space Exploration,” http://csis.org/files/publication/091109_Sabathier_AugustineCommittee_0.pdf)
+<span style="font-size: 8pt;">After many months of speculation, numerous ...economic, and technological realities of the twenty-first century. </span>
+
+**Extinction** 
+**Bostrum, 02** – Department of Philosophy, Yale University, Director of the Future of Humanity Institute at Oxford University [Nick, “Astronomical Waste: The Opportunity Cost of Delayed Technological Development,” Preprint, Utilitas Vol. 15, No. 3, pp. 308-314, http://www.nickbostrom.com/astronomical/waste.html]
+__Suns are illuminating and heating empty ...__ __about 10^31 potential human lives per second.__
+
+[[include page="space.template.Footer"]]

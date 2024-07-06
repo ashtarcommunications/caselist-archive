@@ -1,0 +1,15 @@
+[[toc]]
+=Affirmative= 
+
+**__Capitol Classic__**
+
+
+=Negative= 
+
+**__Capitol Classic__**
+
+1. ASPEC
+2. PSPEC
+3. Reps K
+4. Cap K
+[[include page="space.template.Footer"]]

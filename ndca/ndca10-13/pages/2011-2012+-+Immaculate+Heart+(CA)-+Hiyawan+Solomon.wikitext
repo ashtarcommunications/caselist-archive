@@ -1,0 +1,25 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+
+
+==Negative== 
+<span style="font-family: 'Times New Roman';">
+</span>
+
+=[[#November-December]]= 
+=November-December= 
+==Affirmative== 
+
+==Negative== 
+Round 2:
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

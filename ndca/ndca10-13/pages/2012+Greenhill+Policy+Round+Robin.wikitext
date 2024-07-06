@@ -1,0 +1,3 @@
+This is a list of only those teams that are competing at the Greenhill Round Robin. It was automatically generated using tags and is not an official list.
+
+[[include component="pageList" hideInternal="true" tag="2012 greenhill policy round robin" limit="1000" ]]

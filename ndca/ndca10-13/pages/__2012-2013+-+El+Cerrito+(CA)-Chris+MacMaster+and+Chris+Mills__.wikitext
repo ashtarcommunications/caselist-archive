@@ -1,0 +1,38 @@
+=Affirmative= 
+==1AC== 
+===Stanford=== 
+====Inherency==== 
+====Arctic==== 
+====Science==== 
+====Solvency==== 
+==2AC== 
+=Negative= 
+==Kritiks== 
+===Nietzsche=== 
+====1NC==== 
+====2NC Overview==== 
+====2NC Perm==== 
+====2NC Framework==== 
+===Apocalyptic Rhetoric=== 
+====1NC==== 
+====2NC Framework==== 
+====2NC AT: Threats Real==== 
+===Anthropocentrism=== 
+====1NC==== 
+====2NC Perm==== 
+====2NC Framework==== 
+==Case== 
+===Dedev=== 
+====1NC==== 
+===Baudrillard=== 
+====Illusion of War==== 
+====Nuclear Hyperreality==== 
+====Biosphere 2==== 
+===Terror Talks=== 
+====1NC==== 
+
+=Affirmative= 
+
+=Negative= 
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,25 @@
+[[toc]]
+=September-October= 
+
+
+
+
+
+
+
+<span style="color: black; display: block; font-family: 'Times New Roman','serif'; font-size: 10pt; line-height: 115%;">
+
+</span>
+November-December
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

@@ -1,0 +1,540 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="search" href="http://file.wikispaces.com/space/opensearch" type="application/opensearchdescription+xml" title="Wikispaces Search (file Wiki)" />
+<meta name="robots" content="noindex" />
+<script type="text/javascript">
+  
+if (typeof ws === 'undefined') ws = {};
+ws.context = {
+  instance: {
+    id: '1',
+    url: 'wikispaces.com',
+    isMain: true,
+    supportsGoogleDocs: false,
+    isTesClassroom: false,
+  },
+  user: {
+    id: '',
+    username: '',
+    status: '',
+    locale: 'en',
+    imageUrlPrefix: 'http://c1.wikicdn.com/i/user_none_',
+    isTeacher: false,
+    canAdministerWiki: false,
+  },
+  wiki: {
+    id: '52199',
+    name: 'file',
+    text: 'file',
+    module: 'B',
+    isClassroom: false,
+    isTesClassroom: false
+    ,defaultSpaceId: 52199
+    ,isWwwWiki: false
+  },
+  project: {
+    id: '52199',
+    name: ''
+  },
+  space: {
+    id: '52199',
+    name: 'file',
+    isDefaultSpace: true,
+    isDefaultTemplate: false
+  },
+
+  environment_name: 'prod',
+
+  path: {
+    object: 'file',
+    method: 'view',
+    page: 'clip_image002.gif',
+    id: ''
+  },
+
+  settings: {
+    main_domain: 'wikispaces.com',
+    session_url: 'https://session.wikispaces.com/1/',
+    asset_url_prefix: 'http://c1.wikicdn.com',
+    beta_features: false,
+    isMobileSite: false,
+    isUploadCapable: true,
+    can_discuss: false,
+    has_gdocs: false,
+    isDialog: false,
+    pwin: ''
+  },
+  clockSkewMillis: 1527189535487 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+}
+
+
+// legacy javascript API variables, use the above instead
+var wikispaces_isUserLoggedIn = !!ws.context.user.id;
+var wikispaces_isMain = ws.context.instance.isMain;
+var wikispaces_username = ws.context.user.username;
+var wikispaces_spaceName = ws.context.space.name;
+var wikispaces_projectName = ws.context.project.name;
+var wikispaces_wikiName = ws.context.wiki.name;
+var wikispaces_wikiText = ws.context.wiki.text;
+var wikispaces_isDefaultSpace = ws.context.space.isDefaultSpace;
+var wikispaces_method = ws.context.path.method;
+var wikispaces_object = ws.context.path.object;
+var wikispaces_page = ws.context.path.page;
+var wikispaces_id = ws.context.path.id;
+var wikispaces_domain = ws.context.instance.url;
+var wikispaces_isUserOrganizer = false;
+var wikispaces_main_domain = ws.context.settings.asset_url_prefix;
+var wikispaces_asset_url_prefix = ws.context.settings.asset_url_prefix;
+var wikispaces_beta_features = ws.context.settings.beta_features;
+var wikispaces_isMobileSite = ws.context.settings.isMobileSite;
+var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
+var wikispaces_can_discuss = ws.context.settings.can_discuss;
+var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
+
+</script><title>Wikispaces - Page Not Found</title>
+<meta charset="utf-8" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://c1.wikicdn.com/_/z6371z4x/i/logo-144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://c1.wikicdn.com/_/j5j77xz3/i/logo-114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://c1.wikicdn.com/_/vq8j5432/i/logo-72.png" />
+<link rel="apple-touch-icon" href="http://c1.wikicdn.com/_/38515190/i/logo-57.png" />
+<link rel="shortcut icon" href="http://c1.wikicdn.com/_/55v9k02z/i/logo-16.png" />
+<style type="text/css">
+/* Standard theme styles */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+.ws-theme-header-inner,
+.ws-theme-body-inner,
+.ws-theme-footer-inner,
+.ws-theme-content-inner,
+.ws-theme-sidebar-inner {
+  position: relative;
+}
+.ws-theme-header-inner:after,
+.ws-theme-body-inner:after,
+.ws-theme-footer-inner:after,
+.ws-theme-content-inner:after,
+.ws-theme-sidebar-inner:after,
+.ws-theme-menu-inner:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: auto;
+}
+.ws-theme-footer {
+  text-align: right;
+}
+.ws-theme-footer a, .ws-theme-footer a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ws-theme-content {
+    width: 550px;
+    min-height: 384px;
+    float: right;
+  }
+  .ws-theme-sidebar {
+    width: 200px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .ws-theme-container {
+    width: 970px;
+  }
+  .ws-theme-content {
+    width: 770px;
+    min-height: 496px;
+  }
+}
+@media (min-width: 1200px) {
+  .ws-theme-container {
+    width: 1170px;
+  }
+  .ws-theme-content {
+    width: 970px;
+    min-height: 600px;
+  }
+}
+/* End standard theme styles */
+</style>
+<style type="text/css">
+/* Theme-specific styles */
+body {
+  background-color: #E7E7E7;
+}
+
+.ws-theme-header .WikiSearch .WikiSearchInput,
+.ws-theme-sidebar .WikiSearch .WikiSearchInput,
+.ws-theme-footer .WikiSearch .WikiSearchInput {
+  width: 100%;
+}
+
+.ws-theme-header,
+.ws-theme-sidebar,
+.ws-theme-footer {
+  color: #000000;
+}
+.ws-theme-header img,
+.ws-theme-sidebar img,
+.ws-theme-footer img {
+  padding: 0;
+  vertical-align: top;
+  border: 0;
+}
+.ws-theme-header a,
+.ws-theme-sidebar a,
+.ws-theme-footer a {
+  color: #0000FF;
+  text-decoration: none
+}
+.ws-theme-header a:hover,
+.ws-theme-sidebar a:hover,
+.ws-theme-footer a:hover {
+  text-decoration: underline;
+}
+
+.ws-theme-header,
+.ws-theme-sidebar {
+  display: none;
+}
+
+.ws-theme-body-inner {
+  padding: 3px;
+}
+
+.ws-theme-content {
+  overflow-x: visible;
+}
+.ws-theme-content-inner {
+  background-color: #FFF;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #CCC;
+}
+
+.ws-theme-footer {
+  margin: 15px 8px;
+  font-size: 12px;
+}
+
+.ws-theme-footer .WikiLicense img {
+  vertical-align: text-bottom;
+}
+
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: auto;
+  }
+
+  .ws-theme-header,
+  .ws-theme-sidebar {
+    display: block;
+  }
+
+  .ws-theme-header {
+    margin: 8px 0;
+  }
+
+  .ws-theme-body-inner {
+    padding: 0 10px;
+  }
+
+  .ws-theme-content {
+    width: auto;
+    float: none;
+    margin-left: 200px;
+  }
+  .ws-theme-content-inner {
+    width: 100%;
+    border: none;
+    float: left;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.625);
+  }
+
+  .ws-theme-sidebar {
+    padding: 15px 10px 0 0;
+  }
+  .ws-theme-sidebar ul.WikiActions,
+  .ws-theme-sidebar .WikispacesNavbar .WikispacesNavbarEntryItems ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .ws-theme-sidebar ul.WikiActions > li {
+    padding: 2px;
+  }
+  .ws-theme-nav-edit {
+    color: #666;
+    text-align: center;
+  }
+}
+</style>
+<link rel="stylesheet" href="http://c1.wikicdn.com/s/nogz/9jvvjv40-internal-bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="http://c1.wikicdn.com/s/nogz/vz033906-internal.css" type="text/css" />
+<script src="http://c1.wikicdn.com/s/nogz/4x2z27x7-top.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+  var wsGoogleAccount = 'UA-80504-1';
+  _gaq.push(['_setAccount', wsGoogleAccount]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'wikispaces.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+  _gaq.push(['_trackPageview']);
+</script></head>
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder" class="fixed"><div class="WikispacesContent WikispacesBs3" role="banner">
+      
+    <div class="ws-main-top-nav visible-xs">
+    <div class="navbar navbar-static-top" style="margin-bottom: 0;">
+      <div class="container">
+                <div class="navbar-header">
+          <div class="visible-xs pull-left">
+            <a href="/space/menu" class="WikispacesDialogLink btn navbar-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+          <div class="visible-xs pull-right js-globalnav-popover-container">
+                        <a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Ffile.wikispaces.com%2Ffile%2Fview%2Fclip_image002.gif" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+              guest
+            </a>
+                        <div class="hidden js-globalnav-popover-content">
+              <div class="WikispacesContent WikispacesBs3">
+                <div class="WikiInternalHeaderNav noHide">
+  <div class="WikiInternalHeaderNavMenu">
+                          
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/user/join?goto=http%3A%2F%2Ffile.wikispaces.com%2Fspace%2Fjoin" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Ffile.wikispaces.com%2Ffile%2Fview%2Fclip_image002.gif" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div>              </div>
+            </div>
+          </div>
+          <div class="ws-navbar-middle-xs">
+            <div class="navbar-brand" role="navigation">
+              <a href="http://www.wikispaces.com/" class="ws-logo"></a>
+              <i class="fa fa-angle-right"></i>
+              <a href="http://file.wikispaces.com/">file</a>
+                              <i class="fa fa-angle-right"></i> <a href="http://file.wikispaces.com/home">Home</a>
+              
+            </div>
+          </div>
+                    <form action="/search/view" method="post" class="navbar-form ws-include-xs pull-left ws-navbar-search hidden-xs" role="search"><input type="text" class="form-control search-query" name="q" value="" placeholder="Search" /> </form>
+                  </div>
+      </div>
+    </div>
+  </div>
+      <div class="hidden-xs"><div class="WikiInternalHeaderNav WikiElement floating">
+  <div class="WikiInternalHeaderNavMenu">
+                                    <span class="WikiInternalHeaderNavMenuArea guestUserName">guest</span><span class="slideMarker divider">|</span>
+        
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/user/join?goto=http%3A%2F%2Ffile.wikispaces.com%2Fspace%2Fjoin" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Ffile.wikispaces.com%2Ffile%2Fview%2Fclip_image002.gif" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div></div>
+  </div></div><div id="js-fixed-header-offset">
+<header class="ws-theme-header" role="banner">
+  <div class="ws-theme-container">
+    <div class="ws-theme-header-inner">
+      
+<table class="WikiLogoTable WikiElement">
+<tr>
+  <td>
+    <a href="http://file.wikispaces.com/"><img src="http://c1.wikicdn.com/i/logo-shadow-40.png" alt="" width="40" height="40" /></a>
+  </td>
+  <td class="WikiLogoName">
+    <a href="http://file.wikispaces.com/">file</a>
+  </td>
+</tr>
+</table>    </div>
+  </div>
+</header>
+
+<div class="ws-theme-body">
+  <div class="ws-theme-container">
+    <div class="ws-theme-body-inner">
+      <nav class="ws-theme-sidebar" role="navigation">
+        <div class="ws-theme-sidebar-inner">
+                    <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <ul class="WikiActions WikiElement WikiControls">
+    <li id="WikiActionHome"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="http://file.wikispaces.com/"><i class="fa fa-home fa-fw"></i></a><a href="http://file.wikispaces.com/">Wiki Home</a></div></li>
+    <li id="WikiActionChanges"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/wiki/changes"><i class="fa fa-clock-o fa-fw"></i></a><a href="/wiki/changes">Recent Changes</a></div></li>
+    <li id="WikiActionPagesAndFiles"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/space/content"><i class="fa fa-file-text-o fa-fw"></i></a><a href="/space/content">Pages and Files</a></div></li>
+    <li id="WikiActionMembers"><div class="js-member-link"><span class="WikiActionSupplemental" style="float: right;"></span><a href="/wiki/members"><i class="fa fa-user fa-fw"></i></a><a href="/wiki/members">Members</a></div></li>
+</ul>
+              <form action="/search/view" method="post" class="WikiSearch WikiElement" role="search"><input type="text" class="form-control WikiSearchInput" name="q" value="" placeholder="Search" /> </form>              <div class="WikiCustomNav WikiElement wiki"><!-- ws:start:WikiTextIncludeRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/include/navigation?w=200&amp;h=100&quot; class=&quot;WikiMedia WikiMediaInclude&quot; id=&quot;wikitext@@include@@component=&amp;quot;navigation&amp;quot;&quot; title=&quot;Include navigation: component=&amp;quot;navigation&amp;quot;&quot; /&gt; --><div class="WikispacesNavbar" data-spaceid="52199" data-navbarurl="/navbar">
+  <div id="WikispacesNavbarFavoritesEntry" data-entryid="80" class="WikispacesNavbarEntry">
+  <div class="WikispacesNavbarEntryHeader">
+        <span class="fa-fw"><i class="WikispacesNavbarToggle WikispacesNavbarPlus fa fa-caret-right"></i><i class="WikispacesNavbarToggle WikispacesNavbarMinus fa fa-caret-down"></i></span><span>Favorites&nbsp;<i class="fa fa-star"></i></span>
+  </div>
+  <div class="WikispacesNavbarEntryItems" id="WikispacesNavbarFavoritesEntryItems">
+    <span class="hidden WikispacesNavbarNum">20</span>
+<ol>
+</ol>
+  </div>
+</div>  <div id="WikispacesNavbarAllPagesEntry" data-entryid="82" class="WikispacesNavbarEntry WikispacesNavbarSortableEntry WikispacesNavbarRemovableEntry hidden">
+  <div class="WikispacesNavbarEntryHeader">
+        <i class="WikispacesNavbarSpinner fa fa-spinner fa-spin pull-right"></i><span class="WikispacesNavbarHeaderAction WikispacesNavbarRemoveEntry close"><i class="fa fa-times"></i></span><span class="fa-fw"><i class="WikispacesNavbarToggle WikispacesNavbarPlus fa fa-caret-right"></i><i class="WikispacesNavbarToggle WikispacesNavbarMinus fa fa-caret-down"></i></span><span>All Pages</span>
+  </div>
+  <div class="WikispacesNavbarEntryItems" id="WikispacesNavbarAllPagesEntryItems">
+    <span class="hidden WikispacesNavbarNum">20</span>
+<ol>
+</ol>
+  </div>
+</div>  <div id="WikispacesNavbarTags">
+    </div>
+  <div id="WikispacesNavbarOptions" class="WikispacesNavbarEntry WikispacesContent WikispacesBs3">
+    <div id="WikispacesNavbarOptionsEntryItems" class="WikispacesNavbarEntryItems">
+      <form class="WikispacesNavbarNewTagNavbarForm" action="/navbar/tag" method="post">
+        <div class="input-group">
+          <input type="text" name="tagName" placeholder="Tag" class="form-control" style="width: 135px;"/>
+          <div class="input-group-btn">
+            <button type="submit" name="submitTag" value="1" class="btn btn-default ws-btn-spinner"><span>Add</span></button>
+          </div>
+        </div>
+      </form>
+      <form class="WikispacesNavbarShowAllPagesForm text-center" action="/navbar/update/82" method="post">
+        <input type="hidden" name="status" value="A" />
+        <button type="submit" class="btn btn-default WikispacesNavbarShowAllPages ws-btn-spinner" name="go" value="1"><span>Add "All Pages"</span></button>
+        <button type="button" class="btn btn-primary WikispacesNavbarEditDone">Done</button>
+        <i class="fa fa-spinner fa-spin hidden"></i>
+      </form>
+    </div>
+  </div>
+</div><!-- ws:end:WikiTextIncludeRule:0 --></div>              <div class="ws-theme-nav-edit">
+                              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main class="ws-theme-content" role="main">
+        <div class="ws-theme-content-inner">
+          <div class="contentBox"><div class="innerContentBox" id="WikiContent">
+<div class="WikispacesContent WikispacesBs3">
+
+  <h1 class="nopad">Page Not Found</h1>
+
+  <p>We can't find the page you are looking for.  Usually this means you have clicked on a link that no longer goes anywhere; try searching for the information you're looking for in the search box.</p>
+
+</div>
+
+<div class="wiki WikiContentPage">If you need help, please <!-- ws:start:WikiTextVariableComponentRule:01:[[{$server}/site/help?returnToReferer=1|contact us]] --><a class="wiki_link_ext" href="http://www.wikispaces.com/site/help?returnToReferer=1" rel="nofollow">contact us</a><!-- ws:end:WikiTextVariableComponentRule:01 -->.<br />
+<br />
+Or you can visit our <!-- ws:start:WikiTextMediaRule:2:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/20426158?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;20426158&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; --><a href="http://help.wikispaces.com/" class="WikispacesHelpLink" data-help="home" rel="nofollow">help area</a><!-- ws:end:WikiTextMediaRule:2 --> for more information.</div>
+</div></div><div id="sentinel" style="clear:both"></div>        </div>
+      </main>
+    </div>
+  </div>
+</div>
+
+<footer class="ws-theme-footer" role="contentinfo">
+  <div class="ws-theme-container">
+    <div class="ws-theme-footer-inner">
+      <div class="WikiFooterNav WikiElement">
+<a href="http://helpcenter.wikispaces.com/" rel="nofollow" class="js-help-trigger">Help</a> &middot;
+<a href="http://www.wikispaces.com/about">About</a> &middot;
+<a href="http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a> &middot;
+<a href="http://www.wikispaces.com/privacy" rel="nofollow">Privacy</a> &middot;
+<a href="http://www.wikispaces.com/terms" rel="nofollow">Terms</a> &middot;
+<a href="http://www.wikispaces.com/site/help?url=http%3A%2F%2Ffile.wikispaces.com%2Ffile%2Fview%2Fclip_image002.gif" rel="nofollow"><strong>Support</strong></a> &middot;
+<a href="/space/subscribe/upgrade"><strong>Upgrade</strong></a>
+</div>      <div class="WikiLicense WikiElement">Contributions to http://file.wikispaces.com/ are licensed under a <a rel="license" href="http://www.creativecommons.org/licenses/by-sa/2.5">Creative Commons Attribution Share-Alike 2.5 License</a>. <a rel="license" href="http://www.creativecommons.org/licenses/by-sa/2.5"><img src="http://c1.wikicdn.com/i/creativecommons/by-sa_2.5_80x15.png" width="85" height="15" alt="Creative Commons Attribution Share-Alike 2.5 License"/></a><br />Portions not contributed by visitors are Copyright 2018 Tangient LLC<br /><a href="https://www.tes.com/us/?utm_source=wikispaces&utm_medium=link&utm_campaign=US-52-footer">TES: The largest network of teachers in the world</a></div>    </div>
+  </div>
+</footer>
+
+
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+
+<div id="js-help-template" class="hidden">
+  <div class="ws-help">
+    <div class="js-help-controls WikispacesContent WikispacesBs3">
+      <a href="http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
+      <ol class="breadcrumb">
+        <li class="js-special-breadcrumb active">
+          <a href="http://helpcenter.wikispaces.com/" data-breadcrumb="0">Home</a>
+        </li>
+        <li class="js-ellipsis hidden js-special-breadcrumb">
+          ...
+        </li>
+        <li class="js-spinner hidden js-special-breadcrumb"><i class="fa fa-spinner fa-spin"></i></li>
+      </ol>
+    </div>
+    <div class="ws-help-content wiki">Loading...</div>
+  </div>
+</div>
+</div>
+<script src="http://c1.wikicdn.com/s/nogz/q102x8xj-common.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+jQuery(document).ready(function() {
+  ws.common.addJsonNotices({"warning":[],"error":[],"info":[],"success":[]});
+});
+
+jQuery(document).ready(function() {
+  ws.common.addNotice("<script type=\"text\/javascript\">function wsDismissBanner() { ws.common.removeNotice();  ws.cookie.set(\"wsAnnouncement\", 1, {expires: 365 * 86400, domain: \".wikispaces.com\"}); return false;}$(\".ui-pnotify-closer\").remove();<\/script><i class=\"fa fa-times fa-fw ws-close\" onclick=\"wsDismissBanner();\"><\/i>It's time for us to say farewell\u2026 Regretfully, we've made the tough decision to close Wikispaces. Find out why, and what will happen, <a href='http:\/\/blog.wikispaces.com' target='_top'>here<a\/>", "warning");
+});
+
+
+--></script><!-- w21 80 mem:2:11(22) wki:3:6(2) tot:80:80(1) -->
+
+</body>
+</html>

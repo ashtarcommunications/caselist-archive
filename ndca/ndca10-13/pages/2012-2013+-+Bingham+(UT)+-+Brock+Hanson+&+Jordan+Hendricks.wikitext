@@ -1,0 +1,176 @@
+[[image:binghamlogo.jpg width="280" height="280" align="center"]]
+
+[[toc]]
+
+=Notes= 
+We're partners for Nationals
+For National Qualifiers, we had no 2NRs and read Port Dredging
+
+=Affirmative= 
+==Cybersecurity 1AC== 
+===Plan=== 
+The United States federal government should substantially increase its investment in critical transportation infrastructure protection including encryption, isolation, access control, and hazard analysis.
+===Contention 1 is Economics=== 
+**Iran’s cyber-attacking economic assets**
+**Prince, 5-27**
+(5-27-13. Brian Prince writes for eWeek. He’s citing government officials. “Iranian Hackers Launching Cyber-Attacks on U.S. Energy Firms: Report” [[http://www.eweek.com/security/iranian-hackers-launching-cyber-attacks-on-us-energy-firms-report/]]) Henge
+Iranian hackers launched attacks as part of a campaign against the country's oil and gas
+AND
+done so far has certainly been noticed, and they should be cautious."
+
+**Infrastructure protection is necessary to sustain trade and the economy**
+**Therianos, 00**
+(Elaine Therianos, CIA. “Port and Rail Vulnerabilities in the Age of Information Warfare” [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA378712]]) Henge
+Military and commercial networks that are the backbone of the US critical infrastructure must be
+AND
+computer networks. US commercial systems are increasingly more vulnerable to IW attacks.
+
+**Trade creates disincentives for conflict**
+**Griswold 2011**
+<span style="font-size: 8pt;">Daniel Griswold is director of the Center for Trade Policy Studies at the Cato Institute and author of Mad about Trade: Why Main Street America Should Embrace Globalization. “Free Trade and the Global Middle Class,” Hayek Society Journal Vol. 9 [[http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf%20Accessed%206/30/12|http://www.cato.org/pubs/articles/Hayek-Society-Journal-Griswold.pdf Accessed 6/30/12]]</span>
+Our more globalized world has also yielded a “peace dividend.” It may not
+AND
+and less likely those gains will be destroyed by civil conflict and war.
+
+**Economic downturn causes war**
+**Mead**, Sr fellow in U.S. Foreign Policy at the Council on Foreign Relations, **2009**
+[Henry, The New Republic, 2/4/09, [[http://www.tnr.com/politics/story.html?id=571cbbb9-2887-4d81-8542-92e83915f5f8&p=2]]]
+So far, such half-hearted experiments not only have failed to work;
+AND
+the world economy back on track, we may still have to fight.
+
+**Best statistical studies prove**
+**Royal ‘10** director of Cooperative Threat Reduction at the U.S. Department of Defense(Jedediah, Economics of War and Peace: Economic, Legal, and Political Perspectives, pg 213-215)
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+AND
+featured prominently in the economic-security debate and deserves more attention.
+
+**Conflict goes global and nuclear**
+**Merlini ’11** Cesare Merlini, Chairman of the Board of Trustees of the Italian Institute of International Affairs, of which he had been the president for many years, and a Non-resident Senior Fellow at the Brookings Institution, “A Post-Secular World?” Survival: Global Politics and Strategy, Volume 53, Issue 2, 2011, DOI:10.1080/00396338.2011.571015
+Two neatly opposed scenarios for the future of the world order illustrate the range of
+AND
+theocratic absolutes, competing or converging with secular absolutes such as unbridled nationalism.
+
+===Contention 2 is Leadership=== 
+**China’s cyber-attacking the military**
+**AP, 5-29**
+(5-29-13. Associated Press. “Pentagon aircraft, missile defense programs said target of China cyber threat”http://www.washingtonpost.com/business/technology/pentagon-aircraft-missile-defense-programs-said-target-of-china-cyber-threat/2013/05/29/d1471b0a-c82e-11e2-9cd9-3b9a22a4000a_story.html) Henge
+WASHINGTON — New revelations that China used cyberattacks to access data from nearly 40 Pentagon
+AND
+the information to blunt America’s military superiority and keep pace with emerging technologies.
+
+**Protection from IW is necessary to keep deployments steady and to avoid delay**
+**Therianos, 00**
+(Elaine Therianos, CIA. “Port and Rail Vulnerabilities in the Age of Information Warfare” [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA378712]]) Henge
+Staging of equipment for a deployment presents a problem. Containers are now shipped from
+AND
+, the attacker was still successful in delaying the loading of the vessel.
+
+**Steady and __recycled__ forward deployed forces key to US leadership**
+**Flourney**, Co-Founder Center for a New American Security, **and Davidson**, Professor Public Policy George Mason, **’12** (Michele- Former US Undersecretary of Defense for Policy and Janine- Former US Deputy Assistant Secretary of Defense for Plans, July/August, “Obama’s New Global Posture” Foreign Affairs, Vol 91 Issue 4, EbscoHost)
+THE LOGIC OF SUSTAINED FORWARD ENGAGEMENT DURING THE Pentagon's last global posture review, in
+AND
+the military is positioned and ready to respond to emerging threats and crises.
+
+**Withdrawal of US hegemony causes global instability**
+**Brooks et al. 12** Stephen G. Brooks, Associate Professor of Government at
+AND
+Security, vol. 37, no. 3, Winter 2012, muse
+A core premise of deep engagement is that it prevents the emergence of a far
+AND
+in turn makes it easier to sustain the policy over the long term.
+
+**Any transition will be violent absent credible leadership now**
+**Barnett ’11** Thomas P. M. Barnett, Former Senior Strategic Researcher and Professor in the Warfare Analysis & Research Department, Center for Naval Warfare Studies, U.S. Naval War College American military geostrategist and Chief Analyst at Wikistrat., worked as the Assistant for Strategic Futures in the Office of Force Transformation in the Department of Defense, “The New Rules: Leadership Fatigue Puts U.S., and Globalization, at Crossroads,” World Politics Review, 3/7/2011, http://www.worldpoliticsreview.com/articles/8099/the-new-rules-leadership-fatigue-puts-u-s-and-globalization-at-crossroads
+It is worth first examining the larger picture: We live in a time of
+AND
+. And if you know your history, that should make you nervous.
+
+**Leadership prevents challengers**
+**Brooks et al. 12** Stephen G. Brooks, Associate Professor of Government at
+AND
+Security, vol. 37, no. 3, Winter 2012, muse
+It is now generally understood that the current grand strategy of deep engagement runs no
+AND
+analyses find no evidence of external or internal balancing by major powers.38
+
+**Multipolarity will fail – rising powers will have no influence**
+**Xuetong 11**
+Yan, writer for the Global Times, Published by the Carnegie Endowment, “From a Unipolar to a Bipolar Superpower System: The Future of the Global Power Dynamic” 12/20/11. http://carnegieendowment.org/2011/12/30/from-unipolar-to-bipolar-superpower-system-future-of-global-power-dynamic/a6vl
+Empty Talk from International Organizations Is Becoming a Trend The ability of international organizations to
+AND
+International organizations are thus progressing toward divergent views rather than solving practical problems.
+
+===Contention 3 is Solvency=== 
+**More cyber-attacks on the way – states combine them with all other operations**
+**Cimbala 12** (Stephen J., Distinguished Prof of Poli Sci @ Penn State Brandywine, “Chasing Its Tail,” Summer, [www.au.af.mil/au/ssq/2012/summer/cimbala.pdf], jam)
+US and Russian arms controllers who are attempting to detoxify the potential conlict between further
+AND
+is the coexistence of information warfare or military cyber operations and nuclear deterrence.
+
+**Only the plan can solve vulnerabilities – transportation is a key target**
+**Therianos, 00**
+(Elaine Therianos, CIA. “Port and Rail Vulnerabilities in the Age of Information Warfare” [[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA378712]]) Henge
+The most immediate need is to provide some form of protection against Information Warfare.
+AND
+be managed by these two entities before US national security is at stake.
+
+**The plan spurs cooperation between the government and private companies**
+**Coldebella and White, 10**
+(Gus P. Coldebella, top lawyer in the Department of Homeland Security. Brian M. White is a director at the Chertoff Group, LLC. “Foundational Questions Regarding the Federal Role in Cybersecurity” [[http://jnslp.com/wp-content/uploads/2010/08/15_Coldebella-White.pdf|http://jnslp.com//wp-content/uploads/2010/08/15_Coldebella-White.pdf]]) Henge
+Here is what the fuss is about. The cybersecurity system is not working.
+AND
+that sniffs traffic in and out of government systems – have slowed progress.
+
+**No disads – White House dedicated to infrastructure investment**
+**Reuters, 5-22**
+(5-22-13. “Obama nominee vows to work with Congress to fund transportation” [[http://www.reuters.com/article/2013/05/22/usa-transportation-foxx-idUSL2N0E31PM20130522]]) Henge
+May 22 (Reuters) - President Barack Obama's choice to be transportation secretary promised
+AND
+issue again next year when the current two-year highway bill expires.
+
+=Negative= 
+==Strategies [NFL Nationals]== 
+===Round 1=== 
+1AC - P<span style="line-height: 1.5;">hotovoltaic Cells for govt. cars</span>
+1NC-
+- ASPEC
+- T - Vehicles
+- Postanarchism Kritik
+- TIGER CP
+- Politics
+- Oil DA
+
+2NC-
+- Oil DA
+- Case
+
+1NR-
+- ASPEC
+- Case
+
+2NR-
+- Oil DA
+- Case
+
+===Round 3=== 
+1AC - Locks [Inland Waterways]
+1NC-
+- ASPEC
+- T - Maintenance
+- Postanarchism Kritik
+- TIGER CP
+- Politics
+- Oil DA
+
+2NC-
+- Postanarchism K
+- Case
+
+1NR-
+- Case
+- Politics
+
+2NR-
+- Postanarchism K
+- Case

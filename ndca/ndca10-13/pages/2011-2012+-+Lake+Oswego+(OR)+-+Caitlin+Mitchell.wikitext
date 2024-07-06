@@ -1,0 +1,58 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+Value - Kant's Categorical Imperative
+Three maxims: 1. a person would act morally if someone else would do the same; 2. A right act if they treat others as an end and not just as a means; and 3. When a person acts this way, it would become universal law.
+Value/Criterion - Maximization of Rights
+Must maximize rights because of risks posed in animal abuse and certain industries that abuse animals and have a net harm to society.
+Contention 1 - Animals are like people
+//Subpoint A - Definition of "humans" also includes animals//
+~ Personhood - qualities that define someone as a person [<span style="font-size: 10pt;">Marc Bekoff. //The Animal Manifesto//. New World Library; Novato California. 2010.]</span>
+<span style="font-size: 10pt;"> //Subpoint B - To meet the definition of personhood animals need sentience// </span>
+<span style="font-size: 10pt;">~ Animal Sentience - Recognition of Animal Rights requires us to look at sentience which animals have [</span>http://menschtierkritik.wordpress.com/aktuelle-veranstaltungen/]
+~ Animal Sentience - Examples - Animal brains = same emotional function as humans. [New York Times, 2010] 
+~ Animal Sentience - Examples - Crab's "Sense and Remember pain" [//BBC news,// March 27, 2009]
+==Negative== 
+Philosophy Negative
+Value - Kant's Categorical Imperative (See above for maxims)
+Value/Criterion - Utilitarianism
+Must look to protecting those who have consciousness than those who don't, Conscious people out number animals + better impacts = achieving utilitariansm
+Observation one: Aff must prove that animals are conscious while Neg must prove they're not
+Contention One: Cartesian Theories
+//Subpoint A// //- Descartes//
+~ (In card) Animals are more mechanical than anything. Humans are so complex because they are more than just mechanical beings, "Descartes believed that both the complexity of human behavior and human speech requires the positing of such an immaterial substance in order to be explained."
+//Subpoint B - Peter Harrison//
+~(In card) Pain behavior is neither "necessary nor sufficient for the experience of pain". Evolution -> doesn't show that every time an animal reacts to "pain" that it is being felt by the animal. Could be reacting to something else or trying to survive. 
+//Subpoint C - Peter Carruthers//
+~(In card) All human experiences are conscious experiences. Humans have higher order thought (a thought that can take as its object another thought), whereas animals have not been scientifically shown to have this same level of thought.
+Contention 2 - Contractualist Theory
+~(Rawls) - The rules of governing society are determined by taking a group of individuals from behind the veil of ignorance. Since the individuals do not know who exactly they are, they will not choose rules that benefit any one individual, or segment of society, over another. Instead, they will choose rules that protect, first and foremost, rational autonomous individuals. Animals are not conscious -> cannot satisfy the requirements of Kan'ts categorical imperative due to that lack of confidence.
+
+Animal Testing Negative
+Value - Justice
+Evaluative term for the resolution = most pertinent. Must weigh what is just for animals AGAINST what is just for humans.
+Value/Criterion - Maximizing Life
+Because animals serve a valuable purpose to humans all over the world, we must weigh through what has the impact on the most lives in order to determine who wins the round.
+Contention 1 - Animals help to save millions through animal testing
+//Subpoint A - Animals are essential to testing for medicine//
+~California Biomedical Research Association (or CBRA) explains [California Biomedical Research Association. 2005. Sacramento, CA. http://www.ca-biomed.org/pdf/media-kit/fact-sheets/FS-WhyNecessary.pdf] Animals are necessary for testing medicine -> scientists experiments are easier than with a human
+//Subpoint B - Animals have helped in scientists making great advances in developing vaccines and other preventative treatments//
+~ California Biomedical Research Association (or CBRA) explains [California Biomedical Research Association. 2005. Sacramento, CA. http://www.ca-biomed.org/pdf/media-kit/fact-sheets/FS-WhyNecessary.pdf] Scientific Advances and Examples - examples involving many different species of animals and what tests were performed to help with drugs
+~ California Biomedical Research Association (or CBRA) explains [California Biomedical Research Association. 2005. Sacramento, CA. http://www.ca-biomed.org/pdf/media-kit/fact-sheets/FS-WhyNecessary.pdf] Continued from previous card, Biomedical research doesn't only benefit humans, we have developed cures for animal illnesses as well.
+//Subpoint C - Animals are irreplaceable for this kind of research//
+~ California Biomedical Research Association (or CBRA) explains [California Biomedical Research Association. 2005. Sacramento, CA. http://www.ca-biomed.org/pdf/media-kit/fact-sheets/FS-WhyNecessary.pdf] The living system is really complex, and animals have similar living systems to humans making them perfect subjects to test on. 
+~ Arthur Allen, “Of Mice or Men: The Problem with Animal Testing”, Slate, June 1st, 2006, http://www.slate.com/id/2142814/ -> The alternative is human testing which causes more suffering. Example of human subjects being given tiny doses of TGN1412 and all test subjects getting sent to the hospitals.
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+==Negative== 
+
+[[include page="space.template.Footer"]]

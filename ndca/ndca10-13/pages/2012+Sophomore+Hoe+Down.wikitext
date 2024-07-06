@@ -1,0 +1,3 @@
+This is a list of only those teams that are competing at the St. Mark's Sophomore Hoe Down. It was automatically generated using tags and is not an official list.
+
+[[include component="pageList" hideInternal="true" tag="2012 sophomore hoe down teams" limit="1000" ]]

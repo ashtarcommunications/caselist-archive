@@ -1,0 +1,165 @@
+[[toc]]
+=Affirmative= 
+
+=GPS @ BVSW (Lay)= 
+
+==Observation 1 is the Status Quo== 
+
+**====Currently GPS interference through techniques like GPS Jamming and GPS spoofing is on the rise and it~’s only going to get worse. Now is the key time to develop anti-jamming and anti-spoofing capabilities====**
+**From the PNT Advisory Board, 2010**
+National Space-Based Positioning, Navigation, and Timing (PNT) Advisory Board, Jamming the Global Positioning System A National Security Threat: Recent Events and Potential Cures November 4, 2010, [[http://www.pnt.gov/advisory/-http://www.pnt.gov/advisory/]]
+The United States is now critically dependent on GPS. For example, cell phone
+AND
+jamming countermeasures tend to deter those who would deliberately interfere with the signals.
+
+====And GPS vulnerability poses deep threats to national security but no action will be taken until disaster strikes==== 
+**From Franceschi-Bicchierai 2012**
+~~[Lorenzo, Wired, July 6; [[http://www.wired.com/dangerroom/2012/07/drone-hijacking/all/-http://www.wired.com/dangerroom/2012/07/drone-hijacking/all/]]~~]
+The rogue takeover exploited a vulnerability in GPS to take control of the drone.
+AND
+an app that would make Android cellphones able to detect GPS jamming sources.
+
+====Even Planned DoD upgrades would be insufficient to solve jamming until 2026 and will still not meet recommended standards made by the Defense science board==== 
+**From the CBO in 2011**
+Congressional Budget Office Study, "The Global Positioning System for Military Users: Current Modernization Plans and Alternatives," October 2011, Congress of the United States, [[www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf-http://www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf]]
+DoD~’s planned improvements in the ability of GPS to operate in a jamming environment rely
+AND
+500, far short of the level of improvement recommended by the DSB.
+
+===Terror=== 
+
+====These vulnerabilities open us up to terrorism, the first advantage of strengthening our GPS systems.==== 
+Domestic drones are on civilian channels which are unencrypted and can be turned into weapons
+GCN 6/29 Government Computer News, June 29, 2012, "Domestic drones can be hijacked, turned into weapons, researchers show" http://s.tt/1gmqT
+Domestic drones can be hijacked, turned into weapons, researchers show By Kathleen Hickey
+AND
+rely on civilian GPS, which is not encrypted and open to infiltration.
+Specifically, Drones are key to our ability to keep terrorists under control.
+McClatchy-Tribune 6/25 ("Drone attacks remain best tool to fight terrorists", [[http://www.bradenton.com/2012/06/25/4090990/drone-attacks-remain-best-tool.html-http://www.bradenton.com/2012/06/25/4090990/drone-attacks-remain-best-tool.html]], CMR)
+
+The United States has been at war with a shadowy, elusive enemy for more
+AND
+is effectively destroyed, drones remain the best tool in the tool shed.
+
+====Out of control, terrorism will escalate into extinction==== 
+**Morgan 9** Dennis Morgan, Associate Professor, Hankuk University of Foreign Studies, South Korea Volume 41, Issue 10
+Moore points out what most terrorists obviously already know about the nuclear tensions between powerful
+AND
+, to a life of unimaginable misery and suffering in a nuclear winter.
+
+===Warming=== 
+
+====The second advantage to improving our GPS systems is slowing climate change.==== 
+
+====GPS substantially reduces greenhouse gas emissions in farming==== 
+**Branson ~’11**~~[Mark, Clifton Farm (Australia), "Using Conservation Agriculture and Precision Agriculture to Improve a Farming System," Rainfed Farming Systems, p. 898~~]
+Accurate driving and the matching of machinery operational widths are essential to precision farming,
+AND
+for each tonne of increased grain production (Webb et al. 2004).
+
+====This results in climate change, which is induced by greenhouse gas emissions. A new study overwhelms any doubt==== 
+Johnson 2012—earth science professor
+Scott K. "Yet another study confirms global warming is human-caused," ~~[[[http://arstechnica.com/science/2012/06/yet-another-study-confirms-global-warming-is-human-caused/-http://arstechnica.com/science/2012/06/yet-another-study-confirms-global-warming-is-human-caused/]]~~] June 18
+One of the ways in which climate scientists evaluate the role of anthropogenic greenhouse emissions
+AND
+last IPCC report, this study has generated the strongest analysis to date.
+
+====And climate change tipping points are coming soon – doing nothing risks extinction==== 
+**Hamilton 10 – Professor of Public Ethics @ ANU**
+Clive Hamilton, Professor of Public Ethics in Australia, 2010, "Requiem for a Species: Why We Resist the Truth About Climate Change," pg. 1-2
+One of the most striking features of the global warming debate has been how,
+AND
+will be gone and humans will enter a long struggle just to survive.
+
+===Economy=== 
+
+====The third advantage to strengthening our GPS systems is the economy==== 
+
+====GPS enables dramatic improvements in all sectors of transportation==== 
+**Habjan ~’09**
+~~[Andreja and Costas Andriopoulous, Brunel Business School @ Brunel University (United Kingdom); European and Mediterranean Conference on Information Systems; July 13-14; p. 7~~]
+According to the process flow in the upper table we can conclude that has implementation
+AND
+gathered through semi-structured interviews that are illustrated in the following paragraph.
+
+====Improvements in transportation are key to the economy – They create jobs, and more investment would spur the economy, proven in the past.==== 
+**Dulaney 11 Daryl Dulaney, President and CEO of Siemens Industry Inc, Atlanta Journal-Constitution, "Transportation Key to Growth" October 3rd, 2011 http://www.ajc.com/opinion/transportation-key-to-growth-1193691.html**
+General upgrades to traffic solutions and public transport, as well as overall infrastructure updates
+AND
+Transportation is the lifeblood of the economy and Atlanta~’s direct line to growth.
+
+====Global economic crisis causes war==== 
+**Royal 10** – Jedediah Royal, Director of Cooperative Threat Reduction at the U.S. Department of Defense, 2010, "Economic Integration, Economic Signaling and the Problem of Economic Crises," in Economics of War and Peace: Economic, Legal and Political Perspectives, ed. Goldsmith and Brauer, p. 213-214
+Less intuitive is how periods of economic decline may increase the likelihood of external conflict
+AND
+popularity, are statistically linked to an increase in the use of force..
+
+==Plan== 
+
+====With these problems in mind, we propose the following plan: The United States federal government should substantially increase investment in GPS augmentation systems including improved antennas, inertial navigation systems, assimilators, and Iridium signal augmentation systems in the United States.==== 
+
+==Contention 2: The plan solves== 
+
+**====The plan solves the highest rate of jamming and integrates both CBO and DoD recommendations for upgrades to the infrastructure====**
+**CBO 11**
+Congressional Budget Office Study, "The Global Positioning System for Military Users: Current Modernization Plans and Alternatives," October 2011, Congress of the United States, [[www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf-http://www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf]]
+The third option would combine the improvements included in the two previous options. The
+AND
+cost realized between 2012 and 2021 (see Table 3-2).25
+
+====The plan solves jamming better than current DoD plans to upgrade the system==== 
+**CBO 11**
+Congressional Budget Office Study, "The Global Positioning System for Military Users: Current Modernization Plans and Alternatives," October 2011, Congress of the United States, [[www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf-http://www.cbo.gov/sites/default/files/cbofiles/attachments/10-28-GPS.pdf]]
+Of the three options that CBO considered, this one would yield the greatest improvement
+AND
+yield improvements over today~’s Global Positioning System and even that planned by DoD.
+
+
+
+=Negative= 
+==Neg Strategies== 
+===BVSW=== 
+Rd 2 vs. Piper SW
+1AC: Roundabouts
+1NC: T, Oil, Case
+2NR: T
+
+Rd 3 vs. BVN CD
+1AC: Gas Tax/Highways
+1NC: T, Oil, Case
+2NR: T
+
+Rd 4 vs. BVW ??
+1AC: Port Security
+1NC: T, Fiscal Discipline, Case
+2NC: Fiscal Discipline, Case
+===ONW=== 
+Rd.1 vs BVN
+1AC: "Climate Adaptation"
+1NC: Exxon-Rosneft, Fiscal Discipline, Urban Sprawl, Case
+2NR: Exxon-Rosneft, Case
+
+Rd. 3 vs ???
+1AC: Port Dredging
+1NC: Exxon-Rosneft, Russia-Europe LNG DA, Case
+2NR: Inherency (lolz)
+==Disads== 
+===Exxon-Rosneft 1NC @ ONW=== 
+
+====High oil prices are key to the Exxon-Rosneft deal~’s success====
+**RT Novista**<span style="font-family: 'Times New Roman',serif;"> April 17, </span>**2012**<span style="font-family: 'Times New Roman',serif;">. [[http://rt.com/business/news/rosneft-exxon-deal-arctic-301/-http://rt.com/business/news/rosneft-exxon-deal-arctic-301/]] hs</span>
+After the landmark deal, already dubbed by many "the deal of the century
+AND
+partner, Exxon, for the whole project or whether they will diversify".
+
+====The deal is key to US – Russian relations.====
+**Gonzalez,**<span style="font-family: 'Times New Roman',serif;"> 4/18/</span>**12 (Angel Gonzalez, writer for Wall Street Journal Market Watch, [[**<span style="font-family: 'Times New Roman',serif;">http://www.marketwatch.com/story/exxon-rosneft-deal-could-open-vast-oil-reserves-2012-04-18-http://www.marketwatch.com/story/exxon-rosneft-deal-could-open-vast-oil-reserves-2012-04-18]]</span>**)**
+Russian energy czar Igor Sechin said Wednesday that U.S.-Russia economic relations
+AND
+see them developed. If they~’re not developed, Russia receives nothing either."
+
+====U.S.-Russia relations check nuclear war====
+**COHEN 2001 **<span style="font-family: 'Times New Roman',serif;">(Stephen, Prof of Russian Studies at NYU, June 7, http://www.thenation.com/doc.mhtml?i=20010625%26c=1%26s=cohen)</span>
+In these and other ways, Russia has been plunging back into the nineteenth century
+AND
+, "If not now, when? If not us, who?"

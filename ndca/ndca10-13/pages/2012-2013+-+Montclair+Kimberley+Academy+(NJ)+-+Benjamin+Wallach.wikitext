@@ -1,0 +1,31 @@
+[[toc]]
+=September-October= 
+==Affirmative== 
+==Negative== 
+
+=November-December= 
+==Affirmative== 
+==Negative== 
+
+=January-February= 
+==Affirmative== 
+==Negative== 
+
+=March-April= 
+==Affirmative== 
+Deontology AC
+Human Worth AC
+==Negative== 
+Ontology NC
+Hegemony DA
+Imperialism DA
+Anthropocentrism K
+
+=NFL Nationals= 
+==Affirmative== 
+Hobbes AC
+Astrophysics AC ([[@https://www.dropbox.com/s/r4bfjqns2fhyfjs/Astrophysics%20AC.pdf|View on Dropbox]])
+==Negative== 
+Equality NC ([[@https://www.dropbox.com/s/ma3yucbttj5r3dl/Equality%20NC.pdf|View on Dropbox]])
+
+[[include page="space.template.Footer"]]

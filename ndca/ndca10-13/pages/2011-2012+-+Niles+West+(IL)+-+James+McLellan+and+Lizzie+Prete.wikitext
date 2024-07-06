@@ -1,0 +1,131 @@
+[[toc]]
+=NEOs Affirmative= 
+==1AC – Plan== 
+===**The United States federal government should increase its exploration of near-Earth objects and its development of near-Earth object deflection systems, including telescopes, radar, and deflection technology.**=== 
+
+
+== == 
+==**Contention 1 --- __Inherency__**== 
+
+===**Near-Earth Object detection is underfunded --- preventing NASA from beginning critical projects**=== 
+<span class="Heading3Char">New Yorker 11</span> (“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+
+<span style="font-size: 8pt;">At the moment, the number (........)</span><span class="underline"> "too </span><span class="StyleBoldUnderline">costly."</span><span style="font-size: 8pt;">)</span>
+
+**<span class="StyleStyleBold12pt">Current //detection// and //deflection// measures will fail</span>**
+<span class="Heading3Char">New Yorker 11</span> (“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+
+<span style="font-size: 8pt;">That was a long time ago, (........)</span><span class="underline"> The issue's an </span>//orphan//<span style="font-size: 8pt;">."</span>
+
+
+
+==**Advantage 1 --- __NEO Strikes__**== 
+
+===**Huge numbers of NEOs could hit at any time without warning and cause extinction --- lack of detection technology leaves us helpless**=== 
+<span class="Heading3Char">NRC 10</span> (National Research Council, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies”, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.ed u/catalog.php?record_id=12842)
+
+2. In December 2004, (........)<span class="underline"> relatively </span>//near future//.
+
+===**Strikes are likely --- two distinctions:**=== 
+
+===**1st --- //__Long-Period Comets__// --- they’re likely, evade current defenses, and risk extinction**=== 
+<span class="StyleStyleBold12pt">IAA 9</span> (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+
+Detection of Long-Period (........) impacts the Earth.
+
+===**2nd --- //__Small NEOs__// --- they’re extremely frequent and pass through current detection**=== 
+<span class="StyleStyleBold12pt">Binzel 11</span> (Richard, Professor of Planetary Sciences – MIT, “Richard Binzel on Near-Earth Asteroids”, Space Daily, 7-1, http://www.spacedaily.com/reports/Richard_Binzel_on_near_Earth_asteroids_999.html)
+
+Actually, <span class="underline">asteroids of this (........)</span> caught in their search pattern.
+
+
+
+===**It’s __try-or-die__ --- comet or asteroid impact is __inevitable__**=== 
+<span class="StyleStyleBold12pt">Verschuur 96</span> (Gerrit, Adjunct Professor of Physics – University of Memphis, Impact: The Threat of Comets and Asteroids, p. 158)
+
+In the past few years, (........)<span class="underline"> that will determine our fate</span>.
+
+
+===**The impact is __extinction__ --- //high magnitude// and //aperiodic strikes// shatter traditional considerations of “timeframe” and mean we should treat NEO threats as __immanent threats__**=== 
+<span class="Heading3Char">Brownfield 4</span> (Roger, Gaishiled Project, “A Million Miles a Day”, Presentation at the Planetary Defense Conference: Protecting Earth From Asteroids, 2-26, [[http://www.airpower.maxwell.af.mil/airchronicles/cc/france2.html?pageid=406&gTable=%20Paper&g|http://www.aiaa.org/content.cfm?pageid=406&gTable= Paper&g]] ID=17092)
+
+<span style="font-size: 6pt;">Once upon a time there was a Big Bang(........) and its attendant fear. </span>
+
+
+1AC – NEO Strikes Advantage
+===**//Undetected// small objects trigger military early-warning systems, sparking accidental nuclear war**=== 
+<span class="Heading3Char">David 2</span> (Leonard, Senior Space Writer – Space.com, “First Strike or Asteroid Impact?”, 6-6, http://abob.libs.uga.edu/bobk/ccc/cc060702.html)
+
+<span style="font-size: 8pt;">Military strategists and space (........) </span><span class="underline">detect small asteroids</span><span style="font-size: 8pt;">, he said.</span>
+
+===**That escalates to __global nuclear war__**=== 
+<span class="Heading2Char3">Forrow 98</span> (Lachlan, MD, et al, “Accidental Nuclear War – A Post-Cold War Assessment”, New England Journal of Medicine, <span class="a">iis-db.stanford.edu/pubs/20625/acciden_nuke_war.pdf)</span>
+
+<span style="font-size: 9pt;">Earlier assessments have </span><span style="font-size: 12px;">(........) </span><span class="Style11pt">indirect </span>//casualties worldwide//<span class="Style11pt">.</span>
+
+
+==**Advantage 2 --- __Nuclear Option__**== 
+
+===**U.S. //attempts// at NEO deflection are __inevitable__ --- the only question is //what form// it’ll take**=== 
+<span class="StyleStyleBold12pt">Koplow 5</span> (Justin, JD Candidate – Georgetown University Law Center, Georgetown International Environmental Law Review, Lexis)
+
+<span style="font-size: 8pt;">C. ROCKS NOT ROCKETS (........) deals and understandings. n132</span>
+
+
+
+
+===**Nuclear deflection will be used now --- only the combination of detection and deflection forces the U.S. away**=== 
+<span class="Heading3Char">Chapman 6</span> (Clark, Senior Scientist – Southwest Research Institute Dept. of Space Studies, and Member of the Board – B612 Foundation, “Critique of "2006 Near-Earth Object Survey and Deflection Study: Final Report" Published 28 Dec. 2006 by NASA Hq. Program Analysis & Evaluation Office”, http://www.b612foundation.org/papers/NASA-CritChap.doc)
+
+Furthermore, <span class="underline">the Report (........)</span> the techniques in our tool-kit.
+
+===**Nuclear deflection //fails// and sends warheads //back to Earth// --- risks extinction**=== 
+<span class="StyleStyleBold12pt">IAA 9</span> (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+
+There is a persistent (........) get them to the NEO (see ref. 4).
+
+
+===**The plan solves the “nuclear option” --- and even if it doesn’t, radar and telescopes provide data to make it effective**=== 
+<span class="StyleStyleBold12pt">Schweickart 4</span> (Russell, Chair of the B612 Foundation, former astronaut, Executive Vice President of CTA Commercial Systems, Inc. and Director of Low Earth Orbit (LEO) Systems and research, and scientist at the Experimental Astronomy Laboratory of the Massachusetts Institute of Technology (MIT), “Asteroid Deflection; Hopes and Fears,” Aug., Presented at the World Federation of Scientists Workshop on Planetary Emergencies, Erice, Sicily, August 2004 http://www.b612foundation.org/papers/Asteroid_Deflection.doc)
+
+<span class="underline">The nuclear explosive options (........) to protect the Earth from asteroid impacts.</span>
+
+
+
+=== === 
+==**Contention 2 --- __Solvency__**== 
+
+===**Plan allows new telescopes, radar, and development of deflection tech**=== 
+<span class="Heading3Char">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span style="font-size: 8pt;">The committee outlined (........)characterization and </span><span class="underline">mitigation</span><span style="font-size: 8pt;">.</span>
+
+
+===**Research on deflection methods //now// is key to effectiveness --- detection alone means tech will be undeveloped and untested**=== 
+<span style="font-size: 12pt;">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span style="font-size: 8pt;">WARNING TIME FOR MITIGATION </span>(........)<span style="font-size: 8pt;"> next event will be the most likely one.</span>
+===**Combination of ground and space-based observations is key --- they provide complementary data necessary to accurately deflect**=== 
+<span class="StyleStyleBold12pt">NRC 10</span> (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+<span class="underline">Combined ground- and space-based (........)</span><span style="font-size: 6pt;"> requires the acceptance of the change in risk over that time.</span>
+
+==Advantage 3---Colonization== 
+
+**The plan is key to human exploration of asteroids**
+**<span class="s1">The New Yorker 11</span>** – Ted Friend, Staff writer for the New Yorker (February 28, “Vermin of the sky; who will keep the planet safe from asteroids?”, lexis)//DT
+<span class="s2">Nine days later .... for planetary defense."</span>
+**That results in long-distance space travel and colonization**
+**<span class="s1">Cox and Chestek ’96 </span>**(Donald W., Doctor in Education and James H., Professional Engineer, “Doomsday Asteroid: can we survive?”, Print)//DT
+<span class="s2">While thoughtful people ......challenge of the planetoids</span><span class="s3">.</span>
+
+**Human extinction is inevitable if we stay on this planet—human development necessitates catastrophic consequences like nuclear conflict, disease spread, and natural disasters—the only way to extend humanity indefinitely is through space colonization.**
+**<span class="s2">Huang 5</span>** [Michael, “Spaceflight or Extinction”, cites Carl Sagan who was a professor of astronomy and space sciences at Cornell University, cites J. Richard Gott III who is a professor of astrophysical sciences at Princeton University, cites Martin Rees who is a professor of cosmology and astrophysics and Master of Trinity College at the University of Cambridge. <span class="s4">[[http://www.spaext.com/|http://www.spaext.com]]</span>/, DeFilippis]
+<span class="s2">[If there are civilizations .....</span> us, this century. 
+
+
+
+=Negative= 
+T-Humans
+Commissions CP
+Jackson-Vannick Politics DA

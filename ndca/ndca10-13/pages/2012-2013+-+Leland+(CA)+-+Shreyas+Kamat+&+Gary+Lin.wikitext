@@ -1,0 +1,30 @@
+[[image:leland logo.jpg]]
+
+<span style="color: #0000ff; font-family: Impact,Charcoal,sans-serif; font-size: 400%;">Leland High School </span>
+<span style="color: #0000ff; font-family: Impact,Charcoal,sans-serif; font-size: 400%;">San Jose, CA </span>
+
+=Affirmative= 
+
+Tournaments:
+[[Leland KL - Long Beach (CA) - Affirmative|Long Beach (CA)]]
+[[Leland KL - Fullerton (CA) - Affirmative|Fullerton (CA)]]
+[[Leland KL - Glenbrooks (IL) - Affirmative|Glenbrooks (IL)]]
+[[Leland KL - Arizona State (AZ) - Affirmative|Arizona State (AZ)]]
+[[@Leland KL - Golden Desert (NV) - Affirmative|Golden Desert (NV)]]
+[[@Leland KL - Stanford (CA) - Affirmative|Stanford (CA)]]
+Berkeley (CA) - Same as the Stanford stuff just click ^^^^^^
+
+For Aff Cites Contact:
+garylinrule@gmail.com
+=Negative= 
+
+Tournaments:
+[[Leland KL - Long Beach (CA) - Negative|Long Beach (CA)]]
+[[Leland KL - Fullerton (CA) - Negative|Fullerton (CA)]]
+[[Leland KL - Glenbrooks (IL) - Negative|Glenbrooks (IL)]]
+[[Leland KL - Golden Desert (NV) - Negative|Golden Desert (NV)]]
+Stanford (CA)
+
+For Neg Cites Contact:
+shreyas.kamat95@gmail.com
+[[include page="space.template.Footer"]]

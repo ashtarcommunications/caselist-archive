@@ -1,0 +1,136 @@
+[[toc]]
+=Affirmative= 
+==Plan Text:== 
+The United States federal government should increase its exploration of near-Earth objects and its development of near-Earth object deflection systems, including telescopes, radar, and deflection technology.
+
+==Contention 1: Inherency== 
+**Near-Earth Object detection is underfunded --- preventing NASA from beginning critical projects**
+**New Yorker 11-**(“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+At the moment, the number of asteroids...<span style="color: #000000; font-family: 'Times New Roman',serif;">mission to an asteroid would be "too costly."</span>
+
+**<span style="color: #000000;"><span style="font-family: Times New Roman Bold,serif;">Current </span><span style="font-family: 'Times New Roman Bold Italic',serif;">detection</span><span style="font-family: Times New Roman Bold,serif;"> and </span><span style="font-family: 'Times New Roman Bold Italic',serif;">deflection</span><span style="font-family: Times New Roman Bold,serif;"> measures will fail </span></span>**
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">New Yorker 11-</span>**(“Vermin of the Sky; Who Will Keep The Planet Safe From Asteroids?”, 2-28, Lexis)
+That was a long time ago, even... <span style="color: #000000; font-family: 'Times New Roman',serif;">space missions.' The issue's an orphan</span><span style="font-size: 8pt;">."</span>
+
+==Advantage 1: Neo Strikes== 
+**Huge numbers of NEOs could hit at any time without warning and cause extinction --- lack of detection technology leaves us helpless**
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">NRC 10-</span>**(National Research Council, “Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies”, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, <span style="color: #0000ff;">__http://www.nap.ed u/__</span>catalog.php?record_id=12842)
+In December 2004, astronomers determined...<span style="color: #000000; font-family: 'Times New Roman',serif;">occurrence in the relatively near future</span>.
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Strikes are likely --- two distinctions:</span>**</span>
+**<span style="font-family: Times New Roman Bold,serif;">1st --- </span><span style="font-family: Times New Roman Bold Italic,serif;">__Long-Period Comets__</span><span style="font-family: Times New Roman Bold,serif;"> --- they’re likely, evade current defenses, and risk extinction</span>**
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">IAA 9</span>** (International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+Detection of Long-Period Comets Long-period comets...effects before one impacts the Earth.
+
+<span style="display: block; text-align: left;"><span style="color: #000000; font-family: 'Times New Roman',serif;">**<span style="font-family: Times New Roman Bold,serif;">2nd --- </span><span style="font-family: Times New Roman Bold Italic,serif;">__Small NEOs__</span>**<span style="font-family: Times New Roman Bold,serif;"> **--- they’re extremely frequent and pass through current detection**</span></span></span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Binzel 11</span>** (Richard, Professor of Planetary Sciences – MIT, “Richard Binzel on Near-Earth Asteroids”, Space Daily, 7-1, http://www.spacedaily.com/reports/Richard_Binzel_on_near_Earth_asteroids_999.html)
+Actually, <span style="color: #000000; font-family: 'Times New Roman',serif;">asteroids of this size passing this close...</span>one might be caught in their search pattern.
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">It’s __try-or-die__ --- comet or asteroid impact is __inevitable__</span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Verschuur 96</span>** (Gerrit, Adjunct Professor of Physics – University of Memphis, Impact: The Threat of Comets and Asteroids, p. 158)
+In the past few years, the comet impact...<span style="color: #000000; font-family: 'Times New Roman',serif;">limitation of human nature that will determine our fate</span>.
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman',serif;"><span style="font-family: Times New Roman Bold,serif;">The impact is __extinction__ --- </span><span style="font-family: Times New Roman Bold Italic,serif;">high magnitude</span><span style="font-family: Times New Roman Bold,serif;"> and </span><span style="font-family: Times New Roman Bold Italic,serif;">aperiodic strikes</span><span style="font-family: Times New Roman Bold,serif;"> shatter traditional considerations of “timeframe” and mean we should treat NEO threats as __immanent threats__</span></span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">Brownfield 4</span>** (Roger, Gaishiled Project, “A Million Miles a Day”, Presentation at the Planetary Defense Conference: Protecting Earth From Asteroids, 2-26, <span style="color: #000080;">__[[http://www.airpower.maxwell.af.mil/airchronicles/cc/france2.html?pageid=406&gTable=%20Paper&g|http://www.aiaa.org/content.cfm?pageid=406&gTable= Paper&g]]__</span> ID=17092)
+<span style="font-size: 10pt;">Once upon a time there was a Big Bang... Cause/Effect</span>
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman',serif;"><span style="font-family: Times New Roman Bold Italic,serif;">Undetected</span><span style="font-family: Times New Roman Bold,serif;"> small objects trigger military early-warning systems, sparking accidental nuclear war</span></span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">David 2 </span>**(Leonard, Senior Space Writer – Space.com, “First Strike or Asteroid Impact?”, 6-6, http://abob.libs.uga.edu/bobk/ccc/cc060702.html)
+Military strategists and space scientists that wonder and worry...<span style="font-size: 8pt;">serve double-time and </span><span style="color: #000000; font-family: 'Times New Roman',serif;">__detect small asteroids__</span><span style="font-size: 8pt;">, he said.</span>
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">That escalates to __global nuclear war__</span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Forrow 98</span>** (Lachlan, MD, et al, “Accidental Nuclear War – A Post-Cold War Assessment”, New England Journal of Medicine, <span style="color: #000000;">iis-db.stanford.edu/pubs/20625/acciden_nuke_war.pdf)</span>
+<span style="font-size: 9pt;">Earlier assessments have documented in detail the problems...</span><span style="color: #000000;">__t__<span style="font-family: Times New Roman,serif;">__his would result in__ __billions of__</span> direct and indirect <span style="font-family: Times New Roman,serif;">__casualties worldwide__</span>.</span>
+
+==<span style="color: #000000;">Advantage 2: Nuclear Option</span>== 
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman',serif;"><span style="font-family: Times New Roman Bold,serif;">U.S. </span><span style="font-family: Times New Roman Bold Italic,serif;">attempts</span><span style="font-family: Times New Roman Bold,serif;"> at NEO deflection are __inevitable__ --- the only question is </span><span style="font-family: Times New Roman Bold Italic,serif;">what form</span><span style="font-family: Times New Roman Bold,serif;"> it’ll tak</span></span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Koplow 5</span>** (Justin, JD Candidate – Georgetown University Law Center, Georgetown International Environmental Law Review, Lexis)
+<span style="font-size: 8pt;">The fundamental procedures of intercepting an incoming missile...</span>bargaining for such deals and understandings. n132
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Nuclear deflection will be used now --- only the combination of detection and deflection forces the U.S. away</span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">Chapman 6</span>** (Clark, Senior Scientist – Southwest Research Institute Dept. of Space Studies, and Member of the Board – B612 Foundation, “Critique of "2006 Near-Earth Object Survey and Deflection Study: Final Report" Published 28 Dec. 2006 by NASA Hq. Program Analysis & Evaluation Office”, http://www.b612foundation.org/papers/NASA-CritChap.doc)
+Furthermore, <span style="color: #000000;"><span style="font-family: Times New Roman,serif;">__t__</span>__he Report takes a totally backwards approach__...</span>which may involve more than one deflection technique) from among the techniques in our tool-kit.
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman',serif;"><span style="font-family: Times New Roman Bold,serif;">Nuclear deflection </span><span style="font-family: Times New Roman Bold Italic,serif;">fails</span><span style="font-family: Times New Roman Bold,serif;"> and sends warheads </span><span style="font-family: Times New Roman Bold Italic,serif;">back to Earth</span><span style="font-family: Times New Roman Bold,serif;"> --- risks extinction</span></span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">IAA 9 </span>**(International Academy of Astronautics, “Dealing With The Threat To Earth From Asteroids And Comets”, http://iaaweb.org/iaa/Scientific%20Activity/Study%20Groups/SG%20Commission%203/sg35/sg35finalreport.pdf)
+There is a persistent notion in lay circles that...upper stage is used to get them to the NEO (see ref. 4).
+
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">The plan solves the “nuclear option” --- and even if it doesn’t, radar and telescopes provide data to make it effective</span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Schweickart 4</span>** (Russell, Chair of the B612 Foundation, former astronaut, Executive Vice President of CTA Commercial Systems, Inc. and Director of Low Earth Orbit (LEO) Systems and research, and scientist at the Experimental Astronomy Laboratory of the Massachusetts Institute of Technology (MIT), “Asteroid Deflection; Hopes and Fears,” Aug., Presented at the World Federation of Scientists Workshop on Planetary Emergencies, Erice, Sicily, August 2004 http://www.b612foundation.org/papers/Asteroid_Deflection.doc)
+<span style="color: #000000;">__The nuclear explosive options will all be strongly dependent__...</span>__available to protect the Earth from asteroid impacts.__
+
+==Contention 2: Solvency== 
+<span style="display: block; text-align: left;">**<span style="color: #000000; font-family: 'Times New Roman Bold',serif;">Plan allows new telescopes, radar, and development of deflection tech</span>**</span>
+**<span style="color: #000000; font-family: 'Times New Roman',serif;">NRC 10</span>** (National Research Council, Defending Planet Earth: Near-Earth Object Surveys and Hazard Mitigation Strategies, Committee to Review Near-Earth-Object Surveys and Hazard Mitigation Strategies, http://www.nap.edu/catalog.php?record_id=12842)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=Negative= 
+==Commission CP:== 
+Text: the President of the United States should issue an executive order mandating the creation of a bipartisan, independent commission tasked with recommending Congressional solutions to U.S. space policy. The commission should recommend that the United States Federal Government __Insert plan text here__
+== == 
+
+Commission CP---1NC---Politics Net-Benefit The counterplan avoids politics---commissions take the heat off lawmakers Campbell 2 – Colton C. Campbell, Associate Professor of Political Science at Florida International University, visiting Professor of Political Science at American University, 2002, Discharging Congress: Government by Commission, p. 68-69
+The third major reason for Congress to delegate to a commission is.......support a plan that directly imposes large and traceable geographic costs.
+
+Policymaking by commission’s key to public sector innovation---perm doesn’t solve because the recommendation has to come from outside Congress’s influence Campbell 2 – Colton C. Campbell, Associate Professor of Political Science at Florida International University, visiting Professor of Political Science at American University, 2002, Discharging Congress: Government by Commission, p. 10\
+In short, the commission fits with the ......
+ommission often has no peer.26
+
+Public sector innovation’s key to the economy Potts 10 – Jason Potts, lecturer in the School of Economics at the University of Queensland, 2010, “Public Sector Innovation,” Innovation: Management, Policy & Practice, Volume 12 Issue 2, online: http://www.innovation-enterprise.com/archives/vol/12/issue/2/marketing/
+The public sector is by far the dominant service....
+analysis of public sector innovation.
+
+==Topicality:== 
+
+**<span style="background-color: #ffffff;">Exploration means to expand human presence to space</span>**
+**<span style="background-color: #ffffff;">Logsdon, 9 –</span>** professor of political science at George Washington, former director of the Space Policy Institute (John, “Fifty Years of Human Spaceflight //<span style="background-color: #ffffff;">Why Is There Still a Controversy?,”</span>// <span style="background-color: #ffffff;"><span style="background-color: initial;">[[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100025875_2010028362.pdf]]</span></span>)
+
+Exploration as a Compelling Rationale….
+
+==Spending disadvantage:== 
+
+
+==Payroll Tax cuts:== 
+
+PTC will pass, Obama has the upper hand, it’s at the top of the docket and Obama’s pushing it
+**__<span style="font-size: 12pt;">WSJ 12-31</span>__**(Wall Street Journal. “WSJ: White House Looks To Shrunken 2012 Legislative Agenda” Factivia.)
+<span class="Underline">The president's central focus after he AND </span><span style="font-size: 8pt;">and grandchildren to grow up in." </span>
+
+[Insert Link]
+
+Obama must use all of his PC to get it passed
+**__<span style="font-size: 12pt;">Philadelphia Inquirer 11</span>__**(“POINT: Don't expect miracles on job growth” <span style="background-color: initial;">[[http://articles.philly.com/2011-09-08/news/30130709_1_jobs-plan-american-economy-rare-tax]]</span>)
+<span style="font-size: 8pt;">The fundamental problem in the American AND </span><span class="Underline">tax cut</span><span style="font-size: 8pt;"> and continuing unemployment insurance. </span>
+
+Failure to pass an extension causes a double-dip recession
+**__<span style="font-size: 12pt;">CNN Money 12-20</span>__**(“Economists: Payroll tax deadlock could hobble economy” <span style="background-color: initial;">[[http://www.chicagotribune.com/business/breaking/chi-economists-payroll-tax-deadlock-could-hobble-economy-20111220,0,7377025.story]]</span>)
+<span class="Underline">If Congress fails to pass an AND us much, much more growth." </span>
+
+Double-dip recession would cause massive depression with no hope of recovery
+**__<span style="font-size: 12pt;">CNN Money 11</span>__**(“Recession 2.0 would hurt worse” 8-10.<span style="background-color: initial;">[[http://money.cnn.com/2011/08/10/news/economy/double_dip_recession_economy/index.htm]]</span>)
+<span class="Underline">Another recession could be even worse AND no policy effort to counteract it. </span>
+
+Economic collapse would end U.S. leadership and start multiple international wars.
+Aaron **__<span style="font-size: 12pt;">Friedberg</span>__**, Professor of politics at Witherspoon Institute, **__<span style="font-size: 12pt;">and</span>__**Gabriel **__<span style="font-size: 12pt;">Schoenfeld</span>__**, Senior Editor of Commentary and Wall Street Journal, 10/28/20**__<span style="font-size: 12pt;">08</span>__**, “The Dangers of a Diminished America”, <span style="background-color: initial;">[[http://online.wsj.com/article/SB122455074012352571.html]]</span>
+<span style="font-size: 8pt;">Then there are the dolorous consequences AND as the one we now face.</span>

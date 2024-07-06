@@ -1,0 +1,78 @@
+[[toc|flat]]
+=TIGER (Elections)= 
+**Text: The United States federal government should issue a competitive Transportation Investment Generating Economic Recovery loan for <PLAN>**
+
+**The CP sets up a competitive-merit based approach for transportation infrastructure investment that solves the aff**
+**Herr, 11**
+<span style="font-size: 7pt;">(Phillip, “Competitive Grant Programs Could Benefit from Increased Performance Focus and Better Documentation of Key Decisions,” [[http://www.gao.gov/new.items/d11234.pdf]]) </span>
+The TIGER program represented an important step toward investing in projects of regional and national
+AND
+expertly administer a multi-modal, multi-billion dollar discretionary program.
+
+**Bidding is key to solve cost overruns**
+**Wurfel, 11**
+<span style="font-size: 7pt;">(Michigan Governor’s Office, Rick, “Governor says revitalized infrastructure is road to Michigan's success,” [[http://www.michigan.gov/snyder/0,4668,7-277-59151-264676--,00.html]]) </span>
+While noting the state's continued innovations in transportation infrastructure and new technology, Snyder called
+AND
+construction and maintenance contracts to competitive bidding from the public and private sectors.
+
+**Public hates cost overruns**
+**Perez and Stovall, 12**
+<span style="font-size: 7pt;">(Jessica and Tess, March, The Schwartz Initiative on American Economic Policy, “Coming in on Budget: Infrastructure Contracting Reform,” [[http://content.thirdway.org/publications/509/Third_Way_Idea_Brief_-_Coming_in_On_Budget_Infrastructure_Contracting_Reform.pdf]]) </span>
+Cost overruns erode public trust in infrastructure spending. Polling reveals broad support for modernizing
+AND
+there’s anything that Americans are more cynical about than politics, it’s construction.”
+
+=TIGER (Agenda Ptx)= 
+**CP Text: The United States federal government should issue a Transportation Investment Generating Economic Recovery grant for <PLAN>**
+
+**Solves 100% of the case**
+**It sets up a competitive-merit based approach for transportation infrastructure investment**
+**Herr, 11**
+<span style="font-size: 8pt;">(Phillip, “Competitive Grant Programs Could Benefit from Increased Performance Focus and Better Documentation of Key Decisions,” [[http://www.gao.gov/new.items/d11234.pdf]]) </span>
+The TIGER program represented an important step toward investing in projects of regional and national
+AND
+expertly administer a multi-modal, multi-billion dollar discretionary program.
+
+**Congress __loves__ the CP**
+**Berman, 10**
+<span style="font-size: 8pt;">(Group News Editor for Supply Chain Management Interview, “Transportation infrastructure: DOT awards nearly $600 million in TIGER II funding,” [[http://www.logisticsmgmt.com/article/transportation_infrastructure_dot_awards_nearly_600_million_in_tiger_ii_fun/]]) </span>
+In terms of next possible steps for the TIGER program, LaHood said that TIGER
+AND
+described the TIGER grant award winners as the “cream of the crop.”
+
+=Reform CP (vs. DAR)= 
+**CP Text: The Department of Defense, in coordination with the Department of Transportation, should update, clarify, and communicate the Defense Access Road program’s guidelines to all stakeholders to promote more effective program utilization and ensure regular meetings of appropriate high-level leaders to identify existing federal transportation funding resources and develop a strategy for giving priority consideration to defense-affected communities. The United States federal government should prohibit all further funding increases until Government Accountability Office standards are met.**
+
+**The aff is throwing money at an inefficient program – funding exists, it’s just being utilized incorrectly – the counterplan fixes the funding mechanisms, avoids further investment, and guarantees project effectiveness – zero solvency for the 1AC alone.**
+**GAO – 1AC Article – 2011**
+<span style="font-size: 8pt;">(January, “High-Level Federal Interagency Coordination Is Warranted to Address Transportation Needs beyond the Scope of the Defense Access Roads Program”, [[http://www.gao.gov/assets/320/315277.html]] (sean should recognize this article – he cut it originally – guess he missed the case specific counterplan. At least the pre-typed citations helped) MattG</span>
+Why GAO Did This Study: ¶ The unprecedented growth at 26 military installations across
+AND
+consideration to defense-¶ affected communities. DOD partially concurred with our recommendations.
+
+=Kappeler PIC (vs. Sky Tower Aff)= 
+**CP Text: We should imagine.**
+
+**Stopping violence through the conceptualization of problems and solutions as global ignores our individual complicity in atrocities—their focus on the question of preventing violence ignores the more important question: how can we reform ourselves.**
+**Kappeler 95**<span style="font-family: 'Arial Narrow',sans-serif;"> – Susanne, associate professor at Al-Akhawayn University, The Will to Violence: The Politics of Personal Behaviour, p. 10-11</span>
+'We are the war' does not mean that the responsibility for a war is shared
+AND
+our values' according to the structures and the values of war and violence.
+
+=Redirection CP= 
+**CP Text: The United States federal government should redirect 99% of Highway Trust Fund revenues to maintain, repair, and enhance existing infrastructure and set aside the other 1% to expand the capacity of each state’s DOT to perform cost-benefit analyses.**
+
+**The CP directs funding into current infrastructure and solves the aff**
+**Kahn and Levinson, 11**
+<span style="font-size: 8pt;">(Matthew E. Kahn Professor of Economics, UCLA Institute of the Environment and Sustainability, University of California at Los Angeles David M. Levinson Richard P. Braun/CTS Chair in Transportation, University of Minnesota. “Fix It First, Expand It Second, Reward It Third: A New Strategy for America’s Highways” http://www.hamiltonproject.org/files/downloads_and_links/Final_KAHNDiscussPaper_Feb2011.pdf)</span>
+Our first substantive proposal, Fix It First, directs revenue from the federal gasoline
+AND
+The FY2010 allocation of total federal highway spending is shown in Table 1.
+
+**The CP causes a net decline in infrastructure investment – makes it popular with Republicans**
+**Kahn and Levinson, 11**
+<span style="font-size: 8pt;">(Matthew E. Kahn Professor of Economics, UCLA Institute of the Environment and Sustainability, University of California at Los Angeles David M. Levinson Richard P. Braun/CTS Chair in Transportation, University of Minnesota. “Fix It First, Expand It Second, Reward It Third: A New Strategy for America’s Highways” http://www.hamiltonproject.org/files/downloads_and_links/Final_KAHNDiscussPaper_Feb2011.pdf)</span>
+We recognize that this proposal on its own, by spending more on existing infrastructure
+AND
+on speculative expectations of future demand, rather than on known existing demand.

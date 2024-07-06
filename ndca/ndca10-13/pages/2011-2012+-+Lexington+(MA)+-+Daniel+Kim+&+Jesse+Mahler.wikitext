@@ -1,0 +1,535 @@
+[[toc]]
+=Email for additional cite requests= 
+Aff: [[mailto:jesse.mahler@gmail.com|jesse.mahler@gmail.com]]
+Neg: [[mailto:donkeykong95@gmail.com|donkeykong95@gmail.com]]
+
+=Affirmative= 
+==Blake 1AC== 
+Plan: The United States federal government should substantially increase the development of Operationally Responsive Space, which entails small satellite development with rapid reconstitution, space situational awareness, and hardening of military satellites.
+
+
+===1AC Econ=== 
+An up-front substantial funding of ORS is key to short-term solvency to avoid cost runoffs and delays – the current framework is insufficient
+<span style="font-size: 16px;">Wilson and Haymond 10</span><span style="font-size: 10.6667px;"> (Burke, Colonel, commander, 45th Space Wing and director Eastern Range, Patrick AFB, Florida. He is responsible for the processing and launching of US government and commercial satellites from Cape Canaveral, Jeff, Colonel, vice commander of the Space Development and Test Wing, Kirtland AF, May 2010, “Operationalizing Small Space: Challenges of Moving from Research, Development, Test, and Evaluation to Operations, http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf)</span>
+<span style="font-size: 10.6667px;">1. Recognize an ounce of prevention is better ... some RDT&E processes must be strengthened. May we have the wisdom to determine the right balance. </span>
+
+
+High launch costs inhibit space development
+<span style="font-size: 16px;">Coppersmith 10</span> – historian of technology at Texas A&M University (Jonathan, The Space Review, “Obama in space: bold but not bold enough,” 4/12, http://www.thespacereview.com/article/1603/1
+
+<span style="font-size: 10.6667px;">Lost in the attention given to ending shuttle flights this year ... </span>Making access to space affordable will create vast economic <span class="UnderlineChar">as well as scientific </span>opportunities.
+
+Plan is vital to capitalizing the entire aerospace and commercial industrial base
+<span style="font-size: 16px;">Rendleman 10</span> - Colonel, U.S. Air Force (Retired), (James, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science)
+
+<span style="font-size: 10.6667px;">Given the importance of a responsive space infrastructure to space assurance,... also serve as a vital part of a space assurance strat egy.</span>
+
+
+The industry is key to the economy – provides 5% of total GDP, millions of jobs, and largest export sector
+<span style="font-size: 16px;">AIA 9 </span>(Aerospace Industries Association of America, ??/??/09, “The Strength to Lift America”, [[http://www.aia-aerospace.org/assets/wp_strength_aug09.pdf]])
+
+As the U.S. economy moves through ... These jobs can’t be sent overseas.
+
+
+
+Economic decline causes war
+<span style="font-size: 16px;">Harris and Burrows 9</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;"> – </span><span style="font-family: 'Arial Narrow','sans-serif';">PhD in European History @ Cambridge and Counselor of the US National Intelligence Council AND Member of the National Intelligence Council’s Long Range Analysis Unit (Mathew J. and Jennifer, “Revisiting the Future: Geopolitical Effects of the Financial Crisis,” April, Washington Quarterly, [[http://www.twq.com/09april/docs/09apr_Burrows.pdf]])</span>
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">Of course, the report encompasses more than ... to be increasingly </span><span class="UnderlineChar">difficult </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">both within and between states</span><span class="UnderlineChar"> in a</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;"> more </span><span class="UnderlineChar">dog-eat-dog world. </span>
+
+Experts and history disprove your impact takeouts
+<span style="font-size: 16px;">Schrage ‘9</span> <span style="font-size: 10.6667px;">(Michael J. Green and Steven P., Michael J. Green is Senior Advisor and Japan Chair at the Center for Strategic and International Studies (CSIS) and Associate Professor at Georgetown University. Steven P. Schrage is the CSIS Scholl Chair in International Business and a Former Senior Official with the US Trade Representative's Office, State Department and Ways & Means Committee, //It's not just the economy//, Available Online @ the Asian Times)</span>
+
+<span style="font-size: 10.6667px;">Facing the worst economic crisis since the Great Depression ... critical challenges we face. </span>
+
+Diversionary conflict theory makes war stemming from economic collapse a reality
+<span style="font-size: 16px;">Friedberg ‘9</span> <span style="font-size: 10.6667px;">(Aaron Friedberg and Gabriel Schoenfeld, Professor of politics and international relations at Princeton University's Woodrow Wilson School, Visiting scholar at the Witherspoon Institute in Princeton, Senior editor of Commentary, //The Dangers of a Diminished America//, Accessed Online at the WSJ)</span>
+
+<span style="font-size: 10.6667px;">The stabilizing effects of our presence in Asia, ... emergence as a world economic and geopolitical power. </span>
+
+Alternatively, the US would just withdraw from the international system during the collapse
+<span style="font-size: 16px;">Ferguson ‘9</span><span style="font-size: 10.6667px;"> (Niall, Laurence A. Tisch Professor of History at Harvard University, Author of War of the World and The Ascent of Money, //Introducing the axis of upheaval//, The Times, Accessed Online @ The Times Online)</span>
+
+<span style="font-size: 10.6667px;">The problem is that, </span><span class="UnderlineChar">as in the</span><span style="font-size: 10.6667px;"> 19</span><span class="UnderlineChar">30s</span><span style="font-size: 10.6667px;">, </span>most countries ... The age of upheaval starts here<span style="font-size: 10.6667px;">.</span>
+
+The combination of isolationism and diversion is the most deadly- leads to world war three
+<span style="font-size: 16px;">Ockham Research ‘8</span><span style="font-size: 10.6667px;"> (Independent Equity Research Provider based in Atlanta Georgia, Economic Distress and Geopolitical Risks, November 18th, Accessed Online @ Seeking Alpha)</span>
+
+<span style="font-size: 10.6667px;">The </span>economic turmoil<span style="font-size: 10.6667px;"> roiling world markets right now </span>... itself<span style="font-size: 10.6667px;"> and onto another race, country, ideology, etc.</span>
+
+
+===1AC Deterrence=== 
+Current US satellite vulnerability undercuts deterrence and makes a space attack inevitable
+<span style="font-size: 16px;">Rendleman 10</span> (James, Air Force Colonel, Astropolitics, 8:220–255, 2010, “A Strategy for Space Assurance,” Ebsco Political Science)
+
+<span style="font-size: 10.6667px;">The 11 January 2007 test of a Chinese ground-based, ... </span><span class="UnderlineChar"> and robust enough to counter new </span><span style="font-size: 10.6667px;">21st Century</span><span class="UnderlineChar"> adversary attack capabilities.</span>
+
+The PLA is gearing up for conflict in space – their doctrine proves
+<span style="font-size: 16px;">Wortzel 8</span><span style="font-size: 10.6667px;"> (Larry, Retired, Colonel, United States Army, “The Chinese People’s Liberation Army and Space Warfare,” Astropolitics, 6:112–137, Ebsco Political Science)</span>
+<span style="font-size: 10.6667px;">The PLA Considers Tools of Space Warfare </span>The PLA is exploring a variety of space weapons <span class="UnderlineChar">...</span><span style="font-size: 10.6667px;"> the U.S. military will have access to space--and space-based logistical support--in any future conflict.</span>
+
+Chinese governmental structure makes crisis escalation uniquely high—kills power projection
+<span style="font-size: 16px;">MacDonald 11</span><span style="font-size: 10.6667px;"> (Bruce, Senior Director, Nonproliferation and Arms Control Program, U.S. Institute of Peace, CQ Congressional Testimony, “MILITARY AND CIVIL SPACE PROGRAMS IN CHINA”, 5/11, lexis)</span>
+<span style="font-size: 10.6667px;">One characteristic of too many wars in the last century ... but the potential for space instability seems high and likely to grow.</span>
+
+Chinese counterspace and military strategy is focused on quick, pre-emptive strikes which increases the risk of conflict – statements prove
+<span style="font-size: 16px;">Putman 9</span> (Christopher, Major, USAF, Master’s thesis, September 2009, “COUNTERING THE CHINESE THREAT TO LOW EARTH ORBIT SATELLITES: BUILDING A DEFENSIVE SPACE STRATEGY,” http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA510842&Location=U2&doc=GetTRDoc.pdf)
+
+<span style="font-size: 10.6667px;">While China does not publish an overarching stated grand strategy equivalent... thus must build an effective defensive capability to deter and recover.</span>
+
+That risks miscalc and nuclear escalation
+<span style="font-size: 16px;">Burke 6</span><span style="color: #000000;"> – </span>Lt Col, USAF, command space professional with operational experience in missile operations, space surveillance, space control, missile warning, and command and control (Alan, “SPACE THREAT WARNING: FOUNDATION FOR SPACE SUPERIORITY, AVOIDING A SPACE PEARL HARBOR,” [[https://www.afresearch.org/skins/RIMS/display.aspx?moduleid=be0e99f3-fc56-4ccb-8dfe-670c0822a153&mode=user&action=researchproject&objectid=07acf878-3a5f-4a2c-8259-4a34c0717e9b]])
+
+<span class="UnderlineChar">The erosion of the US ability to execute the space threat warning ... stated that a nation or group could likely interfere with US satellites without fear of retribution.57 </span>
+
+
+<span style="font-size: 16px;">Global nuclear war</span>
+<span style="font-size: 16px;">Hunkovic 9</span><span style="color: #000000; font-size: 10.6667px;"> – </span>American Military University [Lee J, 2009, “The Chinese-Taiwanese Conflict Possible Futures of a Confrontation between China, Taiwan and the United States of America”, [[http://www.lamp-method.org/eCommons/Hunkovic.pdf]]]
+
+<span class="UnderlineChar">A </span>war between China, Taiwan and the United States ...<span style="color: #000000; font-size: 10.6667px;"> other countries will not be considered in this study.</span>
+
+
+<span style="font-size: 16px;">Independently, perceived vulnerability causes the US to preemptively strike china—that escalates</span>
+<span style="font-size: 16px;">Tellis 7</span> (Ashley, Senior Associate @ Carnegie, Survival, Autumn, “China’s Military Space Strategy”, ingenta)
+
+<span style="color: #000000; font-size: 10.6667px;"> Finally, </span><span class="UnderlineChar">the </span>growing Chinese capability for space warfare ... <span class="UnderlineChar">complications of accidents and further misperception</span><span style="color: #000000; font-size: 10.6667px;">.96</span>
+
+
+
+ORS solves deterrence – three warrants
+The first is space situational awareness which facilitates international cooperation and data sharing
+<span style="font-size: 16px;">Sejba 10</span><span style="font-size: 8px;">(Lt Col Timothy A., congressional budget liaison officer, budget and appropriations liaison directorate, deputy assistant secretary for budget, Secretary of the Air Force, Pentagon, Washington DC. In this position, he serves as the single liaison on all space, cyber and nuclear matters between the Air Force and Congressional members and staff, May 2010, “Deterrence for Space: Is Operationally Responsive Space Part of the Solution?,” http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf)</span>
+<span style="font-size: 10.6667px;">In today’s security environment, we rely upon coalition support ... </span>SSA capability within minutes, resulting in <span class="UnderlineChar">a </span>true <span class="UnderlineChar">on-orbit </span>ORS Tier 1<span class="UnderlineChar"> capability.</span>
+
+The second is rapid augmentation of intelligence, surveillance and reconnaissance satellites – that decreases launch costs and facilitates redundancy
+<span style="font-size: 16px;">Sejba 10</span><span style="font-size: 8px;">(Lt Col Timothy A., congressional budget liaison officer, budget and appropriations liaison directorate, deputy assistant secretary for budget, Secretary of the Air Force, Pentagon, Washington DC. In this position, he serves as the single liaison on all space, cyber and nuclear matters between the Air Force and Congressional members and staff, May 2010, “Deterrence for Space: Is Operationally Responsive Space Part of the Solution?,” http://www.afspc.af.mil/shared/media/document/AFD-101019-072.pdf)</span>
+<span style="font-size: 10.6667px;">Rapid Augmentation of On-Orbit Intelligence, Surveillance and Reconnaissance (ORS Tier 2): </span>The US’ need for information <span class="UnderlineChar">and situational awareness </span>... <span style="font-size: 10.6667px;">with active and passive defenses offering deterrence value as well. 20</span>
+
+The third is hardening – that deters adversaries and prevents attacks even deterrence fails
+<span style="font-size: 16px;">Armstrong 10</span><span style="font-size: 10.6667px;">—Major, IDE Student (Mekesha, March, “Strategic Implications of Satellite Constellation Size and Mission Set”, http://www.google.com/url?sa=t&source=web&cd=11&ved=0CBgQFjAAOAo&url=https%3A%2F%2Fwww.afresearch.org%2Fskins%2Frims%2Fq_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153%2Fq_act_downloadpaper%2Fq_obj_c2f524ef-9deb-491f-8abf-0ce381d9dc5d%2Fdisplay.aspx%3Frs%3Denginespage&ei=OMQ1TvX1K4nRsgb9t9G5Ag&usg=AFQjCNF1MqKRwuTrfUoH3sEur02-NNNYVw, ZBurdette)</span>
+<span class="UnderlineChar">The US’s increasing economic and military reliance on space creates ... </span><span style="font-size: 10.6667px;">provide much better processing power than the much older, yet space-qualified, products. 34</span>
+
+The plan represents a shift in strategic mentality from offensive to defensive – stop perception of militarization.
+<span style="font-size: 16px;">Buck 10 -</span><span style="font-size: 10.6667px;"> Integration Manager for the NSSO Communications Functional Integration Office (COMM-FIO), and augments COMM-FIO leadership of a 200-member enterprise team of elite DoD, Intelligence Community (IC), NASA, and space & cyber industry engineers, operators & stakeholders (February 17, 2010, Darren J., “SPACE 2035: TECHNOLOGY, TRANSPARENCY, AND TRUSTED IMMUNITY,” https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_1a3a5809-1e22-4f94-890f-cc231da5bd28/display.aspx?rs=enginespage)</span>
+<span style="font-size: 10.6667px;">Space Weapons: Perception and Provocation</span> The term space weaponization defies precise definition<span class="UnderlineChar"> ... </span>cultural influence on the international stage.
+
+==Pennsbury extra 1AC Cards== 
+Transparency builds international confidence in US intentions
+<span style="font-size: 12pt;">Buck 10 </span><span style="font-size: 8pt;">- Integration Manager for the NSSO Communications Functional Integration Office (COMM-FIO), and augments COMM-FIO leadership of a 200-member enterprise team of elite DoD, Intelligence Community (IC), NASA, and space & cyber industry engineers, operators & stakeholders (February 17, 2010, Darren J., “SPACE 2035: TECHNOLOGY, TRANSPARENCY, AND TRUSTED IMMUNITY,” https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_1a3a5809-1e22-4f94-890f-cc231da5bd28/display.aspx?rs=enginespage)</span>
+
+<span style="font-size: 8pt;">One need only consider the negative international reaction to ...</span> an advantage in the future international arena.55
+
+
+
+Without improved ISR China cyberattacks
+<span style="font-size: 12pt;">BBC 11</span> (Viewpoint: A new Sino-US high-tech arms race? http://www.bbc.co.uk/news/mobile/world-asia-pacific-12154991)
+
+<span style="font-size: 8pt;">Despite recent headlines reporting the appearance of a Chinese stealth fighter... this would likely be a disaster of global proportions. </span>
+
+
+<span class="CiteChar">That destroys the nuclear taboo and causes extinction- all your disad impacts are belong to us</span>
+<span style="font-size: 12pt;">Cimbala 99</span> (Stephen Cimbala, professor of political science at the Pennsylvania State University Delaware County Campus, Summer 1999, Armed Forces & Society: An Interdisciplinary Journal)
+
+The nuclear shadow over the information age remains significant<span class="UnderlineChar">. The essence ...</span> between infowarriors <span class="UnderlineChar">and deterrers </span>could have unfortunate byproducts<span class="UnderlineChar">.</span>
+
+
+===Addons=== 
+====PGS==== 
+The plan results in conventional prompt global strike
+<span style="font-size: 12pt;">Doggrell 6 </span>(Les Doggrell Engineer with the Aerospace Corporation, Senior Project Engineer with the the Aerospace Corporation which supports the Headquarters Air Force Space Command’s Directorate of Plans and Requirements, “Operationally Responsive Space: A Vision for the Future of Military Space,” Air & Space Power Journal, Summer 06)
+
+<span class="UnderlineChar">Development of </span>responsive space<span class="UnderlineChar"> may in turn </span>enable new concepts<span style="font-size: 8pt;"> ...</span><span class="UnderlineChar"> small spacecraft will transform the way we perform traditional space missions.</span>
+
+CPGS enhances US deterrence and strike capabilities through quick, conventional strikes
+<span style="font-size: 12pt;">Friedman 8/19</span> (Jonah Friedman, Research Intern for the Project on Nuclear Issues, CSIS, 8-19-11, The Case for Conventional Prompt Global Strike, http://csis.org/blog/case-conventional-prompt-global-strike)
+
+<span style="font-size: 8pt;">Last week, the Defense Advanced Research Projects Agency carried out its second test ....</span> would be useful to have “other means” with which to respond other than a nuclear attack.
+
+====EMP==== 
+North Korea, Iran, and terrorist organizations are gearing up for EMP attacks against US satellites
+<span style="font-size: 12pt;">Schneider 7</span> (Mark, fellow at the National Institute for Public Policy, November 2007, “The Emerging EMP Threat To The United States,” http://www.nipp.org/Publication/Downloads/Publication%20Archive%20PDF/EMP%20Paper%20Final%20November07.pdf)
+
+<span style="font-size: 8pt;"> As Dr. Lowell Wood told the House Armed Services Commission: </span><span class="UnderlineChar">The ability of North Korea to attack... </span><span class="BoldUnderlineChar"> directed energy weapons (DEW) or electromagnetic pulse</span><span style="font-size: 8pt;"> (EMP).” 6</span>
+
+Satellites can be hardened against EMP’s and radiation from nuclear detonations
+<span style="font-size: 12pt;">Krepon and Clary 3</span><span style="font-size: 8pt;"> – *director of the South Asia and Space Security programs and **director for South Asian affairs in the Office of the Secretary of Defense (Michael and Christopher, 2003, Stimson Center: “Space Assurance or Space Dominance? The Case Against Weaponizing Space” http://www.isn.ethz.ch/isn/Digital-Library/Publications/Detail/?ots591=0c54e3b3-1e9c-be1e-2c24-a6a8c7060233&lng=en&id=105601 WSX)</span>
+
+__Hardening against electromagnetic pulse Satellites can be hardened ...__ __the time lost could become extremely significant.__
+
+====Space Weather==== 
+Small satellites are vital to space weather monitoring – the current lack of space weather forecasting puts all military satellites at risk
+<span style="font-size: 12pt;">Grigsby 10</span> **-** Captain USAF, BSME (September 2010, David A. Grigsby, “SATELLITE CAPABILITIES MAPPING – UTILIZING SMALL SATELLITES”, [[http://dodreports.com/pdf/ada530034.pdf]])
+
+<span class="UnderlineChar">Space is</span><span style="font-size: 8pt;"> a </span><span class="UnderlineChar">hostile</span><span style="font-size: 8pt;"> environment. The phenomena resulting ... </span><span class="UnderlineChar">dismantled due to</span> <span style="font-size: 8pt;">significant</span> <span class="UnderlineChar">budget </span><span style="font-size: 8pt;">and performance</span> <span class="UnderlineChar">problems.</span>
+
+Space weather collapses our economy and our power grid – forecasting is key
+<span style="font-size: 12pt;">Phillips 9</span> (Dr. Tony Phillips is the production editor for www.science.nasa.gov, and an expert on space science for NASA, citing a NAS study on Space Weather “Severe Space Weather--Social and Economic Impacts”, http://science.nasa.gov/science-news/science-at-nasa/2009/21jan_severespaceweather/)
+
+<span style="font-size: 8pt;">That's the surprising conclusion of a NASA-funded study ... 100 days. It's something to think about the next time you flush.</span>
+
+Shutdown of the power grid results in nuclear meltdowns and extinction
+<span style="font-size: 12pt;">IBT 11</span> (International Business Times, 9/14/11, “Solar Flare Could Unleash Nuclear Holocaust Across Planet Earth, Forcing Hundreds of Nuclear Power Plants Into Total Meltdowns”, [[http://au.ibtimes.com/articles/213249/20110914/solar-flare-could-unleash-nuclear-holocaust-across-planet-earth-forcing-hundreds-of-nuclear-power-pl.htm]] We don’t defend the word Holocaust as a representation of past events)
+
+(NaturalNews<span class="UnderlineChar">) Forget about the 2012 Mayan calendar, comet Elenin or the Rapture. </span>The real threat ... rods and sparking fires that would release deadly radiation."
+
+====Miscalc==== 
+
+SSA key to prevent miscalc and escalation
+<span style="font-size: 12pt;">MacDonald ’08</span> – former assistant director for national security at the White House Office of Science and Technology Policy as well as senior director for science and technology on the National Security Council staff (Bruce W, “China, Space Weapons, and U.S. Security,” i.cfr.org/content/publications/attachments/China_Space_CSR38.pdf, RBW)
+
+<span style="font-size: 8pt;">SSA is the ability to track and understand what objects ...</span> __a prerequisite to any effective retaliation or deterrence strategy__<span style="font-size: 8pt;">.</span>
+
+====Warming==== 
+
+SSA improves the environment – the information from satellites is crucial to respond to climate change
+<span style="font-size: 12pt;">Crook 10</span> (Editor for American Society of International Law [John, October, American Journal of International Law, 104 AJIL 666, Lexis Nexis, 7/13/11)
+<span style="font-size: 11pt;">The United States remains committed to the use ... </span><span style="font-size: 8pt;">to guide U.S. activities in space, including principles addressing security and self-defense.</span>
+
+
+
+=Negative= 
+==Blake== 
+Round 1 vs. Niles North HB
+Aff: SPS, aerospace (heg, econ) and ASATs
+Neg Block: weaponization, XO/PP, case (2NC) PTC politics (1NR)
+Neg went for: PTC, case
+
+
+Round 3 vs. Niles West NL
+Aff: SPS (Space dev, aerospace, warming)
+Neg block: Prizes, case, PTC politics
+Neg went for: PTC, case
+
+Round 6 vs. Cedar Rapids BL
+Aff: Asteroids (Big asteroids, Small asteroids (ozone), no war, impact calc)
+Neg block: 2NC: Russia CP, case 1NR: Jackson Vanik (add on)
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Neg went for: Russia CP, Jackson Vanik Politics</span>
+
+===1NC Payroll Tax Cuts Politics DA=== 
+Payroll tax will pass – leaders are optimistic
+<span style="font-size: 16px;">Litvan and Rowley 12/15</span> (Laura and James, 2011, “Senate Leaders Say They’re Closer to Resolving Payroll Tax, Spending Snags”, http://www.bloomberg.com/news/2011-12-15/senate-leaders-say-they-re-closer-to-resolving-payroll-tax-spending-snags.html)
+
+<span style="font-size: 8px;">U.S. </span>Senate leaders in both parties say they are .. will be some movement that gets us down the road<span style="font-size: 8px;">,” he said. </span>
+
+**Plan's massively unpopular**
+**Mankins 8**<span style="font-size: 10.6667px;"> (John C., Spring 2008, Ad Astra, “Space Based Solar Power” [[http://www.nss.org/adastra/AdAstra-SBSP-2008.pdf]])</span>
+
+<span style="font-size: 10.6667px;">AD ASTRA: In light of the growing demand for dwindling ... </span>__Congress to reject limitless energy from the sun.__
+
+
+Political capital is key
+<span style="font-size: 16px;">Mail Online UK 10/13</span>/11 (“'I won't take no for an answer on jobs bill': Defiant Obama vows to continue despite Senate defeat”, http://www.dailymail.co.uk/news/article-2048604/Obama-I-wont-answer-Jobs-bill.html?ito=feeds-newsxml)
+<span style="font-family: 'Arial Narrow','sans-serif';">President Barack </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Obama has recorded a </span><span style="font-family: 'Arial Narrow','sans-serif';">defiant </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">new</span><span style="font-family: 'Arial Narrow','sans-serif';"> campaign </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">video</span><span style="font-family: 'Arial Narrow','sans-serif';"> after his jobs bill .... Recent polling data has revealed 52 per cent of Americans now back the bill, according to SBS. </span>
+
+Payroll tax cut portion of Jobs Bill needed to avert economic shock that will tip US back into a second recession
+<span style="font-size: 16px;">Washington Post 9/8</span>/11 ( <span style="color: #000000;">http://www.washingtonpost.com/blogs/ezra-klein/post/just-how-effective-is-the-payroll-tax-cut/2011/09/08/gIQAodirCK_blog.html</span>)
+<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">President </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;">Obamais expected to call for an extension of the payroll tax cut </span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">i...</span><span style="font-family: 'Arial Narrow','sans-serif'; font-size: 13.3333px;"> it will at least avert further degradation.</span>
+
+A double dip recession would be much worse than the first and trigger an economic depression
+<span style="font-size: 16px;">CNN Money 8/10</span><span class="StyleStyleBold12pt">/</span>11 ([[http://money.cnn.com/2011/08/10/news/economy/double_dip_recession_economy/index.htm]])
+Another recession could be even worse than the last one for a few reasons. <span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">...</span> So this new recession would likely have virtually no policy effort to counteract it<span style="font-family: 'Arial Narrow','sans-serif'; font-size: 10.6667px;">.</span>
+
+
+Extinction
+<span style="font-size: 16px;">Austin ‘09</span><span class="CardsChar1"> (Michael, Resident Scholar – American Enterprise Institute, and Desmond Lachman, Resident Fellow – American Enterprise Institute, “The Global Economy Unravels”, Forbes, 3-6, </span><span style="color: #000000; text-decoration: none;">[[http://www.aei.org/article/100187]]</span><span class="CardsChar1">)</span>
+Conversely, global policymakers do not seem to have ... <span style="font-size: 13.3333px;">The result may be</span> a series of small explosions that coalesce into //<span style="font-size: 13.3333px;">a big bang. </span>//
+
+
+
+
+===1NC Jackson Vanik Politics DA=== 
+Jackson Vanik is Obama’s top priority – it’ll pass now
+<span style="font-size: 16px;">RFERK 12/15</span> (Radio Free Europe Radio Liberty, [[http://www.rferl.org/content/us_russia_jackson_vanik_magnitsky_wto_gordon_melia/24422300.html]])
+Assistant Secretary of State for Europe and Eurasia Philip Gordon ... on the books would be "cutting off our noseto spite our face."
+
+Plan costs tons of political capital – benefits are too far off for anyone to care
+<span style="font-size: 10.6667px;">Matthew T. </span><span style="font-size: 16px;">Dearing, 11</span><span style="font-size: 10.6667px;"> (April 12th 2011, “Protecting The Planet Requires Heroes, Money, And Citizen Scientists,” </span>
+<span style="font-size: 10.6667px;">The Citizen Science Journal, [[http://research.dynamicpatterns.com/2011/04/12/protecting-the-planet-requires-heroes-money-and-citizen-scientists/]])</span>
+
+<span style="font-size: 10.6667px;">Artist's concept of a catastrophic asteroid impact with the early Earth. An impact with a 500-km-diameter asteroid would ... round table to prepare for the ultimate defensive plan for our planet.</span>
+
+Capital key
+<span style="font-size: 16px;">Moscow Times 12/14</span> (2011, online)
+<span style="font-size: 8px;">WASHINGTON — </span>The White House faces a major challenge<span style="font-size: 8px;"> next year </span>persuading <span style="font-size: 8px;"> ...</span>distrust<span style="font-size: 8px;"> that members </span>of Congress<span style="font-size: 8px;">feel today."</span>
+
+
+Relations are at a breaking point – failure emboldens Russian nationalism and devastates reset
+<span style="font-size: 16px;">Goodrich 12/13</span> (Lauren Goodrich is a research analyst at STRATFOR, Cutting Edge News, 2011, http://www.thecuttingedgenews.com/index.php?article=53358&pageid=89&pagename=Features)
+
+Tensions between the U<span style="font-size: 8px;">nited </span>S<span style="font-size: 8px;">tates </span>and Russia ...until it does so, the U<span class="underline0">nited </span>S<span class="underline0">tates </span>cannot recognize Russia as a WTO member<span class="underline0">.</span>
+
+
+Russian relations are key to solve every impact
+<span style="font-size: 16px;">Nixon Center 9</span> - The Commission on U.S. Policy toward Russia joint project of The Nixon Center and the Belfer Center for Science and International Affairs, a research center within Harvard University’s John F. Kennedy School of Government, “The Right Direction for U.S. Policy toward Russia,” March 2009 http://www.nixoncenter.org/RussiaReport09.pdf
+
+<span style="font-size: 8px;">Securing America’s vital national interests in the complex, interconnected, and interdependent ... </span>Failure could impose significant costs<span style="font-size: 8px;">.</span>
+
+==Pennsbury== 
+Round 2 vs. Briar Woods KQ
+Aff: DSCVR (Climate denialsim (racism, warming), no war, no K’s)
+Neg block: 2NC: XO, PP, case 1NR: Payroll Tax Cuts DA
+Neg went for: XO/PP, PTC
+
+
+Round 4 vs. Briar Woods HW
+Aff: Lunar Mining (Warming (coal, air pollution, water contamination, bioD, warming), energy security, cancer (radiation))
+Neg Block: 2NC: Privatization CP, Oil turn and DA, case (w/ radiation turn), 1NR: Payroll Tax Cuts Politics DA
+Neg went for: PTC DA, case (w/ oil turn and radiation turn)
+
+
+Octos vs. BCC BB
+Aff: Space Commons
+Neg Block: 2NC: Property Rights CP, FW, 1NR: Case, util, Neolib good turns
+Neg went for: Property Rights CP, neolib good
+
+
+Semis vs. NFA MS
+Aff: DSCVR (climate denialism, Net-centric Warfare)
+Neg Block: 2NC: Politicization of Science K, case 1NR: PTC DA
+Neg went for: PTC, case
+
+
+===1NC Payroll Tax Cuts DA=== 
+Will pass - Reid push
+<span style="font-size: 12pt;">Miller 2/2</span> (Sunlen Miller, is a reporter for ABC News covering Congress with a focus on the U.S. Senate with a bachelor’s degree in International Affairs and Media and Communications, February 2, 2012, “Reid Warns Payroll Conference Committee That ‘I Want to See Some Action”, http://abcnews.go.com/blogs/politics/2012/02/reid-warns-payroll-conference-committee-that-i-want-to-see-some-action)
+The pressure is mounting on the payroll... hopeful it would be a bipartisan bill. “If not, we’re enacting legislation.”
+
+
+Moon mining is politically explosive – risk of failure and high costs
+<span style="font-size: 12pt;">Gass 11</span><span style="font-size: 8pt;">- Henry Gass, contributor for The Ecologist, July 7, 2011, “Plans to Strip Mine the Moon May Soon be More Than Just Science-Fiction,” [[http://globalresearch.ca/index.php?context=va&aid=25542]]</span>
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">‘</span>__<span style="font-family: 'Arial Narrow',sans-serif; font-size: 11pt;">This will not be funded by</span>__<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;"> any government or any federal agency ...</span><span style="font-size: 11pt;"> most research-oriented – they have to fund with limited budgets</span><span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">.</span>
+
+
+Political capital is key – prior wins don’t translate into future wins, only a sustained and focused push can get it done
+<span style="font-size: 12pt;">Bull and Boha 12/27</span> [Allister Bull and Caren Boha, Gulf News correspondents, 12/27 (Obama: hero of the middle class? http://gulfnews.com/business/opinion/obama-hero-of-the-middle-class-1.957304)]
+<span style="font-size: 8pt;">For US President Barack Obama, it was a political victory that has given his ... unemployment benefits would put more than $100 billion into the pockets of American households in 2012.</span>
+
+
+Payroll tax cut portion of Jobs Bill needed to avert economic shock that will tip US back into a second recession
+<span style="font-size: 12pt;">Washington Post 9/8</span>/11 ( http://www.washingtonpost.com/blogs/ezra-klein/post/just-how-effective-is-the-payroll-tax-cut/2011/09/08/gIQAodirCK_blog.html)
+<span style="font-size: 8pt;">President </span><span class="UnderlineChar">Obamais expected to call for an extension of the payroll tax cut <span style="font-size: 11px; line-height: 16px;">...</span> </span><span style="font-size: 8pt;">the argument goes</span><span class="UnderlineChar">, it will at least avert further degradation.</span>
+
+
+A double dip recession would be much worse than the first and trigger an economic depression
+<span style="font-size: 12pt;">CNN Money 8/10</span><span class="StyleStyleBold12pt">/</span>11 (http://money.cnn.com/2011/08/10/news/economy/double_dip_recession_economy/index.htm)
+<span class="UnderlineChar">Another recession could be even worse than the last one for a few reasons ...</span> this new recession would likely have virtually no policy effort to counteract it<span style="font-size: 8pt;">.</span>
+
+Extinction
+<span style="font-size: 12pt;">Austin ‘09</span><span class="CardsChar1"> (Michael, Resident Scholar – American Enterprise Institute, and Desmond Lachman, Resident Fellow – American Enterprise Institute, “The Global Economy Unravels”, Forbes, 3-6, http://www.aei.org/article/100187)</span>
+<span style="font-size: 8pt;">Conversely, global policymakers do not seem to have grasped the downside ...</span><span class="UnderlineChar"> may be</span><span style="font-size: 8pt;"> a series of small explosions that coalesce into </span><span class="BoldUnderlineChar">a big bang. </span>
+
+
+
+===2NC PTC Cap and Trade - Elections=== 
+Payroll success causes Obama re-election
+<span style="font-size: 12pt;">AP 10/25</span>/11 [[http://www.google.com/hostednews/ap/article/ALeqM5jBBAuCkwwz36b0l5ZSe63veDz47Q?docId=c480f4a9b7634e9f8e0fd60ddd74c5ef]]
+<span style="font-family: 'Times New Roman',serif;">Blocked by congressional Republicans yet determined to show action as he seeks re-election ...</span><span style="font-size: 8pt;"> "He's the president. He's got to try to do everything he can."</span>
+
+Obama win key to cap and trade
+<span style="font-size: 12pt;">Politico ‘11 </span>[[http://epw.senate.gov/public/index.cfm?FuseAction=Minority.Blogs&ContentRecord_id=b75cfcfc-802a-23ad-4095-a6d19dce8fa3]]
+
+<span style="font-size: 8pt;">President Barack </span><span style="font-family: 'Times New Roman',serif;">Obama is offering his</span><span style="font-size: 8pt;"> beleaguered </span><span style="font-family: 'Times New Roman',serif;">green base some ... expect him to come back to his policy priorities, including clean energy</span><span style="font-size: 8pt;">," Roy said. </span>
+
+
+
+Cap and Trade empirically solves and creates international linkages – prefer our comparative evidence.
+<span style="font-size: 12pt;">Stavins 7</span><span style="font-size: 8pt;">(Robert N. Stavins is the Albert Pratt Professor of Business and Government at the John F. Kennedy School of Government, Harvard University, and Director of the Harvard Environmental Economics Program -- A U.S. Cap-and-Trade System to Address Global Climate Change -- DISCUSSION PAPER – Oct 13th --http://www.brookings.edu/~/media/Files/rc/papers/2007/10climate_stavins/10_climate_stavins.pdf)</span>
+
+__<span style="font-size: 9pt;">The need for a domestic U.S. policy that seriously ...</span>____<span style="font-size: 9pt;"> between imports and import-competing domestic products</span>__
+
+
+
+===1NC Property Rights CP (vs. Space Commons)=== 
+Counterplan text: The United States federal government should establish lunar property rights for helium-3 mining.
+
+First observation is solvency –
+A. Independently solves space conflict – their Dickens and Ormrod evidence indicates the only reason neoliberalist expansion is happening is based on protecting property in space.
+
+B. Recognizing property rights solves resource conflict – any alternative doctrine like the aff fails
+<span style="font-size: 12pt;">Twibell 97</span> (Ty S. Twibell, J.D. Candidate, , University of Missouri- Kansas City School of Law, B.S., Public Administration, Southwest Missouri State University, 1997, 65 UMKC L. Rev. 589 | Suo)
+As stated at the forefront of this Note, <span class="UnderlineChar">the emergence ...</span> effect is one of both international harmony and humanitarian rewards.
+
+C. Common Heritage ignores the fact that states WANT lunar property – makes war inevitable – only property rights can solve
+<span style="font-size: 12pt;">Hatch 10</span> (Benjamin D. Hatch, Executive Notes and Comments Editor, Emory International Law Review; J.D. Candidate, Emory University School of Law (2010),24 Emory Int'l L. Rev. 229, Lexis | Suo)
+
+<span style="font-size: 8pt;">Noting the substantive problems presented by the text of both the OST and the Moon Agreement ...</span> able to sufficiently stop state conflict over the greatest economic opportunity in history.
+
+
+
+
+===Neolib Good Turns=== 
+Neoliberalism key to biotech advancement—manufactures market scarcity
+<span style="font-size: 12pt;">Birch 6</span> <span style="font-size: 9pt;">(Kean, Research Fellow working for the Center for Public Policy for Regions, Neoliberalism studies, University of Glasgow, Journal of Genomics, Society and Policy, Vol. 2, No. 3, “The Neoliberal Underpinnings of the Bioeconomy: the Ideological Discourse and Practices of Economic Competitiveness,” online)</span>
+
+<span style="font-size: 8pt;">In this sense we can see that the biotech market ... marginal returns from private investment produce monopoly profits.47</span>
+
+
+Biotech solves soil erosion
+<span style="font-size: 12pt;">McGloughlin 99</span> (Prof @ Univ of California Davis, Journal of Agrobiotech Management & Economics Vol.2 No.3/4 Article. 4)
+
+<span class="UnderlineChar">The argument that adoption of biotechnology crops is ...</span> and water infiltration and storage**__.__**
+
+
+That leads to extinction
+<span style="font-size: 12pt;">Francis 94</span> (Ag research @ U Nebraska, http://www.ianr.unl.edu/ianr/csas/v6ch8.htm)
+
+Nothing is more basic to long term survival of the human species ... <span style="font-size: 8pt;">valuable reference for researchers in an area of growing importance for the future.</span>
+
+
+<span style="font-size: 12pt;">Globalization solves terrorism – discourages the bandwagon effect</span>
+<span style="font-size: 12pt;">Barber, 04</span>**,** <span style="font-size: 8pt;">U.S. Managing Editor, Financial Times, International Economy Publications, Gale Group, “Is continued globalization of the world economy inevitable?” </span><span class="Heading2Char">2004</span><span style="font-size: 8pt;">, http://findarticles.com/p/articles/mi_m2633/is_3_18/ai_n6276708/print</span>
+
+<span class="UnderlineChar">For all its merits, </span>globalization ... forces in favor of globalization are far stronger than those pitted against.
+
+Terrorism causes extinction
+<span style="font-size: 12pt;">Sid-Ahmed, 04,</span><span style="font-size: 7pt;">Mohamed, Al-Ahram Weekly Online, August 26-September 1, </span><span style="font-size: 9pt;">2004</span>
+<span style="font-size: 7pt;">http://weekly.ahram.org.eg/2004/705/op5.htm</span>
+
+<span class="UnderlineChar">A </span>nuclear attack by terrorists will be ...<span class="UnderlineChar"> the whole planet, we will all be losers.</span>
+
+
+**<span style="font-family: 'Arial Narrow',sans-serif;">Neoliberalism solves global poverty.</span>**
+<span style="font-size: 12pt;">Bandow 01</span> <span style="font-size: 8pt;">senior fellow at the CATO Institute [Doug Bandow, , March 25th, 2001 Globalization Serves the World's Poor, http://www.cato.org/dailys/04-25-01.html]</span>
+
+<span style="font-family: 'Arial Narrow',sans-serif; font-size: 8pt;">Indeed, the </span>problems of globalization ... With them comes increased wealth.
+
+
+
+==Harvard== 
+Round 1 vs. Kinkaid MR
+Aff: Nanosats (Warming, cyberattacks)
+Neg Block: 2NC: Terrestrial CP, politicization of science K, case 1NR: weaponization DA
+Neg went for: Weaponization, case
+
+
+Round 4 vs. Westminster HX
+Aff: ExoMars (ESA, NASA, Cooperation)
+Neg Block: 2NC: Delay SLS CP, Case 1NR: JWST Tradeoff DA
+Neg went for: Delay SLS CP, T/O DA
+
+
+Round 5 vs. Bronx Law LR
+Aff: White Supremacy Narrative
+Neg Block: 2NC: Cap K 1NR: FW
+Neg went for: Cap K
+
+
+===1NC Military Energy DA=== 
+Military clean energy is the top of the docket and will pass now-Obama is pushing hard
+<span style="font-size: 12pt;">National Journal 2/10</span> (White House Budget to Expand Clean-Energy Programs Through Pentagon, [[http://www.nationaljournal.com/2013-budget/white-house-budget-to-expand-clean-energy-programs-through-pentagon-20120210?page=1]])
+__The White House believes it has figured out how ...__ we’d need to see a two- to three-year payoff on the investment,” Kingston said.
+
+Drains polcap – empirically proven that funding is the main inhibitor of nanosats
+**Hawkins, 2011 (1ac author)** <span style="font-size: 8pt;">(Kari, Assistant Editor of the Redstone Rocket, “Flying Into Orbit in Small Package”, Redstone Rocket, Vol. 60 No. 4, January 26, https://ams8.redstone.army.mil/pls/portal/docs/PAGE/PAO_PAGE_GROUP/PAO_COMMAND_PUBLICATIONS_PAGE/PAO_COMMAND_PUBS_CENTER_PORTLET/JANUA </span>
+
+<span style="font-size: 8pt;"> “These engineers have done a lot with a little. ...</span> __want to do,__<span style="font-size: 8pt;">” he said. </span>
+
+Nanosatellites will come at $150,000 per satellite
+<span style="font-size: 12pt;">Next Big Future 10</span><span style="font-size: 8pt;"> (Coverage of science and technology having high potential for disruption & Analysis of plans, policies and technology to enable radical improvements, August 10, “Army Working on Nanomissiles for Launching 10-23 kilogram Nanosatellites,” http://nextbigfuture.com/2010/08/army-working-on-nanomissiles-for.html)</span>
+
+<span class="UnderlineChar">The Army Space and Missile Defense Command</span><span style="font-size: 8pt;"> (SMDC) </span><span class="UnderlineChar">is working to ...</span> little as $150,000 apiece<span style="font-size: 8pt;"> if they are being produced in quantity</span>
+They need thousands of satellites to access solvency
+<span style="font-size: 12pt;">DTIC ‘1</span><span style="font-size: 8pt;"> (Defense Technical Information Center, Low-Cost/Robust Nanosatellite Spacecraft for Distributed, Communication Systems Constellations[[http://www.dtic.mil/dticasd/sbir/sbir011/sba17.html]])</span>
+
+<span style="font-size: 8pt;">There are no specific requirements for the system. ... characteristics of the component or subsystem technology.</span>
+
+Political capital is key to securing his clean energy budget
+Pheobe <span style="font-size: 12pt;">Draper</span>, Brown Herald staff writer, <span style="font-size: 12pt;">2/10</span> (http://www.browndailyherald.com/undergrad-finds-trend-in-climate-rhetoric-1.2698681#.Tza2qVF9nww)
+__Obama's change in rhetoric is an adaptation to political conditions in Washington__ D.C.,...__but energy production isn't quite so much__."
+
+Key to hegemony
+Ray <span style="font-size: 12pt;">Mabus</span>, Secretary of the Navy, 3/2/<span style="font-size: 12pt;">2011</span>. http://www.navy.mil/navydata/people/secnav/Mabus/Speech/ARPAe02Mar11.pdf
+To use your director’s own words, “__Our dependence on fossil fuels severely ...__ __absolutely critical for the success of these ships.__
+
+This solves global superpower conflict
+<span style="font-size: 12pt;">Khalilzad 2011</span>, US ambassador to Afghanistan, Iraq, and UN under Bush Jr.; Dir, Policy Planning, Dept of Defense, 1990-2; analyst, RAND Corporation, (“The Economy and National Security,” Nat’l Review Online, http://www.nationalreview.com/articles/259024/economy-and-national-security-zalmay-khalilzad?page=1)
+We face this domestic challenge while other major powers are experiencing ... __make aggressive moves__ in their regions.
+
+
+
+===1NC JWST Tradeoff DA (vs. ExoMars)=== 
+
+
+JWST has made Human Spaceflight vulnerable to cuts
+<span style="font-size: 12pt;">Berger 11</span> ( Eric Berger Eric Berger is the Houston Chronicle's space, weather and science reporter .on October 12, 2011, Should we put human spaceflight on hold a year to save astronomy?, [[http://blog.chron.com/sciguy/2011/10/should-we-put-human-spaceflight-on-hold-a-year-to-save-astronomy/]] )
+
+Canceling the project would be devastating. The money ... This spaceflight program is dreadfully vulnerable.
+Plan costs about 1.5 billion
+<span class="CiteChar">Mars daily 2/13</span> <span style="font-size: 8pt;">(Scientists say Obama Mars cuts to hit research, [[http://www.marsdaily.com/reports/Scientists_say_Obama_Mars_cuts_to_hit_research_999.html]])</span>
+<span class="UnderlineChar">According to the ExoMars deal NASA and ESA made ...</span> according to Hubbard.
+
+US dependence on foreign launch services threatens US space access and eviscerates US economic and military leadership
+<span style="font-size: 12pt;">Burton, 7 -</span> Lt Col. USAF [“GLOBALIZED SPACELIFT: A THREAT TO ASSURED ACCESS”, [[https://www.afresearch.org/skins/rims/q_mod_be0e99f3-fc56-4ccb-8dfe-670c0822a153/q_act_downloadpaper/q_obj_49ad2600-7fa9-4b95-87f2-2a2376985905/display.aspx?rs=enginespage]],]
+
+<span class="UnderlineChar">Control of the space launch market has been attempted...</span> imagery or other services would be significantly limited.
+Economic collapse leads to nuclear war
+<span style="font-size: 12pt;">Mead 9</span> – Walter Russell Mead, the Henry A. Kissinger Senior Fellow in U.S. Foreign Policy at the Council on Foreign Relations, 2-4, 2009, “Only Makes You Stronger,” The New Republic, http://www.tnr.com/politics/story.html?id=571cbbb9-2887-4d81-8542-92e83915f5f8&p=2
+
+If current market turmoil seriously damaged the performance and prospects ... we may still have to fight.
+
+
+===1NC Delay SLS CP (vs. ExoMars)=== 
+
+Text: The United States federal government should delay the Space Launch System until the fiscal conditions permit a sustainable and cost-effective program
+CP solves – reserves funding for Mars Exploration and maintains human spaceflight and the JWST program
+<span style="font-size: 12pt;">Friedman 11</span> (Lou, Founder and Executive Director, The Planetary Society Ph.D. from the Aeronautics and Astronautics Department at M.I.T., 10/10, “ Is OMB wiping out planetary exploration? http://www.thespacereview.com/article/1947/1)
+
+<span style="font-size: 8pt;">To be clear: </span><span class="UnderlineChar">I am very much for both human space exploration and development ...</span> pay for a host of other science and technology initiatives.
+
+===2NC Delay SLS CP cards=== 
+The counterplan solves and prevents cuts to the JWST and other programs
+<span style="font-size: 12pt;">Space News 11</span> (Space News Editor from the Space News network, 10/11, “Editorial: Identify JWST’s Bill Payers,” http://www.spacenews.com/commentaries/111010-identify-jwst-bill-payers.html)
+
+<span class="UnderlineChar">Canceling the project would be devastating</span><span style="font-size: 8pt;">. </span><span class="UnderlineChar">The money ...</span><span style="font-size: 8pt;"> its substantial problems notwithstanding </span><span class="UnderlineChar">— </span>is a fair trade<span class="BoldUnderlineChar">.</span>
+
+
+Funding for smaller NASA programs is on the brink now — trying to maintain both JWST and the SLS will devour funds
+<span style="font-size: 12pt;">Matthews 11</span><span style="font-size: 8pt;"> (Mark, Orlando Sentinel, “NASA's smaller programs could be at risk”, __http://articles.orlandosentinel.com/2011-08-30/news/os-nasa-budget-worries-20110830_1_james-webb-space-telescope-keith-cowing-internal-nasa-documents__)</span>
+
+<span class="UnderlineChar">The cost of NASA's two flagship programs — a </span>new space telescope and ...<span class="UnderlineChar"> would have looked at a mysterious cosmic force known as gravitational waves</span><span style="font-size: 8pt;">.</span>
+
+
+
+Mars mission is still being debated – however it won’t pass unless money is freed up - CP provides that money
+<span style="font-size: 12pt;">Spotts 2/10</span> ( Pete Spotts, Staff writer Christian science monitor / February 10, 2012, Red Planet meets red ink: budget ax could chop two NASA Mars missions, http://www.csmonitor.com/Science/2012/0210/Red-Planet-meets-red-ink-budget-ax-could-chop-two-NASA-Mars-missions)
+
+<span class="UnderlineChar">Overall, the reports suggest that the </span>total budget request ... failed to craft a bipartisan plan to deal with the deficit.
+
+===1NC Capitalism Kritik=== 
+While ignoring overwhelming historical evidence that capital creates racism to discipline both classes. Only broad struggle against capitalism can dismantle racism
+<span style="font-size: 12pt;">Smith ‘6</span><span style="font-size: 5pt;"> (Sharon, //Author of Women and Socialism: Essays on Women’s Liberation//, “Race, class, and "whiteness theory"” International Socialist Review, Issue 46, http://www.isreview.org/issues/46/whiteness.shtml bb)</span>
+<span style="font-size: 5pt;">But </span><span class="UnderlineChar">who is responsible for the perpetuation of racism ... .</span><span style="font-size: 5pt;">the worst of the “old crap” that must be conquered if the labor movement is to succeed.</span>
+
+Race framing directly tradesoff with a prioritization of class—vote negative to move past the politics of racial difference into a radical critique of the material conditions of racial oppression
+<span style="font-size: 12pt;">McLaren and D’Anniballe, 2k4</span><span style="font-size: 5pt;"> (Peter, Professor at the Graduate School of Education at UCLA, and Valerie “Class Dismissed? Historical materialism and the politics of ‘difference’”, //Philosophy of Education Society of Australasia//)</span>
+A radical political economy framework is crucial since<span class="UnderlineChar"> various ... the working class as the fundamental agent of change</span>.
+
+
+Class is the root cause of racism
+<span style="font-size: 12pt;">McLaren and D’Anniballe 2k4</span><span style="font-size: 5pt;"> (Peter, Professor at the Graduate School of Education at UCLA, and Valerie “Class Dismissed? Historical materialism and the politics of ‘difference’”, //Philosophy of Education Society of Australasia//)</span>
+<span style="font-size: 5pt;">For example, E. San Juan (2003) argues that </span>race relations and<span class="UnderlineChar"> race </span>conﬂict ... exploited<span class="UnderlineChar"> and oppressed </span>position of these<span class="UnderlineChar"> “racial” </span>solidarities’<span style="font-size: 5pt;">.</span>
+
+
+
+The affirmative’s reliance on social location and personal experience belies the objective historical conditions of capitalism—turns the aff
+<span style="font-size: 12pt;">McLaren and D’Anniballe, 2k4</span><span style="font-size: 5pt;"> (Peter, Professor at the Graduate School of Education at UCLA, and Valerie “Class Dismissed? Historical materialism and the politics of ‘difference’”, //Philosophy of Education Society of Australasia//)</span>
+<span class="UnderlineChar">This framework must be further distinguished from those ...</span><span style="font-size: 5pt;"> That, however, </span>requires a broad class-based approach<span style="font-size: 5pt;">.</span>
+
+
+**<span style="font-size: 11pt;">Capitalism relies on biopower, and creates domination over people with the ability to destroy entire populations.</span>**
+<span style="font-size: 12pt;">Internationalist Persepective 2k</span>(Internationalist Perspective; “Capitalism and Genocide,” Issue 36, Spring 2000; http://www.reocities.com/wageslavex/capandgen.html)
+
+<span style="font-size: 8pt;">For Anders, the first industrial revolution introduced the machine </span>...<span style="font-size: 8pt;"> which revolutionaries ignore at their peril. </span>
+
+Reject the aff’s naturalization of the Capitalist system. Attempts to manage the __symptoms of capitalism__ __within the system__ fail and legitimize further genocidal violence culminating in extinction.
+<span style="font-size: 12pt;">Herbert 3</span><span style="font-size: 8pt;"> (Brent, contributor to Portland Independent Media Center, 10/3/03 (The Genocidal Mentality, http://portland.indymedia.org/en/2003/10/273190.shtml)</span>
+
+<span style="font-size: 6pt;">Christian totalists justify genocidal means of 'salvation' and 'discipline' as required in order ... </span>'Humanity will require a whole new way of thinking, if we are to survive<span style="font-size: 6pt;">..."</span>
+
+Role of the Ballot – The goal of critical pedagogy must primarily be to criticize the material conditions of capitalism
+<span style="font-size: 12pt;">McLaren, 2k5</span><span style="font-size: 5pt;"> (Peter, Professor at the Graduate School of Education at UCLA, //Teaching against global capitalism and the new imperialism: a critical pedagogy,// pg. 6-11)</span>
+<span class="UnderlineChar">As U.S. imperialism sinks its claws deeper ...</span><span style="font-size: 5pt;"> and incarnations of imperialism worldwide.</span>
+
+
+
+[[include page="space.template.Footer"]]

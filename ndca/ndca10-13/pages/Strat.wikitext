@@ -1,0 +1,235 @@
+[[toc]]
+= = 
+=Wake Forest= 
+==Round 1-St. Vincent De Paul (K Bering Strait)== 
+1nc: framework, cap k, biopower k, case defense
+2nc- biopower k & framework
+1nr- cap k
+2nr- biopower k
+
+==Round 3- Centennial (ITS)== 
+1nc- biopower, nanotech cp, elections da, private cp
+2nc- nanotech cp & elections da & case defense
+1nr- biopower
+2nr- biopower
+
+==Round 5- Pine Crest (HSR)== 
+1nc- nanotech cp, elections da, private cp, & case defense
+2nc- nanotech cp & case defense
+1nr- elections da
+2nr- nanotech cp
+
+=Griffin HS= 
+==Round 2-Central Gwinett (Mass Transit)== 
+1nc- spec, elections da, private cp w/ coercion nb, security k, case d
+2nc- security k, case d
+1nr- elections & private
+2nr- private and elections
+
+==Round 4- Calhoun (Next Gen)== 
+1nc- nanotech da, private cp, elections da, coercion da, and security k, case defense
+2nc- security k, nanotech da, and case defense
+1nr- elections da and private cp
+2nr- elections da and private cp
+
+=Chattahoochee HS= 
+==Round 1- Alpharetta (Icebreakers)== 
+1nc- t-physical assets, private cp, elections da, coercion da, and security k, and case defense
+2nc- security kritik and t, and case defense
+1nr- elections and private cp
+2nr- security kritik
+
+==Round 4- Central Gwinnett (NextGen)== 
+1nc- security k, private cp, elections da, coercion da, and case defense and nanotech da
+2nc- security k, private cp
+1nr- nanotech da and case defense
+2nr- nanotech da
+
+==Round 6- Wheeler (CCS)== 
+1nc- security k, private cp, elections da, nanotech da, and case defense
+2nc- security k and case defense
+1nr- elections da and private cp
+2nr- private cp and elections da and case defense
+
+=Johns Creek HS= 
+==Round 2- Alpharetta (Icebreakers)== 
+1nc- t-physical assets, private cp, elections da, coercion da, and security k, and case defense
+2nc- security kritik and t, and case defense
+1nr- elections and private cp
+2nr- elections and private cp
+
+==Round 4- Alpharetta (Icebreakers)== 
+1nc- biopower k, security k, elections and case defense
+2nc- biopower k and case defense
+1nr- elections and case defense
+2nr- biopower k
+
+==Round 5- Milton (Mayport)== 
+1nc- security k, private cp, elections, and case defense
+2nc- security k, private cp
+1nr- case defense and elections
+2nr- f/w on the kritik, elections and case defense
+
+=Alpharetta HS= 
+==Round 1- Wheeler (CCS)== 
+1nc- security k, privates cp, elections, and case defense
+2nc- security k and elections
+1nr- case defense
+2nr- security k
+
+==Round 3- Calhoun (Nat'l Parks)== 
+1nc- security k, privates cp, coercion, and elections
+2nc- privates cp and coercion
+1nr- case defense
+2nr- privates and coercion
+
+=Sequoyah HS= 
+==Round 2- Woodward (Surface Transport)== 
+1nc- fiscal cliff, privates, security k, stimulus bad, heg bad, and case d
+2nc- fiscal cliff, stimulus bad, and heg bad
+1nr- security k
+2nr- security k
+
+==Round 4- Alpharetta (New Orleans)== 
+1nc- fiscal cliff, biopower k, and privates, and case defense (w/ cap good)
+2nc- biopower k and fiscal cliff
+1nc- case defense
+2nr- fiscal cliff and case
+
+=Ohio Valley= 
+==Round 1- Hooch (Port Security)== 
+1nc- fiscal cliff, omb, security k, and case defense
+2nc- fiscal cliff, omb, and case defense
+1nr- case defense and security k
+2nr- fiscal cliff da
+
+==Round 3- St. Ignatius (ITS)== 
+1nc- fiscal cliff, omb, and security k, heg bad, and case defense
+2nc- omb, fiscal cliff, and case defense
+1nr- case defense and security k
+2nr- security k
+
+==Round 5- Johns Creek (Evacuation)== 
+1nc- framework and case defense
+2nc- framework
+1nr- framework and case defense
+2nr- framework
+
+=Milton HS= 
+==Round 1- Hooch (Port Security)== 
+1nc- debt ceiling, omb, introna k, case defense
+2nc- omb and debt ceiling
+1nr- introna k
+2nr- introna k
+
+==Round 4- Hooch (Port Security)== 
+1nc- debt ceiling, omb, introna k, case defense
+2nc- omb and debt ceiling
+1nr- introna k
+2nr- introna k
+
+==Round Quarters- Johns Creek (Nuclearism)== 
+1nc- guilt k, introna k, state cp, framework
+2nc- framework and condo
+1nr- introna k
+2nr- introna k
+
+=Emory= 
+==Note== 
+**//Swapnil [the 2A] went maverick at the BF, so he gave all Chamblee neg speeches as well//**
+==Round 2- Lex (Guam)== 
+1nc- t-mil, nms cp, hagel, introna k
+2nc- introna
+1nr- nms cp
+2nr- nms cp
+
+==Round 3- Northview (CCS)== 
+1nc- introna k, t-pipelines, omb, hagel
+2nc- omb and hagel
+1nr- introna
+2nr- hagel and omb cp
+
+==Round 6- Highland Park (Inland Waterways)== 
+1nc- nanotech da, hagel, introna, omb
+2nc- hagel and omb
+1nr- introna k
+2nr-introna k
+
+=JV State= 
+==Round 1- Hooch (Port Security)== 
+1nc- t-mil/invest, food prices da, coal industry da, politics, fed cp, and security k
+2nc- politics and fed cp
+1nr- t-mil/invest
+2nr- politics and fed cp
+
+==Round 3- Alpharetta (Next Gen)== 
+1nc- t-communications/investment, cyberattacks da, oil da, politics da, fed cp, and inontra k
+2nc- fed cp and politics
+1nr- heg bad, dedev, and oil da
+2nr- fed cp and politics
+
+==Round Quarters- Pace (Title 11)== 
+1nc- t-investment/physical assets, introna k, fed cp, immigration reform da, freight da
+2nc- fed cp and immigration reform
+1nr- t-investment
+2nr- fed cp and immigration reform
+
+=Harvard= 
+==Round 2- Agape Leaders (Historical Genealogy)== 
+1nc- t-invest/infrastructure, introna, and western guilt k
+2nc- t-invest/inf., and western guilt
+1nr- introna
+2nr- introna
+
+==Round 3- Natrona County (Inland Waterways)== 
+1nc- security k, food prices da, oil da, immigration da, fed cp
+2nc- immigration and fed cp
+1nr- security k
+2nr- security k
+
+==Round 5- Rogers Heritage (Mississippi Waterways)== 
+1nc- introna, immigration, and fed cp
+2nc- immigration and fed cp
+1nr- introna
+2nr- immigration and fed cp
+
+=UGA= 
+==Round 1- Westminster (Title 11)== 
+1nc- introna, t-invest/inf., freight da, immigration, fed cp
+2nc- fed cp and immigration
+1nr- topicality
+2nr- topicality
+
+==Round 3- Druid Hills (Bikes)== 
+1nc- introna, oil da, immigration, fed cp
+2nc- immigration and fed cp
+1nr- introna
+2nr- immigration and condo
+
+==Round 5- Johns Creek (Red Pedagogy)== 
+1nc- framework, introna, and guilt k
+2nc- framework
+1nr- guilt k
+2nr- guilt k
+
+=GFCA= 
+==Round 2- Pace (Gas Tax)== 
+1nc- security k, politics, bonds, t-investment
+2nc- security k
+1nr- dedev
+2nr- dedev
+
+==Round 3- Roswell (Port Dredging)== 
+1nc- security k, politics, bonds, t-underlying inf.
+2nc- politics, bonds, case
+1nr- security k
+2nr- security k
+
+==Round 5- Woodward (Federal Reserve)== 
+1nc- introna k, politics, t-invest/usfg, privates
+2nc- privates and politics
+1nr- dedev and case defense
+2nr- politics and case defense
+
+=Woodward= 
+==Round 2- Alpharetta (Icebreakers)==
